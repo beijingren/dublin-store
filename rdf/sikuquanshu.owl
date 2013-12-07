@@ -1,0 +1,28 @@
+Prefix(:=<http://example.org/owl/sikuquanshu/>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Ontology(<http://example.org/owl/sikuquanshu/>
+
+	Declaration(Class(:Human))
+
+	SubClassOf(:Human owl:Thing)
+
+	Declaration(ObjectProperty(:zi))
+	Declaration(ObjectProperty(:hao))
+	Declaration(ObjectProperty(:hasChild))
+	Declaration(ObjectProperty(:hasWife))
+
+	Declaration(NamedIndividual(:曹操))
+	ClassAssertion(:Human :曹操)
+	ObjectPropertyAssertion(:zi :曹操 :孟德)
+	ObjectPropertyAssertion(:hasWife :曹操 :卞氏)
+	ObjectPropertyAssertion(:hasChild :曹操 :曹丕)
+	ObjectPropertyAssertion(:hasChild :曹操 :曹彰)
+	ObjectPropertyAssertion(:hasChild :曹操 :曹植)
+	ObjectPropertyAssertion(:hasChild :曹操 :曹熊)
+
+	Declaration(NamedIndividual(:曹熊))
+	ClassAssertion(:Human :曹熊)
+	ObjectPropertyAssertion(:hasChild :曹熊 :曹炳)
+
+)
