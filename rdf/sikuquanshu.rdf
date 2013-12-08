@@ -24,11 +24,40 @@
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#gYear -->
+
+    <rdfs:Datatype rdf:about="&xsd;gYear"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Object Properties
     //
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu/birthPlace -->
+
+    <owl:ObjectProperty rdf:about="http://example.org/owl/sikuquanshu/birthPlace"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu/deathPlace -->
+
+    <owl:ObjectProperty rdf:about="http://example.org/owl/sikuquanshu/deathPlace"/>
     
 
 
@@ -50,9 +79,38 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu/shihao -->
+
+    <owl:ObjectProperty rdf:about="http://example.org/owl/sikuquanshu/shihao"/>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu/zi -->
 
     <owl:ObjectProperty rdf:about="http://example.org/owl/sikuquanshu/zi"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu/birthYear -->
+
+    <owl:DatatypeProperty rdf:about="http://example.org/owl/sikuquanshu/birthYear"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu/deathYear -->
+
+    <owl:DatatypeProperty rdf:about="http://example.org/owl/sikuquanshu/deathYear"/>
     
 
 
@@ -67,10 +125,42 @@
     
 
 
-    <!-- http://example.org/owl/sikuquanshu/Human -->
+    <!-- http://example.org/owl/sikuquanshu/City -->
 
-    <owl:Class rdf:about="http://example.org/owl/sikuquanshu/Human">
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu/City">
+        <rdfs:subClassOf rdf:resource="http://example.org/owl/sikuquanshu/Settlement"/>
+    </owl:Class>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu/Person -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu/Person">
         <rdfs:subClassOf rdf:resource="&owl;Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu/Place -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu/Place">
+        <rdfs:subClassOf rdf:resource="&owl;Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu/PopulatedPlace -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu/PopulatedPlace">
+        <rdfs:subClassOf rdf:resource="http://example.org/owl/sikuquanshu/Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu/Settlement -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu/Settlement">
+        <rdfs:subClassOf rdf:resource="http://example.org/owl/sikuquanshu/PopulatedPlace"/>
     </owl:Class>
     
 
@@ -83,6 +173,12 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu/XXX -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu/XXX"/>
     
 
 
@@ -113,13 +209,18 @@
     <!-- http://example.org/owl/sikuquanshu/曹操 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu/曹操">
-        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu/Human"/>
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu/Person"/>
+        <birthYear rdf:datatype="&xsd;gYear">155</birthYear>
+        <deathYear rdf:datatype="&xsd;gYear">220</deathYear>
+        <birthPlace rdf:resource="http://example.org/owl/sikuquanshu/XXX"/>
         <hasWife rdf:resource="http://example.org/owl/sikuquanshu/卞氏"/>
         <zi rdf:resource="http://example.org/owl/sikuquanshu/孟德"/>
         <hasChild rdf:resource="http://example.org/owl/sikuquanshu/曹丕"/>
         <hasChild rdf:resource="http://example.org/owl/sikuquanshu/曹彰"/>
         <hasChild rdf:resource="http://example.org/owl/sikuquanshu/曹植"/>
         <hasChild rdf:resource="http://example.org/owl/sikuquanshu/曹熊"/>
+        <shihao rdf:resource="http://example.org/owl/sikuquanshu/武王"/>
+        <deathPlace rdf:resource="http://example.org/owl/sikuquanshu/洛陽"/>
     </owl:NamedIndividual>
     
 
@@ -139,9 +240,21 @@
     <!-- http://example.org/owl/sikuquanshu/曹熊 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu/曹熊">
-        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu/Human"/>
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu/Person"/>
         <hasChild rdf:resource="http://example.org/owl/sikuquanshu/曹炳"/>
     </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu/武王 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu/武王"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu/洛陽 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu/洛陽"/>
 </rdf:RDF>
 
 
