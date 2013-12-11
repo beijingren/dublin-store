@@ -1,14 +1,14 @@
-Prefix(:=<http://example.org/owl/sikuquanshu/>)
+Prefix(:=<http://example.org/owl/sikuquanshu#>)
 Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
 Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
-Ontology(<http://example.org/owl/sikuquanshu/>
+
+Ontology(<http://example.org/owl/sikuquanshu#>
 
 	Declaration(Class(:Person))
 	Declaration(Class(:City))
 	Declaration(Class(:Settlement))
 	Declaration(Class(:PopulatedPlace))
 	Declaration(Class(:Place))
-
 
 	SubClassOf(:Person owl:Thing)
 	SubClassOf(:Place owl:Thing)
@@ -18,6 +18,7 @@ Ontology(<http://example.org/owl/sikuquanshu/>
 
 	Declaration(ObjectProperty(:zi))
 	Declaration(ObjectProperty(:hao))
+
 	Declaration(ObjectProperty(:hasChild))
 	Declaration(ObjectProperty(:hasWife))
 
@@ -26,19 +27,24 @@ Ontology(<http://example.org/owl/sikuquanshu/>
 	ObjectPropertyAssertion(:zi :曹操 :孟德)
 	ObjectPropertyAssertion(:shihao :曹操 :武王)
 
-	ObjectPropertyAssertion(:birthPlace :曹操 :XXX)
 	DataPropertyAssertion(:birthYear :曹操 "155"^^xsd:gYear)
-	ObjectPropertyAssertion(:deathPlace :曹操 :洛陽)
 	DataPropertyAssertion(:deathYear :曹操 "220"^^xsd:gYear)
+	ObjectPropertyAssertion(:birthPlace :曹操 :XXX)
+	ObjectPropertyAssertion(:deathPlace :曹操 :洛陽)
 	ObjectPropertyAssertion(:hasChild :曹操 :曹丕)
 	ObjectPropertyAssertion(:hasChild :曹操 :曹彰)
 	ObjectPropertyAssertion(:hasChild :曹操 :曹植)
 	ObjectPropertyAssertion(:hasChild :曹操 :曹熊)
 	ObjectPropertyAssertion(:hasWife :曹操 :卞氏)
 
-
 	Declaration(NamedIndividual(:曹熊))
 	ClassAssertion(:Person :曹熊)
 	ObjectPropertyAssertion(:hasChild :曹熊 :曹炳)
 
+	Declaration(NamedIndividual(:徐宣))
+	ClassAssertion(:Person :徐宣)
+
+	DataPropertyAssertion(:deathYear :徐宣 "236"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :徐宣 :寶堅)
+	ObjectPropertyAssertion(:birthPlace :徐宣 :海西)
 )
