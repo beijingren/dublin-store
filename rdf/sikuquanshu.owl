@@ -9,6 +9,8 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	Declaration(Class(:Settlement))
 	Declaration(Class(:PopulatedPlace))
 	Declaration(Class(:Place))
+	Declaration(Class(:SexagenaryCycle))
+	Declaration(Class(:OfficialTitle))
 
 	SubClassOf(:Person owl:Thing)
 	SubClassOf(:Place owl:Thing)
@@ -29,13 +31,22 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 
 	DataPropertyAssertion(:birthYear :曹操 "155"^^xsd:gYear)
 	DataPropertyAssertion(:deathYear :曹操 "220"^^xsd:gYear)
-	ObjectPropertyAssertion(:birthPlace :曹操 :XXX)
+	ObjectPropertyAssertion(:birthPlace :曹操 :譙縣)
 	ObjectPropertyAssertion(:deathPlace :曹操 :洛陽)
 	ObjectPropertyAssertion(:hasChild :曹操 :曹丕)
 	ObjectPropertyAssertion(:hasChild :曹操 :曹彰)
 	ObjectPropertyAssertion(:hasChild :曹操 :曹植)
 	ObjectPropertyAssertion(:hasChild :曹操 :曹熊)
 	ObjectPropertyAssertion(:hasWife :曹操 :卞氏)
+
+	Declaration(NamedIndividual(:曹丕))
+	ClassAssertion(:Emperor :曹丕)
+	ObjectPropertyAssertion(:zi :曹丕 :子桓)
+	ObjectPropertyAssertion(:shihao :曹丕 :文皇帝)
+
+	DataPropertyAssertion(:birthYear :曹丕 "187"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :曹丕 "226"^^xsd:gYear)
+	ObjectPropertyAssertion(:hasChild :曹丕 :曹睿)
 
 	Declaration(NamedIndividual(:曹熊))
 	ClassAssertion(:Person :曹熊)
@@ -47,4 +58,19 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	DataPropertyAssertion(:deathYear :徐宣 "236"^^xsd:gYear)
 	ObjectPropertyAssertion(:zi :徐宣 :寶堅)
 	ObjectPropertyAssertion(:birthPlace :徐宣 :海西)
+
+	Declaration(NamedIndividual(:徐準))
+	ClassAssertion(:Person :徐準)
+
+	ObjectPropertyAssertion(:zi :徐準 :慕萊)
+	ObjectPropertyAssertion(:hao :徐準 :立亭)
+	ObjectPropertyAssertion(:jinshi :徐準 "1780"^^xsd:gYear)
+
+	ObjectPropertyAssertion(:birthPlace :徐準 :遵義)
+
+	ClassAssertion(:City :洛陽)
+
+	ClassAssertion(:SexagenaryCycle :庚子)
+
+	ClassAssertion(:OfficialTitle :諫議大夫)
 )
