@@ -79,6 +79,12 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#jinshi -->
+
+    <owl:ObjectProperty rdf:about="http://example.org/owl/sikuquanshu#jinshi"/>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu#shihao -->
 
     <owl:ObjectProperty rdf:about="http://example.org/owl/sikuquanshu#shihao"/>
@@ -133,6 +139,18 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#Emperor -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Emperor"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#OfficialTitle -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#OfficialTitle"/>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu#Person -->
 
     <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Person">
@@ -165,6 +183,12 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#SexagenaryCycle -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -176,15 +200,15 @@
     
 
 
-    <!-- http://example.org/owl/sikuquanshu#XXX -->
-
-    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#XXX"/>
-    
-
-
     <!-- http://example.org/owl/sikuquanshu#卞氏 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#卞氏"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#子桓 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#子桓"/>
     
 
 
@@ -200,6 +224,14 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#庚子 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#庚子">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu#徐宣 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#徐宣">
@@ -211,9 +243,39 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#徐準 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#徐準">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#Person"/>
+        <zi rdf:resource="http://example.org/owl/sikuquanshu#慕萊"/>
+        <hao rdf:resource="http://example.org/owl/sikuquanshu#立亭"/>
+        <birthPlace rdf:resource="http://example.org/owl/sikuquanshu#遵義"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#慕萊 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#慕萊"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#文皇帝 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#文皇帝"/>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu#曹丕 -->
 
-    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#曹丕"/>
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#曹丕">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#Emperor"/>
+        <birthYear rdf:datatype="&xsd;gYear">187</birthYear>
+        <deathYear rdf:datatype="&xsd;gYear">226</deathYear>
+        <zi rdf:resource="http://example.org/owl/sikuquanshu#子桓"/>
+        <shihao rdf:resource="http://example.org/owl/sikuquanshu#文皇帝"/>
+        <hasChild rdf:resource="http://example.org/owl/sikuquanshu#曹睿"/>
+    </owl:NamedIndividual>
     
 
 
@@ -229,7 +291,6 @@
         <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#Person"/>
         <birthYear rdf:datatype="&xsd;gYear">155</birthYear>
         <deathYear rdf:datatype="&xsd;gYear">220</deathYear>
-        <birthPlace rdf:resource="http://example.org/owl/sikuquanshu#XXX"/>
         <hasWife rdf:resource="http://example.org/owl/sikuquanshu#卞氏"/>
         <zi rdf:resource="http://example.org/owl/sikuquanshu#孟德"/>
         <hasChild rdf:resource="http://example.org/owl/sikuquanshu#曹丕"/>
@@ -238,6 +299,7 @@
         <hasChild rdf:resource="http://example.org/owl/sikuquanshu#曹熊"/>
         <shihao rdf:resource="http://example.org/owl/sikuquanshu#武王"/>
         <deathPlace rdf:resource="http://example.org/owl/sikuquanshu#洛陽"/>
+        <birthPlace rdf:resource="http://example.org/owl/sikuquanshu#譙縣"/>
     </owl:NamedIndividual>
     
 
@@ -263,6 +325,12 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#曹睿 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#曹睿"/>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu#武王 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#武王"/>
@@ -271,13 +339,41 @@
 
     <!-- http://example.org/owl/sikuquanshu#洛陽 -->
 
-    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#洛陽"/>
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#洛陽">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#City"/>
+    </owl:NamedIndividual>
     
 
 
     <!-- http://example.org/owl/sikuquanshu#海西 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#海西"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#立亭 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#立亭"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#諫議大夫 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#諫議大夫">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#OfficialTitle"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#譙縣 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#譙縣"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#遵義 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#遵義"/>
 </rdf:RDF>
 
 
