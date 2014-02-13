@@ -20,6 +20,7 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 
 	Declaration(ObjectProperty(:zi))
 	Declaration(ObjectProperty(:hao))
+	Declaration(ObjectProperty(:jinshi))
 
 	Declaration(ObjectProperty(:hasChild))
 	Declaration(ObjectProperty(:hasWife))
@@ -64,7 +65,6 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 
 	ObjectPropertyAssertion(:zi :徐準 :慕萊)
 	ObjectPropertyAssertion(:hao :徐準 :立亭)
-	ObjectPropertyAssertion(:jinshi :徐準 "1780"^^xsd:gYear)
 
 	ObjectPropertyAssertion(:birthPlace :徐準 :遵義)
 
