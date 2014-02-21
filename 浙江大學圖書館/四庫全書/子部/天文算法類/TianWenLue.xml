@@ -19,92 +19,11 @@
         </publicationStmt>
 
         <sourceDesc>
-            <msDes>
-                <msIdentifier >
-                    <settlement>Taiwan, Taipei</settlement>
-                    <repository lang="en">National Library</repository>
-                    <repository lang="zh">國家圖書館</repository>
-                    <idno>305.2 06257</idno>
-                    <physDesc>
-                        <objectDesc>
-                            <dimensions scope="all" type="leaf" unit="cm">
-                                <height>21.7</height>
-                                <width>14.9</width>
-                            </dimensions>
-                        </objectDesc>
-                        <handDesc>
-                            Written in more than one hand.
-                        </handDesc>
-                    </physDesc>
-                    <sealDesc>
-                        <seal type="original">
-                            <transcription>國立中/ 央圖書/ 館考藏</transcription>
-                            <tranlation></tranlation>
-                            <description lang="zh">朱文方印</description>
-                            <description lang="en">Red square seal in three columns.</description>
-                        </seal>
-                    </sealDesc>
-                    <msContents>
-                        <msItem type="preface">
-                            <head lang="zh">題天問略</head>
-                            <seal type="printed">
-                                <transcription>周希令印</transcription>
-                                <description></description>
-                            </seal>
-                        </msItem>
-                        <msItem type="preface">
-                            <head lang="zh">天問略小序</head>
-                            <name>孔貞時</name>
-                            <date>萬曆乙卯</date>
-                            <seal type="printed">
-                                <transcription>孔貞時印</transcription>
-                            </seal>
-                            <seal type="printed">
-                                <transcription>X中甫X</transcription>
-                            </seal>
-                        </msItem>
-                        <msItem type="preface">
-                            <head lang="zh">刻天問略題詞</head>
-                            <name>王應熊</name>
-                            <seal type="printed">
-                                <transcription>王應熊印</transcription>
-                            </seal>
-                            <seal type="printed">
-                                <transcription>???</transcription>
-                            </seal>
-                        </msItem>
-                        <msItem type="preface">
-                            <head lang="zh">天問畧自序</head>
-                            <name>陽瑪諾</name>
-                            <date>萬曆乙卯</date>
-                            <seal type="printed">
-                                <transcription>IHS</transcription>
-                                <description>Jesuit monogram with ornament.</description>
-                            </seal>
-                        </msItem>
-                        <msItem type="body">
-                            <head lang="zh">天問略</head>
-                            <name>陽瑪諾</name>
-                        </msItem>
-                    </msContents>
-                </msIdentifier>
-                
-                <msIdentifier>
-                    <settlement>Vatican</settlement>
-                    <repository>Vatican Library</repository>
-                    <idno>Borgia Cinese, 324</idno>
-                </msIdentifier>
-            </msDes>
-            <listWit>
-                <witness xml:id="TWL_ep">Editio princeps</witness>
-                <witness xml:id="TWL_TXCH">Tianxue Chuhan</witness>
-                <witness xml:id="TWL_SKQS">Siku quanshu</witness>
-                <witness xml:id="TWL_GJTSJC">Qinding gujin tushu jicheng</witness>
-                <witness xml:id="TWL_YHZC">Yihai Yuchen</witness>
-            </listWit>
+	 <p>XXX</p>
         </sourceDesc>
         </fileDesc>
     </teiHeader>
+
     <text>
         <front>
             <div type="preface">
