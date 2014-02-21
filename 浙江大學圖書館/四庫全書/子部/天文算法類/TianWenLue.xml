@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<TEI xmlns="http：//www.tei-c.org/ns/1.0" xmlns:xlink="http：//www.w3.org/1999/xlink" xmlns:xsi="http：//www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http：//www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="given" xml:lang="zh">天問略</title>
-                <title type="translated" xml:lang="en">Epitome of Questions on the Heavens</title>
-                <title type="transliteration">Tianwen lüe</title>
+                <title xml:lang="zh">天問略</title>
+                <title xml:lang="en">Epitome of Questions on the Heavens</title>
                 <author>
                         <name>
                         <choice>
@@ -14,7 +13,6 @@
                         </name>
                 </author>
             </titleStmt>
-        </fileDesc>
 
         <publicationStmt>
                 <p>This document is published under a CC Attribution-Share Alike License</p>
@@ -105,6 +103,7 @@
                 <witness xml:id="TWL_YHZC">Yihai Yuchen</witness>
             </listWit>
         </sourceDesc>
+        </fileDesc>
     </teiHeader>
     <text>
         <front>
