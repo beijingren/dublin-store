@@ -1,4 +1,4 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
 <TEI xmlns="http：//www.tei-c.org/ns/1.0" xmlns:xlink="http：//www.w3.org/1999/xlink" xmlns:xsi="http：//www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http：//www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -6,9 +6,20 @@
                 <title type="given" xml:lang="zh">天問略</title>
                 <title type="translated" xml:lang="en">Epitome of Questions on the Heavens</title>
                 <title type="transliteration">Tianwen lüe</title>
+                <author>
+                        <name>
+                        <choice>
+                        <sic>XXX</sic>
+                        </choice>
+                        </name>
+                </author>
             </titleStmt>
         </fileDesc>
-        <catalog id="TWL"/>
+
+        <publicationStmt>
+                <p>This document is published under a CC Attribution-Share Alike License</p>
+        </publicationStmt>
+
         <sourceDesc>
             <msDes>
                 <msIdentifier >
