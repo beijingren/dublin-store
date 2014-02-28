@@ -275,7 +275,7 @@
                 </p>
            
                 <p xml:lang="zh">
-                    <
+
                     問：人居地上依其目力所及獨見一重自東而西一日一<lb edRef="Guotu6257"/>
                     週耳今設十二重何<term>徵</term>。
                     
@@ -323,13 +323,24 @@
                     一物自發二動耳。且天體甚堅。非水可比。胡能穿之。兩<lb edRef="Guotu6257"/>
                     天之連不容一物。又焉分哉。<lb edRef="Guotu6257"/>
                 </p>
-                
                 <p xml:lang="zh">
                     問：既有十二重天。敢問太陽何位。曰：自下往上在第四位。<lb edRef="Guotu6257"/>
                     七政之中也日得其中為其本所光及餘政喧及下地<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="3B"/>
                     <figure xml:id="fig1">
                         <label>十二重天圖</label>
+                        <desc>第十二重天主上帝嵗見天堂諸神所居永靜不動</desc>
+                        <desc>第十一重無星宗動天帶轉動下十重一日作一周</desc>
+                        <desc>第十重南北歲差</desc>
+                        <desc>第九重東西歲差</desc>
+                        <desc>第八重五十二相即三垣二十八設天</desc>
+                        <desc>第七重填星即土星天</desc>
+                        <desc>第六重嵗星即木星天</desc>
+                        <desc>第五重熒惑即火星天</desc>
+                        <desc>第四重日輪天</desc>
+                        <desc>第三重太白即金星天</desc>
+                        <desc>第二重辰星即水星天</desc>
+                        <desc>第一重月輪天</desc>
                     </figure>
                     故也。為其本所者。七<lb edRef="Guotu6257"/>
                     政之中日最貴。尊貴<lb edRef="Guotu6257"/>
@@ -570,7 +581,7 @@
                 </p>
                 <figure xml:id="fig6">
                     <label>月正當日下見食圖</label>
-                <figure/>
+                </figure>
                 <p xml:lang="zh">
                     如上圖甲為日乙為<lb edRef="Guotu6257"/>
                     月丙為人居地靣月<lb edRef="Guotu6257"/>
@@ -904,7 +915,7 @@
                     無晝若北極出地八十度則夏十節氣皆在地平上冬<lb edRef="Guotu6257"/>
                     在下晝夜長短全為百二十餘日若北極出地九十度<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="24B"/>
-                    <figure>北極為天頂半年為晝半年為夜圖</figure>
+                    <figure xml:id="fig15"><label>北極為天頂半年為晝半年為夜圖</label></figure>
                     則此地以北極為天<lb edRef="Guotu6257"/>
                     頂以赤道為地平赤<lb edRef="Guotu6257"/>
                     道北諸節氣全在地<lb edRef="Guotu6257"/>
@@ -1189,7 +1200,7 @@
                 </p>
                     <pb edRef="Guotu6257" n="38B"/>
                 <p xml:lang="zh">
-                    <figure xml:id="19">
+                    <figure xml:id="fig19">
                         <label>月食由地影所蔽圖</label>
                     </figure>
                     如上圖甲為日輪乙<lb edRef="Guotu6257"/>
