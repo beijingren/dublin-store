@@ -1,3 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+        <titleStmt>
+                <title xml:lang="zh">天地渾儀說</title>
+                <title xml:lang="en">XXX</title>
+                <author>
+                        <name>
+                        <choice>
+                        <sic>利瑪竇</sic>
+                        </choice>
+                        </name>
+                </author>
+        </titleStmt>
+
+        <publicationStmt>
+                <p>This document is published under a CC Attribution-Share Alike License</p>
+        </publicationStmt>
+
+        <sourceDesc>
+                <p>XXX</p>
+        </sourceDesc>
+</fileDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div type="chapter" n="148">
+
+<p>
 欽定四庫全書
 　乾坤體義卷上
 　　　　　　　　　　　　明　利瑪竇　撰
@@ -1256,3 +1288,11 @@
 　　　　之椎輪矣乾隆四十六年九月恭校上
 　　　　　　　總纂官臣紀昀臣陸錫熊臣孫士毅
 　　　　　　　　　　總　校　官臣陸　費　墀
+
+</p>
+
+</div> <!-- Chapter -->
+
+</body>
+</text>
+</TEI>
