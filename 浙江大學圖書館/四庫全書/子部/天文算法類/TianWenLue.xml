@@ -6,7 +6,7 @@
                     <title type="given" xml:lang="zh">天問略</title>
                     <title type="translated" xml:lang="en">Epitome of Questions on the Heavens</title>
                     <title type="transliteration">Tianwen lüe</title>
-                    <author>陽瑪諾</author>
+                <author><choice><sic>陽瑪諾</sic></choice></author>
             </titleStmt>
             <publicationStmt>
                 <p>This document is published under a CC Attribution-Share Alike License</p>
@@ -277,7 +277,7 @@
                 <p xml:lang="zh">
 
                     問：人居地上依其目力所及獨見一重自東而西一日一<lb edRef="Guotu6257"/>
-                    週耳今設十二重何<term>徵</term>。
+                    週耳。今設十二重何<term>徵</term>。
                     
                     曰：萬物或靜或動。靜者獨有一<lb edRef="Guotu6257"/>
                     靜。是靜無動。動者獨有一動。是動無靜。終古以來未有<lb edRef="Guotu6257"/>
@@ -299,8 +299,8 @@
                     東。沒于西。月與諸星隨之以旋其自東而西者。又昭昭<lb edRef="Guotu6257"/>
                     然。此必有一天焉為之主宰。為之牽屬。而日月諸星之<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="2B"/>
-                    天因之。則九重天是也。故自東而西者。宗動天也自西<lb edRef="Guotu6257"/>
-                    而東者。日月諸星之天也。自西而東者。日月諸星之本<lb edRef="Guotu6257"/>
+                    天因之。則九重天是也。故自東而西者，宗動天也。自西<lb edRef="Guotu6257"/>
+                    而東者，日月諸星之天也。自西而東者。日月諸星之本<lb edRef="Guotu6257"/>
                     動也。自東而西者。日月諸星之帶動也。明乎二動。得天<lb edRef="Guotu6257"/>
                     體也。第九第十重天其說甚長。宜有專書備論。<lb edRef="Guotu6257"/>
                 </p>
@@ -312,7 +312,7 @@
                     東人之動也自東而西人之因船帶動也。雖有二動非<lb edRef="Guotu6257"/>
                     相反動。又如車輪上有蟻。行自南而北。其輪之轉自北<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="3A"/>
-                    而南。實見此蟻行有二動。而非相反向也。一從自動一<lb edRef="Guotu6257"/>
+                    而南。實見此蟻行有二動。而非相反向也。一從自動，一<lb edRef="Guotu6257"/>
                     從外帶故也。日月諸星之動何不其然。<lb edRef="Guotu6257"/>
                 </p>
                 <p xml:lang="zh">
@@ -329,7 +329,7 @@
                     <pb edRef="Guotu6257" n="3B"/>
                     <figure xml:id="fig1">
                         <label>十二重天圖</label>
-                        <desc>第十二重天主上帝嵗見天堂諸神所居永靜不動</desc>
+                        <desc>第十二重天主上帝發見天堂諸神所居永靜不動</desc>
                         <desc>第十一重無星宗動天帶轉動下十重一日作一周</desc>
                         <desc>第十重南北歲差</desc>
                         <desc>第九重東西歲差</desc>
@@ -352,7 +352,7 @@
                     弦。對則望隨其近遠<lb edRef="Guotu6257"/>
                     以為明闇焉。五星列<lb edRef="Guotu6257"/>
                     宿亦復如是。蓋日居<lb edRef="Guotu6257"/>
-                    <pb edRef="Guotu6257"/>
+                    <pb edRef="Guotu6257" n="4A"/>
                     其中適得上下照映也。暄及下地者。日光在中下濟萬<lb edRef="Guotu6257"/>
                     物氣以暄之。乃得調和。若居最上，則溫煖不及諸物難<lb edRef="Guotu6257"/>
                     以滋生。若居最下，則燥熱太甚，諸物受其暵損。故日得<lb edRef="Guotu6257"/>
@@ -363,14 +363,15 @@
                 <head xml:lang="zh">日天本動及日距赤道度分</head>
                 <head xml:lang="en">The movements of the solar heaven and the Sun’s distance from the equator in degrees</head>
                 <p xml:lang="zh">
-                    <term>赤道</term>，則第十一重宗動天之分中也。周天三百六十度。去<lb edRef="Guotu6257"/>
-                    南極九十度，去北極亦九十度為赤道。所謂天之中。而<lb edRef="Guotu6257"/>
+                    <term>赤道</term>，則第十一重<term>宗動天</term>之分中也。周天三百六十度。去<lb edRef="Guotu6257"/>
+                    南極九十度，去北極亦九十度為<term>赤道</term>。所謂天之中。而<lb edRef="Guotu6257"/>
                     其南北二極天之極也。<term>黃道</term>，則第四重日天之分中也。<lb edRef="Guotu6257"/>
                     周天三百六十度，南北亦各距九十度為黃道。所謂日<lb edRef="Guotu6257"/>
                     天之中也。日天本動自西而東。其南北二極離宗動天<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="4B"/>
                     <figure xml:id="fig2">
                         <label>黃赤道二分二至圖</label>
+                        <desc>立春、雨水、驚蟄、春分、清明、穀雨、立夏、小滿、芒種、夏至、小暑、大暑、立秋、處暑、白露、秋分、寒露、霜降、立冬、小雪、大雪、冬至、小寒、大寒</desc>
                     </figure>
                     赤道之極二十三度<lb edRef="Guotu6257"/>
                     半。黃道以南以北離<lb edRef="Guotu6257"/>
@@ -391,27 +392,27 @@
                     春秋分。<lb edRef="Guotu6257"/>  
                 </p>
                 <p xml:lang="zh">
-                    <term>宗動天</term>自東而西一日一周因而帶動其下十重諸天亦<lb edRef="Guotu6257"/>
-                    自東而西一日一周日一日約行一度一歲一周故自<lb edRef="Guotu6257"/>
-                    戊冬至至壬春分為九十度九十日自動春分至巳夏<lb edRef="Guotu6257"/>
-                    至自巳夏至至癸秋分自癸秋分至戊冬至亦然畧論<lb edRef="Guotu6257"/>
-                    三百六十五日有奇一周天也宗動天自東而西一日<lb edRef="Guotu6257"/>
-                    一周即此周日之間日之自西而東自行一度人只見<lb edRef="Guotu6257"/>
+                    <term>宗動天</term>自東而西一日一周。因而帶動其下十重諸天。亦<lb edRef="Guotu6257"/>
+                    自東而西一日一周。日一日約行一度一歲一周。故自<lb edRef="Guotu6257"/>
+                    戊冬至，至壬春分為九十度，九十日。自壬春分至巳夏<lb edRef="Guotu6257"/>
+                    至，自巳夏至至癸秋分，自癸秋分至戊冬至，亦然。畧論<lb edRef="Guotu6257"/>
+                    三百六十五日有奇，一周天也。宗動天自東而西一日<lb edRef="Guotu6257"/>
+                    一周，即此周日之間。日之自西而東自行一度。人只見<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="5B"/>
-                    其自東而西左旋而巳初不見其右行者何也以其外<lb edRef="Guotu6257"/>
-                    動之自東而西者甚疾內動之自西而東者甚遲故也<lb edRef="Guotu6257"/>
-                    然而因其近遠天項可以證之春分以後日過赤道北<lb edRef="Guotu6257"/>
-                    而上秋分以後日過赤道南而下其上其下非日有偏<lb edRef="Guotu6257"/>
-                    行緣與宗動天不同極耳試看上圖庚辛為日天之極<lb edRef="Guotu6257"/>
-                    若日輪在戊冬至以至壬春分漸上以至巳夏至亦上<lb edRef="Guotu6257"/>
-                    過巳夏至至癸秋分即下至戊冬至亦下上下由于本<lb edRef="Guotu6257"/>
-                    天之極原離赤道之極二十三度半故日輪居本天之<lb edRef="Guotu6257"/>
-                    中亦離赤道南北二十三度半而春秋分必相交乃知<lb edRef="Guotu6257"/>
-                    氣不參差無以成化時不寒暑無以合序物不錯雜無
+                    其自東而西左旋而巳。初不見其右行者何也。以其外<lb edRef="Guotu6257"/>
+                    動之自東而西者甚疾，內動之自西而東者甚遲，故也。<lb edRef="Guotu6257"/>
+                    然而因其近遠天頂，可以證之。春分以後日過赤道北<lb edRef="Guotu6257"/>
+                    而上，秋分以後日過赤道南而下。其上其下，非日有偏<lb edRef="Guotu6257"/>
+                    行。緣與宗動天不同極耳。試看上圖，庚辛為日天之極。<lb edRef="Guotu6257"/>
+                    若日輪在戊冬至，以至壬春分漸上。以至巳夏至亦上。<lb edRef="Guotu6257"/>
+                    過巳夏至，至癸秋分即下，至戊冬至亦下，上下由于本<lb edRef="Guotu6257"/>
+                    天之極原離赤道之極二十三度半。故日輪居本天之<lb edRef="Guotu6257"/>
+                    中，亦離赤道南北二十三度半，而春秋分必相交。乃知<lb edRef="Guotu6257"/>
+                    氣不參差無以成化，時不寒暑，無以合序。物不錯雜無
                     <pb edRef="Guotu6257" n="6A"/>
-                    以生文儻日天二極與宗動天同則日動恒在赤道下<lb edRef="Guotu6257"/>
-                    絕無距度安得有東西運行之異以行變化而 貞觀<lb edRef="Guotu6257"/>
-                    貞明之體哉<lb edRef="Guotu6257"/>
+                    以生文。儻日天二極與宗動天同，則日動恒在赤道下。<lb edRef="Guotu6257"/>
+                    絕無距度，安得有東西運行之異，以行變化，而穪貞觀<lb edRef="Guotu6257"/>
+                    貞，明之體哉。<lb edRef="Guotu6257"/>
                 </p>
                 <p xml:lang="zh">
                     日輪正居日天之中日天動而日輪亦動日天運行之一<lb edRef="Guotu6257"/>
@@ -485,14 +486,14 @@
                     七度強即其距度也餘倣此<lb edRef="Guotu6257"/>
                 </p>
                 <p xml:lang="zh">
-                    問太陽平行一日一度一歲三百六十五度自春分至秋<lb edRef="Guotu6257"/>
+                    問：太陽平行一日一度一歲三百六十五度自春分至秋<lb edRef="Guotu6257"/>
                     分半歲宜行一百八十二度半半周天自秋分至春分<lb edRef="Guotu6257"/>
-                    亦然今不其然大 曆太陽自春分至秋分有空度自<lb edRef="Guotu6257"/>
+                    亦然今不其然<term>大統曆</term>太陽自春分至秋分有空度自<lb edRef="Guotu6257"/>
                     秋分至春分有隔度即今甲寅年春分至秋分四月二<lb edRef="Guotu6257"/>
                     十二日空一度五月二十日六月十四日亦有空度秋<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="9A"/>
                     分至春分十月十一日二十二日皆隔一度十一月十<lb edRef="Guotu6257"/>
-                    二日十二月十五日亦隔一度其非平行何也曰此理<lb edRef="Guotu6257"/>
+                    二日十二月十五日亦隔一度其非平行何也。曰：此理<lb edRef="Guotu6257"/>
                     甚廣非可易罄凡求日距赤道度分測北極出地多寡<lb edRef="Guotu6257"/>
                     定諸節氣真日算二食之真時刻皆以此理為最急也<lb edRef="Guotu6257"/>
                     今姑舉其略依上論七政各有本天所麗各有異動然<lb edRef="Guotu6257"/>
@@ -504,6 +505,8 @@
                     <pb edRef="Guotu6257" n="9B"/>
                     <figure xml:id="fig5">
                         <label>宗動天與黃道不同心圖</label>
+                        <desc>立春、雨水、驚蟄、春分、清明、穀雨、立夏、小滿、芒種、夏至、小暑、大暑、立秋、處暑、白露、秋分、寒露、霜降、立冬、小雪、大雪、冬至、小寒、大寒</desc>
+                        <desc>雙兄宮、金牛宮.........</desc>
                     </figure>
                     如右圖，甲為宗動天<lb edRef="Guotu6257"/>
                     之黃道，乙為太陽之<lb edRef="Guotu6257"/>
@@ -550,11 +553,11 @@
                     氣足<lb edRef="Guotu6257"/>
                 </p>
                 <p xml:lang="zh">
-                    問大綂曆自春分至秋分恒算得一百八十二日非一百<lb edRef="Guotu6257"/>
+                    問：大綂曆自春分至秋分恒算得一百八十二日非一百<lb edRef="Guotu6257"/>
                     八十七日也如甲寅年春分日為二月十四日秋分日<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257"/>
                     為八月十八日乃扣至一百八十二日足者自秋分至<lb edRef="Guotu6257"/>
-                    春分亦然其皆為平分何也曰定節氣法有二其一以<lb edRef="Guotu6257"/>
+                    春分亦然其皆為平分何也。曰：定節氣法有二其一以<lb edRef="Guotu6257"/>
                     太陽所行于本天度分其一以所行黃道度分大綂曆<lb edRef="Guotu6257"/>
                     定節氣非依黃道度分乃以日行本天度分定之若論<lb edRef="Guotu6257"/>
                     黃道度則所謂春秋分必在日躔二道之交今大綂曆<lb edRef="Guotu6257"/>
@@ -616,8 +619,8 @@
                     秒萬人萬目共作是觀別無同異與日不同<lb edRef="Guotu6257"/>
                 </p>
                 <p xml:lang="zh">
-                    問日蝕由于月揜其光凡每朔時日月同度又正過其下<lb edRef="Guotu6257"/>
-                    宜皆得食今不盡然何也曰日躔惟一黃道終古無出<lb edRef="Guotu6257"/>
+                    問：日蝕由于月揜其光凡每朔時日月同度又正過其下<lb edRef="Guotu6257"/>
+                    宜皆得食今不盡然何也。曰：日躔惟一黃道終古無出<lb edRef="Guotu6257"/>
                     其外也月于黃道有時在南在北故月道半出黃道北<lb edRef="Guotu6257"/>
                     半出黃道南而為南北二交吾國所謂龍頭龍尾是也<lb edRef="Guotu6257"/>
                     朔時若月在二交之外或南或北與日非經緯同度不<lb edRef="Guotu6257"/>
@@ -639,13 +642,13 @@
                     食也<lb edRef="Guotu6257"/>
                 </p>
                 <p xml:lang="zh">
-                    問日食若因月天在<lb edRef="Guotu6257"/>
+                    問：日食若因月天在<lb edRef="Guotu6257"/>
                     日天之下則水星金<lb edRef="Guotu6257"/>
                     星天亦在日天之下<lb edRef="Guotu6257"/>
                     而不見揜其光且月<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="14B"/>
                     天在金水二星之下月亦宜揜其光而金水有食如日<lb edRef="Guotu6257"/>
-                    矣今其食不顯何也曰水星金星雖正過日輪之下而<lb edRef="Guotu6257"/>
+                    矣今其食不顯何也。曰：水星金星雖正過日輪之下而<lb edRef="Guotu6257"/>
                     有與日同度時然金星大於水星而日大於金星一百<lb edRef="Guotu6257"/>
                     倍二星之體比日體甚小豈能揜其光而使人不見日<lb edRef="Guotu6257"/>
                     也吾國曆家過金水二星與日同度恒見日輪中有黑<lb edRef="Guotu6257"/>
@@ -654,14 +657,14 @@
                     揜之乃二星之光甚徵其體甚小故不明顯也<lb edRef="Guotu6257"/>
                 </p>
                 <p xml:lang="zh">
-                    問天地渾儀說曰地球大於金星三十六倍又二十七分<lb edRef="Guotu6257"/>
+                    問：天地渾儀說曰地球大於金星三十六倍又二十七分<lb edRef="Guotu6257"/>
                     之一大於月輪三十八倍又三分之一是金星大于月<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="15A"/>
                     <figure xml:id="fig9">
                         <label>金星在月上不揜日光圖</label>
                     </figure>
                     輪也夫月球能揜日光則金星更<lb edRef="Guotu6257"/>
-                    大亦何不揜日光乎曰凡物以形<lb edRef="Guotu6257"/>
+                    大亦何不揜日光乎。曰：凡物以形<lb edRef="Guotu6257"/>
                     相揜非惟論其大小又當計其遠<lb edRef="Guotu6257"/>
                     近蓋人目視物之時自目至物之<lb edRef="Guotu6257"/>
                     體射兩直線為直角形故愈近于<lb edRef="Guotu6257"/>
@@ -679,7 +682,7 @@
                     目最近故能揜日光也此其理也<lb edRef="Guotu6257"/>
                 </p>
                 <p xml:lang="zh">
-                    問日大于月固矣日輪較地球不知其大有幾曰吾國曆<lb edRef="Guotu6257"/>
+                    問：日大于月固矣日輪較地球不知其大有幾。曰：吾國曆<lb edRef="Guotu6257"/>
                     家著明此理有論甚廣測七政高下及大小之度分有<lb edRef="Guotu6257"/>
                     器甚準日大於地一百六十五倍又八分之三欲徵之<lb edRef="Guotu6257"/>
                     宜知圓光照圓體之影也圓光若照圓體同大其影廣<lb edRef="Guotu6257"/>
@@ -702,7 +705,7 @@
                     圖甲圓光小于乙<lb edRef="Guotu6257"/>
                     圓體丙影漸寬大<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="16B"/>
-                    line missing<lb edRef="Guotu6257"/>
+                    !!!line missing!!!<lb edRef="Guotu6257"/>
                     之物影其為漸小而有盡如第二圖也則以日輪圓光<lb edRef="Guotu6257"/>
                     大于地形也地之影漸銳而小至有盡焉甚明也凡星<lb edRef="Guotu6257"/>
                     月無光借日之光太陽照及其體則光生焉不然則否<lb edRef="Guotu6257"/>
@@ -721,8 +724,8 @@
                     今視日輪如小車輪猶之二十里高山視人如鳥矣<lb edRef="Guotu6257"/>
                 </p>
                 <p xml:lang="zh">
-                    問太陽早晚出入時近于地平見大午時近于天頂見小<lb edRef="Guotu6257"/>
-                    何也曰地球懸於空際居中無著其四際離天諸方同<lb edRef="Guotu6257"/>
+                    問：太陽早晚出入時近于地平見大午時近于天頂見小<lb edRef="Guotu6257"/>
+                    何也。曰：地球懸於空際居中無著其四際離天諸方同<lb edRef="Guotu6257"/>
                     一無近遠也以理論之其在東西出入方也太陽離地<lb edRef="Guotu6257"/>
                     凡一千六百萬餘里矣而人立地靣或自東視西或自<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="17B"/>
@@ -739,8 +742,8 @@
                     <pb edRef="Guotu6257" n="18A"/>
                 </p>
                 <p xml:lang="zh">
-                    問人在地靣視東視西者半徑各得一萬五千里豈以人<lb edRef="Guotu6257"/>
-                    之所立恰在地中乎曰地是圓體人之所立無論遠近<lb edRef="Guotu6257"/>
+                    問：人在地靣視東視西者半徑各得一萬五千里豈以人<lb edRef="Guotu6257"/>
+                    之所立恰在地中乎。曰：地是圓體人之所立無論遠近<lb edRef="Guotu6257"/>
                     中邊從其所立分之各得一半<lb edRef="Guotu6257"/>
                 </p>
             </div>
@@ -748,7 +751,7 @@
                 <head xml:lang="zh">晝夜時刻隨北極出地各有長短</head>
                 <head>Questions and answers regarding the duration of the day and night according to the location in relation to the North Pole</head>
                 <p xml:lang="zh">
-                    問晝夜長短不一時刻亦異何也曰晝夜長短由于太陽<lb edRef="Guotu6257"/>
+                    問：晝夜長短不一時刻亦異何也。曰：晝夜長短由于太陽<lb edRef="Guotu6257"/>
                     及南北極出入地平也北極出地即夏至晝長夜短冬<lb edRef="Guotu6257"/>
                     至晝短夜長南極出地反是其時勢異也為此夏至為<lb edRef="Guotu6257"/>
                     彼冬至故晝短夜長為此冬至為彼夏至故晝長夜短<lb edRef="Guotu6257"/>
@@ -864,7 +867,7 @@
                     同也天頂近于赤道則北極出地度數少即晝夜長短<lb edRef="Guotu6257"/>
                     亦少天頂遠于赤道則北極出地度分多即晝夜長短<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="22B"/>
-                    <figure>
+                    <figure xml:id="fig14">
                         <label>北極出地三十二度晝夜長短圖</label>
                     </figure>
                     亦多<lb edRef="Guotu6257"/>
@@ -936,7 +939,7 @@
                     前月半為昧爽秋分以後月半為黃昏也<lb edRef="Guotu6257"/>
                 </p>
                 <p xml:lang="zh">
-                    或曰一年半為晝半為夜何以証之曰吾西國人親所經<lb edRef="Guotu6257"/>
+                    或曰：一年半為晝半為夜何以証之。曰：吾西國人親所經<lb edRef="Guotu6257"/>
                     歷其愈近北極者夏至日晝愈長夜愈短夏至日有全<lb edRef="Guotu6257"/>
                     十二時為晝有全三十日為晝全六十日為晝全六月<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="25B"/>
@@ -1088,7 +1091,7 @@
                 <head xml:lang="zh">月天為第一重天及月本動</head>
                 <head xml:lang="en">The lunar heaven as the first layer of the heavens and the moon's self-motion</head>
                 <p xml:lang="zh">
-                    問太陰在何重天曰第一重天最近于地者是也吾徵之<lb edRef="Guotu6257"/>
+                    問：太陰在何重天。曰：第一重天最近于地者是也吾徵之<lb edRef="Guotu6257"/>
                     日食由于月掩其光且恒見月體能揜水與金星則月<lb edRef="Guotu6257"/>
                     天必居其下矣依表影之理亦可徵也立表取影光體<lb edRef="Guotu6257"/>
                     遠于地靣得景短光體近于地靣得景長今西國曆家<lb edRef="Guotu6257"/>
@@ -1188,8 +1191,8 @@
                 <head xml:lang="zh">月食</head>
                 <head xml:lang="en">Lunar eclipses</head>
                 <p xml:lang="zh">
-                    問望日月與日正對則月光當滿圓矣然而或全無光或<lb edRef="Guotu6257"/>
-                    一分有光一分無光其故何也曰地毬懸于十二重大<lb edRef="Guotu6257"/>
+                    問：望日月與日正對則月光當滿圓矣然而或全無光或<lb edRef="Guotu6257"/>
+                    一分有光一分無光其故何也。曰：地毬懸于十二重大<lb edRef="Guotu6257"/>
                     之中央如雞卵黃在青之中央故日由西照地地必有<lb edRef="Guotu6257"/>
                     景射東照東必有景射西夫日輪恒在黃道上若遇望<lb edRef="Guotu6257"/>
                     日而月輪亦在黃道上與日正對望則地毬障隔日月<lb edRef="Guotu6257"/>
@@ -1294,13 +1297,13 @@
                     與三圈三分<lb edRef="Guotu6257"/>
                 </p>
                 <p xml:lang="zh">
-                    問既朔日以後月光<lb edRef="Guotu6257"/>
+                    問：既朔日以後月光<lb edRef="Guotu6257"/>
                     漸長又每日離日輪<lb edRef="Guotu6257"/>
                     十三度則第二日日<lb edRef="Guotu6257"/>
                     <pb edRef="Guotu6257" n="42A"/>
                     入地平月在日東十三度遠則月高于地平亦十三度<lb edRef="Guotu6257"/>
                     遠自第二日以後宜無不見月光者乃今之見光或在<lb edRef="Guotu6257"/>
-                    朔後二日或在三日或在四日其不同何也曰其故由<lb edRef="Guotu6257"/>
+                    朔後二日或在三日或在四日其不同何也。曰：其故由<lb edRef="Guotu6257"/>
                     于地平及黃道也人居地靣而以見月光者必月輪在<lb edRef="Guotu6257"/>
                     地平上高十二度方可得見不然則否蓋月之度數有<lb edRef="Guotu6257"/>
                     離日輪之度有離地平之度月光之見否由于離地平<lb edRef="Guotu6257"/>
