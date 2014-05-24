@@ -19,6 +19,7 @@ ARGV.each do |filename|
   text = text.gsub(/[•]/, '')
 
   juan = File.basename filename, File.extname(filename)
+  juan = juan.to_i
 
 TEI_HEADER = <<EOL
 <?xml version="1.0" encoding="UTF-8" ?>
