@@ -57,5 +57,5 @@ TEI_HEADER = <<EOL
 <p>
 EOL
 
-  puts TEI_HEADER + text + TEI_FOOTER
+  puts text
 end
