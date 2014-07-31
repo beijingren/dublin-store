@@ -1,0 +1,2850 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="given" xml:lang="zh">天主實義</title>
+                <title type="translated" xml:lang="en">True Meaning of the Lord of Heaven</title>
+                <title type="transliteration">Tianzhu Shiyi</title>
+                <author>
+                    <name>
+                        <choice>
+                            <sic>利瑪竇</sic>
+                        </choice>
+                    </name>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <p>This document is published under a CC Attribution-Share Alike License</p>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="TXCH">
+                        <label>Tianxue chuhan 天學初函</label>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Yanyitang 燕貽堂</settlement>
+                            </msIdentifier>
+                            <msContents>
+                                <msItem style="preface">
+                                    <title xml:lang="zh">天主實義重刻序</title>
+                                    <docAuthor>李之藻</docAuthor>
+                                </msItem>
+                                <msItem style="preface">
+                                    <title xml:lang="zh">天主實義序</title>
+                                    <docAuthor>馮應京</docAuthor>
+                                    <docDate>萬曆二十九年孟春</docDate>
+                                </msItem>
+                                <msItem style="preface">
+                                    <title xml:lang="zh">天主實義引</title>
+                                    <docAuthor>利瑪竇</docAuthor>
+                                    <docDate>萬曆三十一年</docDate>
+                                </msItem>
+                                <msItem style="maintext">
+                                    <title xml:lang="zh">天主實義上卷</title>
+                                    <docAuthor>利瑪竇</docAuthor>
+                                </msItem>
+                                
+                                <msItem style="maintext">
+                                    <title xml:lang="zh">天主實義下卷</title>
+                                    <docAuthor>利瑪竇</docAuthor>
+                                </msItem>
+                            </msContents>
+                       </msDesc>
+                    </witness>                 
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+        </front>
+        <body>
+<div type="chapter">
+            <div type="preface">
+                <head xml:lang="zh">天主實義重刻序</head>
+                <p xml:lang="zh">
+                    昔吾夫子語修身也，先事親而推及乎<lb edRef="TXCH"/>
+                    知天。至孟氏存養事天之論，而義乃綦<lb edRef="TXCH"/>
+                    備。蓋卽知卽事，事天事親同一事，而天<lb edRef="TXCH"/>
+                    其事之大原也。說天莫辯乎《易》，《易》為文<lb edRef="TXCH"/>
+                    字祖，卽言乾元統天，為君為父。又言"帝<lb edRef="TXCH"/>
+                    出乎震"，而紫陽氏觧之，以為帝者，天之<lb edRef="TXCH"/>
+                    主宰。然則天主之義不自利先生剏矣。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="1A"/>
+                    世俗謂天幽遠不暇論，竺乾氏者出，不<lb edRef="TXCH"/>
+                    事其親亦已甚矣，而敢于幻天藐帝，以<lb edRef="TXCH"/>
+                    自為尊。儒其服者，習聞夫天命、天理、天<lb edRef="TXCH"/>
+                    道、天德之說，而亦浸淫入之。然則小人<lb edRef="TXCH"/>
+                    之不知不畏也，亦何恠哉？利先生學術<lb edRef="TXCH"/>
+                    一本事天，譚天之所以為天甚晰。覩世<lb edRef="TXCH"/>
+                    之褻天侫佛也者，而昌言排之。原本師<lb edRef="TXCH"/>
+                    說，演為《天主實義》十篇，用以訓善坊惡。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="1B"/>
+                    其言曰：人知事其父母，而不知天主之<lb edRef="TXCH"/>
+                    為大父母也。人知國家有正統，而不知<lb edRef="TXCH"/>
+                    惟帝統天之為大正統也。不事親不可<lb edRef="TXCH"/>
+                    為子，不識正統不可為臣，不事天主不<lb edRef="TXCH"/>
+                    可為人。而尤懃懇于善惡之辯、詳殃之<lb edRef="TXCH"/>
+                    應。其論萬善未備，不謂純善；纖惡累性<lb edRef="TXCH"/>，
+                    亦謂濟惡。為善若登，登天福堂；作惡若<lb edRef="TXCH"/>
+                    墜，墜地冥獄。大約使人悔過徙義，遏欲<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="2A"/>
+                    全仁。念本始而惕降監，綿顧畏而遄澡<lb edRef="TXCH"/>
+                    雪，以庶幾無獲戾于皇天上帝。彼其梯<lb edRef="TXCH"/>
+                    航琛贄，自古不與中國相通，初不聞有<lb edRef="TXCH"/>
+                    所謂羲、文、周、孔之教，故其為說亦初不<lb edRef="TXCH"/>
+                    襲吾濂洛關閩之觧，而特於知天事天<lb edRef="TXCH"/>
+                    大<g ref="A01774">旨</g>，乃與經傳所紀如券斯合。獨是天<lb edRef="TXCH"/>
+                    堂地獄，拘者未信。要於福善禍淫，儒者<lb edRef="TXCH"/>
+                    恆言察乎天地，亦自實理。舍善逐惡比<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="2B"/>
+                    於厭康莊而陟崇山、浮漲海亦何以異。<lb edRef="TXCH"/>
+                    苟非赴君父之急，關忠孝之大，或告之<lb edRef="TXCH"/>
+                    以虎狼蛟鱷之患，而弗信也；而必欲投<lb edRef="TXCH"/>
+                    身試之，是不亦冥頑弗靈甚哉？臨女無<lb edRef="TXCH"/>
+                    貳，原自心性實學，不必疑及禍福。若以懲<lb edRef="TXCH"/>
+                    愚儆惰，則命討遏揚，合存是義；訓俗<lb edRef="TXCH"/>
+                    立教，固自苦心。嘗讀其書，徃徃不類近<lb edRef="TXCH"/>
+                    儒，而與上古《素問》、《周髀》、《考工》、《漆園》諸編<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="3A"/>
+                    黙相勘印，顧粹然不詭於正，至其檢身<lb edRef="TXCH"/>
+                    事心，嚴翼匪懈，則世所謂皋比，而儒者<lb edRef="TXCH"/>
+                    未之或先信哉！東海西海，心同理同。所<lb edRef="TXCH"/>
+                    不同者，特言語文字之際。而是編者出<lb edRef="TXCH"/>
+                    則同文，雅化又已為之前茅，用以鼓吹<lb edRef="TXCH"/>
+                    休明、贊教厲俗，不為偶然，亦豈徒然？固<lb edRef="TXCH"/>
+                    不當與諸子百家同<g ref="A04564">類</g>而視矣。余友汪<lb edRef="TXCH"/>
+                    孟僕氏重刻於杭，而余為僭弁數語，非<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="3B"/>
+                    敢炫域外之書，以為聞所未聞，誠謂共<lb edRef="TXCH"/>
+                    戴皇天。而欽崇要義，或亦有習聞而未<lb edRef="TXCH"/>
+                    之用力者，於是省焉，而存心養性之學<lb edRef="TXCH"/>
+                    當不無裨益云爾。<lb edRef="TXCH"/>
+                    萬曆疆園葉洽之歲日躔在心浙西後<lb edRef="TXCH"/>
+                    學李之藻盥手謹序<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="4A"/>
+                </p>
+            </div>
+            <div type="preface">
+                <head xml:lang="zh">天主實義序</head>
+                <p xml:lang="zh">
+                    《天主實義》，大西國利子及其鄉會友與<lb edRef="TXCH"/>
+                    吾中國人問答之詞也。 天主何？<lb edRef="TXCH"/>
+                    上帝也。實云者，不空也。吾國六經四子、<lb edRef="TXCH"/>
+                    聖聖賢賢曰畏上帝，曰助上帝，曰事<lb edRef="TXCH"/>
+                    上帝，曰格上帝。夫誰以為空？空之說，<lb edRef="TXCH"/>
+                    漢明自天竺得之。好事者曰，孔子嘗<lb edRef="TXCH"/>
+                    稱西方聖人，殆謂佛與？相與鼓煽其<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="1A"/>
+                    說，若出吾六經上。烏知天竺，中國之<lb edRef="TXCH"/>
+                    西；而大西，又天竺之西也。佛家西竊<lb edRef="TXCH"/>
+                    閉他臥剌(人名)勸誘愚俗之言，而衍之<lb edRef="TXCH"/>
+                    為輪廻；中竊老氏芻狗萬物之說，而<lb edRef="TXCH"/>
+                    衍之為寂滅一切，塵芥六合；直欲超<lb edRef="TXCH"/>
+                    脫之，以為高中國聖遠。言湮鮮有能<lb edRef="TXCH"/>
+                    服其心而障其勢。且或內樂悠閒虛<lb edRef="TXCH"/>
+                    靜之便，外慕汪洋宏肆之竒；前厭馳<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="1B"/>
+                    騁名利之勞，後懾沉淪六道之苦。古<lb edRef="TXCH"/>
+                    倦極呼天，而今呼佛矣。古祀天地、社<lb edRef="TXCH"/>
+                    稷、山川、祖禰，而今祀佛矣。古學者知<lb edRef="TXCH"/>
+                    天順天，而今念佛作佛矣。古仕者寅<lb edRef="TXCH"/>
+                    亮天工，不敢自暇自逸，以瘝天民；而<lb edRef="TXCH"/>
+                    今大隱居朝，迯禪出世矣。夫佛，天竺<lb edRef="TXCH"/>
+                    之君師也。吾國自有君師，三皇五帝，<lb edRef="TXCH"/>
+                    三王周公孔子，及我<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="2A"/>
+                    太祖以來皆是也。彼君師侮天而駕說<lb edRef="TXCH"/>
+                    于其上，吾君師繼天而立極于其下。<lb edRef="TXCH"/>
+                    彼國從之無責爾，吾舍所學而從彼<lb edRef="TXCH"/>
+                    何居？程子曰：儒者本天，釋氏本心。師<lb edRef="TXCH"/>
+                    心之與法天，有我無我之別也，兩者<lb edRef="TXCH"/>
+                    足以定志矣。是書也，歷引吾六經之<lb edRef="TXCH"/>
+                    語以證其實，而深詆譚空之誤。以西<lb edRef="TXCH"/>
+                    政西，以中化中，見謂人之棄人倫，遺<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="2B"/>
+                    事物，猥言不著不染，要為脫輪廻也。<lb edRef="TXCH"/>
+                    乃輪廻之誕明甚，其畢智力于身謀，<lb edRef="TXCH"/>
+                    分町蛙于膜外，要為獨親其親獨子<lb edRef="TXCH"/>
+                    其子也。乃乾父之為公，又明甚。語性，<lb edRef="TXCH"/>
+                    則人大異于禽獸；語學，則歸于為仁，<lb edRef="TXCH"/>
+                    而始于去欲時。亦或有吾國之素所<lb edRef="TXCH"/>
+                    未聞而所嘗聞、而未用力者，十居九<lb edRef="TXCH"/>
+                    矣。利子周遊八萬里，高測九天，深測<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="3A"/>
+                    九淵，皆不爽毫末。吾所未嘗窮之形<lb edRef="TXCH"/>
+                    象，既已窮之有確據，則其神理當有<lb edRef="TXCH"/>
+                    所受不誣也。吾輩卽有所存而不論，<lb edRef="TXCH"/>
+                    論而不議，至所嘗聞而未用力者，可<lb edRef="TXCH"/>
+                    無憬然悟，惕然思，孜孜然而圖乎？愚<lb edRef="TXCH"/>
+                    生也晚，足不徧閫域，識不越井天，第<lb edRef="TXCH"/>
+                    目擊空譚之弊，而樂夫人之譚實也，<lb edRef="TXCH"/>
+                    謹題其端與明達者共繹焉。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="3B"/>
+                    萬曆二十九年孟春榖旦後學馮應京<lb edRef="TXCH"/>
+                    謹序<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="4A"/>
+                </p>
+            </div>
+            <div type="preface">
+                <head xml:lang="zh">天主實義引</head>
+                <p xml:lang="zh">
+                    平治庸理，惟竟于一，故賢聖勸臣以忠。<lb edRef="TXCH"/>
+                    忠也者，無二之謂也。五倫甲乎君，君臣<lb edRef="TXCH"/>
+                    為三綱之首，夫正義之士此明此行。在<lb edRef="TXCH"/>
+                    古昔，值世之亂，羣雄分爭，真主未決，懷<lb edRef="TXCH"/>
+                    義者莫不深察正統所在焉，則奉身殉<lb edRef="TXCH"/>
+                    之，罔或輿易也。邦國有主，天地獨無主乎？<lb edRef="TXCH"/>
+                    國統以一，天地有二主乎？故乾坤之<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="1A"/>
+                    原、造化之宗，君子不可不識而仰思焉。<lb edRef="TXCH"/>
+                    人流之抗罔，無罪不犯。巧奪人世，猶未<lb edRef="TXCH"/>
+                    饜足，至於圖僭    天帝之位，而欲越居<lb edRef="TXCH"/>
+                    其上。惟天之高，不可梯升；人欲難遂，因<lb edRef="TXCH"/>
+                    而謬布邪說，欺誑細民，以泯沒     天主<lb edRef="TXCH"/>
+                    之跡；妄以福利許人，使人欽崇而祭祀<lb edRef="TXCH"/>
+                    之。蓋彼此皆獲罪于     上帝，所以天之<lb edRef="TXCH"/>
+                    降灾世世以重也，而人莫思其故。哀哉！<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="1B"/>
+                    哀哉！豈非認偷為主者乎？聖人不出，醜<lb edRef="TXCH"/>
+                    類胥煽，誠實之理幾于銷<g ref="A02285">滅</g>矣。竇也從<lb edRef="TXCH"/>
+                    幼出鄉，廣游天下，視此厲毒無陬不及，<lb edRef="TXCH"/>
+                    意      中國堯舜之氓、周公仲尼之徒，天<lb edRef="TXCH"/>
+                    理天學，必不能移而染焉。而亦間有不<lb edRef="TXCH"/>
+                    免者，竊欲為之一證。復惟遐方孤旅，言<lb edRef="TXCH"/>
+                    語文字輿      中華異，口手不能開動，矧<lb edRef="TXCH"/>
+                    材質鹵莽，恐欲昭而彌瞑之。鄙懷久有<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="2A"/>
+                    慨焉，二十餘年，旦夕瞻天泣禱：仰惟<lb edRef="TXCH"/>
+                    天主矜宥生靈，必有開曉匡正之日。忽<lb edRef="TXCH"/>
+                    承二三友人見示，謂雖不識正音，見偷<lb edRef="TXCH"/>
+                    不聲固為不可，或傍有仁惻矯毅，聞聲<lb edRef="TXCH"/>
+                    興起攻之。竇乃述答中士下問吾儕之<lb edRef="TXCH"/>
+                    意，以成一帙。嗟嗟，愚者以目所不覩之<lb edRef="TXCH"/>
+                    為無也，猶瞽者不見天，不信天有日也。<lb edRef="TXCH"/>
+                    然日光實在，目自不見，何患無日？   天<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="2B"/>
+                    主道在人心，人自不覺，又不欲省。不知<lb edRef="TXCH"/>
+                    天之主宰雖無其形，然全為目，則無所<lb edRef="TXCH"/>
+                    不見；全為耳，則無所不聞；全為足，則無<lb edRef="TXCH"/>
+                    所不到。在肖子，如父母之恩也；在不肖，<lb edRef="TXCH"/>
+                    如憲判之威也。凡為善者必信有      上<lb edRef="TXCH"/>
+                    尊者理夫世界；若云無是尊，或有而弗<lb edRef="TXCH"/>
+                    預人事，豈不塞行善之門，而大開行惡<lb edRef="TXCH"/>
+                    之路也乎？人見霹靂之響徒擊枯樹，而<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="3A"/>
+                    不卽及于不仁之人，則疑上無主焉。不<lb edRef="TXCH"/>
+                    知天之報咎，恢恢不漏，遲則彌重耳。顧<lb edRef="TXCH"/>
+                    吾人欽若     上尊，非特焚香祭祀，在常<lb edRef="TXCH"/>
+                    想萬物原父造化大功，而知其必至智<lb edRef="TXCH"/>
+                    以營此，至能以成此，至善以備此，以致<lb edRef="TXCH"/>
+                    各物萬類所需都無缺欠，始為知大倫<lb edRef="TXCH"/>
+                    者云。但其理隱而難明，廣博而難盡知，<lb edRef="TXCH"/>
+                    知而難言，然而不可不學。雖知     天主<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="3B"/>
+                    之寡，其寡之益尚勝于知他事之多。願<lb edRef="TXCH"/>
+                    觀實義者，勿以文微而微     天主之<lb edRef="TXCH"/>
+                    義也。若夫     天主，天地莫載，小篇孰載<lb edRef="TXCH"/>
+                    之？<lb edRef="TXCH"/>
+                    時<lb edRef="TXCH"/>
+                    萬曆三十一年，歲次癸卯，七月既望利<lb edRef="TXCH"/>
+                    瑪竇書<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="4A"/>
+                </p>
+            </div>
+            <div type="maintext">
+                <head xml:lang="zh">天主實義上卷</head>
+                <p xml:lang="zh">
+                    耶穌會中人   利瑪竇述    燕貽堂較梓<lb edRef="TXCH"/>
+                    首篇論天主始制天地萬物而主宰安養之。<lb edRef="TXCH"/>
+                    中士曰：夫修己之學，世人崇業。凡不欲徒稟生命與<lb edRef="TXCH"/>
+                    禽彚等者，必于是殫力焉。修己功成，始稱君子；他技<lb edRef="TXCH"/>
+                    雖隆，終不免小人類也。成德乃真福祿；無德之幸，誤<lb edRef="TXCH"/>
+                    謂之幸，實居其患耳。世之人，路有所至而止；所以繕<lb edRef="TXCH"/>
+                    其路，非為其路，乃為其路所至而止也。吾所修己之<lb edRef="TXCH"/>
+                    道，將奚所至歟？本世所及，雖已畧明；死後之事，未知<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="1A"/>
+                    何如。聞先生周流天下，傳授天主經旨，迪人為善。願<lb edRef="TXCH"/>
+                    領大教。西士曰：賢賜顧，不識欲問天主何情何事？中<lb edRef="TXCH"/>
+                    士曰：聞尊教道淵而旨玄，不能以片言悉。但貴國惟<lb edRef="TXCH"/>
+                    崇奉天主，謂其始制乾、坤、人、物，而主宰安養之者。愚<lb edRef="TXCH"/>
+                    生未習聞，諸先正未嘗講。幸以誨我西士曰：此天主<lb edRef="TXCH"/>
+                    道，非一人、一家、一國之道，自西徂東，諸大邦鹹習守<lb edRef="TXCH"/>
+                    之，聖賢所傳，自天主開闢天地，降生民物。至今，經傳<lb edRef="TXCH"/>
+                    授受，無容疑也。但貴邦儒者鮮適他國，故不能明吾<lb edRef="TXCH"/>
+                    域之文語，諳其人物。吾將譯天主之公教，以徵其為<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="1B"/>
+                    真教。姑未論其尊信者之眾且賢，與其經傳之所云，<lb edRef="TXCH"/>
+                    且先舉其所據之理。凡人之所以異于禽獸，無大乎<lb edRef="TXCH"/>
+                    靈才也。靈才者，能辯是非，別真偽，而難欺之以理之<lb edRef="TXCH"/>
+                    所無。禽獸之愚，雖有知覺運動，差同于人，而不能明<lb edRef="TXCH"/>
+                    達先後內外之理。緣此，其心但圖飲啄，與夫得時匹<lb edRef="TXCH"/>
+                    配，孳生厥類云耳。人則超拔萬類，內稟神靈，外覩物<lb edRef="TXCH"/>
+                    理，察其末而知其本，視其固然而知其所以然，故能<lb edRef="TXCH"/>
+                    不辭今世之苦勞，以專精修道，圖身後萬世之安樂<lb edRef="TXCH"/>
+                    也。靈才所顯，不能強之以殉夫不真者。凡理所真是，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="2A"/>
+                    我不能不以為真是；理所偽誕，不能不以為偽誕。斯<lb edRef="TXCH"/>
+                    于人身，猶太陽于世間，普遍光明。舍靈才所是之理，<lb edRef="TXCH"/>
+                    而殉他人之所傳，無異乎尋覓物，方遮日光而持燈<lb edRef="TXCH"/>
+                    燭也。今子欲聞天主教原，則吾直陳此理以對，但仗<lb edRef="TXCH"/>
+                    理剖析。或有異論，當悉折辯，勿以誕我，此論天主正<lb edRef="TXCH"/>
+                    道公事也，不可以私遜廢之。中士曰：茲何傷乎？鳥得<lb edRef="TXCH"/>
+                    羽翼，以翔山林；人稟義理，以竆事物。故論惟尚理焉<lb edRef="TXCH"/>
+                    耳。理之體用廣甚，雖聖賢亦有所不知焉。一人不能<lb edRef="TXCH"/>
+                    知，一國或能知之；一國不能知，而千國之人或能知<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="2B"/>
+                    之。君子以理為主，理在則順，理不在則咈，誰得而異<lb edRef="TXCH"/>
+                    之？西士曰：子欲先詢所謂始製作天地萬物而時主<lb edRef="TXCH"/>
+                    宰之者。予謂天下莫著明乎是也。人誰不仰目觀天？<lb edRef="TXCH"/>
+                    觀天之際，誰不黙自嘆曰："斯其中必有主之者哉！"夫<lb edRef="TXCH"/>
+                    卽天主吾西國所稱’陡斯’是也。茲為子特揭二三理<lb edRef="TXCH"/>
+                    端以證之。其一曰：吾不待學之能，為良能也。今天下<lb edRef="TXCH"/>
+                    萬國各有自然之誠情，莫相告諭而皆敬一上尊。被<lb edRef="TXCH"/>
+                    難者<g ref="A03055">吁</g>哀望救，如望慈父母焉；為惡者捫心驚懼，如<lb edRef="TXCH"/>
+                    懼一敵國焉。則豈非有此達尊，能主宰世間人心，而<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="3A"/>
+                    使之自然尊乎？其二曰：物之無魂、無知覺者，必不能<lb edRef="TXCH"/>
+                    于本處所，自有所移動，而中度數。使以度數動，則必<lb edRef="TXCH"/>
+                    藉外靈才以助之。設汝懸石于空，或寘水上，石必就<lb edRef="TXCH"/>
+                    下，至地方止，不能復動。緣夫石自就下，水之與空非<lb edRef="TXCH"/>
+                    石之本處所故也。若風<g ref="A02720">發</g>于地，能于本處自動，然皆<lb edRef="TXCH"/>
+                    隨發亂動，動非度數。至如日月星辰並麗于天，各以<lb edRef="TXCH"/>
+                    天為本處所，然實無魂無知覺者。今觀上天自東運<lb edRef="TXCH"/>
+                    行，而日月星辰之天，自西循逆之，度數各依其則，次<lb edRef="TXCH"/>
+                    舍各安其位，曾無纖忽差忒焉者。倘無尊主斡旋，主<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="3B"/>
+                    宰其間，能免無悖乎哉？譬如舟渡江海，上下風濤而<lb edRef="TXCH"/>
+                    無覆蕩之虞，雖未見人，亦知一舟之中必有掌舵智<lb edRef="TXCH"/>
+                    工撐駕持握，乃可安流平渡也。其三曰：物雖本有知<lb edRef="TXCH"/>
+                    覺，然無靈性，其或能行靈者之事，必有靈者為引動<lb edRef="TXCH"/>
+                    之。試觀鳥獸之類，本冥頑不靈，然饑知求食，渴知求<lb edRef="TXCH"/>
+                    飲，畏矰繳而薄青冥，驚網罟而潛山澤，或吐哺、或跪<lb edRef="TXCH"/>
+                    乳，俱以保身孳子、防害就利，與靈者無異。此必有尊<lb edRef="TXCH"/>
+                    主者黙教之，纔能如此也。譬如觀萬千箭飛過于此，<lb edRef="TXCH"/>
+                    每每中鵠，我雖未見張弓，亦識必有良工彂箭，乃可<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="4A"/>
+                    無失中云。中士曰：天地間物至煩至賾，信有主宰。然<lb edRef="TXCH"/>
+                    其原製造化萬物，何以徵也？西士曰：大凡世間許多<lb edRef="TXCH"/>
+                    事情，宰于造物，理似有二。至論物初原主，絕無二也。<lb edRef="TXCH"/>
+                    雖然，再將二三理觧之。其一曰：凡物不能自成，必須<lb edRef="TXCH"/>
+                    外為者以成之。樓台房屋不能自起，恆成于工匠之<lb edRef="TXCH"/>
+                    手。知此，則識天地不能自成，定有所為製作者，卽吾<lb edRef="TXCH"/>
+                    所謂天主也。譬如銅鑄小毬，日月星宿山海萬物備<lb edRef="TXCH"/>
+                    焉，非巧工鑄之，銅能自成乎？況其天地之體之大，晝<lb edRef="TXCH"/>
+                    夜旋行，日月揚光，辰宿布象，山生草木，海育魚龍，潮<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="4B"/>
+                    水隨月，其間員首方趾之民，聰明出于萬品，誰能自<lb edRef="TXCH"/>
+                    成？如有一物能自作己，必宜先有一己以為之作；然<lb edRef="TXCH"/>
+                    既已有己，何用自作，如先初未始有己，則作己者必<lb edRef="TXCH"/>
+                    非己也。故物不能自成也。其二曰：物本不靈而有安<lb edRef="TXCH"/>
+                    排，莫不有安排之者？如觀宮室，前有門以通出入，後<lb edRef="TXCH"/>
+                    有園以種花果，庭在中間以接賓客，室在左右以便<lb edRef="TXCH"/>
+                    寢臥，楹柱居下以負棟梁，茅茨置上以蔽風雨。如此<lb edRef="TXCH"/>
+                    乎處置協宜，而後主人安居之以為快。則宮室必由<lb edRef="TXCH"/>
+                    巧匠營作，而後能成也。又觀銅鑄之字，本各為一字，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="5A"/>
+                    而能接續成句，排成一篇文章。苟非明儒安置之，何<lb edRef="TXCH"/>
+                    得自然偶合乎？因知天地萬物鹹有安排一定之理，<lb edRef="TXCH"/>
+                    有質有文而不可增減焉者。夫天高明上覆，地廣厚<lb edRef="TXCH"/>
+                    下載。分之為兩儀，合之為宇宙。辰宿之天高乎日月<lb edRef="TXCH"/>
+                    之天，日月之天包乎火，火包乎氣，氣浮乎水土，水行<lb edRef="TXCH"/>
+                    于地，地居中處。而四旹錯行，以生昆虫草木，水養黿<lb edRef="TXCH"/>
+                    龜、蛟龍、魚鱉，氣育飛禽走獸，火煖下物。吾人生于其<lb edRef="TXCH"/>
+                    間：秀出等夷，靈超萬物；稟五常以司眾類，得百官以<lb edRef="TXCH"/>
+                    立本身。目視五色，耳聽五音，鼻聞諸臭，舌啖五味，手<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="5B"/>
+                    能持，足能行，血脈五臟，全養其生。下至飛走鱗介諸<lb edRef="TXCH"/>
+                    物，為其無靈性，不能自置所用，與人不同。則生而或<lb edRef="TXCH"/>
+                    得毛、或得羽、或得鱗、或得介等當衣服，以遮蔽身體<lb edRef="TXCH"/>
+                    也；或具利爪、或具尖角、或具硬蹄、或具長牙、或具強<lb edRef="TXCH"/>
+                    嘴、或具毒氣等當兵甲，以敵其所害也。且又不待教<lb edRef="TXCH"/>
+                    而識其傷我與否。故雞鴨避鷹，而不避孔雀；羊忌豺<lb edRef="TXCH"/>
+                    狼，而不忌牛馬。非鷹與豺狼滋巨，而孔雀與牛馬滋<lb edRef="TXCH"/>
+                    小也，知其有傷與無傷異也。又下至一草一木，為其<lb edRef="TXCH"/>
+                    無知覺之性，可以護己及以全果種，而備鳥獸之累，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="6A"/>
+                    故植而或生刺、或生皮、或生甲、或生絮，皆生枝葉以<lb edRef="TXCH"/>
+                    圍蔽之。吾試忖度：此世間物安排佈置有次有常，非<lb edRef="TXCH"/>
+                    初有至靈之主賦予其質，豈能優游于宇下，各得其<lb edRef="TXCH"/>
+                    所哉？其三曰：吾論眾物所生形性，或受諸胎、或出諸<lb edRef="TXCH"/>
+                    卵、或發乎種，皆非由己製作也。且問胎、卵、種猶然一<lb edRef="TXCH"/>
+                    物耳，又必有所以為始生者，而後能生他物。果于何<lb edRef="TXCH"/>
+                    而生乎？則必須推及每類初宗，皆不在于本類能生，<lb edRef="TXCH"/>
+                    必有元始特異之類化生萬類者—卽吾所稱天主是<lb edRef="TXCH"/>
+                    也。中士曰：萬物既有所生之始，先生謂之天主，敢問<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="6B"/>
+                    此天主由誰生歟？西士曰：天主之稱，謂物之原；如謂<lb edRef="TXCH"/>
+                    有所由生，則非天主也。物之有始有終者，鳥獸草木<lb edRef="TXCH"/>
+                    是也；有始無終者，天地鬼神及人之靈魂是也；天主<lb edRef="TXCH"/>
+                    則無始無終，而為萬物始焉，為萬物根柢焉。無天主<lb edRef="TXCH"/>
+                    則無物矣。物由天主生，天主無所由生也。中士曰：萬<lb edRef="TXCH"/>
+                    物初生，自天主出，已無容寘喙矣。然今觀人從人生、<lb edRef="TXCH"/>
+                    畜從畜生，凡物莫不皆然；則似物自為物，於天主無<lb edRef="TXCH"/>
+                    關者。西士曰：天主生物，乃始化生物類之諸宗；既有<lb edRef="TXCH"/>
+                    諸宗，諸宗自生。今以物生物，如以人生人，其用人用<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="7A"/>
+                    天，則生人者豈非天主？譬如鋸鑿雖能成器，皆由匠<lb edRef="TXCH"/>
+                    者使之，誰曰成器乃鋸鑿，非匠人乎？吾先釋物之所<lb edRef="TXCH"/>
+                    以然，則其理自明。試論物之所以然有四焉。四者維<lb edRef="TXCH"/>
+                    何？有作者，有模者，有質者，有為者。夫作者，造其物而<lb edRef="TXCH"/>
+                    施之為物也；模者，狀其物置之于本倫，別之于他類<lb edRef="TXCH"/>
+                    也；質者，物之本來體質所以受模者也；為者，定物之<lb edRef="TXCH"/>
+                    所向所用也。此于工事俱可觀焉。譬如車然：輿人為<lb edRef="TXCH"/>
+                    作者，軌轍為模者，樹木料為質者，所以乘于人為為<lb edRef="TXCH"/>
+                    者。於生物亦可觀焉。譬如火然：有生火之原火為作<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="7B"/>
+                    者，熱、乾、氣為模者，薪柴為質者，所以燒煮物為為者。<lb edRef="TXCH"/>
+                    天下無有一物不具此四者。四之中，其模者、質者此<lb edRef="TXCH"/>
+                    二者在物之內，為物之本分，或謂陰陽是也；作者、為<lb edRef="TXCH"/>
+                    者此二者在物之外，超于物之先者也，不能為物之<lb edRef="TXCH"/>
+                    本分。吾按天主為物之所以然，但云作者，為者，不云<lb edRef="TXCH"/>
+                    模者，質者。蓋天主渾全無二，胡能為物之分乎？至論<lb edRef="TXCH"/>
+                    作與為之所以然，又有近、遠、公、私之別。公遠者大也，<lb edRef="TXCH"/>
+                    近私者其小也。天主為物之所以然，至公至大；而其<lb edRef="TXCH"/>
+                    餘之所以然，近私且小。私且小者必統于大者、公者。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="8A"/>
+                    夫雙親為子之所以然，稱為父母，近也，私也。使無天<lb edRef="TXCH"/>
+                    地覆載之，安得產其子乎？使無天主掌握天地，天地<lb edRef="TXCH"/>
+                    安能生育萬物乎？則天主固無上、至大之所以然也。<lb edRef="TXCH"/>
+                    故吾古儒以為所以然之初所以然。中士曰：宇內之<lb edRef="TXCH"/>
+                    物眾而且異，竊疑所出必為不一，猶之江河所發，各<lb edRef="TXCH"/>
+                    別有源，今言天主惟一，敢問其理？西士曰：物之私根<lb edRef="TXCH"/>
+                    原，固不一也；物之公本主，則無二焉。何者？物之公本<lb edRef="TXCH"/>
+                    主，乃眾物之所從出，備有眾物德性，德性圓滿超然，<lb edRef="TXCH"/>
+                    無以尚之。使疑天地之間，物之本主有二尊。不知所<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="8B"/>
+                    云二者，是相等乎？否乎？如非相等，必有一微，其微者<lb edRef="TXCH"/>
+                    自不可謂公尊。其公尊者大德成全，蔑以加焉；如曰<lb edRef="TXCH"/>
+                    相等，一之已足，何用多乎？又不知所云二尊，能相奪<lb edRef="TXCH"/>
+                    滅否？如不能相滅，則其能猶有窮限，不可謂圓滿至<lb edRef="TXCH"/>
+                    德之尊主；如能奪滅，則彼可以被奪滅者，非天主也。<lb edRef="TXCH"/>
+                    且天下之物，極多極盛，苟無一尊，維持調護，不免散<lb edRef="TXCH"/>
+                    壞：如作樂大成，苟無太師集眾小成，完音亦幾絕響。<lb edRef="TXCH"/>
+                    是故一家止有一長，一國止有一君，有二，則國家亂<lb edRef="TXCH"/>
+                    矣；一人止有一身，一身止有一首；有二，則恠異甚矣。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="9A"/>
+                    吾因是知乾坤之內，雖有鬼神多品，獨有一天主始<lb edRef="TXCH"/>
+                    製作天、地、人、物，而時主宰存安之。子何疑乎？中士曰：<lb edRef="TXCH"/>
+                    耳聆至教，蓋信天主之尊，真無二上。雖然，願竟其說。<lb edRef="TXCH"/>
+                    西士曰：天下至微虫如蟻，人不能畢達其性，矧天主<lb edRef="TXCH"/>
+                    至大至尊者，豈易達乎？如人可以易達，亦非天主矣。<lb edRef="TXCH"/>
+                    古有一君，欲知天主之說，問于賢臣。賢臣答曰："容退<lb edRef="TXCH"/>
+                    一日思之。"至期，又問。答曰："更二日方可對。"如是已二<lb edRef="TXCH"/>
+                    日，又求四日以對。君怒曰："汝何戲？"答曰："臣何敢戲。但<lb edRef="TXCH"/>
+                    天主道理無窮，臣思日深，而理日微，亦猶瞪目仰瞻<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="9B"/>
+                    太陽，益觀益昏，是以難對也。"昔者又有西土聖人，名<lb edRef="TXCH"/>
+                    謂嶴梧斯惕諾，欲一槩通天主之說，而書之于冊。一<lb edRef="TXCH"/>
+                    日，浪遊海濱，心正尋思，忽見一童子掘地作小窩，手<lb edRef="TXCH"/>
+                    執蠔殼汲海水灌之。聖人曰："子將何為？"童子曰："吾欲<lb edRef="TXCH"/>
+                    以此殼盡汲海水傾入窩中也。"聖人笑曰："若何甚愚？<lb edRef="TXCH"/>
+                    欲以小器竭大海入小窩。"童子曰："爾既知大海之水，<lb edRef="TXCH"/>
+                    小器不可汲，小窩不盡容，又何為勞心焦思，欲以人<lb edRef="TXCH"/>
+                    力竟天主之大義，而入之微冊耶？"語畢不見。聖人亦<lb edRef="TXCH"/>
+                    驚悟，知為天主命神以警戒之也。蓋物之列于類者，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="10A"/>
+                    吾因其類，考其異同，則知其性也。有形聲者，吾視其<lb edRef="TXCH"/>
+                    容色，聆其音響，則知其情也。有限制者，吾度量自此<lb edRef="TXCH"/>
+                    界至彼界，則可知其體也。若天主者，非類之屬，超越<lb edRef="TXCH"/>
+                    眾類，比之于誰類乎？既無形聲，豈有跡可入而達乎？<lb edRef="TXCH"/>
+                    其體無窮，六合不能為邊際，何以測其高大之倪乎？<lb edRef="TXCH"/>
+                    庶幾乎舉其情性，則莫若以’非’者，‘無’者舉之；苟以‘是’、<lb edRef="TXCH"/>
+                    以’有’，則愈遠矣。中士曰：夫‘極是’、‘極有’者，亦安得以‘非’、<lb edRef="TXCH"/>
+                    以’無’闡之？西士曰：人噐之陋，不足以盛天主之巨理<lb edRef="TXCH"/>
+                    也。惟知物有卑賤，天主所非是，然而不能窮其所為<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="10B"/>
+                    尊貴也；惟知事有缺陷，天主所無有，然而不能<g ref="A02941">稽</g>其<lb edRef="TXCH"/>
+                    所為全長也。今吾欲擬指天主何物，曰：非天也，非地<lb edRef="TXCH"/>
+                    也，而其高明博厚較天地猶甚也；非鬼神也，而其神<lb edRef="TXCH"/>
+                    靈鬼神不啻也；非人也，而遐邁聖睿也；非所謂道德<lb edRef="TXCH"/>
+                    也，而為道德之源也。彼寔無徃無來，而吾欲言其以<lb edRef="TXCH"/>
+                    徃者，但曰無始也；欲言其以來者，但曰無終也。又推<lb edRef="TXCH"/>
+                    而意其體也，無處可以容載之，而無所不盈充也。不<lb edRef="TXCH"/>
+                    動，而為諸動之宗。無手無口，而化生萬森、教諭萬生<lb edRef="TXCH"/>
+                    也。其能也，無毀無衰，而可以無之為有者。其知也，無<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="11A"/>
+                    昧無謬，而已徃之萬世以前，未來之萬世以後，無事<lb edRef="TXCH"/>
+                    可迯其知，如對目也；其善純備無滓，而為眾善之歸<lb edRef="TXCH"/>
+                    宿，不善者雖微而不能為之累也；其恩惠廣大，無壅<lb edRef="TXCH"/>
+                    無塞，無私無類，無所不及，小蟲細介亦被其澤也。夫<lb edRef="TXCH"/>
+                    乾坤之內，善性、善行，無不從天主稟之。雖然，比之于<lb edRef="TXCH"/>
+                    本原，一水滴于滄海不如也。天主之福德，隆盛滿圓，<lb edRef="TXCH"/>
+                    洋洋優優，豈有可以增，豈有可以減者哉？故江海可<lb edRef="TXCH"/>
+                    盡汲，濱沙可計數，宇宙可充實，而天主不可全明，況<lb edRef="TXCH"/>
+                    竟發之哉？中士曰：嘻！豐哉論矣。釋所不能釋，窮所不<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="11B"/>
+                    能窮矣。某聞之而始見大道，以歸大元矣。願進而及<lb edRef="TXCH"/>
+                    終。今日不敢復瀆，詰朝再以請也。西士曰：子自聰睿，<lb edRef="TXCH"/>
+                    聞寡知多，余何力焉？然知此論，則難處已平，要基已<lb edRef="TXCH"/>
+                    安，余工可易立矣。<lb edRef="TXCH"/>
+                </p>    
+                <p xml:lang="zh">
+                    第二篇觧釋世人錯認天主<lb edRef="TXCH"/>
+                    中士曰：玄論飫耳醉心，終夜思之忘寢，今再承教，以<lb edRef="TXCH"/>
+                    竟心惑。吾中國有三教，各立門戶：老氏謂物生于無，<lb edRef="TXCH"/>
+                    以無為道；佛氏謂色由空出，以空為務；儒謂易有太<lb edRef="TXCH"/>
+                    極，故惟以有為宗，以誠為學。不知尊旨誰是。西士曰：<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="12A"/>
+                    二氏之謂，曰無曰空，于天主理大相刺謬，其不可崇<lb edRef="TXCH"/>
+                    尚明矣。夫儒之謂，曰有曰誠，雖未盡聞其釋，固庶幾<lb edRef="TXCH"/>
+                    乎？中士曰：吾國君子亦痛斥二氏，深為恨之。西士曰：<lb edRef="TXCH"/>
+                    恨之不如辯之以言，辯之不如析之以理。二氏之徒，<lb edRef="TXCH"/>
+                    並天主大父所生，則吾弟兄矣。譬吾弟病狂，顛倒恠<lb edRef="TXCH"/>
+                    誕吾為兄之道，恤乎？恨乎？在以理喻之而已。余嘗博<lb edRef="TXCH"/>
+                    覽儒書，徃徃憾嫉二氏，夷狄排之，謂斥異端，而不見<lb edRef="TXCH"/>
+                    揭一鉅理以非之。我以彼為非，彼亦以我為非，紛紛<lb edRef="TXCH"/>
+                    為訟，兩不相信，千五百餘年不能合一。使互相執理<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="12B"/>
+                    以論辯，則不言而是非審，三家歸一耳。西鄉有諺曰：<lb edRef="TXCH"/>
+                    "堅繩可系牛角，理語能服人心。"敝國之鄰方，上古不<lb edRef="TXCH"/>
+                    止三教，累累數千百枝，後為我儒以正理辯喻，以善<lb edRef="TXCH"/>
+                    行嘿化，今惟天主一教是從。中士曰：正道惟一耳，烏<lb edRef="TXCH"/>
+                    用眾？然佛老之說持之有故，凡物先空後實，先無後<lb edRef="TXCH"/>
+                    有，故以空無為物之原，似也。西士曰：上達以下學為<lb edRef="TXCH"/>
+                    基，天下以實有為貴，以虛無為賤，若謂萬物之原<lb edRef="TXCH"/>
+                    貴莫尚焉，奚可以虛無之賤當之乎？況己之所無，不<lb edRef="TXCH"/>
+                    得施之于物以為有，此理明也。今曰空曰無者，絕無<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="13A"/>
+                    所有於己者也，則胡能施有性形以為物體哉？物必<lb edRef="TXCH"/>
+                    誠有，方謂之有物焉；無誠則為無物。設其本原無實<lb edRef="TXCH"/>
+                    無有，則是並其所出物者，無之也。世人雖聖神，不得<lb edRef="TXCH"/>
+                    以無物為有；則彼無者、空者，亦安能以其空無為萬<lb edRef="TXCH"/>
+                    物有、為萬物實哉？試以物之所以然觀之，既謂之空<lb edRef="TXCH"/>
+                    無，則不能為物之作者、模者、質者、為者，此于物尚有<lb edRef="TXCH"/>
+                    何著歟？中士曰：聞教固當，但謂物者先無而後有，是<lb edRef="TXCH"/>
+                    或一道也。西士曰：有始之物，曰先無而後有，可也；無<lb edRef="TXCH"/>
+                    始之物，非所論矣。無始者，無時不有。何時先無焉？特<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="13B"/>
+                    分而言之，謂每物先無後有，可耳；若總而言之，則否<lb edRef="TXCH"/>
+                    也。譬如某人未生之先，果無某人，既生而後有也；然<lb edRef="TXCH"/>
+                    未生某人之先，却有某人之親以生之。天下之物，莫<lb edRef="TXCH"/>
+                    不皆然。至其渾無一物之初，是必有天主開其原也。<lb edRef="TXCH"/>
+                    中士曰：人人有是非之心，不通此理，如失本心，寧聽<lb edRef="TXCH"/>
+                    其餘誕哉？借如空無者，非人、非神、無心性、無知覺、無<lb edRef="TXCH"/>
+                    靈才、無仁義、無一善足嘉，卽草芥至卑之物猶不可<lb edRef="TXCH"/>
+                    比，而謂之萬物之根本，其義誠悖。但吾聞空無者，非<lb edRef="TXCH"/>
+                    真空無之謂，乃神之無形、無聲者耳，則于天主何異<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="14A"/>
+                    焉？西士曰：此屈於理之言，請勿以斯稱天主也。夫神<lb edRef="TXCH"/>
+                    之有性有才有德，較吾有形之彙益精益高，其理益<lb edRef="TXCH"/>
+                    寔，何得特因無此形，隨謂之’無’且’虛’乎？五常之德，無<lb edRef="TXCH"/>
+                    形無聲，熟謂之無哉？無形者之於無也，隔霄壤矣。以<lb edRef="TXCH"/>
+                    此為教，非惟不能昭世，愈滋惑矣。中士曰：吾儒言太<lb edRef="TXCH"/>
+                    極者是乎？西士曰：余雖末年入中華，然竊視古經書<lb edRef="TXCH"/>
+                    不怠，但聞古先君子敬恭于天地之上帝，未聞有尊<lb edRef="TXCH"/>
+                    奉太極者。如太極為上帝萬物之祖，古聖何隱其說<lb edRef="TXCH"/>
+                    乎？中士曰：古者未有其名，而實有其理，但圖釋未傳<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="14B"/>
+                    耳。西士曰：凡言與理相合，君子無以逆之。太極之觧，<lb edRef="TXCH"/>
+                    恐難謂合理也。吾視夫無極而太極之圖，不過取竒、<lb edRef="TXCH"/>
+                    偶之象言，而其象何在？太極非生天地之實可知已。<lb edRef="TXCH"/>
+                    天主之理，從古實傳至今，全備無遺；而吾欲誌之于<lb edRef="TXCH"/>
+                    冊，傳之于他邦，猶不敢不揭其理之所憑，況虛象無<lb edRef="TXCH"/>
+                    實理之可依耶？中士曰：太極非他物，乃理而已。如以<lb edRef="TXCH"/>
+                    全理為無理，尚有何理之可謂？西士曰：嗚呼！他物之<lb edRef="TXCH"/>
+                    體態不歸于理，可復將理以歸正議。若理之本體定，<lb edRef="TXCH"/>
+                    而不以其理，又將何以理之哉？吾今先判物之宗品，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="15A"/>
+                    以置理于本品，然後明其太極之說不能為萬物本<lb edRef="TXCH"/>
+                    原也。夫物之宗品有二：有自立者，有依賴者。物之不<lb edRef="TXCH"/>
+                    恃別體以為物，而自能成立，如天地、鬼神、人、鳥獸、草<lb edRef="TXCH"/>
+                    木、金石、四行等是也，斯屬自立之品者；物之不能立，<lb edRef="TXCH"/>
+                    而託他體以為其物，如五常、五色、五音、五味、七情等<lb edRef="TXCH"/>
+                    是也，斯屬依賴之品者。且以白馬觀之：曰白，曰馬，馬<lb edRef="TXCH"/>
+                    乃自立者，白乃依賴者。雖無其白，猶有其馬；如無其<lb edRef="TXCH"/>
+                    馬，必無其白，故以為依賴也。比斯兩品：凡自立者，先<lb edRef="TXCH"/>
+                    也、貴也；依賴者，後也、賤也。一物之體，惟有自立一類；<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="15B"/>
+                    若其依賴之類，不可勝窮。如人一身固為自立，其間<lb edRef="TXCH"/>
+                    情、聲、貌、色、彝倫等類俱為依賴，其類甚多。若太極者<lb edRef="TXCH"/>
+                    止觧之以所謂理，則不能為天地萬物之原矣。蓋理<lb edRef="TXCH"/>
+                    亦依賴之類，自不能立，曷立他物哉？中國文人學士<lb edRef="TXCH"/>
+                    講論理者，只謂有二端：或在人心，或在事物。事物之<lb edRef="TXCH"/>
+                    情合乎人心之理，則事物方謂真實焉；人心能窮彼<lb edRef="TXCH"/>
+                    在物之理，而盡其知，則謂之格物焉。據此兩端，則理<lb edRef="TXCH"/>
+                    固依賴，奚得為物原乎？二者皆在物後，而後豈先者<lb edRef="TXCH"/>
+                    之原？且其初無一物之先，渠言必有’理’存焉？夫‘理’在<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="16A"/>
+                    何處？依屬何物乎？依賴之情不能自立，故無自立者<lb edRef="TXCH"/>
+                    以為之托，則依賴者了無矣。如曰賴空虛耳，恐空虛<lb edRef="TXCH"/>
+                    非足賴者，理將不免于偃墮也。試問：盤古之前，既有<lb edRef="TXCH"/>
+                    理在，何故閒空不動而生物乎？其後誰從激之使動？<lb edRef="TXCH"/>
+                    況理本無動靜，況自動乎？如曰昔不生物，後乃願生<lb edRef="TXCH"/>
+                    物，則理豈有意乎？何以有欲生物，有欲不生物乎？中<lb edRef="TXCH"/>
+                    士曰：無其理則無其物，是故我周子信理為物之原<lb edRef="TXCH"/>
+                    也。西士曰：無子則無父，而誰言子為父之原乎？相須<lb edRef="TXCH"/>
+                    者之物情恆如此，本相為有無者也。有君，則有臣；無<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="16B"/>
+                    君，則無臣。有物，則有物之理；無此物之實，卽無此理<lb edRef="TXCH"/>
+                    之實。若以虛理為物之原，是無異乎佛老之說，以此攻<lb edRef="TXCH"/>
+                    佛老，是以燕伐燕，以亂易亂矣。今時’實理’不得生<lb edRef="TXCH"/>
+                    物，昔者’虛理’安得以生之乎？譬如，今日有輿人於此，<lb edRef="TXCH"/>
+                    有此車理具于其心，何不卽動發一乘車？而必待有<lb edRef="TXCH"/>
+                    樹木之質，斧鋸之械，匠人之工，然後成車。何初之神<lb edRef="TXCH"/>
+                    竒，能化天地之大，而今之衰蔽，不能發一車之小耶。<lb edRef="TXCH"/>
+                    中士曰：吾聞理者，先生陰陽五行，然後化生天地萬<lb edRef="TXCH"/>
+                    物，故生物有次第焉。使於須臾生車，非其譬矣。西士<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="17A"/>
+                    曰：試問于子：陰陽五行之理，一動一靜之際，輒能生<lb edRef="TXCH"/>
+                    陰陽五行；則今有車理，豈不動而生一乘車乎？又理<lb edRef="TXCH"/>
+                    無所不在，彼既是無意之物，性必直遂，任其所發，自<lb edRef="TXCH"/>
+                    不能已；何今不生陰陽五行於此？孰禦之哉？且"物"字<lb edRef="TXCH"/>
+                    為萬實總名，凡物皆可稱之為"物"。《太極圖注》云："理者，<lb edRef="TXCH"/>
+                    非物矣。"物之類多，而均謂之物：或為自立者，或為依<lb edRef="TXCH"/>
+                    賴者；或有形者，或無形者。理既非有形之物類，豈不<lb edRef="TXCH"/>
+                    得為無形之物品乎？又問理者靈、覺否？明義者否？如<lb edRef="TXCH"/>
+                    靈、覺明義，則屬鬼神之類，曷謂之太極，謂之理也？如<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="17B"/>
+                    否，則上帝、鬼神、夫人之靈覺由誰得之乎？彼理者以<lb edRef="TXCH"/>
+                    己之所無，不得施之于物以為之有也；理無靈、無覺，<lb edRef="TXCH"/>
+                    則不能生靈生覺。請子察乾坤之內，惟是靈者生靈，<lb edRef="TXCH"/>
+                    覺者生覺耳。自靈覺而出不靈覺者，則有之矣；未聞<lb edRef="TXCH"/>
+                    有自不靈覺而生有靈覺者也。子固不踰母也。中士<lb edRef="TXCH"/>
+                    曰：靈覺為有靈覺者所生，非理之謂，既聞命矣。但理<lb edRef="TXCH"/>
+                    動而生陽，陽乃’自然之靈覺’，或其然乎？西士曰：反覆<lb edRef="TXCH"/>
+                    論辯，難脫此理。吾又問：彼陽者何由得靈覺乎？此于<lb edRef="TXCH"/>
+                    自然之理，亦大相悖。中士曰：先生謂天主無形無聲，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="18A"/>
+                    而能施萬象有形有聲；則太極無靈覺，而能施物之<lb edRef="TXCH"/>
+                    靈覺，何傷乎?西士曰：何不云？"無形聲者精也、上也；有<lb edRef="TXCH"/>
+                    形聲者粗也、下也。"以精上能施粗下，分不為過。以無<lb edRef="TXCH"/>
+                    靈覺之粗下，為施靈覺之精上，則出其分外遠矣。又<lb edRef="TXCH"/>
+                    云，上物能含下物，有三般焉：或窮然包下之體，如一<lb edRef="TXCH"/>
+                    丈載十尺，一尺載十寸之體是也；或渾然包下之性，<lb edRef="TXCH"/>
+                    如人魂混有禽獸魂，禽獸魂混有草木魂是也；或粹<lb edRef="TXCH"/>
+                    然包下之德，如天主含萬物之性是也。夫天主之性<lb edRef="TXCH"/>
+                    最為全盛，而且穆穆焉，非人心可測，非萬物可比倫<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="18B"/>
+                    也。雖然，吾姑譬之。如一黃金錢有十銀錢及千銅錢<lb edRef="TXCH"/>
+                    價，所以然者，惟黃金之性甚精，大異于銀銅之性，故<lb edRef="TXCH"/>
+                    價之幾倍如此。天主性雖未嘗截然有萬物之情，而<lb edRef="TXCH"/>
+                    以其精德包萬般之理，含眾物之性，其能無所不備<lb edRef="TXCH"/>
+                    也；雖則無形無聲，何難化萬象哉？理也者，則大異焉。<lb edRef="TXCH"/>
+                    是乃依賴之類，自不能立，何能包含靈覺為自立之<lb edRef="TXCH"/>
+                    類乎？理卑于人，理為物，而非物為理也，故仲尼曰："人<lb edRef="TXCH"/>
+                    能弘道，非道弘人也。"如爾曰："理含萬物之靈，化生萬<lb edRef="TXCH"/>
+                    物"，此乃天主也。何獨謂之"理"，謂之"太極"哉？中士曰：如<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="19A"/>
+                    此，則吾孔子言太極何意？西士曰：造物之功盛也，其<lb edRef="TXCH"/>
+                    中固有樞紐矣，然此為天主所立者。物之無原之原<lb edRef="TXCH"/>
+                    者，不可以理，以太極當之。夫太極之理，本有精論，吾<lb edRef="TXCH"/>
+                    雖曾閱之，不敢雜陳其辨，或容以他書傳其要也。中<lb edRef="TXCH"/>
+                    士曰：吾國君臣，自古迄今，惟知以天地為尊，敬之如<lb edRef="TXCH"/>
+                    父母，故’郊社’之禮以祭之。如太極為天地所出，是世<lb edRef="TXCH"/>
+                    之宗考妣也，古先聖、帝王、臣祀典宜首及焉。而今不<lb edRef="TXCH"/>
+                    然，此知必太極之觧非也。先生辯之最詳，于古聖賢<lb edRef="TXCH"/>
+                    無二意矣。西士曰：雖然，’天地為尊’之說，未易觧也。夫<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="19B"/>
+                    至尊無兩，惟一焉耳；曰天、曰地、是二之也。吾國天主，<lb edRef="TXCH"/>
+                    卽華言上帝。與道家所塑玄帝、玉皇之像不同，彼不<lb edRef="TXCH"/>
+                    過一人，修居于武當山，俱亦人類耳，人惡得為天帝<lb edRef="TXCH"/>
+                    皇耶？吾天主，乃古經書所稱上帝也。《中庸》引孔子曰：<lb edRef="TXCH"/>
+                    "郊社之禮以事上帝也。"朱注曰："不言’后土’者，省文也。"<lb edRef="TXCH"/>
+                    竊意仲尼明一之，以不可為二，何獨省文乎？《周頌》曰：<lb edRef="TXCH"/>
+                    "執兢武王，無兢維烈。不顯成康，上帝是皇。"又曰："於皇<lb edRef="TXCH"/>
+                    來牟，將受厥明，明昭上帝。"《商頌》云："聖敬日躋，昭假遲<lb edRef="TXCH"/>
+                    遲，上帝是祗。"《雅》云："維此文王，小心翼翼，昭事上帝。"易<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="20A"/>
+                    曰："帝出乎震。"夫帝也者，非天之謂，蒼天者抱八方，何<lb edRef="TXCH"/>
+                    能出於一乎？《禮》云："五者備當，上帝其饗。"又云："天子親<lb edRef="TXCH"/>
+                    耕，粢盛秬鬯，以事上帝。"《湯誓》曰："夏氏有罪，予畏上帝，<lb edRef="TXCH"/>
+                    不敢不正。"又曰："惟皇上帝，降衷于下民。若有恆性，克<lb edRef="TXCH"/>
+                    綏厥猶，惟後。"《金滕》周公曰："乃命于帝庭，敷佑四方。"上<lb edRef="TXCH"/>
+                    帝有庭，則不以蒼天為上帝可知。歷觀古書，而知上<lb edRef="TXCH"/>
+                    帝與天主特異以名也。中士曰：世人好古，惟愛古器、<lb edRef="TXCH"/>
+                    古文，豈如先生之據古理也？善教引人復古道焉。然<lb edRef="TXCH"/>
+                    猶有未諳者，古書多以天為尊，是以朱註觧帝為天，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="20B"/>
+                    觧天惟理也；程子更加詳曰："以形體謂天，以主宰謂<lb edRef="TXCH"/>
+                    帝，以性情謂乾。"故云奉敬天地，不識如何？西士曰：更<lb edRef="TXCH"/>
+                    思之，如以天觧上帝，得之矣：天者一大耳。理之不可<lb edRef="TXCH"/>
+                    為物主宰也，昨已悉矣。上帝之稱甚明，不容觧，況妄<lb edRef="TXCH"/>
+                    觧之哉？蒼蒼有形之天，有九重之析分，烏得為一尊<lb edRef="TXCH"/>
+                    也？上帝索之無形，又何以形之謂乎？天之形圓也，而<lb edRef="TXCH"/>
+                    以九層斷焉，彼或東或西，無頭無腹，無手無足，使與<lb edRef="TXCH"/>
+                    其神同為一活體，豈非甚可笑訝者哉？況鬼神未嘗<lb edRef="TXCH"/>
+                    有形，何獨其最尊之神為有形哉？此非特未知論人<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="21A"/>
+                    道，亦不識天文及各類之性理矣。上天既未可為尊，<lb edRef="TXCH"/>
+                    況于下地乃眾足所踏踐，汙穢所歸寓，安有可尊之<lb edRef="TXCH"/>
+                    勢？要惟此一天主化生天地萬物，以存養人民。宇宙<lb edRef="TXCH"/>
+                    之間，無一物非所以育吾人者，吾宜感其"天地萬物<lb edRef="TXCH"/>
+                    之恩主"，加誠奉敬之可耳，可舍此大本、大原之主，而<lb edRef="TXCH"/>
+                    反奉其役事吾者哉？中士曰：誠若是，則吾儕其猶有<lb edRef="TXCH"/>
+                    蓬之心也夫，大抵抬頭見天，遂惟知拜天而已。西士<lb edRef="TXCH"/>
+                    曰：世有智愚差等各別，中國雖大邦，諒有智，亦不免<lb edRef="TXCH"/>
+                    有愚焉。以目可視為有，以目不能視為無，故但知事<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="21B"/>
+                    有色之天地，不復知有天地之主也。遠方之氓，忽至<lb edRef="TXCH"/>
+                    長安道中，驚見皇宮殿宇巍峨嶻嶪，則施禮而拜曰：<lb edRef="TXCH"/>
+                    "吾拜吾君。"今所為奉敬天地，多是拜宮闕之類也。智<lb edRef="TXCH"/>
+                    者乃能推見至隱，視此天地高廣之形，而遂知有天<lb edRef="TXCH"/>
+                    主主宰其間，故肅心持志以尊無形之先天，孰指茲<lb edRef="TXCH"/>
+                    蒼蒼之天而為欽崇乎？君子如或稱天地，是語法耳。<lb edRef="TXCH"/>
+                    譬若，知府縣者，以所屬府縣之名為己稱：南昌太守，<lb edRef="TXCH"/>
+                    稱謂南昌府；南昌縣大尹，稱謂南昌縣。比此，天地之<lb edRef="TXCH"/>
+                    主，或稱謂天地焉。非其以天地為體也，有原主在也。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="22A"/>
+                    吾恐人誤認此物之原主，而實謂之天主。不敢不辨。<lb edRef="TXCH"/>
+                    中士曰：明師論物之原始，既得其實，又不失其名；可<lb edRef="TXCH"/>
+                    知貴邦之論物理，非苟且跡畧之談，乃割開愚衷，不<lb edRef="TXCH"/>
+                    留疑處。天主之事，又加深篤。愧吾世儒佛徬要地，而<lb edRef="TXCH"/>
+                    詳尋他事，不知歸元之學。夫父母授我以身體發膚，<lb edRef="TXCH"/>
+                    我固當孝；君長賜我以田裡樹畜，使仰事俯育，我又<lb edRef="TXCH"/>
+                    當尊；矧此天主之為’大父母’也，’大君’也，為眾祖之所<lb edRef="TXCH"/>
+                    出，眾君之所命，生養萬物，奚可錯認而忘之？訓諭難<lb edRef="TXCH"/>
+                    悉，願以異日竟焉。西士曰：子所求，非利也，惟真道是<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="22B"/>
+                    問耳。大父之慈，將必佑講者以傳之，佑聽者以受之。<lb edRef="TXCH"/>
+                    吾子有問，吾敢不惟命？<lb edRef="TXCH"/>
+                </p>    
+                <p xml:lang="zh">
+                    第三篇論人魂不滅大異禽獸<lb edRef="TXCH"/>
+                    中士曰：吾觀天地萬物之間，惟人最貴，非鳥獸比；故<lb edRef="TXCH"/>
+                    謂，"人參天地"，又謂之’小天地’。然吾復察鳥獸，其情較<lb edRef="TXCH"/>
+                    人反為自適，何者？其方生也，忻忻自能行動；就其所<lb edRef="TXCH"/>
+                    養，避其所傷；身具毛羽爪甲；不俟衣屨，不待稼穡；無<lb edRef="TXCH"/>
+                    倉廩之積藏，無供爨之工器；隨食可以育生，隨便可<lb edRef="TXCH"/>
+                    以休息；嬉遊大造而常有餘閒；其間豈有彼我貧富<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="23A"/>
+                    尊卑之殊？豈有可否、先後、功名之慮操其心哉？熙熙<lb edRef="TXCH"/>
+                    逐逐，日從其所欲爾矣。人之生也，母嘗痛苦；出胎赤<lb edRef="TXCH"/>
+                    身，開口先哭，似已自知生世之難。初生而弱，步不能<lb edRef="TXCH"/>
+                    移。三春之後，方免懷抱。壯則各有所役，無不苦勞：農<lb edRef="TXCH"/>
+                    夫四時反土于<g ref="B02723">畎</g><g ref="A02642">畆</g>；客旅經秊徧度于山海，百工勤<lb edRef="TXCH"/>
+                    動手足，士人晝夜劇神殫思焉，所謂"君子勞心，小人<lb edRef="TXCH"/>
+                    勞力"者也。五旬之壽，五旬之苦。至如一身疾病，何啻<lb edRef="TXCH"/>
+                    百端？嘗觀醫家之書，一目之病，三百餘名，況罄此全<lb edRef="TXCH"/>
+                    體，又可勝計乎？其治病之藥，大都苦口。卽宇宙之間，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="23B"/>
+                    不拘大小蟲畜，肆其毒具，能為人害，如相盟詛；不過<lb edRef="TXCH"/>
+                    一寸之蟲，足殘九尺之軀。人類之中，又有相害。作為<lb edRef="TXCH"/>
+                    <g ref="A00323">兇</g>器，斷人手足，截人肢體。非命之死，多是人戕。今人<lb edRef="TXCH"/>
+                    猶嫌古之武器不利，則更謀新者益兇。故甚至盈野<lb edRef="TXCH"/>
+                    盈城，殺伐不已。縱遇太平之世，何家成全無缺？有財<lb edRef="TXCH"/>
+                    貨而無子孫，有子孫而無才能，有才能而身無安逸，<lb edRef="TXCH"/>
+                    有安逸而無權勢，則每自謂虧醜，極大喜樂而為小<lb edRef="TXCH"/>
+                    不幸所泯。蓋屢有之。終身多愁，終為大愁所承結，以<lb edRef="TXCH"/>
+                    至于死，身入土中，莫之能迯。故古賢有戒其子者曰：<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="24A"/>
+                    "爾勿欺己，爾勿昧心。人所競徃，惟于墳墓。"吾曹非生，<lb edRef="TXCH"/>
+                    是乃常死。入世始起死，曰死則了畢已，月過一日，吾<lb edRef="TXCH"/>
+                    少一日，近墓一步。夫此只訴其’外苦’耳，其’內苦’誰能<lb edRef="TXCH"/>
+                    當之？凡世界之苦辛，為真苦辛；其快樂，為偽快樂；其<lb edRef="TXCH"/>
+                    勞煩為常事，其娛樂為有數。一日之患，十載訴不盡；<lb edRef="TXCH"/>
+                    則一生之憂事，豈一生所能盡述乎？人心有此為愛、<lb edRef="TXCH"/>
+                    惡、忿、懼四情所伐，譬樹在高山，為四方之風所鼓，胡<lb edRef="TXCH"/>
+                    時得靜？或溺酒色，或惑功名、或迷財貨，各為欲擾，誰<lb edRef="TXCH"/>
+                    有安本分而不求外者？雖與之四海之廣，兆民之眾，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="24B"/>
+                    不止足也。愚矣！然則，人之道人猶未曉，況于他道？而<lb edRef="TXCH"/>
+                    或從釋氏，或由老氏，或師孔氏，而折斷天下之心于<lb edRef="TXCH"/>
+                    三道也乎。又有好事者，另立門戶，載以新說，不久而<lb edRef="TXCH"/>
+                    三教之歧必至于三千教而不止矣。雖自曰："正道！正<lb edRef="TXCH"/>
+                    道！"而天下之道日益乖亂。上者陵下，下者侮上，父暴<lb edRef="TXCH"/>
+                    子逆，君臣相忌，兄弟相賊，夫婦相離，朋友相欺，滿世<lb edRef="TXCH"/>
+                    皆詐謟誑誕，而無復真心。嗚呼！誠視世民，如大洋間<lb edRef="TXCH"/>
+                    著風浪，舟舶壞溺，而其人蕩漾波心，沈浮海角。且各<lb edRef="TXCH"/>
+                    急于己難，莫肯相顧。或執碎板，或乘朽蓬，或持敗籠，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="25A"/>
+                    隨手所值，緊操不舍，而相繼以死。良可惜也！不知天<lb edRef="TXCH"/>
+                    主何故，生人于此患難之處？則其愛人反似不如禽<lb edRef="TXCH"/>
+                    獸焉？西士曰：世上有如此患難，而吾<g ref="A02691">痴</g>心猶憐愛之<lb edRef="TXCH"/>
+                    不能割。使有寧泰，當何如耶？世態苦醜至如此極，而<lb edRef="TXCH"/>
+                    世人昏愚，欲于是為大業，闢田地，圖名聲，禱長壽，謀<lb edRef="TXCH"/>
+                    子孫，篡弒攻併，無所不為，豈不殆哉？古西國有二聞<lb edRef="TXCH"/>
+                    賢：一名黑蠟，一名德牧，黑蠟恆笑，德牧恆哭，皆因視<lb edRef="TXCH"/>
+                    世人之逐虛物也；笑因譏之，哭因憐之耳。又聞近古<lb edRef="TXCH"/>
+                    一國之禮：不知今尚存否，凡有產子者，親友共至其<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="25B"/>
+                    門哭而吊之，為其人之生于苦勞世也；凡有喪者，至<lb edRef="TXCH"/>
+                    其門作樂賀之，為其人之去勞苦世也。則又以生為<lb edRef="TXCH"/>
+                    兇，以死為吉焉。夫夫也，太甚矣！然而可謂達現世之<lb edRef="TXCH"/>
+                    情者也。現世者，非人世也，禽獸之本處所也，所以于<lb edRef="TXCH"/>
+                    是反自得有餘也。人之在世，不過暫次寄居也，所以<lb edRef="TXCH"/>
+                    于是不寧、不足也。賢友儒也，請以儒喻。今大比選試，<lb edRef="TXCH"/>
+                    是日士子似勞，徒隸似逸；有司豈厚徒隸而薄士子<lb edRef="TXCH"/>
+                    乎？蓋不越一日之事，而以定厥才品耳，試畢，則尊自<lb edRef="TXCH"/>
+                    尊，卑自卑也。吾觀天主亦置人于本世，以試其心而<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="26A"/>
+                    定德行之等也。故現世者，吾所僑寓，非長久居也。吾<lb edRef="TXCH"/>
+                    本家室，不在今世，在後世；不在人，在天，當于彼創本<lb edRef="TXCH"/>
+                    業焉。今世也，禽獸之世也，故鳥獸各類之像俯向於<lb edRef="TXCH"/>
+                    地；人為天民，則昂首向順于天。以今世為本處所者，<lb edRef="TXCH"/>
+                    禽獸之徒也，以天主為薄于人，固無恠耳。中士曰：如<lb edRef="TXCH"/>
+                    言後世天堂地獄，便是佛教，吾儒不信。西士曰：是何<lb edRef="TXCH"/>
+                    語乎？佛氏戒殺人，儒者亦禁人亂法殺人，則儒佛同<lb edRef="TXCH"/>
+                    歟？鳳凰飛，蝙蝠亦飛，則鳳凰蝙蝠同歟？事物有一二<lb edRef="TXCH"/>
+                    情相似，而其實大異不同者。天主教，古教也；釋氏西<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="26B"/>
+                    民，必竊聞其說矣。凡欲傳私道者，不以三四正語雜<lb edRef="TXCH"/>
+                    入，其誰信之？釋氏借天主，天堂、地獄之義，以傳己私<lb edRef="TXCH"/>
+                    意邪道；吾傳正道，豈反置弗講乎？釋氏未生，天主教<lb edRef="TXCH"/>
+                    人已有其說：修道者後世必登天堂受無窮之樂，免<lb edRef="TXCH"/>
+                    墮地獄受不息之殃。故知人之精靈常生不滅。中士<lb edRef="TXCH"/>
+                    曰：夫常生而受無窮之樂，人所欲無大于是者。但未<lb edRef="TXCH"/>
+                    深明其理。西士曰：人有魂、魄，兩者全而生焉；死則其<lb edRef="TXCH"/>
+                    魄化散歸土，而魂常在不滅。吾入中國嘗聞有以魂<lb edRef="TXCH"/>
+                    為可滅，而等之禽獸者；其餘天下名教名邦，皆省人<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="27A"/>
+                    魂不滅，而大殊于禽獸者也。吾言此理，子試虛心聽<lb edRef="TXCH"/>
+                    之。彼世界之魂有三品：下品名曰生魂，卽草木之魂<lb edRef="TXCH"/>
+                    是也。此魂扶草木以生長，草木枯萎，魂亦消滅；中品<lb edRef="TXCH"/>
+                    名曰覺魂，則禽獸之魂也，此能附禽獸長育，而又使<lb edRef="TXCH"/>
+                    之以耳目視聽，以口鼻啖嗅，以肢體覺物情，但不能<lb edRef="TXCH"/>
+                    推論道理，至死而魂亦滅焉；上品名曰靈魂，卽人魂<lb edRef="TXCH"/>
+                    也。此兼生魂，覺魂，能扶人長養及使人知覺物情，而<lb edRef="TXCH"/>
+                    又使之能推論事物，明辨理義。人身雖死，而魂非死，<lb edRef="TXCH"/>
+                    蓋永存不滅者焉。凡知覺之事，倚賴于身形，身形死<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="27B"/>
+                    亡，則覺魂無所用之。故草木禽獸之魂依身以為本<lb edRef="TXCH"/>
+                    情，身歿而情魂隨之以殞。若推論明辨之事，則不必<lb edRef="TXCH"/>
+                    倚據于身形而其靈自在；身雖歿，形雖渙，其靈魂仍<lb edRef="TXCH"/>
+                    復能用之也。故人與草木禽獸不同也。中士曰：何謂<lb edRef="TXCH"/>
+                    賴身與否？西士曰：長育身體之事，無身體則無所長<lb edRef="TXCH"/>
+                    育矣。視之以目司焉，聽之以耳司焉，嗅之以鼻司焉，<lb edRef="TXCH"/>
+                    啖之以口司焉，知覺物情之以四肢知覺焉。然而，色<lb edRef="TXCH"/>
+                    不置目前，則不見色矣；聲不近于耳，則聲不聞矣；臭<lb edRef="TXCH"/>
+                    近于鼻則能辨，遠則不辨也；味之鹹酸甘苦入口則<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="28A"/>
+                    知，不入則不知也；冷熱硬<g ref="A04068">軟</g>合于身，我方覺之，遠之<lb edRef="TXCH"/>
+                    則不覺也。況聲同一耳也，聾者不聞；色同一目也，瞽<lb edRef="TXCH"/>
+                    者不見。故曰：覺魂賴乎身，身死而隨熄也。若夫靈魂<lb edRef="TXCH"/>
+                    之本用，則不恃乎身焉，蓋恃身則為身所役，不能擇<lb edRef="TXCH"/>
+                    其是非。如禽獸見可食之物卽欲食，不能自已，豈復<lb edRef="TXCH"/>
+                    明其是非？人當饑餓之時，若義不可食，立志不食，雖<lb edRef="TXCH"/>
+                    有美味列前，不屑食矣。又如人身雖出遊在外，而此<lb edRef="TXCH"/>
+                    心一點猶念家中，常有歸思，則此明理之魂賴身為<lb edRef="TXCH"/>
+                    用者哉？子欲知人魂不滅之緣，須悟世界之物，凡見<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="28B"/>
+                    殘滅，必有殘滅之者。殘滅之因，從相悖起。物無相悖，<lb edRef="TXCH"/>
+                    绝无相滅。日月星辰麗于天，何所繫屬，而卒無殘滅<lb edRef="TXCH"/>
+                    者，因無相悖故也。凡天下之物，莫不以火、氣、水、土四<lb edRef="TXCH"/>
+                    行相結以成。然火性熱乾，則背于水，水性冷濕也；氣<lb edRef="TXCH"/>
+                    性濕熱，則背于土，土性乾冷也。兩者相對相敵，自必<lb edRef="TXCH"/>
+                    相賊，卽同在相結一物之內，其物豈得長久和平？其<lb edRef="TXCH"/>
+                    間未免時相伐兢，但有一者偏勝，其物必致壞亡。故<lb edRef="TXCH"/>
+                    此有四行之物，無有不泯滅者。夫靈魂則神也，于四<lb edRef="TXCH"/>
+                    行無関焉，孰從而悖滅之？中士曰：神誠無悖也。然吾<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="29A"/>
+                    烏知人魂為神，而禽獸則否耶？西士曰：徵其實何有<lb edRef="TXCH"/>
+                    乎？理有數端，自悟則可釋疑也。其一曰：有形之魂不<lb edRef="TXCH"/>
+                    能為有之主，而恆為身之所役，以就墮落。是以禽獸<lb edRef="TXCH"/>
+                    常行本欲之役，徇其情之所導而不能自檢。獨人之<lb edRef="TXCH"/>
+                    魂能為身主，而隨吾志之所縱止，故志有專向，力卽<lb edRef="TXCH"/>
+                    從焉。雖有私欲，豈能違公理所令乎？則靈魂信專一<lb edRef="TXCH"/>
+                    身之權，屬于神者也，與有形者異也。其二曰：一物之<lb edRef="TXCH"/>
+                    生惟得一心。若人則兼有二心：獸心、人心是也；則亦<lb edRef="TXCH"/>
+                    有二性：一乃形性，一乃神性也。故舉凡情之相背，亦<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="29B"/>
+                    由所發之性相背焉。人之遇一事也，且同一時也，而<lb edRef="TXCH"/>
+                    有兩念並興，屢覺兩逆，如吾或惑酒色，卽似迷戀欲<lb edRef="TXCH"/>
+                    從，又復慮其非理。從彼，謂之獸心，與禽獸無別；從此，<lb edRef="TXCH"/>
+                    謂之人心，與天神相同也。人于一心、一時、一事，不得<lb edRef="TXCH"/>
+                    兩情相背並立：如目也，不能一時覩一物，而並不覩<lb edRef="TXCH"/>
+                    之也；如耳也，不能一時聽一聲，而並不聽之也。是以<lb edRef="TXCH"/>
+                    兩相悖之情，必由兩相悖之心；兩相悖之心，必由兩<lb edRef="TXCH"/>
+                    相背之性也。試嘗二江之水，一鹹一淡，則雖未見源<lb edRef="TXCH"/>
+                    泉，亦證所發不一矣。其三曰：物類之所好惡，恆與其<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="30A"/>
+                    性相稱焉。故着形之性，惟着形之事為好惡；而超形<lb edRef="TXCH"/>
+                    之性，以無形之事為愛惡。吾察萬生之情，凡禽獸所<lb edRef="TXCH"/>
+                    貪娛，惟味、色、四肢安逸耳已，所驚駭，惟饑、勞、四肢傷<lb edRef="TXCH"/>
+                    殘耳已。是以斷曰：此諸類之性不神，乃着形之性也。<lb edRef="TXCH"/>
+                    若人之所喜惡，雖亦有形之事，然德善，罪惡之事為<lb edRef="TXCH"/>
+                    甚，皆無形者也。是以斷曰：人之性，兼得有形、無形兩<lb edRef="TXCH"/>
+                    端者也。此靈魂之為神也。其四曰：凡受事物者，必以<lb edRef="TXCH"/>
+                    受者之態受焉，譬如瓦器受水，器圓則所受之水圓，<lb edRef="TXCH"/>
+                    器方則所受之水方。世間所受，無不如是。則人魂之<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="30B"/>
+                    神，何以疑乎？我欲明物，如以己心受其物焉，其物有<lb edRef="TXCH"/>
+                    形吾必脫形而神之，然後能納之于心。如有黃牛于<lb edRef="TXCH"/>
+                    此，吾欲明其性體，則視其黃曰非牛也，乃牛色耳；聽<lb edRef="TXCH"/>
+                    其聲曰非牛也，乃牛聲耳；啖其肉味曰非牛也，乃牛<lb edRef="TXCH"/>
+                    肉味耳；則知夫牛自有可以脫其聲、色、味等形者之<lb edRef="TXCH"/>
+                    情而神焉者。又如人觀百雉之城，可置之于方寸之<lb edRef="TXCH"/>
+                    心。非人心至神，何以方寸之地能容百雉之城乎？能<lb edRef="TXCH"/>
+                    神所受者，自非神也，未之有也。其五曰：天主生人，使<lb edRef="TXCH"/>
+                    之有所司官者，固與其所屬之物相稱者也。目司視，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="31A"/>
+                    則所屬者色相；耳司聽，則所屬者音聲；鼻口司臭、司<lb edRef="TXCH"/>
+                    嗜，則所屬者臭味。耳、目、口、鼻有形，則併色、音、臭、味之<lb edRef="TXCH"/>
+                    類均有形焉。吾人一心，乃有司欲，司悟二官，欲之所<lb edRef="TXCH"/>
+                    屬善者耳，悟之所屬真者耳。善與真無形，則司欲，司<lb edRef="TXCH"/>
+                    悟之為其官者，亦無形矣，所為神也。神之性能達形<lb edRef="TXCH"/>
+                    之性，而有形者固未能通無形之性也。夫人能明達<lb edRef="TXCH"/>
+                    鬼神及諸無形之性，非神而何？中士曰：設使吾言：世<lb edRef="TXCH"/>
+                    無鬼神，則亦言：無無形之性，而人豈能遂明之乎？則<lb edRef="TXCH"/>
+                    此五理似無的據。西士曰：雖人有言無鬼神、無無形<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="31B"/>
+                    之性，然此人必先明鬼神無形之情性，方可定之曰<lb edRef="TXCH"/>
+                    有無焉。苟弗明曉其性之態，安知其有無哉？如曰：雪<lb edRef="TXCH"/>
+                    白，非黑者，必其明’黑白之情’，然後可以辯雪之為白<lb edRef="TXCH"/>
+                    而非黑。則人心能通無形之性，益著矣。其六曰：肉心<lb edRef="TXCH"/>
+                    之知，猶如小器，有限不廣，如以線系雀于木，不能展<lb edRef="TXCH"/>
+                    翅高飛，線之阻也。是以禽獸雖得知覺有形之外，情<lb edRef="TXCH"/>
+                    不能通，又弗能反諸己而知其本性之態。若無形之心，<lb edRef="TXCH"/>
+                    最恢最宏，非小器所限，直通乎無碍之境。如雀斷<lb edRef="TXCH"/>
+                    其所束之線，則高飛戾天，誰得而禦之？故人之靈非<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="32A"/>
+                    惟知其物外形情，且暢曉其隱體，而又能反觀諸己，<lb edRef="TXCH"/>
+                    明己本性之態焉，此其非屬有形，益可審矣。所以言：<lb edRef="TXCH"/>
+                    人魂為神，不容泯滅者也。因有此理，實為修道基焉。<lb edRef="TXCH"/>
+                    又試揭三、四端理，以明徵之。其一曰：人心皆欲傳播<lb edRef="TXCH"/>
+                    善名，而忌遺惡聲，殆與眾生不侔。是故行事期協公<lb edRef="TXCH"/>
+                    評，以邀人稱賞：或立功業，或輯書冊，或謀術藝，或致<lb edRef="TXCH"/>
+                    身命，凡以求令聞廣譽，顯名于世，雖捐生不惜，此心<lb edRef="TXCH"/>
+                    人大槩皆有之。而愚者則無，愈愚則愈無焉。試問，死<lb edRef="TXCH"/>
+                    後，吾聞知吾所遺聲名否？如以形論，則骨肉歸土，未<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="32B"/>
+                    免朽化，何為能聞？然靈魂常在不滅，所遺聲名善惡<lb edRef="TXCH"/>
+                    寔與我生無異。若謂靈魂隨死銷滅，尚勞心以求休<lb edRef="TXCH"/>
+                    譽，譬或寘玅盡，以己既盲時看焉；或備美樂，以己既<lb edRef="TXCH"/>
+                    聾時聽焉。此聲名何與于我？而人人求之，至死不休。<lb edRef="TXCH"/>
+                    彼孝子慈孫，中國之古禮，四季修其祖廟，設其裳衣，<lb edRef="TXCH"/>
+                    薦其時食，以說考妣。使其形、神盡亡，不能聽吾告哀，<lb edRef="TXCH"/>
+                    視吾稽顙，知吾事死如事生，事亡如事存之心，則固<lb edRef="TXCH"/>
+                    非自國君至于庶人大禮，乃童子空戲耳。其二曰：上<lb edRef="TXCH"/>
+                    帝降生萬品，有物有則，無徒物，無空則。且歷舉名品<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="33A"/>
+                    之情，皆求遂其性所願欲，而不外求其勢之所難獲。<lb edRef="TXCH"/>
+                    是以魚鱉樂潛川淵，而不兾游于山嶺；兔鹿性喜走<lb edRef="TXCH"/>
+                    山嶺，而不欲潛于水中。故鳥獸之欲非在常生，不在<lb edRef="TXCH"/>
+                    後世之躋天堂受無窮之樂，其下情所願不踰本世<lb edRef="TXCH"/>
+                    之事。獨吾人雖習聞異論，有神、身均滅之說，亦無不<lb edRef="TXCH"/>
+                    兾愛長生，願居樂地，享無疆之福者。設使無人可得<lb edRef="TXCH"/>
+                    以盡實其情，豈天主徒賦之于眾人心哉？何不觀普<lb edRef="TXCH"/>
+                    天之下多有拋別家產，離棄骨肉，而徃深山窮谷誠<lb edRef="TXCH"/>
+                    心修行？此輩俱不以今世為重，祈望來世真福。若吾<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="33B"/>
+                    魂隨身而歿，詎不枉費其意乎？其三曰：天下萬物惟<lb edRef="TXCH"/>
+                    人心廣大，窮本世之事物弗克充滿，則其所以充滿<lb edRef="TXCH"/>
+                    之者在後世，可曉矣。蓋天主至智、至仁，凡厥所為人，<lb edRef="TXCH"/>
+                    不能更有非議。彼各依其世態，以生其物之態。故欲<lb edRef="TXCH"/>
+                    使禽獸止于今世，則所付之願不越此一世墜落事，<lb edRef="TXCH"/>
+                    求飽而飽則已耳。欲使人類生乎千萬世，則所賦之<lb edRef="TXCH"/>
+                    願不徒在一世須臾之欲，于是不圖止求一飽，而求<lb edRef="TXCH"/>
+                    之必莫得者焉。試觀商賈殖貨之人，雖金玉盈箱，富<lb edRef="TXCH"/>
+                    甲州縣，心無慊足。又如仕者，躐身世之浮名，趨明時<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="34A"/>
+                    之捷徑，惟圖軒冕華袞為榮。卽至于垂紳朝陛，晉職<lb edRef="TXCH"/>
+                    台階，心猶未滿，甚且極之奄有四海，臨長百姓，福貽<lb edRef="TXCH"/>
+                    子孫，其心亦無底<g ref="A01979">極</g>。此不足恠，皆緣天主所稟情欲，<lb edRef="TXCH"/>
+                    原乃無疆之壽、無限之樂，豈可以今世幾微之樂姑<lb edRef="TXCH"/>
+                    為饜足者？一蚊之小，不可飽龍、象；一粒之微，弗克寔<lb edRef="TXCH"/>
+                    太倉。西土古聖曾悟此理，瞻天嘆曰："上帝公父，爾寔<lb edRef="TXCH"/>
+                    生吾人輩于爾，惟爾能滿吾心也。人不歸爾，其心不<lb edRef="TXCH"/>
+                    能安足也。"其四曰：人性皆懼死者，雖親戚友朋，既死<lb edRef="TXCH"/>
+                    則莫肯安意近其屍。然爾猛獸之死弗懼者，則人性<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="34B"/>
+                    之靈自有良覺，自覺人死之後尚有魂在，可懼；而獸<lb edRef="TXCH"/>
+                    魂全散無所留以驚我也。其五曰：天主報應無私，善<lb edRef="TXCH"/>
+                    者必賞，惡者必罰。如今世之人，亦有為惡者富貴安<lb edRef="TXCH"/>
+                    樂，為善者貧賤苦難，天主固待其既死，然後取其善<lb edRef="TXCH"/>
+                    魂而賞之，取其惡魂而罰之。若魂因身終而滅，天主<lb edRef="TXCH"/>
+                    安得而賞罰之哉？中士曰：君子平生異于小人，則身<lb edRef="TXCH"/>
+                    後亦宜異于小人。死生同也，則所以異者必在于魂<lb edRef="TXCH"/>
+                    也。故儒有一種言善者能以道存聚本心，是以身死<lb edRef="TXCH"/>
+                    而心不散滅；惡者以罪敗壞本心，是以身死而心之<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="35A"/>
+                    散滅隨焉。此亦可誘人于善焉。西士曰：人之靈魂不<lb edRef="TXCH"/>
+                    拘善惡，皆不隨身後而滅，萬國之士信之，天主正經<lb edRef="TXCH"/>
+                    載之，余以數端實理證之矣。此分善惡之殊，則不載<lb edRef="TXCH"/>
+                    于經，不據于理，未敢以世之重事輕為新說，而簧鼓<lb edRef="TXCH"/>
+                    滋惑也。勸善沮惡有賞罰之正道，奚捐此而求他詭<lb edRef="TXCH"/>
+                    遇？人魂匪沙匪水可以聚散，魂乃神也，一身之主，四<lb edRef="TXCH"/>
+                    肢之動宗焉。以神散身，猶之可也；以身散神，如之何<lb edRef="TXCH"/>
+                    可哉？使惡行能散本心，則是小人必不壽矣。然有自<lb edRef="TXCH"/>
+                    少至老為惡不止，何以散其心猶能生耶？心之于身<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="35B"/>
+                    重乎血，血既散，身且不能立，則心既散，身又焉能行?<lb edRef="TXCH"/>
+                    況心堅乎身，積惡于已不能散身，何獨能散其心乎?<lb edRef="TXCH"/>
+                    若生時心已散，何待死後乎？造物者因其善否不易<lb edRef="TXCH"/>
+                    其性：如鳥獸之性非常生之性，則雖其間有善，未緣<lb edRef="TXCH"/>
+                    俾鳥獸常生。魔鬼之性，乃常生之性縱其為惡，未緣<lb edRef="TXCH"/>
+                    俾魔鬼殄滅。則惡人之心豈能因其惡而散滅焉？使<lb edRef="TXCH"/>
+                    惡人之魂概受滅亡之刑，則其刑亦未公，固非天主<lb edRef="TXCH"/>
+                    所出。蓋重罪有等，豈宜一切罰以滅亡哉？況被滅者，<lb edRef="TXCH"/>
+                    既歸于無，則亦必無患難、無苦辛、無所受刑，而其罪<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="36A"/>
+                    反脫，則是引導世人以無懼為惡，引導為惡者以無<lb edRef="TXCH"/>
+                    懼增其惡也。聖賢所謂心散、心亡，乃是譬詞。如吾汎<lb edRef="TXCH"/>
+                    濫逐于外事，而不專一，卽謂’心散’；如吾所務不在本<lb edRef="TXCH"/>
+                    性內事，而在外逸，卽謂’心亡’；非必真散、真亡也。善者<lb edRef="TXCH"/>
+                    藏心以德，似美飾之；惡者藏心以罪，似醜污之。此本<lb edRef="TXCH"/>
+                    性之體，兼身與神，非我結聚，乃天主賦之，以使我為<lb edRef="TXCH"/>
+                    人。其散亡之機亦非由我，常由天主。天主命其身期<lb edRef="TXCH"/>
+                    年而散，則期年以散，而吾不能永久。命其靈魂常生<lb edRef="TXCH"/>
+                    不滅，而吾焉能滅之耶？顧我所用何如善用之，則安<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="36B"/>
+                    泰；悞用之，則險危云耳。吾稟本性如得兼金，吾或以<lb edRef="TXCH"/>
+                    之造祭神之爵，或以之造藏穢之盤，皆我自為之。然<lb edRef="TXCH"/>
+                    其藏穢盤獨非兼金乎？增光于心，則<g ref="A00437">卒</g>騰天上之大<lb edRef="TXCH"/>
+                    光；增瞑于心，則卒降地下之大瞑，誰能排此理之大<lb edRef="TXCH"/>
+                    端哉？中士曰：吁！今吾方知人所異于禽獸者，非幾希<lb edRef="TXCH"/>
+                    也。靈魂不滅之理，甚正也，甚明也。西士曰：期己行于<lb edRef="TXCH"/>
+                    禽獸，不聞二性之殊者，頑也。高士志浮人品之上，詎<lb edRef="TXCH"/>
+                    願等己乎鄙類者哉？賢友得契尊旨，言必躍如。然性<lb edRef="TXCH"/>
+                    遐異矣，行宜勿邇焉。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="37A"/>
+                </p>    
+                <p xml:lang="zh">
+                    第四篇辯釋鬼神及人魂異論而觧天下萬物不<lb edRef="TXCH"/>
+                    可謂之一體<lb edRef="TXCH"/>
+                    中士曰：昨吾退習大誨，果審其皆有真理，不知吾國<lb edRef="TXCH"/>
+                    迂儒何以攻折鬼神之實為正道也？西士曰：吾遍察<lb edRef="TXCH"/>
+                    大邦之古經書，無不以祭祀鬼神為天子諸侯重事，<lb edRef="TXCH"/>
+                    故敬之如在其上，如在其左右，豈無其事而故為此<lb edRef="TXCH"/>
+                    矯誣哉？《盤庚》曰："失于政，陳于茲，高後丕乃崇降罪疾，<lb edRef="TXCH"/>
+                    曰：何虐朕民？"又曰："茲予有亂政同位，具乃貝玉。乃祖<lb edRef="TXCH"/>
+                    乃父丕乃告我高後。曰：作丕刑于朕孫。迪高後丕乃<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="37B"/>
+                    崇降弗祥。"《西伯戡黎》，祖伊諫紂曰："天子，天既訖我殷<lb edRef="TXCH"/>
+                    命；格人元龜，罔敢知吉。非先王不相我後人，惟王淫<lb edRef="TXCH"/>
+                    戲用自絕。"盤庚者，成湯九世孫，相違四百禩而猶祭<lb edRef="TXCH"/>
+                    之，而猶懼之，而猶以其能降罪、降不詳，勵己、勸民，則<lb edRef="TXCH"/>
+                    必以湯為仍在而未散矣。祖伊在盤庚之後，而謂殷<lb edRef="TXCH"/>
+                    先王既崩而能相其後孫，則以死者之靈魂為永在<lb edRef="TXCH"/>
+                    不滅矣。《金滕》"周公曰：’予仁若考，能多才多藝，能事鬼<lb edRef="TXCH"/>
+                    神。’又曰：’我之弗辟，我無以告我先王。’"《召誥》曰："天既遐<lb edRef="TXCH"/>
+                    終大邦殷命，茲殷多哲王在天，越厥後王后民。"《詩》云：<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="38A"/>
+                    "文王在上，于昭于天；文王陟降，在帝左右。"周公、召公<lb edRef="TXCH"/>
+                    何人乎？其謂成湯、文王既崩之後，猶在天陟降而能<lb edRef="TXCH"/>
+                    保佑國家，則以人魂死後為不散泯矣。貴邦以二公<lb edRef="TXCH"/>
+                    為聖，而以其言為誑，可乎？異端熾行，禱張為幻，難以<lb edRef="TXCH"/>
+                    攻詰，後之’正儒’其奈何？必將理斥其邪說，明論鬼神<lb edRef="TXCH"/>
+                    之性，其庶幾矣。中士曰：今之論鬼神者，各自有見。或<lb edRef="TXCH"/>
+                    謂天地間無鬼神之殊；或謂信之則有不信則無；<lb edRef="TXCH"/>
+                    或謂如說有則非，如說無則亦非，如說有無，則得之<lb edRef="TXCH"/>
+                    矣。西士曰：三言，一切以攻鬼神，而莫思其非，將排詆<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="38B"/>
+                    佛老之徒，而不覺忤古聖之旨。且夫鬼神，有山川、宗<lb edRef="TXCH"/>
+                    廟天地之異名異職，則其不等著矣。所謂二氣良能、<lb edRef="TXCH"/>
+                    造化之跡、氣之屈伸，非諸經所指之鬼神也。吾心信<lb edRef="TXCH"/>
+                    否，能有無物者否？講夢則或可，若論天地之大尊，奚<lb edRef="TXCH"/>
+                    用此恍惚之亂耶？譬如西域獅子，知者信其有，愚人<lb edRef="TXCH"/>
+                    或不信，然而獅子本有，彼不信者，能滅獅子之類哉？<lb edRef="TXCH"/>
+                    又況鬼神者哉？凡事物，有卽有，無卽無。蓋小人疑鬼<lb edRef="TXCH"/>
+                    神有無，因就學士而問以釋疑，如答之以有無，豈非<lb edRef="TXCH"/>
+                    愈增其疑乎？諸言之旨無他，惟曰："有，則人見之；人莫<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="39A"/>
+                    見之則無矣。"然茲語非學士者議論，乃郊野之誕耳。<lb edRef="TXCH"/>
+                    無色形之物，而欲以肉眼見之，比方欲以耳啖魚肉<lb edRef="TXCH"/>
+                    之味，可乎？誰能以俗眼見五常乎？誰見生者之魂乎？<lb edRef="TXCH"/>
+                    誰見風乎？以目覩物不如以理度之。夫目，或有所差，<lb edRef="TXCH"/>
+                    惟理無謬也。觀日輪者，愚人測之以目，謂大如甕底<lb edRef="TXCH"/>
+                    耳；儒者以理而計其高遠之極，則知其大乃過于普<lb edRef="TXCH"/>
+                    天之下也。置直木于澄水中而浸其半，以目視之如<lb edRef="TXCH"/>
+                    曲焉；以理度之，則仍自為直，其木非曲也。任目觀影，<lb edRef="TXCH"/>
+                    則以影為物，謂能動靜；然以理細察，則知影實無光<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="39B"/>
+                    者耳已，決非有物，況能動靜乎？故西校公語曰："耳目、<lb edRef="TXCH"/>
+                    口鼻、四肢所知覺物，必揆之于心理。心理無非焉，方<lb edRef="TXCH"/>
+                    可謂之真；若理有不順，則舍之就理可也。"人欲明事<lb edRef="TXCH"/>
+                    物之奧理，無他道焉，因外顯以推內隱，以其然騐其<lb edRef="TXCH"/>
+                    所以然。如觀屋頂煙騰，而屋內之必有火者可知。昔<lb edRef="TXCH"/>
+                    者，因天地萬物而證其固有天地萬物之主也，因人<lb edRef="TXCH"/>
+                    事而證其有不能散滅之靈魂也。則以證鬼神之必<lb edRef="TXCH"/>
+                    有，亦無異道矣。如云’死者形朽滅而神飄散泯然無<lb edRef="TXCH"/>
+                    迹’，此一二匹夫之云，無理可依，奈何以議聖賢之所<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="40A"/>
+                    既按乎哉？中士曰：《春秋》傳載：鄭伯有為厲。必以形見<lb edRef="TXCH"/>
+                    之也。人魂無形，而移變有形之物，此不可以理推矣。<lb edRef="TXCH"/>
+                    夫生而無異于人，豈死而有越人之能乎？若死者皆<lb edRef="TXCH"/>
+                    有知，則慈母有深愛子，一旦化去，獨不日在本家顧<lb edRef="TXCH"/>
+                    視向者所愛子乎？西士曰：《春秋》傳既言伯有死後為<lb edRef="TXCH"/>
+                    厲，則古春秋世亦已信人魂之不散滅矣。而俗儒以<lb edRef="TXCH"/>
+                    非薄鬼神為務，豈非春秋罪人乎？夫謂人死者，’非魂’<lb edRef="TXCH"/>
+                    死之謂，惟謂’人魄’耳、‘人形’耳。靈魂者，生時如拘縲線<lb edRef="TXCH"/>
+                    中；既死，則如出闇獄而脫手足之拳，益達事物之理<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="40B"/>
+                    焉，其知能當益滋精，踰于俗人，不宜為恠。君子知其<lb edRef="TXCH"/>
+                    然，故不以死為兇懼而忻然安之，謂之歸于本鄉。天<lb edRef="TXCH"/>
+                    主製作萬物，分定各有所在，不然則亂。如死者之魂<lb edRef="TXCH"/>
+                    仍可在家，豈謂之死乎？且觀星宿居於天上，不得降<lb edRef="TXCH"/>
+                    于地下而雜乎草木，草木生于地下，亦不得升於天<lb edRef="TXCH"/>
+                    上而雜乎星宿。萬物各安其所不得移動，譬水底魚<lb edRef="TXCH"/>
+                    饑將死，雖有香餌在岸，亦不得徃而食之。人之魂雖<lb edRef="TXCH"/>
+                    念妻子，豈得迴在家中？凡有迴世界者，必天主使之，<lb edRef="TXCH"/>
+                    或以勸善，或以懲惡，以騐人死之後其魂猶存，與其<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="41A"/>
+                    禽獸魂之散而不迴者異也。魂本無形，或有著顯於<lb edRef="TXCH"/>
+                    人，必托一虛像而發見焉，此亦不難之事。天主欲人<lb edRef="TXCH"/>
+                    盡知死後魂存，而分明曉示若此，而猶有罔詆無忌、<lb edRef="TXCH"/>
+                    亂教惑民，以己所不知，妄云人死魂散，無復形跡，非<lb edRef="TXCH"/>
+                    但悖妄易辯，且其人身後之魂必受妄言之殃矣。可<lb edRef="TXCH"/>
+                    不慎乎？中士曰：謂人之神魂死後散泯者，以神為氣<lb edRef="TXCH"/>
+                    耳。氣散有速漸之殊，如人不得其死，其氣尚聚久而<lb edRef="TXCH"/>
+                    漸泯，鄭伯有是也。又曰：陰陽二氣為物之體，而無所<lb edRef="TXCH"/>
+                    不在。天地之間無一物非陰陽，則無一物非鬼神也。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="41B"/>
+                    如尊教謂鬼神及人魂如此，則與吾常所聞無大異焉。<lb edRef="TXCH"/>
+                    西士曰：以氣為鬼神靈魂者，紊物類之實名者也。<lb edRef="TXCH"/>
+                    立教者，萬類之理當各類以本名。古經書云氣、云鬼<lb edRef="TXCH"/>
+                    神，文字不同，則其理亦異。有’祭鬼神’者矣，未聞有‘祭<lb edRef="TXCH"/>
+                    氣’者，何今之人紊用其名乎？云氣漸散，可見其理已<lb edRef="TXCH"/>
+                    窮，而言之盡妄。吾試問之：夫氣何時散盡？何病疾使<lb edRef="TXCH"/>
+                    之散？鳥獸常不得其死，其氣速散乎？漸散乎？何其不<lb edRef="TXCH"/>
+                    迴世乎？則死後之事皆未必知之審者，奚用妄論之<lb edRef="TXCH"/>
+                    哉？《中庸》謂："體物而不可遺。"以辭迎其意可也。蓋仲尼<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="42A"/>
+                    之意謂：鬼神體物，其德之盛耳，非為鬼神卽是其物<lb edRef="TXCH"/>
+                    也。且鬼神在物與魂神在人大異焉。魂神在人為其<lb edRef="TXCH"/>
+                    內本分，與人形為一體，故人以是能論理而列於靈<lb edRef="TXCH"/>
+                    才之類；彼鬼神在物，如長年在船非船之本分者，與<lb edRef="TXCH"/>
+                    船分為二物而各列於各類，故物雖有鬼神而弗登<lb edRef="TXCH"/>
+                    靈才之品也。但有物自或無靈，或無知覺，則天主命<lb edRef="TXCH"/>
+                    鬼神引導之，以適其所，茲所謂體物耳矣，與聖君以<lb edRef="TXCH"/>
+                    神治體國家同焉。不然，是天下無一物非靈也。蓋彼<lb edRef="TXCH"/>
+                    曰：天下每物有鬼神，而每以鬼神為靈，如草木金石<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="42B"/>
+                    豈可謂之靈哉？彼文王之民感君之恩，謂其台曰靈<lb edRef="TXCH"/>
+                    臺，謂其沼曰靈沼，不足為竒；今桀紂之臺、沼亦謂之<lb edRef="TXCH"/>
+                    靈矣，豈不亦混亂物之品等而莫之顧耶？分物之類，<lb edRef="TXCH"/>
+                    貴邦士者曰；或得其形，如金石是也；或另得生氣而<lb edRef="TXCH"/>
+                    長大，如草木是也；或更得知覺，如禽獸是也；或益精<lb edRef="TXCH"/>
+                    而得靈才，如人類是也。吾西洋之士猶加詳焉，觀後<lb edRef="TXCH"/>
+                    圖可見。但其倚賴之類最多，難以圖盡，故畧之，而特<lb edRef="TXCH"/>
+                    書其類之九元宗云。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="43A"/>
+                    物宗纇圖
+                    <pb edRef="TXCH" n="43B"/> 
+                    凡此物之萬品，各有一定之類，有屬靈者，有屬愚者。<lb edRef="TXCH"/>
+                    如吾于外國士傳：中國有儒謂鳥獸草木金石皆靈，<lb edRef="TXCH"/>
+                    與人類齊。豈不令之大驚哉？ 中士曰：雖吾國有謂鳥<lb edRef="TXCH"/>
+                    獸之性同乎人，但鳥獸性偏而人得其正，雖謂鳥獸<lb edRef="TXCH"/>
+                    有靈，然其靈微緲，人則得靈之廣大也，是以其類異<lb edRef="TXCH"/>
+                    也。西士曰：夫正偏小大不足以別類，僅別同類之等<lb edRef="TXCH"/>
+                    耳。正山、偏山、大山、小山，並為山類也。智者獲靈之大，<lb edRef="TXCH"/>
+                    愚人獲靈之小，賢者得靈之正，不肖得靈之偏，豈謂<lb edRef="TXCH"/>
+                    異類者哉？如小大偏正能分類，則人之一類，靈之巨、<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="44A"/>
+                    微、正、僻其類甚多。苟觀物類之圖，則審世上固惟有、<lb edRef="TXCH"/>
+                    無二者可別物異類焉耳。試言之：有形者為一類，<lb edRef="TXCH"/>
+                    則無形者異類也；生者為一類，則不生者異類也；能<lb edRef="TXCH"/>
+                    論理者惟人類本分，故天下萬類無與能論也。人之<lb edRef="TXCH"/>
+                    中，論有正偏小大，均列於會論之類，而惟差精粗。如<lb edRef="TXCH"/>
+                    謂鳥獸之性本靈，則夫其偏、其小，固同類于人者也，<lb edRef="TXCH"/>
+                    但不宜以似為真，以由外來者為內本。譬如因見銅<lb edRef="TXCH"/>
+                    壺之漏能定時候，卽謂銅水本靈可乎？將軍者有智<lb edRef="TXCH"/>
+                    謀以全軍而敗敵，其士卒順其令而或進、或退、或伏、<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="44B"/>
+                    或突，以成其功，誰曰士卒之本智不從外導者乎？明<lb edRef="TXCH"/>
+                    于類者，視各類之行動；熟察其本情，而審其志之所<lb edRef="TXCH"/>
+                    及。則知鳥獸者有鬼神為之闇誘，而引之以行上帝<lb edRef="TXCH"/>
+                    之命，出于不得不然，而莫知其然，非有自主之意。吾<lb edRef="TXCH"/>
+                    人類則能自立主張，而事為之際皆用其所本有之<lb edRef="TXCH"/>
+                    靈志也。中士曰：雖云天地萬物共一氣，然物之貌像<lb edRef="TXCH"/>
+                    不同，以是各分其類。如見身只是軀殼，軀殼內外莫<lb edRef="TXCH"/>
+                    非天地陰陽之氣，氣以造物，物以類異；如魚之在水，<lb edRef="TXCH"/>
+                    其外水與肚裹之水同，鱖魚肚裹之水與鯉魚肚裹<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="45A"/>
+                    之水同，獨其貌像常不一，則魚之類亦不一焉。故觀<lb edRef="TXCH"/>
+                    天下之萬像，而可以騐萬類矣。西士曰：設徒以像分<lb edRef="TXCH"/>
+                    物，此非分物之類者也，是別像之類者耳。像固非其<lb edRef="TXCH"/>
+                    物，也以像分物，不以性分物，則犬之性猶牛之性，犬<lb edRef="TXCH"/>
+                    牛之性猶人之性歟，是告子之後又一告子也。以泥<lb edRef="TXCH"/>
+                    塑虎塑人二者，惟以貌像謂之異，宜也；活虎與活人，<lb edRef="TXCH"/>
+                    謂止以其貌異焉，決不宜矣。以貌像別物者大槩相<lb edRef="TXCH"/>
+                    同，不可謂異類；如以泥虎例泥人，其貌雖殊，其為泥<lb edRef="TXCH"/>
+                    類則一耳。若以氣為神，以為生活之本，則生者何由<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="45B"/>
+                    得死乎？物死之後，氣在內外猶然充滿，何適而能離<lb edRef="TXCH"/>
+                    氣？何患其無氣而死？故氣非生活之本也。傳云："差毫<lb edRef="TXCH"/>
+                    釐，謬千里。"未知氣為四行之一，而同之于鬼神及靈<lb edRef="TXCH"/>
+                    魂，亦不足恠；若知氣為一行，則不難說其體用矣。且<lb edRef="TXCH"/>
+                    夫萬者，和水火土三行，而為萬物之形者也；而靈魂<lb edRef="TXCH"/>
+                    者，為人之內分，一身之主，以呼吸出入其氣者也。蓋<lb edRef="TXCH"/>
+                    人與飛走諸類皆生氣內，以便調涼其心中之火，是<lb edRef="TXCH"/>
+                    故恆用呼吸，以每息更氣，而出熱致涼以生焉。魚潛<lb edRef="TXCH"/>
+                    水間，水性甚冷，能自外透涼于內火，所以其類多無<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="46A"/>
+                    呼吸之資也。夫鬼神非物之分，乃無形別物之類。其<lb edRef="TXCH"/>
+                    本職惟以天主之命司造化之事，無柄世之專權。故<lb edRef="TXCH"/>
+                    仲尼曰："敬鬼神而遠之。"彼福祿、免罪非鬼神所能，由<lb edRef="TXCH"/>
+                    天主耳。而時人諂瀆，欲自此得之，則非其得之之道<lb edRef="TXCH"/>
+                    也。夫"遠之"意與"獲罪乎天，無所禱"同，豈可以"遠之" 觧<lb edRef="TXCH"/>
+                    "無之"而陷仲尼于無鬼神之惑哉？中士曰；吾古之儒<lb edRef="TXCH"/>
+                    者，明察天地萬物本性皆善，俱有宏理，不可更易。以<lb edRef="TXCH"/>
+                    為物有巨微，其性一體，則曰天主上帝卽在各物之<lb edRef="TXCH"/>
+                    內而與物為一，故勸人勿為惡以玷己之本善焉，勿<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="46B"/>
+                    違義以犯己之本理焉，勿害物以侮其內心之上帝<lb edRef="TXCH"/>
+                    焉。又曰人物壞喪，不滅本性而化歸于天主，此亦人<lb edRef="TXCH"/>
+                    魂不滅之謂，但恐于先生所論天主者不合。西士曰：<lb edRef="TXCH"/>
+                    茲語之謬，比前所聞者愈甚，曷敢合之乎？吾不敢以<lb edRef="TXCH"/>
+                    此簡吾上帝之尊也。天主經有傳：昔者天主化生天<lb edRef="TXCH"/>
+                    地，卽化生諸神之匯，其間有一鉅神，名謂"輅齊拂兒"，<lb edRef="TXCH"/>
+                    其視己如是靈明，便傲然曰："吾可謂與天主同等矣"。<lb edRef="TXCH"/>
+                    天主怒而並其從者數萬神變為魔鬼，降置之于地<lb edRef="TXCH"/>
+                    獄。自是天地間始有魔鬼，有地獄矣。夫語"物與造物<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="47A"/>
+                    者同"，乃輅齊拂兒鬼傲語，孰敢述之歟？世人不禁佛<lb edRef="TXCH"/>
+                    氏誑經，不覺染其毒語。周公仲尼之論、貴邦古經書，<lb edRef="TXCH"/>
+                    孰有狎后帝而與之一者？設恆民中有一匹夫，自稱<lb edRef="TXCH"/>
+                    與天子同尊，其能免乎？地上民不可妄比肩地上君，<lb edRef="TXCH"/>
+                    而可同天上帝乎？人之稱人謂曰："爾為爾，我為我。"而<lb edRef="TXCH"/>
+                    今凡溝壑昆蟲與上帝曰："爾為我，我為爾。"豈不謂極<lb edRef="TXCH"/>
+                    抗大悖乎哉？中士曰：佛氏無遜于上帝也。其貴人身，<lb edRef="TXCH"/>
+                    尊人德，有可取也。上帝之德固厚，而吾人亦具有至<lb edRef="TXCH"/>
+                    德；上帝固具無量能，而吾人心亦能應萬事。試觀先<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="47B"/>
+                    聖調元開物，立教明倫，養民以耕鑿機杼，利民以舟<lb edRef="TXCH"/>
+                    車財貨，其肇基經世，垂萬世不易之鴻猷，而天下永<lb edRef="TXCH"/>
+                    賴以安，未聞蔑先聖而上帝自作自樹，以臻至治。由<lb edRef="TXCH"/>
+                    是論之，人之德能，雖上帝罔或踰焉。詎云創造天地<lb edRef="TXCH"/>
+                    獨天主能乎？世不達己心之玅，而曰心局身界之內；<lb edRef="TXCH"/>
+                    佛氏見其大，不肯自屈，則謂："是身也，與天地萬物鹹<lb edRef="TXCH"/>
+                    蘊乎心。"是心無遠不逮，無高不升，無廣不括，無細不<lb edRef="TXCH"/>
+                    入，無堅不度，故具識根者宜知：方寸間儼居天主。非<lb edRef="TXCH"/>
+                    天主，寧如是耶？西士曰：佛氏未知己，奚知天主？彼以<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="48A"/>
+                    眇眇躬受明于天主，偶蓄一材、飭一行，矜誇傲睨，肆<lb edRef="TXCH"/>
+                    然比附于天主之尊，是豈貴吾人身、尊吾人德？乃適<lb edRef="TXCH"/>
+                    以賤人喪德耳。傲者諸德之敵也，一養傲于心，百行<lb edRef="TXCH"/>
+                    皆敗焉。西土聖人有曰："心無謙而積德，如對風堆沙。"<lb edRef="TXCH"/>
+                    聖人崇謙讓。天主之弗讓，如遜人何哉？其視聖人，翼<lb edRef="TXCH"/>
+                    翼乹乹，畏天明威，身後天下，不有其知，殆天淵而水<lb edRef="TXCH"/>
+                    火矣。聖人不敢居聖，而令恆人擬天主乎？夫德基于<lb edRef="TXCH"/>
+                    修身，成于事上帝。周之德必以事上帝為務，今以所<lb edRef="TXCH"/>
+                    當凜然敬事者而曰"吾與同焉"，悖何甚乎？至於裁成<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="48B"/>
+                    庶物，蓋因天主已形之物而順材以成之，非先自無<lb edRef="TXCH"/>
+                    物而能創之也。如制器然，陶者以金，斲者以木，然而<lb edRef="TXCH"/>
+                    金木之體先備也。無體而使之有體，人孰能之？人之<lb edRef="TXCH"/>
+                    成人，循其性而教之，非人本無性而能使之有性也。<lb edRef="TXCH"/>
+                    若夫天主造物，則以無而為有，一令而萬像卽出焉。<lb edRef="TXCH"/>
+                    故曰：無量能也，于人大殊矣。且天主之造物也，如硃<lb edRef="TXCH"/>
+                    印之印楮帛，楮帛之印非可執之為印，斯乃印之蹟<lb edRef="TXCH"/>
+                    耳。人物之理皆天主跡也。使欲當之原印而復以印<lb edRef="TXCH"/>
+                    諸物，不亦謬乎？智者之心含天地、具萬物，非真天地<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="49A"/>
+                    萬物之體也。惟仰觀俯察，鑒其形而達其理，求其本<lb edRef="TXCH"/>
+                    而遂其用耳，故目所未覩，則心不得有其像。若止水、<lb edRef="TXCH"/>
+                    若明鏡影諸萬物，乃謂明鏡、止水均有天地，卽能造<lb edRef="TXCH"/>
+                    作之，豈可乎？必言顧行乃可信焉，天主萬物之原，能<lb edRef="TXCH"/>
+                    生萬物。若人卽與之同，當亦能生之，然誰人能生一<lb edRef="TXCH"/>
+                    山一川于此乎？中士曰：所云生天地之天主者，與存<lb edRef="TXCH"/>
+                    養萬物天上之天主者，佛氏所云"我"也。古與今，上與<lb edRef="TXCH"/>
+                    下，我無間焉，蓋全一體也。第緣四大沈淪昧晦，而情<lb edRef="TXCH"/>
+                    隨事移，真元日鑿，德機日弛，而吾、天主並溺也；則吾<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="49B"/>
+                    之不能造養物，非本也，其流使然耳。夜光之珠，以蒙<lb edRef="TXCH"/>
+                    垢而損厥值，追究其初體，昉可為知也。西士曰：吁，咈<lb edRef="TXCH"/>
+                    哉！有是毒唾，而世人競茹之，悲歟。非淪昧之極，孰敢<lb edRef="TXCH"/>
+                    謂萬物之原、天地之靈為物淪昧乎哉？夫人德堅白，<lb edRef="TXCH"/>
+                    尚不以磨涅變其真體；物用凝固，不以運動失其常<lb edRef="TXCH"/>
+                    度。至大無偶、至尊無上，乃以人生幻軀能累及而污<lb edRef="TXCH"/>
+                    惑之？是人斯勝天，欲斯勝理，神為形之役，情為性之<lb edRef="TXCH"/>
+                    根，于識本末者，宜不喻而自觧矣。且兩間之比，孰有<lb edRef="TXCH"/>
+                    踰於造物者，能囿之、陷之于四大之中，以昧溺之乎？<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="50A"/>
+                    夫天上之天主，于我既共一體，則二之澄澈、混淆無<lb edRef="TXCH"/>
+                    異焉。譬如首上靈神于心內靈神同為一體也，故適<lb edRef="TXCH"/>
+                    痛楚之遭、變故之值，首之神混淆，心之神鈞混淆焉，<lb edRef="TXCH"/>
+                    必不得一亂一治之矣。今吾心之亂，固不能混天上<lb edRef="TXCH"/>
+                    天主之永攸澄澈，彼永攸澄澈又不免我心之混淆，<lb edRef="TXCH"/>
+                    則吾于天主非共為一體，豈不騐乎？夫曰天主與物<lb edRef="TXCH"/>
+                    同：或謂天主卽是其物，而外無他物。或謂其在物，而<lb edRef="TXCH"/>
+                    為內分之一。或謂物為天主所使用，如械器為匠之<lb edRef="TXCH"/>
+                    所使用。此三言皆傷理者，吾逐逐辯之也。其云：天主<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="50B"/>
+                    卽是各物，則宇宙之間雖有萬物，當無二性，既無二<lb edRef="TXCH"/>
+                    性，是無萬物，豈不混殽物理？況物有常情，皆欲自全，<lb edRef="TXCH"/>
+                    無欲自害。吾視天下之物固有相害相殛者，如水滅<lb edRef="TXCH"/>
+                    火，火焚木，大魚食小魚，強禽吞弱禽，既天主卽是各<lb edRef="TXCH"/>
+                    物，豈天主自為戕害而不及一存護乎？然天主無可<lb edRef="TXCH"/>
+                    戕害之理。從是說也，吾身卽上帝，吾祭上帝卽自為<lb edRef="TXCH"/>
+                    祭耳，益無是禮也。果爾，則天主可謂木石等物，而人<lb edRef="TXCH"/>
+                    能耳順之乎？其曰天主為物之內本分，則是天主微<lb edRef="TXCH"/>
+                    乎物矣。凡全者，皆其大于名分者也。鬥大于升，升乃<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="51A"/>
+                    鬥十分之一耳。外者包乎內。若天主在物之內為其<lb edRef="TXCH"/>
+                    本分，則物大于天主，而天主反小也。萬物之原乃小<lb edRef="TXCH"/>
+                    乎其所生之物，其然乎？豈其然乎？且問天主在人內<lb edRef="TXCH"/>
+                    分，為尊主歟？為賤役歟？為賤役而聽他分之命固不<lb edRef="TXCH"/>
+                    可也。如為尊主而專握一身之柄，則天下宜無一人<lb edRef="TXCH"/>
+                    為惡者，何為惡者滋眾耶？天主為善之本根，德純無<lb edRef="TXCH"/>
+                    渣，既為一身之主，猶致蔽於私欲，恣為邪行，德何衰<lb edRef="TXCH"/>
+                    耶？當其製作乾坤，無為不中節，奚今司一身之行，乃<lb edRef="TXCH"/>
+                    有不中者？又為諸戒原，乃有不守戒者，不能乎？不識<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="51B"/>
+                    乎？不思乎？不肯乎？皆不可謂也。其曰物如軀殼，天主<lb edRef="TXCH"/>
+                    使用之若匠者使用其器械，則天主尤非其物矣。石<lb edRef="TXCH"/>
+                    匠非其鑿，漁者非其網、非其舟。天主非其物，何謂之<lb edRef="TXCH"/>
+                    同一體乎？循此辯焉，其說謂萬物行動不係于物，皆<lb edRef="TXCH"/>
+                    天主事，如械器之事皆使械器者之功：夫不曰耜耒<lb edRef="TXCH"/>
+                    耕田，乃曰農夫耕之；不曰斧劈柴，乃曰樵夫劈之；不<lb edRef="TXCH"/>
+                    曰鋸斷板，乃曰梓人斷之。則是火莫焚，水莫流，鳥莫<lb edRef="TXCH"/>
+                    鳴，獸莫走，人莫騎馬乘車，乃皆惟天主者也。小人穴<lb edRef="TXCH"/>
+                    壁踰牆、禦旅于野，非其罪，亦天主使之罪乎？何以<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="52A"/>
+                    當惡怨其人，懲戮其人乎？為善之人亦悉非其功，何<lb edRef="TXCH"/>
+                    為當賞之乎？亂天下者，莫大于信是語矣。且凡物不<lb edRef="TXCH"/>
+                    以天主為本分，故散而不返歸于天主，惟歸其所結<lb edRef="TXCH"/>
+                    物類爾矣。如物壞死而皆歸本分，則將返歸天主，不<lb edRef="TXCH"/>
+                    謂壞死，乃益生全，人亦誰不悅速死以化歸上帝乎？<lb edRef="TXCH"/>
+                    孝子為親厚寘棺槨，何不令考妣速化為上尊乎？嘗<lb edRef="TXCH"/>
+                    證天主者，始萬物而製作之者也。其性渾全成就，物<lb edRef="TXCH"/>
+                    不及測，矧謂之同？吾審各物之性善而理精者，謂天<lb edRef="TXCH"/>
+                    主之跡可也，謂之天主則謬矣。試如見大跡印于路，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="52B"/>
+                    因騐大人之足曾過于此，不至以其跡為大人。觀畫<lb edRef="TXCH"/>
+                    之精玅，慕其畫者曰高手之工，而莫以是為卽畫工。<lb edRef="TXCH"/>
+                    天主生萬森之物，以我推徵其原，至精極盛，仰念愛<lb edRef="TXCH"/>
+                    慕，無時可釋。使或泥于偏說，忘其本原，豈不大誤？夫<lb edRef="TXCH"/>
+                    誤之原非他，由其不能辨乎物之’所以然’也。所以然<lb edRef="TXCH"/>
+                    者，有在物之內分，如陰陽是也；有在物之外分，如作<lb edRef="TXCH"/>
+                    者之類是也；天主作物，為其公作者，則在物之外分<lb edRef="TXCH"/>
+                    矣。苐其在物，且非一端：或在物如在其所，若人在家、<lb edRef="TXCH"/>
+                    在庭焉；或在物為其分，若手足在身，陰陽在人焉；或<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="53A"/>
+                    倚賴之在自立者，如白在馬為白馬，寒在冰為寒冰<lb edRef="TXCH"/>
+                    焉；或在物如’所以然’之在其‘已然’，若日光之在其所<lb edRef="TXCH"/>
+                    照水晶焉，火在其所燒紅鐵焉。以末揆端，可云天主<lb edRef="TXCH"/>
+                    在物者耶。如光雖在水晶，火雖在鐵，然而各物各體<lb edRef="TXCH"/>
+                    本性弗雜，謂天主之在物如此，固無所妨也。但光可<lb edRef="TXCH"/>
+                    離水晶，天主不可離物。天主無形而無所不在，不可<lb edRef="TXCH"/>
+                    截然分而別之。故謂全在於全所，可也謂全在各分，<lb edRef="TXCH"/>
+                    亦可也。中士曰：聞明論，先疑釋矣。有謂人於天下之<lb edRef="TXCH"/>
+                    萬物皆一，如何？西士曰：以人為同乎天主，過尊也；以<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="53B"/>
+                    人與物一，謂人同乎土石，過卑也。由前之過，懼有人<lb edRef="TXCH"/>
+                    欲為禽獸；由今之過，懼人不欲為土石。夫率人類為<lb edRef="TXCH"/>
+                    土石，子從之乎？其不可信，不難辯矣。寰宇間，凡為同<lb edRef="TXCH"/>
+                    之類者，多矣：或有異物同名之同，如柳宿與柳樹是<lb edRef="TXCH"/>
+                    也。或有同群之同，以多口總聚為一，如一寮之羊皆<lb edRef="TXCH"/>
+                    為同群，一軍之卒皆為同軍是也；或有同理之同，如<lb edRef="TXCH"/>
+                    根、泉、心三者相同。蓋若根為百枝之本，泉為百派之<lb edRef="TXCH"/>
+                    源，心為百脈之由是也。此三者姑謂之同，而實則異。<lb edRef="TXCH"/>
+                    或有同宗之同，如鳥獸通為知覺，列于各類是也；或<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="54A"/>
+                    有同類之同，如此馬與彼馬共屬馬類，此人與彼人<lb edRef="TXCH"/>
+                    共屬人類是也。此二者畧可謂之同矣。或有同體之<lb edRef="TXCH"/>
+                    同，如四肢與一身同屬一體焉。或其名不同而寔則<lb edRef="TXCH"/>
+                    同，如放勲、帝堯二名總為一人焉。茲二者乃為真同。<lb edRef="TXCH"/>
+                    夫謂天下萬物皆同，于此三等何居？中士曰：謂’同體<lb edRef="TXCH"/>
+                    之同’也。曰：君子以天下萬物為一體者也；間形體而<lb edRef="TXCH"/>
+                    分爾我，則小人矣。君子一體萬物非由作意，緣吾心<lb edRef="TXCH"/>
+                    仁體如是。豈惟君子，雖小人之心亦莫不然。西士曰：<lb edRef="TXCH"/>
+                    前世之儒借萬物一體之說，以翼愚民悅從于仁，所<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="54B"/>
+                    謂一體，僅謂一原耳已。如信之為真一體，將反滅仁<lb edRef="TXCH"/>
+                    義之道矣。何為其然耶？仁義相施必待有二；若以眾<lb edRef="TXCH"/>
+                    物實為一體，則是以眾物實為一物，而但以虛像為<lb edRef="TXCH"/>
+                    之異耳，彼虛像焉能相愛相敬哉？故曰為仁者推己<lb edRef="TXCH"/>
+                    及人也。仁者以己及人也，義者人老老、長長也，俱要<lb edRef="TXCH"/>
+                    人己之殊，除人己之殊，則畢除仁義之理矣。設謂物<lb edRef="TXCH"/>
+                    都是己，則但以愛己、奉己為仁義。將小人惟知有己，<lb edRef="TXCH"/>
+                    不知有人，獨得仁義乎？書言人己，非徒言形，乃兼言<lb edRef="TXCH"/>
+                    形性耳。且夫仁德之厚，在遠不在近。近愛本體，雖無<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="55A"/>
+                    知覺者亦能之。故水恆潤下，就濕處，合同類，以養存<lb edRef="TXCH"/>
+                    本體也；火恆升上，就乾處，合同類，以養全本性也。近<lb edRef="TXCH"/>
+                    愛所親，鳥獸亦能之，故有跪乳、反哺者；近愛己家，小<lb edRef="TXCH"/>
+                    人亦能之，故常有苦勞行險阻為竊盜以養其家屬<lb edRef="TXCH"/>
+                    者；近愛本國，庸人亦能之，故常有群卒致命以禦強<lb edRef="TXCH"/>
+                    寇奸宄者。獨至仁之君子能施’遠愛’，包覆天下萬國<lb edRef="TXCH"/>
+                    而無所不及焉。君子豈不知我一體、彼一體；此吾家<lb edRef="TXCH"/>
+                    吾國，彼異家異國？然以為皆天主上帝生養之民、物，<lb edRef="TXCH"/>
+                    卽分當兼切愛恤之，豈若小人但愛己之骨肉者哉？<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="55B"/>
+                    中士曰：謂以物為一體乃仁義之賊，何為《中庸》列"體<lb edRef="TXCH"/>
+                    群臣"于九經之內乎？西士曰：體物以譬喻言之，無所<lb edRef="TXCH"/>
+                    傷焉。如以為實言，傷理不淺。《中庸》令君體群臣，君臣<lb edRef="TXCH"/>
+                    同類者也，豈草木瓦石皆可體耶？吾聞君子于物也，<lb edRef="TXCH"/>
+                    愛之弗仁，今使之于人為一體， 必宜均仁之矣。墨翟<lb edRef="TXCH"/>
+                    兼愛人，而先儒辯之為非。今勸仁土泥，而時儒順之<lb edRef="TXCH"/>
+                    為是，異哉！天主之為天地及其萬物，萬有繁然：或同<lb edRef="TXCH"/>
+                    宗異類，或同類異體，或同體異用。今欲強之為一體，<lb edRef="TXCH"/>
+                    逆造物者之旨矣。物以多端為美，故聚貝者欲貝之<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="56A"/>
+                    多，聚古器者欲器之多，嗜味者欲味之多。令天下物<lb edRef="TXCH"/>
+                    均紅色，誰不厭之？或紅、或綠、或白、或青，日觀之不厭<lb edRef="TXCH"/>
+                    矣。如樂音皆宮，誰能聆之？乍宮、乍商、乍角、乍徵、乍羽，<lb edRef="TXCH"/>
+                    聞之三月食不知味矣。外物如此，內何不然乎？吾前<lb edRef="TXCH"/>
+                    明釋各類以各性為殊，不可徒以貌異，故石獅與活<lb edRef="TXCH"/>
+                    獅貌同類異，石人與石獅貌異類同，何也？俱石類也。<lb edRef="TXCH"/>
+                    嘗聞吾先生觧類體之情曰：自立之類，同體者固同<lb edRef="TXCH"/>
+                    類，同類者不必同體。又曰：同體者之行為皆歸全體，<lb edRef="TXCH"/>
+                    而並指各肢。設如右手能救助患難，則一身兩手皆<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="56B"/>
+                    稱慈悲；左手習偷，非惟左手謂賊，左手全體皆稱為<lb edRef="TXCH"/>
+                    賊矣。推此說也，謂天下萬物一體，則世人所為盡可<lb edRef="TXCH"/>
+                    相謂。跖一人為盜；而伯夷並可謂盜，武王一人為仁。<lb edRef="TXCH"/>
+                    而紂亦謂仁；因其體同而同之，豈不混各物之本行<lb edRef="TXCH"/>
+                    乎？學士論物之分，或有同體，或有各體，何用駢眾物<lb edRef="TXCH"/>
+                    為同體？蓋物相連則同體也，相絕則異體也。若一江<lb edRef="TXCH"/>
+                    之水，在江內是與江水一體；既注之一勺，則勺中之<lb edRef="TXCH"/>
+                    水于江內水惟可謂同類，豈仍謂同體焉？泥天地萬<lb edRef="TXCH"/>
+                    物一體之論，簡上帝，混賞罰，除類別，滅仁義，雖高士<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="57A"/>
+                    信之，我不敢不詆焉。中士曰：明論昭昭，發疑排異，正<lb edRef="TXCH"/>
+                    教也。人魂之不滅、不化他物，既聞命矣。佛氏輪迴六<lb edRef="TXCH"/>
+                    道、戒殺之說，傳聞聖教不與，必有所誨，望來日教之。<lb edRef="TXCH"/>
+                    西士曰：丘陵既平，蟻垤何有？余久願折此，子所嗜聞，<lb edRef="TXCH"/>
+                    亦吾所喜講也。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="57B"/>
+                </p>
+            </div>
+            <div type="maintext">
+                <head xml:lang="zh">天主實義下卷</head>
+                <p xml:lang="zh">  
+                    耶穌會中人  利瑪竇述   燕貽堂較梓<lb edRef="TXCH"/>
+                    第五篇  辯排輪迴六道、戒殺生之謬說，而揭齋素<lb edRef="TXCH"/>
+                    正志。<lb edRef="TXCH"/>
+                    中士曰：論人類有三般。一曰人之在世，謂生而非由<lb edRef="TXCH"/>
+                    前跡，則死而無遺後跡矣。一曰夫有前後與今三世<lb edRef="TXCH"/>
+                    也，則吾所獲福禍于今世，皆由前世所為善惡；吾所<lb edRef="TXCH"/>
+                    將逄于後世吉兇，皆系今世所行正邪也。今尊教曰，<lb edRef="TXCH"/>
+                    人有今世之暫寄，以定後世之永居，則謂吾暫處此<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="1A"/>
+                    世，特當修德行善，令後世常享之。而以此為行道路，<lb edRef="TXCH"/>
+                    以彼為至本家；以此如立功，以彼如受賞焉。夫後世<lb edRef="TXCH"/>
+                    之論是矣。前世之論，將亦有從來乎？西士曰：古者吾<lb edRef="TXCH"/>
+                    西域有士，名曰閉他臥剌，其豪傑過人，而質樸有所<lb edRef="TXCH"/>
+                    未盡，常痛細民為惡無忌，則乘己聞名，為竒論以禁<lb edRef="TXCH"/>
+                    之。為言曰行不善者必來世復生有報，或產艱難貧<lb edRef="TXCH"/>
+                    賤之家，或變禽獸之類。暴虐者，變為虎豹；驕傲者，變<lb edRef="TXCH"/>
+                    為獅子；淫色者，變為犬豕；貪得者，變成牛驢；偷盜者，<lb edRef="TXCH"/>
+                    變作狐狸、豺狼、鷹鶊等物。每有罪惡，變必相應。君子<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="1B"/>
+                    斷之曰，其意美，其為言不免玷缺也，沮惡有正道，奚<lb edRef="TXCH"/>
+                    用棄正而從枉乎？既沒之後，門人少嗣其詞者。彼時<lb edRef="TXCH"/>
+                    此語忽漏國外，以及身毒釋氏圖立新門，承此輪迴，<lb edRef="TXCH"/>
+                    加之六道，百端誑言，輯書謂’經’。數年之後，漢人至其<lb edRef="TXCH"/>
+                    國而傳之中國。此其來歷，殊無真傳可信、實理可倚。<lb edRef="TXCH"/>
+                    ‘身毒’微地也，未班上國，無文禮之教，無德行之風，諸<lb edRef="TXCH"/>
+                    國之史未之為有無，豈足以示普天之下哉？中士曰：<lb edRef="TXCH"/>
+                    覩所傳坤輿萬國全圖，上應天度，毫髮無差，況又遠<lb edRef="TXCH"/>
+                    自歐邏巴，躬入中華，所言佛氏之國，聞見必真。其國<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="2A"/>
+                    之陋如彼也，世人誤讀佛書，信其淨土，甚有願蚤死<lb edRef="TXCH"/>
+                    以復生彼國者，良可笑矣。吾中國人不習遠游異域，<lb edRef="TXCH"/>
+                    故其事恆未詳審，雖然，壤雖偏，人雖陋，苟所言之合<lb edRef="TXCH"/>
+                    理，從之無傷。西士曰：夫輪迴之說，其逆理者不勝數<lb edRef="TXCH"/>
+                    也，茲惟舉四、五大端。一曰：假如人魂遷徃他身復生<lb edRef="TXCH"/>
+                    世界，或為別人，或為禽獸，必不失其本性之靈，當能<lb edRef="TXCH"/>
+                    記念前身所為；然吾絕無能記焉，並無聞人有能記<lb edRef="TXCH"/>
+                    之者焉，則無前世明甚。中士曰：佛老之書所載能記<lb edRef="TXCH"/>
+                    者甚多，則固有記之者。西士曰：魔鬼欲誑人而從其<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="2B"/>
+                    類，故附人及獸身，詒云為某家子，述某家事，以徵其<lb edRef="TXCH"/>
+                    謬，則有之。記之者必佛老之徒或佛教入中國之後<lb edRef="TXCH"/>
+                    耳。萬方萬類生死眾多，古今所同，何為自佛氏而外，<lb edRef="TXCH"/>
+                    異邦異門雖竒聖廣淵，可記千卷萬句，而不克記前<lb edRef="TXCH"/>
+                    世之一事乎？人善忘，奚至忘其父母？並忘己之姓名？<lb edRef="TXCH"/>
+                    獨其佛老之子弟以及畜類得以記而述之乎？夫謔<lb edRef="TXCH"/>
+                    談以欺市井，或有順之者。在英俊之士、辟雍庠序之<lb edRef="TXCH"/>
+                    間，當論萬理之有無，不笑且譏之，鮮矣。中士曰：釋言<lb edRef="TXCH"/>
+                    人魂在禽獸之體，本依前靈，但其體不相稱，故泥不<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="3A"/>
+                    能達。西士曰：在他人之身，則本體相稱矣，亦何不能<lb edRef="TXCH"/>
+                    記前世之事乎？吾昔已明釋人魂之為神也。夫神者<lb edRef="TXCH"/>
+                    行其本情，不賴于身，則雖在禽獸亦可以用本性之<lb edRef="TXCH"/>
+                    靈，何不能達之有？若果天主設此輪迴美醜之變，必<lb edRef="TXCH"/>
+                    以勸善而懲惡也，設吾弗明記前世所為善惡，何以<lb edRef="TXCH"/>
+                    騐今世所值吉兇，果由前世因？而勸乎？懲乎？則輪迴<lb edRef="TXCH"/>
+                    竟何益焉？二曰：當上帝最初生人以及禽獸，未必定<lb edRef="TXCH"/>
+                    以有罪之人變之禽獸，亦各賦之本類魂耳。使今之<lb edRef="TXCH"/>
+                    禽獸有人魂，則今之禽獸魂與古之禽獸魂異，當必<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="3B"/>
+                    今之靈而古之蠢也。然吾未聞有異也，則今之魂與<lb edRef="TXCH"/>
+                    古者等也。三曰：明道之士皆論魂有三品：下品曰生<lb edRef="TXCH"/>
+                    魂，此只扶所賦者生活長大，是為草木之魂。中品曰<lb edRef="TXCH"/>
+                    覺魂，此能扶所賦者生活長大，而又使之以耳目視<lb edRef="TXCH"/>
+                    聽，以口鼻啖嗅，以肢體覺物情，是為禽獸之魂。上品<lb edRef="TXCH"/>
+                    曰靈魂，此兼生魂、覺魂，能扶植長大及覺物情；而又<lb edRef="TXCH"/>
+                    俾所賦者能推論事物，明辨理義，是為人類之魂。若<lb edRef="TXCH"/>
+                    令禽獸之魂與人魂一，則是魂特有二品，不亦紊天<lb edRef="TXCH"/>
+                    下之通論乎？凡物非徒以貌像定本性，乃惟以魂定<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="4A"/>
+                    之。始有本魂，然後為本性；有此本性，然後定于此類；<lb edRef="TXCH"/>
+                    既定此類，然後生此貌。故性異同，由魂異同焉；類異<lb edRef="TXCH"/>
+                    同，由性異同焉；貌異同，由類異同焉。鳥獸之貌既異<lb edRef="TXCH"/>
+                    乎人，則類、性、魂豈不皆異乎？人之格物窮理無他路<lb edRef="TXCH"/>
+                    焉，以其表而徵其內，觀其現而達其隱。故吾欲知草<lb edRef="TXCH"/>
+                    木之何魂，視其徒長大而無知覺，則騐其內特有生<lb edRef="TXCH"/>
+                    魂矣。欲知鳥獸之何魂，視其徒知覺而不克論理，則<lb edRef="TXCH"/>
+                    騐其特有覺魂矣。欲知人類之何魂，視其獨能論萬<lb edRef="TXCH"/>
+                    物之理，明其獨有靈魂矣。理如是明也，而佛氏云禽<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="4B"/>
+                    獸魂與人魂同靈，傷理甚矣。吾常聞殉佛有謬，未嘗<lb edRef="TXCH"/>
+                    聞從理有誤也。四曰：人之體態竒俊，與禽獸不同，則<lb edRef="TXCH"/>
+                    其魂亦異。譬匠人欲成椅卓必須用木，欲成利器必<lb edRef="TXCH"/>
+                    須用鐵，器物各異，則所用之資亦異。既知人之體態<lb edRef="TXCH"/>
+                    不同禽獸，則人之魂又安能與禽獸相同哉？故知釋<lb edRef="TXCH"/>
+                    氏所云人之靈魂，或托於別人之身，或入於禽獸之<lb edRef="TXCH"/>
+                    體，而迴生於世間，誠誑詞矣。夫人自己之魂只合乎<lb edRef="TXCH"/>
+                    自己之身，烏能以自己之魂，而合乎他人之身哉？又<lb edRef="TXCH"/>
+                    況乎異類之身哉？亦猶刀只合乎刀之鞘，劍只合乎<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="5A"/>
+                    劍之鞘，安能以刀合劍鞘耶？五曰：夫云人魂變獸，初<lb edRef="TXCH"/>
+                    無他據，惟疑其前世淫行曾效某獸，天主當從而罰<lb edRef="TXCH"/>
+                    之，俾後世為此獸耳。然此非刑也。順其欲，孰謂之刑<lb edRef="TXCH"/>
+                    乎？奸人之情，生平滅己秉彝，以肆行其所積內惡，而<lb edRef="TXCH"/>
+                    尚只痛其具人靣貌，若有防碍；使聞後世將改其形<lb edRef="TXCH"/>
+                    容，而憑已流恣，詎不大快？如暴虐者常習殘殺，豈不<lb edRef="TXCH"/>
+                    欲身著利爪鋸牙，為虎為狼，晝夜以血污口乎？倨傲<lb edRef="TXCH"/>
+                    者習于欺人，不識遜讓，豈不樂長大其形生為獅子，<lb edRef="TXCH"/>
+                    為眾獸之王乎？賊盜者以偷人財貨度活，何憂化為<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="5B"/>
+                    狐狸，稟百巧媚以盡其情乎？此等輩非但不以變獸<lb edRef="TXCH"/>
+                    為刑，乃反以為恩矣。天主至公至明，其為刑必不如<lb edRef="TXCH"/>
+                    是也。如曰自人之貴類入獸之賤類卽謂之刑，吾意<lb edRef="TXCH"/>
+                    為惡之人却不自以為生居人類為貴，大抵不理人道<lb edRef="TXCH"/>
+                    而肆其獸情，所羞者具此人靣耳已；今得脫其人靣<lb edRef="TXCH"/>
+                    而雜于獸醜，無恥無忌甚得志也。故輪迴之謊言蕩<lb edRef="TXCH"/>
+                    詞，于沮惡勸善無益，而反有損也。六曰：彼言戒殺生<lb edRef="TXCH"/>
+                    者，恐我所屠牛馬卽是父母后身，不忍殺之耳。果疑<lb edRef="TXCH"/>
+                    于此，則何忍驅牛耕畎畆或駕之車乎？何忍羈馬而<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="6A"/>
+                    乘之路乎？吾意弒其親，與勞苦之於耕田，罪無大異<lb edRef="TXCH"/>
+                    也。弒其親，與恆加之以鞍而鞭辱之於市朝，又等也。<lb edRef="TXCH"/>
+                    然農事不可廢，畜用不可免，則何疑于戒殺之說？而<lb edRef="TXCH"/>
+                    云人能變禽獸，不可信矣。中士曰：夫人魂能為禽獸<lb edRef="TXCH"/>
+                    者，誠誑語也，以欺無知小民耳，君子何以信吾所騎<lb edRef="TXCH"/>
+                    馬為吾父母、兄弟、親戚、或君、或師、朋友乎？信之而忍<lb edRef="TXCH"/>
+                    為之，亂人倫；信之而不為之，是又廢畜養。而必使不<lb edRef="TXCH"/>
+                    用于世，人無所容手足矣。故其說不可信也。然若但<lb edRef="TXCH"/>
+                    言輪迴之後復為他人，乃皆同類，亦似無傷。西士曰：<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="6B"/>
+                    謂人魂能化禽獸，信其說則畜用廢；謂人魂能化他<lb edRef="TXCH"/>
+                    人身，信其說將使夫婚姻之禮與夫使令之役皆有<lb edRef="TXCH"/>
+                    窒碍難行者焉。何者？爾所娶女子，誰知其非爾先化<lb edRef="TXCH"/>
+                    之母，或後身作異姓之女者乎？誰知爾所役僕、所詈<lb edRef="TXCH"/>
+                    責小人，非或兄弟、親戚、君師、朋友後身乎？此又非大<lb edRef="TXCH"/>
+                    亂人倫者乎？總之，人既不能變為鳥獸，則亦不能變<lb edRef="TXCH"/>
+                    化他人，理甚著明也。中士曰：前言人魂不滅，是徃者<lb edRef="TXCH"/>
+                    俱在也。有疑使無輪迴以銷變之，宇內豈能容此多<lb edRef="TXCH"/>
+                    鬼哉？西士曰：疑此者，弗識天地之廣闊者也，則意若<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="7A"/>
+                    易充也；又弗通神之性態者也，以為其有充所也。形<lb edRef="TXCH"/>
+                    者在所，故能充于所；神無形，則何以滿其所乎？一粒<lb edRef="TXCH"/>
+                    之大，而萬神宅焉。豈惟徃者，將來靈魂並容不碍也。<lb edRef="TXCH"/>
+                    豈用因是而為輪迴妄論哉？中士曰：輪迴之說，自二<lb edRef="TXCH"/>
+                    氏出，吾儒亦少信之。然彼戒殺生者，若近于仁，天主<lb edRef="TXCH"/>
+                    為慈之宗，何為弗與？西士曰：設人果變為禽獸，君子<lb edRef="TXCH"/>
+                    固戒殺小物，如殺人比。彼雖殼貌有異，均是人也。但<lb edRef="TXCH"/>
+                    因信此誕說，朔望齋素以戒殺生，亦自不通。譬有人<lb edRef="TXCH"/>
+                    日日殺人而食其肉，且復歸依仁慈而曰："朔望我不<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="7B"/>
+                    殺人，不食其肉。"但以余日殺而食之，可謂戒哉？其心<lb edRef="TXCH"/>
+                    忍恣殺于二十八日，彼二日之戒，何能增、何能減其<lb edRef="TXCH"/>
+                    惡之極乎？夫吾既明證無變禽獸之理，則並著無殺<lb edRef="TXCH"/>
+                    生之戒也。試觀天主生是天地及是萬物，無一非生<lb edRef="TXCH"/>
+                    之以為人用者。夫日月星辰麗天以我照也，照萬色<lb edRef="TXCH"/>
+                    以我看也，生萬物以遂我用也。五色悅我目，五音娛<lb edRef="TXCH"/>
+                    我耳，諸味諸香之匯以甘我口鼻，百端軟煖之物以<lb edRef="TXCH"/>
+                    安逸我四肢，百端之藥材以醫療我疾病，外養我身，<lb edRef="TXCH"/>
+                    內調我心。故我當常感天主尊恩，而時謹用之。鳥獸<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="8A"/>
+                    或有毛羽皮革，可為裘履；或有寶牙角殼，可制竒器；<lb edRef="TXCH"/>
+                    或有玅藥，好治病疾；或有美味，能育吾老幼；吾奚不<lb edRef="TXCH"/>
+                    取而使之哉？藉使天主不許人宰芻豢而付之美味，<lb edRef="TXCH"/>
+                    豈非徒付之乎？豈非誘人犯令，而陷溺之于罪乎？且<lb edRef="TXCH"/>
+                    自古及今，萬國聖賢鹹殺生食葷，而不以此為悔，亦<lb edRef="TXCH"/>
+                    不以此為違戒。亦豈宜罪聖賢以地獄，而嘉與二三<lb edRef="TXCH"/>
+                    持齋無德之輩，躋之天堂乎？此無乃非達者之言歟？<lb edRef="TXCH"/>
+                    中士曰：世界之物多有無益乎人，且害之者，如毒虫、<lb edRef="TXCH"/>
+                    蛇、虎、狼等。所言天主生萬物一一以為人用，似非然。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="8B"/>
+                    西士曰：物體幽眇，其用廣繁，故凡人或有所未能盡<lb edRef="TXCH"/>
+                    達，而反以見害，此自人才之蔽耳。人固有二：曰外人，<lb edRef="TXCH"/>
+                    所謂身體也；曰內人，所謂魂神也。比此二者，則內人<lb edRef="TXCH"/>
+                    為尊。毒蟲、虎、狼險外人而寧內人，卒可謂益于人焉。<lb edRef="TXCH"/>
+                    夫傷身體之物，俗稱惡物，而其警我畏天主之怒，使<lb edRef="TXCH"/>
+                    知以天、以水、以火、以蟲皆能責人之犯命者。吾于是<lb edRef="TXCH"/>
+                    不得不戒懼，以時祈乞其助，時念望之，豈非內正人<lb edRef="TXCH"/>
+                    者之大資乎？且天主悲惜小人之心全在于地，惟泥<lb edRef="TXCH"/>
+                    於今世而不知惺望天堂及後世高上事情，是以兼<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="9A"/>
+                    置彼醜毒于本界，欲拯拔之焉。況天主初立世界，俾<lb edRef="TXCH"/>
+                    天下萬物或養生，或利用，皆以供事我輩，原不為害。<lb edRef="TXCH"/>
+                    自我輩忤逆上帝，物始亦忤逆我，則此害非天主初<lb edRef="TXCH"/>
+                    旨，乃我自招之耳。中士曰：天主生生者，必愛其生，而<lb edRef="TXCH"/>
+                    不欲其死，則戒殺生順合其尊旨矣。西士曰：草木亦<lb edRef="TXCH"/>
+                    稟生魂，均為生類。爾日取菜以茹，折薪以焚，而殘忍<lb edRef="TXCH"/>
+                    其命，必將曰："天主生此菜薪以憑人用耳，則用而無<lb edRef="TXCH"/>
+                    妨。"我亦曰天主生彼鳥獸以隨我使耳，則殺而使之<lb edRef="TXCH"/>
+                    以養人命，何傷乎？仁之範惟言："無欲人加諸我，我勿<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="9B"/>
+                    欲加諸人耳。"不言勿欲加諸禽獸者。且天下之法律<lb edRef="TXCH"/>
+                    但禁殺人，無制殺鳥獸者。夫鳥獸、草木與財貨並行，<lb edRef="TXCH"/>
+                    惟用之有節足矣。故孟軻示世主以"數罟不可入洿<lb edRef="TXCH"/>
+                    池"而"斧斤以時入山林"，非不用也。中士曰：草木雖為<lb edRef="TXCH"/>
+                    生類，然而無血無知覺，是與禽獸異者也，故釋氏戕<lb edRef="TXCH"/>
+                    之而無容悲。西士曰：謂草木為無血乎？是僅知紅色<lb edRef="TXCH"/>
+                    者之為血，而不知白者、綠者之未始非血也。夫天下<lb edRef="TXCH"/>
+                    形生者，必以養；而所以得養者，津液存焉。則凡津液<lb edRef="TXCH"/>
+                    之流貫皆血矣。何必紅者？試觀水族中，如蝦、如蠏，多<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="10A"/>
+                    無紅血，而釋氏弗茹；蔬菜中亦有紅液，而釋氏茹之<lb edRef="TXCH"/>
+                    不禁。則何其重愛禽獸之血，而輕棄草木之血乎？且<lb edRef="TXCH"/>
+                    不殺知覺之物，以其能痛也已，我誠不欲其痛，寧獨<lb edRef="TXCH"/>
+                    不殺。卽勞之、役之將有所不可。凡牛之耕野，馬之驂<lb edRef="TXCH"/>
+                    乘，未免終身之患，豈伊不長有痛乎？較殺之之痛止<lb edRef="TXCH"/>
+                    在一時者，又遠矣。況禁殺牲，反有害於牲。蓋禽獸為<lb edRef="TXCH"/>
+                    人用，故人飼畜之。飼畜之而後，禽獸益蕃多也。如不<lb edRef="TXCH"/>
+                    得之以為用，人豈畜之乎？朝捐不急之官，家黜無能<lb edRef="TXCH"/>
+                    之僕，而況畜類乎？西虜懼食豕，而一國無豕。天下而<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="10B"/>
+                    皆西虜，則豕之種類滅矣。故愛之而反以害之，殺之<lb edRef="TXCH"/>
+                    而反以生之。是禁殺牲者，大有損于牧牲之道矣。中<lb edRef="TXCH"/>
+                    士曰：如此則齋素無所用耶？西士曰：因戒殺生而用<lb edRef="TXCH"/>
+                    齋素，此殆小不忍也。然齋有三志，識此三志，滋切滋<lb edRef="TXCH"/>
+                    崇矣。夫世固少有今日賢而先日不為不肖者也，少<lb edRef="TXCH"/>
+                    有今日順道而昔日未嘗違厥道者也。厥道也者，天<lb edRef="TXCH"/>
+                    主銘之於心，而命聖賢布之板冊。犯之者，必得罪于<lb edRef="TXCH"/>
+                    上帝。所從得罪者益尊，則罪益重。君子雖已遷善，豈<lb edRef="TXCH"/>
+                    恬然于徃所得罪乎？曩者所為不善，人或赦，弗追究，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="11A"/>
+                    而己時記之，愧之，悔之。設無深悔，吾所既失于前，烏<lb edRef="TXCH"/>
+                    可望免之于後也？況夫今之為善，君子不自滿足，將<lb edRef="TXCH"/>
+                    必以闚己之短為離婁，以視己之長為盲瞽焉。所責<lb edRef="TXCH"/>
+                    備諸己者精且厚。人雖稱以俊傑，而己愧怍如不置<lb edRef="TXCH"/>
+                    也；所省疚于心者密且詳，人雖謂其備美，而己勤敬<lb edRef="TXCH"/>
+                    如猶虧也。詎徒謙于言乎？詎徒悔于心乎？深自羞恥，<lb edRef="TXCH"/>
+                    奚堪歡樂？則貶食減餐，除其殽味，而惟取其淡素。凡<lb edRef="TXCH"/>
+                    一身之用，自擇粗陋，自苦自責以贖己之舊惡及其<lb edRef="TXCH"/>
+                    新罪，晨夜惶惶稽顙于天主台下，哀憫涕淚兾洗己<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="11B"/>
+                    污。敢妄自居聖而誇無過，妄自饒己而須他人審判<lb edRef="TXCH"/>
+                    其非也乎？所以躬自懲詰，不少姑恕，或者天主惻恤<lb edRef="TXCH"/>
+                    而免宥之，不再鞫也。此齋素正志之說一也。夫德之<lb edRef="TXCH"/>
+                    為業，人類本業也。聞其說無不悅而願急事焉。但被<lb edRef="TXCH"/>
+                    私欲所發者，先已篡人心而擅主之，反相壓難，憤激<lb edRef="TXCH"/>
+                    攻伐，大抵平生所行悉供其役耳。是以凡有所事，弗<lb edRef="TXCH"/>
+                    因義之所令，惟因欲之所樂。覩其靣容則人，觀其行,<lb edRef="TXCH"/>
+                    於禽何擇乎？蓋私欲之樂，乃義之敵。塞智慮而蒙理<lb edRef="TXCH"/>
+                    竅，與德無交，世界之瘟病，莫兇乎此矣。他病之害止<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="12A"/>
+                    于軀殼，欲之毒藥通吾心髓而大殘元性也。若以義<lb edRef="TXCH"/>
+                    之仇對，攝一心之專權，理不幾亡？而厥德尚有地可<lb edRef="TXCH"/>
+                    居乎？嗚呼！私欲之樂，微賤也，遽過也，而屢貽長悔于<lb edRef="TXCH"/>
+                    心，以卑短之樂，售永久之憂，非智之謂也。然私欲惟<lb edRef="TXCH"/>
+                    自本身藉力逞其勇猛，故遏其私欲當先約其本身<lb edRef="TXCH"/>
+                    之氣。學道者願寡欲而豐養身，比方願減火而益加<lb edRef="TXCH"/>
+                    薪，可得哉？君子欲飲食，特所以存命；小人欲存命，特<lb edRef="TXCH"/>
+                    所以飲食。夫誠有志于道，怒視是身若寇讎，然不獲<lb edRef="TXCH"/>
+                    已而姑畜之。且何云不獲已歟？吾雖元未嘗為身而<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="12B"/>
+                    生，但無身又不得而生，則服食為腹饑之藥，服飲為<lb edRef="TXCH"/>
+                    口渴之藥耳。誰有取藥而不惟以其病之所要為度<lb edRef="TXCH"/>
+                    數焉者？性之所嗜，寡而易營；多品之味，佳而難遂盡。<lb edRef="TXCH"/>
+                    人欲者之所圖，而以其所養人，頻反而賊人，則謂飲<lb edRef="TXCH"/>
+                    食殛人多乎刀兵可也。今未論所害于身，只指所傷<lb edRef="TXCH"/>
+                    乎心。僕役過健，恐忤抗其主也；血氣過強，定傾危乎<lb edRef="TXCH"/>
+                    志也。志危卽五欲肆其惡，而色慾尤甚。豐味不恣腹，<lb edRef="TXCH"/>
+                    色慾何從發？淡飲薄食，色氣潛餒，一身既理約，諸欲<lb edRef="TXCH"/>
+                    自服理矣。此齋素正志之說二也。且本世者，苦世也，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="13A"/>
+                    非索翫之世矣。天主寘我于是，促促焉務修其道之<lb edRef="TXCH"/>
+                    不暇，非以奉悅此肌膚也，然吾無能竟辭諸樂也。無<lb edRef="TXCH"/>
+                    清樂，必求淫者；無正樂，也尋邪者；得彼則失此。故君<lb edRef="TXCH"/>
+                    子常自習其心，快以道德之事，不令含憂困而有望<lb edRef="TXCH"/>
+                    乎外；又時簡畧體膚之樂，恐其透于心，而侵奪其本<lb edRef="TXCH"/>
+                    樂焉。夫德行之樂乃靈魂之本樂也，吾以茲與天神<lb edRef="TXCH"/>
+                    侔矣；飲食之娛乃身之竊愉也，吾以茲與禽獸同矣。<lb edRef="TXCH"/>
+                    吾益增德行之娛于心，益近至天神矣；益減飲食之<lb edRef="TXCH"/>
+                    樂于身，益逖離禽獸矣。吁！可不慎哉？仁義令人心明，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="13B"/>
+                    五味令人口爽。積善之樂甚，卽有大利乎心，而于身<lb edRef="TXCH"/>
+                    無害也。豐膳之樂繁，而身心俱見深傷矣。腹充飽以<lb edRef="TXCH"/>
+                    殽饌，必垂下而墜己志于污賤，如此則安能抽其心<lb edRef="TXCH"/>
+                    於塵垢，而起高曠之慮乎哉？惡者觀人盤樂而己無<lb edRef="TXCH"/>
+                    之，斯嫌妬之矣。善者視之，則反憐恤之，而讓已曰："彼<lb edRef="TXCH"/>
+                    殉污賤事，而猶好之如此，懇求之如此；吾既志於上<lb edRef="TXCH"/>
+                    乘，而未能聊味之，未能畧備之，且寧如此懈惰而不<lb edRef="TXCH"/>
+                    勉乎哉。"世人之灾無他也，心病而不知德之佳味耳。<lb edRef="TXCH"/>
+                    覺其味，則膏梁可輕矣，謂自得其樂也。此二味者，更<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="14A"/>
+                    迭出入於人心，而不可同住者也，欲內此，必先出彼<lb edRef="TXCH"/>
+                    也。古昔有貢我西國二獵犬者，皆良種也。王以一寄<lb edRef="TXCH"/>
+                    國中顯臣家，以其一寄郊外農舍，並使畜之。已壯，而<lb edRef="TXCH"/>
+                    王出田獵試焉，二犬齊縱人囿。農舍之所畜犬，身臞<lb edRef="TXCH"/>
+                    體輕，走齅禽跡疾趨，獲禽無筭。顯家所養犬，雖潔肥<lb edRef="TXCH"/>
+                    容美足觀也，然但習肉食充腸，安佚四肢不能弛驟，<lb edRef="TXCH"/>
+                    則見禽不顧，而忽遇路旁腐骨，卽就而嚙之，嚙畢不<lb edRef="TXCH"/>
+                    動矣。從獵者知其原同一母而出，則異之。王曰："此不<lb edRef="TXCH"/>
+                    足恠。豈惟獸哉，人亦莫不如是也，皆系于養耳矣。養<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="14B"/>
+                    之以佚翫飫飽，必無所進于善也；養之以煩勞儉約，<lb edRef="TXCH"/>
+                    必不誤君所望矣。"若曰，凡人習于饈美厚膳，見禮義<lb edRef="TXCH"/>
+                    之事不暇，惟俛焉而就食耳；習于精理微義，遇飲食<lb edRef="TXCH"/>
+                    之玩亦不暇，必思焉而殉理義耳。此齋素正志之說<lb edRef="TXCH"/>
+                    三也。夫齋有多端，予遍延天下多國，已備聞之：或不<lb edRef="TXCH"/>
+                    拘飱味，但終晝不食，迄星夜雜食眾味，此謂時齋。或<lb edRef="TXCH"/>
+                    不論時飱，惟戒諸葷，而隨時茹素，此謂味齋。或不擇<lb edRef="TXCH"/>
+                    味、時，特一日間食一飱耳，此謂飱齋。或飱、時、味皆有<lb edRef="TXCH"/>
+                    所拘，只午時茹素一頓，而惟禁止肉食屬陽者，其海<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="15A"/>
+                    味屬陰者不戒，此謂公齋。或禁止火食，終身山穴，專<lb edRef="TXCH"/>
+                    以野草根度生，茲歐邏巴山中甚眾，此謂私齋也。然<lb edRef="TXCH"/>
+                    夫數等之所齋，總歸責屈本己，要在視其人、視其身<lb edRef="TXCH"/>
+                    何如耳：富貴膏梁，減取其常亦可謂齋；彼賤家民，時<lb edRef="TXCH"/>
+                    習粗糲不可以為齋也；不，則丐子可謂至齋也。又須<lb edRef="TXCH"/>
+                    量本身之力何如：有衰病者，未免時以滋味養身也；<lb edRef="TXCH"/>
+                    有行役者，勞其四肢不容久餓。故天主公教制老者<lb edRef="TXCH"/>
+                    六旬已上、稚者二旬已下、身病者、乳子者、勞力為僕<lb edRef="TXCH"/>
+                    夫者皆不在齋程之內。夫戒口之齋非齋也，乃齋<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="15B"/>
+                    之末節也；究齋之意，總為私欲之遏，不可不敦不盡矣。<lb edRef="TXCH"/>
+                    是以持齊而舍敬戒，譬如藏璞而<g ref="A01250">弛</g>其玉，無知也。中<lb edRef="TXCH"/>
+                    士曰：善哉！法語真齋之正旨也。吾俗行齋者，非緣貧<lb edRef="TXCH"/>
+                    乏而持齋以糊口，必其偷取善名而陰以欺人者也。<lb edRef="TXCH"/>
+                    當眾而致齋，幽獨而無人，酒色忿怒、不義貨財、讒賢<lb edRef="TXCH"/>
+                    毀善，無所不有。嗚呼！人目不能迯，能朦上帝乎？幸領<lb edRef="TXCH"/>
+                    高諭，尚願盡其問。西士曰：道邃且廣，不博問不可約<lb edRef="TXCH"/>
+                    守。詳問卽誠意之效也，何傷夫？<lb edRef="TXCH"/>
+                </p>  
+                <p xml:lang="zh">
+                    第六篇  釋觧意不可滅，並論死後必有天堂地獄<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="16A"/>
+                    之賞罰，以報世人所為善惡。<lb edRef="TXCH"/>
+                    中士曰：承教，一則崇’上帝’萬尊之至尊，一則貴‘人<lb edRef="TXCH"/>
+                    品’為至尊之次。但以天堂地獄為言，恐未或天主之<lb edRef="TXCH"/>
+                    教也。夫因趣利避害之故為善禁惡，是乃善利惡害，<lb edRef="TXCH"/>
+                    非善善惡惡正志也。吾古聖賢教世弗言’利’，惟言‘仁<lb edRef="TXCH"/>
+                    義’耳。君子為善無意，況有利害之意耶？西士曰：吾先<lb edRef="TXCH"/>
+                    答子之末語，然後答子之本問。彼滅義之說，固異端<lb edRef="TXCH"/>
+                    之詞，非儒人之本論也。儒者以’誠意’為正心、修身、齊<lb edRef="TXCH"/>
+                    家、治國、平天下之根基，何能無意乎？高台無堅基不<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="16B"/>
+                    克起，儒學無誠意不能立矣。設自正心至平天下，凡<lb edRef="TXCH"/>
+                    所行事皆不得有意，則奚論其意誠乎？虛乎？譬有琴<lb edRef="TXCH"/>
+                    於市，使吾不宜奏，何以售之？何拘其古琴、今琴歟？且<lb edRef="TXCH"/>
+                    意非有體之類，乃心之用耳，用方為意，卽有邪正。若<lb edRef="TXCH"/>
+                    令君子畢竟無意，不知何時誠乎？《大學》言’齊治均平’<lb edRef="TXCH"/>
+                    必以意誠為要，不誠則無物矣。意于心，如視于目；目<lb edRef="TXCH"/>
+                    不可卻視，則心不可除意也。君子所謂無意者，虛意、<lb edRef="TXCH"/>
+                    私意、邪意也；如云滅意是不達儒者之學，不知善惡<lb edRef="TXCH"/>
+                    之原也。善惡德慝，俱由意之正邪，無意則無善惡、無<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="17A"/>
+                    君子小人之判矣。中士曰："毋意，毋善，毋惡。"世儒固有<lb edRef="TXCH"/>
+                    其說。西士曰：此學欲人為土石者耳。謂上帝宗義，有<lb edRef="TXCH"/>
+                    是哉？若上帝無意無善，亦將等之乎土石也。謂之"理<lb edRef="TXCH"/>
+                    學"？悲哉！悲哉！昔老莊亦有"勿為、勿意、勿辯"之語，然己<lb edRef="TXCH"/>
+                    所著經書，其從者所為註觧。意固欲易天下而僉從此<lb edRef="TXCH"/>
+                    一端。夫著書，獨非為乎？意易天下，獨非意乎？既不<lb edRef="TXCH"/>
+                    可辯是非，又何辯"辯是非"者乎？辯天下名理獨非辯<lb edRef="TXCH"/>
+                    乎？則既已自相戾矣，而欲師萬世也，難哉！吾觀世人<lb edRef="TXCH"/>
+                    為事，如射焉，中"的"則謂善，不中則為惡。天主者自然<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="17B"/>
+                    中于"的"者也，有至純之善，無纖芥之惡，其德至也。吾<lb edRef="TXCH"/>
+                    儕則有中、有不中矣，其所修之德有限，故德有不到，<lb edRef="TXCH"/>
+                    卽行事有所不中，而善惡參焉。為善禁惡，縱有意猶<lb edRef="TXCH"/>
+                    恐不及，況無意乎？其餘無意之物，如金石草木類，然<lb edRef="TXCH"/>
+                    後無德無慝，無善無惡。如以無意無善惡為道，是金<lb edRef="TXCH"/>
+                    石草木之，而後成其’道’耳。中士曰：老莊之徒，只欲全<lb edRef="TXCH"/>
+                    其天年，故屏意棄善惡以絕’心之累’也。二帝、三王、周<lb edRef="TXCH"/>
+                    公、孔子皆苦心極力修德于己，以施及于民，非止于<lb edRef="TXCH"/>
+                    至善不敢息，誰有務全身、滅意、逍遙以充其百歲之<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="18A"/>
+                    數者哉？縱充其百歲之壽，亦不及一龜一杇樹之<lb edRef="TXCH"/>
+                    壽也，而徒以加二三旬之暫，于此穢身竟何濟哉？然<lb edRef="TXCH"/>
+                    二氏無足詆。所言"德慝善惡俱由意"，其詳何如？聞夫<lb edRef="TXCH"/>
+                    順’理’者卽為善，而稱之德行，犯‘理’者卽為惡，而稱之<lb edRef="TXCH"/>
+                    不才。則顧行事如何，于意似無相屬。西士曰：’理’易觧<lb edRef="TXCH"/>
+                    也。凡世物既有其意，又有能縱止其意者，然後有德、<lb edRef="TXCH"/>
+                    有慝、有善、有惡焉。’意者’心之發也，金石草木無心，則<lb edRef="TXCH"/>
+                    無意。故鏌鎁傷人，復仇者不折鏌鎁；飄瓦損人首，忮<lb edRef="TXCH"/>
+                    心者不怨飄瓦。然鏌鎁截斷，無與其功者；瓦蔽風雨，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="18B"/>
+                    民無酬謝。所為無心無意，是以無德無慝、無善無惡，<lb edRef="TXCH"/>
+                    而無可以賞罰之。若禽獸者，可謂有禽獸之心與意<lb edRef="TXCH"/>
+                    矣。但無靈心以辯可否，隨所感觸任意速發，不能以<lb edRef="TXCH"/>
+                    理為之節制，其所為是禮非禮不但不得已，且亦不<lb edRef="TXCH"/>
+                    自知，有何善惡之可論乎？是以天下諸邦所制法律，<lb edRef="TXCH"/>
+                    無有刑禽獸之慝，賞禽獸之德者。惟人不然。行事在<lb edRef="TXCH"/>
+                    外，理心在內，是非當否常能知覺，兼能縱止。雖有獸<lb edRef="TXCH"/>
+                    心之欲，若能理心為主，獸心豈能違我主心之命？故<lb edRef="TXCH"/>
+                    吾發’意’從‘理’，卽為德行君子，天主佑之；吾溺意獸心，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="19A"/>
+                    卽為犯罪小人，天主且棄之矣。嬰兒擊母，無以咎之，<lb edRef="TXCH"/>
+                    其未有以檢己意也。及其壯，而能識可否，則何待于<lb edRef="TXCH"/>
+                    擊，稍逆其親卽加不孝之罪矣。昔有二弓士。一之山<lb edRef="TXCH"/>
+                    野，見叢有伏者如虎，慮將傷人因射之，偶誤中人；一<lb edRef="TXCH"/>
+                    登樹林，恍惚傍視，行動如人，亦射刺之，而實乃鹿也。<lb edRef="TXCH"/>
+                    彼前一人果殺人者，然而意在射虎，斷當褒；後一人<lb edRef="TXCH"/>
+                    雖殺野鹿，而’意’在刺人，斷當貶。奚由焉？由意之美醜<lb edRef="TXCH"/>
+                    異也。則意為善惡之原，明著矣。中士曰：子為養親行<lb edRef="TXCH"/>
+                    盜，其意善矣，而不免于法，何如？西士曰：吾西國有公<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="19B"/>
+                    論曰："善者成乎全，惡者成于一。"試言其故：人既為盜，<lb edRef="TXCH"/>
+                    雖其餘行悉義，但呼為惡，不可稱善。所謂"西子蒙不<lb edRef="TXCH"/>
+                    潔，則人皆掩鼻而過之。"譬如水甕周圍厚堅，惟底有<lb edRef="TXCH"/>
+                    一罅，水從此漏，此甕決為無用碎瓦。惡之為情甚毒<lb edRef="TXCH"/>
+                    也。舍己之財普濟貧乏，以竊善聲而得非所得之位，<lb edRef="TXCH"/>
+                    所為雖當，其意實枉，則其事盡為不直，蓋醜意污其<lb edRef="TXCH"/>
+                    善行也。子為親竊人財物，其事既惡，何有善意？吾言<lb edRef="TXCH"/>
+                    正意為為善之本，惟謂行吾正，勿行吾邪；偷盜之事<lb edRef="TXCH"/>
+                    固邪也，雖襲之以義意，不為正矣。為纖微之不善可<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="20A"/>
+                    以捄天下萬民，猶且不可為，矧以育二三口乎？為善<lb edRef="TXCH"/>
+                    正意，惟行當行之事，故意益高則善益精，若意益陋<lb edRef="TXCH"/>
+                    則善益粗，是故意宜養、宜誠也，何滅之有哉？中士曰：<lb edRef="TXCH"/>
+                    聖人之教，縱不滅意，而其意不在功效，只在修德。故<lb edRef="TXCH"/>
+                    勸善而指德之美，不指賞；俎惡而言惡之罪，不言罰。<lb edRef="TXCH"/>
+                    西士曰：聖人之教在經傳，其勸善必以賞，其沮惡必<lb edRef="TXCH"/>
+                    以懲矣。《舜典》曰："象以典刑，流宥五刑。"又曰："三載考績；<lb edRef="TXCH"/>
+                    三考，黜陟幽明。庶績鹹熙，分北三苗。"《皋陶謨》曰："天命<lb edRef="TXCH"/>
+                    有德，五服五章哉；天討有罪，五刑五用哉。"《益稷謨》曰：<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="20B"/>
+                    "帝曰：迪朕德，時乃功惟敘。皋陶方祗厥敘，方施象刑，<lb edRef="TXCH"/>
+                    惟明。"《盤庚》曰："無有遠邇，用罪伐厥死，用德彰厥善。邦<lb edRef="TXCH"/>
+                    之臧，惟汝眾；邦之不臧，惟予一人佚罰。"又曰："乃有不<lb edRef="TXCH"/>
+                    吉不迪，顛越不恭，暫遇奸宄，我乃劓殄滅之，無遺育，<lb edRef="TXCH"/>
+                    無俾易種于茲新邑。"《泰誓》武王曰："爾眾士，其尚迪果<lb edRef="TXCH"/>
+                    毅，以登乃辟。功多有厚賞，不迪有顯戮。"又曰："爾所弗<lb edRef="TXCH"/>
+                    最，其于爾躬有戮。"《康誥》曰："乃其速由文王作罰，刑茲<lb edRef="TXCH"/>
+                    無赦。"《多士》曰："爾克敬，天惟異矜爾；爾不克敬，爾不啻<lb edRef="TXCH"/>
+                    不有爾土，予亦致天之罰于爾躬。"《多方》又曰："爾乃惟<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="21A"/>
+                    逸惟頗，大遠王命；則惟爾多方探天之威，我則致天<lb edRef="TXCH"/>
+                    之罰，離逖爾土。"此二帝三代之語，皆言賞罰，固皆併<lb edRef="TXCH"/>
+                    利害言之。中士曰：春秋者，孔聖之親筆，言’是非’，不言<lb edRef="TXCH"/>
+                    利害也。西士曰：俗之’利害’有三等：一曰‘身’之利害，此<lb edRef="TXCH"/>
+                    以肢體寧壽為利，以危夭為害；二曰’財貨’之利害，此<lb edRef="TXCH"/>
+                    以廣田畜、充金貝為利，以減耗失之為害；三曰’名聲’<lb edRef="TXCH"/>
+                    之利害，此以顯名休譽為利，以譴斥毀污為害也。春<lb edRef="TXCH"/>
+                    秋存其一，而不及其二者也。然世俗大概重名聲之<lb edRef="TXCH"/>
+                    利害，而輕身財之損益，故謂："春秋成，而亂臣賊子懼。"<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="21B"/>
+                    亂臣賊子奚懼焉？非懼惡名之為害不已乎？孟軻首<lb edRef="TXCH"/>
+                    以’仁義’為題，厥後每會時君，勸行仁政，猶以"不王者，<lb edRef="TXCH"/>
+                    未之有也"為結語。王天下顧非’利’哉？人孰不悅利于<lb edRef="TXCH"/>
+                    朋友？利于親戚？如利不可經心，則何以欲歸之友親<lb edRef="TXCH"/>
+                    乎？仁之方曰：不欲諸己，勿加諸人。既不宜望利以為<lb edRef="TXCH"/>
+                    己，猶必當廣利以為人。以是知利無所傷于德也。利<lb edRef="TXCH"/>
+                    所以不可言者，乃其偽，乃其悖義者耳。《易》曰："利者，義<lb edRef="TXCH"/>
+                    之和也。"又曰："利用安身，以崇德也。"論利之大，雖至王<lb edRef="TXCH"/>
+                    天下，猶為利之微。況戰國之主，雖行仁政，未必能王；<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="22A"/>
+                    雖使能王，天下一君耳。不取之此，不得予乎彼，夫世<lb edRef="TXCH"/>
+                    之利也如是耳矣。吾所指來世之利也，至大也，至實<lb edRef="TXCH"/>
+                    也，而無相碍，縱盡人得之，莫相奪也。以此為利，王欲<lb edRef="TXCH"/>
+                    利其國，大夫欲利其家，士庶欲利其身，上下爭先，天<lb edRef="TXCH"/>
+                    下方安方治矣。重’來世之益’者，必輕現世之利，輕現<lb edRef="TXCH"/>
+                    世之利而好犯上爭奪、弒父弒君，未之聞也。使民皆<lb edRef="TXCH"/>
+                    望後世之利，為政何有？中士曰：嘗聞之："何必勞神慮<lb edRef="TXCH"/>
+                    未來？惟管今日眼前事。"此是實語，何論後世？西士曰：<lb edRef="TXCH"/>
+                    陋哉？使犬彘能言也，無異此矣。西域上古有一人立<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="22B"/>
+                    教，專以’快樂無憂’為務，彼時亦有從之者，自題其墓<lb edRef="TXCH"/>
+                    碑曰："汝今當飲食歡戲死後無樂兮。"諸儒稱其門為<lb edRef="TXCH"/>
+                    "豬X門"也。詎貴邦有闇契之者。夫無遠慮，必有近患。<lb edRef="TXCH"/>
+                    猷之不遠，詩人所刺。吾視人愈智，其思愈遐；人愈愚，<lb edRef="TXCH"/>
+                    其思愈邇。凡民之類，豈可不預防未來，先謀未逮者<lb edRef="TXCH"/>
+                    乎？農夫耕稼於春，圖秋之穡。松樹百年始結子，而有<lb edRef="TXCH"/>
+                    藝之，所謂："圃翁植樹，爾玄孫攀其子者。"行旅者，周沿<lb edRef="TXCH"/>
+                    江湖，兾老之安居鄉土；百工勤習其業，期獲所賴；士<lb edRef="TXCH"/>
+                    髫丱勤苦博學，欲後輔國匡君；夫均不以眼前今日<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="23A"/>
+                    之事為急者也。不肖子敗其先業，虞公喪國，夏桀殷<lb edRef="TXCH"/>
+                    紂失天下，此非不慮悠遠、徒管今日眼前事者乎？中<lb edRef="TXCH"/>
+                    士曰：然。但吾在今世則所慮雖遠，止在本世耳；死後<lb edRef="TXCH"/>
+                    之事，似迂也。西士曰：仲尼作《春秋》，其孫著《中庸》，厥慮<lb edRef="TXCH"/>
+                    俱在萬世之後，夫慮為他人，而諸君子不以為迂；吾<lb edRef="TXCH"/>
+                    慮為已惟及二世，而子以為迂乎？童子圖既老之事，<lb edRef="TXCH"/>
+                    未知厥能至壯否，而莫之謂遠也。吾圖死後之事，或<lb edRef="TXCH"/>
+                    卽詰朝之事，而子以為遠乎？子之婚也，奚兾得子孫。<lb edRef="TXCH"/>
+                    中士曰：以有治喪葬、墳墓、祭祀之事也。西士曰：然。是<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="23B"/>
+                    亦死後之事矣。吾既死，所留者二：不能朽者精神、速<lb edRef="TXCH"/>
+                    腐者髑髏。我以不能朽者為切，子尚以速腐者為慮，<lb edRef="TXCH"/>
+                    可謂我迂乎？中士曰：行善以致現世之利、遠現世之<lb edRef="TXCH"/>
+                    害，君子且非之；來世之利害又何足論歟。西士曰：來<lb edRef="TXCH"/>
+                    世之利害甚真大，非今世之可比也。吾今所見者，利<lb edRef="TXCH"/>
+                    害之影耳，故今世之事，或兇或吉，俱不足言也。吾聞<lb edRef="TXCH"/>
+                    師之喻曰："人生世間，如俳優在戲場；所為俗業，如搬<lb edRef="TXCH"/>
+                    演雜劇。諸帝王、宰官、士人、奴隸、后妃、婢媵，皆一時粧<lb edRef="TXCH"/>
+                    飾之耳。則其所衣衣，非其衣；所逢利害，不及其躬。搬<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="24A"/>
+                    演既畢，觧去粧飾，漫然不復相關。故俳優不以分位<lb edRef="TXCH"/>
+                    高卑長短為憂喜，惟扮所承腳色，雖丐子亦真切為<lb edRef="TXCH"/>
+                    之，以中主人之意耳已。蓋分位在他，充位在我。"吾曹<lb edRef="TXCH"/>
+                    在于茲世，雖百歲之久，較之後世萬禩之無窮，烏足<lb edRef="TXCH"/>
+                    以當冬之一日乎？所得財物，假貸為用，非我為之真<lb edRef="TXCH"/>
+                    主，何徒以增而悅、以減而愁？不論君子小人，鹹赤身<lb edRef="TXCH"/>
+                    空出，赤身空返，臨終而去雖遺金千笈，積在庫內不<lb edRef="TXCH"/>
+                    帶一毫，何必以是為留意哉？今世偽事已終，卽後世<lb edRef="TXCH"/>
+                    之真情起矣；而後乃各取其所□之貴賤也。若以今<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="24B"/>
+                    世利害為真，何異乎蠢民看戲，以粧帝王者為真貴<lb edRef="TXCH"/>
+                    人，以粧奴隸者為真下人乎？意之為情，精粗不齊。負<lb edRef="TXCH"/>
+                    教世之責者，孰先布其麄，而後不闡其精？必既切琢，<lb edRef="TXCH"/>
+                    而後磋磨矣。需醫者，惟病者，非謂瘳者也；需吾教者，<lb edRef="TXCH"/>
+                    惟小人耳已。君子固自知之，故教宜曲就小人之意<lb edRef="TXCH"/>
+                    也。孔子至衛，見民眾，欲先富而後教之。詎不知教為<lb edRef="TXCH"/>
+                    滋重乎？但小民由’利’而後可迪乎‘義’耳。凡行善者，有<lb edRef="TXCH"/>
+                    正意三狀：下曰，因登天堂免地獄之意；中曰，因報答<lb edRef="TXCH"/>
+                    所重蒙天主恩德之意；上曰，因翕順天主聖旨之意<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="25A"/>
+                    也。教之所望乎學者，在其’成就’耳，不獲已而先指其<lb edRef="TXCH"/>
+                    端焉。民溺于’利’久矣，不以利迪之、害駭之，莫之引領<lb edRef="TXCH"/>
+                    也。然上意至，則下意無所容而去矣。如縫錦鏽之衣<lb edRef="TXCH"/>
+                    必用絲線，但無鐵針，線不能入，然而其針一進卽過，<lb edRef="TXCH"/>
+                    所庸留于衣裳者絲線耳已。吾欲引人歸德，若但舉<lb edRef="TXCH"/>
+                    其德之美，夫人已昧于私欲，何以覺之乎？言不入其<lb edRef="TXCH"/>
+                    心，卽不願聽而去。惟先怵惕之以地獄之苦，誘導之<lb edRef="TXCH"/>
+                    以天堂之樂，將必傾耳欲聽，而漸就乎善善惡惡之<lb edRef="TXCH"/>
+                    成旨。成者至，則缺者化去，而獨其成就恆存焉。故曰：<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="25B"/>
+                    "惡者惡惡，因懼刑也；善者惡惡，因愛德也。"徃時敝邑<lb edRef="TXCH"/>
+                    出一名聖神，今人稱為’拂卽祭斯榖’，首立一會，其規<lb edRef="TXCH"/>
+                    戒精密，以廉為尚，今從者有數萬友，皆成德之士也。<lb edRef="TXCH"/>
+                    初有親炙一友，名曰’如泥伯陸’，會中無與比者，其學<lb edRef="TXCH"/>
+                    豁然，日增無息。有一邪鬼憎妒，欲沮之，偽化天神，旁<lb edRef="TXCH"/>
+                    射輝光，夜見于聖神私居曰："天神諭爾，如泥伯陸德<lb edRef="TXCH"/>
+                    誠隆也，雖然，終不得躋天堂，必墮地獄。天主嚴命已<lb edRef="TXCH"/>
+                    定，不可易也。"言訖弗見。拂卽祭斯榖驚，秘不敢洩，而<lb edRef="TXCH"/>
+                    心深痛惜。每見如尼伯陸不覺涕淚，如尼伯陸屢見<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="26A"/>
+                    而疑之，已齋宿，赴師座問曰："某也日孜孜守戒，奉敬<lb edRef="TXCH"/>
+                    天主，幸在憫教，邇日以來，覺先生目有異也，何以數<lb edRef="TXCH"/>
+                    涕淚于弟子？"拂卽祭斯榖初不肯露，再三懇請，盡述<lb edRef="TXCH"/>
+                    向所見聞。如尼伯陸怡然曰："是何足憂乎？天主主宰<lb edRef="TXCH"/>
+                    人物，惟其旨所寘之，上天下地，吾儕無不奉焉。吾所<lb edRef="TXCH"/>
+                    為敬愛之者，非為天堂地獄，為其至尊至善，自當敬、<lb edRef="TXCH"/>
+                    自當愛耳。今雖棄我，何敢毫髮懈惰，惟益加敬慎事<lb edRef="TXCH"/>
+                    之，恐在地獄時，卽欲奉事而不可及矣。"拂卽祭斯榖<lb edRef="TXCH"/>
+                    覩其容也，聽其語也，恍然悟而嘆曰："誤哉前者所聞，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="26B"/>
+                    有學道如斯，而應受地獄殃者乎？天主必躋爾天堂<lb edRef="TXCH"/>
+                    矣。"夫此天堂地獄，其在成德之士，少借此意以取樂<lb edRef="TXCH"/>
+                    而免苦也，多以修其仁義而已矣。何者？天堂非他，乃<lb edRef="TXCH"/>
+                    古今仁義之人所聚光明之宇；地獄亦非他，乃古今<lb edRef="TXCH"/>
+                    罪惡之人所流穢污之域。升天堂者，已安其心乎善，<lb edRef="TXCH"/>
+                    不能易也；其落地獄者，已定其心乎惡，不克改也。吾<lb edRef="TXCH"/>
+                    願定心于德，勿移于不善；吾願長近仁義之君子，求<lb edRef="TXCH"/>
+                    離罪惡之小人。誰云以利害分志，而在正道之外乎？<lb edRef="TXCH"/>
+                    儒者攻天堂地獄之說，是未察此理耳已。中士曰：茲<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="27A"/>
+                    與浮屠勸世、輪迴變禽獸之說，何殊？西士曰：遠矣。彼<lb edRef="TXCH"/>
+                    用"虛無"者偽詞，吾用"實有"者至理；彼言輪迴徃生，止<lb edRef="TXCH"/>
+                    于言’利’；吾言天堂地獄利害，明揭利以引人于‘義’。豈<lb edRef="TXCH"/>
+                    無辯乎？且夫賢者修德，雖無天堂地獄，不敢自已，況<lb edRef="TXCH"/>
+                    實有之。中士曰：善惡有報，但云必在本世，或不于本<lb edRef="TXCH"/>
+                    身，必于子孫耳，不必言天堂地獄。西士曰：本世之報<lb edRef="TXCH"/>
+                    微矣，不足以充人心之欲，又不滿誠德之功，不足現<lb edRef="TXCH"/>
+                    上帝賞善之力量也。公相之位，極重之酬矣，若以償<lb edRef="TXCH"/>
+                    德之價，萬不償一矣，天下固無可以償德之價者也。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="27B"/>
+                    修德者雖不望報，上帝之尊豈有不報之盡滿者乎？<lb edRef="TXCH"/>
+                    王者酬臣之功，賞以三公足矣，上帝之<g ref="A04234">酬</g>而于是乎？<lb edRef="TXCH"/>
+                    止乎人之短，于量也如是。夫世之仁者不仁者，皆屢<lb edRef="TXCH"/>
+                    有無嗣者，其善惡何如報也？我自為我，子孫自為子<lb edRef="TXCH"/>
+                    孫。夫我所親行善惡，盡以還之子孫，其可為公乎？且<lb edRef="TXCH"/>
+                    問天主既能報人善惡，何有能報其子孫，而不能報<lb edRef="TXCH"/>
+                    及其躬？苟能報及其躬，何以舍此而遠俟其子孫乎？<lb edRef="TXCH"/>
+                    且其子孫又有子孫之善惡，何以為報？亦將俟其子<lb edRef="TXCH"/>
+                    孫之子孫，以酬之歟？爾為善，子孫為惡，則將舉爾所<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="28A"/>
+                    當享之賞，而盡加諸其為惡之身乎，可謂’義’乎？爾為<lb edRef="TXCH"/>
+                    惡，子孫為善，則將舉爾所當受之刑，而盡寘諸其為<lb edRef="TXCH"/>
+                    善之躬乎，可為’仁’乎？非但王者，卽霸者之法，罪不及<lb edRef="TXCH"/>
+                    胄；天主舍其本身，而惟胄是報耶？更善惡之報於他<lb edRef="TXCH"/>
+                    人之身，紊宇內之恆理，而俾民疑上帝之仁義，無所<lb edRef="TXCH"/>
+                    益於為政，不如各任其報耳。中士曰：先生曾見有’天<lb edRef="TXCH"/>
+                    堂地獄’，而決曰有？西士曰：吾子已見無天堂地獄，而<lb edRef="TXCH"/>
+                    決曰無？何不記前所云乎？智者不必以肉眼所見之<lb edRef="TXCH"/>
+                    事，方’信’其有。理之所見者，真于肉眼。夫耳目之覺，或<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="28B"/>
+                    常有差；理之所是，必無謬也。中士曰：願聞此理。西士<lb edRef="TXCH"/>
+                    曰：一曰：凡物類各有本性所向，必至是而定止焉；得<lb edRef="TXCH"/>
+                    此，則無復他望矣。人類亦必有止。然觀人之常情，未<lb edRef="TXCH"/>
+                    有以本世之事為足者，則其心之所止不在本世明<lb edRef="TXCH"/>
+                    也。不在本世，非在後世天堂歟？蓋人心之所向，惟在<lb edRef="TXCH"/>
+                    ‘全福’，眾福備處，乃謂’天堂’。是以人情未迄于是，未免<lb edRef="TXCH"/>
+                    有兾焉。全福之內含壽無疆，人世之壽。雖欲信天、地、<lb edRef="TXCH"/>
+                    人三皇及楚之冥靈、上古大椿。其壽終有界限，則現<lb edRef="TXCH"/>
+                    世悉有缺也。所謂世間無全福，彼善于此則有之；至<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="29A"/>
+                    于天堂，則止弗可尚，人性于是止耳。二曰：人之所願，<lb edRef="TXCH"/>
+                    乃知無窮之真，乃好無量之好。今之世也，真有窮、好<lb edRef="TXCH"/>
+                    有量矣，則于是不得盡其性矣。夫性是天主所賦，豈<lb edRef="TXCH"/>
+                    徒然賦之？必將充之，亦必于來世盡充之。三曰：德于<lb edRef="TXCH"/>
+                    此無價也，雖舉天下萬國而市之，未足以還德之所<lb edRef="TXCH"/>
+                    值，苟不以天堂報之，則有德者不得其報稱矣。得罪<lb edRef="TXCH"/>
+                    上帝，其罪不勝重，雖以天下之極刑誅之，不滿其咎，<lb edRef="TXCH"/>
+                    苟不以地獄永永殃之，則有罪者不得其報稱矣。天<lb edRef="TXCH"/>
+                    主掌握天下人所行，而德罪無報稱，未之有也。四曰：<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="29B"/>
+                    上帝報應無私，善者必賞，惡者必罰。如今世之人，亦<lb edRef="TXCH"/>
+                    有為惡而富貴安樂，為善而貧賤苦難者，上帝固待<lb edRef="TXCH"/>
+                    其人之既死，然後取其善者之魂而天堂福之，審其<lb edRef="TXCH"/>
+                    惡者之魂而地獄刑之。不然，何以明至公、至審乎？中<lb edRef="TXCH"/>
+                    士曰：善惡之報，亦有現世何如？西士曰：設令善惡之<lb edRef="TXCH"/>
+                    報鹹待于來世，則愚人不知來世之應者，何以騐天<lb edRef="TXCH"/>
+                    上之有主者？將益放恣無忌。故犯彝者，時遇饑荒之<lb edRef="TXCH"/>
+                    灾，以懲其前而戒其後；順理者，時蒙吉福之降，以酬<lb edRef="TXCH"/>
+                    于徃而勸其來也。然天主至公，無不盡賞之善，無不<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="30A"/>
+                    盡罰之惡。故終身為善不易其心，則應登天堂，享大<lb edRef="TXCH"/>
+                    福樂而賞之；終身為惡至死不悛，則宜墮地獄，受重<lb edRef="TXCH"/>
+                    禍灾而罰之。其有為善而貧賤者，或因為善之中有<lb edRef="TXCH"/>
+                    小過惡焉，故上帝以是現報之，至于歿後，既無所欠，<lb edRef="TXCH"/>
+                    則入全福之域，永享常樂矣。亦有為惡而富貴者，乃<lb edRef="TXCH"/>
+                    行惡之際並有微善存焉，故上帝以是償之，及其死<lb edRef="TXCH"/>
+                    後，既無可舉，則陷深陰之獄，永受罪苦矣。夫宇宙內<lb edRef="TXCH"/>
+                    外，灾祥由天主歟？由命歟？天主令外固無他命也。中<lb edRef="TXCH"/>
+                    士曰：儒者以聖人為宗，聖人經傳示教，遍察吾經<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="30B"/>
+                    傳，通無天堂地獄之說，豈聖人有未達此理乎？何以<lb edRef="TXCH"/>
+                    隱而未著？西士曰：聖人傳教，視世之能載，故有數傳<lb edRef="TXCH"/>
+                    不盡者。又或有靣語，而未悉錄于冊者。或已錄，而後<lb edRef="TXCH"/>
+                    失者。或後頑史不信，因削去之者。況事物之文，時有<lb edRef="TXCH"/>
+                    換易，不可以無其文卽云無其事也。今儒之謬攻古<lb edRef="TXCH"/>
+                    書，不可勝言焉。急乎文，緩乎意，故今之文雖隆，今之<lb edRef="TXCH"/>
+                    行實衰。《詩》曰："文王在上，于昭于天；文王陟降，在帝左<lb edRef="TXCH"/>
+                    右。"又曰："世有哲王，三後在天。"《召誥》曰："天既遐終大邦<lb edRef="TXCH"/>
+                    殷之命。茲殷多先哲王在天。"夫在上、在天、在帝左右，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="31A"/>
+                    非天堂之謂，其何歟？中士曰：察此經語，古之聖人已<lb edRef="TXCH"/>
+                    信死後固有樂地為善者所居矣。然地獄之說，绝無<lb edRef="TXCH"/>
+                    可徵于經者。西士曰：有天堂自有地獄，二者不能相<lb edRef="TXCH"/>
+                    無，其理一耳。如真文王、殷王、周公在天堂上，則桀紂、<lb edRef="TXCH"/>
+                    盜跖必在地獄下矣。行異則受不同，理之常，固不容<lb edRef="TXCH"/>
+                    疑也。緣此，人之臨終，滋賢者則滋舒泰而畧無駭色<lb edRef="TXCH"/>
+                    焉，滋不肖則滋逼迫而以死為痛苦不幸之極焉。若<lb edRef="TXCH"/>
+                    以經書之未載為非真，且誤甚矣。西庠論之訣曰："正<lb edRef="TXCH"/>
+                    書可證其有，不可證其無。"吾西國古經載，昔天主開<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="31B"/>
+                    闢天地，卽生一男，名曰亞黨；一女，名曰阨襪，是為世<lb edRef="TXCH"/>
+                    人之祖。而不書伏羲，神農二帝。吾以此觀之，可證當<lb edRef="TXCH"/>
+                    時果有亞黨、阨襪夏娃二人，然而不可證其後之無伏羲、<lb edRef="TXCH"/>
+                    神農二帝也。若自中國之書觀之，可證古有伏羲、神<lb edRef="TXCH"/>
+                    農于中國，而不可證無亞當，夏娃二祖也。不然，禹蹟<lb edRef="TXCH"/>
+                    不寫大西諸國，可謂天下無大西諸國哉？故儒書雖<lb edRef="TXCH"/>
+                    未明辯天堂地獄之理，然不宜因而不信也。中士曰：<lb edRef="TXCH"/>
+                    善者登天堂，惡者墮地獄，設有不善不惡之輩，死後<lb edRef="TXCH"/>
+                    當徃何處？西士曰：善惡無間，非善卽惡，非惡卽善，惟<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="32A"/>
+                    善惡之中有巨微之別耳。善惡譬若生死，人不生則<lb edRef="TXCH"/>
+                    死，未死則生，固無弗生弗死者也。中士曰：使有人先<lb edRef="TXCH"/>
+                    為善，後變而為惡；有先為惡，後改而為善；茲二人身<lb edRef="TXCH"/>
+                    後何如？西士曰：天主乃萬靈之父，限本世之界以勸<lb edRef="TXCH"/>
+                    吾儕于德，必以瀕死之候為定。故平生為善，須臾變<lb edRef="TXCH"/>
+                    心向惡而死，便為犯人，則受地獄常永之殃，其前善<lb edRef="TXCH"/>
+                    惟末減耳；平生為惡，今日改心歸善而死，則天主必<lb edRef="TXCH"/>
+                    扶而宥之，免前罪而授天堂，萬年永常受福也。中士<lb edRef="TXCH"/>
+                    曰：如此，則平生之惡無報焉？西士曰：天主經云："人改<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="32B"/>
+                    惡之後，或自悔之深，或以苦勞本身自懲，于以求天<lb edRef="TXCH"/>
+                    主之宥，天主必且赦之，而死後卽可升天也。倘悔不<lb edRef="TXCH"/>
+                    深，自苦不及前罪，則地獄之內另有一處以寘此等<lb edRef="TXCH"/>
+                    人，或受數日數年之殃，以補在世不滿之罪報也，補<lb edRef="TXCH"/>
+                    之盡則亦躡天。"其理如此。中士曰：心悟此理之是，第<lb edRef="TXCH"/>
+                    先賢之書云："何必信天堂地獄？如有天堂，君子必登<lb edRef="TXCH"/>
+                    之；如有地獄，小人必入之。吾當為君子則已。"此語庶<lb edRef="TXCH"/>
+                    幾得之？西士曰：此語固失之。何以知其然乎？有天堂，<lb edRef="TXCH"/>
+                    君子登之必也，但弗信天堂地獄之理，決非君子。中<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="33A"/>
+                    士曰：何也？西士曰：且問乎子，不信有上帝，其君子人<lb edRef="TXCH"/>
+                    歟？否歟？中士曰：否。詩曰："維此文王，小心翼翼，昭事上<lb edRef="TXCH"/>
+                    帝。"孰謂君子而弗信上帝者？西士曰：不信上帝至仁<lb edRef="TXCH"/>
+                    至公，其君子人歟？否歟？中士曰：否。上帝為仁之原也，<lb edRef="TXCH"/>
+                    萬物公主也，孰謂君子而弗信其至仁至公者耶？西<lb edRef="TXCH"/>
+                    士曰：仁者為能愛人、能惡人。苟上帝不予善人升天<lb edRef="TXCH"/>
+                    堂，何足云能愛人？不迸惡人于地獄，何足云能惡人<lb edRef="TXCH"/>
+                    乎？夫世之賞罰大畧，未能盡公，若不待身後以天堂<lb edRef="TXCH"/>
+                    地獄，還各行之當然，則不免乎私焉。弗信此，烏信上<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="33B"/>
+                    帝為仁、為公哉？且夫天堂地獄之報，中華佛老二氏<lb edRef="TXCH"/>
+                    信之，儒之智者亦從之，太東太西諸大邦無疑之，天<lb edRef="TXCH"/>
+                    主聖經載之，吾前者揭明理而顯之，則拗逆者必非<lb edRef="TXCH"/>
+                    君子也。中士曰：如此，則固信之矣，然尚願聞其說。西<lb edRef="TXCH"/>
+                    士曰：難言也。天主經中特舉其概，不詳傳之。然夫地<lb edRef="TXCH"/>
+                    獄之刑于今世之殃畧近，吾可借而比焉；彼天堂之<lb edRef="TXCH"/>
+                    快樂，何能言乎？夫本世之患有息有終，地獄之苦無<lb edRef="TXCH"/>
+                    間無窮。聖賢論地獄分其苦勞二般：或責其內中，或<lb edRef="TXCH"/>
+                    責其表外。若凍熱之不勝，臭穢之難當，饑渴之至極，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="34A"/>
+                    是外患也。若戰慄視厲鬼魔威，恨妒瞻天神福樂，愧<lb edRef="TXCH"/>
+                    悔無及憶己前行，乃內禍也雖然，罪人所傷痛莫深<lb edRef="TXCH"/>
+                    乎？所失之巨福也，故常哀哭自悔曰："悲哉！吾生前為<lb edRef="TXCH"/>
+                    淫樂之微，失無窮之福而溺于此萬苦之聚谷乎，今<lb edRef="TXCH"/>
+                    欲改過免此而已遲。欲死而畢命以脫此而不得，蓋<lb edRef="TXCH"/>
+                    此非改過之時。"天主公法所使：以刑具苦痛其人，不<lb edRef="TXCH"/>
+                    令毀滅其體，而以悠久受殃也。夫不欲死後落地獄，<lb edRef="TXCH"/>
+                    全在生時思省，思其苦，思其勞，思則戒，戒則不為陷<lb edRef="TXCH"/>
+                    溺之事，而地獄可免焉。設地獄之嚴刑不足以動爾<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="34B"/>
+                    心，天堂之福當必望之。《經》曰："天堂之樂，天主所備以<lb edRef="TXCH"/>
+                    待仁人者，目所未見，耳所未聞，人心所未及忖度者<lb edRef="TXCH"/>
+                    也。"從是可徵其處為眾吉所歸，諸兇之所遠焉。夫欲<lb edRef="TXCH"/>
+                    度天堂光景，且當縱目觀茲天地萬物，現在竒麗之<lb edRef="TXCH"/>
+                    景多有令人嘆息無已者。而卽復推思，此乃上帝設<lb edRef="TXCH"/>
+                    之以為人民鳥獸共用之具。為善與作惡同寓之所，<lb edRef="TXCH"/>
+                    猶且製作成就如此；若其獨為善人造作全福之處，<lb edRef="TXCH"/>
+                    更當何如哉？必也：常為暄春，無寒暑之迭累；常見光<lb edRef="TXCH"/>
+                    明，無暮夜之屢更；其人常快樂，無憂怒哀哭之苦；常<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="35A"/>
+                    舒泰，無危險；韶華之容，常駐不變；歲年來徃，大壽無<lb edRef="TXCH"/>
+                    減；常生不滅，周旋左右于上帝。世俗之人烏能達之？<lb edRef="TXCH"/>
+                    烏能言釋之哉？夫眾福吉之溶泉，聖神所常嗜、所常<lb edRef="TXCH"/>
+                    食，嗜而未始乏，食而未始饜也。此其所享不等，僉由<lb edRef="TXCH"/>
+                    生時所為之善。功有多寡，而享福隨之，無有胥憎。何<lb edRef="TXCH"/>
+                    者？各滿其量也。譬長身者長衣，短身者短衣，長短各<lb edRef="TXCH"/>
+                    得其所，欲何憎之有？眾善為侶，和順親愛，俯視地獄<lb edRef="TXCH"/>
+                    之苦，豈不更增快樂也乎？白者比黑而彌白，光者比<lb edRef="TXCH"/>
+                    闇而彌光也。天主正教以此頒訓于世，而吾輩拘於<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="35B"/>
+                    目所恆覩，不明未見之理。比如囚婦懷胎產子闇獄，<lb edRef="TXCH"/>
+                    其子至長而未知日月之光，山水人物之嘉，只以大<lb edRef="TXCH"/>
+                    燭為日，小燭為月，以獄內人物為齊整，無以尚也，則<lb edRef="TXCH"/>
+                    不覺獄中之苦，殆以為樂不思出矣。若其母語之以<lb edRef="TXCH"/>
+                    日月之光輝、貴顯之粧餙、天地境界之文章廣大數<lb edRef="TXCH"/>
+                    萬里高億萬丈，而後知容光之細，桎梏之苦、囹圄之<lb edRef="TXCH"/>
+                    窄穢，則不肯復安為家矣。乃始晝夜圖脫其手足之<lb edRef="TXCH"/>
+                    桎梏，而出尋朋友親戚之樂矣。世人不信天堂地獄，<lb edRef="TXCH"/>
+                    或疑，或誚，豈不悲哉？中士曰：悲哉！世人不為二氏<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="36A"/>
+                    所誕，則蕩蕩如無牧之群，以苦世為樂地天堂耳。茲語<lb edRef="TXCH"/>
+                    也，慈母之訓也。吾已知有本家，尚願習迴家之路。西<lb edRef="TXCH"/>
+                    士曰：正路茅塞，邪路反辟，故固有不知其路而妄為引<lb edRef="TXCH"/>
+                    者。真似偽也，偽遠真也，不可錯認也，向萬福而卒至<lb edRef="TXCH"/>
+                    萬苦，皋彼行路，慎之哉？<lb edRef="TXCH"/>
+                </p>    
+                <p xml:lang="zh"> 
+                    第七篇  論人性本善，而述天主門士正學。<lb edRef="TXCH"/>
+                    中士曰：先辱示以天主為兆民尊父，則知宜慕愛。次<lb edRef="TXCH"/>
+                    示人類靈魂身後不滅，則知本世暫寄，不可為重。復<lb edRef="TXCH"/>
+                    聞且有天堂為善者升焉，居彼已定心修德以事上<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="36B"/>
+                    帝，與神人為侶；況有地獄，居彼已定心不改惡，以受<lb edRef="TXCH"/>
+                    刑殃致萬世不可脫也。茲欲詢’事天主正道’。夫吾儒<lb edRef="TXCH"/>
+                    之學，以率性為修道，設使性善，則率之無錯；若或非<lb edRef="TXCH"/>
+                    盡善，性固不足恃也，奈何？西士曰：吾觀儒書，嘗論性<lb edRef="TXCH"/>
+                    情，而未見定論之訣，故一門之中恆出異說。知事而<lb edRef="TXCH"/>
+                    不知己本，知之亦非知也。欲知人性本善耶，先論<lb edRef="TXCH"/>
+                    何謂’性’、何謂‘善惡’。夫"性"也者，非他，乃各物類之本體<lb edRef="TXCH"/>
+                    耳。曰各物類也，則同類同性，異類異性。曰"本"也，則凡<lb edRef="TXCH"/>
+                    在別類理中，卽非茲類本性；曰"體"也，則凡不在其物<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="37A"/>
+                    之體界內，亦非性也。但物有自立者，而性亦為自立；<lb edRef="TXCH"/>
+                    有依賴者，而性兼為依賴。可愛、可欲謂善，可惡可疾<lb edRef="TXCH"/>
+                    謂惡也。通此義者，可以論人性之善否矣。西儒說"人"<lb edRef="TXCH"/>
+                    云，是乃’生覺者’、能推論理也。曰生，以別于金石；曰覺，<lb edRef="TXCH"/>
+                    以異于草木；曰能推論理，以殊乎鳥獸；曰推論不直<lb edRef="TXCH"/>
+                    曰明達，又以分之乎鬼神。鬼神者，徹盡物理如照如<lb edRef="TXCH"/>
+                    視，不待推論；人也者，以其前推明其後，以其顯騐其<lb edRef="TXCH"/>
+                    隱，以其既曉及其所未曉也。故曰能推論理者立人<lb edRef="TXCH"/>
+                    於本類，而別其體於他物，乃所謂人性也。仁義禮智，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="37B"/>
+                    在推理之後也。"理"也，乃依賴之品，不得為人性也。古<lb edRef="TXCH"/>
+                    有歧’人性之善’否，誰有疑"理"為有弗善者乎？孟子曰：<lb edRef="TXCH"/>
+                    "人性與牛犬性不同。"觧者曰："人得性之正，禽獸得性<lb edRef="TXCH"/>
+                    之偏也。""理"則無二無偏，是古之賢者固不同"性"于"理"<lb edRef="TXCH"/>
+                    矣。釋此，庶可答子所問人性善否歟？若論厥性之’體’<lb edRef="TXCH"/>
+                    及’情’，均為天主所化生。而以‘理’為主，則俱可愛可欲，<lb edRef="TXCH"/>
+                    而本善無惡矣。至論其用機，又由乎我，我或有可愛、<lb edRef="TXCH"/>
+                    或有可惡，所行異則用之善惡無定焉，所為情也。夫<lb edRef="TXCH"/>
+                    性之所發，若無病疾必自聽命于理，無有違節，卽無<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="38A"/>
+                    不善。然情也者，性之足也，時著偏疾者也，故不當壹<lb edRef="TXCH"/>
+                    隨其欲，不察于理之所指也。身無病時，口之所啖，甜<lb edRef="TXCH"/>
+                    者甜之，苦者苦之；乍遇疾變，以甜為苦，以苦為甜者<lb edRef="TXCH"/>
+                    有焉。性情之已病，而接物之際誤感而拂于理，其所<lb edRef="TXCH"/>
+                    愛惡，其所是非者，鮮得其正、鮮合其真者。然本性自<lb edRef="TXCH"/>
+                    善，此亦無碍于稱之為善。蓋其能推論理，則良能常<lb edRef="TXCH"/>
+                    存；可以認本病，而復治療之。中士曰：貴邦定善之理<lb edRef="TXCH"/>
+                    曰：可愛；定惡之理曰：可惡。是一說固盡善惡之情。敝<lb edRef="TXCH"/>
+                    國之士有曰："出善乃善，出惡乃惡。"亦是一端之理。若<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="38B"/>
+                    吾性既善，此惡自何來乎？西士曰：吾以性為能行善<lb edRef="TXCH"/>
+                    惡，固不可謂性自本有惡矣。惡非實物，乃無善之謂，<lb edRef="TXCH"/>
+                    如死非他，乃無生之謂耳。如士師能死罪人，詎其有<lb edRef="TXCH"/>
+                    "死"在己乎？苟世人者，生而不能不為善。從何處可稱<lb edRef="TXCH"/>
+                    成善乎？天下無無意于為善而可以為善也。吾能無<lb edRef="TXCH"/>
+                    強我為善而自徃為之，方可謂為善之君子。天主賦<lb edRef="TXCH"/>
+                    人此性，能行二者，所以厚人類也，其能取舍此善，非<lb edRef="TXCH"/>
+                    但增為善之功，尤俾其功為我功焉. 故曰："天主所以<lb edRef="TXCH"/>
+                    生我，非用我；所以善我，乃用我。"此之謂也。卽如設正<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="39A"/>
+                    鵠，非使射者失之；亦猶惡情于世，非以使人為之。彼<lb edRef="TXCH"/>
+                    金石鳥獸之性不能為善惡，不如人性能之以建其<lb edRef="TXCH"/>
+                    功也。其功非功名之功，德行之真功也。人之性情雖<lb edRef="TXCH"/>
+                    本善，不可因而謂世人之悉善人也，惟有德之人乃<lb edRef="TXCH"/>
+                    為善人。德加于善，其用也，在本善性體之上焉。中士<lb edRef="TXCH"/>
+                    曰：性本必有德，無德何為善？所謂君子，亦復其初也。<lb edRef="TXCH"/>
+                    西士曰：設謂善者惟復其初，則人皆生而聖人也，而<lb edRef="TXCH"/>
+                    何謂"有生而知之，有學而知之"之別乎？如謂德非自<lb edRef="TXCH"/>
+                    我新知，而但返其所已有；已失之大犯罪，今復之不<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="39B"/>
+                    足以為大功。則固須認二善之品矣：性之善，為’良善’；<lb edRef="TXCH"/>
+                    德之善，為’習善’。夫良善者，天主原化性命之德，而我<lb edRef="TXCH"/>
+                    無功焉；我所謂功，止在自習積德之善也。孩提之童<lb edRef="TXCH"/>
+                    愛親，鳥獸亦愛之；常人不論仁與不仁，乍見孺子將<lb edRef="TXCH"/>
+                    入于井，卽皆怵惕；此皆’良善’耳，鳥獸與不仁者何德<lb edRef="TXCH"/>
+                    之有乎？見義而卽行之，乃為德耳。彼或有所未能、或<lb edRef="TXCH"/>
+                    有所未暇視義，無以成德也。故謂’人心者’，始生如素<lb edRef="TXCH"/>
+                    簡無所書也，又如艷貌女人，其美則可愛，然皆其父<lb edRef="TXCH"/>
+                    母之遺德也，不足以見其本德之巧；若視其衣錦尚<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="40A"/>
+                    絅，而後其德可知也，茲乃女子本德矣。吾性質雖妍，<lb edRef="TXCH"/>
+                    如無德以飾，之何足譽乎？吾兩國學者謂德乃神性<lb edRef="TXCH"/>
+                    之寶服，以久習義、念義行生也。謂"服"，則可著、可脫，而<lb edRef="TXCH"/>
+                    得之于忻然為善之念，所謂聖賢者也；不善者反是。<lb edRef="TXCH"/>
+                    但得與罪皆無形之服也，而惟無形之心——卽吾所謂<lb edRef="TXCH"/>
+                    神者——衣之耳。中士曰：論性與德，古今眾矣，如闡其衷<lb edRef="TXCH"/>
+                    根，則茲始聞焉。夫為非義，猶以汙穢染本性；為義，猶<lb edRef="TXCH"/>
+                    以文錦彰之。故德修而性彌美焉，此誠君子修己之<lb edRef="TXCH"/>
+                    功。然又有勉于’外事’，而不復反本者。西士曰：惜哉！世<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="40B"/>
+                    俗之盡日周望，殫心力以疊偽珍悅肉眼，而不肯畧<lb edRef="TXCH"/>
+                    啓心目以視千萬世之文彩、內神之真寶也，宜其逐<lb edRef="TXCH"/>
+                    日操心困苦，而臨終之候，哀痛懼栗如畜獸被牽於<lb edRef="TXCH"/>
+                    屠矣。天主生我世間，使我獨勤事于德業，常自得無<lb edRef="TXCH"/>
+                    窮之福，不煩外借焉。而我自棄之，反以行萬物之役，<lb edRef="TXCH"/>
+                    趨百危險，誰咎乎，誰咎乎？夫人非願為尊富，惟願恆<lb edRef="TXCH"/>
+                    得其所欲耳。得所欲之路，無他，惟勿重其所求得之<lb edRef="TXCH"/>
+                    不在我者焉。我固有真我也，我自害之心之害，乃真<lb edRef="TXCH"/>
+                    害也。人以形、神兩端相結成人，然神之精超于形，故<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="41A"/>
+                    智者以神為真己，以形為藏己之器。古有賢臣亞那，<lb edRef="TXCH"/>
+                    為篡國者所傷，泰然曰："爾傷亞那之器，非能傷’亞那<lb edRef="TXCH"/>
+                    者’也。"此所謂達人者也。中士曰：人亦誰不知違義之<lb edRef="TXCH"/>
+                    自殃，從德者之自有大吉盛福，而不須外具也。然而<lb edRef="TXCH"/>
+                    務德者世世更稀，其德之路，難曉乎？抑難進乎？西士<lb edRef="TXCH"/>
+                    曰：俱難也，進尤甚焉。知此道而不行，則倍其愆，且減<lb edRef="TXCH"/>
+                    其知。比于食者，而不能化其所食，則充而無養，反傷<lb edRef="TXCH"/>
+                    其身。力行焉，踐其所知，卽增辟其才光，益厚其心力，<lb edRef="TXCH"/>
+                    以行其餘。試之則覺其然焉。中士曰：吾中州士，古者<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="41B"/>
+                    學聖教而為聖。今久非見聖人，則竊疑今之學，非聖<lb edRef="TXCH"/>
+                    人之學。茲願詳示學術。西士曰：嘗竊視群書，論學各<lb edRef="TXCH"/>
+                    具己私。若已測悟公學，吾何不聽命，而復有稱述西<lb edRef="TXCH"/>
+                    庠學乎？顧取舍之在子耳。夫學之謂，非但專效先覺<lb edRef="TXCH"/>
+                    行動語錄謂之學，亦有自己領悟之學；有視察天地<lb edRef="TXCH"/>
+                    萬物而推習人事之學。故曰智者不患乏書冊、無傳<lb edRef="TXCH"/>
+                    師，天地萬物盡我師、盡我券也。學之為字，其義廣矣，<lb edRef="TXCH"/>
+                    正邪、大小、利鈍均該焉。彼邪學固非子之所問，其勢<lb edRef="TXCH"/>
+                    利及無益之習，君子不以營心焉。吾所論學惟內也，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="42A"/>
+                    為己也，約之以一言，謂成己也。世之弊非無學也，是<lb edRef="TXCH"/>
+                    乃徒習夫寧無習之方，乃竟無補乎行。吾儕本體之<lb edRef="TXCH"/>
+                    神，非徒為精貴，又為形之本主，故神修卽形修，神成<lb edRef="TXCH"/>
+                    卽形無不成矣。是以君子之本業特在于神，貴邦所<lb edRef="TXCH"/>
+                    謂無形之心也。有形之身得耳、口、目、鼻、四肢、五司，以<lb edRef="TXCH"/>
+                    交覺于物。無形之神有三司，以接通之：曰司記含、司<lb edRef="TXCH"/>
+                    明悟、司愛欲焉。凡吾視聞啖覺，卽其像由身之五門<lb edRef="TXCH"/>
+                    竅，以進達于神，而神以’司記者’受之。如藏之倉庫，不<lb edRef="TXCH"/>
+                    令忘矣。後吾欲明通一物，卽以’司明者’取其物之在<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="42B"/>
+                    司記者像，而委屈折衷其體，協其性情之真，于理當<lb edRef="TXCH"/>
+                    否？其善也，吾以司愛者愛之、欲之；其惡也，吾以司愛<lb edRef="TXCH"/>
+                    者惡之、恨之。蓋’司明者’，達是又達非，’司愛者’，司善善<lb edRef="TXCH"/>
+                    又司惡惡者也。三司已成，吾無事不成矣。又其司愛、<lb edRef="TXCH"/>
+                    司明者已成，其司記者自成矣，故講學只論其二爾<lb edRef="TXCH"/>
+                    已。司明者尚真，司愛者尚好。是以吾所達愈真，其真<lb edRef="TXCH"/>
+                    愈廣闊，則司明者愈成充；吾所愛益好，其好益深厚，<lb edRef="TXCH"/>
+                    則司愛益成就也。若司明不得真者，司愛不得好者，<lb edRef="TXCH"/>
+                    則二司者俱失其養，而神乃病餒。司明之大功在義，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="43A"/>
+                    司愛之大本在仁，故君子以仁義為重焉。二者相須，<lb edRef="TXCH"/>
+                    一不可廢。然惟司明者明仁之善，而後司愛者愛而<lb edRef="TXCH"/>
+                    存之；司愛者愛義之德，而後司明者察而求之。但仁<lb edRef="TXCH"/>
+                    也者，又為義之至精。仁盛，則司明者滋明，故君子之<lb edRef="TXCH"/>
+                    學，又以仁為主焉。仁，尊德也，德之為學，不以強奪，不<lb edRef="TXCH"/>
+                    以久藏毀而殺，施之與人而更長茂。在高益珍，所謂<lb edRef="TXCH"/>
+                    德在百姓為銀，在牧者為金，在君者為貝也。嘗聞智者<lb edRef="TXCH"/>
+                    為事，必先立一主意，而後圖其善具以獲之，如旅人<lb edRef="TXCH"/>
+                    先定所徃之域，而後尋詢去路也。終之意固在其始<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="43B"/>
+                    也。夫學道亦要識其嚮徃者，吾果為何者而學乎？不<lb edRef="TXCH"/>
+                    然則貿貿而徃，自不知其所求。或學特以知識，此乃<lb edRef="TXCH"/>
+                    徒學；或以售知，此乃賤利；或以使人知，此乃罔勤；或<lb edRef="TXCH"/>
+                    以誨人，乃所為慈；或以淑己，乃所為智。故吾曰學之<lb edRef="TXCH"/>
+                    上志惟此，成己以合天主之聖旨耳。所謂由此而歸<lb edRef="TXCH"/>
+                    此者也。中士曰：如是，則其成己為天主也，非為己也，<lb edRef="TXCH"/>
+                    則母奈外學也。西士曰：烏有成己而非為己者乎？其<lb edRef="TXCH"/>
+                    為天主也，正其所以成也。仲尼說仁惟曰愛人，而儒<lb edRef="TXCH"/>
+                    者不以為外學也。余曰仁也者，乃愛天主與夫愛人<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="44A"/>
+                    者，崇其宗原而不遺其枝派，何以謂外乎？人之中雖<lb edRef="TXCH"/>
+                    親若父母，比于天主者，猶為外焉。況天主常在物內，<lb edRef="TXCH"/>
+                    自不當外。意益高者學益尊，如學者之意止於一己，<lb edRef="TXCH"/>
+                    何高之有？至于為天主，其尊乃不可加矣，孰以為賤<lb edRef="TXCH"/>
+                    乎？聖學在吾性內，天主銘之人心原不能壞，貴邦儒<lb edRef="TXCH"/>
+                    經所謂明德、明命是也。但是明為私欲蔽揜以致昏<lb edRef="TXCH"/>
+                    瞑，不以聖賢躬親喻世人，豈能覺？恐以私欲悞認明<lb edRef="TXCH"/>
+                    德，愈悖正學耳。然此學之貴，全在力行而近人。妄當<lb edRef="TXCH"/>
+                    之以講論，豈知善學之騐在行德，不在言德乎。然其<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="44B"/>
+                    講亦不可遺也，講學也者，溫故而習新，達蘊而釋疑，<lb edRef="TXCH"/>
+                    奮己而勸人，博學而篤信者也。善之道無窮，故學為<lb edRef="TXCH"/>
+                    善者與身同終焉，身在不可一日不學。凡曰已至，其<lb edRef="TXCH"/>
+                    必未起也；凡曰吾已不欲進于善，卽是退復于惡也。<lb edRef="TXCH"/>
+                    中士曰：此皆真語，敢問下手工夫？西士曰：吾素譬此<lb edRef="TXCH"/>
+                    工如圃然，先繕地，拔其野草，除其瓦石，注其泥水於<lb edRef="TXCH"/>
+                    溝壑，而後藝嘉種也。學者先去惡而後能致善，所謂<lb edRef="TXCH"/>
+                    有所不為方能有為焉。未學之始，習心橫肆，其惡根<lb edRef="TXCH"/>
+                    固深透乎心，抽使去之，可不黽黽乎？勇者克己之謂<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="45A"/>
+                    也。童年者蚤卽于學，其工如一，得工如十，無前習之<lb edRef="TXCH"/>
+                    累故也。古有一善教者，子弟從之，必問：曾從他師否，<lb edRef="TXCH"/>
+                    以從他師者，為其已<g ref="A04035">蹈</g>曩時之悞，必倍其將誠之儀，<lb edRef="TXCH"/>
+                    一因改易其前誤，一因教之以知新也。既已知學矣，<lb edRef="TXCH"/>
+                    尚迷乎色慾，則何以建于勇毅？尚驕傲自滿欺人，則<lb edRef="TXCH"/>
+                    何以進乎謙德？尚惑非義之財物，不返其主，則何以<lb edRef="TXCH"/>
+                    秉廉？尚溺乎榮顯功名，則何以超于道德？尚將怨天<lb edRef="TXCH"/>
+                    尤人，則何以立于仁義？秬卣盈以醯鹽，不能斟之鬱<lb edRef="TXCH"/>
+                    鬯矣。知己之惡者，見善之倪，而易入于德路者也。欲<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="45B"/>
+                    剪諸惡之根，而興己于善，不若守敝會規例，逐日再<lb edRef="TXCH"/>
+                    次省察。凡己半日間，所思所言所行善惡：有善者，自<lb edRef="TXCH"/>
+                    勸繼之；有惡者，自懲絕之。久用此功，雖無師保之責，<lb edRef="TXCH"/>
+                    亦不患有大過。然勤修之至，恆習見天主于心目，儼<lb edRef="TXCH"/>
+                    如對越。至尊不離于心，枉念自不萌起，不須他功，其<lb edRef="TXCH"/>
+                    外四肢莫之禁，而自不適于非義矣。故改惡之要，惟<lb edRef="TXCH"/>
+                    在深悔。悔其昔所已犯，自誓弗敢再蹈。心之既沐，德<lb edRef="TXCH"/>
+                    之寶服可衣焉。夫德之品眾矣，不能具論，吾今為子<lb edRef="TXCH"/>
+                    惟揭其綱，則仁其要焉。得其綱，則余者隨之，故《易》云：<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="46A"/>
+                    "元者，善之長；君子體仁，足以長人。"夫仁之說，可約而<lb edRef="TXCH"/>
+                    以二言窮之，日："愛天主，為天主無以尚；而為天主者，<lb edRef="TXCH"/>
+                    愛人如己也。"行斯二者，百行全備矣。然二亦一而已，<lb edRef="TXCH"/>
+                    篤愛一人，則並愛其所愛者矣。天主愛人，吾真愛天<lb edRef="TXCH"/>
+                    主者，有不愛人者乎？此仁之德所以為尊，其尊非他，<lb edRef="TXCH"/>
+                    乃因上帝。借令天主所以成我者，由他外物，又或求<lb edRef="TXCH"/>
+                    得之而不能得，則尚有歉。然皆由我內關，特在一愛<lb edRef="TXCH"/>
+                    云耳。孰曰吾不能愛乎？天主諸善之聚，化育我，施生<lb edRef="TXCH"/>
+                    我，使我為人不為禽蟲，且賜之以作德之性。吾愛天<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="46B"/>
+                    主，卽天主亦寵答之，何適不詳乎？人心之司愛向于<lb edRef="TXCH"/>
+                    善，則其善彌大，司愛者亦彌充。天主之善無限界，則<lb edRef="TXCH"/>
+                    吾德可長無定界矣，則夫能充滿我情性惟天主者<lb edRef="TXCH"/>
+                    也。然于善有未通，則必不能愛。故知寸貝之價當百，<lb edRef="TXCH"/>
+                    則愛之如百；知拱壁之價當千，則愛之如千。是故愛<lb edRef="TXCH"/>
+                    之機在明達，而欲致力以廣仁，先須竭心以通天主<lb edRef="TXCH"/>
+                    之事理，乃識從其教也。中士曰：天主事理目不得見，<lb edRef="TXCH"/>
+                    所信者人所言所錄耳，信人之知，惟恍惚之知，何能<lb edRef="TXCH"/>
+                    決所嚮徃？西士曰：人有形者也，交于人道者，非信人<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="47A"/>
+                    不可，況交乎無形者耶？今余不欲揭他遠事也。子孝<lb edRef="TXCH"/>
+                    嚴親無所不至，然子何以知孝？惟信人之言，知其乃<lb edRef="TXCH"/>
+                    生己之父也；非人言，自何以知之乎？子又忠於君，雖<lb edRef="TXCH"/>
+                    捐命無悔，其為君，亦只信經書所傳耳，臣孰自知其<lb edRef="TXCH"/>
+                    為己君乎？則吾所信有實據，不可謂不真切明曉，足<lb edRef="TXCH"/>
+                    以為仁之基也。況夫天主事，非一夫之言，天主親貽<lb edRef="TXCH"/>
+                    正經，諸國之聖賢傳之，天下之英俊僉從之，信之固<lb edRef="TXCH"/>
+                    不為妄，何恍惚之有？中士曰：如此則信之無容疑矣。<lb edRef="TXCH"/>
+                    但仁道之大，比諸天地無不覆載，今曰一愛已爾，似<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="47B"/>
+                    乎太隘。西士曰：血氣之愛尚為群情之主，矧神理之<lb edRef="TXCH"/>
+                    愛乎？試如逐財之人，以富為好，以貧為醜，則其愛財<lb edRef="TXCH"/>
+                    也。如未得，則欲之；如可得，則望之；如不可得，則棄志；<lb edRef="TXCH"/>
+                    既得之，則喜樂也。若更有奪其所取者，則惡之；慮為<lb edRef="TXCH"/>
+                    人之所奪，則避之。如可勝，則發勇爭之；如不可勝，則<lb edRef="TXCH"/>
+                    懼之；一旦失其所愛，則哀之；如奪我愛者強而難敵，<lb edRef="TXCH"/>
+                    則又或思禦之，或欲復之而忿怒也。此十一情者特<lb edRef="TXCH"/>
+                    自一愛財所發。總之，有所愛，則心搖，其身體豈能靜<lb edRef="TXCH"/>
+                    漠無所為乎？故愛財者，必逝四極交易以殖貨；愛色<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="48A"/>
+                    者，必朝暮動費以備嬖妾；愛功名者，終身經歷百險，<lb edRef="TXCH"/>
+                    以逞其計謀；愛爵祿者，攻苦文武之業，以通其幹才。<lb edRef="TXCH"/>
+                    天下萬事皆由愛作，而天主之愛獨可已乎？愛天主<lb edRef="TXCH"/>
+                    者，固奉敬之，必顯其功德，揚其聲教，傳其聖道，辟彼<lb edRef="TXCH"/>
+                    異端者。然愛天主之效，莫誠乎愛人也。所謂仁者愛<lb edRef="TXCH"/>
+                    人，不愛人，何以騐其誠敬上帝歟？愛人非虛愛，必將<lb edRef="TXCH"/>
+                    渠饑則食之，渴則飲之，無衣則衣之，無屋則舍之，憂<lb edRef="TXCH"/>
+                    患則恤之、慰之；愚蒙則誨之，罪過則諫之，侮我則恕<lb edRef="TXCH"/>
+                    之，既死則葬之，而為代祈上帝，且死生不敢忘之。故<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="48B"/>
+                    昔大西有問于聖人者曰："行何事則可以至善與？"曰：<lb edRef="TXCH"/>
+                    "愛天主，而任汝行也。"聖人之意乃從哲引者固不<lb edRef="TXCH"/>
+                    差路矣。中士曰：司愛者用于善人可耳；人不皆，善其<lb edRef="TXCH"/>
+                    惡者必不可愛，況厚愛乎？若論他人，其無大損；若論<lb edRef="TXCH"/>
+                    在五倫之間，雖不善者，我中國亦愛之，故父為瞽瞍，<lb edRef="TXCH"/>
+                    弟為象，舜猶愛友焉。西士曰：俗言仁之為愛，但謂愛<lb edRef="TXCH"/>
+                    者可相答之物耳，故愛鳥獸金石非仁也。然或有愛<lb edRef="TXCH"/>
+                    之而反以仇，則我可不愛之乎？夫仁之理，惟在愛其<lb edRef="TXCH"/>
+                    人之得善之美，非愛得其善與美而為己有也。譬如<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="49A"/>
+                    愛醴酒，非愛其酒之有美，愛其酒之好味，可為我嘗<lb edRef="TXCH"/>
+                    也，則非可謂仁于酒矣。愛己之子，則愛其有善，卽有<lb edRef="TXCH"/>
+                    富貴、安逸、才學、德行，此乃謂仁愛其子；若爾愛爾子，<lb edRef="TXCH"/>
+                    惟為愛其奉己，此非愛子也，惟愛自己也，何謂之仁<lb edRef="TXCH"/>
+                    乎？惡者固不可愛，但惡之中亦有可取之善，則無絕<lb edRef="TXCH"/>
+                    不可愛之人。仁者愛天主，故因為天主而愛己愛人，<lb edRef="TXCH"/>
+                    知為天主則知人人可愛，何特愛善者乎？愛人之善，<lb edRef="TXCH"/>
+                    緣在天主之善，非在人之善。故雖惡者亦可用吾之<lb edRef="TXCH"/>
+                    仁，非愛其惡，惟愛其惡者之或可以改惡而化善也。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="49B"/>
+                    況雙親兄弟君長與我有恩、有倫之相系，吾宜報之；<lb edRef="TXCH"/>
+                    有天主誡令慕愛之，吾宜守之；又非他人等乎，則雖<lb edRef="TXCH"/>
+                    其不善，豈容斷愛耶？人有愛父母不為天主者，茲乃<lb edRef="TXCH"/>
+                    善情非成仁之德也，雖虎之子為豹，均愛親矣。故有<lb edRef="TXCH"/>
+                    志於天主之旨，則博愛于人以及天下萬物，不須徒<lb edRef="TXCH"/>
+                    膠之為一體耳。中士曰：世之誦讀經書者，徒視其文<lb edRef="TXCH"/>
+                    而闇其旨。某曩者嘗誦《詩》云："維此文王，小心翼翼，昭<lb edRef="TXCH"/>
+                    事上帝，聿懷多福，厥德不迴。"今聞仁之玄論歸于天<lb edRef="TXCH"/>
+                    主，而始知詩人之旨也：志事上帝卽德無缺矣。然仁<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="50A"/>
+                    既惟愛天主，則天主必眷愛仁人，何須焚香禮拜、誦<lb edRef="TXCH"/>
+                    經作功乎？吾檢慎于日用，各合其義，斯已焉。西士曰：<lb edRef="TXCH"/>
+                    天主賜我形神兩備，我宜兼用二者以事之。天主繁<lb edRef="TXCH"/>
+                    育鳥獸，昭布萬像，而其竟莫有知所酬報者；獨人類<lb edRef="TXCH"/>
+                    能建殿堂、設禮祭、祈拜誦經以申感謝，何者？天主之<lb edRef="TXCH"/>
+                    愛人甚矣。大父之慈，恐人以外物幻其內仁，則命聖<lb edRef="TXCH"/>
+                    人作此外儀，以啓吾內德而常存省之，俾吾日日仰<lb edRef="TXCH"/>
+                    目禱祈其恩，既得之，則贊揚其盛而感之不忘，且以<lb edRef="TXCH"/>
+                    是明我本來了無毫髮之非上賜，而因以增廣吾仁，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="50B"/>
+                    且令後世彌厚享賞也。天主之經無他，只是欽崇上<lb edRef="TXCH"/>
+                    帝恩德而贊美之，或祈恕宥昔者所犯罪惡，或乞恩<lb edRef="TXCH"/>
+                    佑以勝危難、以避咎愆、以進于至德，故數數誦之者，<lb edRef="TXCH"/>
+                    必益敦信此道，愈辟心明以達學術之隱也。又恐污<lb edRef="TXCH"/>
+                    邪忘想，侵滑人心，因而渙散，于是天主又教之以禮，<lb edRef="TXCH"/>
+                    不拘男女鹹日誦經拜叩以閒其邪。夫吾天主所授<lb edRef="TXCH"/>
+                    工夫，匪佛老空無寂寞之教，乃悉以誠實引心于仁<lb edRef="TXCH"/>
+                    道之玅。故初使掃去心惡，次乃光其闇惑，卒至合之<lb edRef="TXCH"/>
+                    于天主之旨，俾之化為一心，而與天神無異。用之必<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="51A"/>
+                    有其騐，但今不暇詳觧耳。吾竊視貴邦儒者病正在<lb edRef="TXCH"/>
+                    此，第言明德之修，而不知人意易疲，不能自勉而修，<lb edRef="TXCH"/>
+                    又不知瞻仰天帝以祈慈父之佑，成德者所以鮮見。<lb edRef="TXCH"/>
+                    中士曰：拜佛像，念其經，全無益乎？西士曰：奚啻無益<lb edRef="TXCH"/>
+                    乎，大害正道。惟此異端，愈祭拜尊崇，罪愈重矣。一家<lb edRef="TXCH"/>
+                    止有一長，二之則罪；一國惟得一君，二之則罪；乾坤<lb edRef="TXCH"/>
+                    亦特由一主，二之豈非宇宙間重大罪犯乎？儒者欲<lb edRef="TXCH"/>
+                    罷二氏教于中國，而今乃建二宗之寺觀，拜其像，比<lb edRef="TXCH"/>
+                    如欲枯槁惡樹而厚培其本根，必反榮焉。中士曰：天<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="51B"/>
+                    主為宇內至尊無疑也，然天下萬國九州之廣，或天<lb edRef="TXCH"/>
+                    主委此等佛祖、神仙、菩薩保固各方，如天子宅中，而<lb edRef="TXCH"/>
+                    差官布政于九州百郡，或者貴方別有神祖耳。西士<lb edRef="TXCH"/>
+                    曰：此語本失而似得，不細察則誤信之矣。天主者非<lb edRef="TXCH"/>
+                    若地主但居一方，不遣人分任，卽不能兼治他方者<lb edRef="TXCH"/>
+                    也。上帝知能無限，無外為而成，無所不在，所禦九天<lb edRef="TXCH"/>
+                    萬國，體用造化，比吾示掌猶易，奚待彼流人代司之<lb edRef="TXCH"/>
+                    哉？且理無二是，設上帝之教是，則他教非矣；設他教<lb edRef="TXCH"/>
+                    是，則上帝之教非矣。朝廷設官分職，鹹奉一君，無異<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="52A"/>
+                    禮樂，無異法令。彼二氏教自不同，況可謂天主同乎？<lb edRef="TXCH"/>
+                    彼教不尊上帝，惟尊一己耳，已昧于大原大本焉。所<lb edRef="TXCH"/>
+                    宣誨諭大非天主之制具，可謂自任，豈天主任之乎？<lb edRef="TXCH"/>
+                    天主經曰："妨之妨之：有着羊皮而內為豺狼極猛者；<lb edRef="TXCH"/>
+                    善樹生善果，惡樹生惡果；視其所行，卽知何人。"謂此<lb edRef="TXCH"/>
+                    輩耳。凡經半句不真，決非天主之經也。天主者，豈能<lb edRef="TXCH"/>
+                    欺人，傳其偽理乎？異端偽經，虛詞誕言難以勝數，悉<lb edRef="TXCH"/>
+                    非由天主出者，如曰"日輪夜藏須彌山之背"；曰"天下<lb edRef="TXCH"/>
+                    有四大部州，皆浮海中，半見半浸"；曰"阿凾以左右手<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="52B"/>
+                    掩日月，為日月之蝕"。此乃天文地理之事，身毒國原<lb edRef="TXCH"/>
+                    所未達，吾西儒笑之而不屑辯焉。吾今試指釋氏所<lb edRef="TXCH"/>
+                    論人道之事三四處，其失不可勝窮也。曰：四生六道，<lb edRef="TXCH"/>
+                    人魂輪迴，又曰：殺生者靈魂不升天堂，或歸天堂亦<lb edRef="TXCH"/>
+                    復迴生世界，以及地獄充滿之際，復得再生于人間，<lb edRef="TXCH"/>
+                    又曰禽獸聽講佛法亦成道果，此皆拂理之語，第四、<lb edRef="TXCH"/>
+                    五篇已明辯之。又言婚姻俱非正道，則天主何為生<lb edRef="TXCH"/>
+                    男女以傳人類，豈不妄乎？無婚配，拂從何生乎？禁殺<lb edRef="TXCH"/>
+                    生復禁人娶，意惟滅人類而讓天下于畜類耳。又有<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="53A"/>
+                    一經，名曰《大乘玅法蓮花經》，囑其後曰："能誦此經者，<lb edRef="TXCH"/>
+                    得到天堂受福。"今且以理論之，使有罪大惡極之徒，<lb edRef="TXCH"/>
+                    力能寘經誦讀，則得升天受福；若夫修德行道之人，<lb edRef="TXCH"/>
+                    貧窮困苦買經不便，亦將墜于地獄與？又曰呼誦"南<lb edRef="TXCH"/>
+                    無阿彌陀佛"不知幾聲，則免前罪，而死後平吉了無<lb edRef="TXCH"/>
+                    兇禍。如此其易卽可自地獄而登天堂乎？豈不亦無<lb edRef="TXCH"/>
+                    益于德，而反導世俗以為惡乎？小人聞而信之，孰不<lb edRef="TXCH"/>
+                    遂私欲，污本身、侮上帝、亂五倫，以為臨終念佛者若<lb edRef="TXCH"/>
+                    干次，可變為仙佛也。天主刑賞，必無如是之失公失<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="53B"/>
+                    正者。夫"南無阿彌陀"一句有何深玅，卽可迯重殃而<lb edRef="TXCH"/>
+                    著厚賞？不贊德，不祈佑，不悔己前罪，不述宜守規誡，<lb edRef="TXCH"/>
+                    則從何處立功修行哉？世人交友，或有一二語誑，終<lb edRef="TXCH"/>
+                    身不敢盡信其言。今二氏論大事，許多誑謬，人尚畢<lb edRef="TXCH"/>
+                    信其餘，何也？中士曰：佛神諸像何從而起？西士曰：上<lb edRef="TXCH"/>
+                    古之時，人甚愚直，不識天主，或見世人畧有威權，或<lb edRef="TXCH"/>
+                    自戀愛己親，及其死而立之貌像，建之祠宇廟禰，以<lb edRef="TXCH"/>
+                    為思慕之跡。暨其久也，人或進香獻紙以祈福佑。又<lb edRef="TXCH"/>
+                    有最惡之人以邪法制服妖恠，以此異事自稱’佛仙’，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="54A"/>
+                    假布誡術，詐為福祉，以駭惑頑俗，而使之塑像祀奉，<lb edRef="TXCH"/>
+                    此其始耳。中士曰：非正神，何以天主容之，不滅之？且<lb edRef="TXCH"/>
+                    有焚禱像下，或致感應者。西士曰：有應也，亦有不應<lb edRef="TXCH"/>
+                    也，則其應非由彼神邪像也。人心自靈，或有非理，常<lb edRef="TXCH"/>
+                    自驚詫已而規其隱者，不須外威也。又緣人既為非，<lb edRef="TXCH"/>
+                    則天主棄之不佑，故邪神魔鬼潛附彼像之中，得以<lb edRef="TXCH"/>
+                    侵迷誑誘，以增其愚。夫人既奉邪神，至其已死，靈魂<lb edRef="TXCH"/>
+                    墜於地獄，卒為魔鬼所役使，此乃魔鬼之願也。幸得<lb edRef="TXCH"/>
+                    天主不甚許此等邪神發見於人間，見亦少以美像，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="54B"/>
+                    常睹醜惡，或一身百臂，或三頭六臂，或牛頭，或龍尾<lb edRef="TXCH"/>
+                    等恠類，正欲人覺悟，知其非天上容貌，乃諸魔境惡<lb edRef="TXCH"/>
+                    相耳。而人猶迷惑，塑其像而寘之金座，拜之，祀之。悲<lb edRef="TXCH"/>
+                    哉！夫前世貴邦三教各撰其一，近世不知從何出一<lb edRef="TXCH"/>
+                    妖恠，一身三首，名曰’三凾教’。庶氓所宜駭避，高士所<lb edRef="TXCH"/>
+                    宜疾擊之，而乃倒拜師之，豈不愈傷壞人心乎？中士<lb edRef="TXCH"/>
+                    曰：曾聞此語，然儒者不與也，願相與直指其失。西士<lb edRef="TXCH"/>
+                    曰：吾且具四五端實理，以證其誣，一曰：三教者，或各<lb edRef="TXCH"/>
+                    真全，或各偽缺；或一真全，而其二偽缺也。苟各真全，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="55A"/>
+                    則專從其一而足，何以其二為乎？苟各偽缺，則當竟<lb edRef="TXCH"/>
+                    為卻屏，奚以三海蓄之哉？使一人習一偽教，其誤已<lb edRef="TXCH"/>
+                    甚也，況兼三教之偽乎？苟惟一真全，其二偽缺，則惟<lb edRef="TXCH"/>
+                    宜從其一真，其偽者何用乎？一曰：輿論云："善者以全<lb edRef="TXCH"/>
+                    成之，惡者以一耳。"一艷貌婦人，但乏鼻，人皆醜之。<lb edRef="TXCH"/>
+                    吾前明釋二氏之教，俱各有病，若欲包含為一，不免<lb edRef="TXCH"/>
+                    惡謬矣。一曰：正教門，令入者篤信，心一無二。若奉三<lb edRef="TXCH"/>
+                    凾之教，豈不俾心分于三路，信心彌薄乎？一曰：三門<lb edRef="TXCH"/>
+                    由三氏立也。孔子無取于老氏之道，則立儒門。釋氏<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="55B"/>
+                    不足于道、儒之門，故又立佛門于中國。夫三宗自己<lb edRef="TXCH"/>
+                    意不相同，而二千年之後測度彼三心意，強為之同，<lb edRef="TXCH"/>
+                    不亦誣歟？一曰：三教者，一尚"無"，一尚"空"，一尚"誠""有"焉。<lb edRef="TXCH"/>
+                    天下相離之事，莫遠乎虛實有無也。借彼能合有與<lb edRef="TXCH"/>
+                    無、虛與實，則吾能合水與火、方與圓、東與西、天與地<lb edRef="TXCH"/>
+                    也，而天下無事不可也。胡不思每教本戒不同，若一<lb edRef="TXCH"/>
+                    戒殺生，一令用牲祭祀，則凾三者欲守此固違彼，守<lb edRef="TXCH"/>
+                    而違，違而守，詎不亂教之極哉？于以從三教，寧無一<lb edRef="TXCH"/>
+                    教可從。無教可從，必別尋正路，其從三者，自意教為<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="56A"/>
+                    有餘，而實無一得焉。不學上帝正道，而殉人夢中說<lb edRef="TXCH"/>
+                    夢乎？夫真維一耳，道契於其真，故能榮生。不得其一，<lb edRef="TXCH"/>
+                    則根透不深；根不深，則道不定；道不定，則信不篤。不<lb edRef="TXCH"/>
+                    一、不深、不篤，其學烏能成乎？中士曰：噫嘻！寇者殘人，<lb edRef="TXCH"/>
+                    深夜而起；吾儕自救，猶弗醒也。聞先生之語，若霹靂<lb edRef="TXCH"/>
+                    焉，動吾眠，而使之覺。雖然，猶望卒以正道之宗援我。<lb edRef="TXCH"/>
+                    西士曰：心既醒矣，眼既啓矣，仰天而祈上佑，其時也<lb edRef="TXCH"/>
+                    夫。<lb edRef="TXCH"/>
+                </p>   
+                <p xml:lang="zh">  
+                    第八篇總舉大西俗尚，而論其傳道之士所以不<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="56B"/>
+                    娶之意，並釋天主降生西土來由。<lb edRef="TXCH"/>
+                    中士曰：貴邦既習天主之教，其民必醇樸，其風必正<lb edRef="TXCH"/>
+                    雅，願聞所尚。西士曰：民之用功乎聖教，每每不等，故<lb edRef="TXCH"/>
+                    雖云一道，亦不能同其所尚。然論厥公者，吾大西諸<lb edRef="TXCH"/>
+                    國且可謂以學道為本業者也，故雖各國之君，皆務<lb edRef="TXCH"/>
+                    存道正傳。又立有最尊位，曰教化皇，專以繼天主頒<lb edRef="TXCH"/>
+                    教諭世為己職，異端邪說不得作于列國之間。主教<lb edRef="TXCH"/>
+                    者之位，享三國之地，然不婚配，故無有襲嗣，惟擇賢<lb edRef="TXCH"/>
+                    而立，余國之君臣皆臣子服之。蓋既無私家，則惟公<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="57A"/>
+                    是務；既無子，則惟以兆民為子。是故迪人於道，惟此<lb edRef="TXCH"/>
+                    殫力；躬所不能及，則委才全德盛之人，代悔牧于列<lb edRef="TXCH"/>
+                    國焉。列國之人，每七日一罷市，禁止百工，不拘男女<lb edRef="TXCH"/>
+                    尊卑，皆聚于聖殿，謁禮拜祭，以聽談道觧經者終日。<lb edRef="TXCH"/>
+                    又有豪士數會，其朋友出遊于四方，講學勸善。間有<lb edRef="TXCH"/>
+                    敝會，以耶穌名為號，其作不久，然已三四友者，廣聞<lb edRef="TXCH"/>
+                    信於諸國，皆願求之以誘其子弟於真道也。中士曰：<lb edRef="TXCH"/>
+                    擇賢以君國，布士以訓民，尚德之國也，美哉風矣！又<lb edRef="TXCH"/>
+                    聞尊教之在會者無私財，而以各友之財共焉；事無<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="57B"/>
+                    自專，每聽長者之命焉。其少也，成己德、博己學耳；壯<lb edRef="TXCH"/>
+                    者，學成而後及于人。以文會，以誠約，吾中夏講道者<lb edRef="TXCH"/>
+                    或難之。然有終身絕色、終不婚配之戒，未審何意？夫<lb edRef="TXCH"/>
+                    生類自有之情，宜難盡絕，上帝之性，生生為本，祖考<lb edRef="TXCH"/>
+                    百千，其世傳之及我，可卽斷絕乎？西士曰：絕色一事，<lb edRef="TXCH"/>
+                    果人情所難，故天主不布之于誡律，強人盡守，但令<lb edRef="TXCH"/>
+                    人自擇，願者遵之耳。然其事難能，大抵可以騐德，難<lb edRef="TXCH"/>
+                    乎精嚴正行。凡人既引于德，則路定而不易矣。君子<lb edRef="TXCH"/>
+                    修德不憚劬苦，吾方寸之志已立，則世上無難事焉。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="58A"/>
+                    使以難為為非義，則甚難為義者也。生生者上帝，死<lb edRef="TXCH"/>
+                    死者誰乎？二者本一，非由二心。未開天地千萬世以<lb edRef="TXCH"/>
+                    前，上帝無生一生者，生生之性何在乎？人心之卑瞑，<lb edRef="TXCH"/>
+                    莫測尊極之心，矧云咎之哉？且人以上帝之心為心，<lb edRef="TXCH"/>
+                    非但以傳生為義，亦有隙生之理。夫天下人民，總合<lb edRef="TXCH"/>
+                    言之，如一全身焉，其身之心意惟一耳，各肢之所司<lb edRef="TXCH"/>
+                    甚重。令一身悉為首腹，胡以行動？令全身皆為手足，<lb edRef="TXCH"/>
+                    胡以見聞、胡以養生乎？比此而論，不宜責一國之人<lb edRef="TXCH"/>
+                    各同一轍。若云以此生人、又兼司教以主祭祀始為<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="58B"/>
+                    全備。竊謂：婚姻之情固難竟絕，上帝之祀又須專潔，<lb edRef="TXCH"/>
+                    二職渾責一身，其于敬神之禮必有荒蕪。夫人奉事<lb edRef="TXCH"/>
+                    國君，尚有忍尅本身者；奉事上帝，詎不宜克己慾心<lb edRef="TXCH"/>
+                    哉？古之民寡而德盛，而一人可以兼二職。今世之患，<lb edRef="TXCH"/>
+                    非在人少，乃人眾而德衰耳。圖多子而不知教之，斯<lb edRef="TXCH"/>
+                    乃秪增禽獸之群，豈所云廣人類者歟？有志乎救世<lb edRef="TXCH"/>
+                    者，深悲當世之事，制為敝會規則，絕色不娶，緩於生<lb edRef="TXCH"/>
+                    子，急于生道，以拯援斯世墮溺者為意，其意不更公<lb edRef="TXCH"/>
+                    乎？又傳生之責，男與女均。今有貞女受聘未嫁而夫<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="59A"/>
+                    卒者，守義無二，儒者嘉之，天子每旌表之。彼其棄色<lb edRef="TXCH"/>
+                    而忘傳生者，第因守小信于匹夫，在家不嫁，尚且見<lb edRef="TXCH"/>
+                    褒。吾三四友人，因奉事上帝，欲以便于游天下、化萬<lb edRef="TXCH"/>
+                    民，而未暇一婚，乃受貶焉，不亦過乎？中士曰：婚娶者，<lb edRef="TXCH"/>
+                    於勸善宣道何傷乎？西士曰：無相傷也。但單身不娶，<lb edRef="TXCH"/>
+                    愈靖以成己，愈便以及人也。吾為子揭其便處，請詳<lb edRef="TXCH"/>
+                    察之，以明敝會所為有所據否？一曰：娶者，以生子為<lb edRef="TXCH"/>
+                    室家耳。既獲幾子，必須養育，而以財為寘養之資，為<lb edRef="TXCH"/>
+                    人之父不免有貨殖之心。今之父,子眾，則求財者眾<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="59B"/>
+                    也；求之者眾，難以各得其願矣。吾以身纏拘於俗情，<lb edRef="TXCH"/>
+                    不能超脫無溺，必將以苟且為幸也，欲立志責人於義，<lb edRef="TXCH"/>
+                    豈能興起乎？夫修德以輕貨財為首務，我方重愛<lb edRef="TXCH"/>
+                    之，何勸爾輕置之哉？二曰：道德之情至幽至奧，人心<lb edRef="TXCH"/>
+                    未免昏昧，色慾之事又恆鈍人聰明焉。若為色之所<lb edRef="TXCH"/>
+                    役，如以小燈藏之厚皮籠內，不益朦乎？豈能達于道<lb edRef="TXCH"/>
+                    玅矣。絕色者如去心目之塵垢，益增光明，可以窮道<lb edRef="TXCH"/>
+                    德之精微也。三曰：天下大惑，維由財色二欲耳。以仁<lb edRef="TXCH"/>
+                    發憤救世者，必以觧此二惑為急。醫家以相悖者相<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="60A"/>
+                    治，故熱病用寒藥，寒病用暖藥，乃能療之。茲吾惡富<lb edRef="TXCH"/>
+                    之害，而自擇為貧者；畏色之傷，而自擇為獨夫者；處<lb edRef="TXCH"/>
+                    己若此，而後無義之財、邪色之欲始有省焉。故敝會<lb edRef="TXCH"/>
+                    友捐己義得之財物，以勸人勿于非義之富；為脩道<lb edRef="TXCH"/>
+                    以卻正色之樂，以勸人勿迷于非禮之色也。四曰：縱<lb edRef="TXCH"/>
+                    有俊傑才能，使其心散而不專乎一，則所為事必不<lb edRef="TXCH"/>
+                    精。克己之功難于克天下，自古及今，史傳英雄攻天<lb edRef="TXCH"/>
+                    下而得之者多矣，能克己者幾人哉？志欲行道于四<lb edRef="TXCH"/>
+                    海之內，非但欲克一己，兼欲防遏萬民私欲，則其功<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="60B"/>
+                    用之大，曷可計乎？專之猶恐未精，況宜分之他務爾？<lb edRef="TXCH"/>
+                    將要我事少艾而育小兒乎？五曰：善養馬者，遇騏驥<lb edRef="TXCH"/>
+                    驊騮，可一日而弛千里，則謹牧以期戰陣之用；懼有<lb edRef="TXCH"/>
+                    劣嫋于色者，別之于群，不使與牝接焉。天主聖教亦<lb edRef="TXCH"/>
+                    將尋豪傑之人，能周遍四方之疆界者，以明道禦侮、<lb edRef="TXCH"/>
+                    息異論、迸邪說，而永存聖教之正也。豈欲軟其心以<lb edRef="TXCH"/>
+                    色樂，而不欲培養其果毅以克私欲之習乎？故西士<lb edRef="TXCH"/>
+                    之專心續道，甚于專事嗣後者也。譬夫斂收五穀萬<lb edRef="TXCH"/>
+                    石，未有盡播之田中以為穀種者，必將擇其一以貢<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="61A"/>
+                    君，一以藝稼為明年之穡。曷獨人間萬子皆罄費之<lb edRef="TXCH"/>
+                    以產子，而無所全留以待他用者耶？六曰：凡事有人<lb edRef="TXCH"/>
+                    與鳥獸同者，不可甚重焉。勞身以求食，求食以充饑，<lb edRef="TXCH"/>
+                    充饑以蓄氣，蓄氣以敵害，敵害以全己性命也，鹹下<lb edRef="TXCH"/>
+                    情也，人於鳥獸此無殊也。若謹慎以殉義，殉義以檢<lb edRef="TXCH"/>
+                    心，檢心以修身，修身以廣仁，廣仁以答天主恩也，此<lb edRef="TXCH"/>
+                    乃生人切事，可以稱上帝之大旨。從此觀之，則匹配<lb edRef="TXCH"/>
+                    之情于務道之意，孰重乎？天下寧無食，不寧無道；天<lb edRef="TXCH"/>
+                    下寧無人，不寧無教。故因道之急，可緩婚；因婚之急，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="61B"/>
+                    不可緩道也。以遵頒天主聖旨，雖棄致己身以當之<lb edRef="TXCH"/>
+                    可也，況棄婚乎？七曰：敝會之趣無他，乃欲傳正道於<lb edRef="TXCH"/>
+                    四方焉耳。苟此道于西不能行，則遷其友于東，于東<lb edRef="TXCH"/>
+                    猶不行，又將徙之于南北，奚徒盡身于一境乎？醫之<lb edRef="TXCH"/>
+                    仁者，不繫身于一處，必周流以濟各處之病，方為博<lb edRef="TXCH"/>
+                    施。婚配之身纏繞一處，其本責不越于齊家，或迄于<lb edRef="TXCH"/>
+                    一國而已耳。故中國之傳道者，未聞其有出遊異國<lb edRef="TXCH"/>
+                    者，夫婦不能相離也。吾會三四友，聞有可以行道之<lb edRef="TXCH"/>
+                    域，雖在萬里之外，亦卽徃焉，無有托家寄妻子之<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="62A"/>
+                    慮，則以天主為父母，以世人為兄弟，以天下為己家<lb edRef="TXCH"/>
+                    焉，其所涵胸中之志如海天然，豈一匹夫之諒乎？八<lb edRef="TXCH"/>
+                    曰：凡此與彼彌似，則其性彌近。天神了無知色者，絕<lb edRef="TXCH"/>
+                    色者其情邇乎天神矣：夫身在地下，而比居上天者；<lb edRef="TXCH"/>
+                    以有形者而效無形者，此不可謂鄙人庸學也。似此<lb edRef="TXCH"/>
+                    清淨之士有所祈禱于天主，或天之旱，或妖鬼之恠<lb edRef="TXCH"/>
+                    也，或遇水火灾異之求觧也，天主大都鑒而聽之，不<lb edRef="TXCH"/>
+                    然上尊何能寵之哉？然吾此數條理，特具以觧敝會不<lb edRef="TXCH"/>
+                    婚之意，非以非婚姻者也。蓋順理娶也，非犯天主誡<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="62B"/>
+                    也。又非謂不娶者皆邇神人也。設令絕婚屏色，而不<lb edRef="TXCH"/>
+                    惓惓于秉彝之德，豈不徒然乎？乃中國有辭正色而<lb edRef="TXCH"/>
+                    就狎斜者，去女色而取頑童者，此輩之穢污，西鄉君<lb edRef="TXCH"/>
+                    子弗言，恐浼其口。雖禽獸之匯亦惟知陰陽交感，無<lb edRef="TXCH"/>
+                    有反悖天性如此者。人弗赧焉，則其犯罪若何？吾敝<lb edRef="TXCH"/>
+                    同會者收全己種，不之藝播于田畋，而子猶疑其可<lb edRef="TXCH"/>
+                    否，況弃之溝壑者哉！中士曰；依理之語以服人心，強<lb edRef="TXCH"/>
+                    于利刃也。但中國有傳云："不孝有三，無後為大者。"如<lb edRef="TXCH"/>
+                    何？西士曰：有觧之者云："彼一時，此一時，古者民未眾，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="63A"/>
+                    當充擴之，今人已眾，宜姑停焉。"予曰此非聖人之傳<lb edRef="TXCH"/>
+                    語，乃孟氏也，或承誤傳，或以釋舜不告而娶之義，而<lb edRef="TXCH"/>
+                    他有托焉。《禮記》一書多非古論議，後人集禮，便雜記<lb edRef="TXCH"/>
+                    之于經典。貴邦以孔子為大聖，《學》、《庸》、《論語》孔子論孝<lb edRef="TXCH"/>
+                    之語極詳，何獨其大不孝之戒，群弟子及其孫不傳，<lb edRef="TXCH"/>
+                    而至孟氏始著乎？孔子以伯夷叔齊為古之賢人，以<lb edRef="TXCH"/>
+                    比乾為殷三仁之一，既稱三子曰仁、曰賢，必信其德<lb edRef="TXCH"/>
+                    皆全而無缺矣。然三人鹹無後也，則孟氏以為不孝，<lb edRef="TXCH"/>
+                    孔子以為仁，且不相戾乎？是故吾謂以無後為不孝，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="63B"/>
+                    斷非中國先進之旨。使無後果為不孝，則為人子者，<lb edRef="TXCH"/>
+                    宜旦夕專務生子以續其後，不可一日有間，豈不誘<lb edRef="TXCH"/>
+                    人被色累乎？如此則舜猶未為至孝耳。蓋男子二十<lb edRef="TXCH"/>
+                    以上可以生子，舜也三十而娶，則二十逮三十匪孝<lb edRef="TXCH"/>
+                    乎？古人三旬已前不婚，責其一旬之際皆匪孝乎？譬<lb edRef="TXCH"/>
+                    若有匹夫焉，自審無後非孝，有後乃孝，則娶數妾，老<lb edRef="TXCH"/>
+                    于其鄉生子至多，初無他善可稱，可為孝乎？學道之<lb edRef="TXCH"/>
+                    士，平生遠游異鄉，輔君匡國，教化兆民，為忠信而不<lb edRef="TXCH"/>
+                    顧產子，此隨前論乃大不孝也；然于國家兆民有大<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="64A"/>
+                    功焉，則輿論稱為大賢。孝否在內不在外，由我豈由<lb edRef="TXCH"/>
+                    他乎？得子不得子也，天主有定命矣，有求子者而不<lb edRef="TXCH"/>
+                    得，烏有求孝而不得孝者乎？孟氏嘗曰："求則得之，舍<lb edRef="TXCH"/>
+                    則失之，是求有益于得也，求在我也；求之有道，得之<lb edRef="TXCH"/>
+                    有命，是求無益于得也，求在外也。"以是得嗣無益於<lb edRef="TXCH"/>
+                    得，況為峻德之效乎？大西聖人言不孝之極有三也：<lb edRef="TXCH"/>
+                    陷親於罪惡，其上：弒親之身，其次；脫親財物，又其次<lb edRef="TXCH"/>
+                    也。天下萬國通以三者為不孝之極。至中國而後，聞<lb edRef="TXCH"/>
+                    無嗣不孝之罪，于三者猶加重焉。吾今為子定孝之<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="64B"/>
+                    說，欲定孝之說，先定父子之說。凡人在宇內有三父：<lb edRef="TXCH"/>
+                    一謂天主，二謂國君，三謂家君也；逆三父之旨者為<lb edRef="TXCH"/>
+                    不孝子矣。天下有道，三父之旨無相悖；蓋下父者，命<lb edRef="TXCH"/>
+                    己子奉事上父者也，而為子者順乎，一卽兼孝三焉。<lb edRef="TXCH"/>
+                    天下無道，三父之令相反，則下父不順其上父，而私<lb edRef="TXCH"/>
+                    子以奉己，弗顧其上，其為之子者，聽其上命，雖犯其<lb edRef="TXCH"/>
+                    下者，不害其為孝也；若從下者逆其上者，固大為不<lb edRef="TXCH"/>
+                    孝者也。國主于我相為君臣，家君於我相為父子，若<lb edRef="TXCH"/>
+                    使比乎天主之公父乎，世人雖君臣父子，平為兄弟<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="65A"/>
+                    耳焉，此倫不可不明矣。夫萬國通大西之境界，皆稱<lb edRef="TXCH"/>
+                    為出聖人之地，蓋無世不有聖人焉。吾察百世以下，<lb edRef="TXCH"/>
+                    敝土聖人之尊者，鹹必終身不娶。聖人為世之表，豈<lb edRef="TXCH"/>
+                    天主立之為表，而處己于不義之為哉？彼有不娶而<lb edRef="TXCH"/>
+                    為積財貨，或為糊口，或為偷安懈惰，其卑賤之流，何<lb edRef="TXCH"/>
+                    足論者？若吾三四友，一心慕道以事天主，救世歸元，<lb edRef="TXCH"/>
+                    且絕諸色之類，使其專任鄙見，無理可揭，誠為不可。<lb edRef="TXCH"/>
+                    然而群聖以其身先之，萬國賢士美之，有實理合之，<lb edRef="TXCH"/>
+                    有天主經典竒之，亦可姑隨其志否耶？以繼後為急<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="65B"/>
+                    者，惟不知事上帝，不安于本命，不信有後世者，以為<lb edRef="TXCH"/>
+                    生世之後已盡滅，散無有存者，真可謂之無後。吾今<lb edRef="TXCH"/>
+                    世奉事上帝，而望萬世以後猶悠久常奉事之，何患<lb edRef="TXCH"/>
+                    無後乎？吾死而神明全在，當益鮮潤；所遺虛軀殼，子<lb edRef="TXCH"/>
+                    葬之亦腐，朋友葬之亦腐，則何擇乎？中士曰：為學道<lb edRef="TXCH"/>
+                    而不婚配，誠合義也。我大禹當亂世治洪水，巡行九<lb edRef="TXCH"/>
+                    州八年於外，三過其門而不入。今也當平世，士有室<lb edRef="TXCH"/>
+                    家何傷焉？西士曰：嗚呼！子以是為平世乎？誤矣。智者<lb edRef="TXCH"/>
+                    以為今時之灾比堯時之灾愈洪也，群世人而盲瞽，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="66A"/>
+                    不之能視焉，則其殘不亦深乎？古之所謂不祥，從外<lb edRef="TXCH"/>
+                    而來，人猶易見而速防，其所傷不踰財貨，或傷膚皮；<lb edRef="TXCH"/>
+                    今之禍自內突發，哲者覺之而難避也，況于恆人？故<lb edRef="TXCH"/>
+                    其害莫甚焉。如風雷妖恠之擊人，不損乎外，而侵其<lb edRef="TXCH"/>
+                    內者也。夫化生天地萬物乃大公之父也，又時主宰<lb edRef="TXCH"/>
+                    安養之，乃無上共君也。世人弗仰弗奉，則無父無君，<lb edRef="TXCH"/>
+                    至無忠、至無孝也。忠孝蔑有，尚存何德乎？夫以金木<lb edRef="TXCH"/>
+                    土泥鑄塑不知何人偽像，而倡愚氓徃拜禱之，曰此<lb edRef="TXCH"/>
+                    乃佛祖、此乃三清也。且興淫辭奸說以壅塞之，使之<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="66B"/>
+                    泛濫中心，而不得歸其宗。且以空無為物之原，豈非<lb edRef="TXCH"/>
+                    空無天主者乎？以人類與天主為同一體，非將以上<lb edRef="TXCH"/>
+                    帝之尊，而侔之於卑役者乎？恣其誕妄，以天主無限<lb edRef="TXCH"/>
+                    之<g ref="A01402">感</g>靈，而等之于土石枯木；以其無窮之仁，覆為有<lb edRef="TXCH"/>
+                    玷缺；而寒暑灾異，憾且尤之。侮狎君父一至于此，蓋<lb edRef="TXCH"/>
+                    昭事上帝之學，久已陵夷。不思小吏聊能阿好其民，<lb edRef="TXCH"/>
+                    已為建祠立像，布滿郡縣皆是生祠，佛殿神宮彌山<lb edRef="TXCH"/>
+                    徧市，豈其天主尊神無一微壇，以禮拜敬事之乎？世<lb edRef="TXCH"/>
+                    人也，皆習詐偽。偽為眾師，以揚虛名，供養其口；冒民<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="67A"/>
+                    父母，要譽取資。至于世人大父、宇宙公君，泯其跡而<lb edRef="TXCH"/>
+                    僭其位，殆哉！殆哉！吾意大禹適在今世，非但八年在<lb edRef="TXCH"/>
+                    外，必其絕不有家，終身周巡于萬國，而不忍還矣。爾<lb edRef="TXCH"/>
+                    欲吾三四友，有子之心，有兄弟之情，視此為何如時<lb edRef="TXCH"/>
+                    哉？中士曰：以是為亂，則亂固不勝言矣。時賢講學，急<lb edRef="TXCH"/>
+                    其表而不究其重，故表裡終于俱壞，蓋未聞積惡於<lb edRef="TXCH"/>
+                    內，而不遽發于外者也。間有儒門之人，任其私智，附<lb edRef="TXCH"/>
+                    會二氏以論來世，如丐子就乞余飯，彌紊正學，不如<lb edRef="TXCH"/>
+                    貴邦儒者乃有歸元。此論既明，人人可悟，但肯用心<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="67B"/>
+                    一思眾物之態，必知物有始元，非物可比。聖也、佛也、<lb edRef="TXCH"/>
+                    仙也，均由人生，不可謂無始元者也；不為始元，則不<lb edRef="TXCH"/>
+                    為真主，何能輒立世誡？夫知有歸元，則人道已定，舍<lb edRef="TXCH"/>
+                    事天又何學焉？譬如一身，四肢各欲自存也，然忽有<lb edRef="TXCH"/>
+                    刀槍將擊其首，手足自徃救護，雖見傷殘，終不能已。<lb edRef="TXCH"/>
+                    尊教洞曉天主為眾物元，則凡觀惡行、聞惡語，凡有<lb edRef="TXCH"/>
+                    逆于理、違于教者，若矛刃將刺天主然，亟迫徃護，此<lb edRef="TXCH"/>
+                    亦惟知有天主之在上，而寧知天下有他物可尚乎？<lb edRef="TXCH"/>
+                    故不但不念妻子財資，吾身生命猶將忘之。吾輩俗<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="68A"/>
+                    心錮結，徬佛慕企，輶淺信從，奚云捨生命、棄妻子？有<lb edRef="TXCH"/>
+                    因上帝道德之故，邇移半步，遙費一芥，且各惜之矣。<lb edRef="TXCH"/>
+                    嗟哉！然吾頻領大教，稱天主無所不通，無所不能，其<lb edRef="TXCH"/>
+                    既為世人慈父，烏忍我儕久居闇晦，不認本原大父，<lb edRef="TXCH"/>
+                    貿貿此道途？曷不自降世界親引群迷，俾萬國之子<lb edRef="TXCH"/>
+                    者明覩真父，了無二尚，豈不快哉？西士曰：望子此問<lb edRef="TXCH"/>
+                    久矣。苟中華學道者常詢此理，必已得之矣。今吾欲<lb edRef="TXCH"/>
+                    著世界治亂之由者，請子服膺焉。天主始制創天地，<lb edRef="TXCH"/>
+                    化生人物，汝想當初乃卽如是亂苦者歟？殊不然也。<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="68B"/>
+                    天主之才最靈，其心至仁，亭育人群以迨天地萬物，<lb edRef="TXCH"/>
+                    豈忍置之於不治不祥者乎哉？開闢初生，人無病夭，<lb edRef="TXCH"/>
+                    常是陽和，常甚快樂，令鳥獸萬匯順聽其命，毋敢侵<lb edRef="TXCH"/>
+                    害。惟令人循奉上帝，如是而已。夫亂、夫灾，皆由人以<lb edRef="TXCH"/>
+                    背理犯天主命，人既反背天主，萬物亦反背于人，以<lb edRef="TXCH"/>
+                    此自為自致，萬禍生焉。世人之祖已敗人類性根，則<lb edRef="TXCH"/>
+                    為其子孫者沿其遺累，不得承性之全，生而帶疵；又<lb edRef="TXCH"/>
+                    多相率而習醜行，則有疑其性本不善，非關天主所<lb edRef="TXCH"/>
+                    出，亦不足為異也。人所已習可謂第二性，故其所為<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="69A"/>
+                    難分由性由習，雖然性體自善不能因惡而滅，所以<lb edRef="TXCH"/>
+                    凡有發奮遷善，轉念可成，天主亦必佑之。但民善性<lb edRef="TXCH"/>
+                    既減，又習乎醜，所以易溺于惡，難建于善耳。天主以<lb edRef="TXCH"/>
+                    父慈恤之，自古以來代使聖神繼起，為之立極，逮夫<lb edRef="TXCH"/>
+                    淳樸漸漓，聖賢化去，從欲者日眾，循理者日稀。於是<lb edRef="TXCH"/>
+                    大發慈悲，親來救世，普覺群品。于一千六百有三年<lb edRef="TXCH"/>
+                    前，歲次庚申，當漢朝哀帝元壽二年冬至後三日，擇<lb edRef="TXCH"/>
+                    貞女為母，無所交感，托胎降生，名號為耶穌—耶穌卽<lb edRef="TXCH"/>
+                    謂救世也。躬自立訓，弘化于西土三十三年復昇歸<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="69B"/>
+                    天。此天主實蹟云。中士曰：雖然，抑何理以徵之？當時<lb edRef="TXCH"/>
+                    之人何以騐耶穌實為天主，非特人類也？若自言耳，<lb edRef="TXCH"/>
+                    恐未足憑。西士曰：大西法稱人以聖，較中國尤嚴焉，<lb edRef="TXCH"/>
+                    況稱天主耶？夫以百里之地，君之能朝諸侯得天下，<lb edRef="TXCH"/>
+                    雖不行一不義、不殺一不辜以得天下，吾西國未謂<lb edRef="TXCH"/>
+                    之聖。亦有超世之君，卻千乘以修道，屏榮約處，僅稱<lb edRef="TXCH"/>
+                    謂廉耳矣。其所謂聖者，乃其勤崇天主，卑謙自牧，然<lb edRef="TXCH"/>
+                    而其所言所為過人，皆人力所必不能及者也。中士<lb edRef="TXCH"/>
+                    曰：何謂過人？西士曰：誨人以人事，或已徃者，或今有<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="70A"/>
+                    者，非但聖而後能之，有志要名者，皆自強而為焉。若<lb edRef="TXCH"/>
+                    以上帝及未來之事訓民傳道，豈人力也歟？惟天主<lb edRef="TXCH"/>
+                    也。以藥治病，服之卽療，學醫者能之；以賞罰之公，治<lb edRef="TXCH"/>
+                    世而世治，儒者可致；茲俱以人力得之，不宜以之騐<lb edRef="TXCH"/>
+                    聖也。若有神功絕德，造化同用，不用藥法，醫不可醫<lb edRef="TXCH"/>
+                    之病，復生既死之民，如此之類人力不及，必自天主<lb edRef="TXCH"/>
+                    而來。敝國所稱聖人者，率皆若此。倘有自伐其聖，或<lb edRef="TXCH"/>
+                    朋輩代為誇伐，或不畏天主，用邪法鬼工為異恠，以<lb edRef="TXCH"/>
+                    惑愚俗，好自逞而悖天主之功德，此為至惡，大西國<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="70B"/>
+                    妨之如水火，何但弗以稱聖乎？天主在世之時，現跡<lb edRef="TXCH"/>
+                    愈多，其所為過于聖人又遠，聖人所為竒事，皆假天<lb edRef="TXCH"/>
+                    主之力，天主則何有所假哉？西土上古多有聖人，于<lb edRef="TXCH"/>
+                    幾千載前，預先詳誌于經典，載厥天主降生之義，而<lb edRef="TXCH"/>
+                    指其定候，迨及其時，世人爭其望之而果遇焉。騐其<lb edRef="TXCH"/>
+                    所為，與古聖所記如合符節：其巡遊昭諭于民，聾者<lb edRef="TXCH"/>
+                    命聽卽聽，瞽者命視卽視，喑者命言卽言，辟躄者命行<lb edRef="TXCH"/>
+                    卽行，死者命生卽生，天地鬼神悉畏敬之，莫不聽命<lb edRef="TXCH"/>
+                    也。既符古聖所志，既又增益前經，以傳大教于世，傳<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="71A"/>
+                    道之功已畢，自言期候，白日歸天。時有四聖，錄其在<lb edRef="TXCH"/>
+                    世行實及其教語，而貽之於列國，則四方萬民群從<lb edRef="TXCH"/>
+                    之，而世守之。自此大西諸邦教化大行焉。考之中國<lb edRef="TXCH"/>
+                    之史，當時漢明帝嘗聞其事，遣使西徃求經，使者半<lb edRef="TXCH"/>
+                    塗誤值身毒之國，取其佛經傳流中華。迄今貴邦為<lb edRef="TXCH"/>
+                    所誑誘，不得聞其正道，大為學術之禍，豈不慘哉？中<lb edRef="TXCH"/>
+                    士曰：稽其時則合，稽其人則通，稽其事則又無疑也。<lb edRef="TXCH"/>
+                    某願退舍沐浴而來領天主真經，拜為師，入聖教之<lb edRef="TXCH"/>
+                    門。蓋已明知此門之外，今世不得正道，後世不得天<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="71B"/>
+                    福也。不知尊師許否？西士曰：秪因欲廣此經，吾從二<lb edRef="TXCH"/>
+                    三英友，棄家屏鄉，艱勤周幾萬里，而僑寓異土無悔<lb edRef="TXCH"/>
+                    也。誠心悅受乃吾大幸矣。然沐浴止去身垢，天主所<lb edRef="TXCH"/>
+                    惡乃心咎耳。故聖教有造門之聖水，凡欲從此道，先<lb edRef="TXCH"/>
+                    深悔前時之罪過，誠心欲遷于善，而領是聖水，卽天<lb edRef="TXCH"/>
+                    主慕愛之，而盡免舊惡，如孩之初生者焉？吾輩之意，<lb edRef="TXCH"/>
+                    非為人師，惟恤世之錯，迴元之路，而為之一引于天<lb edRef="TXCH"/>
+                    主聖教，則充之皆為同父之弟兄，豈敢苟圖稱名辱<lb edRef="TXCH"/>
+                    師之禮乎哉？天主經文字異中國，雖譯未盡，而其要<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="72A"/>
+                    已易正字。但吾前所談論教端，僉此道之肯綮，願學<lb edRef="TXCH"/>
+                    之者，退而玩味于前數篇事理。了已無疑，則承經領<lb edRef="TXCH"/>
+                    聖水入教，何難之有？中士日：吾身出自天主，而久昧<lb edRef="TXCH"/>
+                    天主之道。幸先生不辭八萬里風波，遠傳聖教，彪炳<lb edRef="TXCH"/>
+                    異同，使愚聆之豁然深悟昔日之非，獲惠良多；且使<lb edRef="TXCH"/>
+                    吾大明之世，得承大父聖旨而遵守之也。吾靜思之<lb edRef="TXCH"/>
+                    不勝大快，且不勝深悲焉。吾當退于私居溫繹所授，<lb edRef="TXCH"/>
+                    紀而錄之以志不忘，期以盡聞歸元直道。所願天主<lb edRef="TXCH"/>
+                    佐佑先生仁指，顯揚天主之教，使我中國家傳人誦，<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="72B"/>
+                    皆為修善無惡之民，功德廣大，又安有量歟？<lb edRef="TXCH"/>
+                    <pb edRef="TXCH" n="73A"/>
+                </p>
+            </div>
+</div>           
+        </body>
+        <back>
+        </back>
+    </text>
+</TEI>
