@@ -68,9 +68,19 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 
 	ObjectPropertyAssertion(:birthPlace :徐準 :遵義)
 
+	ClassAssertion(:Person :柳開)
+
 	ClassAssertion(:Person :蘇舜元)
 	DataPropertyAssertion(:birthYear :蘇舜元 "1006"^^xsd:gYear)
 	DataPropertyAssertion(:deathYear :蘇舜元 "1054"^^xsd:gYear)
+
+	ClassAssertion(:Person :歐陽修)
+
+	ClassAssertion(:Person :曾覿)
+	DataPropertyAssertion(:birthYear :曾覿 "1109"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :曾覿 "1180"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :曾覿 :純甫)
+	ObjectPropertyAssertion(:shihao :曾覿 :海野老農)
 
 	ClassAssertion(:City :洛陽)
 
