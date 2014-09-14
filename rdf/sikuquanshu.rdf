@@ -102,6 +102,12 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#beginYear -->
+
+    <owl:DatatypeProperty rdf:about="http://example.org/owl/sikuquanshu#beginYear"/>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu#birthYear -->
 
     <owl:DatatypeProperty rdf:about="http://example.org/owl/sikuquanshu#birthYear"/>
@@ -114,9 +120,21 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#endYear -->
+
+    <owl:DatatypeProperty rdf:about="http://example.org/owl/sikuquanshu#endYear"/>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu#jinshi -->
 
     <owl:DatatypeProperty rdf:about="http://example.org/owl/sikuquanshu#jinshi"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#value -->
+
+    <owl:DatatypeProperty rdf:about="http://example.org/owl/sikuquanshu#value"/>
     
 
 
@@ -142,6 +160,12 @@
     <!-- http://example.org/owl/sikuquanshu#Emperor -->
 
     <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Emperor"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#Nianhao -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Nianhao"/>
     
 
 
@@ -212,9 +236,194 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#丁丑 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#丁丑">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">14</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#丁亥 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#丁亥">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">24</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#丁卯 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#丁卯">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">4</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#丁巳 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#丁巳">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">54</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#丁未 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#丁未">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">44</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#丁酉 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#丁酉">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">34</value>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu#世昌 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#世昌"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#丙午 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#丙午">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">43</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#丙子 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#丙子">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">13</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#丙寅 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#丙寅">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">3</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#丙戌 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#丙戌">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">23</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#丙申 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#丙申">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">33</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#丙辰 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#丙辰">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">53</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#乙丑 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#乙丑">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">2</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#乙亥 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#乙亥">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">12</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#乙卯 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#乙卯">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">52</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#乙巳 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#乙巳">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">42</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#乙未 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#乙未">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">32</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#乙酉 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#乙酉">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">22</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#乾祐 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#乾祐">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#Nianhao"/>
+        <beginYear rdf:datatype="&xsd;gYear">948</beginYear>
+        <endYear rdf:datatype="&xsd;gYear">950</endYear>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#余靖 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#余靖">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#Person"/>
+        <birthYear rdf:datatype="&xsd;gYear">1000</birthYear>
+        <deathYear rdf:datatype="&xsd;gYear">1064</deathYear>
+        <zi rdf:resource="http://example.org/owl/sikuquanshu#安道"/>
+        <hao rdf:resource="http://example.org/owl/sikuquanshu#武溪"/>
+        <birthPlace rdf:resource="http://example.org/owl/sikuquanshu#韶州"/>
+    </owl:NamedIndividual>
     
 
 
@@ -236,6 +445,60 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#壬午 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#壬午">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">19</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#壬子 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#壬子">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">49</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#壬寅 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#壬寅">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">39</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#壬戌 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#壬戌">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">59</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#壬申 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#壬申">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">9</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#壬辰 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#壬辰">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">29</value>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu#子桓 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#子桓"/>
@@ -251,6 +514,12 @@
     <!-- http://example.org/owl/sikuquanshu#孟德 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#孟德"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#安道 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#安道"/>
     
 
 
@@ -284,9 +553,75 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#尹洙 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#尹洙">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#Person"/>
+        <birthYear rdf:datatype="&xsd;gYear">1001</birthYear>
+        <deathYear rdf:datatype="&xsd;gYear">1047</deathYear>
+        <zi rdf:resource="http://example.org/owl/sikuquanshu#師魯"/>
+        <birthPlace rdf:resource="http://example.org/owl/sikuquanshu#洛陽"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu#山陰 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#山陰"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#己丑 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#己丑">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">26</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#己亥 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#己亥">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">36</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#己卯 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#己卯">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">16</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#己巳 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#己巳">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">6</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#己未 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#己未">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">56</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#己酉 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#己酉">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">46</value>
+    </owl:NamedIndividual>
     
 
 
@@ -296,10 +631,62 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#師魯 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#師魯"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#庚午 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#庚午">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">7</value>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu#庚子 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#庚子">
         <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">37</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#庚寅 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#庚寅">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">27</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#庚戌 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#庚戌">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">47</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#庚申 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#庚申">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">57</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#庚辰 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#庚辰">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">17</value>
     </owl:NamedIndividual>
     
 
@@ -343,6 +730,60 @@
     <!-- http://example.org/owl/sikuquanshu#慕萊 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#慕萊"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#戊午 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#戊午">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">55</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#戊子 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#戊子">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">25</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#戊寅 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#戊寅">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">15</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#戊戌 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#戊戌">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">35</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#戊申 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#戊申">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">45</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#戊辰 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#戊辰">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">5</value>
+    </owl:NamedIndividual>
     
 
 
@@ -493,6 +934,12 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#武溪 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#武溪"/>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu#武王 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#武王"/>
@@ -522,6 +969,114 @@
     <!-- http://example.org/owl/sikuquanshu#海野老農 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#海野老農"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#甲午 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#甲午">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">31</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#甲子 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#甲子">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">1</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#甲寅 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#甲寅">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">51</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#甲戌 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#甲戌">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">11</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#甲申 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#甲申">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">21</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#甲辰 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#甲辰">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">41</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#癸丑 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#癸丑">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">50</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#癸亥 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#癸亥">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">60</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#癸卯 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#癸卯">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">40</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#癸巳 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#癸巳">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">30</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#癸未 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#癸未">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">20</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#癸酉 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#癸酉">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">10</value>
+    </owl:NamedIndividual>
     
 
 
@@ -606,6 +1161,60 @@
     
 
 
+    <!-- http://example.org/owl/sikuquanshu#辛丑 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#辛丑">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">38</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#辛亥 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#辛亥">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">48</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#辛卯 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#辛卯">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">28</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#辛巳 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#辛巳">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">18</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#辛未 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#辛未">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">8</value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#辛酉 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#辛酉">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+        <value rdf:datatype="&xsd;integer">58</value>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://example.org/owl/sikuquanshu#退之 -->
 
     <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#退之"/>
@@ -645,6 +1254,12 @@
         <birthPlace rdf:resource="http://example.org/owl/sikuquanshu#安陽"/>
         <zi rdf:resource="http://example.org/owl/sikuquanshu#稚圭"/>
     </owl:NamedIndividual>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#韶州 -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#韶州"/>
     
 
 
