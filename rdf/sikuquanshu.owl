@@ -151,7 +151,12 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:City :洛陽)
 
 	ClassAssertion(:Xian :廬陵)
+	ClassAssertion(:Xian :內黃)
 	ClassAssertion(:Zhou :饒州)
+	ClassAssertion(:Zhou :潁州)
+	ClassAssertion(:Zhou :揚州)
+	ClassAssertion(:Zhou :滁州)
+	ClassAssertion(:Zhou :麟州)
 
 	ClassAssertion(:SexagenaryCycle :甲子)
 	ClassAssertion(:SexagenaryCycle :乙丑)
@@ -219,8 +224,6 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:SexagenaryCycle :壬戌)
 	ClassAssertion(:SexagenaryCycle :癸亥)
 
-
-		
 	DataPropertyAssertion(:value :甲子 "1"^^xsd:integer)
 	DataPropertyAssertion(:value :乙丑 "2"^^xsd:integer)
 	DataPropertyAssertion(:value :丙寅 "3"^^xsd:integer)
@@ -292,5 +295,14 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	DataPropertyAssertion(:beginYear :乾祐 "948"^^xsd:gYear)
 	DataPropertyAssertion(:endYear :乾祐 "950"^^xsd:gYear)
 
+	ClassAssertion(:Nianhao :顯德)
+	DataPropertyAssertion(:beginYear :顯德 "954"^^xsd:gYear)
+	DataPropertyAssertion(:endYear :顯德 "960"^^xsd:gYear)
+
+	ClassAssertion(:Nianhao :天成)
+	DataPropertyAssertion(:beginYear :天成 "926"^^xsd:gYear)
+	DataPropertyAssertion(:endYear :天成 "930"^^xsd:gYear)
+
 	ClassAssertion(:OfficialTitle :諫議大夫)
+	ClassAssertion(:OfficialTitle :節度使)
 )
