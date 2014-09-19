@@ -149,7 +149,11 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ObjectPropertyAssertion(:zi :韓琦 :稚圭)
 	ObjectPropertyAssertion(:birthPlace :韓琦 :安陽)
 
-	ClassAssertion(:Person :穆修輩)
+	ClassAssertion(:Person :穆修)
+	DataPropertyAssertion(:birthYear :穆修 "979"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :穆修 "1032"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :穆修 :伯長)
+	ObjectPropertyAssertion(:birthPlace :穆修 :鄆州)
 
 	ClassAssertion(:Person :蘇轍)
 	DataPropertyAssertion(:birthYear :蘇轍 "1039"^^xsd:gYear)
