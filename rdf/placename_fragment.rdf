@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://example.org/owl/sikuquanshu#"
+     xml:base="http://example.org/owl/sikuquanshu"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace">
+    <owl:Ontology rdf:about="http://example.org/owl/sikuquanshu#"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#gYear -->
+
+    <rdfs:Datatype rdf:about="&xsd;gYear"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#City -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#City">
+        <rdfs:subClassOf rdf:resource="http://example.org/owl/sikuquanshu#Settlement"/>
+    </owl:Class>
+    
+
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Place">
+        <rdfs:subClassOf rdf:resource="&owl;Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#PopulatedPlace -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#PopulatedPlace">
+        <rdfs:subClassOf rdf:resource="http://example.org/owl/sikuquanshu#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#Settlement -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Settlement">
+        <rdfs:subClassOf rdf:resource="http://example.org/owl/sikuquanshu#PopulatedPlace"/>
+    </owl:Class>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#Xian -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Xian">
+        <rdfs:subClassOf rdf:resource="http://example.org/owl/sikuquanshu#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#Zhou -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Zhou">
+        <rdfs:subClassOf rdf:resource="http://example.org/owl/sikuquanshu#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#{}">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#Place"/>
+    </owl:NamedIndividual>
+    
+</rdf:RDF>
