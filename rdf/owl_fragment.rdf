@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://example.org/owl/sikuquanshu#"
+     xml:base="http://example.org/owl/sikuquanshu"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace">
+    <owl:Ontology rdf:about="http://example.org/owl/sikuquanshu#"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#gYear -->
+
+    <rdfs:Datatype rdf:about="&xsd;gYear"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#birthPlace -->
+
+    <owl:ObjectProperty rdf:about="http://example.org/owl/sikuquanshu#birthPlace"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#deathPlace -->
+
+    <owl:ObjectProperty rdf:about="http://example.org/owl/sikuquanshu#deathPlace"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#hao -->
+
+    <owl:ObjectProperty rdf:about="http://example.org/owl/sikuquanshu#hao"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#hasChild -->
+
+    <owl:ObjectProperty rdf:about="http://example.org/owl/sikuquanshu#hasChild"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#hasWife -->
+
+    <owl:ObjectProperty rdf:about="http://example.org/owl/sikuquanshu#hasWife"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#shihao -->
+
+    <owl:ObjectProperty rdf:about="http://example.org/owl/sikuquanshu#shihao"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#zi -->
+
+    <owl:ObjectProperty rdf:about="http://example.org/owl/sikuquanshu#zi"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#beginYear -->
+
+    <owl:DatatypeProperty rdf:about="http://example.org/owl/sikuquanshu#beginYear"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#birthYear -->
+
+    <owl:DatatypeProperty rdf:about="http://example.org/owl/sikuquanshu#birthYear"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#deathYear -->
+
+    <owl:DatatypeProperty rdf:about="http://example.org/owl/sikuquanshu#deathYear"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#endYear -->
+
+    <owl:DatatypeProperty rdf:about="http://example.org/owl/sikuquanshu#endYear"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#jinshi -->
+
+    <owl:DatatypeProperty rdf:about="http://example.org/owl/sikuquanshu#jinshi"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#value -->
+
+    <owl:DatatypeProperty rdf:about="http://example.org/owl/sikuquanshu#value"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#City -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#City">
+        <rdfs:subClassOf rdf:resource="http://example.org/owl/sikuquanshu#Settlement"/>
+    </owl:Class>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#Emperor -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Emperor"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#Nianhao -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Nianhao"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#OfficialTitle -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#OfficialTitle"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#Person -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Person">
+        <rdfs:subClassOf rdf:resource="&owl;Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#Place -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Place">
+        <rdfs:subClassOf rdf:resource="&owl;Thing"/>
+    </owl:Class>
+    
+
+    <!-- http://example.org/owl/sikuquanshu#Term -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Term">
+        <rdfs:subClassOf rdf:resource="&owl;Thing"/>
+    </owl:Class>
+
+    <!-- http://example.org/owl/sikuquanshu#PopulatedPlace -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#PopulatedPlace">
+        <rdfs:subClassOf rdf:resource="http://example.org/owl/sikuquanshu#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#Settlement -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Settlement">
+        <rdfs:subClassOf rdf:resource="http://example.org/owl/sikuquanshu#PopulatedPlace"/>
+    </owl:Class>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#SexagenaryCycle -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#SexagenaryCycle"/>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#Xian -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Xian">
+        <rdfs:subClassOf rdf:resource="http://example.org/owl/sikuquanshu#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://example.org/owl/sikuquanshu#Zhou -->
+
+    <owl:Class rdf:about="http://example.org/owl/sikuquanshu#Zhou">
+        <rdfs:subClassOf rdf:resource="http://example.org/owl/sikuquanshu#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#{persname}">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#Person"/>
+    </owl:NamedIndividual>
+    
+
+
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#{placename}">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#Place"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://example.org/owl/sikuquanshu#{term}">
+        <rdf:type rdf:resource="http://example.org/owl/sikuquanshu#Term"/>
+    </owl:NamedIndividual>
+    
+
+
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+
