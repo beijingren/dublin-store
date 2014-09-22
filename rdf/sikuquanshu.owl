@@ -14,6 +14,7 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	Declaration(Class(:SexagenaryCycle))
 	Declaration(Class(:OfficialTitle))
 	Declaration(Class(:Nianhao))
+	Declaration(Class(:Term))
 
 	SubClassOf(:Person owl:Thing)
 	SubClassOf(:Place owl:Thing)
@@ -22,6 +23,7 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	SubClassOf(:City :Settlement)
 	SubClassOf(:Xian :Place)
 	SubClassOf(:Zhou :Place)
+	SubClassOf(:OfficialTitle :Term)
 
 	Declaration(ObjectProperty(:zi))
 	Declaration(ObjectProperty(:hao))
@@ -85,13 +87,33 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ObjectPropertyAssertion(:zi :韓愈 :退之)
 	ObjectPropertyAssertion(:shihao :韓愈 :文)
 
+	ClassAssertion(:Person :張令鐸)
+	DataPropertyAssertion(:birthYear :張令鐸 "911"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :張令鐸 "970"^^xsd:gYear)
+	ObjectPropertyAssertion(:birthPlace :張令鐸 :棣州)
+
+	ClassAssertion(:Person :高懷德)
+	DataPropertyAssertion(:birthYear :高懷德 "926"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :高懷德 "982"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :高懷德 :藏用)
+	ObjectPropertyAssertion(:birthPlace :高懷德 :常山)
+
 	ClassAssertion(:Person :柳開)
+	DataPropertyAssertion(:birthYear :柳開 "948"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :柳開 "1001"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :柳開 :仲塗)
 
 	ClassAssertion(:Person :杜衍)
 	DataPropertyAssertion(:birthYear :杜衍 "978"^^xsd:gYear)
 	DataPropertyAssertion(:deathYear :杜衍 "1057"^^xsd:gYear)
 	ObjectPropertyAssertion(:zi :杜衍 :世昌)
 	ObjectPropertyAssertion(:birthPlace :杜衍 :山陰)
+
+	ClassAssertion(:Person :穆修)
+	DataPropertyAssertion(:birthYear :穆修 "979"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :穆修 "1032"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :穆修 :伯長)
+	ObjectPropertyAssertion(:birthPlace :穆修 :鄆州)
 
 	ClassAssertion(:Person :范仲淹)
 	DataPropertyAssertion(:birthYear :范仲淹 "989"^^xsd:gYear)
@@ -148,12 +170,6 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	DataPropertyAssertion(:deathYear :韓琦 "1075"^^xsd:gYear)
 	ObjectPropertyAssertion(:zi :韓琦 :稚圭)
 	ObjectPropertyAssertion(:birthPlace :韓琦 :安陽)
-
-	ClassAssertion(:Person :穆修)
-	DataPropertyAssertion(:birthYear :穆修 "979"^^xsd:gYear)
-	DataPropertyAssertion(:deathYear :穆修 "1032"^^xsd:gYear)
-	ObjectPropertyAssertion(:zi :穆修 :伯長)
-	ObjectPropertyAssertion(:birthPlace :穆修 :鄆州)
 
 	ClassAssertion(:Person :蘇轍)
 	DataPropertyAssertion(:birthYear :蘇轍 "1039"^^xsd:gYear)
@@ -347,6 +363,20 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	DataPropertyAssertion(:beginYear :泰定 "1324"^^xsd:gYear)
 	DataPropertyAssertion(:endYear :泰定 "1328"^^xsd:gYear)
 
+	ClassAssertion(:Nianhao :治平)
+	DataPropertyAssertion(:beginYear :治平 "1064"^^xsd:gYear)
+	DataPropertyAssertion(:endYear :治平 "1067"^^xsd:gYear)
+
+	ClassAssertion(:Nianhao :乾道)
+	DataPropertyAssertion(:beginYear :治平 "1165"^^xsd:gYear)
+	DataPropertyAssertion(:endYear :治平 "1173"^^xsd:gYear)
+
+
 	ClassAssertion(:OfficialTitle :諫議大夫)
 	ClassAssertion(:OfficialTitle :節度使)
+	ClassAssertion(:OfficialTitle :刺史)
+	ClassAssertion(:OfficialTitle :宰臣)
+	ClassAssertion(:OfficialTitle :虞候)
+	ClassAssertion(:OfficialTitle :宰相)
+	ClassAssertion(:OfficialTitle :太子太師)
 )
