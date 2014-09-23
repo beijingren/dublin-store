@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="zh">宋史</title>
+<title xml:lang="en">History of the Song</title>
+<author>
+<name>
+<choice>
+<sic>托克托</sic>
+</choice>
+</name>
+</author>
+</titleStmt>
+<publicationStmt>
+<p>This document is published under a CC Attribution-Share Alike License</p>
+</publicationStmt>
+<sourceDesc>
+<p>XXX</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="chapter" n="84">
+<div>
+<p>演紀上元<num value="1">甲子</num>歲距<pc>，</pc>紹熙<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>
+<num value="51">甲寅</num>歲積<num value="3830">三千八百三十</num>
+<pc>。</pc>至慶元已未歲積<num value="3835">三千八百三十五</num>開禧上元<num value="1">甲子</num>至開禧<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>
+<num value="4">丁卯</num>
+<pc>，</pc>歲積<num value="7848183">七百八十四萬八千一百八十三</num>
+<pc>，</pc>成天上元<num value="1">甲子</num>距鹹淳<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>
+<num value="8">辛未</num>
+<pc>，</pc>歲積<num value="71758147">七千一百七十五萬八千一百四十七</num>
+<pc>。</pc>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

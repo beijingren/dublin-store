@@ -1,0 +1,6565 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="zh">宋史</title>
+<title xml:lang="en">History of the Song</title>
+<author>
+<name>
+<choice>
+<sic>托克托</sic>
+</choice>
+</name>
+</author>
+</titleStmt>
+<publicationStmt>
+<p>This document is published under a CC Attribution-Share Alike License</p>
+</publicationStmt>
+<sourceDesc>
+<p>XXX</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="chapter" n="203">
+<div>
+<p>◎藝文<num value="2">二</num>
+</p>
+</div>
+<div>
+<p>史類<num value="13">十三</num>
+<pc>：</pc>
+<num value="1">一</num>曰正史類<pc>，</pc>
+<num value="2">二</num>曰編年類<pc>，</pc>
+<num value="3">三</num>曰別史類<pc>，</pc>
+<num value="4">四</num>曰史鈔類<pc>，</pc>
+<num value="5">五</num>曰故事類<pc>，</pc>
+<num value="6">六</num>曰職官類<pc>，</pc>
+<num value="7">七</num>曰傳記類<pc>，</pc>
+<num value="8">八</num>曰儀注類<pc>，</pc>
+<num value="9">九</num>曰刑法類<pc>，</pc>
+<num value="10">十</num>曰目錄類<pc>，</pc>
+<num value="11">十一</num>曰譜牒類<pc>，</pc>
+<num value="12">十二</num>曰地理類<pc>，</pc>
+<num value="13">十三</num>曰霸史類<pc>。</pc>
+</p>
+</div>
+<div>
+<p>司馬遷<pc>《</pc>
+<title>史記</title>
+<pc>》</pc>
+<measure quantity="130" unit="chapters">
+<num value="130">一百三十</num>卷</measure>
+<pc>（</pc>裴駰等集注<pc>）</pc>又<pc>《</pc>
+<title>史記</title>
+<pc>》</pc>
+<measure quantity="130" unit="chapters">
+<num value="130">一百三十</num>卷</measure>
+<pc>（</pc>陳伯宣注<pc>）</pc>班固<pc>《</pc>
+<title>漢書</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+<pc>（</pc>顏師古注<pc>）</pc>範曄<pc>《</pc>
+<title>後漢書</title>
+<pc>》</pc>
+<measure quantity="90" unit="chapters">
+<num value="90">九十</num>卷</measure>
+<pc>（</pc>章懷太子李賢注<pc>）</pc>
+</p>
+</div>
+<div>
+<p>趙抃<pc>《</pc>
+<title>新校前漢書</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+<persName>余靖</persName>
+<pc>《</pc>
+<title>漢書刊誤</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>劉昭<pc>《</pc>
+<title>補注後漢誌</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>陳壽<pc>《</pc>
+<title>
+<date>
+<num value="3">三</num>國</date>誌</title>
+<pc>》</pc>
+<measure quantity="65" unit="chapters">
+<num value="65">六十五</num>卷</measure>
+<pc>（</pc>裴鬆之注<pc>）</pc>
+</p>
+</div>
+<div>
+<p>房玄齡<pc>《</pc>
+<title>晉書</title>
+<pc>》</pc>
+<measure quantity="130" unit="chapters">
+<num value="130">一百三十</num>卷</measure>楊齊宣<pc>《</pc>
+<title>晉書音義</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>沈約<pc>《</pc>
+<title>宋書</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>蕭子顯<pc>《</pc>
+<title>南齊書</title>
+<pc>》</pc>
+<measure quantity="59" unit="chapters">
+<num value="59">五十九</num>卷</measure>
+</p>
+</div>
+<div>
+<p>姚思廉<pc>《</pc>
+<title>梁書</title>
+<pc>》</pc>
+<measure quantity="56" unit="chapters">
+<num value="56">五十六</num>卷</measure>又<pc>《</pc>
+<title>陳書</title>
+<pc>》</pc>
+<measure quantity="36" unit="chapters">
+<num value="36">三十六</num>卷</measure>魏收<pc>《</pc>
+<title>後魏書</title>
+<pc>》</pc>
+<measure quantity="130" unit="chapters">
+<num value="130">一百三十</num>卷</measure>魏澹<pc>《</pc>
+<title>後魏書紀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>本<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+<pc>）</pc>
+</p>
+</div>
+<div>
+<p>張太素<pc>《</pc>
+<title>後魏書天文誌</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>（</pc>本<measure quantity="100" unit="chapters">
+<num value="100">百</num>卷</measure>
+<pc>，</pc>惟存此<pc>）</pc>李<num value="100">百</num>藥<pc>《</pc>
+<title>北齊書</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>令狐德棻<pc>《</pc>
+<title>後周書</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>顏師古<pc>《</pc>
+<title>隋書</title>
+<pc>》</pc>
+<measure quantity="85" unit="chapters">
+<num value="85">八十五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>柳芳<pc>《</pc>
+<title>唐書</title>
+<pc>》</pc>
+<measure quantity="130" unit="chapters">
+<num value="130">一百三十</num>卷</measure>
+<pc>《</pc>
+<title>唐書敘例目</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉煦<pc>《</pc>
+<title>唐書</title>
+<pc>》</pc>
+<measure quantity="200" unit="chapters">
+<num value="200">二百</num>卷</measure>
+<persName>歐陽修</persName>
+<pc>、</pc>宋祁<pc>《</pc>
+<title>新唐書</title>
+<pc>》</pc>
+<measure quantity="255" unit="chapters">
+<num value="255">二百五十五</num>卷</measure>
+<pc>《</pc>
+<title>目錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李繪<pc>《</pc>
+<title>補注唐書</title>
+<pc>》</pc>
+<measure quantity="225" unit="chapters">
+<num value="225">二百二十五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>薛居正<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>史</title>
+<pc>》</pc>
+<measure quantity="150" unit="chapters">
+<num value="150">一百五十</num>卷</measure>
+<persName>歐陽修</persName>
+<pc>《</pc>
+<title>新<date>
+<num value="5">五</num>代</date>史</title>
+<pc>》</pc>
+<measure quantity="74" unit="chapters">
+<num value="74">七十四</num>卷</measure>
+<pc>（</pc>徐無黨注<pc>）</pc>張守節<pc>《</pc>
+<title>史記正義</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>司馬貞<pc>《</pc>
+<title>史記索隱</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張泌<pc>《</pc>
+<title>漢書刊誤</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="3">三</num>劉漢書標注</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>（</pc>劉敞<pc>、</pc>劉攽<pc>、</pc>劉奉世<pc>）</pc>劉攽<pc>《</pc>
+<title>漢書刊誤</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>呂夏卿<pc>《</pc>
+<title>唐書直筆新例</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>吳縝<pc>《</pc>
+<title>新唐書糾繆</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>又<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>史纂誤</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>張昭遠朱梁列傳</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+<pc>《</pc>
+<title>後唐列傳</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>任諒<pc>《</pc>
+<title>史論</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>韓子中<pc>《</pc>
+<title>新唐史辨惑</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>吳仁傑<pc>《</pc>
+<title>兩漢刊誤補遺</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<persName>富弼</persName>
+<pc>《</pc>
+<title>前漢書綱目</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>劉巨容<pc>《</pc>
+<title>漢書纂誤</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>汪應辰<pc>《</pc>
+<title>唐書列傳辨證</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>西漢刊誤</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>王旦<pc>《</pc>
+<title>國史</title>
+<pc>》</pc>
+<measure quantity="120" unit="chapters">
+<num value="120">一百二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>呂夷簡<pc>《</pc>
+<title>宋<num value="3">三</num>朝國史</title>
+<pc>》</pc>
+<measure quantity="155" unit="chapters">
+<num value="155">一百五十五</num>卷</measure>鄧洵武<pc>《</pc>
+<title>神宗正史</title>
+<pc>》</pc>
+<measure quantity="120" unit="chapters">
+<num value="120">一百二十</num>卷</measure>王珪<pc>《</pc>
+<title>宋兩朝國史</title>
+<pc>》</pc>
+<measure quantity="120" unit="chapters">
+<num value="120">一百二十</num>卷</measure>王孝迪<pc>《</pc>
+<title>哲宗正史</title>
+<pc>》</pc>
+<measure quantity="210" unit="chapters">
+<num value="210">二百一十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李燾<pc>、</pc>洪邁<pc>《</pc>
+<title>宋<num value="4">四</num>朝國史</title>
+<pc>》</pc>
+<measure quantity="350" unit="chapters">
+<num value="350">三百五十</num>卷</measure>
+<pc>《</pc>
+<title>宋名臣錄</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>《</pc>
+<title>宋勳德傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>宋兩朝名臣傳</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>鹹平諸臣錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>熙寧諸臣傳</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>兩朝諸臣傳</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>
+</p>
+</div>
+<div>
+<p>張唐英<pc>《</pc>
+<title>宋名臣傳</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>葛炳奎<pc>《</pc>
+<title>
+<date>國朝</date>名臣敘傳</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>右正史類<num value="57">五十七</num>部<pc>，</pc>
+<measure quantity="4473" unit="chapters">
+<num value="4473">四千四百七十三</num>卷</measure>
+<pc>。</pc>
+<pc>（</pc>葛炳奎<pc>《</pc>
+<title>
+<date>國朝</date>名臣敘傳</title>
+<pc>》</pc>不著錄<num value="1">一</num>部<pc>，</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>）</pc>荀悅<pc>《</pc>
+<title>漢紀</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>袁宏<pc>《</pc>
+<title>後漢紀</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>胡旦<pc>《</pc>
+<title>漢春秋</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+<pc>《</pc>
+<title>問答</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>皇甫謐<pc>《</pc>
+<title>帝王世紀</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>
+<pc>《</pc>
+<title>竹書</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>荀勖<pc>、</pc>和嶠編<pc>）</pc>
+</p>
+</div>
+<div>
+<p>蕭方等<pc>《</pc>
+<title>
+<num value="30">三十</num>國春秋</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>孫盛<pc>《</pc>
+<title>晉陽秋</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>杜延業<pc>《</pc>
+<title>晉春秋略</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>裴子野<pc>《</pc>
+<title>宋略</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>王通元經薛氏傳</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>馬總<pc>《</pc>
+<title>通曆</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>柳芳<pc>《</pc>
+<title>唐曆</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>崔龜從<pc>《</pc>
+<title>續唐曆</title>
+<pc>》</pc>
+<measure quantity="22" unit="chapters">
+<num value="22">二十二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>裴煜之<pc>《</pc>
+<title>唐太宗建元實跡</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>路惟衡<pc>《</pc>
+<title>帝王曆數圖</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>陳嶽<pc>《</pc>
+<title>唐統紀</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>丘悅<pc>《</pc>
+<title>
+<date>
+<num value="3">三</num>國</date>典略</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>封演<pc>《</pc>
+<title>古今年號錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>薛璫<pc>《</pc>
+<title>大唐聖運圖略</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>帝王照錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王起<pc>《</pc>
+<title>
+<num value="5">五</num>位圖</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>苗台符<pc>《</pc>
+<title>古今通要</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>馬永易<pc>《</pc>
+<title>元和錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>大唐中興新書紀年</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>韋昭度<pc>《</pc>
+<title>續皇王寶運錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>程正柔<pc>《</pc>
+<title>大唐補紀</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>淩璠<pc>《</pc>
+<title>唐錄政要</title>
+<pc>》</pc>
+<measure quantity="13" unit="chapters">
+<num value="13">十三</num>卷</measure>
+<pc>《</pc>
+<title>唐天祐<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>日曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>杜光庭<pc>《</pc>
+<title>古今類聚年號圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>唐創業起居注</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>溫大雅撰<pc>）</pc>
+<pc>《</pc>
+<title>唐高祖實錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>（</pc>許敬宗<pc>、</pc>房玄齡等撰<pc>）</pc>
+<pc>《</pc>
+<title>唐太宗實錄</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+<pc>（</pc>許敬宗撰<pc>）</pc>
+<pc>《</pc>
+<title>唐高宗後修實錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>唐武後實錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>唐中宗實錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>唐睿宗實錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>又<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>並劉知幾<pc>、</pc>吳兢撰<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>唐玄宗實錄</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+<pc>（</pc>元載<pc>、</pc>令狐亙撰<pc>）</pc>
+<pc>《</pc>
+<title>唐肅宗實錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>（</pc>元載撰<pc>）</pc>
+<pc>《</pc>
+<title>唐代宗實錄</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+<pc>（</pc>令狐亙撰<pc>）</pc>
+<pc>《</pc>
+<title>唐德宗實錄</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+<pc>（</pc>裴垍等撰<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>唐建中實錄</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+<pc>（</pc>沈既濟撰<pc>）</pc>
+<pc>《</pc>
+<title>唐順宗實錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>
+<persName>韓愈</persName>撰<pc>）</pc>
+<pc>《</pc>
+<title>唐憲宗實錄</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+<pc>《</pc>
+<title>唐穆宗實錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>（</pc>並路隋等撰<pc>）</pc>
+<pc>《</pc>
+<title>唐敬宗實錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>李讓夷等撰<pc>）</pc>
+<pc>《</pc>
+<title>唐文宗實錄</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+<pc>（</pc>魏謩修撰<pc>。</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>唐武宗實錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>唐宣宗實錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>唐懿宗實錄</title>
+<pc>》</pc>
+<measure quantity="25" unit="chapters">
+<num value="25">二十五</num>卷</measure>
+<pc>《</pc>
+<title>唐僖宗實錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>唐昭宗實錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>唐哀帝實錄</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>（</pc>並宋敏求撰<pc>）</pc>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>梁太祖實錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>（</pc>張袞<pc>、</pc>郤象等撰<pc>）</pc>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>唐懿祖紀年錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>唐獻祖紀年錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>唐莊宗實錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>（</pc>並趙鳳<pc>、</pc>張昭遠等撰<pc>）</pc>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>唐明宗實錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>（</pc>姚顗等撰<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>唐湣帝實錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>張昭遠等撰<pc>）</pc>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>唐廢帝實錄</title>
+<pc>》</pc>
+<measure quantity="17" unit="chapters">
+<num value="17">十七</num>卷</measure>
+<pc>（</pc>張昭等同撰<pc>）</pc>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>晉高祖實錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>晉少帝實錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>（</pc>並竇貞固等撰<pc>）</pc>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>漢高祖實錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>蘇逢吉等撰<pc>）</pc>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>漢隱帝實錄</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>周太祖實錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>（</pc>並張昭<pc>、</pc>尹拙<pc>、</pc>劉溫叟等撰<pc>）</pc>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>周世宗實錄</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+<pc>（</pc>宋王溥等撰<pc>）</pc>
+<pc>《</pc>
+<title>
+<date>南唐</date>烈祖實錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>（</pc>高遠撰<pc>）</pc>
+<pc>《</pc>
+<title>
+<date>後蜀</date>高祖實錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<date>後蜀</date>主實錄</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+<pc>（</pc>並李昊撰<pc>）</pc>
+<pc>《</pc>
+<title>宋太祖實錄</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+<pc>（</pc>李沆<pc>、</pc>沈倫修<pc>）</pc>
+<pc>《</pc>
+<title>太宗實錄</title>
+<pc>》</pc>
+<measure quantity="80" unit="chapters">
+<num value="80">八十</num>卷</measure>
+<pc>（</pc>錢若水修<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>真宗實錄</title>
+<pc>》</pc>
+<measure quantity="150" unit="chapters">
+<num value="150">一百五十</num>卷</measure>
+<pc>（</pc>晏殊等同修<pc>）</pc>
+<pc>《</pc>
+<title>仁宗實錄</title>
+<pc>》</pc>
+<measure quantity="200" unit="chapters">
+<num value="200">二百</num>卷</measure>
+<pc>（</pc>
+<persName>韓琦</persName>等修<pc>）</pc>
+<pc>《</pc>
+<title>英宗實錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>（</pc>曾公亮等修<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>神宗實錄朱墨本</title>
+<pc>》</pc>
+<measure quantity="300" unit="chapters">
+<num value="300">三百</num>卷</measure>
+<pc>（</pc>舊錄本用墨書<pc>，</pc>添入者用朱書<pc>，</pc>刪去者用黃抹<pc>）</pc>
+<pc>《</pc>
+<title>神宗實錄考異</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>範衝撰<pc>）</pc>
+<pc>《</pc>
+<title>宋高宗日曆</title>
+<pc>》</pc>
+<measure quantity="1000" unit="chapters">
+<num value="1000">一千</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>孝宗日曆</title>
+<pc>》</pc>
+<measure quantity="2000" unit="chapters">
+<num value="2000">二千</num>卷</measure>
+<pc>《</pc>
+<title>光宗日曆</title>
+<pc>》</pc>
+<measure quantity="300" unit="chapters">
+<num value="300">三百</num>卷</measure>
+<pc>《</pc>
+<title>寧宗日曆</title>
+<pc>》</pc>
+<measure quantity="510" unit="chapters">
+<num value="510">五百一十</num>卷</measure>重修<measure quantity="500" unit="chapters">
+<num value="500">五百</num>卷</measure>
+<pc>《</pc>
+<title>神宗實錄</title>
+<pc>》</pc>
+<measure quantity="200" unit="chapters">
+<num value="200">二百</num>卷</measure>
+<pc>（</pc>趙鼎<pc>、</pc>範衝重修<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>哲宗實錄</title>
+<pc>》</pc>
+<measure quantity="150" unit="chapters">
+<num value="150">一百五十</num>卷</measure>
+<pc>《</pc>
+<title>徽宗實錄</title>
+<pc>》</pc>
+<measure quantity="200" unit="chapters">
+<num value="200">二百</num>卷</measure>李燾重修<pc>《</pc>
+<title>徽宗實錄</title>
+<pc>》</pc>
+<measure quantity="200" unit="chapters">
+<num value="200">二百</num>卷</measure>
+<pc>（</pc>李燾重修<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>欽宗實錄</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+<pc>（</pc>洪邁修<pc>）</pc>
+<pc>《</pc>
+<title>高宗實錄</title>
+<pc>》</pc>
+<measure quantity="500" unit="chapters">
+<num value="500">五百</num>卷</measure>
+<pc>（</pc>傅伯壽撰<pc>）</pc>
+<pc>《</pc>
+<title>孝宗實錄</title>
+<pc>》</pc>
+<measure quantity="500" unit="chapters">
+<num value="500">五百</num>卷</measure>
+<pc>《</pc>
+<title>光宗實錄</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>（</pc>並傅伯壽<pc>、</pc>陸遊等修<pc>）</pc>
+<pc>《</pc>
+<title>寧宗實錄</title>
+<pc>》</pc>
+<num value="499">四百九十九</num>冊<pc>《</pc>
+<title>理宗實錄初稿</title>
+<pc>》</pc>
+<num value="190">一百九十</num>冊<pc>《</pc>
+<title>理宗日曆</title>
+<pc>》</pc>
+<num value="292">二百九十二</num>冊</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>日曆</title>
+<pc>》</pc>
+<num value="180">一百八十</num>冊<pc>《</pc>
+<title>度宗時政記</title>
+<pc>》</pc>
+<num value="78">七十八</num>冊<pc>《</pc>
+<title>德祐事跡日記</title>
+<pc>》</pc>
+<num value="45">四十五</num>冊孫光憲<pc>《</pc>
+<title>續通曆</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>範質<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>通錄</title>
+<pc>》</pc>
+<measure quantity="65" unit="chapters">
+<num value="65">六十五</num>卷</measure>劉蒙叟<pc>《</pc>
+<title>
+<num value="1">甲子</num>編年</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>顯德日曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>周扈蒙<pc>、</pc>董淳<pc>、</pc>賈黃中撰<pc>）</pc>龔穎<pc>《</pc>
+<title>運曆圖</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳彭年<pc>《</pc>
+<title>唐紀</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>宋庠<pc>《</pc>
+<title>紀年通譜</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>鄭向<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>開皇記</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>兩朝實錄大事</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王玉<pc>《</pc>
+<title>文武賢臣治蜀編年誌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>武密<pc>《</pc>
+<title>帝王興衰年代錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>春秋</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="10">十</num>代編年紀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>（</pc>並不知作者<pc>）</pc>章寔<pc>《</pc>
+<title>曆代統紀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>司馬光<pc>《</pc>
+<title>資治通鑒</title>
+<pc>》</pc>
+<measure quantity="354" unit="chapters">
+<num value="354">三百五十四</num>卷</measure>又<pc>《</pc>
+<title>資治通鑒舉要曆</title>
+<pc>》</pc>
+<measure quantity="80" unit="chapters">
+<num value="80">八十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>通鑒前例</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>稽古錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>曆年圖</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>《</pc>
+<title>通鑒節要</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>帝統編年紀事珠璣</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>《</pc>
+<title>曆代累年</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>劉恕<pc>《</pc>
+<title>資治通鑒外紀</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>又<pc>《</pc>
+<title>疑年譜</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>通鑒問疑</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>章衡<pc>《</pc>
+<title>編年通載</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>王岩叟<pc>《</pc>
+<title>係年錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>元祐時政記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>諸葛深<pc>《</pc>
+<title>紹運圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>楊備<pc>《</pc>
+<title>曆代紀元賦</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>胡仔<pc>《</pc>
+<title>孔子編年</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>朱繪<pc>《</pc>
+<title>曆代帝王年運銓要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>司馬康<pc>《</pc>
+<title>通鑒釋文</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>李燾<pc>《</pc>
+<title>續資治通鑒長編</title>
+<pc>》</pc>
+<measure quantity="168" unit="chapters">
+<num value="168">一百六十八</num>卷</measure>又<pc>《</pc>
+<title>
+<num value="4">四</num>朝史稿</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+<pc>《</pc>
+<title>江左方鎮年表</title>
+<pc>》</pc>
+<measure quantity="16" unit="chapters">
+<num value="16">十六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>混天帝王<num value="5">五</num>運圖古今須知</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>宋政錄</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>《</pc>
+<title>宋異錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>宋年表</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>年表</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>史炤<pc>《</pc>
+<title>資治通鑒釋文</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>晁公邁<pc>《</pc>
+<title>曆代記年</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>熊克<pc>《</pc>
+<title>
+<num value="9">九</num>朝通略</title>
+<pc>》</pc>
+<measure quantity="168" unit="chapters">
+<num value="168">一百六十八</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>中興小曆</title>
+<pc>》</pc>
+<measure quantity="41" unit="chapters">
+<num value="41">四十一</num>卷</measure>呂祖謙<pc>《</pc>
+<title>大事記</title>
+<pc>》</pc>
+<measure quantity="27" unit="chapters">
+<num value="27">二十七</num>卷</measure>又<pc>《</pc>
+<title>宋通鑒節</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>呂氏家塾通鑒節要</title>
+<pc>》</pc>
+<measure quantity="24" unit="chapters">
+<num value="24">二十四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>朱熹<pc>《</pc>
+<title>通鑒綱目</title>
+<pc>》</pc>
+<measure quantity="59" unit="chapters">
+<num value="59">五十九</num>卷</measure>又<pc>《</pc>
+<title>提要</title>
+<pc>》</pc>
+<measure quantity="59" unit="chapters">
+<num value="59">五十九</num>卷</measure>
+<pc>《</pc>
+<title>宋聖政編年</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>汪伯彥<pc>《</pc>
+<title>建炎中興日曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>袁樞<pc>《</pc>
+<title>通鑒紀事本末</title>
+<pc>》</pc>
+<measure quantity="42" unit="chapters">
+<num value="42">四十二</num>卷</measure>喻漢卿<pc>《</pc>
+<title>通鑒總考</title>
+<pc>》</pc>
+<measure quantity="112" unit="chapters">
+<num value="112">一百十二</num>卷</measure>吳曾<pc>《</pc>
+<title>南北征伐編年</title>
+<pc>》</pc>
+<measure quantity="23" unit="chapters">
+<num value="23">二十三</num>卷</measure>徐度<pc>《</pc>
+<title>國紀</title>
+<pc>》</pc>
+<measure quantity="65" unit="chapters">
+<num value="65">六十五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>胡宏<pc>《</pc>
+<title>皇王大紀</title>
+<pc>》</pc>
+<measure quantity="80" unit="chapters">
+<num value="80">八十</num>卷</measure>李丙<pc>《</pc>
+<title>
+<num value="44">丁未</num>錄</title>
+<pc>》</pc>
+<measure quantity="200" unit="chapters">
+<num value="200">二百</num>卷</measure>李心傳<pc>《</pc>
+<title>建炎以來係年要錄</title>
+<pc>》</pc>
+<measure quantity="200" unit="chapters">
+<num value="200">二百</num>卷</measure>
+<pc>《</pc>
+<title>國史英華</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>
+</p>
+</div>
+<div>
+<p>何許<pc>《</pc>
+<title>
+<num value="1">甲子</num>紀年圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>曾慥<pc>《</pc>
+<title>通鑒補遺</title>
+<pc>》</pc>
+<num value="100">一百</num>篇李孟傳<pc>《</pc>
+<title>讀史</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>崔敦詩<pc>《</pc>
+<title>通鑒要覽</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<persName>王應麟</persName>
+<pc>《</pc>
+<title>通鑒答問</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>胡安國<pc>《</pc>
+<title>通鑒舉要補遺</title>
+<pc>》</pc>
+<measure quantity="120" unit="chapters">
+<num value="120">一百二十</num>卷</measure>沈樞<pc>《</pc>
+<title>通鑒總類</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>張根<pc>《</pc>
+<title>曆代指掌編</title>
+<pc>》</pc>
+<measure quantity="90" unit="chapters">
+<num value="90">九十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李心傳<pc>《</pc>
+<title>孝宗要略初草</title>
+<pc>》</pc>
+<measure quantity="23" unit="chapters">
+<num value="23">二十三</num>卷</measure>張公明<pc>《</pc>
+<title>大宋綱目</title>
+<pc>》</pc>
+<measure quantity="167" unit="chapters">
+<num value="167">一百六十七</num>卷</measure>洪邁<pc>《</pc>
+<title>節資治通鑒</title>
+<pc>》</pc>
+<measure quantity="150" unit="chapters">
+<num value="150">一百五十</num>卷</measure>又<pc>《</pc>
+<title>太祖太宗本紀</title>
+<pc>》</pc>
+<measure quantity="35" unit="chapters">
+<num value="35">三十五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>
+<num value="4">四</num>朝史紀</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>又<pc>《</pc>
+<title>列傳</title>
+<pc>》</pc>
+<measure quantity="135" unit="chapters">
+<num value="135">一百三十五</num>卷</measure>黃維之<pc>《</pc>
+<title>太祖政要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">一十</num>卷</measure>呂中<pc>《</pc>
+<title>
+<date>國朝</date>治跡要略</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>右編年類<num value="151">一百五十一</num>部<pc>，</pc>
+<measure quantity="10575" unit="chapters">
+<num value="10575">一萬五百七十五</num>卷</measure>
+<pc>。</pc>
+<pc>（</pc>
+<pc>《</pc>
+<title>寧宗實錄</title>
+<pc>》</pc>以下不著錄<num value="6">六</num>部<pc>，</pc>無卷<pc>。</pc>曾慥<pc>《</pc>
+<title>通鑒補遺</title>
+<pc>》</pc>以下不著錄<num value="15">十五</num>部<pc>，</pc>
+<measure quantity="968" unit="chapters">
+<num value="968">九百六十八</num>卷</measure>
+<pc>）</pc>王瓘<pc>《</pc>
+<title>廣軒轅本紀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>汲塚周書</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>郭璞注<pc>《</pc>
+<title>穆天子傳</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>趙曄<pc>《</pc>
+<title>
+<date>吳越</date>春秋</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>皇甫遵注<pc>《</pc>
+<title>
+<date>吳越</date>春秋</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>司馬彪<pc>《</pc>
+<title>
+<measure quantity="9" unit="prefectures">
+<num value="9">九</num>州</measure>春秋</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>趙瞻<pc>《</pc>
+<title>史記牴牾論</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>漢書問答</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>劉珍等<pc>《</pc>
+<title>東觀漢紀</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+</p>
+</div>
+<div>
+<p>孔衍<pc>《</pc>
+<title>春秋後語</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>李延壽<pc>《</pc>
+<title>南史</title>
+<pc>》</pc>
+<measure quantity="80" unit="chapters">
+<num value="80">八十</num>卷</measure>又<pc>《</pc>
+<title>北史</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>元行衝<pc>《</pc>
+<title>後魏國典</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>金陵<num value="6">六</num>朝記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王豹<pc>《</pc>
+<title>金陵樞要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李匡文<pc>《</pc>
+<title>漢後隋前瞬貫圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李康<pc>《</pc>
+<title>唐明皇政錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>袁皓<pc>《</pc>
+<title>興元聖功錄</title>
+<pc>》</pc>
+<pc>《</pc>
+<title>功臣錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>唐僖宗日曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉肅<pc>《</pc>
+<title>唐新語</title>
+<pc>》</pc>
+<measure quantity="13" unit="chapters">
+<num value="13">十三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>唐總記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>渤海填<pc>《</pc>
+<title>唐廣德神異錄</title>
+<pc>》</pc>
+<measure quantity="45" unit="chapters">
+<num value="45">四十五</num>卷</measure>歐陽迥<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>炳<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>唐錄備闕</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>裴潾<pc>《</pc>
+<title>大和新修辨謗略</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>程光榮<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>柔<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>唐補注記</title>
+<pc>》</pc>
+<pc>（</pc>
+<pc>“</pc>注記<pc>”</pc>
+<num value="1">一</num>作<pc>“</pc>紀<pc>”</pc>
+<pc>）</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>曹玄圭<pc>《</pc>
+<title>唐列聖統載圖</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>郭修<pc>《</pc>
+<title>唐年紀錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>南卓<pc>《</pc>
+<title>唐朝綱領圖</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>唐紀年記</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>吳兢<pc>《</pc>
+<title>開元名臣錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>又<pc>《</pc>
+<title>唐太宗勳史</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>唐書備闕記</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>高峻<pc>《</pc>
+<title>小史</title>
+<pc>》</pc>
+<measure quantity="110" unit="chapters">
+<num value="110">一百十</num>卷</measure>許嵩<pc>《</pc>
+<title>建康實錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>張詢古<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>新說</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>劉軻<pc>《</pc>
+<title>帝王曆數歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>唐年曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>裴庭裕<pc>《</pc>
+<title>東觀奏記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>新野史</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>題<pc>“</pc>顯德元年終南山不名子撰<pc>”</pc>
+<pc>）</pc>張傳靖<pc>《</pc>
+<title>唐編記</title>
+<pc>》</pc>
+<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>紀<pc>”</pc>
+<pc>）</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>胡旦<pc>《</pc>
+<title>唐乘</title>
+<pc>》</pc>
+<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>策<pc>”</pc>
+<pc>）</pc>
+<measure quantity="70" unit="chapters">
+<num value="70">七十</num>卷</measure>王沿<pc>《</pc>
+<title>唐誌</title>
+<pc>》</pc>
+<measure quantity="21" unit="chapters">
+<num value="21">二十一</num>卷</measure>孫甫<pc>《</pc>
+<title>唐史記</title>
+<pc>》</pc>
+<measure quantity="75" unit="chapters">
+<num value="75">七十五</num>卷</measure>王皞<pc>《</pc>
+<title>唐餘錄</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李匡文<pc>《</pc>
+<title>兩漢至唐年紀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王禹偁<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>史闕文</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>陶嶽<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>史補</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>詹玠<pc>《</pc>
+<title>唐宋遺史</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>劉直方<pc>《</pc>
+<title>大唐機要</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<persName>蘇轍</persName>
+<pc>《</pc>
+<title>古史</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>孫衝<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>紀</title>
+<pc>》</pc>
+<measure quantity="77" unit="chapters">
+<num value="77">七十七</num>卷</measure>王軫<pc>《</pc>
+<title>
+<num value="5">五</num>朝春秋</title>
+<pc>》</pc>
+<measure quantity="25" unit="chapters">
+<num value="25">二十五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>劉攽<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>春秋</title>
+<pc>》</pc>
+<num value="1">一</num>部<pc>（</pc>卷亡<pc>）</pc>劉恕<pc>《</pc>
+<title>
+<num value="10">十</num>國紀年</title>
+<pc>》</pc>
+<measure quantity="42" unit="chapters">
+<num value="42">四十二</num>卷</measure>常璩<pc>《</pc>
+<title>華陽國誌</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>江南誌</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李清臣<pc>《</pc>
+<title>平南事覽</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>吳書實錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>記楊行密事<pc>）</pc>
+<pc>《</pc>
+<title>真宗聖政紀</title>
+<pc>》</pc>
+<measure quantity="150" unit="chapters">
+<num value="150">一百五十</num>卷</measure>又<pc>《</pc>
+<title>政要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>仁宗觀文覽古圖記</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>丁謂<pc>《</pc>
+<title>大中祥符奉祀記</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+<pc>《</pc>
+<title>目</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>又<pc>《</pc>
+<title>大中祥符迎奉聖像記</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>目</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>李維<pc>《</pc>
+<title>大中祥符降聖記</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+<pc>《</pc>
+<title>目</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王欽若<pc>《</pc>
+<title>天禧大禮記</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+<pc>《</pc>
+<title>目</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>呂夷簡<pc>《</pc>
+<title>
+<num value="3">三</num>朝寶訓</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>李淑<pc>《</pc>
+<title>
+<num value="3">三</num>朝訓覽圖</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>錢惟演<pc>《</pc>
+<title>鹹平聖政錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李昭遘<pc>《</pc>
+<title>永熙政範</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>張商英<pc>《</pc>
+<title>神宗正典</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>林希<pc>《</pc>
+<title>兩朝寶訓</title>
+<pc>》</pc>
+<measure quantity="21" unit="chapters">
+<num value="21">二十一</num>卷</measure>舒亶<pc>《</pc>
+<title>元豐聖訓</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="6">六</num>朝寶訓</title>
+<pc>》</pc>
+<num value="1">一</num>部<pc>（</pc>卷亡<pc>）</pc>鄭居中<pc>《</pc>
+<title>崇寧聖政</title>
+<pc>》</pc>
+<num value="255">二百五十五</num>冊又<pc>《</pc>
+<title>聖政錄</title>
+<pc>》</pc>
+<num value="323">三百二十三</num>冊賈緯<pc>《</pc>
+<title>備史</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>史係</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>楊<num value="9">九</num>齡<pc>《</pc>
+<title>正史雜論</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>河洛春秋</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>曆代善惡春秋</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李筌<pc>《</pc>
+<title>閫外春秋</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>薛韜玉<pc>《</pc>
+<title>帝照</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>沈汾<pc>《</pc>
+<title>元類</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>楊岑<pc>《</pc>
+<title>皇王寶運錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>瞿<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>翟<pc>”</pc>
+<pc>）</pc>驤<pc>《</pc>
+<title>帝王受命編年錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>徐廙<pc>《</pc>
+<title>
+<num value="3">三</num>朝革命錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>錢信<pc>《</pc>
+<title>皇猷錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>曆代鴻名錄</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+</p>
+</div>
+<div>
+<p>韋光美<pc>《</pc>
+<title>嘉號錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>崔倜<pc>《</pc>
+<title>帝王授受圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>牛檢<pc>《</pc>
+<title>帝王事跡相承圖</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>曆代君臣圖</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>龔穎<pc>《</pc>
+<title>年<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>運<pc>”</pc>
+<pc>）</pc>曆圖</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>賈欽文<pc>《</pc>
+<title>古今年代曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張敦素<pc>《</pc>
+<title>通記<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>紀<pc>”</pc>
+<pc>）</pc>建元曆</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>柳璨<pc>《</pc>
+<title>補注正閏位曆</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>杜光庭<pc>《</pc>
+<title>帝王年代州郡長曆</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>王起<pc>《</pc>
+<title>
+<num value="5">五</num>運圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>曹玄圭<pc>《</pc>
+<title>
+<num value="5">五</num>運圖<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>錄<pc>”</pc>
+<pc>）</pc>
+</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>張洽<pc>《</pc>
+<title>
+<num value="5">五</num>運元紀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>古今帝王記</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>衛牧<pc>《</pc>
+<title>帝王真偽記</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+<pc>《</pc>
+<title>紀年誌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>武密<pc>《</pc>
+<title>帝王年代錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>鄭伯邕<pc>《</pc>
+<title>帝王年代圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>帝王年代記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>焦路<pc>《</pc>
+<title>聖朝年代記<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>紀<pc>”</pc>
+<pc>）</pc>
+</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>韋光美<pc>《</pc>
+<title>帝王年號圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>汪奇<pc>《</pc>
+<title>古今帝王年號錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李昉<pc>《</pc>
+<title>曆代年號</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>蓋君平<pc>《</pc>
+<title>重編史雋</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>孫昱<pc>《</pc>
+<title>
+<num value="12">十二</num>國史</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>西京史略</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>史記掇英</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>鄭樵<pc>《</pc>
+<title>通誌</title>
+<pc>》</pc>
+<measure quantity="200" unit="chapters">
+<num value="200">二百</num>卷</measure>
+</p>
+</div>
+<div>
+<p>蕭常<pc>《</pc>
+<title>續後漢書</title>
+<pc>》</pc>
+<measure quantity="42" unit="chapters">
+<num value="42">四十二</num>卷</measure>李杞<pc>《</pc>
+<title>改修<date>
+<num value="3">三</num>國</date>誌</title>
+<pc>》</pc>
+<measure quantity="67" unit="chapters">
+<num value="67">六十七</num>卷</measure>陳傅良<pc>《</pc>
+<title>建隆編</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>
+<num value="1">一</num>名<pc>《</pc>
+<title>開基事要</title>
+<pc>》</pc>
+<pc>）</pc>蔡幼學<pc>《</pc>
+<title>宋編年政要</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>宋實錄列傳舉要</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>洪偃<pc>《</pc>
+<title>
+<num value="5">五</num>朝史述論</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>（</pc>洪邁孫<pc>）</pc>趙甡之<pc>《</pc>
+<title>中興遺史</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>樓昉<pc>《</pc>
+<title>中興小傳</title>
+<pc>》</pc>
+<num value="100">一百</num>篇</p>
+</div>
+<div>
+<p>右別史類<num value="123">一百二十三</num>部<pc>，</pc>
+<measure quantity="2218" unit="chapters">
+<num value="2218">二千二百十八</num>卷</measure>
+<pc>。</pc>
+<pc>（</pc>趙甡之<pc>《</pc>
+<title>中興遺史</title>
+<pc>》</pc>以下不著錄<num value="2">二</num>部<pc>，</pc>
+<measure quantity="120" unit="chapters">
+<num value="120">一百二十</num>卷</measure>
+<pc>、</pc>篇<pc>）</pc>
+<pc>《</pc>
+<title>馬史精略</title>
+<pc>》</pc>
+<measure quantity="56" unit="chapters">
+<num value="56">五十六</num>卷</measure>趙世逢<pc>《</pc>
+<title>兩漢類要</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>周護<pc>《</pc>
+<title>
+<num value="3">三</num>史菁英</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="17">十七</num>史讚</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="3">三</num>代說辭</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>孫玉汝<pc>《</pc>
+<title>南北史練選</title>
+<pc>》</pc>
+<measure quantity="18" unit="chapters">
+<num value="18">十八</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>史略</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>楊侃<pc>《</pc>
+<title>兩漢博聞</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>林鉞<pc>《</pc>
+<title>漢雋</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>宗諫<pc>《</pc>
+<title>
+<date>
+<num value="3">三</num>國</date>采要</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>薛儆<pc>《</pc>
+<title>晉書金穴鈔</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>荀綽<pc>《</pc>
+<title>晉略</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>張陟<pc>《</pc>
+<title>晉略</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>杜延業<pc>《</pc>
+<title>晉春秋略</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>晉史獵精</title>
+<pc>》</pc>
+<measure quantity="130" unit="chapters">
+<num value="130">一百三十</num>卷</measure>胡寅<pc>《</pc>
+<title>讀史管見</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>又<pc>《</pc>
+<title>
+<date>
+<num value="3">三</num>國</date>
+<num value="6">六</num>朝攻守要論</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>趙氏<pc>《</pc>
+<title>
+<num value="6">六</num>朝采要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>杭柬<pc>《</pc>
+<title>金陵<num value="6">六</num>朝帝王統紀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>薛韜玉<pc>《</pc>
+<title>唐要錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>張栻<pc>《</pc>
+<title>通鑒論篤</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>孫甫<pc>《</pc>
+<title>唐史論斷</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>石介<pc>《</pc>
+<title>唐鑒</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>範祖禹<pc>《</pc>
+<title>唐鑒</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>又<pc>《</pc>
+<title>帝學</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>陳季雅<pc>《</pc>
+<title>兩漢博議</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李舜臣<pc>《</pc>
+<title>江東<num value="10">十</num>鑒</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>陳傅良<pc>《</pc>
+<title>西漢史鈔</title>
+<pc>》</pc>
+<measure quantity="17" unit="chapters">
+<num value="17">十七</num>卷</measure>
+<pc>《</pc>
+<title>東萊先生西漢財論</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>呂祖謙論<pc>，</pc>門人編<pc>）</pc>劉熙古<pc>《</pc>
+<title>曆代紀要</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>喬舜<pc>《</pc>
+<title>古今語要</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>賈昌朝<pc>《</pc>
+<title>通紀</title>
+<pc>》</pc>
+<measure quantity="80" unit="chapters">
+<num value="80">八十</num>卷</measure>趙善譽<pc>《</pc>
+<title>讀史輿地考</title>
+<pc>》</pc>
+<measure quantity="63" unit="chapters">
+<num value="63">六十三</num>卷</measure>
+<pc>（</pc>
+<num value="1">一</num>名<pc>《</pc>
+<title>輿地通鑒</title>
+<pc>》</pc>
+<pc>）</pc>裴鬆之<pc>《</pc>
+<title>國史要覽</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>鄭暐<pc>《</pc>
+<title>史雋</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>曹化<pc>《</pc>
+<title>史書集類</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>朱黼<pc>《</pc>
+<title>紀年備遺正統論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>唯室先生兩漢論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>陳長方<pc>）</pc>
+</p>
+</div>
+<div>
+<p>張唐英<pc>《</pc>
+<title>唐史發潛</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>倪遇<pc>《</pc>
+<title>漢論</title>
+<pc>》</pc>
+<measure quantity="13" unit="chapters">
+<num value="13">十三</num>卷</measure>陳惇修<pc>《</pc>
+<title>唐史斷</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>王諫<pc>《</pc>
+<title>唐史名賢論斷</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>程鵬<pc>《</pc>
+<title>唐史屬辭</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>唐帝王號<term>宰臣</term>錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>名賢<num value="17">十七</num>史確論</title>
+<pc>》</pc>
+<measure quantity="104" unit="chapters">
+<num value="104">一百四</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>胡旦<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>史略</title>
+<pc>》</pc>
+<measure quantity="42" unit="chapters">
+<num value="42">四十二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>韓保升<pc>《</pc>
+<title>文行錄</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>李<pc>《</pc>
+<title>續帝學</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>姚虞賓<pc>《</pc>
+<title>諸史臣謨</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>鄭少微<pc>《</pc>
+<title>唐史發揮</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳天麟<pc>《</pc>
+<title>前漢<num value="6">六</num>帖</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>陳應行<pc>《</pc>
+<title>讀史明辨</title>
+<pc>》</pc>
+<measure quantity="24" unit="chapters">
+<num value="24">二十四</num>卷</measure>又<pc>《</pc>
+<title>讀史明辨續集</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>師古<pc>《</pc>
+<title>
+<date>
+<num value="3">三</num>國</date>誌質疑</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>西漢質疑</title>
+<pc>》</pc>
+<measure quantity="19" unit="chapters">
+<num value="19">十九</num>卷</measure>
+<pc>《</pc>
+<title>東漢質疑</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>
+<pc>《</pc>
+<title>何博士備論</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>（</pc>何去非<pc>）</pc>陳亮<pc>《</pc>
+<title>通鑒綱目</title>
+<pc>》</pc>
+<measure quantity="23" unit="chapters">
+<num value="23">二十三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>葉學士唐史鈔</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>不知名<pc>）</pc>唐仲友<pc>《</pc>
+<title>唐史義</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>又<pc>《</pc>
+<title>續唐史精義</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>楊天惠<pc>《</pc>
+<title>
+<date>
+<num value="3">三</num>國</date>人物論</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李石<pc>《</pc>
+<title>世係手記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>兩漢著明論</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="12">十二</num>國史略</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>章華集</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>縱橫集</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="13">十三</num>代史選</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+<pc>《</pc>
+<title>南史摭實韻句</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>議古</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>史譜</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>纂要賦</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<date>國朝</date>撮要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>約論</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>（</pc>並不知作者<pc>）</pc>李燾<pc>《</pc>
+<title>曆代<term>宰相</term>年表</title>
+<pc>》</pc>
+<measure quantity="33" unit="chapters">
+<num value="33">三十三</num>卷</measure>又<pc>《</pc>
+<title>唐<term>宰相</term>譜</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>王謝世表</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>
+<num value="3">三</num>衙將帥年表</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>竇濟<pc>《</pc>
+<title>皇朝名臣言行事對</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>李心傳<pc>《</pc>
+<title>舊聞證誤</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>龔敦頤<pc>《</pc>
+<title>符祐本末</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">一十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>洪邁<pc>《</pc>
+<title>記紹興以來所見</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>左史鈔類<num value="74">七十四</num>部<pc>，</pc>
+<measure quantity="1324" unit="chapters">
+<num value="1324">一千三百二十四</num>卷</measure>
+<pc>。</pc>
+<pc>（</pc>李燾<pc>《</pc>
+<title>曆代<term>宰相</term>年表</title>
+<pc>》</pc>以下不著錄<num value="8">八</num>部<pc>，</pc>
+<measure quantity="75" unit="chapters">
+<num value="75">七十五</num>卷</measure>
+<pc>）</pc>班固<pc>《</pc>
+<title>漢武故事</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>蔡邕<pc>《</pc>
+<title>獨斷</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>裴烜之<pc>《</pc>
+<title>承祚實跡</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王琳<pc>《</pc>
+<title>魏鄭公諫錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>武平<num value="1">一</num>
+<pc>《</pc>
+<title>景龍文館記</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>吳兢<pc>《</pc>
+<title>貞觀政要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>開元升平源</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>蘇瑰<pc>《</pc>
+<title>中樞龜鑒</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>韓琬<pc>《</pc>
+<title>禦史台記</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>韋述<pc>《</pc>
+<title>集賢注記</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>崔光庭<pc>《</pc>
+<title>德宗幸奉天錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>沈既濟<pc>《</pc>
+<title>選舉誌</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>馬宇<pc>《</pc>
+<title>鳳池錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>韋執誼<pc>《</pc>
+<title>翰林故事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李吉甫<pc>《</pc>
+<title>元和國計略</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉公鉉<pc>《</pc>
+<title>鄴城舊事</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>韋處厚<pc>《</pc>
+<title>翰林學士記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>元稹<pc>《</pc>
+<title>承旨學士院記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李德裕<pc>《</pc>
+<title>西南備邊錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>兩朝獻替記</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>次<pc>《</pc>
+<title>柳氏舊聞</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>令狐澄<pc>《</pc>
+<title>貞陵遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>令狐<pc>《</pc>
+<title>製表疏</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>李司空論事</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+<pc>（</pc>唐蔣偕編<pc>，</pc>李絳所論<pc>）</pc>南卓<pc>《</pc>
+<title>綱領圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>鄭處誨<pc>《</pc>
+<title>明皇雜錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>天寶西幸略</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>吳湘事跡</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>王仁裕<pc>《</pc>
+<title>開元天寶遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>盧駢<pc>《</pc>
+<title>禦史台<num value="3">三</num>院因話錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>柳比<pc>《</pc>
+<title>續貞陵遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>鄭向<pc>《</pc>
+<title>起居注故事</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>蘇頌<pc>《</pc>
+<title>邇英要覽</title>
+<pc>》</pc>
+<num value="1">一</num>部<pc>（</pc>卷亡<pc>）</pc>樂史<pc>《</pc>
+<title>貢舉故事</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>目</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>鄭畋<pc>《</pc>
+<title>敕語堂判</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>李巨川<pc>《</pc>
+<title>勤王錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>楊钜<pc>《</pc>
+<title>翰林舊規</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張著<pc>《</pc>
+<title>翰林盛事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李構<pc>《</pc>
+<title>禦史台故事</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李肇<pc>《</pc>
+<title>翰林內誌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>翰林誌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>蘇易簡<pc>《</pc>
+<title>續翰林誌</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>杜悰事跡</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>梁宣底</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>汾陰後土故事</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>自漢至唐<pc>）</pc>
+<pc>《</pc>
+<title>武成王配饗事跡</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>（</pc>並不知作者<pc>）</pc>林勤<pc>《</pc>
+<title>
+<date>國朝</date>典要雜編</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李大性<pc>《</pc>
+<title>典故辨疑</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>呂夷簡<pc>、</pc>林希進<pc>《</pc>
+<title>
+<num value="5">五</num>朝寶訓</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="3">三</num>朝太平寶訓</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="3">三</num>朝訓鑒圖</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>仁宗製序<pc>）</pc>沈該進<pc>《</pc>
+<title>神宗寶訓</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+<pc>《</pc>
+<title>神宗寶訓</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+<pc>（</pc>不知集者姓名<pc>）</pc>洪邁集<pc>《</pc>
+<title>哲宗寶訓</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>欽宗寶訓</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+<pc>《</pc>
+<title>高宗聖政</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>
+<pc>《</pc>
+<title>高宗寶訓</title>
+<pc>》</pc>
+<measure quantity="70" unit="chapters">
+<num value="70">七十</num>卷</measure>
+<pc>《</pc>
+<title>孝宗寶訓</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>（</pc>並國史實錄院進<pc>）</pc>史彌遠<pc>《</pc>
+<title>孝宗寶訓</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>
+<pc>《</pc>
+<title>紹興求賢手詔</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>高宗孝宗聖政編要</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>（</pc>乾道<pc>、</pc>淳熙中修<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>高宗聖政典章</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>
+<pc>《</pc>
+<title>宋朝大詔令</title>
+<pc>》</pc>
+<measure quantity="240" unit="chapters">
+<num value="240">二百四十</num>卷</measure>
+<pc>（</pc>紹興中<pc>，</pc>出於宋綬家<pc>）</pc>
+<pc>《</pc>
+<title>永熙寶訓</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>（</pc>李昉子宗諤纂<pc>）</pc>
+<pc>《</pc>
+<title>仁宗觀文鑒古圖</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王洙<pc>《</pc>
+<title>祖宗故事</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>李淑<pc>《</pc>
+<title>耕籍類事</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>林特<pc>《</pc>
+<title>東封西祀朝謁太清宮慶賜總例</title>
+<pc>》</pc>
+<measure quantity="26" unit="chapters">
+<num value="26">二十六</num>卷</measure>韓絳<pc>《</pc>
+<title>治平會計錄</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李常<pc>《</pc>
+<title>元祐會計錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>崔立<pc>《</pc>
+<title>故事稽疑</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>孝宗聖政</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>彭龜年<pc>《</pc>
+<title>內治聖鑒</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>光宗聖政</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<persName>富弼</persName>
+<pc>《</pc>
+<title>契丹議盟別錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>朱勝非<pc>《</pc>
+<title>秀水閑居錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>呂本中<pc>《</pc>
+<title>紫微雜記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>蔡絛<pc>《</pc>
+<title>北征紀實</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<num value="10000">萬</num>俟禼<pc>《</pc>
+<title>太後回鑾事實</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>湯思退等<pc>《</pc>
+<title>永祐陵迎奉錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>大惟簡<pc>《</pc>
+<title>塞北紀實</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>宋敏求<pc>《</pc>
+<title>朝貢錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>張養正<pc>《</pc>
+<title>
+<num value="6">六</num>朝事跡</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>吳彥夔<pc>《</pc>
+<title>
+<num value="6">六</num>朝事跡別集</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>韓元吉<pc>《</pc>
+<title>金國生辰語錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>劉珙<pc>《</pc>
+<title>江東救荒錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>宋介<pc>《</pc>
+<title>執禮集</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>陳曄<pc>《</pc>
+<title>通州鬻海錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>龔頤正<pc>《</pc>
+<title>續稽古錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>洪遵<pc>《</pc>
+<title>翰苑群書</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>又<pc>《</pc>
+<title>會稽和買事宜錄</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>程大昌<pc>《</pc>
+<title>北邊備對</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>《</pc>
+<title>慶曆邊議</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>開禧通和錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>開禧持書錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>開禧通問本末</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>金陵叛盟記</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>（</pc>並不知作者<pc>）</pc>宋庠<pc>《</pc>
+<title>尊號錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>掖垣叢誌</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>董煟<pc>《</pc>
+<title>活民書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>活民書拾遺</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>史館故事錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="5">五</num>國故事</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>
+</p>
+</div>
+<div>
+<p>尉遲偓<pc>《</pc>
+<title>中朝故事</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>孔武仲<pc>《</pc>
+<title>金華講義</title>
+<pc>》</pc>
+<measure quantity="13" unit="chapters">
+<num value="13">十三</num>卷</measure>王禹偁<pc>《</pc>
+<title>建隆遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>田錫<pc>《</pc>
+<title>
+<num value="3">三</num>朝奏議</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>曾致堯<pc>《</pc>
+<title>清邊前要</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>李至<pc>《</pc>
+<title>皇親故事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>杜鎬<pc>《</pc>
+<title>鑄錢故事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>丁謂<pc>《</pc>
+<title>景德會計錄</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王曙<pc>《</pc>
+<title>群牧故事</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>兩朝誓書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>景德中與契丹往複書<pc>）</pc>辛怡顯<pc>《</pc>
+<title>雲南錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>沈該<pc>《</pc>
+<title>翰林學士年表</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>蘇耆<pc>《</pc>
+<title>次續翰林誌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>錢惟演<pc>《</pc>
+<title>金坡遺事</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>晁迥<pc>《</pc>
+<title>別書金坡遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李宗諤<pc>《</pc>
+<title>翰林雜記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王皞<pc>《</pc>
+<title>言行錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王旦<pc>《</pc>
+<title>名賢遺範錄</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>
+<persName>余靖</persName>
+<pc>《</pc>
+<title>國信語錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李淑<pc>《</pc>
+<title>
+<num value="3">三</num>朝訓鑒圖</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳湜<pc>《</pc>
+<title>
+<num value="3">三</num>朝逸史</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>沈立<pc>《</pc>
+<title>河防通議</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<persName>富弼</persName>
+<pc>《</pc>
+<title>救濟流民經畫事件</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>田況<pc>《</pc>
+<title>皇祐會計錄</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳次公<pc>《</pc>
+<title>安南議</title>
+<pc>》</pc>
+<num value="10">十</num>篇宋鹹<pc>《</pc>
+<title>朝製要覽</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>李上交<pc>《</pc>
+<title>近事會元</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>範鎮<pc>《</pc>
+<title>
+<date>國朝</date>事始</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>東齋記事</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>《</pc>
+<title>太平盛典</title>
+<pc>》</pc>
+<measure quantity="36" unit="chapters">
+<num value="36">三十六</num>卷</measure>
+<pc>《</pc>
+<title>
+<date>國朝</date>寶訓</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>慶曆會計錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>經費節要</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>張唐英<pc>《</pc>
+<title>君臣政要</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>陳襄<pc>《</pc>
+<title>國信語錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>趙概<pc>《</pc>
+<title>日記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>司馬光<pc>《</pc>
+<title>日錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>郟亶<pc>《</pc>
+<title>吳門水利</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>王安石<pc>《</pc>
+<title>熙寧奏對</title>
+<pc>》</pc>
+<measure quantity="78" unit="chapters">
+<num value="78">七十八</num>卷</measure>
+</p>
+</div>
+<div>
+<p>程師孟<pc>《</pc>
+<title>奏錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>羅從彥<pc>《</pc>
+<title>宋遵堯錄</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>何澹<pc>《</pc>
+<title>曆代備覽</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>王禹<pc>《</pc>
+<title>王家<num value="3">三</num>世書誥</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>司馬光<pc>《</pc>
+<title>涑水記聞</title>
+<pc>》</pc>
+<measure quantity="32" unit="chapters">
+<num value="32">三十二</num>卷</measure>周必大<pc>《</pc>
+<title>鑾坡錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>淳熙玉堂雜記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>陳模<pc>《</pc>
+<title>東宮備覽</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="3">三</num>朝政錄</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>《</pc>
+<title>廣東西城錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>交廣圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>
+</p>
+</div>
+<div>
+<p>曾鞏<pc>《</pc>
+<title>宋朝政要策</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>畢仲衍<pc>《</pc>
+<title>中書備對</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>李清臣<pc>、</pc>張誠<num value="1">一</num>
+<pc>《</pc>
+<title>元豐土貢錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>龐元英<pc>《</pc>
+<title>文昌雜錄</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+</p>
+</div>
+<div>
+<p>韓絳<pc>、</pc>吳充<pc>《</pc>
+<title>樞密院時政記</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>蘇安<pc>《</pc>
+<title>靜邊說</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>薛向<pc>《</pc>
+<title>邊陲利害</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>仁宗君臣政要</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>（</pc>不知何人編<pc>）</pc>
+</p>
+</div>
+<div>
+<p>範祖禹<pc>《</pc>
+<title>仁皇訓典</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>曾鞏<pc>《</pc>
+<title>德音寶訓</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>汪浹<pc>《</pc>
+<title>榮觀集</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>張舜民<pc>《</pc>
+<title>使遼錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>宋匪躬<pc>《</pc>
+<title>館閣錄</title>
+<pc>》</pc>
+<measure quantity="11" unit="chapters">
+<num value="11">十一</num>卷</measure>劉永壽<pc>《</pc>
+<title>章獻事跡</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>曾布<pc>《</pc>
+<title>
+<num value="3">三</num>朝正論</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>林虙<pc>《</pc>
+<title>元豐聖訓</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>家安國<pc>《</pc>
+<title>平蠻錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>羅畸<pc>《</pc>
+<title>蓬山記</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>明堂詔書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知集者<pc>）</pc>高聿<pc>《</pc>
+<title>鹽池錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>吳若虛<pc>《</pc>
+<title>崇聖恢儒集</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>洪榆<pc>《</pc>
+<title>創業故事</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>耿延禧<pc>《</pc>
+<title>建炎中興記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>程俱<pc>《</pc>
+<title>麟台故事</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>洪興祖<pc>《</pc>
+<title>續史館故事錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張戒<pc>《</pc>
+<title>政要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李源<pc>《</pc>
+<title>
+<num value="3">三</num>朝政要增釋</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>歐陽安永<pc>《</pc>
+<title>祖宗英睿龜鑒</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳騤<pc>《</pc>
+<title>中興館閣錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>趙勰<pc>《</pc>
+<title>廣南市舶錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>嚴守則<pc>《</pc>
+<title>通商集</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>契丹禮物錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>金華故事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>兩朝交聘往來國書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>臧梓<pc>《</pc>
+<title>呂丞相勤王記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李攸<pc>《</pc>
+<title>通今集</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>又<pc>《</pc>
+<title>宋朝事實</title>
+<pc>》</pc>
+<measure quantity="35" unit="chapters">
+<num value="35">三十五</num>卷</measure>袁夢麟<pc>《</pc>
+<title>漢製叢錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>倪思<pc>《</pc>
+<title>合宮嚴父書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>詹儀之<pc>《</pc>
+<title>淳熙經筵日進故事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>淳熙東宮日納故事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李心傳<pc>《</pc>
+<title>建炎以來朝野雜記</title>
+<pc>》</pc>
+<measure quantity="11" unit="chapters">
+<num value="11">十一</num>卷</measure>又<pc>《</pc>
+<title>朝野雜記</title>
+<pc>》</pc>甲集<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>乙集<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陸遊<pc>《</pc>
+<title>聖政草</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>彭<num value="100">百</num>川<pc>《</pc>
+<title>治跡統類</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>又<pc>《</pc>
+<title>中興治跡統類</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>江少虞<pc>《</pc>
+<title>皇朝事實類苑</title>
+<pc>》</pc>
+<measure quantity="26" unit="chapters">
+<num value="26">二十六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張綱<pc>《</pc>
+<title>列聖孝治類編</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>黃度<pc>《</pc>
+<title>藝祖憲監</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>又<pc>《</pc>
+<title>仁皇從諫錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>趙善譽<pc>《</pc>
+<title>宋朝開基要覽</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>右故事類<num value="198">一百九十八</num>部<pc>，</pc>
+<measure quantity="2094" unit="chapters">
+<num value="2094">二千九十四</num>卷</measure>
+<pc>。</pc>
+<pc>（</pc>彭<num value="100">百</num>川<pc>《</pc>
+<title>治跡統類</title>
+<pc>》</pc>以下不著錄<num value="7">七</num>部<pc>，</pc>
+<measure quantity="221" unit="chapters">
+<num value="221">二百二十一</num>卷</measure>
+<pc>）</pc>
+<pc>《</pc>
+<title>東漢<num value="100">百</num>官表</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>陶彥藻<pc>《</pc>
+<title>職官要錄</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>職官要錄補遺</title>
+<pc>》</pc>
+<measure quantity="18" unit="chapters">
+<num value="18">十八</num>卷</measure>李吉甫<pc>《</pc>
+<title>
+<num value="100">百</num>司舉要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>唐玄宗<pc>《</pc>
+<title>
+<num value="6">六</num>典</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>杜英師<pc>《</pc>
+<title>唐職該</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>梁載言<pc>《</pc>
+<title>具員故事</title>
+<pc>》</pc>
+<measure quantity="17" unit="chapters">
+<num value="17">十七</num>卷</measure>
+<pc>《</pc>
+<title>大唐<term>宰相</term>曆任記</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>任戩<pc>《</pc>
+<title>官品纂要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>宰輔年表</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>官品式律</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>曆代官號</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>楊侃<pc>《</pc>
+<title>職林</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>孔至道<pc>《</pc>
+<title>
+<num value="100">百</num>官要望</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>閻承琬<pc>《</pc>
+<title>君臣政要</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>蒲宗孟<pc>《</pc>
+<title>省曹寺監事目格子</title>
+<pc>》</pc>
+<measure quantity="47" unit="chapters">
+<num value="47">四十七</num>卷</measure>郤殷象<pc>《</pc>
+<title>梁循資格</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王涯<pc>《</pc>
+<title>唐循資格</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>杜儒童<pc>《</pc>
+<title>中書則例</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>譚世勣<pc>《</pc>
+<title>本朝宰執表</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>張之緒<pc>《</pc>
+<title>唐文昌損益</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<num value="10000">萬</num>當世<pc>《</pc>
+<title>文武<num value="100">百</num>官圖</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>陳繹<pc>《</pc>
+<title>
+<term>宰相</term>拜罷錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>樞府拜罷錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="3">三</num>省樞密院除目</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>司馬光<pc>《</pc>
+<title>
+<num value="100">百</num>官公卿表</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>孫逢吉<pc>《</pc>
+<title>職官分紀</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>梁勖<pc>《</pc>
+<title>職官品服</title>
+<pc>》</pc>
+<measure quantity="33" unit="chapters">
+<num value="33">三十三</num>卷</measure>趙氏<pc>《</pc>
+<title>唐典備對</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>（</pc>不知名<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="3">三</num>省儀式</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>職事官遷除體格</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>循資格</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>循資曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>唐<term>宰相</term>後記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<date>國朝</date>撮要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>宋朝宰輔拜罷圖</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>宋朝官製</title>
+<pc>》</pc>
+<measure quantity="11" unit="chapters">
+<num value="11">十一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="3">三</num>省總括</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>王益之<pc>《</pc>
+<title>漢官總錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>又<pc>《</pc>
+<title>職源</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>宋朝相輔年表</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>中興館閣書目雲<pc>：</pc>
+<pc>“</pc>臣繹上<pc>，</pc>
+<pc>《</pc>
+<title>續表</title>
+<pc>》</pc>曰臣易記<pc>。</pc>
+<pc>”</pc>
+<pc>）</pc>蔡元道<pc>《</pc>
+<title>祖宗官製舊典</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>趙鄰幾<pc>《</pc>
+<title>史氏懋官誌</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>趙曄<pc>《</pc>
+<title>宋官製正誤沿革職官記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>何異<pc>《</pc>
+<title>中興<num value="100">百</num>官題名</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>龔頤正<pc>《</pc>
+<title>宋特命錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>司馬光<pc>《</pc>
+<title>官製遺稿</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>徐自明<pc>《</pc>
+<title>宰輔編年錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>蔡幼學<pc>《</pc>
+<title>續<num value="100">百</num>官公卿表</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>又<pc>《</pc>
+<title>續<num value="100">百</num>官表質疑</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>曾<num value="3">三</num>異<pc>《</pc>
+<title>宋新舊官製通考</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>宋新舊官製通釋</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>範衝<pc>《</pc>
+<title>宰輔拜罷錄</title>
+<pc>》</pc>
+<measure quantity="24" unit="chapters">
+<num value="24">二十四</num>卷</measure>徐筠<pc>《</pc>
+<title>漢官考</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>董正工<pc>《</pc>
+<title>職官源流</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>金國明昌官製新格</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知何人撰<pc>）</pc>楊王休<pc>《</pc>
+<title>諸史闕疑</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>趙粹中<pc>《</pc>
+<title>史評</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<persName>王應麟</persName>
+<pc>《</pc>
+<title>通鑒地理考</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>通鑒地理通釋</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>又<pc>《</pc>
+<title>漢藝文誌考證</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>又<pc>《</pc>
+<title>漢製考</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>右職官類<num value="56">五十六</num>部<pc>，</pc>
+<measure quantity="578" unit="chapters">
+<num value="578">五百七十八</num>卷</measure>
+<pc>。</pc>
+<pc>（</pc>楊王休<pc>《</pc>
+<title>諸史闕疑</title>
+<pc>》</pc>以下不著錄<num value="6">六</num>部<pc>，</pc>
+<measure quantity="136" unit="chapters">
+<num value="136">一百三十六</num>卷</measure>
+<pc>）</pc>劉向<pc>《</pc>
+<title>古列女傳</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>
+<pc>《</pc>
+<title>漢武內傳</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>
+</p>
+</div>
+<div>
+<p>郭憲<pc>《</pc>
+<title>洞冥記</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>班昭<pc>《</pc>
+<title>女戒</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>伶玄<pc>《</pc>
+<title>趙飛燕外傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>皇甫謐<pc>《</pc>
+<title>高士傳</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>袁宏<pc>《</pc>
+<title>正始名士傳</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>葛洪<pc>《</pc>
+<title>西京雜記</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>習鑿齒<pc>《</pc>
+<title>襄陽耆舊記</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>蕭韶<pc>《</pc>
+<title>太清紀</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>杜寶<pc>《</pc>
+<title>大業雜記</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>劉餗<pc>《</pc>
+<title>國史異纂</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>梁載言<pc>《</pc>
+<title>梁<num value="4">四</num>公記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>趙毅<pc>《</pc>
+<title>大業略記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>顏師古<pc>《</pc>
+<title>大業拾遺</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>賈閏甫<pc>《</pc>
+<title>李密傳</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李筌<pc>《</pc>
+<title>中台誌</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>杜儒童<pc>《</pc>
+<title>隋季革命記</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>隋平陳記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>魏徵<pc>《</pc>
+<title>隋靖列傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>徐浩<pc>《</pc>
+<title>
+<placeName>廬陵</placeName>王傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉仁軌<pc>《</pc>
+<title>河洛行年記</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李恕<pc>《</pc>
+<title>誡子拾遺</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>越國公行狀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>唐鍾紹京事跡<pc>）</pc>陳翊<pc>《</pc>
+<title>郭令公家傳</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>又<pc>《</pc>
+<title>忠武公將佐略</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>殷亮<pc>《</pc>
+<title>顏杲卿家傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>顏真卿行狀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李邕<pc>《</pc>
+<title>狄梁公家傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>包諝<pc>《</pc>
+<title>河洛春秋</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳鴻<pc>《</pc>
+<title>東城父老傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張鷟<pc>《</pc>
+<title>朝野僉載</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>又<pc>《</pc>
+<title>僉載補遺</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李匡文<pc>《</pc>
+<title>明皇幸蜀廣記圖</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>郭湜<pc>《</pc>
+<title>高力士外傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>姚汝能<pc>《</pc>
+<title>安祿山事跡</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="3">三</num>朝遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>載張說<pc>、</pc>姚崇<pc>、</pc>宋璟事<pc>，</pc>不知作者<pc>）</pc>甘伯宗<pc>《</pc>
+<title>名醫傳</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>臨川名<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>賢<pc>”</pc>
+<pc>）</pc>士賢<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>名<pc>”</pc>
+<pc>）</pc>跡傳</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李涉<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>渤<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>
+<num value="6">六</num>賢傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>孫仲<pc>《</pc>
+<title>遺士傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>賢牧傳</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張茂樞<pc>《</pc>
+<title>張氏家傳</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>吳操<pc>《</pc>
+<title>蔣子文傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王方慶<pc>《</pc>
+<title>魏玄成傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>郭元振傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>範質<pc>《</pc>
+<title>桑維翰傳</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李翰<pc>《</pc>
+<title>張中丞外傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>溫龠<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>畬<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>天寶亂離記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉諫<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>練<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>
+<date>國朝</date>傳記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>賀楚<pc>《</pc>
+<title>奉天記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>太和摧凶記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>楊棲白<pc>《</pc>
+<title>南行記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王坤<pc>《</pc>
+<title>僖宗幸蜀記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>牛樸<pc>《</pc>
+<title>登庸記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>江文秉<pc>《</pc>
+<title>都洛私記</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>胡嶠<pc>《</pc>
+<title>陷遼記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>元澄<pc>《</pc>
+<title>秦京內外雜記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>蜀記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>西戎記</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>顏師古<pc>《</pc>
+<title>獬豸記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>靜亂安邦記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>睢陽得死集</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>載張巡<pc>、</pc>許遠事<pc>，</pc>不知作者<pc>）</pc>沈既濟<pc>《</pc>
+<title>江淮記亂</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李公佐<pc>《</pc>
+<title>建中河朔記</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>陳巨<pc>《</pc>
+<title>朝廷卓絕事記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>穀況<pc>《</pc>
+<title>燕南記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>鄭澥<pc>《</pc>
+<title>涼國公平蔡錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李涪<pc>《</pc>
+<title>刊誤</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>陸贄<pc>《</pc>
+<title>玄宗編遺錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>韓昱<pc>《</pc>
+<title>壺關錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>林恩<pc>《</pc>
+<title>補國史</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>馬總<pc>《</pc>
+<title>唐年小錄</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>杜佑<pc>《</pc>
+<title>賓佐記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳諫等<pc>《</pc>
+<title>彭城公事跡</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>王昌齡<pc>《</pc>
+<title>瑞應圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>路隋<pc>《</pc>
+<title>平淮西記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>邠誌</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李肇<pc>《</pc>
+<title>國史補</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李潛用<pc>《</pc>
+<title>
+<num value="52">乙卯</num>記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>房<num value="1000">千</num>裏<pc>《</pc>
+<title>投荒雜錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李繁<pc>《</pc>
+<title>鄴侯家傳</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李石<pc>《</pc>
+<title>開成承詔錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>李德裕<pc>《</pc>
+<title>異域歸忠傳</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>又<pc>《</pc>
+<title>大和辨謗略</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>會昌伐叛記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>高少逸<pc>《</pc>
+<title>
+<num value="4">四</num>夷朝貢錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>李商隱<pc>《</pc>
+<title>李長吉小傳</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>蔡京<pc>《</pc>
+<title>王貴妃傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李璋<pc>《</pc>
+<title>太原事跡雜記</title>
+<pc>》</pc>
+<measure quantity="13" unit="chapters">
+<num value="13">十三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張雲<pc>《</pc>
+<title>鹹通<num value="27">庚寅</num>解圍錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>鄭樵<pc>《</pc>
+<title>彭門紀亂</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>韓偓<pc>《</pc>
+<title>金鑾密記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>朱樸<pc>《</pc>
+<title>日曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李氏<pc>《</pc>
+<title>大唐列聖園陵記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知名<pc>）</pc>丘旭<pc>《</pc>
+<title>賓朋宴語</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>盧言<pc>《</pc>
+<title>雜說</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>於政立<pc>《</pc>
+<title>類林</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李奕<pc>《</pc>
+<title>唐登科記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>唐顯慶登科記</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>徐鍇<pc>《</pc>
+<title>登科記</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>樂史<pc>《</pc>
+<title>登科記</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>登科記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>登科記</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>（</pc>起建隆至宣和<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>
+<pc>）</pc>張觀<pc>《</pc>
+<title>
+<num value="22">二十二</num>國祥異記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>徐岱<pc>《</pc>
+<title>奉天記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>徽宗<pc>《</pc>
+<title>宣和殿記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>嵩山崇福記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>太清樓特宴記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>筠莊縱鶴宣和閣記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>宴延福宮承平殿記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>明堂記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>艮嶽記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>陳繹<pc>《</pc>
+<title>東西府記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>沈立<pc>《</pc>
+<title>都水記</title>
+<pc>》</pc>
+<measure quantity="200" unit="chapters">
+<num value="200">二百</num>卷</measure>又<pc>《</pc>
+<title>名山記</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>章惇<pc>《</pc>
+<title>導洛通汴記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李清臣<pc>《</pc>
+<title>重修都城記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王革<pc>《</pc>
+<title>天泉河記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>上黨記叛</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>宋巨<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>宗拒<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>明皇幸蜀錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>趙源<num value="1">一</num>
+<pc>《</pc>
+<title>奉天錄</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陸贄<pc>《</pc>
+<title>遣使錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李繁<pc>《</pc>
+<title>北荒君長錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>陸希聲<pc>《</pc>
+<title>北戶雜錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>蘇特<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>時<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>唐代衣冠盛事錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>鄭言<pc>《</pc>
+<title>平剡錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>複交阯錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>哥舒翰幕府故吏錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李巨川<pc>《</pc>
+<title>許國公勤王錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>乾明<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>寧<pc>”</pc>
+<pc>）</pc>會稽錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="3">三</num>楚新錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>英雄佐命錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>世宗征淮錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>濠州幹戈錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>樂史<pc>《</pc>
+<title>孝悌錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>讚</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>曹希逵<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>逢<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>孝感義聞錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>張讀<pc>《</pc>
+<title>建中西狩錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>元宏<pc>《</pc>
+<title>錢塘平越州錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>潘氏家錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>潘美行狀<pc>、</pc>告辭<pc>）</pc>胡訥<pc>《</pc>
+<title>孝行錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>又<pc>《</pc>
+<title>賢惠錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>民表錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李升<pc>《</pc>
+<title>登封誥成錄</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>淩準<pc>《</pc>
+<title>邠誌</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>郭廷誨<pc>《</pc>
+<title>妖亂誌</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>韋琯<pc>《</pc>
+<title>國相事狀</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+<pc>《</pc>
+<title>雲南事狀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>劉中州事跡</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>魏玄成故事</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>趙寅<pc>《</pc>
+<title>趙君錫遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>楊時<pc>《</pc>
+<title>開成紀事</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>楊<num value="9">九</num>齡<pc>《</pc>
+<title>桂堂編事</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>範鎮<pc>《</pc>
+<title>東齋記事</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李隱<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>隨<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>唐記奇事</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>史演<pc>《</pc>
+<title>鹹寧王定難實序</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>樂史<pc>《</pc>
+<title>登科記解題</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>廣孝悌<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>新<pc>”</pc>
+<pc>）</pc>書</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>危高<pc>《</pc>
+<title>孝子拾遺</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>紹興名臣正論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>題瀟湘樵夫序<pc>）</pc>
+<pc>《</pc>
+<title>呂頤浩遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>頤浩出處大概<pc>）</pc>
+<pc>《</pc>
+<title>呂頤浩逢辰記卷</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>頤浩曆官次序<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>朱勝非年表</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>勝非孫昱上<pc>）</pc>
+<pc>《</pc>
+<title>朱勝非行狀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>劉岑撰<pc>）</pc>
+<pc>《</pc>
+<title>奉神述</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>真宗製<pc>）</pc>史浩<pc>《</pc>
+<title>會稽先賢祠傳讚</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張栻<pc>《</pc>
+<title>諸葛武侯傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>趙彥博<pc>《</pc>
+<title>昭明事實</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>呂文靖公事狀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>王岩叟<pc>《</pc>
+<title>韓忠獻公別錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>韓忠獻公家傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>
+<persName>韓琦</persName>
+<num value="5">五</num>世孫庚卿作<pc>）</pc>呂祖謙<pc>《</pc>
+<title>歐公本末</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>韓莊敏公遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>韓宗武記<pc>）</pc>邵伯溫<pc>《</pc>
+<title>邵氏辨誣</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>薛齊誼<pc>《</pc>
+<title>
+<num value="1">六一</num>居士年譜</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>胡剛中家傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>男胡興宗撰<pc>）</pc>黃璞<pc>《</pc>
+<title>閩中名士傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>嶽珂<pc>《</pc>
+<title>籲天辨誣</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李綱等<pc>《</pc>
+<title>張忠文節誼錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>陳曄<pc>《</pc>
+<title>種師道事跡</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張琰<pc>《</pc>
+<title>種師道祠堂碑</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>談氏家傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>談鑰撰<pc>）</pc>
+</p>
+</div>
+<div>
+<p>王淹<pc>《</pc>
+<title>槐庭濟美錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>英顯張侯平寇錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>洪適<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>登科記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>周鑄<pc>《</pc>
+<title>史越王言行錄</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>劉氏傳忠錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>劉學裘撰<pc>）</pc>
+<pc>《</pc>
+<title>陳瓘墓誌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>自撰<pc>）</pc>
+<pc>《</pc>
+<title>了齋陳先生言行錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>陳瓘男正同編<pc>）</pc>
+<pc>《</pc>
+<title>趙文定公遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知何人編<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>常諫議長洲政事錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>常安民撰<pc>）</pc>
+<pc>《</pc>
+<title>朱文公行狀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>黃幹撰<pc>）</pc>李<pc>《</pc>
+<title>趙鼎行狀</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>嶽珂<pc>《</pc>
+<title>鄂國金佗粹編</title>
+<pc>》</pc>
+<measure quantity="28" unit="chapters">
+<num value="28">二十八</num>卷</measure>
+</p>
+</div>
+<div>
+<p>吳柔勝<pc>《</pc>
+<title>宗澤行實</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>李樸<pc>《</pc>
+<title>豐清敏遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>劉嶽李魏傳</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>（</pc>張穎撰<pc>）</pc>劉球<pc>《</pc>
+<title>劉鄜王事實</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">一十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>尹機<pc>《</pc>
+<title>宿州事實</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>石茂良<pc>《</pc>
+<title>避戎夜話</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>靖康錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>中興禦侮錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>皇華錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>南北歡盟錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>裔夷謀夏錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>
+</p>
+</div>
+<div>
+<p>張師顏<pc>《</pc>
+<title>金虜南遷錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張棣<pc>《</pc>
+<title>金亮講和事跡</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>洪遵<pc>《</pc>
+<title>泉誌</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>張甲<pc>《</pc>
+<title>浸銅要錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>姚康<pc>《</pc>
+<title>唐登科記</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>馬宇<pc>《</pc>
+<title>段公別傳</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>張陟<pc>《</pc>
+<title>唐年經略誌</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>柳比<pc>《</pc>
+<title>柳氏序訓</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>柳呈<pc>《</pc>
+<title>柳氏家學</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李躍<pc>《</pc>
+<title>嵐齋集</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>段公路<pc>《</pc>
+<title>北戶雜錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>鄭暐<pc>《</pc>
+<title>蜀記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>野史甘露新記</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>諱行錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>大和野史</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>逸史</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>拓跋記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>文場盛事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>楊妃外傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>
+</p>
+</div>
+<div>
+<p>蕭叔和<pc>《</pc>
+<title>天祚永歸記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>薛圖存<pc>《</pc>
+<title>河南記</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>李綽<pc>《</pc>
+<title>張尚書故實</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉昶<pc>《</pc>
+<title>嶺外錄異</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王振<pc>《</pc>
+<title>汴水滔天錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王權<pc>《</pc>
+<title>汴州記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>高若拙<pc>《</pc>
+<title>後史補</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>黃彬<pc>《</pc>
+<title>莊宗召禍記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>晉朝陷蕃記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>餘知古<pc>《</pc>
+<title>渚宮舊事</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>張昭<pc>《</pc>
+<title>太康平吳錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>王仁裕<pc>《</pc>
+<title>入洛記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>南行記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>崔氏登科記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>範質<pc>《</pc>
+<title>魏公家傳</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>趙普<pc>《</pc>
+<title>飛龍記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>勾延慶<pc>《</pc>
+<title>成都理亂記</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>錢儼<pc>《</pc>
+<title>
+<num value="45">戊申</num>英政錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>閻自若<pc>《</pc>
+<title>唐宋氾聞錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>曹彬別傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>曹彬之孫偃撰<pc>）</pc>
+</p>
+</div>
+<div>
+<p>陳承韞<pc>《</pc>
+<title>南越記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>蔣之奇<pc>《</pc>
+<title>廣州<num value="10">十</num>賢讚</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>安德裕<pc>《</pc>
+<title>滕王廣傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王延德<pc>《</pc>
+<title>西州使程記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張緒<pc>《</pc>
+<title>續錦裏耆舊傳</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>沈立<pc>《</pc>
+<title>奉使<num value="2">二</num>浙雜記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>路振<pc>《</pc>
+<title>乘軺錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李畋<pc>《</pc>
+<title>孔子弟子讚傳</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>乖崖語錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>載張詠政績<pc>）</pc>張齊賢<pc>《</pc>
+<title>
+<placeName>洛陽</placeName>搢紳舊聞記</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>張逵<pc>《</pc>
+<title>蜀寇亂小錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>曾致堯<pc>《</pc>
+<title>廣中台記</title>
+<pc>》</pc>
+<measure quantity="80" unit="chapters">
+<num value="80">八十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>綠珠傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>許載<pc>《</pc>
+<title>吳唐拾遺錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>樂史<pc>《</pc>
+<title>唐滕王外傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>李白外傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>洞仙集</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>許邁傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>楊貴妃遺事</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>（</pc>題岷山叟上<pc>）</pc>
+<pc>《</pc>
+<title>李昉談錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>李宗諤撰<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>潘美事跡</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>平蜀錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<date>國朝</date>名將行狀</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>議盟記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>寇準遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>丁謂談錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>郭贄傳略</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>
+</p>
+</div>
+<div>
+<p>任升<pc>《</pc>
+<title>梁益記</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>錢惟演<pc>《</pc>
+<title>錢俶貢奉錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>王旦遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>王素撰<pc>）</pc>寇瑊<pc>《</pc>
+<title>奉使錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王皞<pc>《</pc>
+<title>唐餘錄</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>蔡元翰<pc>《</pc>
+<title>唐製舉科目圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉渙<pc>《</pc>
+<title>西行記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王曾<pc>《</pc>
+<title>筆錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<persName>富弼</persName>
+<pc>《</pc>
+<title>奉使語錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>又<pc>《</pc>
+<title>奉使別錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王曙<pc>《</pc>
+<title>戴鬥奉使錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>燕北會要錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>虜庭雜記</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>
+<pc>《</pc>
+<title>契丹須知</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>陰山雜錄</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+<pc>《</pc>
+<title>契丹實錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>學士年表</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<persName>韓琦</persName>遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>孫沔遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<persName>歐陽修</persName>
+<pc>《</pc>
+<title>歸田錄</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>王起<pc>《</pc>
+<title>甘陵誅叛錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>趙勰<pc>《</pc>
+<title>廣州牧守記</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>又<pc>《</pc>
+<title>交阯事跡</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+</p>
+</div>
+<div>
+<p>曹叔卿<pc>《</pc>
+<title>儂智高</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>滕甫<pc>《</pc>
+<title>征南錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>馮炳<pc>《</pc>
+<title>皇祐平蠻記</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>劉敞<pc>《</pc>
+<title>使北語錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>宋景文公筆記</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>
+<pc>《</pc>
+<title>契丹官儀</title>
+<pc>》</pc>及<pc>《</pc>
+<title>碧雲附</title>
+<pc>》</pc>
+<pc>）</pc>宋敏求<pc>《</pc>
+<title>
+<num value="3">三</num>川官下記</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>又<pc>《</pc>
+<title>諱行後錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>入番錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>春明退朝錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>韓正彥<pc>《</pc>
+<title>
+<persName>韓琦</persName>家傳</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>韓漳<pc>《</pc>
+<title>愛棠集</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>趙寅<pc>《</pc>
+<title>
+<persName>韓琦</persName>事實</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>杜滋談錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>杜師秦等撰<pc>）</pc>李複圭<pc>《</pc>
+<title>李氏家傳</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>朱定國<pc>《</pc>
+<title>歸田後錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>陳昉<pc>《</pc>
+<title>北庭須知</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>王通元經薛氏傳</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>宋如愚<pc>《</pc>
+<title>劍南須知</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>黃靖國再生傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>廖子孟撰<pc>）</pc>
+<pc>《</pc>
+<title>曾鞏行述</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>曾肇撰<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>曾肇行述</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>楊時撰<pc>）</pc>
+<pc>《</pc>
+<title>
+<persName>韓琦</persName>別錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>王岩叟撰<pc>）</pc>章邦傑<pc>《</pc>
+<title>章氏家傳德慶編</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>胡氏家傳錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>河南劉氏家傳</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>（</pc>劉唐老上<pc>）</pc>李遠<pc>《</pc>
+<title>青唐錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李格非<pc>《</pc>
+<title>永洛城記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>
+<placeName>洛陽</placeName>名園記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>趙君錫遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>趙演撰<pc>）</pc>
+<persName>蘇轍</persName>
+<pc>《</pc>
+<title>儋耳手澤</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>穎濱遺老傳</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>蔡京<pc>《</pc>
+<title>黨人記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>吳栻<pc>《</pc>
+<title>雞林記</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>王雲<pc>《</pc>
+<title>雞林誌</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>韓文公曆官記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>程俱撰<pc>）</pc>羅誘<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>羅綺<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>宜春傳信錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>呂希哲<pc>《</pc>
+<title>呂氏家塾廣記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>安燾行狀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>榮輯撰<pc>）</pc>馬永易<pc>《</pc>
+<title>壽春雜誌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李季興<pc>《</pc>
+<title>東北諸蕃樞要</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>何述<pc>《</pc>
+<title>溫陵張賢母傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>洪興祖<pc>《</pc>
+<title>韓子年譜</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>孔傳<pc>《</pc>
+<title>闕裏祖庭記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>又<pc>《</pc>
+<title>東家雜記</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>趙令畤<pc>《</pc>
+<title>侯鯖錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王襄<pc>《</pc>
+<title>南陽先民傳</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>鄭熊<pc>《</pc>
+<title>番禺雜記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>範太史遺事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>範祖禹家傳</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>（</pc>並範衝編<pc>）</pc>
+<pc>《</pc>
+<title>
+<persName>韓琦</persName>定策事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>韓肖胄撰<pc>）</pc>喻子材<pc>《</pc>
+<title>豐公逸事</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>劉安世譚錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>韓瓘撰<pc>）</pc>
+<pc>《</pc>
+<title>種諤傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>趙起撰<pc>）</pc>劉棐<pc>《</pc>
+<title>孝行錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>汪若海<pc>《</pc>
+<title>中山麟書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>胡瑗言行錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>關注撰<pc>）</pc>胡呈<pc>《</pc>
+<title>道護錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>劉安世言行錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>範純仁言行錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>使高麗事纂</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>平燕錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="3">三</num>蘇言行</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>
+</p>
+</div>
+<div>
+<p>趙世卿<pc>《</pc>
+<title>安南邊說</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>洪適<pc>《</pc>
+<title>宋登科記</title>
+<pc>》</pc>
+<measure quantity="21" unit="chapters">
+<num value="21">二十一</num>卷</measure>董正工<pc>《</pc>
+<title>續家訓</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>洪邁<pc>《</pc>
+<title>皇族登科題名</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>俞觀能<pc>《</pc>
+<title>孝悌類鑒</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>馮忠嘉<pc>《</pc>
+<title>海道記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>淮西記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>朱熹<pc>《</pc>
+<title>
+<num value="5">五</num>朝名臣言行錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>
+<num value="3">三</num>朝名臣言行錄</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="4">四</num>朝名臣言行錄</title>
+<pc>》</pc>
+<measure quantity="16" unit="chapters">
+<num value="16">十六</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="4">四</num>朝名臣言行續錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>並不知何人編<pc>）</pc>
+</p>
+</div>
+<div>
+<p>呂祖謙<pc>《</pc>
+<title>閫範</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>費樞<pc>《</pc>
+<title>廉吏傳</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>徐度<pc>《</pc>
+<title>卻掃編</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>張景儉<pc>《</pc>
+<title>嵩嶽記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>史願<pc>《</pc>
+<title>北遼遺事</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>張隱<pc>《</pc>
+<title>文士傳</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>郴州記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>洪厓先生傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>開運陷虜事跡</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>殊俗異聞集</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>契丹機宜通要</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>契丹事跡</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>古今家誡</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>南嶽要錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>豪異秘錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>燕北雜錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>遼登科記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<date>
+<num value="3">三</num>國</date>史記</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>高得相<pc>《</pc>
+<title>海東<date>
+<num value="3">三</num>國</date>通曆</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>金富軾<pc>《</pc>
+<title>奉使語錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>董弅<pc>《</pc>
+<title>誕聖錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>王安石<pc>《</pc>
+<title>舒王日錄</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>倪思<pc>《</pc>
+<title>北征錄</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張舜民<pc>《</pc>
+<title>郴行錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>關耆孫<pc>《</pc>
+<title>建隆垂統略</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張浚<pc>《</pc>
+<title>建炎複辟平江實錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>龔頤正<pc>《</pc>
+<title>清江<num value="3">三</num>孔先生列傳譜述</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>邵伯溫<pc>《</pc>
+<title>邵氏聞見錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>陸遊<pc>《</pc>
+<title>老學庵筆記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>陳師道<pc>《</pc>
+<title>後山居士叢談</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>僧祖秀<pc>《</pc>
+<title>遊<placeName>洛陽</placeName>宮記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李元綱<pc>《</pc>
+<title>近世厚德錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>安丙<pc>《</pc>
+<title>靖蜀編</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>張<num value="9">九</num>成<pc>《</pc>
+<title>無垢心傳錄</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>黎良能<pc>《</pc>
+<title>讀書日錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>賀成大<pc>《</pc>
+<title>濂湘師友錄</title>
+<pc>》</pc>
+<measure quantity="33" unit="chapters">
+<num value="33">三十三</num>卷</measure>汪藻<pc>《</pc>
+<title>裔夷謀夏錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>又<pc>《</pc>
+<title>青唐錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>晁公武<pc>《</pc>
+<title>稽古後錄</title>
+<pc>》</pc>
+<measure quantity="35" unit="chapters">
+<num value="35">三十五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>昭德堂稿</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>
+<pc>《</pc>
+<title>讀書誌</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>嵩高樵唱</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>範成大<pc>《</pc>
+<title>吳門誌</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>攬轡錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>驂鸞錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>虞衡誌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>吳船誌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>洪邁<pc>《</pc>
+<title>贅稿</title>
+<pc>》</pc>
+<measure quantity="38" unit="chapters">
+<num value="38">三十八</num>卷</measure>又<pc>《</pc>
+<title>詞科進卷</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>《</pc>
+<title>蘇黃押韻</title>
+<pc>》</pc>
+<measure quantity="32" unit="chapters">
+<num value="32">三十二</num>卷</measure>張綱<pc>《</pc>
+<title>見聞錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>吳芾<pc>《</pc>
+<title>湖山遺老傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李燾<pc>《</pc>
+<title>陶潛新傳</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>又<pc>《</pc>
+<title>趙普別傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>右傳記類<num value="401">四百一</num>部<pc>，</pc>
+<measure quantity="1964" unit="chapters">
+<num value="1964">一千九百六十四</num>卷</measure>
+<pc>。</pc>
+<pc>（</pc>張<num value="9">九</num>成<pc>《</pc>
+<title>無垢心傳錄</title>
+<pc>》</pc>以下不著錄<num value="21">二十一</num>部<pc>，</pc>
+<measure quantity="312" unit="chapters">
+<num value="312">三百十二</num>卷</measure>
+<pc>）</pc>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

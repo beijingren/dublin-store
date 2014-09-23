@@ -1,0 +1,8279 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="zh">宋史</title>
+<title xml:lang="en">History of the Song</title>
+<author>
+<name>
+<choice>
+<sic>托克托</sic>
+</choice>
+</name>
+</author>
+</titleStmt>
+<publicationStmt>
+<p>This document is published under a CC Attribution-Share Alike License</p>
+</publicationStmt>
+<sourceDesc>
+<p>XXX</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="chapter" n="207">
+<div>
+<p>◎藝文<num value="6">六</num>苗銳<pc>《</pc>
+<title>新刪定廣聖曆</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>僧<num value="1">一</num>行<pc>《</pc>
+<title>開元大衍曆議</title>
+<pc>》</pc>
+<measure quantity="13" unit="chapters">
+<num value="13">十三</num>卷</measure>啟玄子<pc>《</pc>
+<title>天元玉冊</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>甄鸞<pc>《</pc>
+<title>
+<num value="5">五</num>曹算術</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>海島算術</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>趙君卿<pc>《</pc>
+<title>周髀算經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>張丘建<pc>《</pc>
+<title>算經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>夏侯陽<pc>《</pc>
+<title>算經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>王孝通<pc>《</pc>
+<title>緝古算經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>謝察微<pc>《</pc>
+<title>算經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李籍<pc>《</pc>
+<title>
+<num value="9">九</num>章算經音義</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>周髀算經音義</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李紹穀<pc>《</pc>
+<title>求<num value="1">一</num>指蒙算術玄要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>郭獻之<pc>《</pc>
+<title>唐寶應<num value="5">五</num>紀曆</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>徐承嗣<pc>《</pc>
+<title>唐建中貞元曆</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>邊岡<pc>《</pc>
+<title>唐景福崇玄曆</title>
+<pc>》</pc>
+<measure quantity="13" unit="chapters">
+<num value="13">十三</num>卷</measure>
+<pc>《</pc>
+<title>大唐長曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>馬重績<pc>《</pc>
+<title>晉天福調元曆</title>
+<pc>》</pc>
+<measure quantity="23" unit="chapters">
+<num value="23">二十三</num>卷</measure>王處訥<pc>《</pc>
+<title>周廣順明元曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>建隆應天曆</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>王樸<pc>《</pc>
+<title>周顯德欽天曆</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+<pc>《</pc>
+<title>蜀武成永昌曆</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>唐保大齊政曆</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>苗訓<pc>《</pc>
+<title>太平乾元曆</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>
+<pc>《</pc>
+<title>太平興國<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>新修曆經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>史序<pc>《</pc>
+<title>儀天曆</title>
+<pc>》</pc>
+<measure quantity="16" unit="chapters">
+<num value="16">十六</num>卷</measure>曹士蒍<pc>《</pc>
+<title>
+<num value="7">七</num>曜符天曆</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="7">七</num>曜符天人元曆</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>楊緯<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>繹<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>符天曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王公佐<pc>《</pc>
+<title>中正曆</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>正象曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李思議<pc>《</pc>
+<title>重注曹士蒍小曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="7">七</num>曜符天曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>大衍通玄鑒新曆</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>沈括<pc>《</pc>
+<title>熙寧奉元曆</title>
+<pc>》</pc>
+<num value="1">一</num>部<pc>（</pc>卷亡<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>熙寧奉元曆經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>立成</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>
+<pc>《</pc>
+<title>備草</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>《</pc>
+<title>比較交蝕</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>衛樸<pc>《</pc>
+<title>
+<num value="7">七</num>曜細行</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>新曆正經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>義略</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>立成</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>隨經備草</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="7">七</num>曜細行</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>長曆</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>（</pc>並孫思恭注<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>大衍曆經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>大衍曆立成</title>
+<pc>》</pc>
+<measure quantity="11" unit="chapters">
+<num value="11">十一</num>卷</measure>
+<pc>《</pc>
+<title>大衍曆議略</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>大衍議</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>宣明曆經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>宣明曆立成</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>《</pc>
+<title>宣明曆要略</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>大衍曆經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>正元曆立成</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>《</pc>
+<title>崇元曆經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>崇元曆立成</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+<pc>《</pc>
+<title>調元曆經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>調元曆立成</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>《</pc>
+<title>調元曆草</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>《</pc>
+<title>欽天曆經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>欽天曆立成</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>欽天曆草</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>應天曆經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>應天曆立成</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>乾元曆經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>乾元曆立成</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>儀天曆經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>儀天曆立成</title>
+<pc>》</pc>
+<measure quantity="13" unit="chapters">
+<num value="13">十三</num>卷</measure>
+<pc>《</pc>
+<title>崇天曆經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>崇天曆立成</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>明天曆經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>明天曆立成</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+<pc>《</pc>
+<title>明天曆略</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>符天曆</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>姚舜輔<pc>《</pc>
+<title>蝕神隱耀曆</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>丘濬<pc>《</pc>
+<title>霸國環周立成曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>陰陽集正曆</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>曆日纂聖精要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>曆樞</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>難逃論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>符天行宮</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>轉天圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<measure quantity="10000" unit="years">
+<num value="10000">萬</num>歲</measure>日出入晝夜立成曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="5">五</num>星長曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>正象曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>胡秀林<pc>《</pc>
+<title>正象曆經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>章浦<pc>《</pc>
+<title>符天<num value="9">九</num>曜通元立成法</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>氣神經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>氣神鈐曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>氣神隨日用局圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>莊守德<pc>《</pc>
+<title>
+<num value="7">七</num>曜氣神歌訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>呂才<pc>《</pc>
+<title>刻漏經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>錢明逸<pc>《</pc>
+<title>西國<num value="7">七</num>曜曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>關子明注<pc>《</pc>
+<title>安修睦都利聿斯訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>聿斯隱經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>聿斯妙利要旨</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李淳風注釋<pc>《</pc>
+<title>
+<num value="9">九</num>章經要略</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又注釋<pc>《</pc>
+<title>孫子算經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>注王孝通<pc>《</pc>
+<title>
+<num value="5">五</num>經算法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>注甄鸞<pc>《</pc>
+<title>
+<num value="5">五</num>曹算法</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>劉微<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>徽<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>
+<num value="9">九</num>章算田草</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王孝通<pc>《</pc>
+<title>緝古算經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>程柔<pc>《</pc>
+<title>
+<num value="5">五</num>曹算經求<num value="1">一</num>法</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>魯靖<pc>《</pc>
+<title>
+<num value="5">五</num>曹時要算術</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="5">五</num>曹乘除見<num value="1">一</num>捷例算法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>夏翰<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>翱<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>新重演議海島算經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>甄鸞注徐嶽<pc>《</pc>
+<title>大衍算術法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>謝察微<pc>《</pc>
+<title>發蒙算經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>僧<num value="1">一</num>行<pc>《</pc>
+<title>心機算術括<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>格<pc>”</pc>
+<pc>）</pc>
+</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>僧棲岩注<pc>）</pc>
+</p>
+</div>
+<div>
+<p>徐仁美<pc>《</pc>
+<title>增成玄<num value="1">一</num>算經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>陳從運<pc>《</pc>
+<title>得<num value="1">一</num>算經</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="3">三</num>問田算術</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>龍受益<pc>《</pc>
+<title>算法</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>求<num value="1">一</num>算術化零歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>新易<num value="1">一</num>法算範<num value="9">九</num>例要訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>徐嶽<pc>《</pc>
+<title>術數記遺</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>合元<num value="10000">萬</num>分曆</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>作者名術<pc>，</pc>不知姓<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>注<num value="9">九</num>章算經</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>
+<pc>（</pc>魏劉徽<pc>、</pc>唐李淳風注<pc>）</pc>
+<pc>《</pc>
+<title>孫子算經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>不知名<pc>）</pc>
+<pc>《</pc>
+<title>
+<num value="5">五</num>曹算經</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>李淳風等注<pc>）</pc>
+<pc>《</pc>
+<title>長慶宣明大曆</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<measure quantity="10000" unit="years">
+<num value="10000">萬</num>年</measure>曆</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>《</pc>
+<title>青蘿妙度真經大曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>行漏法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>太始天元玉冊截法</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>求<num value="1">一</num>算法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>細曆書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>玉曆通政經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>
+</p>
+</div>
+<div>
+<p>燕肅<pc>《</pc>
+<title>蓮花漏法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>錢明逸<pc>《</pc>
+<title>刻漏規矩</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王普<pc>《</pc>
+<title>小漏款職</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>官曆刻漏圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>衛樸<pc>《</pc>
+<title>奉元曆經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>觀天曆經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>紹聖<pc>、</pc>元符頒行<pc>）</pc>姚舜輔<pc>《</pc>
+<title>紀元曆經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>裴伯壽<pc>、</pc>陳得<num value="1">一</num>
+<pc>《</pc>
+<title>統元曆經</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>統元曆<num value="5">五</num>星立成</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>統元曆盈縮朏朒立成</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>統元曆日出入氣刻立成</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>統元曆義</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>統元<num value="7">七</num>曜細行曆</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>統元曆氣朔<num value="8">八</num>行草</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>統元曆考古日食</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="3">三</num>曆會同集</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>紹興初撰<pc>，</pc>不知名<pc>）</pc>
+</p>
+</div>
+<div>
+<p>張祚注<pc>《</pc>
+<title>法算<num value="3">三</num>平化零歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>龍受益法<pc>）</pc>王守忠<pc>《</pc>
+<title>求<num value="1">一</num>術歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>算範要訣</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>明算指掌</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>江本<pc>《</pc>
+<title>
+<num value="1">一</num>位算法</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>任弘濟<pc>《</pc>
+<title>
+<num value="1">一</num>位算法問答</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>楊鍇明<pc>《</pc>
+<title>微算經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>法算機要賦</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>法算口訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>算法秘訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>算術玄要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉孝榮<pc>《</pc>
+<title>新曆考古春秋日食</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>新曆考漢魏周隋日月交食</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>新曆考唐交食</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>新曆氣朔<num value="8">八</num>行</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>強弱月格法數</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>賈憲<pc>《</pc>
+<title>黃帝<num value="9">九</num>章算經細草</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>張宋圖<pc>《</pc>
+<title>史記律曆誌訛辨</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>儀象法要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>紹聖中編<pc>）</pc>
+<pc>《</pc>
+<title>細行曆書</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>（</pc>起慶元<num value="57">庚申</num>
+<pc>，</pc>至嘉定<num value="16">己卯</num>
+<pc>，</pc>太史局進<pc>）</pc>
+</p>
+</div>
+<div>
+<p>右曆算類<num value="165">一百六十五</num>部<pc>，</pc>
+<measure quantity="598" unit="chapters">
+<num value="598">五百九十八</num>卷</measure>
+<pc>。</pc>
+<pc>《</pc>
+<title>風後握機</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>晉馬隆略序<pc>）</pc>
+<pc>《</pc>
+<title>
+<num value="6">六</num>韜</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>
+<pc>《</pc>
+<title>司馬兵法</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>齊司馬穰苴撰<pc>）</pc>
+</p>
+</div>
+<div>
+<p>孫武<pc>《</pc>
+<title>孫子</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>吳起<pc>《</pc>
+<title>吳子</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>黃帝秘珠<num value="3">三</num>略</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>陰符<num value="24">二十四</num>機</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>握機圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>決勝孤虛集</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>太公兵書要訣</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>朱服校定<pc>《</pc>
+<title>
+<num value="6">六</num>韜</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又校定<pc>《</pc>
+<title>孫子</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>校定<pc>《</pc>
+<title>司馬法</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>校定<pc>《</pc>
+<title>吳子</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>校定<pc>《</pc>
+<title>
+<num value="3">三</num>略</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>魏武帝注<pc>《</pc>
+<title>孫子</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>蕭吉注<pc>（</pc>或題曹<pc>、</pc>蕭注<pc>）</pc>
+<pc>《</pc>
+<title>孫子</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>賈林注<pc>《</pc>
+<title>孫子</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>陳皞注<pc>《</pc>
+<title>孫子</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>宋奇<pc>《</pc>
+<title>孫子解</title>
+<pc>》</pc>並<pc>《</pc>
+<title>武經簡要</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>吳章注<pc>《</pc>
+<title>司馬穰苴兵法</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>吳起<pc>《</pc>
+<title>玉帳陰符</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>白起<pc>《</pc>
+<title>陣書<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>圖<pc>”</pc>
+<pc>）</pc>
+</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>神妙行軍法</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>戰國策</title>
+<pc>》</pc>
+<measure quantity="33" unit="chapters">
+<num value="33">三十三</num>卷</measure>黃石公<pc>《</pc>
+<title>神光輔星秘訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>兵法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="3">三</num>鑒圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>兵書統要</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="3">三</num>略秘要</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>成氏注<pc>《</pc>
+<title>
+<num value="3">三</num>略</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>諸葛亮<pc>《</pc>
+<title>行兵法</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>又<pc>《</pc>
+<title>用兵法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>行軍指掌</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>占風雲氣圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>兵書</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>陶侃<pc>《</pc>
+<title>
+<num value="6">六</num>軍鑒要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李靖<pc>《</pc>
+<title>韜鈐秘術</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>總要</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="60">六十</num>
+<num value="1">甲子</num>厭勝法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>兵書</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>占風雪<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>雲<pc>”</pc>
+<pc>）</pc>氣</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>風雲論</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="3">三</num>軍水鑒</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>用兵手訣</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+<pc>《</pc>
+<title>出軍占風氣候</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>衛國公手記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李世勣<pc>《</pc>
+<title>
+<num value="60">六十</num>
+<num value="1">甲子</num>內外行兵法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李淳風<pc>《</pc>
+<title>諸家秘要</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>又<pc>《</pc>
+<title>行軍明時秘訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>太白華蓋法</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>雲氣營寨占</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>行軍曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李筌<pc>《</pc>
+<title>通幽鬼訣</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>又<pc>《</pc>
+<title>軍旅<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>放<pc>”</pc>
+<pc>）</pc>指歸</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>北帝武威經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>青囊托守勝敗歌</title>
+<pc>》</pc>並<pc>《</pc>
+<title>營野戰</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李光弼<pc>《</pc>
+<title>將律</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>武記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="9">九</num>天察氣訣</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>玄女厭陳法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>兵要式</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>行兵法</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>兵法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>雜占法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="6">六</num>甲陰符兵法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>軍謀前鑒</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>兵家正書</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>閫外紀<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>記<pc>”</pc>
+<pc>）</pc>事</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>李氏<pc>《</pc>
+<title>秘要兵書</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>又<pc>《</pc>
+<title>秘要兵術</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>對敵權變逆順法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>佐國玄機</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>炮經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>總戎誌</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李鼎祚<pc>《</pc>
+<title>兵鈐手曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>許子兵勝苑</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>統軍玉鑒錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張守<num value="1">一</num>
+<pc>《</pc>
+<title>鑿門詩</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>秘寶興軍集</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>胡<num value="10000">萬</num>頃<pc>《</pc>
+<title>軍鑒式</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>王適<pc>《</pc>
+<title>行軍立成<num value="72">七十二</num>局</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>安營臨陣觀災氣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>決戰勝負圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>風雲氣象備急占</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>秘寶風雲歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="9">九</num>宮軍要秘術</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>倚馬立成鑒圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>出軍占怪曆</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>羅子{巳山}<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>岊<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>神機武略歌</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>易靜<pc>《</pc>
+<title>神機武略歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>行軍占風氣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>軍占要略</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>鄭先忠<pc>《</pc>
+<title>軍機討略策</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>古今兵略</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>論天鏡<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>鑒<pc>”</pc>
+<pc>）</pc>出戰要訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>將兵秘要法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>武師左領記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>牛洪道<pc>《</pc>
+<title>玄機立成法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>孤虛明堂圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>軍用立成</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>何延錫<pc>《</pc>
+<title>辨解序</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>紀勳<pc>《</pc>
+<title>軍國要製</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>將軍總錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李遠<pc>《</pc>
+<title>武孝經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王巒<pc>《</pc>
+<title>行軍廣要算經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>金符經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<measure quantity="12" unit="months">
+<num value="12">十二</num>月</measure>立成陣圖法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>行軍走馬立成法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>立成掌中法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>行軍要略分野星圖法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>黃道法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>徐漢卿<pc>《</pc>
+<title>製勝略</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>牟知白<pc>《</pc>
+<title>專征小格略</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>圖南兵略</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>從征錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>出軍別錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>兵書總要</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>兵策秘訣</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="10000">萬</num>勝訣</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>戰鬥秘訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>英雄龜鑒</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>兵訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>隨軍要訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>軍謀要術</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>韜鈐秘要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>軍旅要術</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>軍秘禳厭術</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>占軍機勝負龜訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>訓將勝術</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>兵書手鑒</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>尉繚子</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>戰國時人<pc>）</pc>
+<pc>《</pc>
+<title>常禳經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>燕昭王太子撰<pc>，</pc>蓋依托<pc>）</pc>黃石公<pc>《</pc>
+<title>
+<num value="3">三</num>略</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>素書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>張良所傳<pc>）</pc>諸葛亮<pc>《</pc>
+<title>將苑</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>兵書手訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>文武奇編</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>武侯<num value="8">八</num>陣圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>鬼穀天甲兵書常禳術</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>梁昭<date>明</date>
+<persName>太子</persName>撰<pc>）</pc>陶弘景<pc>《</pc>
+<title>真人水照</title>
+<pc>》</pc>
+<measure quantity="13" unit="chapters">
+<num value="13">十三</num>卷</measure>李靖<pc>《</pc>
+<title>
+<num value="6">六</num>軍鏡</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="60">六十</num>
+<num value="1">甲子</num>禳敵克應決勝術</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>玉帳經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>李靖兵鈐新書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="9">九</num>天玄女孤虛法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李淳風<pc>《</pc>
+<title>懸鏡經</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>郭代公安邊策</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>唐郭震撰<pc>）</pc>李筌<pc>《</pc>
+<title>太白陰經</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>占<num value="5">五</num>行星度吉凶訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>注<pc>《</pc>
+<title>孫子</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>閫外春秋</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>李光弼<pc>《</pc>
+<title>統軍靈轄秘策</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="5">五</num>家注孫子</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>魏武帝<pc>、</pc>杜牧<pc>、</pc>陳皞<pc>、</pc>賈隱林<pc>、</pc>孟氏<pc>）</pc>杜牧<pc>《</pc>
+<title>孫子注</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>裴緒<pc>《</pc>
+<title>新令</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>曹<pc>、</pc>杜注<pc>《</pc>
+<title>孫子</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>
+<persName>曹操</persName>
+<pc>、</pc>杜牧<pc>）</pc>
+</p>
+</div>
+<div>
+<p>劉玄之<pc>《</pc>
+<title>行軍月令</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李大著<pc>《</pc>
+<title>江東經略</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>綦先生兵書</title>
+<pc>》</pc>
+<measure quantity="16" unit="chapters">
+<num value="16">一十六</num>卷</measure>
+<pc>（</pc>並不知名<pc>）</pc>
+</p>
+</div>
+<div>
+<p>許洞<pc>《</pc>
+<title>虎鈐兵經</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>樂產<pc>《</pc>
+<title>太<num value="1">一</num>王佐秘珠</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>盧元<pc>《</pc>
+<title>韜珠秘訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>黃帝太公兵法</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>虞彥行進<pc>）</pc>
+</p>
+</div>
+<div>
+<p>趙善譽<pc>《</pc>
+<title>南北攻守類考</title>
+<pc>》</pc>
+<measure quantity="63" unit="chapters">
+<num value="63">六十三</num>卷</measure>柴叔達<pc>《</pc>
+<title>浮光戰守錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>衝晦郭氏兵學</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+<pc>（</pc>郭雍述<pc>）</pc>
+<pc>《</pc>
+<title>論<num value="5">五</num>府形勝<num value="10000">萬</num>言書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>閫外策鈐</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>經武略</title>
+<pc>》</pc>
+<measure quantity="290" unit="chapters">
+<num value="290">二百九十</num>卷</measure>
+<pc>《</pc>
+<title>治亂貫怪記</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="3">三</num>賢安邊策</title>
+<pc>》</pc>
+<measure quantity="11" unit="chapters">
+<num value="11">十一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>邊防備衛策</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>出軍占候歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>通玄玉鑒</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>握鏡訣怪祥歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>玄女遁甲經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>李仆射馬前訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>防城動用</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>彭門玉帳訣錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>遁甲專征賦</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>帝王中樞賦</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>長世論</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>武備圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>兵鑒</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>陰符握機運宜要</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>仁宗<pc>《</pc>
+<title>攻守圖術</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>曾公亮<pc>《</pc>
+<title>武經總要</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>蔡挺<pc>《</pc>
+<title>裕陵邊機處分</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>符彥卿<pc>《</pc>
+<title>人事軍律</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>曾致堯<pc>《</pc>
+<title>清邊前要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王洙<pc>《</pc>
+<title>
+<num value="3">三</num>朝經武聖略</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>清邊武略</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+<pc>《</pc>
+<title>風角占</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>康定間司天台集<pc>）</pc>任鎮<pc>《</pc>
+<title>康定論兵</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>趙珣<pc>《</pc>
+<title>聚米圖經</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>慶曆軍錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>曾公奭<pc>《</pc>
+<title>軍政備覽</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>耿恭<pc>《</pc>
+<title>平戎議</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>邊臣要略</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>趙瑜<pc>《</pc>
+<title>安邊致勝策</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>呂夏卿<pc>《</pc>
+<title>兵誌</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>丘濬<pc>《</pc>
+<title>征蠻議</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>阮逸<pc>《</pc>
+<title>野言</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉氵扈<pc>《</pc>
+<title>備邊機要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>薛向<pc>《</pc>
+<title>陝西建明</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>吉天保<pc>《</pc>
+<title>
+<num value="10">十</num>家孫子會注</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王韶<pc>《</pc>
+<title>熙河陣法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>韓縝<pc>《</pc>
+<title>元豐清野備敵</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>何去非<pc>《</pc>
+<title>
+<num value="3">三</num>備略講義</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>《</pc>
+<title>備論</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>戴溪<pc>《</pc>
+<title>曆代將鑒博議</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>張文伯<pc>《</pc>
+<title>
+<num value="100">百</num>將新書</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>劉溫潤<pc>《</pc>
+<title>西夏須知</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王維清<pc>《</pc>
+<title>武昌要訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>徐矸<pc>《</pc>
+<title>司命兵機秘略</title>
+<pc>》</pc>
+<measure quantity="28" unit="chapters">
+<num value="28">二十八</num>卷</measure>徐確<pc>《</pc>
+<title>總夫要錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張預<pc>《</pc>
+<title>集注<num value="100">百</num>將傳</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>餘壹<pc>《</pc>
+<title>兵籌類要</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>葉上達<pc>《</pc>
+<title>神武秘略論</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>夏休<pc>《</pc>
+<title>兵法</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>汪槔<pc>《</pc>
+<title>進複府兵議</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>古今屯田總議</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+</p>
+</div>
+<div>
+<p>遊師雄<pc>《</pc>
+<title>元祐分疆錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>崇寧邊略</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>不知作者<pc>）</pc>劉荀<pc>《</pc>
+<title>建炎德安守禦錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>度濟<pc>《</pc>
+<title>兵錄</title>
+<pc>》</pc>
+<measure quantity="80" unit="chapters">
+<num value="80">八十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>西齋兵議</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>文覺兄弟問答兵機<pc>）</pc>章穎<pc>《</pc>
+<title>
+<num value="4">四</num>將傳</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>神機靈秘圖</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>軍鑒圖</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>紀重政軍機決勝立成圖</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>兵書氣候旗勢圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>諸家兵法秘訣</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>行師類要</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>古今兵書</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="5">五</num>行陣決</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>會稽兵術</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="60">六十</num>
+<num value="1">甲子</num>出軍秘訣<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>略<pc>”</pc>
+<pc>）</pc>
+</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>玄珠要訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>軍墊兵鈐</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>韜鈐秘錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>將略兵機論</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="3">三</num>軍指要</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>纂下<num value="6">六</num>甲營圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="57">五十七</num>陣出軍<num value="1">甲子</num>
+</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>行軍玄機<num value="100">百</num>術法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>兵書出軍雜占</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>兵法機要</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>神兵要術</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>神兵機要</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>總戎策</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>兵書精訣</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>權經對</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>行軍用兵玄機</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>兵機要論</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>行軍備曆</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>
+<pc>《</pc>
+<title>兵機簡要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>兵談</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>韓霸<pc>《</pc>
+<title>水陸陣圖</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>強弩備術</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="9">九九</num>陣圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>軍林要覽</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>製勝權略</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>兵書精妙玄術</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>兵籍要樞</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>太<num value="1">一</num>行軍秘術詩</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>戎機</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>通神機要</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>劉玄<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>定<pc>”</pc>
+<pc>）</pc>之<pc>《</pc>
+<title>兵家月令</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>軍令備急</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>湯渭<pc>《</pc>
+<title>天<num value="1">一</num>兵機舉要歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王洪暉<pc>《</pc>
+<title>行軍月令</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>裴守<num value="1">一</num>
+<pc>《</pc>
+<title>軍誡</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>兵家正史</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>行軍周易占</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張從實<pc>《</pc>
+<title>將律</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>焦大憲<pc>《</pc>
+<title>兵易歌神兵苑</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>星度用</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>將術</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>行兵攻具術</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>行兵攻具圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>兵家秘寶</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>秘寶書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>軍律</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>張昭<pc>《</pc>
+<title>製旨兵法</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>王洙<pc>《</pc>
+<title>青囊括</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>杜希全<pc>《</pc>
+<title>兵書要訣</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>釋利正<pc>《</pc>
+<title>長慶人事軍律</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>董承祖<pc>《</pc>
+<title>至德元寶玉函經</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>王公亮<pc>《</pc>
+<title>行師類要</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+</p>
+</div>
+<div>
+<p>劉可久<pc>《</pc>
+<title>契神經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李洿<pc>《</pc>
+<title>靈關訣</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>（</pc>
+<num value="1">一</num>名<pc>《</pc>
+<title>靈關集益智</title>
+<pc>》</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>兵機法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>太<num value="1">一</num>厭禳法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="5">五</num>行陣圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>兵論</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="60">六十</num>
+<num value="1">甲子</num>行軍法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>會稽兵家術日月占</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>統戎式令</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="6">六</num>甲<num value="5">五</num>神用軍法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>要訣兵法立成歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="6">六</num>甲攻城破敵法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>馬前秘訣兵書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>石普<pc>《</pc>
+<title>軍儀條目</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>仁宗<pc>《</pc>
+<title>神武秘略</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>又<pc>《</pc>
+<title>行軍環珠</title>
+<pc>》</pc>
+<num value="1">一</num>部<pc>（</pc>卷亡<pc>）</pc>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>
+<num value="4">四</num>路獸守約束</title>
+<pc>》</pc>
+<num value="1">一</num>部<pc>（</pc>卷亡<pc>）</pc>
+<pc>《</pc>
+<title>軍誡</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>武記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>定遠安邊策</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>新集兵書要訣</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>兵書要略</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>揀將要略</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>兵論</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>符彥卿<pc>《</pc>
+<title>
+<num value="5">五</num>行陣圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>新集行軍月令</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>雲氣圖</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>《</pc>
+<title>統戎式鏡</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>行軍氣候秘法</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>天子氣章雲氣圖</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>《</pc>
+<title>預知歌</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>從軍占</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>兵書論語</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>彭門玉帳歌</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>太<num value="1">一</num>行軍<num value="60">六十</num>
+<num value="1">甲子</num>禳厭秘術詩</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>兵機舉要陽謂歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>郯子<pc>《</pc>
+<title>新修<num value="6">六</num>壬大玉帳歌</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>郭固<pc>《</pc>
+<title>軍機決勝立成圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>兵法攻守圖術</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>王存<pc>《</pc>
+<title>樞密院諸房例冊</title>
+<pc>》</pc>
+<measure quantity="142" unit="chapters">
+<num value="142">一百四十二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>蔡挺<pc>《</pc>
+<title>教閱陣圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>林廣<pc>《</pc>
+<title>陣法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王拱辰<pc>《</pc>
+<title>平蠻雜議</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>敵樓馬麵法式及申明條約並修城女牆法</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>楊伋<pc>《</pc>
+<title>兵法圖議</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>韓縝<pc>《</pc>
+<title>樞密院<num value="5">五</num>房宣式</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>論<num value="5">五</num>府形勝<num value="10000">萬</num>言書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>方埛<pc>《</pc>
+<title>重演握奇</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>握奇陣圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>梁燾<pc>《</pc>
+<title>安南獻議文字並目錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>愈見禦戎</title>
+<pc>》</pc>
+<num value="10">十</num>冊韓絳<pc>《</pc>
+<title>宣撫經製錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王革<pc>《</pc>
+<title>政和營繕軍補錄序</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>餘台<pc>《</pc>
+<title>兵籌類要</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+<pc>《</pc>
+<title>溱播州勝兵法</title>
+<pc>》</pc>
+<num value="2">二</num>部任諒<pc>《</pc>
+<title>兵書</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>右兵書類<num value="347">三百四十七</num>部<pc>，</pc>
+<measure quantity="1956" unit="chapters">
+<num value="1956">一千九百五十六</num>卷</measure>
+<pc>。</pc>李廣<pc>《</pc>
+<title>射評要錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>梁冀<pc>《</pc>
+<title>彈棋經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>梁元帝<pc>《</pc>
+<title>畫山水鬆石格</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>姚最<pc>《</pc>
+<title>續畫品</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李嗣真<pc>《</pc>
+<title>畫後品</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>竇蒙<pc>《</pc>
+<title>畫錄拾遺</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張又新<pc>《</pc>
+<title>畫總載</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>裴孝源<pc>《</pc>
+<title>貞觀公私畫錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李淳風<pc>《</pc>
+<title>曆監天元主物簿</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>皇甫鬆<pc>《</pc>
+<title>醉鄉日月</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>張彥遠<pc>《</pc>
+<title>曆代名畫記</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>韋蘊<pc>《</pc>
+<title>
+<num value="9">九</num>鏡射經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>唐畫斷</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王琚<pc>《</pc>
+<title>射經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王堅道<pc>《</pc>
+<title>射訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>荊浩<pc>《</pc>
+<title>筆法記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>李氏墨經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>張學士棋經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>宋景真<pc>《</pc>
+<title>唐賢名畫錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>墨圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>釣鼇圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>端硯圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>畫總錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>嘯真</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>樗蒲圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>並不知作者<pc>）</pc>蘇易簡<pc>《</pc>
+<title>文房<num value="4">四</num>譜</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李永德<pc>《</pc>
+<title>點頭文</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李畋<pc>《</pc>
+<title>益州名畫錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>唐績<pc>《</pc>
+<title>硯圖譜</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>紀亶<pc>《</pc>
+<title>廣弓經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王德用<pc>《</pc>
+<title>神射式</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉懷德<pc>《</pc>
+<title>射法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>趙景<pc>《</pc>
+<title>小酒令</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>趙明遠<pc>《</pc>
+<title>皇宋進士彩選</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>蔡襄<pc>《</pc>
+<title>墨譜</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>卜恕<pc>《</pc>
+<title>投壺新律</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉敞<pc>《</pc>
+<title>漢官儀</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>亦投子選也<pc>）</pc>唐詢<pc>《</pc>
+<title>硯錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>竇譝<pc>《</pc>
+<title>飲戲助歡</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>郭若虛<pc>《</pc>
+<title>圖畫見聞誌</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>司馬光<pc>《</pc>
+<title>投壺新格</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王<pc>《</pc>
+<title>投壺禮格</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>劉道醇<pc>《</pc>
+<title>新編<date>
+<num value="5">五</num>代</date>名畫記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>宋朝畫評</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>李誡<pc>《</pc>
+<title>新集木書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>米芾<pc>《</pc>
+<title>畫史</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>任權<pc>《</pc>
+<title>弓箭啟蒙</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張仲商<pc>《</pc>
+<title>射訓</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>馬思永<pc>《</pc>
+<title>射訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王越石<pc>《</pc>
+<title>射議</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李孝美<pc>《</pc>
+<title>墨苑</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李廌<pc>《</pc>
+<title>德隅堂畫品</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>溫子融<pc>《</pc>
+<title>畫鑒</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>王慎修<pc>《</pc>
+<title>宣和彩選</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳日華<pc>《</pc>
+<title>金淵利術</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>黃鑄<pc>《</pc>
+<title>玉簽詩</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李洪<pc>《</pc>
+<title>續文房<num value="4">四</num>譜</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>何珪<pc>《</pc>
+<title>射義提要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>射經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>張仲素<pc>《</pc>
+<title>射經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>田逸<pc>《</pc>
+<title>射經</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>王琚<pc>《</pc>
+<title>射經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="9">九</num>鑒射圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>徐鍇<pc>《</pc>
+<title>射書</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>韋蘊<pc>《</pc>
+<title>射訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李章<pc>《</pc>
+<title>射訣</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張子霄<pc>《</pc>
+<title>神射訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李靖<pc>《</pc>
+<title>弓訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>法射指訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>黃損<pc>《</pc>
+<title>射法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張守忠<pc>《</pc>
+<title>射記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>弓訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>呂惠卿<pc>《</pc>
+<title>弓試</title>
+<pc>》</pc>
+<num value="1">一</num>部<pc>（</pc>卷亡<pc>）</pc>上官儀<pc>《</pc>
+<title>投壺經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>鍾離景伯<pc>《</pc>
+<title>草書洪範無逸中庸韻譜</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>唐績<pc>《</pc>
+<title>棋圖</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>金穀園<num value="9">九</num>局譜</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王積薪等<pc>《</pc>
+<title>棋訣</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>棋勢論並圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>徐鉉<pc>《</pc>
+<title>棋圖義例</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>棋勢</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>楊希蔡<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>璨<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>
+<num value="4">四</num>聲角圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>雙泉圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>玉溪圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>蔣元吉等<pc>《</pc>
+<title>棋勢</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>太宗<pc>《</pc>
+<title>棋圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>局譜</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>韋延<pc>《</pc>
+<title>棋圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>奕棋經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>棋經要略</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王子京<pc>《</pc>
+<title>彈棋圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>樗蒲經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>雙陸格</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李郃<pc>《</pc>
+<title>骰子彩選格</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>劉蒙叟<pc>《</pc>
+<title>彩選格</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>尋仙彩選</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+<pc>《</pc>
+<title>葉子格</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李煜妻周氏<pc>《</pc>
+<title>係蒙小葉子格</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>偏金葉子格</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>小葉子例</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>謝赫<pc>《</pc>
+<title>古今畫品</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>徐浩<pc>《</pc>
+<title>畫品</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>曹仲連<pc>《</pc>
+<title>畫評</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李嗣真<pc>《</pc>
+<title>畫後品</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>胡嶠<pc>《</pc>
+<title>廣梁朝畫目</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>王叡<pc>《</pc>
+<title>不絕筆畫圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>郭若虛<pc>《</pc>
+<title>圖畫見聞誌</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>朱遵度<pc>《</pc>
+<title>漆經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>馬經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>辨馬圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>馬口齒訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>醫馬經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>明堂灸馬經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>論駝經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>療駝經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>醫駝方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>右雜藝術類<num value="116">一百十六</num>部<pc>，</pc>
+<measure quantity="227" unit="chapters">
+<num value="227">二百二十七</num>卷</measure>
+<pc>。</pc>陸機<pc>《</pc>
+<title>會要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>朱澹遠<pc>《</pc>
+<title>語麗</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>杜公瞻<pc>《</pc>
+<title>編珠</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>祖孝徵<pc>《</pc>
+<title>修文殿禦覽</title>
+<pc>》</pc>
+<measure quantity="360" unit="chapters">
+<num value="360">三百六十</num>卷</measure>歐陽詢<pc>《</pc>
+<title>藝文類聚</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+</p>
+</div>
+<div>
+<p>虞世南<pc>《</pc>
+<title>北堂書鈔</title>
+<pc>》</pc>
+<measure quantity="160" unit="chapters">
+<num value="160">一百六十</num>卷</measure>高士廉<pc>、</pc>房玄齡<pc>《</pc>
+<title>文思博要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>徐堅<pc>《</pc>
+<title>初學記</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>燕公事對</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張鷟<pc>《</pc>
+<title>龍筋鳳髓判</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>杜佑<pc>《</pc>
+<title>通典</title>
+<pc>》</pc>
+<measure quantity="200" unit="chapters">
+<num value="200">二百</num>卷</measure>陸贄<pc>《</pc>
+<title>備舉文言</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>張仲素<pc>《</pc>
+<title>詞圃</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>白居易<pc>《</pc>
+<title>白氏<num value="6">六</num>帖</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>前後<num value="6">六</num>帖</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>（</pc>前白居易撰<pc>，</pc>後宋孔傳撰<pc>）</pc>李翰<pc>《</pc>
+<title>蒙求</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>白廷翰<pc>《</pc>
+<title>唐蒙求</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>劉綺莊<pc>《</pc>
+<title>集類</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>李商隱<pc>《</pc>
+<title>金鑰</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>崔鉉<pc>《</pc>
+<title>弘文館續會要</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>李途<pc>《</pc>
+<title>記室新書</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>顏休<pc>《</pc>
+<title>文飛應韶</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>高測<pc>《</pc>
+<title>韻對</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>劉揚名<pc>《</pc>
+<title>戚苑纂要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>又<pc>《</pc>
+<title>戚苑英華</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>孟詵<pc>《</pc>
+<title>錦帶書</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>喬舜封<pc>《</pc>
+<title>古今語要</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>蘇冕<pc>《</pc>
+<title>古今國典</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>又<pc>《</pc>
+<title>會要</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>章得象<pc>《</pc>
+<title>
+<date>國朝</date>會要</title>
+<pc>》</pc>
+<measure quantity="150" unit="chapters">
+<num value="150">一百五十</num>卷</measure>
+<pc>（</pc>宋初至慶曆<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>
+<pc>）</pc>大孝<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>存<pc>”</pc>
+<pc>）</pc>僚<pc>《</pc>
+<title>禦覽要略</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>《</pc>
+<title>冊府元龜音義</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王欽若<pc>《</pc>
+<title>彤管懿範</title>
+<pc>》</pc>
+<measure quantity="70" unit="chapters">
+<num value="70">七十</num>卷</measure>
+<pc>《</pc>
+<title>目</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>彤管懿範音義</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>歐陽詢<pc>《</pc>
+<title>麟角</title>
+<pc>》</pc>
+<measure quantity="120" unit="chapters">
+<num value="120">一百二十</num>卷</measure>
+<pc>《</pc>
+<title>白氏家傳記</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>薛高立<pc>《</pc>
+<title>集類</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>邊崖類聚</title>
+<pc>》</pc>
+<measure quantity="32" unit="chapters">
+<num value="32">三十二</num>卷</measure>
+<pc>《</pc>
+<title>類事</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>徐叔暘<pc>《</pc>
+<title>羊頭山記</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>於立政<pc>《</pc>
+<title>類林</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>杜光庭<pc>《</pc>
+<title>曆代忠諫書</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>諫書</title>
+<pc>》</pc>
+<measure quantity="80" unit="chapters">
+<num value="80">八十</num>卷</measure>
+<pc>《</pc>
+<title>唐諫諍論</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>王昭遠<pc>《</pc>
+<title>禁垣備對</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>魏玄成<pc>《</pc>
+<title>勵忠節</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>王伯璵<pc>《</pc>
+<title>勵忠節抄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>書判幽燭</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+<pc>《</pc>
+<title>軺車事類</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>周佑之<pc>《</pc>
+<title>
+<num value="5">五</num>經資政</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>經典政要</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>尹弘遠<pc>《</pc>
+<title>經史要覽</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>章句纂類</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李知實<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>寶<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>檢誌</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李慎微<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>徵<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>理樞</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>鄒順<pc>《</pc>
+<title>廣蒙書</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>劉漸<pc>《</pc>
+<title>群書係蒙</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="9">九</num>經對語</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>錢承誌<pc>《</pc>
+<title>
+<num value="9">九</num>經簡要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>經史事對</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>子史語類拾遺</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>韋稔<pc>《</pc>
+<title>筆語類對</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>又<pc>《</pc>
+<title>應用類對</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>
+<num value="1">一</num>名<pc>《</pc>
+<title>筆語類對</title>
+<pc>》</pc>
+<pc>）</pc>黃彬<pc>《</pc>
+<title>經語協韻</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>朱澹<pc>《</pc>
+<title>語類</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>楊名<pc>《</pc>
+<title>廣<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>唐<pc>”</pc>
+<pc>）</pc>略新書</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="10">十</num>議典錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李德孫<pc>《</pc>
+<title>學堂要記<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>紀<pc>”</pc>
+<pc>）</pc>
+</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>裴說<pc>《</pc>
+<title>修文異名錄</title>
+<pc>》</pc>
+<measure quantity="11" unit="chapters">
+<num value="11">十一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>搢紳要錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>段景<pc>《</pc>
+<title>文場纂要</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>文場秀句</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王雲<pc>《</pc>
+<title>文房纂要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>彫玉集類</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>彫金集</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>劉國潤<pc>《</pc>
+<title>廣彫金類集</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>庾肩吾<pc>《</pc>
+<title>彩璧</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>金鑾秀蕊</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>陸贄<pc>《</pc>
+<title>青囊書</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>蔣氏寶車<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>庫<pc>”</pc>
+<pc>）</pc>
+</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>瓊林采實</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>溫庭筠<pc>《</pc>
+<title>學海</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>鄭昺<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>嵎<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>雙金</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>孫翰<pc>《</pc>
+<title>錦繡穀</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>齊逸人<pc>《</pc>
+<title>玉府新書</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>叢髓</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>盧重華<pc>《</pc>
+<title>文髓</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>勁弩子</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>玉苑麗文</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>段景<pc>《</pc>
+<title>疊辭</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>玉英</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>玉屑</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>金匱</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>常修半臂</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>紫香囊</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>陸羽<pc>《</pc>
+<title>警年</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>窮神記</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李齊莊<pc>《</pc>
+<title>事解</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+<pc>《</pc>
+<title>王氏<num value="1000">千</num>門</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>郭道規<pc>《</pc>
+<title>事鑒</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>沈寥子<pc>《</pc>
+<title>文鑒</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李大華<pc>《</pc>
+<title>康國集</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>姚勖<pc>《</pc>
+<title>起予集</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>李貴臣<pc>《</pc>
+<title>家藏龜鑒錄</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>徐德言<pc>《</pc>
+<title>分史衡鑒</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>薛洪<pc>《</pc>
+<title>古今精義</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+<pc>《</pc>
+<title>筆藏論</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>蘇源<pc>《</pc>
+<title>治亂集</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>治道要言</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>馬幼昌<pc>《</pc>
+<title>穿楊集</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>李欽玄<pc>《</pc>
+<title>累玉集</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>支遷喬<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>奇<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>京國記</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>郭微<pc>《</pc>
+<title>屬文寶海</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+</p>
+</div>
+<div>
+<p>樂黃目<pc>《</pc>
+<title>學海搜奇錄</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>
+<pc>《</pc>
+<title>皇覽總論</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>張陟<pc>《</pc>
+<title>唐年經略誌</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>楊<num value="9">九</num>齡<pc>《</pc>
+<title>名苑</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>是光乂<pc>《</pc>
+<title>
+<num value="19">十九</num>書語類</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>雍公叡注張楚金<pc>《</pc>
+<title>翰苑</title>
+<pc>》</pc>
+<measure quantity="11" unit="chapters">
+<num value="11">十一</num>卷</measure>劉濟<pc>《</pc>
+<title>
+<num value="9">九</num>經類議<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>義<pc>”</pc>
+<pc>）</pc>
+</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>黎翹<pc>《</pc>
+<title>廣略</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王博古<pc>《</pc>
+<title>修文海</title>
+<pc>》</pc>
+<measure quantity="17" unit="chapters">
+<num value="17">十七</num>卷</measure>郭翔<pc>《</pc>
+<title>春秋義鑒</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>曹化<pc>《</pc>
+<title>兩漢史海</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>楊知惲<pc>《</pc>
+<title>名字族</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>馮洪敏<pc>《</pc>
+<title>寶鑒絲綸</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>胡旦<pc>《</pc>
+<title>將帥要略</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>劉顏<pc>《</pc>
+<title>輔弼名對</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>景泰<pc>《</pc>
+<title>邊臣要略</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>石待問<pc>《</pc>
+<title>諫史</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>王純臣<pc>《</pc>
+<title>青宮懿典</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>李虛<num value="1">一</num>
+<pc>《</pc>
+<title>溉漕新書</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+<pc>《</pc>
+<title>童子洽聞</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>麟角抄</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>雷壽之<pc>《</pc>
+<title>古文類纂</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>漢臣蒙求</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>李伉<pc>《</pc>
+<title>係蒙求</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>丘光庭<pc>《</pc>
+<title>同姓名錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王殷範<pc>《</pc>
+<title>續蒙求</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>王先生<num value="17">十七</num>史蒙求</title>
+<pc>》</pc>
+<measure quantity="16" unit="chapters">
+<num value="16">十六</num>卷</measure>黃簡<pc>《</pc>
+<title>文選韻粹</title>
+<pc>》</pc>
+<measure quantity="35" unit="chapters">
+<num value="35">三十五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>白氏<pc>《</pc>
+<title>玉連環</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>白氏<pc>《</pc>
+<title>隨求</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知名<pc>）</pc>
+<pc>《</pc>
+<title>重廣會史</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+<pc>《</pc>
+<title>資談</title>
+<pc>》</pc>
+<measure quantity="60" unit="chapters">
+<num value="60">六十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>聖賢事跡</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>引證事類備用</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>門類解題</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>瓊林會要</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>青雲梯籍</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>南史類要</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>粹籍</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="6">六</num>朝采要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="10">十</num>史事語</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="10">十</num>史事類</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="3">三</num>傳分門事類</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>《</pc>
+<title>嘉祐新編<num value="2">二</num>經集粹</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>鹿革事類</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>職官事對</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>
+<pc>《</pc>
+<title>掞天集</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>《</pc>
+<title>文章叢說</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>新編經史子集名卷</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>《</pc>
+<title>碎玉<num value="4">四</num>淵海集</title>
+<pc>》</pc>
+<measure quantity="95" unit="chapters">
+<num value="95">百九十五</num>卷</measure>
+<pc>《</pc>
+<title>書林</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>寶龜</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>離辭筆苑</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>詩句類</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>南北事偶</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="5">五</num>色線</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>珠浦</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>重廣策府沿革</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>鴻都編</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>文章庫</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="13">十三</num>代史選</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>左傳類要</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>唐朝事類</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>群玉雜俎</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>增廣群玉雜俎</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>分聲類說</title>
+<pc>》</pc>
+<measure quantity="32" unit="chapters">
+<num value="32">三十二</num>卷</measure>
+<pc>《</pc>
+<title>文選雙字類要</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+<pc>《</pc>
+<title>書林事類</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>（</pc>並不知作者<pc>）</pc>鄭氏<pc>《</pc>
+<title>曆代蒙求</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>孫應符<pc>《</pc>
+<title>初學須知</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>王敦詩<pc>《</pc>
+<title>書林韻會</title>
+<pc>》</pc>
+<measure quantity="28" unit="chapters">
+<num value="28">二十八</num>卷</measure>
+</p>
+</div>
+<div>
+<p>曾恬<pc>《</pc>
+<title>孝類書</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>邵笥<pc>《</pc>
+<title>賡韻孝悌蒙求</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>譙令憲<pc>《</pc>
+<title>古今異偶</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+<pc>《</pc>
+<title>宋<num value="6">六</num>朝會要</title>
+<pc>》</pc>
+<measure quantity="300" unit="chapters">
+<num value="300">三百</num>卷</measure>
+<pc>（</pc>章得象編<pc>，</pc>王珪續<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>續會要</title>
+<pc>》</pc>
+<measure quantity="300" unit="chapters">
+<num value="300">三百</num>卷</measure>
+<pc>（</pc>虞允文等撰<pc>）</pc>
+<pc>《</pc>
+<title>中興會要</title>
+<pc>》</pc>
+<measure quantity="200" unit="chapters">
+<num value="200">二百</num>卷</measure>
+<pc>（</pc>梁克家等撰<pc>）</pc>
+<pc>《</pc>
+<title>孝宗會要</title>
+<pc>》</pc>
+<measure quantity="200" unit="chapters">
+<num value="200">二百</num>卷</measure>
+<pc>（</pc>楊濟<pc>、</pc>鍾必<num value="10000">萬</num>總修<pc>）</pc>
+<pc>《</pc>
+<title>光宗會要</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>寧宗會要</title>
+<pc>》</pc>
+<measure quantity="150" unit="chapters">
+<num value="150">一百五十</num>卷</measure>
+<pc>（</pc>秘書省進<pc>）</pc>
+<pc>《</pc>
+<title>
+<date>國朝</date>會要</title>
+<pc>》</pc>
+<measure quantity="588" unit="chapters">
+<num value="588">五百八十八</num>卷</measure>
+<pc>（</pc>張從祖纂輯<pc>）</pc>王溥<pc>《</pc>
+<title>續唐會要</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+<pc>《</pc>
+<title>
+<date>
+<num value="5">五</num>代</date>會要</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李安上<pc>《</pc>
+<title>
+<num value="10">十</num>史類要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>李昉<pc>《</pc>
+<title>太平禦覽</title>
+<pc>》</pc>
+<measure quantity="1000" unit="chapters">
+<num value="1000">一千</num>卷</measure>王倬<pc>《</pc>
+<title>班史名物編</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>蘇易簡<pc>《</pc>
+<title>文選菁英</title>
+<pc>》</pc>
+<measure quantity="24" unit="chapters">
+<num value="24">二十四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>宋白<pc>、</pc>李宗諤<pc>《</pc>
+<title>續通典</title>
+<pc>》</pc>
+<measure quantity="200" unit="chapters">
+<num value="200">二百</num>卷</measure>皮文粲<pc>《</pc>
+<title>鹿門家鈔籍詠</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>曾致堯<pc>《</pc>
+<title>仙鳧羽翼</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>僧守能<pc>《</pc>
+<title>典類</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王欽若<pc>《</pc>
+<title>冊府元龜</title>
+<pc>》</pc>
+<measure quantity="1000" unit="chapters">
+<num value="1000">一千</num>卷</measure>葉適<pc>《</pc>
+<title>名臣事纂</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>方龜年<pc>《</pc>
+<title>群書新語</title>
+<pc>》</pc>
+<measure quantity="11" unit="chapters">
+<num value="11">十一</num>卷</measure>晏殊<pc>《</pc>
+<title>天和殿禦覽</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>類要</title>
+<pc>》</pc>
+<measure quantity="77" unit="chapters">
+<num value="77">七十七</num>卷</measure>宋癢<pc>《</pc>
+<title>雞蹠集</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>過勖<pc>《</pc>
+<title>至孝通神集</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>鄧至<pc>《</pc>
+<title>群書故事</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>故事類要</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>宋並<pc>《</pc>
+<title>登瀛秘錄</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>範鎮<pc>《</pc>
+<title>本朝蒙求</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>馬共<pc>《</pc>
+<title>元祐學海</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>任廣<pc>《</pc>
+<title>書敘指南</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>朱繪<pc>《</pc>
+<title>事原</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>陳彥禧<pc>《</pc>
+<title>黌堂要覽</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>陳紹<pc>《</pc>
+<title>重廣<num value="6">六</num>帖學林</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>吳淑<pc>《</pc>
+<title>事類賦</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>王資深<pc>《</pc>
+<title>摭史</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>馬永易<pc>《</pc>
+<title>實賓錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>異號錄</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳貽範<pc>《</pc>
+<title>
+<num value="1000">千</num>題適變錄</title>
+<pc>》</pc>
+<measure quantity="16" unit="chapters">
+<num value="16">十六</num>卷</measure>楊訁恣<pc>《</pc>
+<title>古今名賢歌詩押韻</title>
+<pc>》</pc>
+<measure quantity="24" unit="chapters">
+<num value="24">二十四</num>卷</measure>江少虞<pc>《</pc>
+<title>皇朝事實類苑</title>
+<pc>》</pc>
+<measure quantity="26" unit="chapters">
+<num value="26">二十六</num>卷</measure>葉庭珪<pc>《</pc>
+<title>海錄碎事</title>
+<pc>》</pc>
+<measure quantity="23" unit="chapters">
+<num value="23">二十三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳天麟<pc>《</pc>
+<title>前漢<num value="6">六</num>帖</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>蕭之美<pc>《</pc>
+<title>
+<num value="10">十</num>子奇對</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>莊子寓言類要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="3">三</num>傳合璧要覽</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="3">三</num>子合璧要覽</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="4">四</num>子合璧要覽</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>劉玨<pc>《</pc>
+<title>兩漢蒙求</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>吳逢道<pc>《</pc>
+<title>
+<num value="6">六</num>言蒙求</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>徐子光<pc>《</pc>
+<title>補注蒙求</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>又<pc>《</pc>
+<title>補注蒙求</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>《</pc>
+<title>群書治要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>秘閣所錄<pc>）</pc>蔡攸<pc>《</pc>
+<title>政和會要</title>
+<pc>》</pc>
+<measure quantity="110" unit="chapters">
+<num value="110">一百一十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>晏袤數<pc>《</pc>
+<title>會要</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>謝諤<pc>《</pc>
+<title>孝史</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>度濟<pc>《</pc>
+<title>諫錄</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>葉才老<pc>《</pc>
+<title>和李翰蒙求</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>林越<pc>《</pc>
+<title>漢雋</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>倪遇<pc>《</pc>
+<title>漢書家範</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>李宗序<pc>《</pc>
+<title>隆平政斷</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>鄭大中<pc>《</pc>
+<title>漢規</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張磁<pc>《</pc>
+<title>仕學規範</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>歐陽邦基<pc>《</pc>
+<title>勸戒別錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>閻<num value="1">一</num>德<pc>《</pc>
+<title>古今政事錄</title>
+<pc>》</pc>
+<measure quantity="21" unit="chapters">
+<num value="21">二十一</num>卷</measure>僧道蒙<pc>《</pc>
+<title>仕途經史類對</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>呂祖謙<pc>《</pc>
+<title>觀史類編</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>《</pc>
+<title>讀書記</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>洪邁<pc>《</pc>
+<title>經子法語</title>
+<pc>》</pc>
+<measure quantity="24" unit="chapters">
+<num value="24">二十四</num>卷</measure>
+<pc>《</pc>
+<title>春秋左氏傳法語</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>史記法語</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>《</pc>
+<title>前漢法語</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>後漢精語</title>
+<pc>》</pc>
+<measure quantity="16" unit="chapters">
+<num value="16">十六</num>卷</measure>
+<pc>《</pc>
+<title>
+<date>
+<num value="3">三</num>國</date>誌精語</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>晉書精語</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>南史精語</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>《</pc>
+<title>唐書精語</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>程大昌<pc>《</pc>
+<title>演蕃露</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>續演蕃露</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>《</pc>
+<title>考古編</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>續考古編</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>程俱<pc>《</pc>
+<title>班左誨蒙</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>唐仲友<pc>《</pc>
+<title>帝王經世圖譜</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>錢端禮<pc>《</pc>
+<title>諸史提要</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>陳傅良<pc>《</pc>
+<title>漢兵製</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>備邊<num value="10">十</num>策</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>
+</p>
+</div>
+<div>
+<p>徐天麟<pc>《</pc>
+<title>西漢會要</title>
+<pc>》</pc>
+<measure quantity="70" unit="chapters">
+<num value="70">七十</num>卷</measure>
+<pc>《</pc>
+<title>漢兵本末</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>曾慥<pc>《</pc>
+<title>類說</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>錢文子<pc>《</pc>
+<title>補漢兵誌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>錢諷<pc>《</pc>
+<title>史韻</title>
+<pc>》</pc>
+<measure quantity="42" unit="chapters">
+<num value="42">四十二</num>卷</measure>鄒應龍<pc>《</pc>
+<title>務學須知</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>高似孫<pc>《</pc>
+<title>緯略</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>《</pc>
+<title>子略</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>吳曾<pc>《</pc>
+<title>南北分門事類</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>魏彥惇<pc>《</pc>
+<title>名臣<num value="4">四</num>科事實</title>
+<pc>》</pc>
+<measure quantity="14" unit="chapters">
+<num value="14">十四</num>卷</measure>王掄<pc>《</pc>
+<title>群玉義府</title>
+<pc>》</pc>
+<measure quantity="54" unit="chapters">
+<num value="54">五十四</num>卷</measure>範師道<pc>《</pc>
+<title>垂拱元龜會要詳節</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<date>國朝</date>類要</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>俞鼎<pc>、</pc>俞經<pc>《</pc>
+<title>儒學警悟</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>鄭厚<pc>《</pc>
+<title>通鑒分<num value="6">六</num>類要</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>柳正夫<pc>《</pc>
+<title>西漢蒙求</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李孝美<pc>《</pc>
+<title>文房監古</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>竇蘋<pc>《</pc>
+<title>載籍討源</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王仲閎<pc>《</pc>
+<title>語本</title>
+<pc>》</pc>
+<measure quantity="25" unit="chapters">
+<num value="25">二十五</num>卷</measure>毛友<pc>《</pc>
+<title>左傳類對賦</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>俞觀能<pc>《</pc>
+<title>孝經類鑒</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>胡宏<pc>《</pc>
+<title>敘古蒙求</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>玉山題府</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>熙寧題髓</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>帝王事實</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>聖賢事實</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>漢唐事實</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+<pc>《</pc>
+<title>
+<date>國朝</date>韻對</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>引證事類</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>魯史分門屬類賦</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>古今通編</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>《</pc>
+<title>諸子談論</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>（</pc>並不知作者<pc>）</pc>右類事類<num value="307">三百七</num>部<pc>，</pc>
+<measure quantity="11393" unit="chapters">
+<num value="11393">一萬一千三百九十三</num>卷</measure>
+<pc>。</pc>
+<pc>《</pc>
+<title>黃帝內經素問</title>
+<pc>》</pc>
+<measure quantity="24" unit="chapters">
+<num value="24">二十四</num>卷</measure>
+<pc>（</pc>唐王冰注<pc>）</pc>
+<pc>《</pc>
+<title>素問</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>（</pc>隋全元起注<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>黃帝靈樞經</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>
+<pc>《</pc>
+<title>黃帝針經</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>
+<pc>《</pc>
+<title>黃帝灸經明堂</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>黃帝<num value="9">九</num>虛內經</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>揚玄操<pc>《</pc>
+<title>素問釋音<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>言<pc>”</pc>
+<pc>）</pc>
+</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>素問醫療訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>秦越人<pc>《</pc>
+<title>難經疏</title>
+<pc>》</pc>
+<measure quantity="13" unit="chapters">
+<num value="13">十三</num>卷</measure>
+<pc>《</pc>
+<title>黃帝脈經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>脈訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張仲景<pc>《</pc>
+<title>脈經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>
+<num value="5">五</num>藏榮衛論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>耆婆脈經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>徐氏<pc>《</pc>
+<title>脈經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>王叔和<pc>《</pc>
+<title>脈訣<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>經<pc>”</pc>
+<pc>）</pc>
+</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>孩子脈論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李勣<pc>《</pc>
+<title>脈經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張及<pc>《</pc>
+<title>脈經手訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>王善注<pc>）</pc>徐裔<pc>《</pc>
+<title>脈訣</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>韓氏脈訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>脈經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>
+<num value="100">百</num>會要訣脈經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>碎金脈訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>元門脈訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>身經要集</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>太醫秘訣診候生死部</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>倉公決死生秘要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>神農<num value="5">五</num>藏論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>黃帝<num value="5">五</num>藏論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>黃庭<num value="5">五</num>藏經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>黃庭<num value="5">五</num>藏<num value="6">六</num>府圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>趙業<pc>《</pc>
+<title>黃庭<num value="5">五</num>藏論</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>張向容<pc>《</pc>
+<title>大<num value="5">五</num>藏論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>小<num value="5">五</num>藏論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="5">五</num>藏金鑒論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>段元<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>允<pc>”</pc>
+<pc>）</pc>亮<pc>《</pc>
+<title>
+<num value="5">五</num>藏鑒元<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>原<pc>”</pc>
+<pc>）</pc>
+</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>孫思邈<pc>《</pc>
+<title>
+<num value="5">五</num>藏旁通明鑒圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>針經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張文懿<pc>《</pc>
+<title>藏府通玄賦</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="5">五</num>藏攝養明鑒圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>吳兢<pc>《</pc>
+<title>
+<num value="5">五</num>藏論應象</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>裴王庭<pc>《</pc>
+<title>
+<num value="5">五</num>色旁通<num value="5">五</num>藏圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="5">五</num>藏要訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>太元心論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>岐伯<pc>《</pc>
+<title>針經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>扁鵲<pc>《</pc>
+<title>針傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>玄悟<pc>《</pc>
+<title>
+<num value="4">四</num>神針經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>甄權<pc>《</pc>
+<title>針經抄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>王處明<pc>《</pc>
+<title>玄秘會要針經</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>呂博<pc>《</pc>
+<title>金縢玉匱針經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>黃帝問岐伯灸經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>顏齊<pc>《</pc>
+<title>灸經</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>明堂灸法</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>皇甫謐<pc>《</pc>
+<title>黃帝<num value="3">三</num>部針灸經</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+<pc>（</pc>即<pc>《</pc>
+<title>甲乙經</title>
+<pc>》</pc>
+<pc>）</pc>岐伯<pc>《</pc>
+<title>論針灸要訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>山眺<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>兆<pc>”</pc>
+<pc>）</pc>針灸經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>公孫克<pc>《</pc>
+<title>針灸經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>吳複珪<pc>《</pc>
+<title>小兒明堂針灸經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王惟<num value="1">一</num>
+<pc>《</pc>
+<title>明堂經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>明堂玄真經訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>朱遂<pc>《</pc>
+<title>明堂論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>金鑒集歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>黃帝太素經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>楊上善注<pc>）</pc>
+<pc>《</pc>
+<title>刺法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>太上天寶金鏡靈樞神景內編</title>
+<pc>》</pc>
+<measure quantity="9" unit="chapters">
+<num value="9">九</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>扁鵲注黃帝<num value="81">八十一</num>難經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>（</pc>秦越人撰<pc>）</pc>扁鵲<pc>《</pc>
+<title>脈經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張仲景<pc>《</pc>
+<title>傷寒論</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="5">五</num>藏論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王叔和<pc>《</pc>
+<title>脈經</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>脈訣機要</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>巢元方<pc>《</pc>
+<title>巢氏諸病源候論</title>
+<pc>》</pc>
+<measure quantity="50" unit="chapters">
+<num value="50">五十</num>卷</measure>崔知悌<pc>《</pc>
+<title>灸勞法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王冰<pc>《</pc>
+<title>素問<num value="6">六</num>脈玄珠密語</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>褚澄<pc>《</pc>
+<title>褚氏遺書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>華佗<pc>《</pc>
+<title>藥方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>金匱要略方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>張仲景撰<pc>，</pc>王叔和集<pc>）</pc>
+</p>
+</div>
+<div>
+<p>葛洪<pc>《</pc>
+<title>肘後備急<num value="1">百一</num>方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>劉涓子<pc>《</pc>
+<title>神仙遺論</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>（</pc>東蜀李頓錄<pc>）</pc>宇文士及<pc>《</pc>
+<title>妝台記</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>師巫<pc>《</pc>
+<title>顱囟經</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>孫思邈<pc>《</pc>
+<title>
+<num value="1000">千</num>金方</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="1000">千</num>金髓方</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="1000">千</num>金翼方</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>
+<pc>《</pc>
+<title>玉函方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王起<pc>《</pc>
+<title>仙人水鏡</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王燾<pc>《</pc>
+<title>外台秘方</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>陳藏器<pc>《</pc>
+<title>本草拾遺</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>孔誌約<pc>《</pc>
+<title>唐本草</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李昉<pc>《</pc>
+<title>開寶本草</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>目</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>盧多遜<pc>《</pc>
+<title>詳定本草</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>目錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>補注本草</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>目錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李含光<pc>《</pc>
+<title>本草音義</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>蕭炳<pc>《</pc>
+<title>
+<num value="4">四</num>聲本草</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+<pc>《</pc>
+<title>本草韻略</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>楊損之<pc>《</pc>
+<title>刪繁本草</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>杜善方<pc>《</pc>
+<title>本草性類</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳士良<pc>《</pc>
+<title>食性本草</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>龐安時<pc>《</pc>
+<title>難經解義</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>宋庭臣<pc>《</pc>
+<title>黃帝<num value="81">八十一</num>難經注釋</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張仲景<pc>《</pc>
+<title>療黃經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>口齒論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>金匱玉函</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>（</pc>王叔和集<pc>）</pc>扁鵲<pc>《</pc>
+<title>療黃經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>又<pc>《</pc>
+<title>枕中秘訣</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>青鳥子<pc>《</pc>
+<title>風經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>吳希言<pc>《</pc>
+<title>風論山兆<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>眺<pc>”</pc>
+<pc>）</pc>經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>支義方<pc>《</pc>
+<title>通玄經</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>呂廣<pc>《</pc>
+<title>金韜玉鑒經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>雷<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>靈<pc>”</pc>
+<pc>）</pc>公仙人養性治<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>理<pc>”</pc>
+<pc>）</pc>身經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>醫源兆經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>林億<pc>《</pc>
+<title>黃帝<num value="3">三</num>部針灸經</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>楊曄<pc>《</pc>
+<title>膳夫經手錄</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>延年秘錄</title>
+<pc>》</pc>
+<measure quantity="11" unit="chapters">
+<num value="11">十一</num>卷</measure>
+<pc>《</pc>
+<title>混俗頤生錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="1000">千</num>金纂錄</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>金匱錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>司空輿<pc>《</pc>
+<title>發焰錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>梅崇獻<pc>《</pc>
+<title>醫門秘錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>治風經心錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>郭仁普<pc>《</pc>
+<title>拾遺候用深靈玄錄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>養性要錄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>黨求平<pc>《</pc>
+<title>摭醫新說</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>代榮<pc>《</pc>
+<title>醫鑒</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>衛嵩<pc>《</pc>
+<title>金寶鑒</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>段元亮<pc>《</pc>
+<title>病源手鑒</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>田誼卿<pc>《</pc>
+<title>傷寒手鑒</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="1000">千</num>金手鑒</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>王勃<pc>《</pc>
+<title>醫語纂要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>華顒<pc>《</pc>
+<title>醫門簡要</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>蘇越<pc>《</pc>
+<title>群方秘要<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>會<pc>”</pc>
+<pc>）</pc>
+</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>古詵<pc>《</pc>
+<title>
+<num value="3">三</num>教保光纂要</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>醫明要略</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張叔和<pc>《</pc>
+<title>新集病總要略</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>外台要略</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>司馬光<pc>《</pc>
+<title>醫問</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+<pc>《</pc>
+<title>耆婆<num value="64">六十四</num>問</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>伏氏<pc>《</pc>
+<title>醫苑</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>神農食忌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>吳群<pc>《</pc>
+<title>意醫紀曆</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>孔周南<pc>《</pc>
+<title>靈方誌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<persName>穆修</persName>靖<pc>《</pc>
+<title>靈芝記</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>羅公遠注<pc>）</pc>張隱居<pc>《</pc>
+<title>金石靈台記</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>菖蒲傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李翱<pc>《</pc>
+<title>何首烏傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張尚容<pc>《</pc>
+<title>延齡至寶抄</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>醫家要抄</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>黃帝問答疾狀</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>陶隱居<pc>《</pc>
+<title>靈奇秘奧</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>南海藥譜</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>家寶義囊</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>小兒藥證</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>神仙玉芝圖</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>經食草木法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>孫思邈<pc>《</pc>
+<title>芝草圖</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>又<pc>《</pc>
+<title>太常分藥格</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>神枕方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>崔氏產鑒圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>攝生月令圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="6">六</num>氣導引圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>侍膳圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>徐玉<pc>《</pc>
+<title>藥對</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>宗令祺<pc>《</pc>
+<title>廣藥對</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>方書藥類</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>江承宗<pc>《</pc>
+<title>刪繁藥脈</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>蔣淮<pc>《</pc>
+<title>療黃歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>晏封<pc>《</pc>
+<title>草石論</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+<pc>《</pc>
+<title>藥性論</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>張果<pc>《</pc>
+<title>傷寒論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳昌祚<pc>《</pc>
+<title>明時政要傷寒論</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>李涉<pc>《</pc>
+<title>傷寒方論</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>青烏子論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>石昌璉<pc>《</pc>
+<title>明醫顯微論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>清溪子<pc>《</pc>
+<title>消渴論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>龍樹眼論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>邢<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>邾<pc>”</pc>
+<pc>）</pc>元樸<pc>《</pc>
+<title>癰疽論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>癰疽論</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李言少<pc>《</pc>
+<title>嬰孺病論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>楊全迪<pc>《</pc>
+<title>崔氏小兒論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>療小兒疳病論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉豹子<pc>《</pc>
+<title>眼論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>蘇巉<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>遊<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>玄感論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李暄<pc>《</pc>
+<title>嶺南腳氣論</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>發背論</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>邵英俊<pc>《</pc>
+<title>口齒論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>蕭<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>藺<pc>”</pc>
+<pc>）</pc>宗簡<pc>《</pc>
+<title>水氣論</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>骨蒸論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>唐<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>廣<pc>”</pc>
+<pc>）</pc>陵正師<pc>《</pc>
+<title>口齒論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>風疾論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>楊太業<pc>《</pc>
+<title>
+<num value="36">三十六</num>種風論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>喻義<pc>《</pc>
+<title>瘡腫論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>又<pc>《</pc>
+<title>療癰疽要訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>蘇遊<pc>《</pc>
+<title>鐵粉論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>玄感傳屍方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>褚知義<pc>《</pc>
+<title>鍾乳論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李昭明<pc>《</pc>
+<title>嵩台論</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>玉鑒論</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王守愚<pc>《</pc>
+<title>產前產後論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>小兒眼論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>普濟方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>應驗方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>應病神通方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>張文仲<pc>《</pc>
+<title>法象論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>小兒<num value="5">五</num>疳<num value="24">二十四</num>候論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉涓子<pc>《</pc>
+<title>鬼論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>僧智宣<pc>《</pc>
+<title>發背論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>沈泰之<pc>《</pc>
+<title>癰疽論</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>蘇敬徐玉唐侍中<pc>《</pc>
+<title>
+<num value="3">三</num>家腳氣論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>吳升宋處<pc>《</pc>
+<title>新修鍾乳論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>白岑<pc>《</pc>
+<title>發背論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>西京巢氏<pc>《</pc>
+<title>水氣論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李越<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>鉞<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>新修榮衛養生用藥補瀉論</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>楊大鄴<pc>《</pc>
+<title>嬰兒論</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>采藥論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>製藥論法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>連方<num value="5">五</num>藏論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="5">五</num>勞論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>夭壽性術論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>咽喉口齒方論</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>產後<num value="19">十九</num>論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>小兒方術論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李溫<pc>《</pc>
+<title>
+<num value="10000">萬</num>病拾遺</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>張機<pc>《</pc>
+<title>金石製藥法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王氏<pc>《</pc>
+<title>食法</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>嚴龜<pc>《</pc>
+<title>食法</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>養身食法</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>太清服食藥法</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>
+<pc>《</pc>
+<title>按摩法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>攝養禁忌法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王道中<pc>《</pc>
+<title>石藥異名要訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>譚延鎬<pc>《</pc>
+<title>脈色要訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>吳複圭<pc>《</pc>
+<title>金匱指微訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>葉傳古<pc>《</pc>
+<title>醫門指要訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>華子顒<pc>《</pc>
+<title>相色經妙訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>製藥總訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>修玉粉丹口訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>服雲母粉訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>伏火丹砂訣序</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>陳玄<pc>《</pc>
+<title>北京要術</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>蕭家<pc>《</pc>
+<title>法饌</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>饌林</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>藥林</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王氏<pc>《</pc>
+<title>醫門集</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>李崇慶<pc>《</pc>
+<title>燕台集</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>穿玉集</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>劉翰<pc>《</pc>
+<title>今體治世集</title>
+<pc>》</pc>
+<measure quantity="30" unit="chapters">
+<num value="30">三十</num>卷</measure>雷繼暉<pc>《</pc>
+<title>神聖集</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>華氏集</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>楊氏妝台寶鑒集</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>（</pc>南陽公主<pc>）</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>傷寒證辨集</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>賈黃中<pc>《</pc>
+<title>神醫普救方</title>
+<pc>》</pc>
+<measure quantity="1000" unit="chapters">
+<num value="1000">一千</num>卷</measure>
+<pc>《</pc>
+<title>目</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>楊歸<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>師<pc>”</pc>
+<pc>）</pc>厚<pc>《</pc>
+<title>產乳集驗方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>安文恢<pc>《</pc>
+<title>
+<num value="10000">萬</num>全<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>金<pc>”</pc>
+<pc>）</pc>方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>孫廉<pc>《</pc>
+<title>金鑒方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>金匱方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>韋宙<pc>《</pc>
+<title>獨行方</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>又<pc>《</pc>
+<title>玉壺備急方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>鄭氏<pc>《</pc>
+<title>惠民方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>鄭氏<pc>《</pc>
+<title>圃田通玄方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>又<pc>《</pc>
+<title>惠心方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>纂要秘要方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>溥濟安眾方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>支觀<pc>《</pc>
+<title>通玄方</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>劉氏<pc>《</pc>
+<title>
+<num value="5">五</num>藏旁通遵<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>導<pc>”</pc>
+<pc>）</pc>養方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>白仁敘<pc>《</pc>
+<title>集驗方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>服食導養方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>孟氏<pc>《</pc>
+<title>補養方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>崔元亮<pc>《</pc>
+<title>海上集驗方</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>崔氏<pc>《</pc>
+<title>骨蒸方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>元希聲<pc>《</pc>
+<title>行要備急方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>劉禹錫<pc>《</pc>
+<title>傳信方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>王顏<pc>《</pc>
+<title>續傳信方</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>嬰孩方</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>黃漢忠<pc>《</pc>
+<title>秘要合煉方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>針眼<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>眼針<pc>”</pc>
+<pc>）</pc>鉤方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>穆昌緒<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>叔<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>療眼諸方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>孩孺<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>嬰孩<pc>”</pc>
+<pc>）</pc>雜病方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>朱傅<pc>《</pc>
+<title>孩孺明珠變蒸<num value="7">七</num>疳方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>小兒秘錄集要方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>延齡秘寶方集</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>錄古今服食導養方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>服食神秘方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>姚和<pc>《</pc>
+<title>眾童延齡至寶方</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>又<pc>《</pc>
+<title>保童方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>許詠<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>泳<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>
+<num value="64">六十四</num>問秘要方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>塞上方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+<pc>《</pc>
+<title>晨昏寧待方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>王道<pc>《</pc>
+<title>外台秘要乳石方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>耆婆要用方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>崔行功<pc>《</pc>
+<title>纂要方</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>
+<num value="1000">千</num>金秘要備急方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>華宗壽<pc>《</pc>
+<title>升天<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>元<pc>”</pc>
+<pc>）</pc>廣濟方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>段詠<pc>（</pc>
+<num value="1">一</num>作<pc>“</pc>泳<pc>”</pc>
+<pc>）</pc>
+<pc>《</pc>
+<title>走馬備急方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>天寶神驗藥方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>貞元集要廣利方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>大和濟安方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>羅普宣<pc>《</pc>
+<title>靈寶方</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>
+</p>
+</div>
+<div>
+<p>悟玄子<pc>《</pc>
+<title>安神養性方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>篋中方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>蕭存禮<pc>《</pc>
+<title>
+<num value="1">百一</num>問答方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>包會<pc>《</pc>
+<title>應驗方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>雜用藥方</title>
+<pc>》</pc>
+<measure quantity="55" unit="chapters">
+<num value="55">五十五</num>卷</measure>
+<pc>《</pc>
+<title>神仙雲母粉方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>服術方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>慶曆善救方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>胡道洽方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>賈耽<pc>《</pc>
+<title>備急單方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>李<num value="800">八百</num>方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>波駝波利譯<pc>《</pc>
+<title>吞字貼腫方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李繼皋<pc>《</pc>
+<title>南行方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>杜氏<pc>《</pc>
+<title>集驗方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>韓待詔<pc>《</pc>
+<title>肘後方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王氏<pc>《</pc>
+<title>秘方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>徒都子<pc>《</pc>
+<title>膜外氣方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>潛真子<pc>《</pc>
+<title>神仙金匱服食方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>楊太仆<pc>《</pc>
+<title>醫方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>沈承澤<pc>《</pc>
+<title>集妙方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>章秀言<pc>《</pc>
+<title>草木諸藥單方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>吳希言<pc>《</pc>
+<title>醫門括源方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王朝昌<pc>《</pc>
+<title>新集方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>老子服食方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>葛仙公杏仁煎方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>刪繁要略方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>集諸要妙方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>備急簡要方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>纂驗方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>養性益壽備急方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>奏聞單方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>反魂丹方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>玄明粉方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>瘰鬁方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>婆羅門僧服仙茅方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>高福<pc>《</pc>
+<title>攝生要錄</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李絳<pc>《</pc>
+<title>兵部手集方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>孟詵<pc>《</pc>
+<title>食療本草</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>沈知言<pc>《</pc>
+<title>通玄秘術</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>昝殷<pc>《</pc>
+<title>產寶</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>食醫心鑒</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>甘伯宗<pc>《</pc>
+<title>曆代名醫錄</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>鄭景岫<pc>《</pc>
+<title>廣南<num value="4">四</num>時攝生論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>葉長文<pc>《</pc>
+<title>啟玄子元和紀用經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張文懿<pc>《</pc>
+<title>本草括要詩</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>雷斅<pc>《</pc>
+<title>炮灸方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>宋徽宗<pc>《</pc>
+<title>聖濟經</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>通真子<pc>《</pc>
+<title>續注脈賦</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>脈要新括</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>李大參<pc>《</pc>
+<title>家傷寒指南論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>嚴器之<pc>《</pc>
+<title>傷寒明理論</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>王維<num value="1">一</num>
+<pc>《</pc>
+<title>新鑄銅人腧穴針灸圖經</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>高若訥<pc>《</pc>
+<title>素問誤文闕義</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>傷寒類要</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>徐夢符<pc>《</pc>
+<title>外科灸法論粹新書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>趙從古<pc>《</pc>
+<title>
+<num value="6">六</num>甲天元運氣鈐</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>丁德用<pc>《</pc>
+<title>醫傷寒慈濟集</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>馬昌運<pc>《</pc>
+<title>黃帝素問入試秘寶</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>王宗正<pc>《</pc>
+<title>難經疏義</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>楊介存<pc>《</pc>
+<title>
+<num value="4">四</num>時傷寒總病論</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>僧文宥<pc>《</pc>
+<title>必效方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>陳師文<pc>《</pc>
+<title>校正太平惠民和劑局方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>陳氏<pc>《</pc>
+<title>經驗方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>不知名<pc>）</pc>唐慎微<pc>《</pc>
+<title>大觀經史證類備急本草</title>
+<pc>》</pc>
+<measure quantity="32" unit="chapters">
+<num value="32">三十二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王寔<pc>《</pc>
+<title>傷寒證治</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>又<pc>《</pc>
+<title>局方續添傷寒證治</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>郭稽中<pc>《</pc>
+<title>婦人產育保慶集</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>裴宗元<pc>《</pc>
+<title>藥詮總辨</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>孫用和<pc>《</pc>
+<title>傳家秘寶方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>錢乙<pc>《</pc>
+<title>小兒藥證直訣</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>洪氏<pc>《</pc>
+<title>集驗方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>不知名<pc>）</pc>李石<pc>《</pc>
+<title>司牧安驥集</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>又<pc>《</pc>
+<title>司牧安驥方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張渙<pc>《</pc>
+<title>小兒醫方妙選</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>王俁<pc>《</pc>
+<title>編類本草單方</title>
+<pc>》</pc>
+<measure quantity="35" unit="chapters">
+<num value="35">三十五</num>卷</measure>趙鑄<pc>《</pc>
+<title>癉虐備急方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李璆<pc>、</pc>張致遠<pc>《</pc>
+<title>瘴論</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>鄭樵<pc>《</pc>
+<title>鶴頂方</title>
+<pc>》</pc>
+<measure quantity="24" unit="chapters">
+<num value="24">二十四</num>卷</measure>
+<pc>《</pc>
+<title>本草外類</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>食鑒</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>
+</p>
+</div>
+<div>
+<p>張傑<pc>《</pc>
+<title>子母秘錄</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>王蘧<pc>《</pc>
+<title>經效癰疽方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張銳<pc>《</pc>
+<title>雞峰備急方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王世臣<pc>《</pc>
+<title>傷寒救俗方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>胡權<pc>《</pc>
+<title>治癰疽膿毒方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>錢竿<pc>《</pc>
+<title>海上名方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>何偁<pc>《</pc>
+<title>經驗藥方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>劉元寶<pc>《</pc>
+<title>神巧<num value="10000">萬</num>全方</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>黨永年<pc>《</pc>
+<title>摭醫新說</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>史源<pc>《</pc>
+<title>治背瘡方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>王貺<pc>《</pc>
+<title>濟世全生指迷方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>王袞<pc>《</pc>
+<title>王氏博濟方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王伯順<pc>《</pc>
+<title>小兒方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>漢東王先生<pc>《</pc>
+<title>小兒形證方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>胡愔<pc>《</pc>
+<title>補瀉內景方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>棲真子<pc>《</pc>
+<title>嬰孩寶鑒方</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>蔣淮<pc>《</pc>
+<title>藥證病源歌</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>成無已<pc>《</pc>
+<title>傷寒論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>朱旦<pc>《</pc>
+<title>傷寒論方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>沈虞卿<pc>《</pc>
+<title>衛生產科方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>沈柄<pc>《</pc>
+<title>產乳<num value="18">十八</num>論</title>
+<pc>》</pc>
+<pc>（</pc>卷亡<pc>）</pc>
+<pc>《</pc>
+<title>溫舍人方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知名<pc>）</pc>黨禹錫<pc>《</pc>
+<title>嘉祐本草</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>劉方明<pc>《</pc>
+<title>幼幼新書</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>吳得夫<pc>《</pc>
+<title>集驗方</title>
+<pc>》</pc>
+<measure quantity="7" unit="chapters">
+<num value="7">七</num>卷</measure>馬延之<pc>《</pc>
+<title>馬氏錄驗方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李朝正<pc>《</pc>
+<title>備急總效方</title>
+<pc>》</pc>
+<measure quantity="40" unit="chapters">
+<num value="40">四十</num>卷</measure>陳言<pc>《</pc>
+<title>
+<num value="3">三</num>因病源方</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳抃<pc>《</pc>
+<title>手集備急經效方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張允蹈<pc>《</pc>
+<title>外科保安要用方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>《</pc>
+<title>史載之方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>夏德懋<pc>《</pc>
+<title>衛生<num value="10">十</num>全方</title>
+<pc>》</pc>
+<measure quantity="13" unit="chapters">
+<num value="13">十三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陸遊<pc>《</pc>
+<title>陸氏續集驗方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>卓伯融<pc>《</pc>
+<title>妙濟方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>胡元質<pc>《</pc>
+<title>總效方</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>王璆<pc>《</pc>
+<title>
+<num value="1">百一</num>選方</title>
+<pc>》</pc>
+<measure quantity="28" unit="chapters">
+<num value="28">二十八</num>卷</measure>
+</p>
+</div>
+<div>
+<p>朱端章<pc>《</pc>
+<title>衛生家寶方</title>
+<pc>》</pc>
+<measure quantity="6" unit="chapters">
+<num value="6">六</num>卷</measure>又<pc>《</pc>
+<title>衛生家寶產科方</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>《</pc>
+<title>衛生家寶小兒方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>衛生家寶湯方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>楊倓<pc>《</pc>
+<title>楊氏家藏方</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>許叔微<pc>《</pc>
+<title>普濟本事方</title>
+<pc>》</pc>
+<measure quantity="12" unit="chapters">
+<num value="12">十二</num>卷</measure>胡氏<pc>《</pc>
+<title>經驗方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+<pc>（</pc>不著名<pc>）</pc>
+<pc>《</pc>
+<title>備用方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>（</pc>嶽州守臣編<pc>，</pc>不著名氏<pc>）</pc>
+</p>
+</div>
+<div>
+<p>丘哲<pc>《</pc>
+<title>備急效驗方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>宋霖<pc>《</pc>
+<title>丹毒備急方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>黃環<pc>《</pc>
+<title>備問方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>王磧<pc>《</pc>
+<title>易簡方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>方導<pc>《</pc>
+<title>方氏集要方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>王世明<pc>《</pc>
+<title>濟世<num value="10000">萬</num>全方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>張鬆<pc>《</pc>
+<title>究源方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>董大英<pc>《</pc>
+<title>活幼悟神集</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>安慶集</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>曾孚先<pc>《</pc>
+<title>保生護命集</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>戴衍<pc>《</pc>
+<title>尊生要訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>定齋居士<pc>《</pc>
+<title>
+<num value="5">五</num>痔方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>李氏<pc>《</pc>
+<title>癰疽方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>不知名<pc>）</pc>
+<pc>《</pc>
+<title>集效方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>中興備急方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>灸經背麵相</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>神應針經要訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>伯樂針經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>傷寒要法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>蘭室寶鑒</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>小兒秘要論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>紹聖重集醫馬方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>傳信適用方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>治未病方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>用藥須知</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>治發背惡瘡內補方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>博濟嬰孩寶書</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+<pc>《</pc>
+<title>川玉集</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>產後論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>衝和先生<pc>《</pc>
+<title>口齒論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>腳氣論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>靈苑方</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>秘寶方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>
+<pc>《</pc>
+<title>古今秘傳必驗方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>太醫西局濟世方</title>
+<pc>》</pc>
+<measure quantity="8" unit="chapters">
+<num value="8">八</num>卷</measure>
+<pc>《</pc>
+<title>產科經真環中圖</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>陳幵<pc>《</pc>
+<title>醫鑒後傳</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>陳蓬<pc>《</pc>
+<title>天元秘演</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>龐安時<pc>《</pc>
+<title>難經解</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>朱肱<pc>《</pc>
+<title>內外<num value="2">二</num>景圖</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>南陽活人書</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>席延賞<pc>《</pc>
+<title>黃帝針經音義</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>莊綽<pc>《</pc>
+<title>膏肓腧穴灸法</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>華氏中藏經</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>（</pc>靈寶洞主探微真人撰<pc>）</pc>
+</p>
+</div>
+<div>
+<p>劉溫舒<pc>《</pc>
+<title>內經素問論奧</title>
+<pc>》</pc>
+<measure quantity="4" unit="chapters">
+<num value="4">四</num>卷</measure>劉清海<pc>《</pc>
+<title>
+<num value="5">五</num>藏類合賦</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>耆婆<num value="5">五</num>藏論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>劉皓<pc>《</pc>
+<title>眼論審的歌</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>徐氏<pc>《</pc>
+<title>黃帝脈經指下秘訣</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>平堯卿<pc>《</pc>
+<title>傷寒玉鑒新書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>傷寒證類要略</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>董常<pc>《</pc>
+<title>南來保生回車論</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>黃維<pc>《</pc>
+<title>聖濟經解義</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>東軒居士<pc>《</pc>
+<title>衛濟寶書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>李檉<pc>《</pc>
+<title>傷寒要旨</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>醫家妙語</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>小兒保生要方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>湯民望<pc>《</pc>
+<title>嬰孩妙訣論</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>伍起予<pc>《</pc>
+<title>外科新書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>癰疽方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>董汲<pc>《</pc>
+<title>腳氣治法總要</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>程迥<pc>《</pc>
+<title>醫經正本書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>婁居中<pc>《</pc>
+<title>食治通說</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>蘇頌<pc>《</pc>
+<title>校本草圖經</title>
+<pc>》</pc>
+<measure quantity="20" unit="chapters">
+<num value="20">二十</num>卷</measure>
+</p>
+</div>
+<div>
+<p>王懷隱<pc>《</pc>
+<title>太平聖惠方</title>
+<pc>》</pc>
+<measure quantity="100" unit="chapters">
+<num value="100">一百</num>卷</measure>姚和<pc>《</pc>
+<title>眾童子秘要論</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>錢聞禮<pc>《</pc>
+<title>錢氏傷寒<num value="100">百</num>問方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>閻孝忠<pc>《</pc>
+<title>重廣保生信效方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>劉甫<pc>《</pc>
+<title>
+<num value="10">十</num>全博救方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>周應<pc>《</pc>
+<title>簡要濟眾方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>王素<pc>《</pc>
+<title>經驗方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>張田<pc>《</pc>
+<title>幼幼方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>劉彝<pc>《</pc>
+<title>贛州正俗方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>李端願<pc>《</pc>
+<title>簡驗方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>崔源<pc>《</pc>
+<title>本草辨誤</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>晏傅正<pc>《</pc>
+<title>明效方</title>
+<pc>》</pc>
+<measure quantity="5" unit="chapters">
+<num value="5">五</num>卷</measure>
+</p>
+</div>
+<div>
+<p>葛懷敏<pc>《</pc>
+<title>神效備急單方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>沈括<pc>《</pc>
+<title>良方</title>
+<pc>》</pc>
+<measure quantity="10" unit="chapters">
+<num value="10">十</num>卷</measure>
+<pc>《</pc>
+<title>蘇沈良方</title>
+<pc>》</pc>
+<measure quantity="15" unit="chapters">
+<num value="15">十五</num>卷</measure>
+<pc>（</pc>沈括<pc>、</pc>蘇軾所著<pc>）</pc>陳直<pc>《</pc>
+<title>奉親養老書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>文彥博<pc>《</pc>
+<title>藥準</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>董汲<pc>《</pc>
+<title>旅舍備要方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>初虞世<pc>《</pc>
+<title>古今錄驗養生必用方</title>
+<pc>》</pc>
+<measure quantity="3" unit="chapters">
+<num value="3">三</num>卷</measure>龐安<pc>《</pc>
+<title>驗方書</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>勝金方</title>
+<pc>》</pc>
+<measure quantity="1" unit="chapter">
+<num value="1">一</num>卷</measure>
+<pc>《</pc>
+<title>王趙選秘方</title>
+<pc>》</pc>
+<measure quantity="2" unit="chapters">
+<num value="2">二</num>卷</measure>右醫書類<num value="509">五百九</num>部<pc>，</pc>
+<measure quantity="3327" unit="chapters">
+<num value="3327">三千三百二十七</num>卷</measure>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>凡子類<num value="3999">三千九百九十九</num>部<pc>，</pc>
+<measure quantity="28290" unit="chapters">
+<num value="28290">二萬八千二百九十</num>卷</measure>
+<pc>。</pc>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

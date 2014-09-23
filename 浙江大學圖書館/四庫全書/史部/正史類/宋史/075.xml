@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="zh">宋史</title>
+<title xml:lang="en">History of the Song</title>
+<author>
+<name>
+<choice>
+<sic>托克托</sic>
+</choice>
+</name>
+</author>
+</titleStmt>
+<publicationStmt>
+<p>This document is published under a CC Attribution-Share Alike License</p>
+</publicationStmt>
+<sourceDesc>
+<p>XXX</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="chapter" n="75">
+<div>
+<p>步晷漏术</p>
+</div>
+<div>
+<p>
+<num value="2">二</num>至限<pc>：</pc>
+<measure quantity="181" unit="days">
+<num value="181">一百八十一</num>日</measure>
+<num value="62">六十二</num>分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>
+<num value="1">一</num>象度<pc>：</pc>
+<num value="91">九十一</num>度<num value="31">三十一</num>分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>消息法<pc>：</pc>
+<num value="1">一</num>万<num value="689">六百八十九</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>辰法<pc>：</pc>
+<num value="3250">三千二百五十</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>刻法<pc>：</pc>
+<num value="390">三百九十</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>半辰法<pc>：</pc>
+<num value="1625">一千六百二十五</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>昏明刻分<pc>：</pc>
+<num value="975">九百七十五</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>昏明<pc>：</pc>
+<num value="2">二</num>刻<num value="195">一百九十五</num>分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>冬至岳台晷景常数<pc>：</pc>
+<num value="1">一</num>丈<num value="2">二</num>尺<num value="8">八</num>寸<num value="5">五</num>分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>夏至岳台晷景常数<pc>：</pc>
+<num value="1">一</num>尺<num value="5">五</num>寸<num value="7">七</num>分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>冬至后初限<pc>、</pc>夏至后末限<pc>：</pc>
+<measure quantity="45" unit="days">
+<num value="45">四十五</num>日</measure>
+<num value="62">六十二</num>分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>夏至后初限<pc>、</pc>冬至后末限<pc>：</pc>
+<measure quantity="137" unit="days">
+<num value="137">一百三十七</num>日</measure>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求岳台晷景入<num value="2">二</num>至后日数<pc>：</pc>计入<num value="2">二</num>至后来日数<pc>，</pc>以<num value="2">二</num>至约余减之<pc>，</pc>仍加半日之分<pc>，</pc>即为入<num value="2">二</num>至后来日午中积数及分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求岳台晷景午中定数<pc>：</pc>置所求午中积数<pc>，</pc>如初限以下者为在初；已上者<pc>，</pc>覆减<num value="2">二</num>至限<pc>，</pc>余为在末<pc>。</pc>其在冬至后初限<pc>、</pc>夏至后末限者<pc>，</pc>以入限日减<num value="1937">一千九百三十七</num>半<pc>，</pc>为泛差；仍以入限日分乘其日盈缩积<pc>，</pc>盈缩积在日度术中<pc>。</pc>
+</p>
+</div>
+<div>
+<p>
+<num value="5">五</num>因<num value="100">百</num>约之<pc>，</pc>用减泛差<pc>，</pc>为定差；乃以入限日分自相乘<pc>，</pc>以乘定差<pc>，</pc>满<num value="100">一百</num>万为尺<pc>，</pc>不满为寸<pc>、</pc>为分及小分<pc>，</pc>以减冬至常晷<pc>，</pc>余为其日午中晷景定数<pc>。</pc>若所求入冬至后末限<pc>、</pc>夏至后初限者<pc>，</pc>乃<num value="3">三</num>约入限日分<pc>，</pc>以减<num value="485">四百八十五</num>少<pc>，</pc>余为泛差；仍以盈缩差减极数<pc>，</pc>余者若在春分后<pc>、</pc>秋分前者<pc>，</pc>直以<num value="4">四</num>约之<pc>，</pc>以加泛差<pc>，</pc>为定差；若春分前<pc>、</pc>秋分后者<pc>，</pc>以去<num value="2">二</num>分日数及分乘之<pc>，</pc>满<num value="600">六百</num>而<num value="1">一</num>
+<pc>，</pc>以减泛差<pc>，</pc>余为定差；乃以入限日分自相乘<pc>，</pc>以乘定差<pc>，</pc>满<num value="100">一百</num>万为尺<pc>，</pc>不满为寸<pc>、</pc>为分及小分<pc>，</pc>以加夏至常晷<pc>，</pc>即为其日午中晷景定数<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求每日消息定数<pc>：</pc>置所求日中日度分<pc>，</pc>如在<num value="2">二</num>至限以下者为在息；以上者去之<pc>，</pc>余为在消<pc>。</pc>又视入消息度加<num value="1">一</num>象以下者为在初；以上者<pc>，</pc>覆减<num value="2">二</num>至限<pc>，</pc>余为在末<pc>。</pc>其初<pc>、</pc>末度自相乘<pc>，</pc>以<num value="1">一</num>万乘而再折之<pc>，</pc>满消息法除之<pc>，</pc>为常数<pc>。</pc>乃副之<pc>，</pc>用减<num value="1950">一千九百五十</num>
+<pc>，</pc>余以乘其副<pc>，</pc>满<num value="8650">八千六百五十</num>除之<pc>，</pc>所得以加常数<pc>，</pc>为所求消息定数<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求每日黄道去极度及赤道内外度<pc>：</pc>置其日消息定数<pc>，</pc>以<num value="4">四</num>因之<pc>，</pc>满<num value="325">三百二十五</num>除之为度<pc>，</pc>不满<pc>，</pc>退除为分<pc>，</pc>所得<pc>，</pc>在春分后加<num value="67">六十七</num>度<num value="31">三十一</num>分<pc>，</pc>在秋分后减<num value="115">一百一十五</num>度<num value="31">三十一</num>分<pc>，</pc>即为所求日黄道去极度及分<pc>。</pc>以黄道去极度与<num value="1">一</num>象度相减<pc>，</pc>余为赤道内<pc>、</pc>外度<pc>。</pc>若去极度少<pc>，</pc>为日在赤道内；若去极度多<pc>，</pc>为日在赤道外<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求每日晨昏分及日出入分<pc>：</pc>以其日消息定数<pc>，</pc>春分后加<num value="6825">六千八百二十五</num>
+<pc>，</pc>秋分后减<num value="1">一</num>万<num value="725">七百二十五</num>
+<pc>，</pc>余为所求日晨分；用减元法<pc>，</pc>余为昏分<pc>。</pc>以昏明分加晨分<pc>，</pc>为日出分；减昏分<pc>，</pc>为日入分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求每日距中距子度及每更差度<pc>：</pc>置其日晨分<pc>，</pc>以<num value="700">七百</num>乘之<pc>，</pc>满<num value="7">七</num>万<num value="4742">四千七百四十二</num>除为度<pc>，</pc>不满<pc>，</pc>退除为分<pc>，</pc>命曰距子度；用减半周天<pc>，</pc>余为距中度<pc>。</pc>若倍距子度<pc>，</pc>
+<num value="5">五</num>除之<pc>，</pc>即为每更差度及分<pc>。</pc>若依司辰星漏历<pc>，</pc>则倍距子度<pc>，</pc>减去待旦<num value="36">三十六</num>度<num value="52">五十二</num>分半<pc>，</pc>余以<num value="5">五</num>约之<pc>，</pc>即每更差度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求每日<time when="24:00">夜半</time>定漏<pc>：</pc>置其日晨分<pc>，</pc>以刻法除之为刻<pc>，</pc>不满为分<pc>，</pc>即所求日<time when="24:00">夜半</time>定漏<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求每日昼夜刻及日出入辰刻<pc>：</pc>倍<time when="24:00">夜半</time>定漏<pc>，</pc>加<num value="5">五</num>刻<pc>，</pc>为夜刻<pc>。</pc>用减<num value="100">一百</num>刻<pc>，</pc>余为昼刻<pc>。</pc>以昏明刻加<time when="24:00">夜半</time>定漏<pc>，</pc>满辰法除之为辰数<pc>，</pc>不满<pc>，</pc>刻法除之为刻<pc>，</pc>又不满<pc>，</pc>为刻分<pc>。</pc>命辰数从子正<pc>，</pc>算外<pc>，</pc>即日出辰刻；以昼刻加之<pc>，</pc>命如前<pc>，</pc>即日入辰刻<pc>。</pc>若以半辰刻加之<pc>，</pc>即命从辰初也<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求更点辰刻<pc>：</pc>倍<time when="24:00">夜半</time>定漏<pc>，</pc>
+<num value="25">二十五</num>而<num value="1">一</num>
+<pc>，</pc>为点差刻；<num value="5">五</num>因之<pc>，</pc>为更差刻<pc>。</pc>以昏明刻加日入辰刻<pc>，</pc>即甲夜辰刻；以更点差刻累加之<pc>，</pc>满辰刻及分去之<pc>，</pc>各得更点所入辰刻及分<pc>。</pc>若同司辰星漏历者<pc>，</pc>倍<time when="24:00">夜半</time>定漏<pc>，</pc>减去待旦<num value="10">一十</num>刻<pc>，</pc>余依术求之<pc>，</pc>即同内中更点<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求昏晓及<num value="5">五</num>更中星<pc>：</pc>置距中度<pc>，</pc>以其日昏后<time when="24:00">夜半</time>赤道日度加而命之<pc>，</pc>即其日昏中星所格宿次<pc>，</pc>其昏中星便为初更中星；以每更差度加而命之<pc>，</pc>即乙夜所格中星；累加之<pc>，</pc>得逐更中星所格宿次<pc>。</pc>又倍距子度<pc>，</pc>加昏中星命之<pc>，</pc>即晓中星所格宿次<pc>。</pc>若同司辰星漏历中星<pc>，</pc>则倍距子度<pc>，</pc>减去待旦<num value="10">十</num>刻之度<num value="36">三十六</num>度<num value="52">五十二</num>分半<pc>，</pc>余约之为<num value="5">五</num>更<pc>，</pc>即同内中更点中星<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求<num value="9">九</num>服距差日<pc>：</pc>各于所在立表候之<pc>，</pc>若地在岳台北<pc>，</pc>测冬至后与岳台冬至晷景同者<pc>，</pc>累冬至后至其日<pc>，</pc>为距差日；若地在岳台南<pc>，</pc>测夏至后与岳台晷景同者<pc>，</pc>累夏至后至其日<pc>，</pc>为距差日<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求<num value="9">九</num>服晷景<pc>：</pc>若地在岳台北冬至前后者<pc>，</pc>以冬至前后日数减距差日<pc>，</pc>为余日；以余日减<num value="1937">一千九百三十七</num>半<pc>，</pc>为泛差；依前术求之<pc>，</pc>以加岳台冬至晷景常数<pc>，</pc>为其地其日中晷常数<pc>。</pc>若冬至前后日多于距差日<pc>，</pc>乃减去距差日<pc>，</pc>余依前术求之<pc>，</pc>即得其地其日中晷常数<pc>。</pc>若地在岳台南夏至前后者<pc>，</pc>以夏至前后日数减距差日<pc>，</pc>为余日；乃<num value="3">三</num>约之<pc>，</pc>以减<num value="485">四百八十五</num>少<pc>，</pc>为泛差；依前术求之<pc>，</pc>以减岳台夏至晷景常数<pc>，</pc>即其地其日中晷常数<pc>。</pc>如夏至前后日数多于距差日<pc>，</pc>乃减岳台夏至常晷<pc>，</pc>余即晷在表南也<pc>。</pc>若夏至前后日多于距差日<pc>，</pc>即减去距差日<pc>，</pc>余依前术求之<pc>，</pc>各得其地其日中晷常数<pc>。</pc>若求定数<pc>，</pc>依立成以求午中晷景定数<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求<num value="9">九</num>服所在昼夜漏刻<pc>：</pc>冬<pc>、</pc>夏<num value="2">二</num>至各于所在下水漏<pc>，</pc>以定其地<num value="2">二</num>至夜刻<pc>，</pc>乃相减<pc>，</pc>余为冬<pc>、</pc>夏至差刻<pc>。</pc>置岳台其日消息定数<pc>，</pc>以其地<num value="2">二</num>至差刻乘之<pc>，</pc>如岳台<num value="2">二</num>至差刻<num value="20">二十</num>而<num value="1">一</num>
+<pc>，</pc>所得<pc>，</pc>为其地其日消息定数<pc>。</pc>乃倍消息定数<pc>，</pc>满刻法约之为刻<pc>，</pc>不满为分<pc>，</pc>乃加减其地<num value="2">二</num>至夜刻<pc>，</pc>秋分后<pc>、</pc>春分前<pc>，</pc>减冬至夜刻；春分后<pc>、</pc>秋分前<pc>，</pc>加夏至夜刻<pc>。</pc>
+</p>
+</div>
+<div>
+<p>为其地其日夜刻；用减<num value="100">一百</num>刻<pc>，</pc>余为昼刻<pc>。</pc>其日出入辰刻及距中度<num value="5">五</num>更中星<pc>，</pc>并依前术求之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>步月离术</p>
+</div>
+<div>
+<p>转度母<pc>：</pc>
+<num value="8112">八千一百一十二</num>万<pc>。</pc>
+</p>
+</div>
+<div>
+<p>转终分<pc>：</pc>
+<num value="298">二百九十八</num>亿<num value="8224">八千二百二十四</num>万<num value="2251">二千二百五十一</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>朔差<pc>：</pc>
+<num value="21">二十一</num>亿<num value="4288">四千二百八十八</num>万<num value="7000">七千</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>朔差<pc>：</pc>
+<num value="26">二十六</num>度<pc>。</pc>余<num value="3376">三千三百七十六</num>万<num value="7000">七千</num>
+<pc>，</pc>约余<num value="4162">四千一百六十二</num>半<pc>。</pc>
+</p>
+</div>
+<div>
+<p>转法<pc>：</pc>
+<num value="10">一十</num>亿<num value="8447">八千四百四十七</num>万<num value="3000">三千</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>会周<pc>：</pc>
+<num value="320">三百二十</num>亿<num value="2512">二千五百一十二</num>万<num value="9251">九千二百五十一</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>转终<pc>：</pc>
+<num value="368">三百六十八</num>度<pc>。</pc>余<num value="38">三十八</num>万<num value="2251">二千二百五十一</num>
+<pc>，</pc>约余<num value="3708">三千七百八</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>转终<pc>：</pc>
+<measure quantity="27" unit="days">
+<num value="27">二十七</num>日</measure>
+<pc>。</pc>余<num value="6">六</num>亿<num value="147">一百四十七</num>万<num value="1251">一千二百五十一</num>
+<pc>，</pc>约余<num value="5546">五千五百四十六</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>中度<pc>：</pc>
+<num value="184">一百八十四</num>度<pc>。</pc>余<num value="1504">一千五百四</num>万<num value="1125">一千一百二十五</num>半<pc>，</pc>约余<num value="1854">一千八百五十四</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>象度<pc>：</pc>
+<num value="92">九十二</num>度<pc>。</pc>余<num value="752">七百五十二</num>万<num value="562">五百六十二</num>太<pc>，</pc>约分<num value="927">九百二十七</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>月平行<pc>：</pc>
+<num value="13">十三</num>度<pc>。</pc>余<num value="2991">二千九百九十一</num>万<num value="3000">三千</num>
+<pc>，</pc>约分<num value="3687">三千六百八十七</num>半<pc>。</pc>
+</p>
+</div>
+<div>
+<p>望差<pc>：</pc>
+<num value="197">一百九十七</num>度<pc>。</pc>余<num value="3192">三千一百九十二</num>万<num value="4625">四千六百二十五</num>半<pc>，</pc>约分<num value="3934">三千九百三十四</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>弦差<pc>：</pc>
+<num value="98">九十八</num>度<pc>。</pc>余<num value="5652">五千六百五十二</num>万<num value="2312">二千三百一十二</num>太<pc>，</pc>约分<num value="6967">六千九百六十七</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>日衰<pc>：</pc>
+<num value="18">一十八</num>
+<pc>、</pc>小分<num value="9">九</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求月行入转度<pc>：</pc>以朔差乘所求积月<pc>，</pc>满转终分去之<pc>，</pc>不尽为转余<pc>。</pc>满转度母除为度<pc>，</pc>不满为余<pc>，</pc>其余若以<num value="1">一</num>万乘之<pc>，</pc>满转度母除之<pc>，</pc>即得约分；若以转法除转余<pc>，</pc>即为入转日及余<pc>。</pc>
+</p>
+</div>
+<div>
+<p>即得所求月加时入转度及余<pc>。</pc>若以弦度及余累加之<pc>，</pc>即得上弦<pc>、</pc>望<pc>、</pc>下弦及后朔加时入转度及分；其度若满转终度及余去之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>其入转度如在中度以下为月行在疾历；如在中度以上者<pc>，</pc>乃减去中度及余<pc>，</pc>为月入迟历<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求月行迟疾差度及定差<pc>：</pc>置所求月行入迟速度<pc>，</pc>如在象度以下为在初<pc>。</pc>以上<pc>，</pc>覆减中度<pc>，</pc>余为在末<pc>。</pc>其度余用约分<num value="100">百</num>为母<pc>。</pc>
+</p>
+</div>
+<div>
+<p>置初<pc>、</pc>末度于上<pc>，</pc>列<num value="201">二百一</num>度<num value="9">九</num>分于下<pc>，</pc>以上减下<pc>，</pc>余以下乘上<pc>，</pc>为积数；满<num value="1976">一千九百七十六</num>除为度<pc>，</pc>不满<pc>，</pc>退除为分<pc>，</pc>命曰迟疾差度<pc>。</pc>在疾为减<pc>，</pc>在迟为加<pc>。</pc>
+</p>
+</div>
+<div>
+<p>以<num value="1">一</num>万乘积数<pc>，</pc>满<num value="6773">六千七百七十三</num>半除之<pc>，</pc>为迟疾定差<pc>。</pc>疾加<pc>、</pc>迟减<pc>，</pc>若用立成者<pc>，</pc>以其度下损益率乘度余<pc>，</pc>满转度母而<num value="1">一</num>
+<pc>，</pc>所得<pc>，</pc>随其损益<pc>，</pc>即得迟疾及定差<pc>。</pc>其迟疾<pc>、</pc>初末损益分为<measure quantity="2" unit="days">
+<num value="2">二</num>日</measure>者<pc>，</pc>各加其初<pc>、</pc>末以乘除<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求朔弦望所直度下月行定分<pc>：</pc>置迟疾所入初<pc>、</pc>末度分<pc>，</pc>进<num value="1">一</num>位<pc>，</pc>满<num value="739">七百三十九</num>除之<pc>，</pc>用减<num value="127">一百二十七</num>
+<pc>，</pc>余为衰差<pc>。</pc>乃以衰差疾初迟末减<pc>、</pc>迟初疾末加<pc>，</pc>皆加减平行度分<pc>，</pc>为其度所直月行定分<pc>。</pc>其度以<num value="100">百</num>命为分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求朔弦望定日<pc>：</pc>各以日躔盈缩<pc>、</pc>月行迟疾定差加减经朔<pc>、</pc>弦<pc>、</pc>望小余<pc>，</pc>满若不足<pc>，</pc>进退大余<pc>，</pc>命<num value="1">甲子</num>
+<pc>，</pc>算外<pc>，</pc>各得定日日辰及余<pc>。</pc>若定朔干名与后朔干名同者月大<pc>，</pc>不同月小<pc>，</pc>月内无中气者为闰月<pc>。</pc>凡注历<pc>，</pc>观定朔小余<pc>，</pc>秋分后<num value="4">四</num>分之<num value="3">三</num>已上者<pc>，</pc>进<measure quantity="1" unit="day">
+<num value="1">一</num>日</measure>；若春分后<pc>，</pc>其定朔晨分差如春分之日者<pc>，</pc>
+<num value="3">三</num>约之<pc>，</pc>以减<num value="4">四</num>分之<num value="3">三</num>；如定朔小余及此数已上者<pc>，</pc>进<measure quantity="1" unit="day">
+<num value="1">一</num>日</measure>；朔或当交有食<pc>，</pc>初亏在日入已前者<pc>，</pc>其朔不进<pc>。</pc>弦<pc>、</pc>望定小余不满日出分者<pc>，</pc>退<measure quantity="1" unit="day">
+<num value="1">一</num>日</measure>；其望或当交有食<pc>，</pc>初亏在日出已前<pc>，</pc>其定望小余虽满日出分者<pc>，</pc>亦<persName>退之</persName>
+<pc>。</pc>又月行<num value="9">九</num>道迟疾<pc>，</pc>历有<num value="3">三</num>大<num value="2">二</num>小；日行盈缩累增损之<pc>，</pc>则有<num value="4">四</num>大<num value="3">三</num>小<pc>，</pc>理数然也<pc>。</pc>若循其常<pc>，</pc>则当察加时早晚<pc>，</pc>随其所近而进<persName>退之</persName>
+<pc>，</pc>使月之大小不过连<num value="3">三</num>
+<pc>。</pc>旧说<pc>，</pc>
+<num value="1">正月</num>朔有交<pc>，</pc>必须消息前后<num value="1">一</num>两月<pc>，</pc>移食在晦<pc>、</pc>
+<num value="2">二</num>之日<pc>。</pc>且日食当朔<pc>，</pc>月食当望<pc>，</pc>盖自然之理<pc>。</pc>夫日之食<pc>，</pc>盖天之垂诫<pc>，</pc>警悟时政<pc>，</pc>若道化得中<pc>，</pc>则变咎为祥<pc>。</pc>国家务以至公理天下<pc>，</pc>不可私移晦朔<pc>，</pc>宜顺天诫<pc>。</pc>故<pc>《</pc>
+<title>春秋传</title>
+<pc>》</pc>书日食<pc>，</pc>乃纠正其朔<pc>，</pc>不可专移食于晦<pc>、</pc>
+<num value="2">二</num>
+<pc>。</pc>其<num value="1">正月</num>朔有交<pc>，</pc>
+<num value="1">一</num>从近典<pc>，</pc>不可移避<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求定朔弦望加时日度<pc>：</pc>置朔<pc>、</pc>弦<pc>、</pc>望中日及约分<pc>，</pc>以日躔盈缩度及分盈加缩减之<pc>，</pc>又以元法退除迟疾定差<pc>，</pc>疾加迟减之<pc>，</pc>余为其朔<pc>、</pc>弦<pc>、</pc>望加时定日<pc>。</pc>以天正冬至加时黄道日度加而命之<pc>，</pc>即所求朔<pc>、</pc>弦<pc>、</pc>望加时定日所在宿次<pc>。</pc>朔<pc>、</pc>望有交<pc>，</pc>则依后术<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求月行<num value="9">九</num>道<pc>：</pc>凡合朔所交<pc>，</pc>冬在阴历<pc>，</pc>夏在阳历<pc>，</pc>月行青道<pc>。</pc>冬至<pc>、</pc>夏至后<pc>，</pc>青道半交在春分之宿<pc>，</pc>当黄道东<pc>。</pc>立夏<pc>、</pc>立冬后<pc>，</pc>青道半交在立春之宿<pc>，</pc>当黄道东南；至所冲之宿亦如之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>冬在阳历<pc>，</pc>夏在阴历<pc>，</pc>月行白道<pc>。</pc>冬至<pc>、</pc>夏至后<pc>，</pc>白道半交在秋分之宿<pc>，</pc>当黄道西；立冬<pc>、</pc>立夏后<pc>，</pc>白道半交在立秋之宿<pc>，</pc>当黄道西北；至所冲之宿亦如之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>春在阳历<pc>，</pc>秋在阴历<pc>，</pc>月行朱道<pc>。</pc>春分<pc>、</pc>秋分后<pc>，</pc>朱道交在夏至之宿<pc>，</pc>当黄道南；立春<pc>、</pc>立秋后<pc>，</pc>朱道半交在立夏之宿<pc>，</pc>当黄道西南<pc>：</pc>至所冲之宿亦如之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>春在阴历<pc>，</pc>秋在阳历<pc>，</pc>月行黑道<pc>。</pc>春分<pc>、</pc>秋分后<pc>，</pc>黑道半交在冬至之宿<pc>，</pc>当黄道正北<pc>。</pc>立春<pc>、</pc>立秋后<pc>，</pc>黑道半交在立冬之宿<pc>，</pc>当黄道东北；至所冲之宿亦如之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>
+<num value="4">四</num>序离为<num value="8">八</num>节<pc>，</pc>至阴阳之所交<pc>，</pc>皆与黄道相会<pc>，</pc>故月行<num value="9">九</num>道<pc>。</pc>各视月所入正交积度<pc>，</pc>视正交<num value="9">九</num>道宿度所入节候<pc>，</pc>即其道<pc>、</pc>其节所起<pc>。</pc>
+</p>
+</div>
+<div>
+<p>满象度及分去之余<pc>，</pc>入交积度及象度并在交会术中<pc>。</pc>
+</p>
+</div>
+<div>
+<p>若在半象以下为在初限<pc>。</pc>以上<pc>，</pc>覆减象度及分<pc>，</pc>为在末限<pc>。</pc>用减<num value="111">一百一十一</num>度<num value="37">三十七</num>分<pc>，</pc>余以所入初<pc>、</pc>末限度及分乘之<pc>，</pc>退位<pc>，</pc>半之<pc>，</pc>满<num value="100">百</num>为度<pc>，</pc>不满为分<pc>，</pc>所得为月行与黄道差数<pc>。</pc>距半交后<pc>、</pc>正交前<pc>，</pc>以差数减；距正交后<pc>、</pc>半交前<pc>，</pc>以差数加<pc>。</pc>此加减出入<num value="6">六</num>度<pc>，</pc>单与黄道相较之数<pc>，</pc>若较之赤道<pc>，</pc>随数迁变不常<pc>。</pc>
+</p>
+</div>
+<div>
+<p>计去<num value="2">二</num>至以来度数<pc>，</pc>乘黄道所差<pc>，</pc>
+<num value="90">九十</num>而<num value="1">一</num>
+<pc>，</pc>为月行与黄道差数<pc>。</pc>凡日以赤道内为阴<pc>，</pc>外为阳；月以黄道内为阴<pc>，</pc>外为阳<pc>。</pc>故月行宿度<pc>，</pc>入春分交后行阴历<pc>，</pc>秋分交后行阳历<pc>，</pc>皆为同名；若入春分交后行阳历<pc>，</pc>秋分交后行阴历<pc>，</pc>皆为异名<pc>。</pc>其在同名<pc>，</pc>以差数加者加之<pc>，</pc>减者减之；其在异名<pc>，</pc>以差数加者减之<pc>，</pc>减者加之<pc>。</pc>皆加减黄道宿积度<pc>，</pc>为<num value="9">九</num>道宿积度；以前宿<num value="9">九</num>道宿积度减其宿<num value="9">九</num>道宿积度<pc>，</pc>余为其宿<num value="9">九</num>道宿度及分<pc>。</pc>其分就近约为太<pc>、</pc>半<pc>、</pc>少<num value="3">三</num>数<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求月行<num value="9">九</num>道入交度<pc>：</pc>置其朔加时定日度<pc>，</pc>以其朔交初度及分减之<pc>，</pc>余为其朔加时月行入交度及余<pc>。</pc>其余以<num value="1">一</num>万乘之<pc>，</pc>以元法退除之<pc>，</pc>即为约余<pc>。</pc>
+</p>
+</div>
+<div>
+<p>以天正冬至加时黄道日度加而命之<pc>，</pc>即正交月离所在黄道宿度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求正交加时月离<num value="9">九</num>道宿度<pc>：</pc>以正交度及分减<num value="111">一百一十一</num>度<num value="37">三十七</num>分<pc>，</pc>余以正交度及分乘之<pc>，</pc>退<num value="1">一</num>等<pc>，</pc>半之<pc>，</pc>满<num value="100">百</num>为度<pc>，</pc>不满为分<pc>，</pc>所得<pc>，</pc>命曰定差<pc>。</pc>以定差加黄道宿度<pc>，</pc>计去冬<pc>、</pc>夏至以来度数<pc>，</pc>乘定差<pc>，</pc>
+<num value="90">九十</num>而<num value="1">一</num>
+<pc>，</pc>所得<pc>，</pc>依同异名加减之<pc>，</pc>满若不足<pc>，</pc>进退其度<pc>，</pc>命如前<pc>，</pc>即正交加时月离<num value="9">九</num>道宿度及分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求定朔弦望加时月离所在宿度<pc>：</pc>各置其日加时日躔所在<pc>，</pc>变从<num value="9">九</num>道<pc>，</pc>循次相加<pc>。</pc>凡合朔加时<pc>，</pc>月行潜在日下<pc>，</pc>与太阳同度<pc>，</pc>是为加时月离宿次<pc>。</pc>先置朔<pc>、</pc>弦<pc>、</pc>望加时黄道宿度<pc>，</pc>以正交加时黄道宿度减之<pc>，</pc>余以加其正交加时<num value="9">九</num>道宿度<pc>，</pc>命起正交宿次<pc>，</pc>算外<pc>，</pc>即朔<pc>、</pc>弦<pc>、</pc>望加时所当<num value="9">九</num>道宿度<pc>。</pc>其合朔加时若非正近<pc>，</pc>则日在黄道<pc>、</pc>月在<num value="9">九</num>道各入宿度<pc>，</pc>虽多少不同<pc>，</pc>考其去极<pc>，</pc>若应绳准<pc>。</pc>故云月行潜在日下<pc>，</pc>与太阳同度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>各以弦<pc>、</pc>望度及分加其所当<num value="9">九</num>道宿度<pc>，</pc>满宿次去之<pc>，</pc>各得加时<num value="9">九</num>道月离宿次<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求定朔<time when="24:00">夜半</time>入转<pc>：</pc>以所求经朔小余减其朔加时入转日余<pc>，</pc>其经朔小余<pc>，</pc>以<num value="2">二</num>万<num value="7807">七千八百七</num>乘之<pc>，</pc>即母转法<pc>。</pc>
+</p>
+</div>
+<div>
+<p>为其经朔<time when="24:00">夜半</time>入转<pc>。</pc>若定朔大余有进退者<pc>，</pc>亦进退转日<pc>，</pc>无进退则因经为定<pc>。</pc>其余以转法退收之<pc>，</pc>即为约分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求次月定朔<time when="24:00">夜半</time>入转<pc>：</pc>因定朔<time when="24:00">夜半</time>入转<pc>，</pc>大月加<measure quantity="2" unit="days">
+<num value="2">二</num>日</measure>
+<pc>，</pc>小月加<measure quantity="1" unit="day">
+<num value="1">一</num>日</measure>
+<pc>，</pc>余<pc>、</pc>分皆加<num value="4454">四千四百五十四</num>
+<pc>，</pc>满转终日及约分去之<pc>，</pc>即次月定朔<time when="24:00">夜半</time>入转；累加<measure quantity="1" unit="day">
+<num value="1">一</num>日</measure>
+<pc>，</pc>去命如前<pc>，</pc>各得逐日<time when="24:00">夜半</time>入转日及分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求定朔弦望<time when="24:00">夜半</time>月度<pc>：</pc>各置加时小余<pc>，</pc>若非朔<pc>、</pc>望有交者<pc>，</pc>有用定朔<pc>、</pc>弦<pc>、</pc>望小余<pc>。</pc>
+</p>
+</div>
+<div>
+<p>以其日月行定分乘之<pc>，</pc>满元法而<num value="1">一</num>为度<pc>，</pc>不满<pc>，</pc>退除为分<pc>，</pc>命曰加时度<pc>。</pc>以减其日加时月度<pc>，</pc>即各得所求<time when="24:00">夜半</time>月度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求晨昏月<pc>：</pc>以晨分乘其日月行定分<pc>，</pc>元法而<num value="1">一</num>
+<pc>，</pc>为晨度；用减月行定分<pc>，</pc>余为昏度<pc>。</pc>各以晨昏度加<time when="24:00">夜半</time>月度<pc>，</pc>即所求晨昏月所在宿度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求朔弦望晨昏定程<pc>：</pc>各以其朔昏定月减上弦昏定月<pc>，</pc>余为朔后昏定程；以上弦昏定月减望昏定月<pc>，</pc>余为上弦后昏定程；以望晨定月减下弦晨定月<pc>，</pc>余为望后晨定程；以下弦晨定月减次朔晨定月<pc>，</pc>余为下弦后晨定程<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求转积度<pc>：</pc>计<measure quantity="28" unit="days">
+<num value="28">四七</num>日</measure>月行定分<pc>，</pc>以日衰加减之<pc>，</pc>为逐日月行定程；乃自所入日计求定之<pc>，</pc>为其程转积度分<pc>。</pc>其<measure quantity="28" unit="days">
+<num value="28">四七</num>日</measure>月行定分者<pc>，</pc>初日益迟<num value="1210">一千二百一十</num>
+<pc>，</pc>
+<measure quantity="7" unit="days">
+<num value="7">七</num>日</measure>渐疾<num value="1341">一千三百四十一</num>
+<pc>，</pc>
+<measure quantity="14" unit="days">
+<num value="14">十四</num>日</measure>损疾<num value="1461">一千四百六十一</num>
+<pc>，</pc>
+<measure quantity="21" unit="days">
+<num value="21">二十一</num>日</measure>渐迟<num value="1328">一千三百二十八</num>
+<pc>，</pc>乃观其迟疾之极差而损益之<pc>，</pc>以<num value="100">百</num>为分母<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求每日晨昏月<pc>：</pc>以转积度与晨昏定程相减<pc>，</pc>余以距后程日数除之<pc>，</pc>为日差<pc>。</pc>定程多为加<pc>，</pc>定程少为减<pc>。</pc>
+</p>
+</div>
+<div>
+<p>以加减每日月行定分<pc>，</pc>为每日转定度及分<pc>。</pc>以每日转定度及分加朔<pc>、</pc>弦<pc>、</pc>望晨昏月<pc>，</pc>满<num value="9">九</num>道宿次去之<pc>，</pc>即为每日晨<pc>、</pc>昏月离所在宿度及分<pc>。</pc>凡注历<pc>，</pc>朔后注昏<pc>，</pc>望后注晨<pc>。</pc>
+</p>
+</div>
+<div>
+<p>已前月度<pc>，</pc>并依<num value="9">九</num>道所推<pc>，</pc>以究算术之精微<pc>。</pc>若注历求其速要者<pc>，</pc>即依后术以推黄道月度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求天正<measure quantity="11" unit="months">
+<num value="11">十一</num>月</measure>定朔<time when="24:00">夜半</time>平行月<pc>：</pc>以天正经朔小余乘平行度分<pc>，</pc>元法而<num value="1">一</num>为度<pc>，</pc>不满<pc>，</pc>退除为分秒<pc>，</pc>所得<pc>，</pc>为经朔加时度<pc>。</pc>用减其朔中日<pc>，</pc>即经朔晨前<time when="24:00">夜半</time>平行月积度<pc>。</pc>若定朔有进退<pc>，</pc>以平行度分加减之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>即为天正<measure quantity="11" unit="months">
+<num value="11">十一</num>月</measure>定朔之日晨前<time when="24:00">夜半</time>平行月积度及分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求次月定朔之日<time when="24:00">夜半</time>平行月<pc>：</pc>置天正定朔之日<time when="24:00">夜半</time>平行月<pc>，</pc>大月加<num value="35">三十五</num>度<num value="80">八十</num>分<num value="61">六十一</num>秒<pc>，</pc>小月加<num value="22">二十二</num>度<num value="43">四十三</num>分<num value="73">七十三</num>秒半<pc>，</pc>满周天度分即去之<pc>，</pc>即每月定朔之晨前<time when="24:00">夜半</time>平行月积度及分秒<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求定弦望<time when="24:00">夜半</time>平行月<pc>、</pc>计弦<pc>、</pc>望距定朔日数<pc>，</pc>以乘平行度及分秒<pc>，</pc>以加其定朔<time when="24:00">夜半</time>平行月积度及分秒<pc>，</pc>即定弦<pc>、</pc>望之日<time when="24:00">夜半</time>平行月积度及分秒<pc>。</pc>亦可直求朔望<pc>，</pc>不复求度<pc>，</pc>从简易也<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求天正定朔<time when="24:00">夜半</time>入转度<pc>：</pc>置天正经朔小余<pc>，</pc>以平行月度及分乘之<pc>，</pc>满元法除为度<pc>，</pc>不满<pc>，</pc>退除为分秒<pc>，</pc>命为加时度；以减天正<measure quantity="11" unit="months">
+<num value="11">十一</num>月</measure>经朔加时入转度及约分<pc>，</pc>余为天正<measure quantity="11" unit="months">
+<num value="11">十一</num>月</measure>经朔<time when="24:00">夜半</time>入转度及分<pc>。</pc>若定朔大余有进退者<pc>，</pc>亦进退平行度分<pc>，</pc>即为天正<measure quantity="11" unit="months">
+<num value="11">十一</num>月</measure>定朔之日晨前<time when="24:00">夜半</time>入转度及分秒<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求次月定朔及弦望<time when="24:00">夜半</time>入转度<pc>：</pc>因天正<measure quantity="11" unit="months">
+<num value="11">十一</num>月</measure>定朔<time when="24:00">夜半</time>入转度分<pc>，</pc>大月加<num value="32">三十二</num>度<num value="69">六十九</num>分<num value="17">一十七</num>秒<pc>，</pc>小月加<num value="19">十九</num>度<num value="32">三十二</num>分<num value="29">二十九</num>秒半<pc>，</pc>即各得次月定朔<time when="24:00">夜半</time>入转度及分<pc>。</pc>各以朔<pc>、</pc>弦<pc>、</pc>望相距日数乘平行度分以加之<pc>，</pc>满转终度及秒即去之<pc>，</pc>如在中度以下者为在疾；以上者去之<pc>，</pc>余为入迟历<pc>，</pc>即各得次朔<pc>、</pc>弦<pc>、</pc>望定日晨前<time when="24:00">夜半</time>入转度及分<pc>。</pc>若以平行月度及分收之<pc>，</pc>即为定朔<pc>、</pc>弦<pc>、</pc>望入转日<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求定朔弦望<time when="24:00">夜半</time>定月<pc>：</pc>以定朔<pc>、</pc>弦<pc>、</pc>望<time when="24:00">夜半</time>入转度分乘其度损益衰<pc>，</pc>以<num value="1">一</num>万约之为分<pc>，</pc>
+<num value="100">百</num>约之为秒<pc>，</pc>损益其度下迟疾度<pc>，</pc>为迟疾定度<pc>。</pc>乃以迟加疾减<time when="24:00">夜半</time>平行月<pc>，</pc>为朔<pc>、</pc>弦<pc>、</pc>望<time when="24:00">夜半</time>定月积度<pc>。</pc>以冬至加时黄道日度加而命之<pc>，</pc>即定朔<pc>、</pc>弦<pc>、</pc>望<time when="24:00">夜半</time>月离所在宿次<pc>。</pc>若有求晨昏月<pc>，</pc>以其日晨昏分乘其日月行定分<pc>，</pc>元法而<num value="1">一</num>
+<pc>，</pc>所得为晨昏度；以加其<time when="24:00">夜半</time>定月<pc>，</pc>即得朔<pc>、</pc>弦<pc>、</pc>望晨昏月度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求朔弦望定程<pc>：</pc>各以朔<pc>、</pc>弦<pc>、</pc>望定月相减<pc>，</pc>余为定程<pc>。</pc>若求晨昏定程<pc>，</pc>则用晨昏定月相减<pc>，</pc>朔后用昏<pc>，</pc>望后用晨<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求朔弦望转积度分<pc>：</pc>计<measure quantity="28" unit="days">
+<num value="28">四七</num>日</measure>月行定分<pc>，</pc>以日衰加减之<pc>，</pc>为逐日月行定分；乃自所入日计之<pc>，</pc>为其程转积度分<pc>。</pc>其<measure quantity="28" unit="days">
+<num value="28">四七</num>日</measure>月行定分者<pc>，</pc>初日益迟<num value="1210">一千二百一十</num>
+<pc>，</pc>
+<measure quantity="7" unit="days">
+<num value="7">七</num>日</measure>渐疾<num value="1341">一千三百四十一</num>
+<pc>，</pc>
+<measure quantity="14" unit="days">
+<num value="14">十四</num>日</measure>损疾<num value="1461">一千四百六十一</num>
+<pc>，</pc>
+<measure quantity="21" unit="days">
+<num value="21">二十一</num>日</measure>渐迟<num value="1328">一千三百二十八</num>
+<pc>，</pc>乃视其迟疾之极差而损益之<pc>，</pc>分以<num value="100">百</num>为母<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求每日月离宿次<pc>：</pc>各以其朔<pc>、</pc>弦<pc>、</pc>望定程与转积度相减<pc>，</pc>余为程差<pc>。</pc>以距后程日数除之<pc>，</pc>为日差<pc>。</pc>定程多为益差<pc>，</pc>定程少为损差<pc>。</pc>
+</p>
+</div>
+<div>
+<p>以日差加减月行定分<pc>。</pc>为每日月行定分；以每日月行定分累加定朔<pc>、</pc>弦<pc>、</pc>望<time when="24:00">夜半</time>月在宿次<pc>，</pc>命之<pc>，</pc>即每日晨前<time when="24:00">夜半</time>月离宿次<pc>。</pc>如晨昏宿次<pc>，</pc>即得每日晨昏月度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>步交会术</p>
+</div>
+<div>
+<p>交度母<pc>：</pc>
+<num value="624">六百二十四</num>万<pc>。</pc>
+</p>
+</div>
+<div>
+<p>周天分<pc>：</pc>
+<num value="22">二十二</num>亿<num value="7920">七千九百二十</num>万<num value="447">四百四十七</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>朔差<pc>：</pc>
+<num value="990">九百九十</num>万<num value="1159">一千一百五十九</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>朔差<pc>：</pc>
+<num value="1">一</num>度<pc>、</pc>余<num value="366">三百六十六</num>万<num value="1159">一千一百五十九</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>望差<pc>：</pc>空度<pc>、</pc>余<num value="495">四百九十五</num>万<num value="579">五百七十九</num>半<pc>。</pc>
+</p>
+</div>
+<div>
+<p>半周天<pc>：</pc>
+<num value="182">一百八十二</num>度<pc>。</pc>余<num value="392">三百九十二</num>万<num value="223">二百二十三</num>半<pc>，</pc>约分<num value="6282">六千二百八十二</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>日食限<pc>：</pc>
+<num value="1464">一千四百六十四</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>月食限<pc>：</pc>
+<num value="1338">一千三百三十八</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>盈初限缩末限<pc>：</pc>
+<num value="60">六十</num>度<num value="87">八十七</num>分半<pc>。</pc>
+</p>
+</div>
+<div>
+<p>缩初限盈末限<pc>：</pc>
+<num value="121">一百二十一</num>度<num value="75">七十五</num>分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求交初度<pc>：</pc>置所求积月<pc>，</pc>以朔差乘之<pc>，</pc>满周天分去之<pc>，</pc>不尽<pc>，</pc>覆减周天分<pc>，</pc>满交度母除之为度<pc>，</pc>不满为余<pc>，</pc>即得所求月交初度及余；以半周天加之<pc>，</pc>满周天去之<pc>，</pc>余为交中度及余<pc>。</pc>若以望差减之<pc>，</pc>即得其月望交初度及余；以朔差减之<pc>，</pc>即得次月交初度及余；以交度母退除<pc>，</pc>即得余分<pc>。</pc>若以天正黄道日度加而命之<pc>，</pc>即各得交初<pc>、</pc>中所在宿度及分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求日月食甚小余及加时辰刻<pc>：</pc>以其朔<pc>、</pc>望月行迟疾定差疾加迟减经朔望小余<pc>，</pc>若不足减者<pc>，</pc>退大余<num value="1">一</num>
+<pc>，</pc>加元法以减之；若加之满元法者<pc>，</pc>但积其数<pc>。</pc>
+</p>
+</div>
+<div>
+<p>以<num value="1337">一千三百三十七</num>乘之<pc>，</pc>满其度所直月行定分除之<pc>，</pc>为月行差数；乃以日躔盈定差盈加缩减之<pc>，</pc>余为其朔<pc>、</pc>望食甚小余<pc>。</pc>凡加减满若不足<pc>，</pc>进退其日<pc>，</pc>此朔望加时以究月行迟疾之数<pc>，</pc>若非有交会<pc>，</pc>直以经定小余为定<pc>。</pc>
+</p>
+</div>
+<div>
+<p>置之<pc>，</pc>如前发敛加时术入之<pc>，</pc>即各得日<pc>、</pc>月食甚所在晨刻<pc>。</pc>视食甚小余<pc>，</pc>如半法以下者<pc>，</pc>覆减半法<pc>，</pc>余为午前分；半法已上者<pc>，</pc>减去半法<pc>，</pc>余为午后分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求朔望加时日月度<pc>：</pc>以其朔<pc>、</pc>望加时小余与经朔望小余相减<pc>，</pc>余以元法退收之<pc>，</pc>以加减其朔<pc>、</pc>望中日及约分<pc>，</pc>经朔望少<pc>，</pc>加；经朔望多<pc>，</pc>减<pc>。</pc>
+</p>
+</div>
+<div>
+<p>为其朔<pc>、</pc>望加时中日<pc>。</pc>乃以所入日升降分乘所入日约分<pc>，</pc>以<num value="1">一</num>万约之<pc>，</pc>所得<pc>，</pc>随以损益其日下盈缩积<pc>，</pc>为盈缩定度；以盈加缩减加时中日<pc>，</pc>为其朔<pc>、</pc>望加时定日；望则更加半周天<pc>，</pc>为加时定月；以天正冬至加时黄道日度加而命之<pc>，</pc>即得所求朔<pc>、</pc>望加时日月所在宿度及分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求朔望日月加时去交度分<pc>：</pc>置朔望日月加时定度与交初<pc>、</pc>交中度相减<pc>，</pc>余为去交度分<pc>。</pc>就近者相减之<pc>，</pc>其度以<num value="100">百</num>通之为分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>加时度多为后<pc>，</pc>少为前<pc>，</pc>即得其朔望去交前<pc>、</pc>后分<pc>。</pc>交初后<pc>、</pc>交中前<pc>，</pc>为月行外道阳历；交中后<pc>、</pc>交初前<pc>，</pc>为月行内道阴历<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求日食<num value="4">四</num>正食差定数<pc>：</pc>置其朔加时定日<pc>，</pc>如半周天以下者为在盈<pc>。</pc>以上者去之<pc>，</pc>余为在缩<pc>。</pc>视之<pc>，</pc>如在初限以下者为在初<pc>。</pc>以上者<pc>，</pc>覆减<num value="2">二</num>至限<pc>，</pc>余为在末<pc>。</pc>置初<pc>、</pc>末限度及分<pc>，</pc>盈初限<pc>、</pc>缩末限者倍之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>置于上位<pc>，</pc>列<num value="243">二百四十三</num>度半于下<pc>，</pc>以上减下<pc>，</pc>余以下乘上<pc>，</pc>以<num value="106">一百六</num>乘之<pc>，</pc>满<num value="3093">三千九十三</num>除之<pc>，</pc>为东西食差泛数<pc>。</pc>用减<num value="508">五百八</num>
+<pc>，</pc>余为南北食差泛数<pc>。</pc>其求南北食差定数者<pc>，</pc>乃视午前<pc>、</pc>后分<pc>，</pc>如<num value="4">四</num>分法之<num value="1">一</num>以下者覆减之<pc>，</pc>余以乘泛数<pc>。</pc>若以上者即去之<pc>，</pc>余以乘泛数<pc>，</pc>皆满<num value="9750">九千七百五十</num>除之<pc>，</pc>为南北食差定数<pc>。</pc>盈初缩末限者<pc>，</pc>食甚在卯酉以南<pc>，</pc>内减外加；食甚在卯酉以北<pc>，</pc>内加外减<pc>。</pc>
+</p>
+</div>
+<div>
+<p>缩初盈末限者<pc>，</pc>食甚在卯酉以南<pc>，</pc>内加外减；食甚在卯酉以北<pc>，</pc>内减外加<pc>。</pc>
+</p>
+</div>
+<div>
+<p>其求东西食差定数者<pc>，</pc>乃视午前<pc>、</pc>后分<pc>，</pc>如<num value="4">四</num>分法之<num value="1">一</num>以下者以乘泛数；以上者<pc>，</pc>覆减半法<pc>，</pc>余乘泛数<pc>，</pc>皆满<num value="9750">九千七百五十</num>除之<pc>，</pc>为东西食差定数<pc>。</pc>盈初缩末限者<pc>，</pc>食甚在子午以东<pc>，</pc>内减外加；食甚在子午以西<pc>，</pc>内加外减<pc>。</pc> 缩初盈末限者<pc>，</pc>食甚在子午以东<pc>，</pc>内加外减；食甚在子午以西<pc>，</pc>内减外加<pc>。</pc>
+</p>
+</div>
+<div>
+<p>即得其朔<num value="4">四</num>正食差加减定数<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求日月食去交定分<pc>：</pc>视其朔<num value="4">四</num>正食差<pc>，</pc>加减定数<pc>，</pc>同名相从<pc>，</pc>异名相消<pc>，</pc>余为食差加减总数；以加减去交分<pc>，</pc>余为日食去交定分<pc>。</pc>其去交定分不足减<pc>、</pc>乃覆减食差总数<pc>、</pc>若阳历覆减入阴历<pc>，</pc>为入食限；若阴历覆减入阳历<pc>，</pc>为不入食限<pc>。</pc>凡加之满食限以上者<pc>，</pc>亦不入食限<pc>。</pc>
+</p>
+</div>
+<div>
+<p>其望食者<pc>，</pc>以其望去交分便为其望月食去交定分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求日月食分<pc>：</pc>日食者<pc>，</pc>视去交定分<pc>，</pc>如食限<num value="3">三</num>之<num value="1">一</num>以下者倍之<pc>，</pc>类同阳历食分<pc>。</pc>以上者<pc>，</pc>覆减食限<pc>，</pc>余为阴历食分<pc>。</pc>皆进<num value="1">一</num>位<pc>，</pc>满<num value="976">九百七十六</num>除为大分<pc>，</pc>不满<pc>，</pc>退除为小分<pc>，</pc>命<num value="10">十</num>为限<pc>，</pc>即日食之大<pc>、</pc>小分<pc>。</pc>月食者<pc>，</pc>视去交定分<pc>，</pc>如食限<num value="3">三</num>之<num value="1">一</num>以下者<pc>，</pc>食既；以上者<pc>，</pc>覆减食限<pc>。</pc>余进<num value="1">一</num>位<pc>，</pc>满<num value="892">八百九十二</num>除之为大分<pc>，</pc>不满<pc>，</pc>退除为小分<pc>，</pc>命<num value="10">十</num>为限<pc>，</pc>即月食之大<pc>、</pc>小分<pc>。</pc>其食不满大分者<pc>，</pc>虽交而数浅<pc>，</pc>或不见食也<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求日食泛用刻分<pc>：</pc>置阴<pc>、</pc>阳历食分于上<pc>，</pc>列<num value="1952">一千九百五十二</num>于下<pc>，</pc>以上减下<pc>，</pc>余以乘上<pc>，</pc>满<num value="271">二百七十一</num>除之<pc>，</pc>为日食泛用刻<pc>、</pc>分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求月食泛用刻分<pc>：</pc>置去交定分<pc>，</pc>自相乘<pc>，</pc>交初以<num value="459">四百五十九</num>除<pc>，</pc>交中以<num value="540">五百四十</num>除之<pc>，</pc>所得<pc>，</pc>交初以减<num value="3900">三千九百</num>
+<pc>，</pc>交中以减<num value="3315">三千三百一十五</num>
+<pc>，</pc>余为月食泛用刻<pc>、</pc>分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求日月食定用刻分<pc>：</pc>置日月食泛用刻<pc>、</pc>分<pc>，</pc>以<num value="1337">一千三百三十七</num>乘之<pc>，</pc>以所直度下月行定分除之<pc>，</pc>所得为日月食定用刻<pc>、</pc>分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求日月食亏初复满时刻<pc>：</pc>以定用刻分减食甚小余<pc>，</pc>为亏初小余；加食甚<pc>，</pc>为复满小余；各满辰法为辰数<pc>，</pc>不尽<pc>，</pc>满刻法除之为刻数<pc>，</pc>不满为分<pc>。</pc>命辰数从子正<pc>，</pc>算外<pc>，</pc>即得亏初<pc>、</pc>复末辰<pc>、</pc>刻及分<pc>。</pc>若以半辰数加之<pc>，</pc>即命从时初也<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求日月食初亏复满方位<pc>：</pc>其日食在阳历者<pc>，</pc>初食西南<pc>，</pc>甚于正南<pc>，</pc>复于东南；日在阴历者<pc>，</pc>初食西北<pc>，</pc>甚于正北<pc>，</pc>复于东北<pc>。</pc>其食过<num value="8">八</num>分者<pc>，</pc>皆初食正西<pc>，</pc>复于正东<pc>。</pc>其月食者<pc>，</pc>月在阴历<pc>，</pc>初食东南<pc>，</pc>甚于正南<pc>，</pc>复于西南；月在阳历<pc>，</pc>初食东北<pc>，</pc>甚于正北<pc>，</pc>复于西北<pc>。</pc>其食<num value="8">八</num>分已上者<pc>，</pc>皆初食正东<pc>，</pc>复于正西<pc>。</pc>此皆审其食甚所向<pc>，</pc>据午正而论之<pc>，</pc>其食余方察其斜正<pc>，</pc>则初亏<pc>、</pc>复满乃可知矣<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求月食更点定法<pc>：</pc>倍其望晨分<pc>，</pc>
+<num value="5">五</num>而<num value="1">一</num>
+<pc>，</pc>为更法；又<num value="5">五</num>而<num value="1">一</num>
+<pc>，</pc>为点法<pc>。</pc>若依司辰星注历<pc>，</pc>同内中更点<pc>，</pc>则倍晨分<pc>，</pc>减去待旦<num value="10">十</num>刻之分<pc>，</pc>余<pc>，</pc>
+<num value="5">五</num>而<num value="1">一</num>
+<pc>，</pc>为更法；又<num value="5">五</num>而<num value="1">一</num>
+<pc>，</pc>为点法<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求月食入更点<pc>：</pc>各置初亏<pc>、</pc>食甚<pc>、</pc>复满小余<pc>，</pc>如在晨分以下者加晨分<pc>，</pc>如在昏分以上者减去昏分<pc>，</pc>余以更法除之为更数<pc>，</pc>不满<pc>，</pc>以点法除之为点数<pc>。</pc>其更数命初更<pc>，</pc>算外<pc>，</pc>即各得所入更<pc>、</pc>点<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求月食既内外刻分<pc>：</pc>置月食去交分<pc>，</pc>覆减食限<num value="3">三</num>之<num value="1">一</num>
+<pc>，</pc>不及减者为食不既<pc>。</pc> 余列于上位；乃列<num value="3">三</num>之<num value="2">二</num>于下<pc>，</pc>以上减下<pc>，</pc>余以下乘上<pc>，</pc>以<num value="170">一百七十</num>除之<pc>，</pc>所得<pc>，</pc>以定用刻分乘之<pc>，</pc>满泛用刻分除之<pc>，</pc>为月食既内刻分；用减定用刻分<pc>，</pc>余为既外刻<pc>、</pc>分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求日月带食出入所见分数<pc>：</pc>视食甚小余在日出分以下者<pc>，</pc>为月见食甚<pc>、</pc>日不见食甚；以日出分减复满小余<pc>，</pc>若食甚小余在日出分已上者<pc>，</pc>为日见食甚<pc>、</pc>月不见食甚；以初亏小余减日出分<pc>，</pc>各为带食差；若月食既者<pc>，</pc>以既内刻分减带食差<pc>，</pc>余乘所食分<pc>，</pc>既外刻分而<num value="1">一</num>
+<pc>，</pc>不及减者<pc>，</pc>即带食既出入也<pc>。</pc>
+</p>
+</div>
+<div>
+<p>以乘所食之分<pc>，</pc>满定用刻分而<num value="1">一</num>
+<pc>，</pc>即各为日带食出<pc>、</pc>月带食入所见之分<pc>。</pc>凡亏初小余多如日出分为在昼<pc>，</pc>复满小余多如日出分为在夜<pc>，</pc>不带食出入也<pc>。</pc>
+</p>
+</div>
+<div>
+<p>若食甚小余在日入分以下者<pc>，</pc>为日见食甚<pc>、</pc>月不见食甚；以日入分减复满小余<pc>，</pc>若食甚小余在日入分已上者<pc>，</pc>为月见食甚<pc>、</pc>日不见食甚；以初亏小余减日入分<pc>，</pc>各为带食差；若月食既者<pc>，</pc>以既内刻分减带食差<pc>，</pc>余乘所差分<pc>，</pc>既外刻分而<num value="1">一</num>
+<pc>，</pc>不及减者<pc>，</pc>即带食既出入也<pc>。</pc>
+</p>
+</div>
+<div>
+<p>以乘所食之分<pc>，</pc>满定用刻分而<num value="1">一</num>
+<pc>，</pc>即各为日带食入<pc>、</pc>月带食出所见之分<pc>。</pc>凡亏初小余多如日入分为在夜<pc>，</pc>复满小余少如日入分为在昼<pc>，</pc>并不带食出入也<pc>。</pc>
+</p>
+</div>
+<div>
+<p>步<num value="5">五</num>星术</p>
+</div>
+<div>
+<p>木星终率<pc>：</pc>
+<num value="1555">一千五百五十五</num>万<num value="6504">六千五百四</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>终日<pc>：</pc>
+<measure quantity="398" unit="days">
+<num value="398">三百九十八</num>日</measure>
+<pc>。</pc>余<num value="3">三</num>万<num value="4504">四千五百四</num>
+<pc>，</pc>约分<num value="8847">八千八百四十七</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>历差<pc>：</pc>
+<num value="6">六</num>万<num value="1750">一千七百五十</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>见伏常度<pc>：</pc>
+<num value="14">一十四</num>度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>火星终率<pc>：</pc>
+<num value="3041">三千四十一</num>万<num value="7536">七千五百三十六</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>终日<pc>：</pc>
+<measure quantity="779" unit="days">
+<num value="779">七百七十九</num>日</measure>
+<pc>。</pc>余<num value="3">三</num>万<num value="6536">六千五百三十六</num>
+<pc>，</pc>约分<num value="9368">九千三百六十八</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>历差<pc>：</pc>
+<num value="6">六</num>万<num value="1240">一千二百四十</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>见伏常度<pc>：</pc>
+<num value="18">一十八</num>度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>土星终率<pc>：</pc>
+<num value="1474">一千四百七十四</num>万<num value="5446">五千四百四十六</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>终日<pc>：</pc>
+<num value="378">三百七十八</num>
+<pc>。</pc>余<num value="3446">三千四百四十六</num>
+<pc>，</pc>约分<num value="883">八百八十三</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>历差<pc>：</pc>
+<num value="6">六</num>万<num value="1350">一千三百五十</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>见伏常度<pc>：</pc>
+<num value="18">一十八</num>度半<pc>。</pc>
+</p>
+</div>
+<div>
+<p>金星终率<pc>：</pc>
+<num value="2277">二千二百七十七</num>万<num value="2196">二千一百九十六</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>终日<pc>：</pc>
+<measure quantity="583" unit="days">
+<num value="583">五百八十三</num>日</measure>
+<pc>。</pc>余<num value="3">三</num>万<num value="5196">五千一百九十六</num>
+<pc>，</pc>约分<num value="9024">九千二十四</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>见伏常度<pc>：</pc>
+<num value="11">一十一</num>度少<pc>。</pc>
+</p>
+</div>
+<div>
+<p>水星终率<pc>：</pc>
+<num value="451">四百五十一</num>万<num value="9184">九千一百八十四</num>
+<pc>。</pc>改<num value="9194">九千一百九十四</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>终日<pc>：</pc>
+<measure quantity="115" unit="days">
+<num value="115">一百一十五</num>日</measure>
+<pc>。</pc>余<num value="3">三</num>万<num value="4184">四千一百八十四</num>
+<pc>，</pc>约分<num value="8765">八千七百六十五</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>见伏常度<pc>：</pc>
+<num value="18">一十八</num>度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求<num value="5">五</num>星天正冬至后诸段中积中星<pc>：</pc>置气积分<pc>，</pc>各以其星终率去之<pc>，</pc>不尽<pc>，</pc>覆减终率<pc>，</pc>余满元法为日<pc>，</pc>不满<pc>，</pc>退除为分<pc>，</pc>即天正冬至后其星平合中积<pc>。</pc>重列之为中星<pc>，</pc>因命为前<num value="1">一</num>段之初<pc>，</pc>以诸段变日<pc>、</pc>变度累加减之<pc>，</pc>即为诸段中星<pc>。</pc>变日加减中积<pc>，</pc>变度加减中星<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求木火土<num value="3">三</num>星入历<pc>：</pc>以其星历差乘积年<pc>，</pc>满周天分去之<pc>，</pc>不尽<pc>，</pc>以度母除之为度<pc>，</pc>不满<pc>，</pc>退除为分<pc>，</pc>命曰差度；以减其星平合中星<pc>，</pc>即为平合入历度分；以其星其段历度加之<pc>，</pc>满周天度分即去之<pc>，</pc>各得其星其段入历度分<pc>。</pc>金<pc>、</pc>水附日而行<pc>，</pc>更不求历差<pc>。</pc>其木<pc>、</pc>火<pc>、</pc>土<num value="3">三</num>星前变为晨<pc>，</pc>后变为夕<pc>。</pc>金<pc>、</pc>水<num value="2">二</num>星前变为夕<pc>，</pc>后变为晨<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求木火土<num value="3">三</num>星诸段盈缩定差<pc>：</pc>木<pc>、</pc>土<num value="2">二</num>星<pc>，</pc>置其星其段入历度分<pc>，</pc>如半周天以下者为在盈<pc>。</pc>以上者<pc>，</pc>减去半周天<pc>，</pc>余为在缩<pc>。</pc>置盈缩度分<pc>，</pc>如在<num value="1">一</num>象以下者为在初限<pc>。</pc>以上者<pc>，</pc>覆减半周天<pc>，</pc>余为在末限<pc>。</pc>置初<pc>、</pc>末限度及分于上<pc>，</pc>列半周天于下<pc>，</pc>以上减下<pc>，</pc>以下乘上<pc>，</pc>木进<num value="1">一</num>位<pc>，</pc>土<num value="9">九</num>因之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>皆满<num value="100">百</num>为分<pc>，</pc>分满<num value="100">百</num>为度<pc>，</pc>命曰盈缩定差<pc>。</pc>其火星<pc>，</pc>置盈缩度分<pc>，</pc>如在初限以下者为在初<pc>。</pc>以上者<pc>，</pc>覆减半周天<pc>，</pc>余为在末<pc>。</pc>以<num value="45">四十五</num>度<num value="65">六十五</num>分半为盈初<pc>、</pc>缩末限度<pc>，</pc>以<num value="136">一百三十六</num>度<num value="96">九十六</num>分半为缩初<pc>、</pc>盈末限度分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>置初<pc>、</pc>末限度于上<pc>，</pc>盈初<pc>、</pc>缩末<num value="3">三</num>因之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>列<num value="273">二百七十三</num>度<num value="93">九十三</num>分于下<pc>，</pc>以上减下<pc>，</pc>余以下乘上<pc>，</pc>以<num value="12">一十二</num>乘之<pc>，</pc>满<num value="100">百</num>为度<pc>，</pc>不满<pc>，</pc>
+<num value="100">百</num>约为分<pc>，</pc>命曰盈缩定差<pc>。</pc>若用立成法<pc>，</pc>以其度下损益率乘度下约分<pc>，</pc>满<num value="100">百</num>者<pc>，</pc>以损益其度下盈缩差度为盈缩定差<pc>，</pc>若在留退段者<pc>，</pc>即在盈缩泛差<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求木火土<num value="3">三</num>星留退差<pc>：</pc>置后退<pc>、</pc>后留盈缩泛差<pc>，</pc>各列其星盈缩极度于下<pc>，</pc>木极度<pc>，</pc>
+<num value="8">八</num>度<num value="33">三十三</num>分；火极度<pc>，</pc>
+<num value="22">二十二</num>度<num value="51">五十一</num>分；土极度<pc>，</pc>
+<num value="7">七</num>度<num value="50">五十</num>分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>以上减下<pc>，</pc>余以下乘上<pc>，</pc>水<pc>、</pc>土<num value="3">三</num>因之<pc>，</pc>火倍之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>皆满<num value="100">百</num>为度<pc>，</pc>命曰留退差<pc>。</pc>后退初半之<pc>，</pc>后留全用<pc>。</pc>
+</p>
+</div>
+<div>
+<p>其留退差<pc>，</pc>在盈益减损加<pc>、</pc>在缩损减益加其段盈缩泛差<pc>，</pc>为后退<pc>、</pc>后留定差<pc>。</pc>因为后迟初段定差<pc>，</pc>各须类会前留定差<pc>，</pc>观其盈缩<pc>，</pc>察其降差也<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求<num value="5">五</num>星诸段定积<pc>：</pc>各置其星其段中积<pc>，</pc>以其段盈缩定差盈加缩减之<pc>，</pc>即其星其段定积及分；以天正冬至大余及约分加之<pc>，</pc>满纪法去之<pc>，</pc>不尽<pc>，</pc>命<num value="1">甲子</num>
+<pc>，</pc>算外<pc>，</pc>即得日辰<pc>。</pc>其<num value="5">五</num>星合见<pc>、</pc>伏<pc>，</pc>即为推算段定日；后求见<pc>、</pc>伏合定日<pc>，</pc>即历注其日<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求<num value="5">五</num>星诸段所在月日<pc>：</pc>各置诸段定积<pc>，</pc>以天正闰日及约分加之<pc>，</pc>满朔策及分去之<pc>，</pc>为月数；不满<pc>，</pc>为入月以来日数及分<pc>。</pc>其月数命从天正<measure quantity="11" unit="months">
+<num value="11">十一</num>月</measure>
+<pc>，</pc>算外<pc>，</pc>即其星其段入其月经朔日数及分<pc>。</pc>定朔有进退者<pc>，</pc>亦进退其日<pc>，</pc>以日辰为定<pc>。</pc>若以气策及约分去定积<pc>，</pc>命从冬至<pc>，</pc>算外<pc>，</pc>即得其段入气日及分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求<num value="5">五</num>星诸段加时定星<pc>：</pc>各置其星其段中星<pc>，</pc>以其段盈缩定差盈加缩减之<pc>，</pc>即<num value="5">五</num>星诸段定星<pc>。</pc>若以天正冬至加时黄道日度加而命之<pc>，</pc>即其段加时定星所在宿次<pc>。</pc>
+<num value="5">五</num>星皆以前留为前退初定星<pc>，</pc>后留为后顺初定星<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求<num value="5">五</num>星诸段初日晨前<time when="24:00">夜半</time>定星<pc>：</pc>木<pc>、</pc>火<pc>、</pc>土<num value="3">三</num>星<pc>，</pc>以其星其段盈缩定差与次度下盈缩定差相减<pc>，</pc>余为其度损益差；以乘其段初行率<pc>，</pc>
+<num value="100">一百</num>约之<pc>，</pc>所得<pc>，</pc>以加减其段初行率<pc>，</pc>在盈<pc>，</pc>益加损减；在缩<pc>，</pc>益减损加<pc>。</pc>
+</p>
+</div>
+<div>
+<p>以<num value="100">一百</num>乘之<pc>，</pc>为初行积分；又置<num value="100">一百</num>分<pc>，</pc>亦依其数加减之<pc>，</pc>以除初行积分<pc>，</pc>为初日定行分<pc>。</pc>以乘其段初日约分<pc>，</pc>以<num value="100">一百</num>约之<pc>，</pc>顺减退加其段定星<pc>，</pc>为其段初日晨前<time when="24:00">夜半</time>定星；以天正冬至加时黄道日度加而命之<pc>，</pc>即得所求<pc>。</pc>金<pc>、</pc>水<num value="2">二</num>星<pc>，</pc>直以初行率便为初日定行分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求太阳盈缩度<pc>：</pc>各置其段定积<pc>，</pc>如<num value="2">二</num>至限以下为在盈；以上者去之<pc>，</pc>余为在缩<pc>。</pc>又视入盈缩度<pc>，</pc>如<num value="1">一</num>象以下者为在初；以上者<pc>，</pc>覆减<num value="2">二</num>至限<pc>，</pc>余为在末<pc>。</pc>置初<pc>、</pc>末限度及分<pc>，</pc>如前日度术求之<pc>，</pc>即得所求<pc>。</pc>若用立成者<pc>，</pc>直以其度下损益分乘度余<pc>，</pc>
+<num value="100">百</num>约之<pc>，</pc>所得<pc>，</pc>损益其度下盈缩差<pc>，</pc>亦得所求<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求诸段日度率<pc>：</pc>以<num value="2">二</num>段日晨相距为日率<pc>，</pc>又以<num value="2">二</num>段<time when="24:00">夜半</time>定星相减<pc>，</pc>余为其段度率及分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求诸段平行分<pc>：</pc>各置其段度率及分<pc>，</pc>以其段日率除之<pc>，</pc>为其段平行分<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求诸段泛差<pc>：</pc>各以其段平行分与后段平行分相减<pc>，</pc>余为泛差；并前段泛差<pc>，</pc>
+<num value="4">四</num>因之<pc>，</pc>退<num value="1">一</num>等<pc>，</pc>为其段总差<pc>。</pc>
+<num value="5">五</num>星前留前<pc>、</pc>后留后<num value="1">一</num>段<pc>，</pc>皆以<num value="6">六</num>因平行分<pc>，</pc>退<num value="1">一</num>等<pc>，</pc>为其段总差<pc>，</pc>水星为半总差<pc>。</pc>其在退行者<pc>，</pc>木<pc>、</pc>火<pc>、</pc>土以<num value="12">十二</num>乘其段平行分<pc>，</pc>退<num value="1">一</num>等<pc>，</pc>为其段总差<pc>。</pc>金星退行者<pc>，</pc>以其段泛差为总差<pc>，</pc>后变则反用初<pc>、</pc>末<pc>。</pc>水星退行者<pc>，</pc>以其段平行分为总差<pc>，</pc>若在前后顺第<num value="1">一</num>段者<pc>，</pc>乃半次段总差<pc>，</pc>为其段总差<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求诸段初末日行分<pc>：</pc>各半其段总差<pc>，</pc>加减其段平行分<pc>，</pc>为其段初<pc>、</pc>末日行分<pc>。</pc>前变加为初<pc>，</pc>减为末；后变减为初<pc>，</pc>加为末<pc>。</pc>其在退段者<pc>，</pc>前则减为初<pc>，</pc>加为末；后则加为初<pc>，</pc>减为末<pc>。</pc>若前后段行分多少不伦者<pc>，</pc>乃平注之；或总差不备大分者<pc>，</pc>亦平注之<pc>：</pc>皆类会前后初<pc>、</pc>末<pc>，</pc>不可失其衰杀<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求诸段日差<pc>：</pc>减其段日率<num value="1">一</num>
+<pc>，</pc>以除其段总差<pc>，</pc>为其段日差<pc>。</pc>后行分少为损<pc>，</pc>后行分多为益<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求每日晨前<time when="24:00">夜半</time>星行宿次<pc>：</pc>置其段初日行分<pc>，</pc>以日差累损益之<pc>，</pc>为每日行分<pc>。</pc>以每日行分累加减其段初日晨前<time when="24:00">夜半</time>宿次<pc>，</pc>命之<pc>，</pc>即每日星行宿次<pc>。</pc>
+</p>
+</div>
+<div>
+<p>径求其日宿次<pc>：</pc>置所求日<pc>，</pc>减<num value="1">一</num>
+<pc>，</pc>以乘日差<pc>，</pc>以加减初日行分<pc>，</pc>后少<pc>，</pc>减之；后多<pc>，</pc>加之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>为所求日行分；乃加初日行分而半之<pc>，</pc>以所求日数乘之<pc>，</pc>为径求积度；以加减其段初日宿次<pc>，</pc>命之<pc>，</pc>即径求其日星宿次<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求<num value="5">五</num>星定合定日<pc>：</pc>木<pc>、</pc>火<pc>、</pc>土<num value="3">三</num>星<pc>，</pc>以其段初日行分减<num value="100">一百</num>分<pc>，</pc>余以除其日太阳盈缩余为日<pc>，</pc>不满<pc>，</pc>退除为分<pc>，</pc>命曰距合差日及分<pc>。</pc>以差日及分减太阳盈缩分<pc>，</pc>余为距合差度<pc>。</pc>以差日<pc>、</pc>差度盈减缩加<pc>。</pc>金<pc>、</pc>水<num value="2">二</num>星平合者<pc>，</pc>以<num value="100">百</num>分减初日行分<pc>，</pc>余以除其日太阳盈缩余为日<pc>，</pc>不满<pc>，</pc>退除为分<pc>，</pc>命曰距合差日及分<pc>。</pc>以减太阳盈缩分<pc>，</pc>余为距合差度<pc>。</pc>以差日<pc>、</pc>差度盈加缩减<pc>。</pc>金<pc>、</pc>水星再合者<pc>，</pc>以初日行分加<num value="100">一百</num>分<pc>，</pc>以除其日太阳盈缩分为日<pc>，</pc>不满<pc>，</pc>退除为分<pc>，</pc>命曰再合差日；以减太阳盈缩分<pc>，</pc>余为再合差度<pc>。</pc>以差日<pc>、</pc>差度盈加缩减<pc>。</pc>差度则反其加减<pc>。</pc>
+</p>
+</div>
+<div>
+<p>皆以加减定积<pc>，</pc>为再合定日<pc>。</pc>以天正冬至大余及约分加而命之<pc>，</pc>即得定合日辰<pc>。</pc>
+</p>
+</div>
+<div>
+<p>求<num value="5">五</num>星定见伏<pc>：</pc>木<pc>、</pc>火<pc>、</pc>土<num value="3">三</num>星<pc>，</pc>各以其段初日行分减<num value="100">一百</num>分<pc>，</pc>余以除其日太阳盈缩分为日<pc>，</pc>不满<pc>，</pc>退除为分<pc>，</pc>以盈减缩加<pc>。</pc>金<pc>、</pc>水<num value="2">二</num>星夕见<pc>、</pc>晨伏者<pc>，</pc>以<num value="100">一百</num>分减初日行分<pc>，</pc>余以除其日太阳盈缩分为日<pc>，</pc>不满<pc>，</pc>退除为分<pc>，</pc>以盈加缩减<pc>。</pc>其在晨见<pc>、</pc>夕伏者<pc>，</pc>以<num value="100">一百</num>分加其段初日行分<pc>，</pc>以除其日太阳盈缩分为日<pc>，</pc>不满<pc>，</pc>退除为分<pc>，</pc>以盈减缩加<pc>。</pc>皆加减其段定积<pc>，</pc>为见<pc>、</pc>伏定日<pc>。</pc>以加冬至大余及约分<pc>，</pc>满纪法去之<pc>，</pc>命从<num value="1">甲子</num>
+<pc>，</pc>算外<pc>，</pc>即得<num value="5">五</num>星见<pc>、</pc>伏定日日辰<pc>。</pc>
+</p>
+</div>
+<div>
+<p>琮又论历曰<pc>：</pc>
+<pc>“</pc>古今之历<pc>，</pc>必有术过于前人<pc>，</pc>而可以为万世之法者<pc>，</pc>乃为胜也<pc>。</pc>若<num value="1">一</num>行为<pc>《</pc>
+<title>大衍历</title>
+<pc>》</pc>
+<pc>，</pc>议及略例<pc>，</pc>校正历世<pc>，</pc>以求历法强弱<pc>，</pc>为历家体要<pc>，</pc>得中平之数<pc>。</pc>刘焯悟日行有盈缩之差<pc>。</pc>旧历推日行平行<num value="1">一</num>度<pc>，</pc>至此方悟日行有盈缩<pc>，</pc>冬至前后定日<measure quantity="88" unit="days">
+<num value="88">八十八</num>日</measure>
+<num value="89">八十九</num>分<pc>，</pc>夏至前后定日<measure quantity="93" unit="days">
+<num value="93">九十三</num>日</measure>
+<num value="74">七十四</num>分<pc>，</pc>冬至前后日行<num value="1">一</num>度有余<pc>，</pc>夏至前后日行不及<num value="1">一</num>度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>李淳风悟定朔之法<pc>，</pc>并气朔<pc>、</pc>闰余<pc>，</pc>皆同<num value="1">一</num>术<pc>。</pc>旧历定朔平注<num value="1">一</num>大<num value="1">一</num>小<pc>，</pc>至此以日行盈缩<pc>、</pc>月行迟疾加减朔余<pc>，</pc>余为定朔<pc>、</pc>望加时<pc>，</pc>以定大小<pc>，</pc>不过<num value="3">三</num>数<pc>。</pc>自此后日食在朔<pc>，</pc>月食在望<pc>，</pc>更无晦<pc>、</pc>
+<num value="2">二</num>之差<pc>。</pc>旧历皆须用章岁<pc>、</pc>章月之数<pc>，</pc>使闰余有差<pc>，</pc>淳风造<pc>《</pc>
+<title>麟德历</title>
+<pc>》</pc>
+<pc>，</pc>以气朔<pc>、</pc>闰余同归<num value="1">一</num>母<pc>。</pc>
+</p>
+</div>
+<div>
+<p>张子信悟月行有交道表里<pc>，</pc>
+<num value="5">五</num>星有入气加减<pc>。</pc>北齐学士张子信因葛荣乱<pc>，</pc>隐居海岛<num value="30">三十</num>余年<pc>，</pc>专以圆仪揆测天道<pc>，</pc>始悟月行有交道表里<pc>，</pc>在表为外道阳历<pc>，</pc>在里为内道阴历<pc>。</pc>月行在内道<pc>，</pc>则日有食之<pc>，</pc>月行在外道则无食<pc>。</pc>若月外之人北户向日之地<pc>，</pc>则反观有食<pc>。</pc>又旧历<num value="5">五</num>星率无盈缩<pc>，</pc>至是始悟<num value="5">五</num>星皆有盈缩<pc>、</pc>加减之数<pc>。</pc>
+</p>
+</div>
+<div>
+<p>宋何承天始悟测景以定气序<pc>。</pc>景极长<pc>，</pc>冬至；景极短<pc>，</pc>夏至<pc>。</pc>始立<num value="8">八</num>尺之表<pc>，</pc>连测<num value="10">十</num>余年<pc>，</pc>即知旧<pc>《</pc>
+<title>景初历</title>
+<pc>》</pc>冬至常迟天<measure quantity="3" unit="days">
+<num value="3">三</num>日</measure>
+<pc>。</pc>乃造<pc>《</pc>
+<title>元嘉历</title>
+<pc>》</pc>
+<pc>，</pc>冬至加时比旧退减<measure quantity="3" unit="days">
+<num value="3">三</num>日</measure>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>晋姜岌始悟以月食所冲之宿<pc>，</pc>为日所在之度<pc>。</pc>日所在不知宿度<pc>，</pc>至此以月食之宿所冲<pc>，</pc>为日所在宿度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>后汉刘洪作<pc>《</pc>
+<title>乾象历</title>
+<pc>》</pc>
+<pc>，</pc>始悟月行有迟疾数<pc>。</pc>旧历<pc>，</pc>月平行<num value="13">十三</num>度<num value="19">十九</num>分度之<num value="7">七</num>
+<pc>，</pc>至是始悟月行有迟疾之差<pc>，</pc>极迟则日行<num value="12">十二</num>度强<pc>，</pc>极疾则日行<num value="14">十四</num>度太<pc>，</pc>其迟疾极差<num value="5">五</num>度有余<pc>。</pc>
+</p>
+</div>
+<div>
+<p>宋祖冲之始悟岁差<pc>。</pc>
+<pc>《</pc>
+<title>书·尧典</title>
+<pc>》</pc>曰<pc>：</pc>
+<pc>“</pc>日短星昴<pc>，</pc>以正仲冬；宵中星虚<pc>，</pc>以殷仲秋<pc>。</pc>
+<pc>”</pc>至今<num value="3000">三千</num>余年<pc>，</pc>中星所差<num value="30">三十</num>余度<pc>，</pc>则知每岁有渐差之数<pc>，</pc>造<pc>《</pc>
+<title>大明历</title>
+<pc>》</pc>率<measure quantity="45" unit="years">
+<num value="45">四十五</num>年</measure>
+<measure quantity="9" unit="months">
+<num value="9">九</num>月</measure>而退差<num value="1">一</num>度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>唐徐升作<pc>《</pc>
+<title>宣明历</title>
+<pc>》</pc>
+<pc>，</pc>悟日食有气<pc>、</pc>刻差数<pc>。</pc>旧历推日食皆平求食分<pc>，</pc>多不允合<pc>，</pc>至是推日食<pc>，</pc>以气刻差数增损之<pc>，</pc>测日食分数<pc>，</pc>稍近天验<pc>。</pc>
+</p>
+</div>
+<div>
+<p>
+<pc>《</pc>
+<title>明天历</title>
+<pc>》</pc>悟日月会合为朔<pc>，</pc>所立日法<pc>，</pc>积年有自然之数<pc>，</pc>及立法推求晷景<pc>，</pc>知气节加时所在<pc>。</pc>自<pc>《</pc>
+<title>元嘉历</title>
+<pc>》</pc>后所立日法<pc>，</pc>以<num value="49">四十九</num>分之<num value="26">二十六</num>为强率<pc>、</pc>以<num value="17">十七</num>分之<num value="9">九</num>为弱率<pc>，</pc>并强弱之数为日法<pc>、</pc>朔余<pc>，</pc>自后诸历效之<pc>。</pc>殊不知日月会合为朔<pc>，</pc>并朔余虚分为日法<pc>，</pc>盖自然之理<pc>。</pc>其气节加时<pc>，</pc>晋<pc>、</pc>汉以来约而要取<pc>，</pc>有差半日<pc>，</pc>今立法推求<pc>，</pc>得尽其数<pc>。</pc>
+</p>
+</div>
+<div>
+<p>后之造历者<pc>，</pc>莫不遵用焉<pc>。</pc>其疏谬之甚者<pc>，</pc>即苗守信之<pc>《</pc>
+<title>乾元历</title>
+<pc>》</pc>
+<pc>、</pc>马重绩之<pc>《</pc>
+<title>调元历</title>
+<pc>》</pc>
+<pc>、</pc>郭绍之<pc>《</pc>
+<title>
+<num value="5">五</num>纪历</title>
+<pc>》</pc>也<pc>。</pc>大概无出于此矣<pc>。</pc>然造历者<pc>，</pc>皆须会日月之行<pc>，</pc>以为晦朔之数<pc>，</pc>验<pc>《</pc>
+<title>春秋</title>
+<pc>》</pc>日食<pc>，</pc>以明强弱<pc>。</pc>其于气序<pc>，</pc>则取验于<pc>《</pc>
+<title>传</title>
+<pc>》</pc>之南至<pc>。</pc>其日行盈缩<pc>、</pc>月行迟疾<pc>、</pc>
+<num value="5">五</num>星加减<pc>、</pc>
+<num value="2">二</num>曜食差<pc>、</pc>日宿月离<pc>、</pc>中星晷景<pc>、</pc>立数立法<pc>，</pc>悉本之于前语<pc>。</pc>然后较验<pc>，</pc>上自夏仲康<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>
+<measure quantity="9" unit="months">
+<num value="9">九</num>月</measure>
+<pc>“</pc>辰弗集于房<pc>”</pc>
+<pc>，</pc>以至于今<pc>，</pc>其星辰气朔<pc>、</pc>日月交食等<pc>，</pc>使<measure quantity="3000" unit="years">
+<num value="3000">三千</num>年</measure>间若应准绳<pc>。</pc>而有前有后<pc>、</pc>有亲有疏者<pc>，</pc>即为中平之数<pc>，</pc>乃可施于后世<pc>。</pc>其较验则依<num value="1">一</num>行<pc>、</pc>孙思恭<pc>，</pc>取数多而不以少<pc>，</pc>得为亲密<pc>。</pc>较日月交食<pc>，</pc>若<num value="1">一</num>分<num value="2">二</num>刻以下为亲<pc>，</pc>
+<num value="2">二</num>分<num value="4">四</num>刻以下为近<pc>，</pc>
+<num value="3">三</num>分<num value="5">五</num>刻以上为远<pc>。</pc>以历注有食而天验无食<pc>，</pc>或天验有食而历注无食者为失<pc>。</pc>其较星度<pc>，</pc>则以差天<num value="2">二</num>度以下为亲<pc>，</pc>
+<num value="3">三</num>度以下为近<pc>，</pc>
+<num value="4">四</num>度以上为远；其较晷景尺寸<pc>，</pc>以<num value="2">二</num>分以下为亲<pc>，</pc>
+<num value="3">三</num>分以下为近<pc>，</pc>
+<num value="4">四</num>分以上为远<pc>。</pc>若较古而得数多<pc>，</pc>又近于今<pc>，</pc>兼立法<pc>、</pc>立数<pc>，</pc>得其理而通于本者为最也<pc>。</pc>
+<pc>”</pc>琮自谓善历<pc>，</pc>尝曰<pc>：</pc>
+<pc>“</pc>世之知历者甚少<pc>，</pc>近世独孙思恭为妙<pc>。</pc>
+<pc>”</pc> 而思恭又尝推刘羲叟为知历焉<pc>。</pc>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>
