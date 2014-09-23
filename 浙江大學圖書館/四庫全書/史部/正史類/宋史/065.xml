@@ -954,7 +954,8 @@
 <num value="6">六</num>年</measure>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
-<pc>，</pc>衢州霖雨<pc>。</pc>
+<pc>，</pc>
+<placeName>衢州</placeName>霖雨<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>连雨；<num value="6">己巳</num>
@@ -1354,7 +1355,8 @@
 <pc>，</pc>舒州<pc>，</pc>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
-<pc>，</pc>衢州；<measure quantity="4" unit="months">
+<pc>，</pc>
+<placeName>衢州</placeName>；<measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <pc>，</pc>舒州；<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
@@ -1492,7 +1494,9 @@
 <num value="2">二</num>月</measure>
 <pc>，</pc>果州；<measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
-<pc>，</pc>衢州<pc>：</pc>
+<pc>，</pc>
+<placeName>衢州</placeName>
+<pc>：</pc>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
 <measure quantity="11" unit="months">
