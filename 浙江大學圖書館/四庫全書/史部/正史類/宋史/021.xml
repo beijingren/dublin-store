@@ -23,6 +23,7 @@
 <text>
 <body>
 <div type="chapter" n="21">
+<p>
 <div>
 <p>　　<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>春<num value="1">正月</num>
@@ -555,7 +556,9 @@
 <num value="2">乙丑</num>
 <pc>，</pc>會道士于上清寶籙宮<pc>。</pc>
 <num value="8">辛未</num>
-<pc>，</pc>以何執中為太傅致仕<pc>，</pc>朝朔望<pc>。</pc>丁醜<pc>，</pc>詔天甯諸節及<num value="59">壬戌</num>日<pc>，</pc>杖已下罪聽贖<pc>。</pc>
+<pc>，</pc>以何執中為太傅致仕<pc>，</pc>朝朔望<pc>。</pc>丁醜<pc>，</pc>詔天甯諸節及<measure quantity="59" unit="days">
+<num value="59">壬戌</num>日</measure>
+<pc>，</pc>杖已下罪聽贖<pc>。</pc>
 <num value="23">丙戌</num>
 <pc>，</pc>卻監司<pc>、</pc>守臣進獻<pc>。</pc>
 <num value="27">庚寅</num>
@@ -981,6 +984,7 @@
 <num value="15">戊寅</num>朔<pc>，</pc>複京西錢監<pc>。</pc>己醜<pc>，</pc>置裕民局<pc>。</pc>是歲<pc>，</pc>江<pc>、</pc>淮<pc>、</pc>荊<pc>、</pc>浙<pc>、</pc>梓州水<pc>。</pc>出宮女<num value="78">百七十八</num>人<pc>。</pc>黃岩民妻<num value="1">一</num>產<num value="4">四</num>男子<pc>。</pc>于闐<pc>、</pc>高麗入貢<pc>。</pc>
 </p>
 </div>
+</p>
 </div>
 </body>
 </text>

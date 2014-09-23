@@ -23,6 +23,7 @@
 <text>
 <body>
 <div type="chapter" n="52">
+<p>
 <div>
 <p>　　日爲太陽之精<pc>，</pc>君之象<pc>，</pc>日行<num value="1">一</num>度<pc>，</pc>
 <measure quantity="1" unit="year">
@@ -328,7 +329,17 @@
 </p>
 </div>
 <div>
-<p>　　而月旁祅星<pc>，</pc>亦各有所生<pc>。</pc>天槍<pc>、</pc>天荊<pc>、</pc>真若<pc>、</pc>天㨬<pc>、</pc>天樓<pc>、</pc>天垣<pc>，</pc>歲星所生也<pc>，</pc>見以<num value="51">甲寅</num>日<pc>，</pc>有兩青方在其旁<pc>。</pc>天陰<pc>、</pc>晉若<pc>、</pc>官張<pc>、</pc>天惑<pc>、</pc>天雀<pc>、</pc>赤若<pc>、</pc>蚩尤<pc>，</pc>熒惑所生也<pc>，</pc>出在<num value="3">丙寅</num>日<pc>，</pc>有兩赤方在其旁<pc>。</pc>天上<pc>、</pc>天伐<pc>、</pc>縱星<pc>、</pc>天樞<pc>、</pc>天翟<pc>、</pc>天沸<pc>、</pc>荊彗<pc>，</pc>填星所生也<pc>，</pc>出在<num value="15">戊寅</num>日<pc>，</pc>有兩黃方在其旁<pc>。</pc>若星<pc>、</pc>帚星<pc>、</pc>若彗<pc>、</pc>竹彗<pc>、</pc>牆星<pc>、</pc>權星<pc>、</pc>白雚<pc>，</pc>太白所生也<pc>，</pc>出在<num value="27">庚寅</num>日<pc>，</pc>有兩白方在其旁<pc>。</pc>天美<pc>、</pc>莒天毚<pc>、</pc>天社<pc>、</pc>天林<pc>、</pc>天庥<pc>、</pc>天蒿<pc>、</pc>端下<pc>，</pc>辰星所生也<pc>，</pc>出以<num value="39">壬寅</num>日<pc>，</pc>有兩黑方在其旁<pc>，</pc>見則爲水<pc>、</pc>旱<pc>、</pc>兵<pc>、</pc>喪<pc>、</pc>饑<pc>、</pc>亂<pc>。</pc>
+<p>　　而月旁祅星<pc>，</pc>亦各有所生<pc>。</pc>天槍<pc>、</pc>天荊<pc>、</pc>真若<pc>、</pc>天㨬<pc>、</pc>天樓<pc>、</pc>天垣<pc>，</pc>歲星所生也<pc>，</pc>見以<measure quantity="51" unit="days">
+<num value="51">甲寅</num>日</measure>
+<pc>，</pc>有兩青方在其旁<pc>。</pc>天陰<pc>、</pc>晉若<pc>、</pc>官張<pc>、</pc>天惑<pc>、</pc>天雀<pc>、</pc>赤若<pc>、</pc>蚩尤<pc>，</pc>熒惑所生也<pc>，</pc>出在<measure quantity="3" unit="days">
+<num value="3">丙寅</num>日</measure>
+<pc>，</pc>有兩赤方在其旁<pc>。</pc>天上<pc>、</pc>天伐<pc>、</pc>縱星<pc>、</pc>天樞<pc>、</pc>天翟<pc>、</pc>天沸<pc>、</pc>荊彗<pc>，</pc>填星所生也<pc>，</pc>出在<measure quantity="15" unit="days">
+<num value="15">戊寅</num>日</measure>
+<pc>，</pc>有兩黃方在其旁<pc>。</pc>若星<pc>、</pc>帚星<pc>、</pc>若彗<pc>、</pc>竹彗<pc>、</pc>牆星<pc>、</pc>權星<pc>、</pc>白雚<pc>，</pc>太白所生也<pc>，</pc>出在<measure quantity="27" unit="days">
+<num value="27">庚寅</num>日</measure>
+<pc>，</pc>有兩白方在其旁<pc>。</pc>天美<pc>、</pc>莒天毚<pc>、</pc>天社<pc>、</pc>天林<pc>、</pc>天庥<pc>、</pc>天蒿<pc>、</pc>端下<pc>，</pc>辰星所生也<pc>，</pc>出以<measure quantity="39" unit="days">
+<num value="39">壬寅</num>日</measure>
+<pc>，</pc>有兩黑方在其旁<pc>，</pc>見則爲水<pc>、</pc>旱<pc>、</pc>兵<pc>、</pc>喪<pc>、</pc>饑<pc>、</pc>亂<pc>。</pc>
 </p>
 </div>
 <div>
@@ -3934,6 +3945,7 @@
 <pc>，</pc>暈東井<pc>。</pc>
 </p>
 </div>
+</p>
 </div>
 </body>
 </text>

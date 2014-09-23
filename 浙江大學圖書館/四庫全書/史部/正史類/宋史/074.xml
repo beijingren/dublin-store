@@ -23,6 +23,7 @@
 <text>
 <body>
 <div type="chapter" n="74">
+<p>
 <div>
 <p>　　<pc>《</pc>
 <title>崇天曆</title>
@@ -236,7 +237,9 @@
 <div>
 <p>　　加減距至泛日<pc>，</pc>為定日；仍加半日之刻<pc>，</pc>命從前距日辰<pc>，</pc>算外<pc>，</pc>即<num value="2">二</num>至加時日辰及刻分所在<pc>。</pc>如此推求<pc>，</pc>則加時與日晷相協<pc>。</pc>今須積歲<measure quantity="401" unit="years">
 <num value="401">四百一</num>年</measure>
-<pc>，</pc>治平元年<num value="41">甲辰</num>歲<pc>，</pc>氣積年也<pc>。</pc>
+<pc>，</pc>治平元年<measure quantity="41" unit="years">
+<num value="41">甲辰</num>歲</measure>
+<pc>，</pc>氣積年也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -252,7 +255,9 @@
 </div>
 <div>
 <p>　　此乃檢括日月交食加時早晚而定之<pc>，</pc>損益在<time when="24:00">夜半</time>後<pc>，</pc>得<num value="35">戊戌</num>之日<pc>，</pc>以方程約而齊之<pc>。</pc>今須積歲<num value="711761">七十一萬一千七百六十一</num>
-<pc>，</pc>治平元年<num value="41">甲辰</num>歲<pc>，</pc>朔積年也<pc>。</pc>
+<pc>，</pc>治平元年<measure quantity="41" unit="years">
+<num value="41">甲辰</num>歲</measure>
+<pc>，</pc>朔積年也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -683,7 +688,9 @@
 <p>　　步氣朔術</p>
 </div>
 <div>
-<p>　　演紀上元<num value="1">甲子</num>歲<pc>，</pc>距治平元年<num value="41">甲辰</num>
+<p>　　演紀上元<measure quantity="1" unit="year">
+<num value="1">甲子</num>歲</measure>
+<pc>，</pc>距治平元年<num value="41">甲辰</num>
 <pc>，</pc>歲積<num value="711760">七十一萬一千七百六十</num>
 <pc>，</pc>算外<pc>。</pc>上驗往古<pc>，</pc>每年減<num value="1">一</num>算；下算將來<pc>，</pc>每年加<num value="1">一</num>算<pc>。</pc>
 </p>
@@ -1082,7 +1089,7 @@
 </div>
 <div>
 <p>　　井<pc>：</pc>
-<num value="33">三十三</num> 　 　　鬼<pc>：</pc>
+<num value="33">三十三</num>　 　　鬼<pc>：</pc>
 <num value="3">三</num>
 </p>
 </div>
@@ -1359,7 +1366,7 @@
 </div>
 <div>
 <p>　　室<pc>：</pc>
-<num value="16">十六</num> 　 　　壁<pc>：</pc>
+<num value="16">十六</num>　 　　壁<pc>：</pc>
 <num value="9">九</num>
 </p>
 </div>
@@ -1722,6 +1729,7 @@
 <p>　　求每日晨前<time when="24:00">夜半</time>黃道日度<pc>：</pc>各置其定朔之日晨前<time when="24:00">夜半</time>黃道日度<pc>，</pc>每日加<num value="1">一</num>度<pc>，</pc>以其日升降分升加降減之<pc>，</pc>滿黃道宿度去之<pc>，</pc>即各得每日晨前<time when="24:00">夜半</time>黃道日躔所在宿度及分<pc>。</pc>若次年冬至小余滿法者<pc>，</pc>以升分極數加之<pc>。</pc>
 </p>
 </div>
+</p>
 </div>
 </body>
 </text>

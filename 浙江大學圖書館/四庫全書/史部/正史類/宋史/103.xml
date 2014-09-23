@@ -23,6 +23,7 @@
 <text>
 <body>
 <div type="chapter" n="103">
+<p>
 <div>
 <p>　　朝日<pc>，</pc>夕月<pc>。</pc>慶曆<pc>，</pc>用羊<pc>、</pc>豕各<num value="2">二</num>
 <pc>，</pc>籩豆<num value="12">十二</num>
@@ -108,17 +109,25 @@
 <pc>》</pc>推算<pc>，</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<num value="51">甲寅</num>歲<pc>，</pc>太<num value="1">一</num>陽<num value="9">九</num>
+<measure quantity="51" unit="years">
+<num value="51">甲寅</num>歲</measure>
+<pc>，</pc>太<num value="1">一</num>陽<num value="9">九</num>
 <pc>、</pc>
 <num value="6">百六</num>之數<pc>，</pc>複元之初<pc>。</pc>故<pc>《</pc>
 <title>經</title>
 <pc>》</pc>言<pc>：</pc>'太歲有陽<num value="9">九</num>之災<pc>，</pc>太<num value="1">一</num>有<num value="6">百六</num>之厄<pc>，</pc>皆在入元之初終<pc>。</pc>'今陽<num value="9">九</num>
 <pc>、</pc>
 <num value="6">百六</num>當癸醜<pc>、</pc>
-<num value="51">甲寅</num>歲<pc>，</pc>為災厄之會<pc>。</pc>然<num value="5">五</num>福太<num value="1">一</num>移入中都<pc>，</pc>可以消異為祥<pc>。</pc>竊詳<num value="5">五</num>福太<num value="1">一</num>
-<pc>，</pc>自<date>國朝</date>雍熙元年<num value="21">甲申</num>歲<pc>，</pc>入東南巽宮時<pc>，</pc>修東太<num value="1">一</num>宮<pc>。</pc>天聖<measure quantity="7" unit="years">
+<measure quantity="51" unit="years">
+<num value="51">甲寅</num>歲</measure>
+<pc>，</pc>為災厄之會<pc>。</pc>然<num value="5">五</num>福太<num value="1">一</num>移入中都<pc>，</pc>可以消異為祥<pc>。</pc>竊詳<num value="5">五</num>福太<num value="1">一</num>
+<pc>，</pc>自<date>國朝</date>雍熙元年<measure quantity="21" unit="years">
+<num value="21">甲申</num>歲</measure>
+<pc>，</pc>入東南巽宮時<pc>，</pc>修東太<num value="1">一</num>宮<pc>。</pc>天聖<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<num value="6">己巳</num>歲<pc>，</pc>
+<measure quantity="6" unit="years">
+<num value="6">己巳</num>歲</measure>
+<pc>，</pc>
 <num value="5">五</num>福太<num value="1">一</num>入西南坤位<pc>，</pc>修西太<num value="1">一</num>宮<pc>。</pc>請稽詳故事<pc>，</pc>崇建祠宇<pc>，</pc>迎之京師<pc>。</pc>
 </quote>
 <pc>」</pc>詔建中太<num value="1">一</num>宮於集禧觀<pc>。</pc>
@@ -496,7 +505,8 @@
 <num value="4">四</num>類亦如之<pc>。</pc>
 </quote>
 <pc>」</pc>鄭氏曰<pc>：</pc>'兆為壇之營域<pc>。</pc>
-<num value="4">四</num>類<pc>，</pc>日<pc>、</pc>月<pc>、</pc>星<pc>、</pc>辰<pc>，</pc>運行無常<pc>，</pc>以氣類為之位<pc>，</pc>兆日於東郊<pc>，</pc>兆月與風師於西郊<pc>，</pc>兆司中<pc>、</pc>司命於南郊<pc>，</pc>兆雨師於北郊<pc>。</pc>'各以氣類祭之<pc>，</pc>謂之<num value="4">四</num>類<pc>。</pc>漢儀<pc>，</pc>縣邑常以<num value="23">丙戌</num>日祠風伯于戌地<pc>，</pc>以己醜日祀雨師於醜地<pc>，</pc>亦從其類故也<pc>。</pc>熙寧祀儀<pc>：</pc>兆日東郊<pc>，</pc>兆月西郊<pc>，</pc>是以氣類為之位<pc>。</pc>至於兆風師于國城東北<pc>，</pc>兆雨師于國城西北<pc>，</pc>司中<pc>、</pc>司命于國城西北亥地<pc>，</pc>則是各從其星位<pc>，</pc>而不以氣類也<pc>。</pc>請稽舊禮<pc>，</pc>兆風師於西郊<pc>，</pc>祠以立春後醜日；兆雨師於北郊<pc>，</pc>祠以立夏後申日；兆司中<pc>、</pc>司命<pc>、</pc>司祿於南郊<pc>，</pc>祠以立冬後亥日<pc>。</pc>其壇兆則從其氣類<pc>，</pc>其祭辰則從其星位<pc>，</pc>仍依熙寧儀<pc>，</pc>以雷師從雨師之位<pc>，</pc>以司民從司中<pc>、</pc>司命<pc>、</pc>司祿之位<pc>。</pc>
+<num value="4">四</num>類<pc>，</pc>日<pc>、</pc>月<pc>、</pc>星<pc>、</pc>辰<pc>，</pc>運行無常<pc>，</pc>以氣類為之位<pc>，</pc>兆日於東郊<pc>，</pc>兆月與風師於西郊<pc>，</pc>兆司中<pc>、</pc>司命於南郊<pc>，</pc>兆雨師於北郊<pc>。</pc>'各以氣類祭之<pc>，</pc>謂之<num value="4">四</num>類<pc>。</pc>漢儀<pc>，</pc>縣邑常以<measure quantity="23" unit="days">
+<num value="23">丙戌</num>日</measure>祠風伯于戌地<pc>，</pc>以己醜日祀雨師於醜地<pc>，</pc>亦從其類故也<pc>。</pc>熙寧祀儀<pc>：</pc>兆日東郊<pc>，</pc>兆月西郊<pc>，</pc>是以氣類為之位<pc>。</pc>至於兆風師于國城東北<pc>，</pc>兆雨師于國城西北<pc>，</pc>司中<pc>、</pc>司命于國城西北亥地<pc>，</pc>則是各從其星位<pc>，</pc>而不以氣類也<pc>。</pc>請稽舊禮<pc>，</pc>兆風師於西郊<pc>，</pc>祠以立春後醜日；兆雨師於北郊<pc>，</pc>祠以立夏後申日；兆司中<pc>、</pc>司命<pc>、</pc>司祿於南郊<pc>，</pc>祠以立冬後亥日<pc>。</pc>其壇兆則從其氣類<pc>，</pc>其祭辰則從其星位<pc>，</pc>仍依熙寧儀<pc>，</pc>以雷師從雨師之位<pc>，</pc>以司民從司中<pc>、</pc>司命<pc>、</pc>司祿之位<pc>。</pc>
 <pc>」</pc>
 </p>
 </div>
@@ -735,7 +745,7 @@
 <title>禮·祭法</title>
 <pc>》</pc>曰<pc>：</pc>'王自為立<num value="7">七</num>祀<pc>：</pc>曰司命<pc>，</pc>曰中霤<pc>，</pc>曰國行<pc>，</pc>曰泰厲<pc>，</pc>曰門<pc>，</pc>曰戶<pc>，</pc>曰灶<pc>。</pc>'孟春祀戶<pc>，</pc>祭先脾；孟夏祀灶<pc>。</pc>祭先肺；中央土祀中霤<pc>，</pc>祭先心；孟秋祀門<pc>，</pc>祭先肝；孟冬祀行<pc>，</pc>祭先腎<pc>。</pc>又<pc>《</pc>
 <title>傳</title>
-<pc>》</pc>曰<pc>：</pc>'春祀司命<pc>，</pc>秋祠厲<pc>。</pc> '此所祀之位<pc>，</pc>所祀之時<pc>，</pc>所用之俎也<pc>。</pc>
+<pc>》</pc>曰<pc>：</pc>'春祀司命<pc>，</pc>秋祠厲<pc>。</pc>'此所祀之位<pc>，</pc>所祀之時<pc>，</pc>所用之俎也<pc>。</pc>
 <pc>《</pc>
 <title>周禮</title>
 <pc>》</pc>
@@ -802,6 +812,7 @@
 <pc>，</pc>以飛蝗入臨安界<pc>，</pc>詔差官祭告<pc>。</pc>又詔兩浙<pc>、</pc>淮東西路州縣<pc>，</pc>遇有蝗入境<pc>，</pc>守臣祭告酺神<pc>。</pc>
 </p>
 </div>
+</p>
 </div>
 </body>
 </text>

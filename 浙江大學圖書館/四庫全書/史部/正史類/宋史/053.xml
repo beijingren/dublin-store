@@ -23,6 +23,7 @@
 <text>
 <body>
 <div type="chapter" n="53">
+<p>
 <div>
 <p>　　建隆<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
@@ -1958,7 +1959,9 @@
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="22">乙酉</num>
-<pc>，</pc>掩天關<pc>，</pc>又入太微<pc>。</pc>閏<num value="6">六</num> 月<num value="39">壬寅</num>
+<pc>，</pc>掩天關<pc>，</pc>又入太微<pc>。</pc>閏<measure quantity="6" unit="months">
+<num value="6">六</num>月</measure>
+<num value="39">壬寅</num>
 <pc>，</pc>掩東井<pc>。</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
@@ -3755,7 +3758,7 @@
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <num value="59">壬戌</num>
-<pc>，</pc> 犯畢距星<pc>。</pc>
+<pc>，</pc>犯畢距星<pc>。</pc>
 <num value="1">甲子</num>
 <pc>，</pc>犯東井東北第<num value="1">一</num>星<pc>。</pc>
 <num value="4">丁卯</num>
@@ -4660,7 +4663,7 @@
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <num value="47">庚戌</num>
-<pc>，</pc>又入 <pc>。</pc>
+<pc>，</pc>又入<pc>。</pc>
 <num value="56">己未</num>
 <pc>，</pc>犯氐距星<pc>。</pc>
 <measure quantity="5" unit="months">
@@ -4876,6 +4879,7 @@
 <pc>，</pc>掩畢距星<pc>。</pc>
 </p>
 </div>
+</p>
 </div>
 </body>
 </text>

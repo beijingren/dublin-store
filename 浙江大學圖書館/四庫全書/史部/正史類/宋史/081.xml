@@ -23,6 +23,7 @@
 <text>
 <body>
 <div type="chapter" n="81">
+<p>
 <div>
 <p>　　中原既失<pc>，</pc>禮樂淪亡<pc>。</pc>高宗時<pc>，</pc>胡銓著<pc>《</pc>
 <title>審律論</title>
@@ -719,7 +720,9 @@
 <title>紀元曆</title>
 <pc>》</pc>推<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="24">丁亥</num>歲<measure quantity="11" unit="months">
+<measure quantity="24" unit="years">
+<num value="24">丁亥</num>歲</measure>
+<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <num value="1">甲子</num>朔<pc>，</pc>將頒行<pc>，</pc>裴伯壽詣禮部陳<pc>《</pc>
 <title>統元曆</title>
@@ -790,7 +793,9 @@
 <num value="4">四</num>月</measure>
 <num value="5">戊辰</num>朔日食<num value="1">一</num>分<pc>，</pc>日官言食<num value="2">二</num>分<pc>，</pc>伯壽並非之<pc>，</pc>既而精明不食<pc>。</pc>孝榮又定<measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<num value="47">庚戌</num>望月食<num value="6">六</num>分半<pc>，</pc>候之<pc>，</pc>止及<num value="5">五</num>分<pc>。</pc>又定<num value="25">戊子</num>歲<measure quantity="2" unit="months">
+<num value="47">庚戌</num>望月食<num value="6">六</num>分半<pc>，</pc>候之<pc>，</pc>止及<num value="5">五</num>分<pc>。</pc>又定<measure quantity="25" unit="years">
+<num value="25">戊子</num>歲</measure>
+<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="44">丁未</num>望月食<num value="9">九</num>分以上<pc>，</pc>出地<pc>，</pc>其光復滿<pc>。</pc>伯壽言<pc>：</pc>
 <pc>「</pc>
@@ -912,7 +917,7 @@
 <pc>《</pc>
 <title>紀元曆</title>
 <pc>》</pc>太陰在黃道鬥宿<num value="11">十一</num>度<num value="40">四十</num>分<pc>，</pc>在赤道鬥宿<num value="11">十一</num>度半；火星在黃道危宿<num value="6">六</num>度<pc>，</pc>在赤道危宿<num value="6">六</num>度太；土星在黃道虛宿<num value="7">七</num>度<num value="39">三十九</num>分<pc>，</pc>在赤道虛宿<num value="7">七</num>度半弱<pc>。</pc>新曆太陰在黃道鬥宿<num value="10">十</num>度<num value="61">六十一</num>分<pc>，</pc>在赤道鬥宿<num value="10">十</num>度少；火星在黃道危宿<num value="7">七</num>度<num value="20">二十</num>分<pc>，</pc>在赤道危宿<num value="6">六</num>度；土星在黃道虛宿<num value="6">六</num>度<num value="53">五十三</num>分<pc>，</pc>在赤道虛宿<num value="6">六</num>度半<pc>。</pc>
-<num value="3">三</num> 曆官驗得太陰在赤道鬥宿<num value="10">十</num>度<pc>，</pc>火星在赤道危宿<num value="6">六</num>度強<pc>，</pc>土星在赤道虛宿<num value="6">六</num>度半<pc>。</pc>今考之太陰<pc>，</pc>
+<num value="3">三</num>曆官驗得太陰在赤道鬥宿<num value="10">十</num>度<pc>，</pc>火星在赤道危宿<num value="6">六</num>度強<pc>，</pc>土星在赤道虛宿<num value="6">六</num>度半<pc>。</pc>今考之太陰<pc>，</pc>
 <pc>《</pc>
 <title>紀元曆</title>
 <pc>》</pc>疏；火星<pc>，</pc>新曆<pc>、</pc>
@@ -1064,6 +1069,7 @@
 <pc>。</pc>
 </p>
 </div>
+</p>
 </div>
 </body>
 </text>

@@ -23,6 +23,7 @@
 <text>
 <body>
 <div type="chapter" n="73">
+<p>
 <div>
 <p>　　步交會</p>
 </div>
@@ -681,7 +682,8 @@
 </p>
 </div>
 <div>
-<p>　　曆既成<pc>，</pc>以來年<num value="1">甲子</num>歲用之<pc>，</pc>是年<measure quantity="5" unit="months">
+<p>　　曆既成<pc>，</pc>以來年<measure quantity="1" unit="year">
+<num value="1">甲子</num>歲</measure>用之<pc>，</pc>是年<measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <num value="24">丁亥</num>朔<pc>，</pc>日食不效<pc>，</pc>算食<num value="2">二</num>分半<pc>，</pc>候之不食<pc>。</pc>
 </p>
@@ -793,6 +795,7 @@
 <num value="15">十五</num>除<pc>，</pc>為差；乃置其段初日行分<pc>，</pc>減去<num value="100">一百</num>分<pc>，</pc>餘<pc>。</pc>
 </p>
 </div>
+</p>
 </div>
 </body>
 </text>

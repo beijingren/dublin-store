@@ -23,6 +23,7 @@
 <text>
 <body>
 <div type="chapter" n="461">
+<p>
 <div>
 <p>◎方技上</p>
 </div>
@@ -225,9 +226,12 @@
 </p>
 </div>
 <div>
-<p>自伏羲<num value="51">甲寅</num>年至皇朝大中祥符<measure quantity="3" unit="years">
+<p>自伏羲<measure quantity="51" unit="years">
+<num value="51">甲寅</num>年</measure>至皇朝大中祥符<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="47">庚戌</num>歲<pc>，</pc>積<measure quantity="3897" unit="years">
+<measure quantity="47" unit="years">
+<num value="47">庚戌</num>歲</measure>
+<pc>，</pc>積<measure quantity="3897" unit="years">
 <num value="3897">三千八百九十七</num>年</measure>
 <pc>。</pc>
 <num value="5">五</num>帝之後訖今<pc>，</pc>明曆象之玄<pc>，</pc>知渾天之奧者<pc>，</pc>近<num value="10">十</num>餘朝<pc>，</pc>考而論之<pc>，</pc>臻至妙者不過<num value="20">四五</num>
@@ -320,7 +324,7 @@
 <pc>，</pc>
 <num value="10">二五</num>相比<pc>，</pc>以歲言之<pc>，</pc>當<num value="550">五百五十</num>
 <pc>。</pc>
-<pc>”</pc>大喜<pc>，</pc>賞賚甚厚<pc>。</pc> 以梁貞明<measure quantity="3" unit="years">
+<pc>”</pc>大喜<pc>，</pc>賞賚甚厚<pc>。</pc>以梁貞明<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>僭號<pc>，</pc>至開寶<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>國滅<pc>，</pc>止<measure quantity="55" unit="years">
 <num value="55">五十五</num>年</measure>
@@ -584,7 +588,7 @@
 <pc>“</pc>大梁帝宅<pc>，</pc>浩穰繁會<pc>，</pc>非林泉之士所可寄跡也<pc>。</pc>
 <pc>”</pc>上察其意<pc>，</pc>亦不強之<pc>，</pc>賜茶<num value="100">百</num>斤<pc>、</pc>絹<num value="200">二百</num>匹<pc>。</pc>又幸其觀<pc>，</pc>問曰<pc>：</pc>
 <pc>“</pc>師年逾<num value="80">八十</num>而氣貌益壯<pc>，</pc>善養生者也<pc>。</pc>
-<pc>”</pc> 因問其術<pc>，</pc>對曰<pc>：</pc>
+<pc>”</pc>因問其術<pc>，</pc>對曰<pc>：</pc>
 <pc>“</pc>臣之養生<pc>，</pc>不過精思練氣爾<pc>，</pc>帝王養生即異於是<pc>。</pc>老子曰<pc>：</pc>‘我無為而民自化<pc>，</pc>我無欲而民自正<pc>。</pc>’無為無欲<pc>，</pc>凝神太和<pc>，</pc>昔黃帝<pc>、</pc>唐堯享國永年<pc>，</pc>得此道也<pc>。</pc>
 <pc>”</pc>上大悅<pc>，</pc>賜紫衣<num value="1">一</num>襲<pc>、</pc>銀器<num value="500">五百</num>兩<pc>、</pc>帛<num value="500">五百</num>匹<pc>。</pc>年僅<measure quantity="100" unit="years">
 <num value="100">百</num>歲</measure>而卒<pc>。</pc>
@@ -633,6 +637,7 @@
 <pc>，</pc>至京師<pc>，</pc>猶丱角<pc>，</pc>詔賜名<pc>，</pc>度為道士<pc>。</pc>自是間歲或<num value="1">一</num>至京師<pc>，</pc>常令居太<num value="1">一</num>宮<pc>，</pc>與人言多養生事焉<pc>。</pc>
 </p>
 </div>
+</p>
 </div>
 </body>
 </text>

@@ -23,6 +23,7 @@
 <text>
 <body>
 <div type="chapter" n="4">
+<p>
 <div>
 <p>太宗<num value="1">一</num>
 </p>
@@ -1004,7 +1005,8 @@
 <pc>，</pc>賜秦王襲衣<pc>、</pc>通犀帶<pc>、</pc>錢<num value="100000">十萬</num>
 <pc>。</pc>是月<pc>，</pc>舒州上玄石<pc>，</pc>有白文曰<pc>「</pc>
 <quote>
-<num value="13">丙子</num>年出趙號<num value="21">二十一</num>帝</quote>
+<measure quantity="13" unit="years">
+<num value="13">丙子</num>年</measure>出趙號<num value="21">二十一</num>帝</quote>
 <pc>」</pc>
 <pc>。</pc>宣州雪霜殺桑害稼<pc>。</pc>北陽縣蝗<pc>，</pc>飛鳥數<num value="10000">萬</num>食之盡<pc>。</pc>
 </p>
@@ -1381,6 +1383,7 @@
 <pc>，</pc>大雨雪<pc>。</pc>
 </p>
 </div>
+</p>
 </div>
 </body>
 </text>
