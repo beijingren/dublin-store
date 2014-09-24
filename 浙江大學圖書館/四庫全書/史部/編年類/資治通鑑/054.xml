@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -13,121 +12,84 @@
 </name>
 </author>
 </titleStmt>
-
 <publicationStmt>
 <p>This document is published under a CC Attribution-Share Alike License</p>
 </publicationStmt>
-
 <sourceDesc>
 <p>XXX</p>
 </sourceDesc>
 </fileDesc>
 </teiHeader>
-
 <text>
 <body>
-
 <div type="chapter" n="54">
-
-<div>
 <p>
-<time>春</time>
-，
-<time>正月</time>
-，
-<time>己未</time>
-，赦天下。
+<div>
+<p>春<pc>，</pc>
+<measure quantity="1" unit="month">
+<num value="1">正</num>月</measure>
+<pc>，</pc>己未<pc>，</pc>赦天下<pc>。</pc>
 </p>
 </div>
-
 <div>
 <p>
 <placeName>居風</placeName>
-<term>令</term>
-貪暴無度，縣人
-<persName>硃達</persName>
-等與蠻夷同反，攻殺
-<term>令</term>
-，聚眾至
-四五千人。
+<term>令</term>貪暴無度<pc>，</pc>縣人<persName>硃達</persName>等與蠻夷同反<pc>，</pc>攻殺<term>令</term>
+<pc>，</pc>聚眾至<num value="20000">四五千</num>人<pc>。</pc>
 </p>
 </div>
-
 <div>
-<p>
-<time>夏</time>
-，
-<time>四月</time>
-，進攻
-<placeName>九真</placeName>
-，
-<placeName>九真</placeName>
+<p>夏<pc>，</pc>
+<measure quantity="4" unit="months">
+<num value="4">四</num>月</measure>
+<pc>，</pc>進攻<placeName>
+<num value="9">九</num>真</placeName>
+<pc>，</pc>
+<placeName>
+<num value="9">九</num>真</placeName>
 <term>太守</term>
-<persName>兒式</persName>
-戰死。詔
-<placeName>九真</placeName>
+<persName>兒式</persName>戰死<pc>。</pc>詔<placeName>
+<num value="9">九</num>真</placeName>
 <term>都尉</term>
-<persName>魏朗</persName>
-討破之。
+<persName>魏朗</persName>討破之<pc>。</pc>
 </p>
 </div>
-
 <div>
-<p>
-<time>閏月</time>
-，
-<time>庚辰</time>
-<time>晦</time>
-，日有食之。
+<p>閏月<pc>，</pc>庚辰晦<pc>，</pc>日有食之<pc>。</pc>
 </p>
 </div>
-
 <div>
-<p>
-京師蝗。
+<p>京師蝗<pc>。</pc>
 </p>
 </div>
-
 <div>
-<p>
-或上言：「民之貧困以貨輕錢薄，宜改鑄大錢。」事下
-<term>四府</term>
-群僚及太學能言之士議之。太學生
-<persName>劉陶</persName>
-上議曰：「當今之憂，不在於貨，在乎民饑。竊見
-<time>比年已來</time>
-，
-良苗盡於蝗螟之口，
-杼軸空於公私之求。
-民所患者，豈謂
-錢貨之厚薄，
-銖兩之輕重哉！就使當今
-沙礫化為南金，
-瓦石變為和玉，
-使百姓渴無所飲，饑無所食，
-雖皇、羲之純德，
-唐、虞之文明，猶不能以保蕭牆之內也。蓋民可百年無貨，不可一朝有饑，故食為至急也。議者不達農殖之本，多言鑄冶之便。蓋萬人鑄之，一人奪之，猶不能給；況今一人鑄之，則萬人奪之乎！雖以
-<term>陰陽</term>
-為炭，
-<term>萬物</term>
-為銅，役不食之民，使不饑之士，猶不能足無厭之求也。夫欲民殷財阜，要在止役禁奪，則百姓不勞而足。陛下愍海內之憂戚，欲鑄錢齊貨以救其弊，猶養魚沸鼎之中。棲鳥烈火之上；水、木，本魚鳥之所生也，用之不時，必至焦爛。願陛下寬鍥薄之禁，後冶鑄之議，聽民庶之謠吟，問路叟之所憂，瞰三光之文耀，視山河之分流，天下之心，國家大事，粲然皆見，無有遺惑者矣。伏念當今地廣而不得耕，民眾而無所食，群小競進，秉國之位，鷹揚天下，鳥鈔求飽，吞肌及骨，並噬無厭。誠恐卒有役夫、窮匠起於板築之間，投斤攘臂，登高遠呼，使怨之民響應雲合。雖方尺之錢，何有能救其危也！」遂不改錢。
+<p>或上言<pc>：</pc>
+<pc>「</pc>
+<quote>民之貧困以貨輕錢薄<pc>，</pc>宜改鑄大錢<pc>。</pc>
+</quote>
+<pc>」</pc>事下<term>
+<num value="4">四</num>府</term>群僚及太學能言之士議之<pc>。</pc>太學生<persName>劉陶</persName>上議曰<pc>：</pc>
+<pc>「</pc>
+<quote>當今之憂<pc>，</pc>不在於貨<pc>，</pc>在乎民饑<pc>。</pc>竊見比年已來<pc>，</pc>良苗盡於蝗螟之口<pc>，</pc>杼軸空於公私之求<pc>。</pc>民所患者<pc>，</pc>豈謂錢貨之厚薄<pc>，</pc>銖兩之輕重哉<pc>！</pc>就使當今沙礫化為南金<pc>，</pc>瓦石變為和玉<pc>，</pc>使<num value="100">百</num>姓渴無所飲<pc>，</pc>饑無所食<pc>，</pc>雖皇<pc>、</pc>羲之純德<pc>，</pc>唐<pc>、</pc>虞之文明<pc>，</pc>猶不能以保蕭牆之內也<pc>。</pc>蓋民可<measure quantity="100" unit="years">
+<num value="100">百</num>年</measure>無貨<pc>，</pc>不可<num value="1">一</num>朝有饑<pc>，</pc>故食為至急也<pc>。</pc>議者不達農殖之本<pc>，</pc>多言鑄冶之便<pc>。</pc>蓋<num value="10000">萬</num>人鑄之<pc>，</pc>
+<num value="1">一</num>人奪之<pc>，</pc>猶不能給；況今<num value="1">一</num>人鑄之<pc>，</pc>則<num value="10000">萬</num>人奪之乎<pc>！</pc>雖以<term>陰陽</term>為炭<pc>，</pc>
+<term>
+<num value="10000">萬</num>物</term>為銅<pc>，</pc>役不食之民<pc>，</pc>使不饑之士<pc>，</pc>猶不能足無厭之求也<pc>。</pc>夫欲民殷財阜<pc>，</pc>要在止役禁奪<pc>，</pc>則<num value="100">百</num>姓不勞而足<pc>。</pc>陛下愍海內之憂戚<pc>，</pc>欲鑄錢齊貨以救其弊<pc>，</pc>猶養魚沸鼎之中<pc>。</pc>棲鳥烈火之上；水<pc>、</pc>木<pc>，</pc>本魚鳥之所生也<pc>，</pc>用之不時<pc>，</pc>必至焦爛<pc>。</pc>願陛下寬鍥薄之禁<pc>，</pc>後冶鑄之議<pc>，</pc>聽民庶之謠吟<pc>，</pc>問路叟之所憂<pc>，</pc>瞰<num value="3">三</num>光之文耀<pc>，</pc>視山河之分流<pc>，</pc>天下之心<pc>，</pc>國家大事<pc>，</pc>粲然皆見<pc>，</pc>無有遺惑者矣<pc>。</pc>伏念當今地廣而不得耕<pc>，</pc>民眾而無所食<pc>，</pc>群小競進<pc>，</pc>秉國之位<pc>，</pc>鷹揚天下<pc>，</pc>鳥鈔求飽<pc>，</pc>吞肌及骨<pc>，</pc>並噬無厭<pc>。</pc>誠恐卒有役夫<pc>、</pc>窮匠起於板築之間<pc>，</pc>投斤攘臂<pc>，</pc>登高遠呼<pc>，</pc>使怨之民響應雲合<pc>。</pc>雖方尺之錢<pc>，</pc>何有能救其危也<pc>！</pc>
+</quote>
+<pc>」</pc>遂不改錢<pc>。</pc>
 </p>
 </div>
-
 <div>
-<p>
-<time>冬</time>
-，
-<time>十一月</time>
-，
+<p>冬<pc>，</pc>
+<measure quantity="11" unit="months">
+<num value="11">十一</num>月</measure>
+<pc>，</pc>
 <term>司徒</term>
-<persName>尹頌</persName>
-薨。
+<persName>尹頌</persName>薨<pc>。</pc>
 </p>
 </div>
-
-</div> <!-- Chapter -->
-
+</p>
+</div>
 </body>
 </text>
 </TEI>
