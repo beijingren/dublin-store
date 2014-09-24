@@ -85,7 +85,8 @@
 </div>
 <div>
 <p>　　歲周<pc>：</pc>
-<num value="2531138">二百五十三萬一千一百三十八</num>；歲周日<pc>：</pc>
+<num value="2531138">二百五十三萬一千一百三十八</num>
+<pc>；</pc>歲周日<pc>：</pc>
 <num value="365">三百六十五</num>
 <pc>、</pc>餘<num value="1688">一千六百八十八</num>
 <pc>。</pc>
@@ -357,7 +358,7 @@
 <p>　　</p>
 </div>
 <div>
-<p>　　推天正冬至<pc>：</pc>置距所求積年<pc>，</pc>以歲周乘之<pc>，</pc>為氣積分；以旬周去之<pc>，</pc>不盡<pc>，</pc>總法約之為大餘<pc>，</pc>不滿為小餘<pc>。</pc>大餘命<num value="1">甲子</num>
+<p>　　推天正冬至<pc>：</pc>置距所求積年<pc>，</pc>以歲周乘之<pc>，</pc>為氣積分<pc>；</pc>以旬周去之<pc>，</pc>不盡<pc>，</pc>總法約之為大餘<pc>，</pc>不滿為小餘<pc>。</pc>大餘命<num value="1">甲子</num>
 <pc>，</pc>算外<pc>，</pc>即得所求年天正冬至日辰及餘<pc>。</pc>其小餘總法退除為約分<pc>，</pc>即<num value="100">百</num>為母<pc>。</pc>
 </p>
 </div>
@@ -370,8 +371,8 @@
 </p>
 </div>
 <div>
-<p>　　求天正經朔<pc>：</pc>置天正冬至氣積分<pc>，</pc>以朔實去之<pc>，</pc>不盡為閏餘；以減冬至氣積分<pc>，</pc>餘為天正<measure quantity="11" unit="months">
-<num value="11">十一</num>月</measure>經朔加時朔積分；以旬周去之<pc>，</pc>不滿<pc>，</pc>總法約之為大餘<pc>，</pc>不滿為小餘<pc>。</pc>命<num value="1">甲子</num>
+<p>　　求天正經朔<pc>：</pc>置天正冬至氣積分<pc>，</pc>以朔實去之<pc>，</pc>不盡為閏餘<pc>；</pc>以減冬至氣積分<pc>，</pc>餘為天正<measure quantity="11" unit="months">
+<num value="11">十一</num>月</measure>經朔加時朔積分<pc>；</pc>以旬周去之<pc>，</pc>不滿<pc>，</pc>總法約之為大餘<pc>，</pc>不滿為小餘<pc>。</pc>命<num value="1">甲子</num>
 <pc>，</pc>算外<pc>，</pc>即得所求年天正<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>經朔加時朔積分<pc>。</pc>以旬周去之<pc>，</pc>不滿<pc>，</pc>總法約之為大餘<pc>，</pc>不滿為小餘<pc>。</pc>大餘命<num value="1">甲子</num>
 <pc>，</pc>算外<pc>，</pc>即得所求天正<measure quantity="11" unit="months">
@@ -380,7 +381,7 @@
 </div>
 <div>
 <p>　　求弦望及次朔經日<pc>：</pc>置天正<measure quantity="11" unit="months">
-<num value="11">十一</num>月</measure>經朔大<pc>、</pc>小餘<pc>，</pc>以弦策加之<pc>，</pc>為上弦；累加之<pc>，</pc>去命如前<pc>，</pc>各得弦<pc>、</pc>望及次月朔經日及餘也<pc>。</pc>
+<num value="11">十一</num>月</measure>經朔大<pc>、</pc>小餘<pc>，</pc>以弦策加之<pc>，</pc>為上弦<pc>；</pc>累加之<pc>，</pc>去命如前<pc>，</pc>各得弦<pc>、</pc>望及次月朔經日及餘也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -591,7 +592,7 @@
 <p>　　</p>
 </div>
 <div>
-<p>　　求發斂去經朔日<pc>：</pc>置天正閏餘<pc>，</pc>以中盈及朔虛分累益之<pc>，</pc>即每月閏餘；滿總法除之為閏日<pc>，</pc>不盡為小餘<pc>，</pc>即各得其月中氣去經朔日辰<pc>。</pc>因求卦候者<pc>，</pc>各以卦<pc>、</pc>候<pc>、</pc>土王策依次累加減之<pc>，</pc>中氣前減<pc>，</pc>中氣後加<pc>。</pc>
+<p>　　求發斂去經朔日<pc>：</pc>置天正閏餘<pc>，</pc>以中盈及朔虛分累益之<pc>，</pc>即每月閏餘<pc>；</pc>滿總法除之為閏日<pc>，</pc>不盡為小餘<pc>，</pc>即各得其月中氣去經朔日辰<pc>。</pc>因求卦候者<pc>，</pc>各以卦<pc>、</pc>候<pc>、</pc>土王策依次累加減之<pc>，</pc>中氣前減<pc>，</pc>中氣後加<pc>。</pc>
 </p>
 </div>
 <div>
@@ -882,7 +883,8 @@
 <p>　　<measure quantity="7" unit="days">
 <num value="7">七</num>日</measure>
 <pc>：</pc>初數<num value="6158">六千一百五十八</num>
-<pc>，</pc>約分<num value="89">八十九</num>；末數<num value="772">七百七十二</num>
+<pc>，</pc>約分<num value="89">八十九</num>
+<pc>；</pc>末數<num value="772">七百七十二</num>
 <pc>，</pc>約分<num value="11">一十一</num>
 <pc>。</pc>
 </p>
@@ -891,7 +893,8 @@
 <p>　　<measure quantity="14" unit="days">
 <num value="14">十四</num>日</measure>
 <pc>：</pc>初數<num value="5387">五千三百八十七</num>
-<pc>，</pc>約分<num value="78">七十八</num>；末數<num value="1543">一千五百四十三</num>
+<pc>，</pc>約分<num value="78">七十八</num>
+<pc>；</pc>末數<num value="1543">一千五百四十三</num>
 <pc>，</pc>約分<num value="22">二十二</num>
 <pc>。</pc>
 </p>
@@ -900,7 +903,8 @@
 <p>　　<measure quantity="21" unit="days">
 <num value="21">二十一</num>日</measure>
 <pc>：</pc>初數<num value="4615">四千六百一十五</num>
-<pc>，</pc>約分<num value="67">六十七</num>；末數<num value="2315">二千三百一十五</num>
+<pc>，</pc>約分<num value="67">六十七</num>
+<pc>；</pc>末數<num value="2315">二千三百一十五</num>
 <pc>，</pc>約分<num value="33">三十三</num>
 <pc>。</pc>
 </p>
@@ -909,7 +913,8 @@
 <p>　　<measure quantity="28" unit="days">
 <num value="28">二十八</num>日</measure>
 <pc>：</pc>初數<num value="3843">三千八百四十三</num>
-<pc>，</pc>約分<num value="55">五十五</num>；末數空<pc>。</pc>
+<pc>，</pc>約分<num value="55">五十五</num>
+<pc>；</pc>末數空<pc>。</pc>
 </p>
 </div>
 <div>
@@ -980,15 +985,21 @@
 <num value="7">七</num>日</measure>初數<num value="26659">二萬六千六百五十九</num>
 <pc>、</pc>初約<num value="89">八十九</num>
 <pc>，</pc>末數<num value="3341">三千三百四十一</num>
-<pc>、</pc>末約<num value="1001">一千一</num>；<measure quantity="14" unit="days">
+<pc>、</pc>末約<num value="1001">一千一</num>
+<pc>；</pc>
+<measure quantity="14" unit="days">
 <num value="14">十四</num>日</measure>初數<num value="22319">二萬二千三百一十九</num>
 <pc>、</pc>初約<num value="78">七十八</num>
 <pc>，</pc>末數<num value="6681">六千六百八十一</num>
-<pc>，</pc>末約<num value="23">二十三</num>；<measure quantity="21" unit="days">
+<pc>，</pc>末約<num value="23">二十三</num>
+<pc>；</pc>
+<measure quantity="21" unit="days">
 <num value="21">二十一</num>日</measure>初數<num value="19998">一萬九千九百九十八</num>
 <pc>、</pc>初約<num value="67">六十七</num>
 <pc>，</pc>末數<num value="10022">一萬二十二</num>
-<pc>、</pc>末約<num value="33">三十三</num>；<measure quantity="28" unit="days">
+<pc>、</pc>末約<num value="33">三十三</num>
+<pc>；</pc>
+<measure quantity="28" unit="days">
 <num value="28">二十八</num>日</measure>初數<num value="16637">一萬六千六百三十七</num>
 <pc>、</pc>初約<num value="55">五十五</num>
 <pc>，</pc>末數空<pc>、</pc>末約空<pc>。</pc>
@@ -999,15 +1010,21 @@
 <num value="7">七</num>日</measure>初數<num value="5011">五千一十一</num>
 <pc>，</pc>末數<num value="620">六百二十</num>
 <pc>，</pc>初約<num value="89">八十九</num>
-<pc>、</pc>末約<num value="1002">一千二</num>；<measure quantity="14" unit="days">
+<pc>、</pc>末約<num value="1002">一千二</num>
+<pc>；</pc>
+<measure quantity="14" unit="days">
 <num value="14">十四</num>日</measure>初數<num value="4383">四千三百八十三</num>
 <pc>、</pc>末數<num value="1257">一千二百五十七</num>
 <pc>，</pc>初約<num value="78">七十八</num>
-<pc>、</pc>末約<num value="22">二十二</num>；<measure quantity="21" unit="days">
+<pc>、</pc>末約<num value="22">二十二</num>
+<pc>；</pc>
+<measure quantity="21" unit="days">
 <num value="21">二十一</num>日</measure>初數<num value="3755">三千七百五十五</num>
 <pc>、</pc>末數<num value="1885">一千八百八十五</num>
 <pc>，</pc>初約<num value="67">六十七</num>
-<pc>、</pc>末約<num value="33">三十三</num>；<measure quantity="28" unit="days">
+<pc>、</pc>末約<num value="33">三十三</num>
+<pc>；</pc>
+<measure quantity="28" unit="days">
 <num value="28">二十八</num>日</measure>初數<num value="3127">三千一百二十七</num>
 <pc>、</pc>初約<num value="55">五十五</num>
 <pc>。</pc>
@@ -1018,15 +1035,21 @@
 <num value="7">七</num>日</measure>初數<num value="34390">三萬四千三百九十</num>
 <pc>、</pc>安約<num value="89">八十九</num>
 <pc>，</pc>末數<num value="4310">四千三百一十</num>
-<pc>、</pc>末約<num value="11">一十一</num>；<measure quantity="14" unit="days">
+<pc>、</pc>末約<num value="11">一十一</num>
+<pc>；</pc>
+<measure quantity="14" unit="days">
 <num value="14">十四</num>日</measure>初數<num value="38000">三萬八千</num>
 <pc>、</pc>初約<num value="78">七十八</num>
 <pc>，</pc>末數<num value="8620">八千六百二十</num>
-<pc>、</pc>末約<num value="21">二十一</num>；<measure quantity="21" unit="days">
+<pc>、</pc>末約<num value="21">二十一</num>
+<pc>；</pc>
+<measure quantity="21" unit="days">
 <num value="21">二十一</num>日</measure>初數<num value="25772">二萬五千七百七十二</num>
 <pc>、</pc>初約<num value="67">六十七</num>
 <pc>，</pc>末數<num value="12929">一萬二千九百二十九</num>
-<pc>、</pc>末約<num value="33">三十三</num>；<measure quantity="28" unit="days">
+<pc>、</pc>末約<num value="33">三十三</num>
+<pc>；</pc>
+<measure quantity="28" unit="days">
 <num value="28">二十八</num>日</measure>初數<num value="21004">二萬一千四</num>
 <pc>、</pc>初約<num value="55">五十五</num>
 <pc>，</pc>末數<num value="161">一百六十一</num>
@@ -1037,7 +1060,7 @@
 <p>　　</p>
 </div>
 <div>
-<p>　　求朔<pc>、</pc>弦<pc>、</pc>望入轉朏朒定數<pc>：</pc>朔<pc>、</pc>弦<pc>、</pc>望定日朔<pc>、</pc>弦<pc>、</pc>望加時日所在度；推月行<num value="9">九</num>道；求<num value="9">九</num>道宿度<pc>，</pc>月行<num value="9">九</num>道平交入氣<pc>，</pc>平定入轉<pc>，</pc>朏朒定數<pc>，</pc>正交入氣<pc>，</pc>正交加時黃道日度<pc>，</pc>正交加時月離<num value="9">九</num>道宿度<pc>，</pc>定朔<pc>、</pc>弦<pc>、</pc>望月所在宿度<pc>，</pc>定朔<time when="24:00">夜半</time>入轉<pc>，</pc>次朔<time when="24:00">夜半</time>入轉<pc>，</pc>月晨昏度<pc>，</pc>朔<pc>、</pc>弦<pc>、</pc>望晨昏定程<pc>，</pc>轉定度<pc>，</pc>晨昏月<pc>，</pc>天正<measure quantity="11" unit="months">
+<p>　　求朔<pc>、</pc>弦<pc>、</pc>望入轉朏朒定數<pc>：</pc>朔<pc>、</pc>弦<pc>、</pc>望定日朔<pc>、</pc>弦<pc>、</pc>望加時日所在度<pc>；</pc>推月行<num value="9">九</num>道<pc>；</pc>求<num value="9">九</num>道宿度<pc>，</pc>月行<num value="9">九</num>道平交入氣<pc>，</pc>平定入轉<pc>，</pc>朏朒定數<pc>，</pc>正交入氣<pc>，</pc>正交加時黃道日度<pc>，</pc>正交加時月離<num value="9">九</num>道宿度<pc>，</pc>定朔<pc>、</pc>弦<pc>、</pc>望月所在宿度<pc>，</pc>定朔<time when="24:00">夜半</time>入轉<pc>，</pc>次朔<time when="24:00">夜半</time>入轉<pc>，</pc>月晨昏度<pc>，</pc>朔<pc>、</pc>弦<pc>、</pc>望晨昏定程<pc>，</pc>轉定度<pc>，</pc>晨昏月<pc>，</pc>天正<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>經朔加時平行月<pc>，</pc>天正<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>定朔日晨前<time when="24:00">夜半</time>平行月<pc>，</pc>次朔<time when="24:00">夜半</time>平行月<pc>，</pc>定弦<pc>、</pc>望<time when="24:00">夜半</time>平行月<pc>，</pc>天正定朔<time when="24:00">夜半</time>入轉<pc>，</pc>弦<pc>、</pc>望及後朔定日<time when="24:00">夜半</time>入轉<pc>，</pc>定朔<pc>、</pc>弦<pc>、</pc>望<time when="24:00">夜半</time>月度<pc>。</pc>法同前曆<pc>，</pc>此不載<pc>。</pc>
 </p>

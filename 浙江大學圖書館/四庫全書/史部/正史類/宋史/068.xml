@@ -32,7 +32,7 @@
 <p>應天　乾元　儀天曆</p>
 </div>
 <div>
-<p>古者<pc>，</pc>帝王之治天下<pc>，</pc>以律曆為先；儒者之通天人<pc>，</pc>至律曆而止<pc>。</pc>曆以數始<pc>，</pc>數自律生<pc>，</pc>故律曆既正<pc>，</pc>寒暑以節<pc>，</pc>歲功以成<pc>，</pc>民事以序<pc>，</pc>庶績以凝<pc>，</pc>
+<p>古者<pc>，</pc>帝王之治天下<pc>，</pc>以律曆為先<pc>；</pc>儒者之通天人<pc>，</pc>至律曆而止<pc>。</pc>曆以數始<pc>，</pc>數自律生<pc>，</pc>故律曆既正<pc>，</pc>寒暑以節<pc>，</pc>歲功以成<pc>，</pc>民事以序<pc>，</pc>庶績以凝<pc>，</pc>
 <num value="10000">萬</num>事根本由茲立焉<pc>。</pc>古人 自入小學<pc>，</pc>知樂知數<pc>，</pc>已曉其原<pc>。</pc>後世老師宿儒猶或弗習律曆<pc>，</pc>而律曆之家未必知道<pc>，</pc>各師其師<pc>，</pc>岐而<num value="2">二</num>之<pc>。</pc>雖有巧思<pc>，</pc>豈能究造化之統會<pc>，</pc>以識天人之蘊奧哉<pc>！</pc>是以審律造 曆<pc>，</pc>更易不常<pc>，</pc>卒無<num value="1">一</num>定之說<pc>。</pc>治效之不古若<pc>，</pc>亦此之由<pc>，</pc>而世豈察及是乎<pc>！</pc>
 </p>
 </div>
@@ -137,18 +137,21 @@
 <pc>（</pc>從積黍而取絫<pc>，</pc>則<num value="10">十</num>黍為絫<pc>，</pc>
 <num value="10">十</num>絫為銖<pc>，</pc>
 <num value="24">二十四</num>銖為兩<pc>。</pc>錘皆以銅為之<pc>。</pc>
-<pc>）</pc>以氂<pc>、</pc>絫造<num value="1">一</num>錢半及<num value="1">一</num>兩等<num value="2">二</num>稱<pc>，</pc>各懸<num value="3">三</num>毫<pc>，</pc>以星準之<pc>。</pc>等<num value="1">一</num>錢半者<pc>，</pc>以取<num value="1">一</num>稱之法<pc>。</pc>其衡合樂尺<num value="1">一</num>尺<num value="2">二</num>寸<pc>，</pc>重<num value="1">一</num>錢<pc>，</pc>錘重<num value="6">六</num>分<pc>，</pc>盤重<num value="5">五</num>分<pc>。</pc>初毫星準半錢<pc>，</pc>至稍總<num value="1">一</num>錢半<pc>，</pc>析成<num value="15">十五</num>分<pc>，</pc>分列<num value="10">十</num>氂；<pc>（</pc>第<num value="1">一</num>毫下等半錢<pc>，</pc>當<num value="50">五十</num>氂<pc>，</pc>若<num value="15">十五</num>斤稱等<num value="5">五</num>斤也<pc>。</pc>
-<pc>）</pc>中毫 至稍<num value="1">一</num>錢<pc>，</pc>析成<num value="10">十</num>分<pc>，</pc>分列<num value="10">十</num>氂；末毫至稍半錢<pc>，</pc>析成<num value="5">五</num>分<pc>，</pc>分列<num value="10">十</num>氂<pc>。</pc>等<num value="1">一</num>兩者<pc>，</pc>亦 為<num value="1">一</num>稱之則<pc>。</pc>其衡合樂分尺<num value="1">一</num>尺<num value="4">四</num>寸<pc>，</pc>重<num value="1">一</num>錢半<pc>，</pc>錘重<num value="6">六</num>錢<pc>，</pc>盤重<num value="4">四</num>錢<pc>。</pc>初毫至稍<pc>，</pc>布<num value="24">二十四</num>銖<pc>，</pc>下別出<num value="1">一</num>星<pc>，</pc>等<num value="5">五</num>絫；<pc>（</pc>每銖之下<pc>，</pc>復出<num value="1">一</num>星<pc>，</pc>等<num value="5">五</num>絫<pc>，</pc>則<num value="48">四十八</num>星等<num value="2040">
+<pc>）</pc>以氂<pc>、</pc>絫造<num value="1">一</num>錢半及<num value="1">一</num>兩等<num value="2">二</num>稱<pc>，</pc>各懸<num value="3">三</num>毫<pc>，</pc>以星準之<pc>。</pc>等<num value="1">一</num>錢半者<pc>，</pc>以取<num value="1">一</num>稱之法<pc>。</pc>其衡合樂尺<num value="1">一</num>尺<num value="2">二</num>寸<pc>，</pc>重<num value="1">一</num>錢<pc>，</pc>錘重<num value="6">六</num>分<pc>，</pc>盤重<num value="5">五</num>分<pc>。</pc>初毫星準半錢<pc>，</pc>至稍總<num value="1">一</num>錢半<pc>，</pc>析成<num value="15">十五</num>分<pc>，</pc>分列<num value="10">十</num>氂<pc>；</pc>
+<pc>（</pc>第<num value="1">一</num>毫下等半錢<pc>，</pc>當<num value="50">五十</num>氂<pc>，</pc>若<num value="15">十五</num>斤稱等<num value="5">五</num>斤也<pc>。</pc>
+<pc>）</pc>中毫 至稍<num value="1">一</num>錢<pc>，</pc>析成<num value="10">十</num>分<pc>，</pc>分列<num value="10">十</num>氂<pc>；</pc>末毫至稍半錢<pc>，</pc>析成<num value="5">五</num>分<pc>，</pc>分列<num value="10">十</num>氂<pc>。</pc>等<num value="1">一</num>兩者<pc>，</pc>亦 為<num value="1">一</num>稱之則<pc>。</pc>其衡合樂分尺<num value="1">一</num>尺<num value="4">四</num>寸<pc>，</pc>重<num value="1">一</num>錢半<pc>，</pc>錘重<num value="6">六</num>錢<pc>，</pc>盤重<num value="4">四</num>錢<pc>。</pc>初毫至稍<pc>，</pc>布<num value="24">二十四</num>銖<pc>，</pc>下別出<num value="1">一</num>星<pc>，</pc>等<num value="5">五</num>絫<pc>；</pc>
+<pc>（</pc>每銖之下<pc>，</pc>復出<num value="1">一</num>星<pc>，</pc>等<num value="5">五</num>絫<pc>，</pc>則<num value="48">四十八</num>星等<num value="2040">
 <num value="200">二百</num>
 <num value="40">四十</num>
 </num>絫<pc>，</pc>計<num value="2400">二千四百</num>絫為<num value="10">十</num>兩<pc>。</pc>
-<pc>）</pc>中毫至稍<num value="5">五</num>錢<pc>，</pc>布<num value="12">十二</num>銖<pc>，</pc>列<num value="5">五</num>星<pc>，</pc>星等<num value="2">二</num>絫；<pc>（</pc>布<num value="12">十二</num>銖為<num value="5">五</num>錢之數<pc>，</pc>則<num value="1">一</num>銖等<num value="10">十</num>絫<pc>，</pc>都等<num value="120">一百二十</num>絫為半兩<pc>。</pc>
+<pc>）</pc>中毫至稍<num value="5">五</num>錢<pc>，</pc>布<num value="12">十二</num>銖<pc>，</pc>列<num value="5">五</num>星<pc>，</pc>星等<num value="2">二</num>絫<pc>；</pc>
+<pc>（</pc>布<num value="12">十二</num>銖為<num value="5">五</num>錢之數<pc>，</pc>則<num value="1">一</num>銖等<num value="10">十</num>絫<pc>，</pc>都等<num value="120">一百二十</num>絫為半兩<pc>。</pc>
 <pc>）</pc>末毫至稍<num value="6">六</num>銖<pc>，</pc>銖列<num value="10">十</num>星<pc>，</pc>星等絫<pc>。</pc>
 <pc>（</pc>每星等<num value="1">一</num>絫<pc>，</pc>都等<num value="60">六十</num>絫為<num value="2">二</num>錢半<pc>。</pc>
 <pc>）</pc>以御書真<pc>、</pc>草<pc>、</pc>行<num value="3">三</num>體淳化錢<pc>，</pc>較定實重<num value="2">二</num>銖<num value="4">四</num>絫為<num value="1">一</num>錢者<pc>，</pc>以<num value="2400">二千四百</num>得<num value="10">十</num>有<num value="5">五</num>斤為<num value="1">一</num>稱之則<pc>。</pc>其法<pc>，</pc>初以積黍為準<pc>，</pc>然後以分而推忽<pc>，</pc>為定數之端<pc>。</pc>故自忽<pc>、</pc>絲<pc>、</pc>毫<pc>、</pc>氂<pc>、</pc>黍<pc>、</pc>絫<pc>、</pc>銖各定<num value="1">一</num>錢之則<pc>。</pc>
 <pc>（</pc>謂皆定<num value="1">一</num>錢之則<pc>，</pc>然後制取等稱也<pc>。</pc>
 <pc>）</pc>忽<num value="10000">萬</num>為分<pc>，</pc>
-<pc>（</pc>以<num value="10000">一萬</num>忽為<num value="1">一</num>分之則<pc>，</pc>以<num value="100000">十萬</num>忽定 為<num value="1">一</num>錢之則<pc>。</pc>忽者<pc>，</pc>吐絲為忽；分者<pc>，</pc>始微而著<pc>，</pc>言可分別也<pc>。</pc>
+<pc>（</pc>以<num value="10000">一萬</num>忽為<num value="1">一</num>分之則<pc>，</pc>以<num value="100000">十萬</num>忽定 為<num value="1">一</num>錢之則<pc>。</pc>忽者<pc>，</pc>吐絲為忽<pc>；</pc>分者<pc>，</pc>始微而著<pc>，</pc>言可分別也<pc>。</pc>
 <pc>）</pc>絲則<num value="1000">千</num>
 <pc>，</pc>
 <pc>（</pc>
@@ -282,7 +285,8 @@
 </num>
 <pc>。</pc>儀天有周天<num value="365">三百六十五</num>
 <pc>、</pc>餘<num value="2470">二千四百七十</num>
-<pc>，</pc>約餘<num value="2445">二千四百四十五</num>；歲餘<num value="52970">五萬二千九百七十</num>
+<pc>，</pc>約餘<num value="2445">二千四百四十五</num>
+<pc>；</pc>歲餘<num value="52970">五萬二千九百七十</num>
 <pc>、</pc>餘<num value="2470">二千四百七十</num>
 <pc>。</pc>應天<pc>、</pc>乾元無此法<pc>，</pc>後皆倣此<pc>。</pc>
 <pc>）</pc>
@@ -403,7 +407,7 @@
 <div>
 <p>求天正所盈之日及分并冬至大小餘<pc>：</pc>以<num value="840168">八十四萬一百六十八</num>去元積<pc>，</pc>不盡者<pc>，</pc>半而進位<pc>，</pc>以元法收為所盈日<pc>，</pc>不滿為小餘<pc>。</pc>日滿<num value="60">六十</num>去之<pc>，</pc>不滿者<pc>，</pc>命從<num value="1">甲子</num>
 <pc>，</pc>算外<pc>，</pc>即冬至 日辰<pc>、</pc>大小餘也<pc>。</pc>
-<pc>（</pc>乾元以歲周乘積年為歲積分<pc>，</pc>以<num value="70560">七萬五百六十</num>去之<pc>，</pc>不盡<pc>，</pc>以<num value="5">五</num>因<pc>，</pc>滿元率收為日<pc>，</pc>不滿為餘日<pc>。</pc>儀天以歲周乘積年<pc>，</pc>進<num value="1">一</num>位<pc>，</pc>為歲積分；盈宗法而<num value="1">一</num>為 積日<pc>，</pc>不滿為餘日<pc>。</pc>去命並同應天<pc>。</pc>
+<pc>（</pc>乾元以歲周乘積年為歲積分<pc>，</pc>以<num value="70560">七萬五百六十</num>去之<pc>，</pc>不盡<pc>，</pc>以<num value="5">五</num>因<pc>，</pc>滿元率收為日<pc>，</pc>不滿為餘日<pc>。</pc>儀天以歲周乘積年<pc>，</pc>進<num value="1">一</num>位<pc>，</pc>為歲積分<pc>；</pc>盈宗法而<num value="1">一</num>為 積日<pc>，</pc>不滿為餘日<pc>。</pc>去命並同應天<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -418,11 +422,11 @@
 <num value="11">十一</num>月</measure>朔中日<pc>：</pc>
 <pc>（</pc>乾元謂之經朔<pc>。</pc>儀天謂之天正合朔<pc>。</pc>
 <pc>）</pc>以月率去元積<pc>，</pc>不盡者<pc>，</pc>為天正<measure quantity="11" unit="months">
-<num value="11">十一</num>月</measure>通餘；以通餘減<num value="730635">七十三萬六百三十五</num>
+<num value="11">十一</num>月</measure>通餘<pc>；</pc>以通餘減<num value="730635">七十三萬六百三十五</num>
 <pc>，</pc>餘<pc>，</pc>半而進位<pc>，</pc>以元法收為日<pc>，</pc>不滿為分<pc>，</pc>即得所求天正<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>朔中日及餘秒<pc>。</pc>
-<pc>（</pc>乾元以<num value="17364">一萬七千三百六十四</num>去歲積分<pc>，</pc>不盡為朔餘；以歲積分為朔積分<pc>，</pc>又倍<num value="52920">五萬二千九百二十</num>
-<pc>，</pc>除之<pc>，</pc>餘以<num value="5">五</num>因<pc>，</pc>滿元率 為日<pc>，</pc>不滿為分<pc>。</pc>儀天以合率去歲積分<pc>，</pc>不盡為閏餘；滿宗法為閏日<pc>，</pc>不滿為餘<pc>，</pc>以閏 日及餘減天正冬至大<pc>、</pc>小餘<pc>，</pc>為天正合朔大<pc>、</pc>小餘；去命如前<pc>，</pc>即得合朔日辰<pc>、</pc>大小餘<pc>。</pc>
+<pc>（</pc>乾元以<num value="17364">一萬七千三百六十四</num>去歲積分<pc>，</pc>不盡為朔餘<pc>；</pc>以歲積分為朔積分<pc>，</pc>又倍<num value="52920">五萬二千九百二十</num>
+<pc>，</pc>除之<pc>，</pc>餘以<num value="5">五</num>因<pc>，</pc>滿元率 為日<pc>，</pc>不滿為分<pc>。</pc>儀天以合率去歲積分<pc>，</pc>不盡為閏餘<pc>；</pc>滿宗法為閏日<pc>，</pc>不滿為餘<pc>，</pc>以閏 日及餘減天正冬至大<pc>、</pc>小餘<pc>，</pc>為天正合朔大<pc>、</pc>小餘<pc>；</pc>去命如前<pc>，</pc>即得合朔日辰<pc>、</pc>大小餘<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -430,7 +434,8 @@
 <p>求次朔望中日<pc>：</pc>
 <pc>（</pc>乾元謂之求弦望經朔<pc>。</pc>儀天謂之求次朔<pc>。</pc>
 <pc>）</pc>置朔中日<pc>，</pc>累加弦策餘秒<pc>，</pc>即得弦<pc>、</pc>望及次朔中日<pc>。</pc>
-<pc>（</pc>乾元以弦策加經朔大<pc>、</pc>小餘<pc>，</pc>即得次朔經日；以弦策及餘 秒加經朔<pc>，</pc>得上弦；再加<pc>，</pc>得望；<num value="3">三</num>之<pc>，</pc>得下弦<pc>。</pc>
+<pc>（</pc>乾元以弦策加經朔大<pc>、</pc>小餘<pc>，</pc>即得次朔經日<pc>；</pc>以弦策及餘 秒加經朔<pc>，</pc>得上弦<pc>；</pc>再加<pc>，</pc>得望<pc>；</pc>
+<num value="3">三</num>之<pc>，</pc>得下弦<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -540,14 +545,14 @@
 </p>
 </div>
 <div>
-<p>求<num value="72">七十二</num>候<pc>：</pc>各因諸氣大<pc>、</pc>小餘秒命之<pc>，</pc>即初候日也；各以候策加之<pc>，</pc>得次候日；又加 之<pc>，</pc>得末候日<pc>。</pc>
+<p>求<num value="72">七十二</num>候<pc>：</pc>各因諸氣大<pc>、</pc>小餘秒命之<pc>，</pc>即初候日也<pc>；</pc>各以候策加之<pc>，</pc>得次候日<pc>；</pc>又加 之<pc>，</pc>得末候日<pc>。</pc>
 <pc>（</pc>
 <num value="2">二</num>曆同法<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
-<p>求<num value="64">六十四</num>卦<pc>：</pc>各置諸中氣大<pc>、</pc>小餘秒命之<pc>，</pc>即公卦用事日；以卦策加之<pc>，</pc>得次卦用事日 ；又加之<pc>，</pc>得終卦用事日<pc>。</pc>
+<p>求<num value="64">六十四</num>卦<pc>：</pc>各置諸中氣大<pc>、</pc>小餘秒命之<pc>，</pc>即公卦用事日<pc>；</pc>以卦策加之<pc>，</pc>得次卦用事日 <pc>；</pc>又加之<pc>，</pc>得終卦用事日<pc>。</pc>
 <num value="10">十</num>有<num value="2">二</num>節之初<pc>，</pc>皆諸侯外卦用事日<pc>。</pc>
 <pc>（</pc>
 <num value="2">二</num>曆同法<pc>。</pc>
@@ -555,7 +560,7 @@
 </p>
 </div>
 <div>
-<p>求<num value="5">五</num>行用事<pc>：</pc>各因<num value="4">四</num>立大<pc>、</pc>小餘秒命之<pc>，</pc>即春木<pc>、</pc>夏火<pc>、</pc>秋金<pc>、</pc>冬水首用事日；以土王 策加<num value="4">四</num>季之節大<pc>、</pc>小餘秒<pc>，</pc>命從<num value="1">甲子</num>
+<p>求<num value="5">五</num>行用事<pc>：</pc>各因<num value="4">四</num>立大<pc>、</pc>小餘秒命之<pc>，</pc>即春木<pc>、</pc>夏火<pc>、</pc>秋金<pc>、</pc>冬水首用事日<pc>；</pc>以土王 策加<num value="4">四</num>季之節大<pc>、</pc>小餘秒<pc>，</pc>命從<num value="1">甲子</num>
 <pc>，</pc>算外<pc>。</pc>即其月土王用事日<pc>。</pc>
 <pc>（</pc>乾元以土王策減<num value="4">四</num>季中氣大<pc>、</pc>小餘<pc>。</pc>儀天以土王率加<num value="4">四</num>季大<pc>、</pc>小餘<pc>。</pc>
 <pc>）</pc>
@@ -833,11 +838,12 @@
 <pc>（</pc>乾元謂之求每日陰陽差<pc>。</pc>儀天謂之求入盈縮分先後定數<pc>。</pc>
 <pc>）</pc>各置 定日及分<pc>，</pc>以冬至常數相減<pc>，</pc>
 <num value="100">百</num>收<pc>，</pc>通為分<pc>，</pc>自雨水後<num value="16">十六</num>為法<pc>，</pc>自霜降後<num value="15">十五</num>為法<pc>。</pc>除分為氣中率<pc>，</pc>
-<num value="2">二</num>相減<pc>，</pc>為合差；半之<pc>，</pc>加減率為初<pc>、</pc>末率<pc>。</pc>
-<pc>（</pc>後多者<pc>，</pc>減為初<pc>、</pc>加為 末；後少者<pc>，</pc>加為初<pc>、</pc>減為末<pc>。</pc>
-<pc>）</pc>又法<pc>，</pc>以除合差<pc>，</pc>為日差；<pc>（</pc>後少者<pc>，</pc>日損初率；後 多者<pc>，</pc>日益初率<pc>。</pc>
-<pc>）</pc>為每日日躔損益率；累積其數<pc>，</pc>為盈縮度分<pc>。</pc>
-<pc>（</pc>乾元各置氣數<pc>，</pc>以<num value="120">一百二十</num>乘之<pc>，</pc>以<num value="1826">一千八百二十六</num>除之<pc>，</pc>所得為平行率；相減<pc>，</pc>為合差；初<pc>、</pc>末並如應 天<pc>。</pc>儀天以宗法乘盈縮積<pc>，</pc>以其限分除之<pc>，</pc>為限率分；倍之<pc>，</pc>為未限平率；日分乘之<pc>，</pc>亦以限分除之<pc>，</pc>為日差；半之<pc>，</pc>加減初<pc>、</pc>末限平率<pc>，</pc>在初者減初加末<pc>，</pc>在末者減末加初<pc>，</pc>為末定率；乃以日差累加減限初定率<pc>，</pc>初限以減<pc>、</pc>末限以加<pc>，</pc>為每日盈縮定分；各隨 其限盈加縮減其下先後數<pc>，</pc>為每日先後定數；冬至後積盈為先<pc>，</pc>在縮減之；夏至後<pc>，</pc>積 縮為後<pc>，</pc>在盈減之<pc>。</pc>其進退率<pc>、</pc>昇平積準此求之<pc>，</pc>即各得其限每日進退率<pc>、</pc>昇平積也<pc>。</pc>
+<num value="2">二</num>相減<pc>，</pc>為合差<pc>；</pc>半之<pc>，</pc>加減率為初<pc>、</pc>末率<pc>。</pc>
+<pc>（</pc>後多者<pc>，</pc>減為初<pc>、</pc>加為 末<pc>；</pc>後少者<pc>，</pc>加為初<pc>、</pc>減為末<pc>。</pc>
+<pc>）</pc>又法<pc>，</pc>以除合差<pc>，</pc>為日差<pc>；</pc>
+<pc>（</pc>後少者<pc>，</pc>日損初率<pc>；</pc>後 多者<pc>，</pc>日益初率<pc>。</pc>
+<pc>）</pc>為每日日躔損益率<pc>；</pc>累積其數<pc>，</pc>為盈縮度分<pc>。</pc>
+<pc>（</pc>乾元各置氣數<pc>，</pc>以<num value="120">一百二十</num>乘之<pc>，</pc>以<num value="1826">一千八百二十六</num>除之<pc>，</pc>所得為平行率<pc>；</pc>相減<pc>，</pc>為合差<pc>；</pc>初<pc>、</pc>末並如應 天<pc>。</pc>儀天以宗法乘盈縮積<pc>，</pc>以其限分除之<pc>，</pc>為限率分<pc>；</pc>倍之<pc>，</pc>為未限平率<pc>；</pc>日分乘之<pc>，</pc>亦以限分除之<pc>，</pc>為日差<pc>；</pc>半之<pc>，</pc>加減初<pc>、</pc>末限平率<pc>，</pc>在初者減初加末<pc>，</pc>在末者減末加初<pc>，</pc>為末定率<pc>；</pc>乃以日差累加減限初定率<pc>，</pc>初限以減<pc>、</pc>末限以加<pc>，</pc>為每日盈縮定分<pc>；</pc>各隨 其限盈加縮減其下先後數<pc>，</pc>為每日先後定數<pc>；</pc>冬至後積盈為先<pc>，</pc>在縮減之<pc>；</pc>夏至後<pc>，</pc>積 縮為後<pc>，</pc>在盈減之<pc>。</pc>其進退率<pc>、</pc>昇平積準此求之<pc>，</pc>即各得其限每日進退率<pc>、</pc>昇平積也<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -845,8 +851,8 @@
 <p>求日躔先後定數<pc>：</pc>
 <pc>（</pc>乾元謂之求入氣<pc>、</pc>求弦望氣入<pc>、</pc>求日躔陰陽差<pc>。</pc>
 <pc>）</pc>各以朔<pc>、</pc>弦<pc>、</pc>望 入氣日及減本氣定日及分秒通之<pc>，</pc>下以損益率展<pc>，</pc>以元法為分<pc>，</pc>損減益加次氣下先後積 為定數<pc>。</pc>
-<pc>（</pc>乾元以其月氣節減經朔大<pc>、</pc>小餘<pc>，</pc>即得入氣日及分；又以弦策累加天正朔日 入氣大<pc>、</pc>小餘<pc>，</pc>滿氣策去之<pc>，</pc>即得弦<pc>、</pc>望經朔入氣日及分；以其日損益率乘入氣日餘分<pc>，</pc>所得<pc>，</pc>用損益其日陰陽差為定數<pc>。</pc>儀天法見上<pc>。</pc>又儀天有求<num value="4">四</num>正節定日<pc>，</pc>去冬<pc>、</pc>夏<num value="2">二</num>至盈縮之中<pc>，</pc>先後皆空<pc>，</pc>以常為定；其春<pc>、</pc>秋<num value="2">二</num>分盈縮之極<pc>，</pc>以<num value="100">一百</num>乘盈縮積<pc>，</pc>滿宗法 為日<pc>，</pc>先減後加<pc>，</pc>去命如前<pc>，</pc>各得定日<pc>。</pc>若求朔<pc>、</pc>弦<pc>、</pc>望盈縮限日<pc>，</pc>以天正閏日及餘減 縮末限日及分<pc>，</pc>餘為天正<measure quantity="11" unit="months">
-<num value="11">十一</num>月</measure>經朔加時入限日及餘；以弦策累加之<pc>，</pc>即得弦<pc>、</pc>望及後 朔初<pc>、</pc>末限日；各置入限日及餘<pc>，</pc>以其日進退率乘之<pc>，</pc>如宗法而<num value="1">一</num>
+<pc>（</pc>乾元以其月氣節減經朔大<pc>、</pc>小餘<pc>，</pc>即得入氣日及分<pc>；</pc>又以弦策累加天正朔日 入氣大<pc>、</pc>小餘<pc>，</pc>滿氣策去之<pc>，</pc>即得弦<pc>、</pc>望經朔入氣日及分<pc>；</pc>以其日損益率乘入氣日餘分<pc>，</pc>所得<pc>，</pc>用損益其日陰陽差為定數<pc>。</pc>儀天法見上<pc>。</pc>又儀天有求<num value="4">四</num>正節定日<pc>，</pc>去冬<pc>、</pc>夏<num value="2">二</num>至盈縮之中<pc>，</pc>先後皆空<pc>，</pc>以常為定<pc>；</pc>其春<pc>、</pc>秋<num value="2">二</num>分盈縮之極<pc>，</pc>以<num value="100">一百</num>乘盈縮積<pc>，</pc>滿宗法 為日<pc>，</pc>先減後加<pc>，</pc>去命如前<pc>，</pc>各得定日<pc>。</pc>若求朔<pc>、</pc>弦<pc>、</pc>望盈縮限日<pc>，</pc>以天正閏日及餘減 縮末限日及分<pc>，</pc>餘為天正<measure quantity="11" unit="months">
+<num value="11">十一</num>月</measure>經朔加時入限日及餘<pc>；</pc>以弦策累加之<pc>，</pc>即得弦<pc>、</pc>望及後 朔初<pc>、</pc>末限日<pc>；</pc>各置入限日及餘<pc>，</pc>以其日進退率乘之<pc>，</pc>如宗法而<num value="1">一</num>
 <pc>，</pc>所得<pc>，</pc>以進退其日 下昇平積<pc>，</pc>即各為定數<pc>。</pc>
 <pc>）</pc>
 </p>
@@ -966,7 +972,8 @@
 <num value="9">九</num>限終於<num value="12">十二</num>
 <pc>。</pc>距<num value="2">二</num>分之宿<pc>，</pc>皆乘限度<pc>，</pc>身外除<num value="1">一</num>
 <pc>，</pc>餘滿<num value="100">百</num>為度分<pc>，</pc>命曰黃赤道差<pc>。</pc>
-<num value="2">二</num>至前後各<num value="9">九</num>限<pc>，</pc>以差為減；<num value="2">二</num>分前後各<num value="9">九</num>限<pc>，</pc>以差為加<pc>。</pc>各加減赤道 度為黃道度<pc>，</pc>有餘分就近收為太<pc>、</pc>半<pc>、</pc>少之數<pc>。</pc>
+<num value="2">二</num>至前後各<num value="9">九</num>限<pc>，</pc>以差為減<pc>；</pc>
+<num value="2">二</num>分前後各<num value="9">九</num>限<pc>，</pc>以差為加<pc>。</pc>各加減赤道 度為黃道度<pc>，</pc>有餘分就近收為太<pc>、</pc>半<pc>、</pc>少之數<pc>。</pc>
 <pc>（</pc>乾元初率<num value="9">九</num>
 <pc>，</pc>每限減<num value="1">一</num>
 <pc>，</pc>末率<num value="1">一</num>
@@ -1102,12 +1109,12 @@
 <div>
 <p>求赤道日度<pc>：</pc>
 <pc>（</pc>儀天謂之推日度<pc>。</pc>
-<pc>）</pc>以天總除元積<pc>，</pc>為總數；不盡<pc>，</pc>半而進位<pc>，</pc>又以<num value="100">
+<pc>）</pc>以天總除元積<pc>，</pc>為總數<pc>；</pc>不盡<pc>，</pc>半而進位<pc>，</pc>又以<num value="100">
 <num value="1">一</num>
 <num value="100">百</num>
 </num>收總數從之<pc>，</pc>以元法收為度<pc>，</pc>不滿為分秒<pc>，</pc>命起赤道虛宿<num value="4">四</num>度分<pc>。</pc>
 <pc>（</pc>乾元以軌率去歲 積分<pc>，</pc>餘以<num value="5">五</num>因之<pc>，</pc>滿軌率收為度<pc>，</pc>不滿<pc>，</pc>退除為分<pc>，</pc>餘同<pc>。</pc>儀天以乾數去歲積分<pc>，</pc>宗 法收為度<pc>，</pc>命起盧宿<num value="2">二</num>度<pc>，</pc>餘同應天<pc>。</pc>又以<num value="1">一</num>象度及餘秒累加之<pc>，</pc>滿赤道宿度即去之<pc>，</pc>各得<num value="4">四</num>正<pc>，</pc>即初日加時赤道日度也<pc>。</pc>
-<pc>）</pc>求黃道日度<pc>：</pc>置冬至赤道日躔宿度<pc>，</pc>以所入限數 乘之<pc>，</pc>所得<pc>，</pc>身外除<num value="1">一</num>
+<pc>）</pc>求黃道日度<pc>：</pc>置冬至赤道日躔宿度<pc>，</pc>以所入限數乘之<pc>，</pc>所得<pc>，</pc>身外除<num value="1">一</num>
 <pc>，</pc>滿<num value="100">百</num>為度<pc>，</pc>不滿為分<pc>，</pc>用減赤道日度<pc>，</pc>為冬至加時黃道日度及 分<pc>。</pc>
 <pc>（</pc>乾元<pc>、</pc>儀天亦如其法<pc>。</pc>乾元即以<num value="84">八十四</num>
 <pc>，</pc>儀天以<num value="101">一百一</num>除為度<pc>，</pc>餘同應天<pc>。</pc>
@@ -1117,7 +1124,7 @@
 <div>
 <p>求朔望常日月<pc>：</pc>
 <pc>（</pc>乾元謂之求黃道平朔日度<pc>。</pc>
-<pc>）</pc>置朔<pc>、</pc>望日躔先後定數<pc>，</pc>進<num value="1">一</num>位<pc>，</pc>倍之<pc>，</pc>身外除之<pc>，</pc>以元法收為度分<pc>，</pc>先加後減朔望中日<pc>、</pc>月<pc>，</pc>為朔望中常日<pc>、</pc>月度分；用加 冬至黃道之宿<pc>，</pc>命如前<pc>，</pc>即得朔望常日<pc>、</pc>月所在<pc>。</pc>
+<pc>）</pc>置朔<pc>、</pc>望日躔先後定數<pc>，</pc>進<num value="1">一</num>位<pc>，</pc>倍之<pc>，</pc>身外除之<pc>，</pc>以元法收為度分<pc>，</pc>先加後減朔望中日<pc>、</pc>月<pc>，</pc>為朔望中常日<pc>、</pc>月度分<pc>；</pc>用加 冬至黃道之宿<pc>，</pc>命如前<pc>，</pc>即得朔望常日<pc>、</pc>月所在<pc>。</pc>
 <pc>（</pc>乾元置會週<num value="17360">一萬七千三百六十</num>
 <pc>，</pc>以 距<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>後來月數乘之<pc>，</pc>所得<pc>，</pc>減去朔餘<pc>，</pc>加會餘而半之<pc>，</pc>以<num value="294">二百九十四</num>收為度<pc>，</pc>不盡<pc>，</pc>退除為分<pc>。</pc>儀天法在後<pc>。</pc>乾元又有求黃道加時朔日度<pc>，</pc>置平朔日<pc>，</pc>以日躔陽加陰減之<pc>，</pc>又以冬至黃道日度加而命之<pc>，</pc>即其朔加時黃道日度及分也<pc>。</pc>若求望日度者<pc>，</pc>以半朔策 加之<pc>，</pc>即得望日度及分也<pc>。</pc>用陽度<pc>，</pc>即依本術<pc>。</pc>
@@ -1127,8 +1134,10 @@
 <div>
 <p>每日加時黃道日度<pc>：</pc>
 <pc>（</pc>乾元謂之每日行分<pc>。</pc>
-<pc>）</pc>以定朔<pc>、</pc>望日所在相減<pc>，</pc>餘以距後日數除 之<pc>，</pc>為平行分；<num value="2">二</num>行分相減<pc>，</pc>為合差；半之<pc>，</pc>加減平行分<pc>，</pc>為初行分；<pc>（</pc>後平行多<pc>，</pc>減 為初；後平行少<pc>，</pc>加為初<pc>。</pc>
-<pc>）</pc>以距後日數除合差<pc>，</pc>為日差；後少者損<pc>，</pc>後多者益<pc>，</pc>為每 日行分；累加朔<pc>、</pc>望日<pc>，</pc>即得所求<pc>。</pc>
+<pc>）</pc>以定朔<pc>、</pc>望日所在相減<pc>，</pc>餘以距後日數除 之<pc>，</pc>為平行分<pc>；</pc>
+<num value="2">二</num>行分相減<pc>，</pc>為合差<pc>；</pc>半之<pc>，</pc>加減平行分<pc>，</pc>為初行分<pc>；</pc>
+<pc>（</pc>後平行多<pc>，</pc>減 為初<pc>；</pc>後平行少<pc>，</pc>加為初<pc>。</pc>
+<pc>）</pc>以距後日數除合差<pc>，</pc>為日差<pc>；</pc>後少者損<pc>，</pc>後多者益<pc>，</pc>為每 日行分<pc>；</pc>累加朔<pc>、</pc>望日<pc>，</pc>即得所求<pc>。</pc>
 <pc>（</pc>乾元同<pc>。</pc>儀天不立此法<pc>。</pc>又儀天有求次正定日加 時黃道日度<pc>，</pc>置歲差<pc>，</pc>以限數乘之<pc>，</pc>退<num value="1">一</num>位<pc>，</pc>滿<num value="101">一百一</num>為差秒及小分<pc>，</pc>再析之<pc>，</pc>乃以加<num value="1">一</num>象度<pc>，</pc>所得<pc>，</pc>累加冬至黃道日<pc>，</pc>滿黃道宿次去之<pc>，</pc>各得<num value="4">四</num>正<pc>，</pc>即加時黃道日度也<pc>。</pc>若 求<num value="4">四</num>正定日<time when="24:00">夜半</time>黃道日度<pc>，</pc>置其定日小餘副之<pc>，</pc>以其日盈縮分乘之<pc>，</pc>滿宗法而<num value="1">一</num>
 <pc>，</pc>盈加 縮減其副<pc>，</pc>乃以減其日加時<pc>，</pc>即為<time when="24:00">夜半</time>黃道日度<pc>。</pc>又有求每日<time when="24:00">夜半</time>日度<pc>，</pc>因<num value="4">四</num>正初日夜 半度<pc>，</pc>累加<num value="1">一</num>策<pc>，</pc>以其日盈縮分盈加縮減<pc>，</pc>滿黃道宿次去之<pc>，</pc>即得每日<time when="24:00">夜半</time>日度<pc>。</pc>又有 求定朔<pc>、</pc>弦<pc>、</pc>望加時日度<pc>，</pc>置定朔<pc>、</pc>望小餘副之<pc>，</pc>以其日盈縮分乘之<pc>，</pc>以宗法收之為分<pc>，</pc>盈加縮減其副<pc>，</pc>以加其日<time when="24:00">夜半</time>度<pc>，</pc>各得其時加日躔所次<pc>。</pc>如朔<pc>、</pc>望有進退者<pc>，</pc>此術不 用<pc>。</pc>
 <pc>）</pc>
