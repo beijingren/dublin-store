@@ -23,7 +23,6 @@
 <text>
 <body>
 <div type="chapter" n="70">
-<p>
 <div>
 <p>步<num value="5">五</num>星</p>
 </div>
@@ -384,7 +383,7 @@
 </p>
 </div>
 <div>
-<p>各以星總除元積為總數<pc>，</pc>不盡者<pc>，</pc>返減星總<pc>，</pc>餘<pc>，</pc>半而進位<pc>；</pc>又置總數<pc>，</pc>木<pc>、</pc>火<num value="3">三</num>之<pc>，</pc>土如其數<pc>，</pc>皆<num value="100">百</num>而從之<pc>，</pc>以元法收之<pc>，</pc>為天正冬至後平合日度及分<pc>。</pc>
+<p>各以星總除元積為總數<pc>，</pc>不盡者<pc>，</pc>返減星總<pc>，</pc>餘<pc>，</pc>半而進位；又置總數<pc>，</pc>木<pc>、</pc>火<num value="3">三</num>之<pc>，</pc>土如其數<pc>，</pc>皆<num value="100">百</num>而從之<pc>，</pc>以元法收之<pc>，</pc>為天正冬至後平合日度及分<pc>。</pc>
 <pc>《</pc>
 <title>乾元</title>
 <pc>》</pc>置歲積分<pc>，</pc>各以星率去之<pc>，</pc>不盡<pc>，</pc>用減星率<pc>，</pc>餘以<num value="5">五</num>因之<pc>，</pc>滿元率收為日<pc>，</pc>不滿<pc>，</pc>退除為分<pc>。</pc>
@@ -417,7 +416,7 @@
 </p>
 </div>
 <div>
-<p>求入陰陽變分<pc>：</pc>在陽末變分以下為入陽曆<pc>；</pc>以上去之<pc>，</pc>餘為入陰曆<pc>。</pc>置入陰<pc>、</pc>陽曆分<pc>，</pc>以陰<pc>、</pc>陽變數去之<pc>，</pc>不盡<pc>，</pc>為入陰<pc>、</pc>陽數及變分<pc>。</pc>
+<p>求入陰陽變分<pc>：</pc>在陽末變分以下為入陽曆；以上去之<pc>，</pc>餘為入陰曆<pc>。</pc>置入陰<pc>、</pc>陽曆分<pc>，</pc>以陰<pc>、</pc>陽變數去之<pc>，</pc>不盡<pc>，</pc>為入陰<pc>、</pc>陽數及變分<pc>。</pc>
 </p>
 </div>
 <div>
@@ -426,26 +425,21 @@
 <title>乾元</title>
 <pc>》</pc>歲星前限<num value="20505">二萬五百五</num>
 <pc>，</pc>中限<num value="10248">一萬二百四十八</num>
-<pc>，</pc>後限<num value="16020">一萬六千二十</num>
-<pc>；</pc>熒惑前限<num value="19682">一萬九千六百八十二</num>
+<pc>，</pc>後限<num value="16020">一萬六千二十</num>；熒惑前限<num value="19682">一萬九千六百八十二</num>
 <pc>，</pc>中限<num value="6564">六千五百六十四</num>
-<pc>，</pc>後限<num value="16844">一萬六千八百四十四</num>
-<pc>；</pc>鎮星前限<num value="18262">一萬八千二百六十二</num>
+<pc>，</pc>後限<num value="16844">一萬六千八百四十四</num>；鎮星前限<num value="18262">一萬八千二百六十二</num>
 <pc>，</pc>中限<num value="9126">九千一百二十六</num>
-<pc>，</pc>後限同前限<pc>，</pc>前<pc>、</pc>後<pc>、</pc>中皆半周天<pc>；</pc>太白前限<num value="19716">一萬九千七百一十六</num>
+<pc>，</pc>後限同前限<pc>，</pc>前<pc>、</pc>後<pc>、</pc>中皆半周天；太白前限<num value="19716">一萬九千七百一十六</num>
 <pc>，</pc>中限<num value="9858">九千八百五十八</num>
-<pc>，</pc>後限<num value="16809">一萬六千八百九</num>
-<pc>；</pc>辰星前<pc>、</pc>中<pc>、</pc>後與鎮星同<pc>。</pc>又歲星前法<num value="1708">一千七百八</num>
+<pc>，</pc>後限<num value="16809">一萬六千八百九</num>；辰星前<pc>、</pc>中<pc>、</pc>後與鎮星同<pc>。</pc>又歲星前法<num value="1708">一千七百八</num>
 <pc>，</pc>後法<num value="1334">一千三百三十四</num>
 <pc>，</pc>熒惑前法<num value="1641">一千六百四十一</num>
-<pc>，</pc>後法<num value="1403">一千四百三</num>
-<pc>；</pc>鎮星<pc>、</pc>辰星前後法皆<num value="1522">一千五百二十二</num>
-<pc>；</pc>太白前法<num value="1643">一千六百四十三</num>
+<pc>，</pc>後法<num value="1403">一千四百三</num>；鎮星<pc>、</pc>辰星前後法皆<num value="1522">一千五百二十二</num>；太白前法<num value="1643">一千六百四十三</num>
 <pc>，</pc>後法<num value="1402">一千四百二</num>
 <pc>。</pc>
 <pc>《</pc>
 <title>儀天</title>
-<pc>》</pc>各置常合入曆度分<pc>，</pc>如在上限末數已下者為增數<pc>；</pc>以上者減去上限末數下度分<pc>，</pc>餘為入下限減數<pc>。</pc>又各置所入上<pc>、</pc>下限度分<pc>，</pc>以上<pc>、</pc>下限度分相近者減之<pc>，</pc>餘為入次限<pc>、</pc>下限度及分<pc>。</pc>
+<pc>》</pc>各置常合入曆度分<pc>，</pc>如在上限末數已下者為增數；以上者減去上限末數下度分<pc>，</pc>餘為入下限減數<pc>。</pc>又各置所入上<pc>、</pc>下限度分<pc>，</pc>以上<pc>、</pc>下限度分相近者減之<pc>，</pc>餘為入次限<pc>、</pc>下限度及分<pc>。</pc>
 </p>
 </div>
 <div>
@@ -464,10 +458,10 @@
 </div>
 <div>
 <p>以入變分各減初變分<pc>，</pc>餘卻以其變下損益率展之<pc>，</pc>
-<num value="100">百</num>而<num value="1">一</num>為分<pc>；</pc>損益次變下陰<pc>、</pc>陽積為定分<pc>。</pc>
+<num value="100">百</num>而<num value="1">一</num>為分；損益次變下陰<pc>、</pc>陽積為定分<pc>。</pc>
 <pc>《</pc>
 <title>乾元</title>
-<pc>》</pc>置平合入曆分<pc>，</pc>以其星入段前<pc>、</pc>後限分加減之<pc>，</pc>如不足<pc>，</pc>加周天以減之<pc>，</pc>餘卻依入曆分入初末限<pc>；</pc>各置其段入曆分<pc>，</pc>前限以下為在前<pc>，</pc>以上者去之<pc>，</pc>為後限分<pc>；</pc>在中限以下為初限<pc>，</pc>以上去之<pc>，</pc>為末限分<pc>；</pc>置初<pc>、</pc>末<pc>，</pc>以前<pc>、</pc>後限星分除之為限數<pc>，</pc>不滿<pc>，</pc>為初末限日<pc>；</pc>各以其限差分約之<pc>，</pc>為差<pc>；</pc>初限以加<pc>、</pc>末限以減<pc>，</pc>用加減前<pc>、</pc>後限度為定度<pc>。</pc>
+<pc>》</pc>置平合入曆分<pc>，</pc>以其星入段前<pc>、</pc>後限分加減之<pc>，</pc>如不足<pc>，</pc>加周天以減之<pc>，</pc>餘卻依入曆分入初末限；各置其段入曆分<pc>，</pc>前限以下為在前<pc>，</pc>以上者去之<pc>，</pc>為後限分；在中限以下為初限<pc>，</pc>以上去之<pc>，</pc>為末限分；置初<pc>、</pc>末<pc>，</pc>以前<pc>、</pc>後限星分除之為限數<pc>，</pc>不滿<pc>，</pc>為初末限日；各以其限差分約之<pc>，</pc>為差；初限以加<pc>、</pc>末限以減<pc>，</pc>用加減前<pc>、</pc>後限度為定度<pc>。</pc>
 <pc>《</pc>
 <title>儀天</title>
 <pc>》</pc>各置常合所入限下度數及分<pc>，</pc>以其限下損益率乘之<pc>，</pc>退<num value="1">一</num>等<pc>，</pc>以<num value="100">百</num>約之為度<pc>，</pc>不滿為分<pc>，</pc>以損益其限下增<pc>、</pc>減積度及分<pc>。</pc>若求諸變增<pc>、</pc>減定度者<pc>，</pc>置其變入上下限<pc>，</pc>准此求之<pc>。</pc>
@@ -484,8 +478,7 @@
 </p>
 </div>
 <div>
-<p>日除陰<pc>、</pc>陽定分<pc>，</pc>為<num value="2">二</num>
-<pc>；</pc>陽加陰減平合日<pc>，</pc>為定積日及分<pc>。</pc>
+<p>日除陰<pc>、</pc>陽定分<pc>，</pc>為<num value="2">二</num>；陽加陰減平合日<pc>，</pc>為定積日及分<pc>。</pc>
 <pc>《</pc>
 <title>乾元</title>
 <pc>》</pc>置變日<pc>，</pc>以前<pc>、</pc>後限度前加後減<pc>，</pc>為定日<pc>。</pc>
@@ -507,13 +500,13 @@
 </p>
 </div>
 <div>
-<p>置定積<pc>，</pc>以常數去之<pc>，</pc>不盡者<pc>，</pc>為入氣日分<pc>；</pc>置入氣日分<pc>，</pc>如求朔望盈縮術入之<pc>，</pc>即得入氣盈縮度分<pc>。</pc>
+<p>置定積<pc>，</pc>以常數去之<pc>，</pc>不盡者<pc>，</pc>為入氣日分；置入氣日分<pc>，</pc>如求朔望盈縮術入之<pc>，</pc>即得入氣盈縮度分<pc>。</pc>
 <pc>《</pc>
 <title>乾元</title>
-<pc>》</pc>置定日<pc>，</pc>以氣策去之為氣數<pc>，</pc>不盡<pc>，</pc>為入氣日<pc>；</pc>命以冬至<pc>，</pc>算外<pc>，</pc>即得入氣日及分<pc>。</pc>
+<pc>》</pc>置定日<pc>，</pc>以氣策去之為氣數<pc>，</pc>不盡<pc>，</pc>為入氣日；命以冬至<pc>，</pc>算外<pc>，</pc>即得入氣日及分<pc>。</pc>
 <pc>《</pc>
 <title>儀天</title>
-<pc>》</pc>各置定合積日<pc>，</pc>在半周天以下者去之<pc>，</pc>餘為在縮<pc>，</pc>乃視在盈縮初限日及約餘以下者<pc>，</pc>便為在盈縮初限<pc>；</pc>以上者<pc>，</pc>減去盈縮初限日約餘<pc>，</pc>為在盈縮末限日及餘<pc>。</pc>
+<pc>》</pc>各置定合積日<pc>，</pc>在半周天以下者去之<pc>，</pc>餘為在縮<pc>，</pc>乃視在盈縮初限日及約餘以下者<pc>，</pc>便為在盈縮初限；以上者<pc>，</pc>減去盈縮初限日約餘<pc>，</pc>為在盈縮末限日及餘<pc>。</pc>
 </p>
 </div>
 <div>
@@ -545,7 +538,7 @@
 <pc>《</pc>
 <title>乾元</title>
 <pc>》</pc>冬至小餘以元率退收<pc>，</pc>
-<num value="100">百</num>為母<pc>；</pc>又有日躔陰陽度<pc>，</pc>置其氣陰陽分<pc>，</pc>如求朔日度分術入之<pc>，</pc>即得所求<pc>。</pc>
+<num value="100">百</num>為母；又有日躔陰陽度<pc>，</pc>置其氣陰陽分<pc>，</pc>如求朔日度分術入之<pc>，</pc>即得所求<pc>。</pc>
 </p>
 </div>
 <div>
@@ -571,16 +564,16 @@
 </p>
 </div>
 <div>
-<p>各以其星入氣盈縮度分盈加縮減之<pc>，</pc>又以<num value="100">百</num>除陰<pc>、</pc>陽定分<pc>，</pc>為度分<pc>；</pc>陽加陰減<pc>，</pc>皆加減平合<pc>，</pc>為定星<pc>；</pc>用加天正黃道日度<pc>，</pc>滿宿去之<pc>，</pc>不滿宿<pc>，</pc>即得所求<pc>。</pc>
+<p>各以其星入氣盈縮度分盈加縮減之<pc>，</pc>又以<num value="100">百</num>除陰<pc>、</pc>陽定分<pc>，</pc>為度分；陽加陰減<pc>，</pc>皆加減平合<pc>，</pc>為定星；用加天正黃道日度<pc>，</pc>滿宿去之<pc>，</pc>不滿宿<pc>，</pc>即得所求<pc>。</pc>
 <pc>《</pc>
 <title>乾元</title>
-<pc>》</pc>各置其星平合中星<pc>，</pc>以日躔陰陽度陰減陽加之<pc>；</pc>又以其星入曆限度前加後減之<pc>，</pc>即為其星定合定星<pc>。</pc>余同<pc>《</pc>
+<pc>》</pc>各置其星平合中星<pc>，</pc>以日躔陰陽度陰減陽加之；又以其星入曆限度前加後減之<pc>，</pc>即為其星定合定星<pc>。</pc>余同<pc>《</pc>
 <title>應天</title>
 <pc>》</pc>
 <pc>。</pc>
 <pc>《</pc>
 <title>儀天</title>
-<pc>》</pc>置所入限日下小餘<pc>，</pc>以其日盈縮率乘<pc>，</pc>以宗法除為分<pc>，</pc>以盈縮其日下先後定分<pc>，</pc>為日躔先後定度及分<pc>；</pc>又各置其星常合中度及分<pc>，</pc>以入限增定度及分增減之<pc>。</pc>金<pc>、</pc>水<num value="2">二</num>星增者減<pc>，</pc>減者增<pc>；</pc>又以日躔先後定度及分<pc>，</pc>木<pc>、</pc>火<pc>、</pc>土即先減後加<pc>，</pc>金<pc>、</pc>水先加後減其日躔差<pc>，</pc>木星<num value="2">二</num>因<pc>，</pc>退位<pc>，</pc>火星除<num value="2">二</num>
+<pc>》</pc>置所入限日下小餘<pc>，</pc>以其日盈縮率乘<pc>，</pc>以宗法除為分<pc>，</pc>以盈縮其日下先後定分<pc>，</pc>為日躔先後定度及分；又各置其星常合中度及分<pc>，</pc>以入限增定度及分增減之<pc>。</pc>金<pc>、</pc>水<num value="2">二</num>星增者減<pc>，</pc>減者增；又以日躔先後定度及分<pc>，</pc>木<pc>、</pc>火<pc>、</pc>土即先減後加<pc>，</pc>金<pc>、</pc>水先加後減其日躔差<pc>，</pc>木星<num value="2">二</num>因<pc>，</pc>退位<pc>，</pc>火星除<num value="2">二</num>
 <pc>，</pc>土星退位<pc>，</pc>從下加<num value="3">三</num>
 <pc>，</pc>金<pc>、</pc>水倍<pc>，</pc>用即得定度及分<pc>。</pc>余同<pc>《</pc>
 <title>應天</title>
@@ -608,7 +601,7 @@
 <p>置平合日度<pc>，</pc>以諸段下平日平度加之<pc>，</pc>即得所求<pc>。</pc>
 <pc>《</pc>
 <title>乾元</title>
-<pc>》</pc>各置其星變日<pc>，</pc>以所求入曆前加後度前加後減之<pc>。</pc>其太白辰星夕見變及晨疾變<pc>，</pc>皆以返用加減<pc>。</pc>熒惑晨見變定<pc>，</pc>置定差<pc>，</pc>以進<num value="1">一</num>位滿<num value="11">十一</num>除之為定差<pc>，</pc>各依加減<pc>，</pc>即得所求<pc>；</pc>在留變者<pc>，</pc>置其變定積<pc>，</pc>以前變前後度前後減之<pc>。</pc>其火星<num value="3">三</num>因之<pc>，</pc>後退者倍之<pc>。</pc>
+<pc>》</pc>各置其星變日<pc>，</pc>以所求入曆前加後度前加後減之<pc>。</pc>其太白辰星夕見變及晨疾變<pc>，</pc>皆以返用加減<pc>。</pc>熒惑晨見變定<pc>，</pc>置定差<pc>，</pc>以進<num value="1">一</num>位滿<num value="11">十一</num>除之為定差<pc>，</pc>各依加減<pc>，</pc>即得所求；在留變者<pc>，</pc>置其變定積<pc>，</pc>以前變前後度前後減之<pc>。</pc>其火星<num value="3">三</num>因之<pc>，</pc>後退者倍之<pc>。</pc>
 <pc>《</pc>
 <title>儀天</title>
 <pc>》</pc>各置其星常合中日中度及分<pc>，</pc>以其星諸變段下常加合中日變度加減中星<pc>，</pc>即得諸變中日中度及分<pc>。</pc>
@@ -654,7 +647,7 @@
 </div>
 <div>
 <p>置其入陰陽定分<pc>，</pc>
-<num value="100">百</num>除<pc>，</pc>為日分<pc>；</pc>陽減陰減諸段平日<pc>。</pc>其金水夕見<pc>、</pc>晨疾返為之定積<pc>。</pc>其金星晨次<pc>、</pc>晨遲<pc>，</pc>更用盈縮度縮加盈減定積為定<pc>。</pc>求其入氣月日<pc>，</pc>如平合術入之<pc>。</pc>又熒惑前遲定積<pc>，</pc>置平合入陰陽曆分<pc>，</pc>加<num value="21675">二萬一千六百七十五</num>
+<num value="100">百</num>除<pc>，</pc>為日分；陽減陰減諸段平日<pc>。</pc>其金水夕見<pc>、</pc>晨疾返為之定積<pc>。</pc>其金星晨次<pc>、</pc>晨遲<pc>，</pc>更用盈縮度縮加盈減定積為定<pc>。</pc>求其入氣月日<pc>，</pc>如平合術入之<pc>。</pc>又熒惑前遲定積<pc>，</pc>置平合入陰陽曆分<pc>，</pc>加<num value="21675">二萬一千六百七十五</num>
 <pc>，</pc>盈<num value="36525">三萬六千五百二十五</num>半去之<pc>。</pc>餘與見求入陰陽曆同者<pc>，</pc>更不求之<pc>，</pc>如不同曆者<pc>，</pc>即依平合術入<pc>，</pc>所得<pc>，</pc>用加前遲留退<pc>、</pc>後退留平日為定積<pc>，</pc>入氣月日如前<pc>。</pc>又<num value="5">五</num>星定用盈縮差及陰陽定分<pc>：</pc>歲熒惑鎮星晨見<pc>、</pc>夕疾<pc>、</pc>定合<pc>，</pc>太白定合<pc>、</pc>夕見<pc>、</pc>夕退<pc>、</pc>再合<pc>、</pc>晨見及後<pc>、</pc>晨疾<pc>，</pc>皆用盈縮定差<pc>，</pc>太白定合晨<pc>、</pc>夕見及後疾<pc>，</pc>皆用盈縮定差<pc>。</pc>內歲星後疾不用盈縮定差<pc>，</pc>辰星諸段總用盈縮定差盈加縮減<pc>。</pc>熒惑晨見陰陽定分身外加<num value="1">一</num>
 <pc>，</pc>前疾陽定分再析<pc>，</pc>各為定分<pc>。</pc>
 <pc>《</pc>
@@ -677,35 +670,35 @@
 </div>
 <div>
 <p>以合用盈縮定差加減平度分<pc>，</pc>又以陰陽定分陽加陰減<pc>。</pc>其金水夕見<pc>、</pc>晨疾返用為定星<pc>，</pc>求宿度<pc>，</pc>加平合入之<pc>。</pc>熒惑前遲<pc>、</pc>後退差度以<num value="236">二百三十六</num>度加前遲定星<pc>，</pc>
-<num value="257">二百五十七</num>度加後退定星<pc>，</pc>如半周天以下為陽度<pc>；</pc>以上者去之<pc>，</pc>余為陰度<pc>；</pc>前遲陰陽度在<num value="110">一百一十</num>度以上者<pc>，</pc>返減半周天<pc>，</pc>餘以<num value="5">五</num>因之<pc>，</pc>後退入陰陽度在<num value="74">七十四</num>度以下者<pc>，</pc>亦<num value="5">五</num>因之<pc>，</pc>皆滿<num value="100">百</num>為度分<pc>，</pc>陽減陰加定星<pc>，</pc>為前遲<pc>、</pc>後退定星<pc>；</pc>求宿度<pc>，</pc>加平合入之<pc>。</pc>
+<num value="257">二百五十七</num>度加後退定星<pc>，</pc>如半周天以下為陽度；以上者去之<pc>，</pc>余為陰度；前遲陰陽度在<num value="110">一百一十</num>度以上者<pc>，</pc>返減半周天<pc>，</pc>餘以<num value="5">五</num>因之<pc>，</pc>後退入陰陽度在<num value="74">七十四</num>度以下者<pc>，</pc>亦<num value="5">五</num>因之<pc>，</pc>皆滿<num value="100">百</num>為度分<pc>，</pc>陽減陰加定星<pc>，</pc>為前遲<pc>、</pc>後退定星；求宿度<pc>，</pc>加平合入之<pc>。</pc>
 <pc>《</pc>
 <title>乾元</title>
-<pc>》</pc>置其星其變中星<pc>，</pc>以入曆前後度前加後減之<pc>，</pc>又合用陰陽度者<pc>，</pc>陰減陽加之<pc>，</pc>為定星<pc>；</pc>以冬至黃道日度加之<pc>，</pc>命從鬥宿<pc>，</pc>算外<pc>，</pc>即其變所入宿次也<pc>。</pc>若在留變者<pc>，</pc>更不求定星也<pc>，</pc>只用前變定星為留變定星<pc>。</pc>又熒惑留差<pc>，</pc>以<num value="119">一百一十九</num>度減前遲定星<pc>，</pc>以<num value="134">一百三十四</num>度減後退定星<pc>，</pc>在<num value="182">一百八十二</num>度半以下為前<pc>，</pc>以上者去之為後<pc>，</pc>置前後度<pc>，</pc>在<num value="73">七十三</num>度以下為在前<pc>，</pc>以上者返減<num value="183">一百八十三</num>度半<pc>，</pc>餘為後度<pc>，</pc>皆倍之<pc>，</pc>
+<pc>》</pc>置其星其變中星<pc>，</pc>以入曆前後度前加後減之<pc>，</pc>又合用陰陽度者<pc>，</pc>陰減陽加之<pc>，</pc>為定星；以冬至黃道日度加之<pc>，</pc>命從鬥宿<pc>，</pc>算外<pc>，</pc>即其變所入宿次也<pc>。</pc>若在留變者<pc>，</pc>更不求定星也<pc>，</pc>只用前變定星為留變定星<pc>。</pc>又熒惑留差<pc>，</pc>以<num value="119">一百一十九</num>度減前遲定星<pc>，</pc>以<num value="134">一百三十四</num>度減後退定星<pc>，</pc>在<num value="182">一百八十二</num>度半以下為前<pc>，</pc>以上者去之為後<pc>，</pc>置前後度<pc>，</pc>在<num value="73">七十三</num>度以下為在前<pc>，</pc>以上者返減<num value="183">一百八十三</num>度半<pc>，</pc>餘為後度<pc>，</pc>皆倍之<pc>，</pc>
 <num value="100">百</num>除為度<pc>，</pc>命曰留差度及分也<pc>。</pc>又前退定星度<pc>，</pc>以<num value="123">一百二十三</num>度減前退定星<pc>，</pc>又以<num value="131">一百三十一</num>度減後退定星<pc>，</pc>在<num value="182">一百八十二</num>度半以下者為前<pc>，</pc>以上者去之為後<pc>，</pc>視前後度在<num value="73">七十三</num>度以下為前<pc>，</pc>以上者返減<num value="182">一百八十二</num>度半為後<pc>：</pc>皆以倍之<pc>，</pc>
-<num value="100">百</num>除為度<pc>，</pc>即得前後退差度及分也<pc>；</pc>用前減後加其段定星為定星<pc>。</pc>又<num value="5">五</num>星用陰陽度<pc>：</pc>歲星熒惑鎮星晨見<pc>，</pc>後疾<pc>，</pc>夕合<pc>；</pc>太白夕見<pc>、</pc>退<pc>，</pc>夕合<pc>，</pc>晨見<pc>，</pc>後疾<pc>，</pc>平合皆用日躔<pc>、</pc>陰陽度<pc>，</pc>其辰星諸段皆用之<pc>。</pc>
+<num value="100">百</num>除為度<pc>，</pc>即得前後退差度及分也；用前減後加其段定星為定星<pc>。</pc>又<num value="5">五</num>星用陰陽度<pc>：</pc>歲星熒惑鎮星晨見<pc>，</pc>後疾<pc>，</pc>夕合；太白夕見<pc>、</pc>退<pc>，</pc>夕合<pc>，</pc>晨見<pc>，</pc>後疾<pc>，</pc>平合皆用日躔<pc>、</pc>陰陽度<pc>，</pc>其辰星諸段皆用之<pc>。</pc>
 <pc>《</pc>
 <title>儀天</title>
 <pc>》</pc>各置其星其變中度及分<pc>，</pc>以其變入限增減定度及分<pc>，</pc>增者增之<pc>，</pc>減者減之<pc>。</pc>其金星定合<pc>、</pc>夕見<pc>、</pc>夕定度及分<pc>，</pc>增者減之<pc>，</pc>減者增之<pc>，</pc>各得定日<pc>、</pc>次定日<pc>，</pc>各加減訖後<pc>，</pc>合用日躔先後定差者<pc>，</pc>以日躔先後定差及分先減後加之<pc>，</pc>即各得定度及分<pc>。</pc>其日躔差<pc>，</pc>木星定合<pc>，</pc>
-<num value="5">五</num>因<pc>，</pc>半而退位<pc>，</pc>晨見先<num value="2">二</num>因<pc>，</pc>退位<pc>，</pc>後<num value="5">五</num>因<pc>，</pc>半而退位<pc>；</pc>後定疾先差<num value="5">五</num>因<pc>，</pc>半而退位<pc>，</pc>定差<num value="2">二</num>因退位<pc>；</pc>火星定合<pc>，</pc>身外除<num value="2">二</num>
+<num value="5">五</num>因<pc>，</pc>半而退位<pc>，</pc>晨見先<num value="2">二</num>因<pc>，</pc>退位<pc>，</pc>後<num value="5">五</num>因<pc>，</pc>半而退位；後定疾先差<num value="5">五</num>因<pc>，</pc>半而退位<pc>，</pc>定差<num value="2">二</num>因退位；火星定合<pc>，</pc>身外除<num value="2">二</num>
 <pc>，</pc>晨見先差<num value="7">七</num>因<pc>，</pc>退位<pc>，</pc>後差身外除<num value="2">二</num>
-<pc>，</pc>後差<num value="7">七</num>因退位<pc>；</pc>土星定合<pc>，</pc>退位從下加<num value="2">二</num>
+<pc>，</pc>後差<num value="7">七</num>因退位；土星定合<pc>，</pc>退位從下加<num value="2">二</num>
 <pc>，</pc>晨見先差退位<pc>，</pc>後差從下加<num value="3">三</num>
-<pc>，</pc>退位<pc>，</pc>後差退位<pc>；</pc>金星定合<pc>，</pc>
+<pc>，</pc>退位<pc>，</pc>後差退位；金星定合<pc>，</pc>
 <num value="2">二</num>因之<pc>，</pc>夕見先差伏倍用<pc>，</pc>後差從下加<num value="3">三</num>
 <pc>，</pc>晨疾伏先差從下加<num value="2">二</num>
-<pc>，</pc>後差<num value="2">二</num>因<pc>，</pc>夕退伏<pc>、</pc>晨退見<num value="6">六</num>因<pc>，</pc>先後退位<pc>；</pc>水星夕見後差從下加<num value="3">三</num>
+<pc>，</pc>後差<num value="2">二</num>因<pc>，</pc>夕退伏<pc>、</pc>晨退見<num value="6">六</num>因<pc>，</pc>先後退位；水星夕見後差從下加<num value="3">三</num>
 <pc>，</pc>先差<num value="2">二</num>因<pc>，</pc>晨疾先差從下加<num value="3">三</num>
-<pc>，</pc>後差倍用<pc>，</pc>定合乃用加減次定度為定度<pc>，</pc>置定度及分<pc>，</pc>以加天正冬至加時黃道日度及分<pc>，</pc>命從鬥宿初度起算<pc>，</pc>至不滿宿<pc>，</pc>算外<pc>，</pc>即得其變加時宿度<pc>，</pc>其火星前<pc>、</pc>後退及前遲變皆為次定星<pc>，</pc>又置之<pc>，</pc>以留退定差度及分<pc>，</pc>增者增之<pc>，</pc>減者減之<pc>，</pc>得為前<pc>、</pc>後退定度<pc>，</pc>前遲<pc>，</pc>置前留定差<pc>，</pc>以<num value="3">三</num>除之<pc>，</pc>乃用增減前遲定度也<pc>。</pc>又火星留差<pc>，</pc>以<num value="124">一百二十四</num>半減前遲次定度<pc>，</pc>又以<num value="246">二百四十六</num>度少加後退定度<pc>，</pc>若在<num value="182">一百八十二</num>度<num value="62">六十二</num>分以下為入在增<pc>；</pc>以上者<pc>，</pc>以減去<num value="182">一百八十二</num>度<num value="62">六十二</num>分為入在減<pc>。</pc>置入在增<pc>、</pc>減度及分<pc>，</pc>如在<num value="72">七十二</num>度以下者為上限<pc>；</pc>以上者<pc>，</pc>返減<num value="182">一百八十二</num>度<num value="62">六十二</num>分<pc>，</pc>餘為下限<pc>。</pc>各置所入上<pc>、</pc>下限增減度及分<pc>，</pc>在上限<num value="4">四</num>因之<pc>，</pc>在下限倍<pc>，</pc>身外加<num value="3">三</num>
+<pc>，</pc>後差倍用<pc>，</pc>定合乃用加減次定度為定度<pc>，</pc>置定度及分<pc>，</pc>以加天正冬至加時黃道日度及分<pc>，</pc>命從鬥宿初度起算<pc>，</pc>至不滿宿<pc>，</pc>算外<pc>，</pc>即得其變加時宿度<pc>，</pc>其火星前<pc>、</pc>後退及前遲變皆為次定星<pc>，</pc>又置之<pc>，</pc>以留退定差度及分<pc>，</pc>增者增之<pc>，</pc>減者減之<pc>，</pc>得為前<pc>、</pc>後退定度<pc>，</pc>前遲<pc>，</pc>置前留定差<pc>，</pc>以<num value="3">三</num> 除之<pc>，</pc>乃用增減前遲定度也<pc>。</pc>又火星留差<pc>，</pc>以<num value="124">一百二十四</num>半減前遲次定度<pc>，</pc>又以<num value="246">二百四十六</num>度少加後退定度<pc>，</pc>若在<num value="182">一百八十二</num>度<num value="62">六十二</num>分以下為入在增；以上者<pc>，</pc>以減去<num value="182">一百八十二</num>度<num value="62">六十二</num>分為入在減<pc>。</pc>置入在增<pc>、</pc>減度及分<pc>，</pc>如在<num value="72">七十二</num>度以下者為上限；以上者<pc>，</pc>返減<num value="182">一百八十二</num>度<num value="62">六十二</num>分<pc>，</pc>餘為下限<pc>。</pc>各置所入上<pc>、</pc>下限增減度及分<pc>，</pc>在上限<num value="4">四</num>因之<pc>，</pc>在下限倍<pc>，</pc>身外加<num value="3">三</num>
 <pc>，</pc>皆以<num value="100">一百</num>約之為度及分<pc>，</pc>若在後留者<pc>，</pc>
 <num value="3">三</num>因之為定差度及分<pc>。</pc>又<pc>，</pc>
 <pc>《</pc>
 <title>儀天</title>
-<pc>》</pc>有火星退定差度及分<pc>，</pc>以<num value="241">二百四十一</num>度少加前退後次定度<pc>，</pc>又以<num value="119">一百一十九</num>度減退次定度及分<pc>，</pc>餘<pc>，</pc>在<num value="182">一百八十二</num>度<num value="62">六十二</num>分以下者為入在增<pc>；</pc>以上者<pc>，</pc>減去<num value="182">一百八十二</num>度<num value="62">六十二</num>分<pc>，</pc>餘為入在減<pc>。</pc>又置入上<pc>、</pc>下限度分<pc>，</pc>若在<num value="72">七十二</num>度以下者為上限<pc>，</pc>如在<num value="72">七十二</num>度以上者為減<num value="182">一百八十二</num>度<num value="62">六十二</num>分<pc>，</pc>餘為下限<pc>。</pc>又置上下限增減度分<pc>，</pc>在上為度<pc>，</pc>不滿為分<pc>，</pc>即各得退定差度及分<pc>，</pc>其定差<pc>，</pc>如在後退者<pc>，</pc>倍之為定差<pc>。</pc>又有火星留定日<pc>，</pc>各置前<pc>、</pc>後留常中日<pc>，</pc>前留以前遲變入限增減定度及分<pc>，</pc>增者增之<pc>，</pc>減者減之<pc>，</pc>各以前<pc>、</pc>後留定差度及分<pc>，</pc>增者加之<pc>，</pc>減者損之<pc>，</pc>即得前<pc>、</pc>後留定日<pc>，</pc>其增減差通入曆用之<pc>。</pc>又有火星前<pc>、</pc>後退定度<pc>，</pc>各置前<pc>、</pc>後變次定度及分<pc>，</pc>以前<pc>、</pc>後退定差度及分<pc>，</pc>如在增者加之<pc>，</pc>在減者損之<pc>，</pc>即得定度及分<pc>；</pc>置定度及分<pc>，</pc>以加天正冬至黃道日度及分<pc>，</pc>命從鬥宿初度去之<pc>，</pc>至不滿宿<pc>，</pc>算外<pc>，</pc>即得退行所在宿度及分也<pc>，</pc>其增減定度<pc>，</pc>
+<pc>》</pc>有火星退定差度及分<pc>，</pc>以<num value="241">二百四十一</num>度少加前退後次定度<pc>，</pc>又以<num value="119">一百一十九</num>度減退次定度及分<pc>，</pc>餘<pc>，</pc>在<num value="182">一百八十二</num>度<num value="62">六十二</num>分以下者為入在增；以上者<pc>，</pc>減去<num value="182">一百八十二</num>度<num value="62">六十二</num>分<pc>，</pc>餘為入在減<pc>。</pc>又置入上<pc>、</pc>下限度分<pc>，</pc>若在<num value="72">七十二</num>度以下者為上限<pc>，</pc>如在<num value="72">七十二</num>度以上者為減<num value="182">一百八十二</num>度<num value="62">六十二</num>分<pc>，</pc>餘為下限<pc>。</pc>又置上下限增減度分<pc>，</pc>在上為度<pc>，</pc>不滿為分<pc>，</pc>即各得退定差度及分<pc>，</pc>其定差<pc>，</pc>如在後退者<pc>，</pc>倍之為定差<pc>。</pc>又有火星留定日<pc>，</pc>各置前<pc>、</pc>後留常中日<pc>，</pc>前留以前遲變入限增減定度及分<pc>，</pc>增者增之<pc>，</pc>減者減之<pc>，</pc>各以前<pc>、</pc>後留定差度及分<pc>，</pc>增者加之<pc>，</pc>減者損之<pc>，</pc>即得前<pc>、</pc>後留定日<pc>，</pc>其增減差通入曆用之<pc>。</pc>又有火星前<pc>、</pc>後退定度<pc>，</pc>各置前<pc>、</pc>後變次定度及分<pc>，</pc>以前<pc>、</pc>後退定差度及分<pc>，</pc>如在增者加之<pc>，</pc>在減者損之<pc>，</pc>即得定度及分；置定度及分<pc>，</pc>以加天正冬至黃道日度及分<pc>，</pc>命從鬥宿初度去之<pc>，</pc>至不滿宿<pc>，</pc>算外<pc>，</pc>即得退行所在宿度及分也<pc>，</pc>其增減定度<pc>，</pc>
 <num value="3">三</num>除乃用之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>日率度率<pc>：</pc>以本段定積減後段定積<pc>，</pc>為泛日率<pc>；</pc>以本段定星減後段定星<pc>，</pc>為定度率<pc>。</pc>又置後段<num value="1">甲子</num>
+<p>日率度率<pc>：</pc>以本段定積減後段定積<pc>，</pc>為泛日率；以本段定星減後段定星<pc>，</pc>為定度率<pc>。</pc>又置後段<num value="1">甲子</num>
 <pc>，</pc>以前段<num value="1">甲子</num>減之<pc>，</pc>餘為距後實日率<pc>。</pc>
 <pc>《</pc>
 <title>乾元</title>
@@ -740,7 +733,7 @@
 </p>
 </div>
 <div>
-<p>置其段平行分<pc>，</pc>與後段平行分相減<pc>，</pc>為合差<pc>；</pc>半之<pc>，</pc>加減平行分<pc>，</pc>為初<pc>、</pc>末行分<pc>；</pc>後多者減平行分為初<pc>，</pc>加平行分為末<pc>；</pc>後少者加平行分為初<pc>，</pc>減平行分為末<pc>。</pc>
+<p>置其段平行分<pc>，</pc>與後段平行分相減<pc>，</pc>為合差；半之<pc>，</pc>加減平行分<pc>，</pc>為初<pc>、</pc>末行分；後多者減平行分為初<pc>，</pc>加平行分為末；後少者加平行分為初<pc>，</pc>減平行分為末<pc>。</pc>
 <pc>《</pc>
 <title>乾元</title>
 <pc>》</pc>法同<pc>。</pc>
@@ -749,7 +742,7 @@
 <pc>》</pc>各以其段平行分與後段平行分相減<pc>，</pc>餘為會差<pc>，</pc>半會差<pc>，</pc>以加減其段平行分<pc>，</pc>余同<pc>《</pc>
 <title>應天</title>
 <pc>》</pc>
-<pc>。</pc>又<num value="5">五</num>星前留<num value="1">一</num>段及後退段<pc>，</pc>皆加為初<pc>、</pc>減為末<pc>；</pc>後留<num value="1">一</num>段及前退段<pc>，</pc>皆以半總差減為初<pc>、</pc>加為末<pc>。</pc>其總差消息前後段初<pc>、</pc>末分<pc>，</pc>令衰殺等以用總差<pc>，</pc>即得前後段初<pc>、</pc>末行分相應也<pc>。</pc>
+<pc>。</pc>又<num value="5">五</num>星前留<num value="1">一</num>段及後退段<pc>，</pc>皆加為初<pc>、</pc>減為末；後留<num value="1">一</num>段及前退段<pc>，</pc>皆以半總差減為初<pc>、</pc>加為末<pc>。</pc>其總差消息前後段初<pc>、</pc>末分<pc>，</pc>令衰殺等以用總差<pc>，</pc>即得前後段初<pc>、</pc>末行分相應也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -775,17 +768,17 @@
 </p>
 </div>
 <div>
-<p>求每日星所在<pc>：</pc>以每日行分順加逆減其星<pc>，</pc>命如前<pc>，</pc>即得所求<pc>。</pc>其木火土水前<pc>、</pc>後遲段平行分倍之<pc>，</pc>前為初<pc>，</pc>後為末分<pc>，</pc>各以距後日除<pc>，</pc>為日差<pc>；</pc>前遲日損<pc>、</pc>後遲日益<pc>，</pc>為每日行分<pc>。</pc>
+<p>求每日星所在<pc>：</pc>以每日行分順加逆減其星<pc>，</pc>命如前<pc>，</pc>即得所求<pc>。</pc>其木火土水前<pc>、</pc>後遲段平行分倍之<pc>，</pc>前為初<pc>，</pc>後為末分<pc>，</pc>各以距後日除<pc>，</pc>為日差；前遲日損<pc>、</pc>後遲日益<pc>，</pc>為每日行分<pc>。</pc>
 <pc>《</pc>
 <title>乾元</title>
 <pc>》</pc>以日差累損益初日行分<pc>，</pc>累加其段宿次<pc>，</pc>即得每日星行宿次及分<pc>。</pc>
 <pc>《</pc>
 <title>儀天</title>
 <pc>》</pc>求每日差行度及分<pc>，</pc>各置其段總差<pc>，</pc>以減其日率<measure quantity="1" unit="day">
-<num value="1">一</num>日</measure>以餘之<pc>，</pc>即為每日差行之分<pc>。</pc>以每日差分累損益初日行分<pc>，</pc>為每日行度及分<pc>。</pc>初日行分多於末日行分<pc>，</pc>累損初日行分<pc>；</pc>少於末日行分<pc>，</pc>累益初日行分<pc>。</pc>將其每日行度及分累加其星初日所在宿次<pc>，</pc>各得每日所在宿次及分<pc>。</pc>如是退行段<pc>，</pc>將每日行分累減其初日宿次及分<pc>，</pc>即得退行所在宿度及分<pc>。</pc>又<pc>《</pc>
+<num value="1">一</num>日</measure>以餘之<pc>，</pc>即為每日差行之分<pc>。</pc>以每日差分累損益初日行分<pc>，</pc>為每日行度及分<pc>。</pc>初日行分多於末日行分<pc>，</pc>累損初日行分；少於末日行分<pc>，</pc>累益初日行分<pc>。</pc>將其每日行度及分累加其星初日所在宿次<pc>，</pc>各得每日所在宿次及分<pc>。</pc>如是退行段<pc>，</pc>將每日行分累減其初日宿次及分<pc>，</pc>即得退行所在宿度及分<pc>。</pc>又<pc>《</pc>
 <title>儀天</title>
 <pc>》</pc>有直求其日星所在宿次<pc>，</pc>置其所求日<pc>，</pc>減<num value="1">一</num>
-<pc>，</pc>以乘每日差分<pc>，</pc>所得為積差<pc>，</pc>以積差加減初日行分<pc>，</pc>初日多於末日減之<pc>；</pc>末日多於初日加之<pc>，</pc>即得其日行分<pc>；</pc>以初日行分並之<pc>，</pc>乃半之<pc>，</pc>為平行分<pc>；</pc>置平行分<pc>，</pc>以求日數乘之<pc>，</pc>為積度及分<pc>；</pc>以其積度及分加其星初日宿度<pc>，</pc>命去之<pc>，</pc>即其星其日所在宿次及分<pc>、</pc>如是退行段<pc>，</pc>以其積度及分減其星初日宿度<pc>，</pc>餘<pc>，</pc>為其星所在宿度及分<pc>。</pc>
+<pc>，</pc>以乘每日差分<pc>，</pc>所得為積差<pc>，</pc>以積差加減初日行分<pc>，</pc>初日多於末日減之；末日多於初日加之<pc>，</pc>即得其日行分；以初日行分並之<pc>，</pc>乃半之<pc>，</pc>為平行分；置平行分<pc>，</pc>以求日數乘之<pc>，</pc>為積度及分；以其積度及分加其星初日宿度<pc>，</pc>命去之<pc>，</pc>即其星其日所在宿次及分<pc>、</pc>如是退行段<pc>，</pc>以其積度及分減其星初日宿度<pc>，</pc>餘<pc>，</pc>為其星所在宿度及分<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1120,10 +1113,7 @@
 <div>
 <p>晉永和<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
-<measure quantity="1" unit="month">
-<num value="1">
-<num value="1">正</num>月</num>
-</measure>
+<num value="1">正月</num>
 <num value="10">癸酉</num>
 <pc>，</pc>鎮星掩鉞星<pc>。</pc>
 <pc>《</pc>
@@ -1425,7 +1415,7 @@
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <measure quantity="8" unit="days">
-<num value="8">八</num>日</measure>佛生<pc>，</pc>常星不見<pc>；</pc>又言孔子生於周靈王<num value="47">庚戌</num>之歲<pc>，</pc>卒于周悼王<measure quantity="41" unit="years">
+<num value="8">八</num>日</measure>佛生<pc>，</pc>常星不見；又言孔子生於周靈王<num value="47">庚戌</num>之歲<pc>，</pc>卒于周悼王<measure quantity="41" unit="years">
 <num value="41">四十一</num>年</measure>
 <num value="59">壬戌</num>之歲<pc>，</pc>皆非是也<pc>。</pc>馬遷乃古之良史<pc>，</pc>王起又近世名儒<pc>，</pc>後人因循<pc>，</pc>莫敢改易<pc>。</pc>臣竊以史氏凡編<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>
@@ -1436,10 +1426,7 @@
 <pc>，</pc>凡<measure quantity="3301" unit="years">
 <num value="3301">三千三百一</num>年</measure>矣<pc>。</pc>虞<pc>、</pc>夏之間<pc>，</pc>未有<num value="1">甲子</num>可證<pc>，</pc>成湯既沒<pc>，</pc>太甲元年始有<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
-<num value="2">乙丑</num>朔旦冬至<pc>，</pc>伊尹祀于先王<pc>，</pc>至武王伐商之年<measure quantity="1" unit="month">
-<num value="1">
-<num value="1">正</num>月</num>
-</measure>
+<num value="2">乙丑</num>朔旦冬至<pc>，</pc>伊尹祀于先王<pc>，</pc>至武王伐商之年<num value="1">正月</num>
 <num value="28">辛卯</num>朔<pc>，</pc>
 <num value="20">二十</num>有<measure quantity="8" unit="days">
 <num value="8">八</num>日</measure>
@@ -1457,16 +1444,13 @@
 <measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>
 <num value="7">庚午</num>朏<pc>，</pc>王命作冊畢<pc>。</pc>自堯即位年<pc>，</pc>距春秋魯隱西元年<pc>，</pc>凡<measure quantity="1607" unit="years">
-<num value="1607">一千六百七</num>年</measure>
-<pc>；</pc>從隱西元年<pc>，</pc>距今至道<measure quantity="2" unit="years">
+<num value="1607">一千六百七</num>年</measure>；從隱西元年<pc>，</pc>距今至道<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>凡<measure quantity="1715" unit="years">
-<num value="1715">一千七百一十五</num>年</measure>
-<pc>；</pc>從太甲元年<pc>，</pc>距今至道<measure quantity="2" unit="years">
+<num value="1715">一千七百一十五</num>年</measure>；從太甲元年<pc>，</pc>距今至道<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>凡<measure quantity="2732" unit="years">
-<num value="2732">二千七百三十二</num>年</measure>
-<pc>；</pc>從魯莊公<measure quantity="7" unit="years">
+<num value="2732">二千七百三十二</num>年</measure>；從魯莊公<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
@@ -1484,8 +1468,7 @@
 <num value="17">庚辰</num>兩朔頻食<pc>，</pc>距今至道<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>凡<measure quantity="1545" unit="years">
-<num value="1545">一千五百四十五</num>年</measure>
-<pc>；</pc>從魯哀公<measure quantity="16" unit="years">
+<num value="1545">一千五百四十五</num>年</measure>；從魯哀公<measure quantity="16" unit="years">
 <num value="16">十六</num>年</measure>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
@@ -1504,16 +1487,13 @@
 <num value="2">二</num>月</measure>
 <num value="21">甲申</num>朔旦冬至<pc>，</pc>自此之後<pc>，</pc>每<measure quantity="76" unit="years">
 <num value="76">七十六</num>年</measure>
-<num value="1">一</num>得朔旦冬至<pc>，</pc>此乃古曆<num value="1">一</num>蔀<pc>；</pc>每蔀積月<num value="940">九百四十</num>
+<num value="1">一</num>得朔旦冬至<pc>，</pc>此乃古曆<num value="1">一</num>蔀；每蔀積月<num value="940">九百四十</num>
 <pc>、</pc>積日<num value="27759">二萬七千七百五十九</num>
 <pc>，</pc>率以為常<pc>，</pc>直至<pc>《</pc>
 <title>春秋</title>
 <pc>》</pc>魯僖公<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<measure quantity="1" unit="month">
-<num value="1">
-<num value="1">正</num>月</num>
-</measure>
+<num value="1">正月</num>
 <num value="48">辛亥</num>朔旦冬至<pc>，</pc>了無差爽<pc>。</pc>用此為法<pc>，</pc>以推經傳<pc>，</pc>縱小有增減<pc>，</pc>抑又經傳之誤<pc>，</pc>皆可以發明也<pc>。</pc>古曆到齊<pc>、</pc>梁以來<pc>，</pc>或差<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
 <pc>，</pc>更有近曆校課<pc>，</pc>亦得符合<pc>。</pc>伏望聖慈<pc>，</pc>許臣撰集<pc>，</pc>不出<measure quantity="100" unit="days">
@@ -1625,20 +1605,19 @@
 <pc>》</pc>曰<pc>「</pc>
 <quote>土爰稼穡<pc>，</pc>稼穡作甘<pc>。</pc>
 </quote>
-<pc>」</pc>方今<num value="4">四</num>海給足<pc>，</pc>嘉生蕃衍<pc>，</pc>邇年京師甘露下<pc>，</pc>
-<placeName>泰山</placeName>醴泉湧<pc>，</pc>作甘之兆<pc>，</pc>斯亦見矣<pc>。</pc>矧靈木異卉<pc>，</pc>資生於土<pc>，</pc>
+<pc>」</pc>方今<num value="4">四</num>海給足<pc>，</pc>嘉生蕃衍<pc>，</pc>邇年京師甘露下<pc>，</pc>泰山醴泉湧<pc>，</pc>作甘之兆<pc>，</pc>斯亦見矣<pc>。</pc>矧靈木異卉<pc>，</pc>資生於土<pc>，</pc>
 <num value="1000">千</num>品<num value="10000">萬</num>類<pc>，</pc>不可勝道<pc>，</pc>非土德之驗乎<pc>？</pc>
 </p>
 </div>
 <div>
-<p>臣又聞之<pc>，</pc>太祖生於洛邑<pc>，</pc>而胞絡惟黃<pc>；</pc>鴻圖既建<pc>，</pc>
-<num value="5">五</num>緯聚於奎躔<pc>，</pc>而鎮星是主<pc>。</pc>及陛下升中之次<pc>，</pc>日抱黃珥<pc>；</pc>朝祀于太清宮<pc>，</pc>有星曰含輿<pc>，</pc>其色黃而潤澤<pc>。</pc>斯皆凝命有表<pc>，</pc>微德攸屬<pc>，</pc>天意人事響效之大者<pc>，</pc>則土德之符在矣<pc>。</pc>是故天心之在茲<pc>，</pc>陛下拒而罔受<pc>；</pc>民意之若是<pc>，</pc>陛下謙而弗答<pc>。</pc>氣壅未宣<pc>，</pc>河決遂潰<pc>，</pc>豈不神哉<pc>！</pc>然則天淵之勃流<pc>，</pc>水德之浸患<pc>，</pc>考<num value="6">六</num>府之厭鎮<pc>，</pc>驗<num value="5">五</num>行之勝剋<pc>，</pc>亦宜興土之運<pc>，</pc>禦時之災<pc>。</pc>伏望順考符應<pc>，</pc>詳習法度<pc>，</pc>惟陛下時而行之<pc>。</pc>
+<p>臣又聞之<pc>，</pc>太祖生於洛邑<pc>，</pc>而胞絡惟黃；鴻圖既建<pc>，</pc>
+<num value="5">五</num>緯聚於奎躔<pc>，</pc>而鎮星是主<pc>。</pc>及陛下升中之次<pc>，</pc>日抱黃珥；朝祀于太清宮<pc>，</pc>有星曰含輿<pc>，</pc>其色黃而潤澤<pc>。</pc>斯皆凝命有表<pc>，</pc>微德攸屬<pc>，</pc>天意人事響效之大者<pc>，</pc>則土德之符在矣<pc>。</pc>是故天心之在茲<pc>，</pc>陛下拒而罔受；民意之若是<pc>，</pc>陛下謙而弗答<pc>。</pc>氣壅未宣<pc>，</pc>河決遂潰<pc>，</pc>豈不神哉<pc>！</pc>然則天淵之勃流<pc>，</pc>水德之浸患<pc>，</pc>考<num value="6">六</num>府之厭鎮<pc>，</pc>驗<num value="5">五</num>行之勝剋<pc>，</pc>亦宜興土之運<pc>，</pc>禦時之災<pc>。</pc>伏望順考符應<pc>，</pc>詳習法度<pc>，</pc>惟陛下時而行之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>大理寺丞董行父又上言曰<pc>：</pc>
 <pc>「</pc>
-<quote>在昔泰皇以<num value="10000">萬</num>物生於東<pc>，</pc>至仁體乎木<pc>，</pc>故德始於木<pc>。</pc>木以生火<pc>，</pc>神農受之為火德<pc>；</pc>火以生土<pc>，</pc>黃帝受之為土德<pc>；</pc>土以生金<pc>，</pc>少昊受之為金德<pc>；</pc>金以生水<pc>，</pc>顓頊受之為水德<pc>；</pc>水以生木<pc>，</pc>高辛受之為木德<pc>；</pc>木以生火<pc>，</pc>唐堯受之為火德<pc>；</pc>火以生土<pc>，</pc>虞舜傳之為土德<pc>。</pc>土以生金<pc>，</pc>夏為金德<pc>；</pc>金以生水<pc>，</pc>商為水德<pc>；</pc>水以生木<pc>，</pc>周為木德<pc>；</pc>木以生火<pc>，</pc>漢應圖讖為火德<pc>；</pc>火以生土<pc>，</pc>唐受曆運為土德<pc>。</pc>陛下紹天之統<pc>，</pc>受天之命<pc>，</pc>固當上繼唐祚<pc>，</pc>以金為德<pc>，</pc>顯黃帝之嫡緒<pc>，</pc>彰聖祖之丕烈<pc>。</pc>臣又按聖祖先降于<num value="10">癸酉</num>
+<quote>在昔泰皇以<num value="10000">萬</num>物生於東<pc>，</pc>至仁體乎木<pc>，</pc>故德始於木<pc>。</pc>木以生火<pc>，</pc>神農受之為火德；火以生土<pc>，</pc>黃帝受之為土德；土以生金<pc>，</pc>少昊受之為金德；金以生水<pc>，</pc>顓頊受之為水德；水以生木<pc>，</pc>高辛受之為木德；木以生火<pc>，</pc>唐堯受之為火德；火以生土<pc>，</pc>虞舜傳之為土德<pc>。</pc>土以生金<pc>，</pc>夏為金德；金以生水<pc>，</pc>商為水德；水以生木<pc>，</pc>周為木德；木以生火<pc>，</pc>漢應圖讖為火德；火以生土<pc>，</pc>唐受曆運為土德<pc>。</pc>陛下紹天之統<pc>，</pc>受天之命<pc>，</pc>固當上繼唐祚<pc>，</pc>以金為德<pc>，</pc>顯黃帝之嫡緒<pc>，</pc>彰聖祖之丕烈<pc>。</pc>臣又按聖祖先降于<num value="10">癸酉</num>
 <pc>，</pc>太祖受禪于<num value="57">庚申</num>
 <pc>，</pc>陛下即位于<num value="34">丁酉</num>
 <pc>，</pc>天書下降于<num value="45">戊申</num>
@@ -1655,7 +1634,6 @@
 <pc>」</pc>詔可<pc>。</pc>
 </p>
 </div>
-</p>
 </div>
 </body>
 </text>

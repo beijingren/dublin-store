@@ -22,12 +22,11 @@
 </teiHeader>
 <text>
 <body>
+<div type="chapter" n="84">
 <div>
-<p>演紀上元<measure quantity="1" unit="year">
-<num value="1">甲子</num>歲</measure>距<pc>，</pc>紹熙<measure quantity="5" unit="years">
+<p>演紀上元<num value="1">甲子</num>歲距<pc>，</pc>紹熙<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<measure quantity="51" unit="years">
-<num value="51">甲寅</num>歲</measure>積<num value="3830">三千八百三十</num>
+<num value="51">甲寅</num>歲積<num value="3830">三千八百三十</num>
 <pc>。</pc>至慶元已未歲積<num value="3835">三千八百三十五</num>開禧上元<num value="1">甲子</num>至開禧<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <num value="4">丁卯</num>
@@ -38,6 +37,7 @@
 <pc>，</pc>歲積<num value="71758147">七千一百七十五萬八千一百四十七</num>
 <pc>。</pc>
 </p>
+</div>
 </div>
 </body>
 </text>
