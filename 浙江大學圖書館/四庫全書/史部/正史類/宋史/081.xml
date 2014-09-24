@@ -557,7 +557,10 @@
 <pc>，</pc>近得<pc>《</pc>
 <title>紀元曆</title>
 <pc>》</pc>
-<pc>，</pc>自明年當改正<pc>，</pc>協時月<num value="1">正日</num>
+<pc>，</pc>自明年當改正<pc>，</pc>協時月<measure quantity="1" unit="day">
+<num value="1">
+<num value="1">正</num>日</num>
+</measure>
 <pc>，</pc>蓋非細事<pc>。</pc>
 </quote>
 <pc>」</pc>是歲<pc>，</pc>始議制渾儀<pc>。</pc>
@@ -569,7 +572,10 @@
 <pc>》</pc>當以子午為正<pc>，</pc>今欲定測樞極<pc>，</pc>合差局官<num value="2">二</num>員<pc>。</pc>詔差李繼宗等充測驗定正宮<pc>，</pc>俟造畢進呈日<pc>，</pc>同參詳指說制度官丁師仁<pc>、</pc>李公謹入殿安設<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="59">壬戌</num>
 <pc>，</pc>進呈渾儀木樣<pc>。</pc>
 <num value="9">壬申</num>
@@ -580,9 +586,15 @@
 <p>　　<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>日官言<pc>，</pc>
-<num value="1">正月</num>朔旦日食<num value="9">九</num>分半<pc>，</pc>虧在辰正<pc>。</pc>常州布衣陳得<num value="1">一</num>言<pc>：</pc>當食<num value="8">八</num>分半<pc>，</pc>虧在巳初<pc>。</pc>其言卒驗<pc>。</pc>侍御史張致遠言<pc>：</pc>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>朔旦日食<num value="9">九</num>分半<pc>，</pc>虧在辰正<pc>。</pc>常州布衣陳得<num value="1">一</num>言<pc>：</pc>當食<num value="8">八</num>分半<pc>，</pc>虧在巳初<pc>。</pc>其言卒驗<pc>。</pc>侍御史張致遠言<pc>：</pc>
 <pc>「</pc>
-<quote>今歲<num value="1">正月</num>朔日食<pc>，</pc>太史所定不驗<pc>，</pc>得<num value="1">一</num>嘗為臣言<pc>，</pc>皆有依據<pc>。</pc>蓋患算造者不能通消息<pc>、</pc>盈虛之奧<pc>，</pc>進退<pc>、</pc>遲疾之分<pc>，</pc>致立朔有訛<pc>。</pc>凡定朔小餘<num value="7500">七千五百</num>以上者<pc>，</pc>進<measure quantity="1" unit="day">
+<quote>今歲<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>朔日食<pc>，</pc>太史所定不驗<pc>，</pc>得<num value="1">一</num>嘗為臣言<pc>，</pc>皆有依據<pc>。</pc>蓋患算造者不能通消息<pc>、</pc>盈虛之奧<pc>，</pc>進退<pc>、</pc>遲疾之分<pc>，</pc>致立朔有訛<pc>。</pc>凡定朔小餘<num value="7500">七千五百</num>以上者<pc>，</pc>進<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
 <pc>。</pc>紹興<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
@@ -600,7 +612,10 @@
 <measure quantity="30" unit="days">
 <num value="30">三十</num>日</measure>
 <num value="11">甲戌</num>為臘<pc>，</pc>陰陽書曰<pc>：</pc>臘者<pc>，</pc>接也<pc>，</pc>以故接新<pc>，</pc>在<measure quantity="12" unit="months">
-<num value="12">十二</num>月</measure>近大寒前後戌日定之<pc>，</pc>若近大寒戌日在<num value="1">正月</num>
+<num value="12">十二</num>月</measure>近大寒前後戌日定之<pc>，</pc>若近大寒戌日在<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="11" unit="days">
 <num value="11">十一</num>日</measure>
 <pc>，</pc>若即用遠大寒戌日定之<pc>，</pc>庶不出<measure quantity="12" unit="months">
@@ -616,7 +631,10 @@
 <num value="47">庚戌</num>
 <pc>，</pc>雖近<pc>，</pc>緣在<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
 <pc>，</pc>此時以<measure quantity="19" unit="days">
@@ -771,7 +789,10 @@
 </quote>
 <pc>」</pc>執羔對曰<pc>：</pc>
 <pc>「</pc>
-<quote>舜協時月<num value="1">正日</num>
+<quote>舜協時月<measure quantity="1" unit="day">
+<num value="1">
+<num value="1">正</num>日</num>
+</measure>
 <pc>，</pc>正為積久不能無差<pc>，</pc>故協正之<pc>。</pc>
 </quote>
 <pc>」</pc>孝宗問曰<pc>：</pc>

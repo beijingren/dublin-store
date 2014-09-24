@@ -421,7 +421,10 @@
 <div>
 <p>　　<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>帝方受朝<pc>，</pc>疾暴作<pc>，</pc>扶入禁中<pc>。</pc>彥博呼內侍史志聰問狀<pc>，</pc>對曰<pc>：</pc>
 <pc>「</pc>
 <quote>禁密不敢漏言<pc>。</pc>

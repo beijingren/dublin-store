@@ -983,7 +983,10 @@
 <measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
 <pc>，</pc>以邕州住營兩指揮闕額移桂州<pc>，</pc>依舊置<pc>。</pc>紹聖元年<pc>，</pc>沅州增置有馬<num value="1">一</num>
-<pc>。</pc>元符元年<num value="1">正月</num>
+<pc>。</pc>元符元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>詔荊湖南路<pc>、</pc>江南東路各增置有馬<num value="1">一</num>
 <pc>。</pc>中興<pc>，</pc>
 <num value="2">二</num>

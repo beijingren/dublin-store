@@ -501,7 +501,10 @@
 <pc>「</pc>
 <quote>土圭長尺有<num value="5">五</num>寸以致日<pc>。</pc>
 </quote>
-<pc>」</pc>此即日有常數也<pc>。</pc>司徒職以圭<num value="1">正日</num>晷<pc>，</pc>
+<pc>」</pc>此即日有常數也<pc>。</pc>司徒職以圭<measure quantity="1" unit="day">
+<num value="1">
+<num value="1">正</num>日</num>
+</measure>晷<pc>，</pc>
 <pc>「</pc>
 <quote>日至之景<pc>，</pc>尺有<num value="5">五</num>寸<pc>，</pc>謂之地中<pc>。</pc>
 </quote>

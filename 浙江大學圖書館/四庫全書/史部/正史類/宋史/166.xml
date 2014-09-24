@@ -123,7 +123,10 @@
 <num value="2">二</num>月</measure>置<pc>，</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<num value="1">正月</num>罷<pc>。</pc>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>罷<pc>。</pc>
 </p>
 </div>
 <div>

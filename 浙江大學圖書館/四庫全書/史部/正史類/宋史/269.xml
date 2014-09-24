@@ -176,7 +176,10 @@
 <p>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>受朝乾元殿<pc>，</pc>降王在列<pc>，</pc>聲明大備<pc>。</pc>蒙上<pc>《</pc>
 <title>聖功頌</title>
 <pc>》</pc>

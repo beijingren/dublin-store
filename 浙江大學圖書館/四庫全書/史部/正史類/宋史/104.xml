@@ -271,7 +271,10 @@
 <div>
 <p>　　<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>帝習儀於崇德殿<pc>。</pc>
 <num value="34">丁酉</num>
 <pc>，</pc>法駕發京師<pc>。</pc>
@@ -334,7 +337,10 @@
 <div>
 <p>　　<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="15" unit="days">
 <num value="15">十五</num>日</measure>
 <pc>，</pc>發京師<pc>。</pc>
@@ -350,7 +356,10 @@
 </p>
 </div>
 <div>
-<p>　　先是<pc>，</pc>大中祥符元年<num value="1">正月</num>
+<p>　　先是<pc>，</pc>大中祥符元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="2">乙丑</num>
 <pc>，</pc>帝謂輔臣曰<pc>：</pc>
 <pc>「</pc>
@@ -433,7 +442,10 @@
 </p>
 </div>
 <div>
-<p>　　天禧元年<num value="1">正月</num>
+<p>　　天禧元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>詔以<measure quantity="15" unit="days">
 <num value="15">十五</num>日</measure>行宣讀天書之禮<pc>。</pc>前<measure quantity="2" unit="days">
 <num value="2">二</num>日</measure>
@@ -477,20 +489,29 @@
 <num value="7">七</num>年</measure>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
-<pc>，</pc>即滋福殿設玉皇像<pc>，</pc>奉聖號匣<pc>，</pc>安於朝元殿后天書刻玉幄次<pc>。</pc>詔以來年<num value="1">正月</num>上玉帝聖號<pc>，</pc>帝親撰文<pc>，</pc>及天書下<pc>，</pc>亦以此日奏告<pc>，</pc>仍定儀式班之<pc>。</pc>以王旦為奏告大禮使<pc>，</pc>向敏中為儀仗使<pc>，</pc>寇准為鹵簿使<pc>，</pc>丁謂為禮儀使<pc>，</pc>王嗣宗為橋道頓遞使<pc>。</pc>
+<pc>，</pc>即滋福殿設玉皇像<pc>，</pc>奉聖號匣<pc>，</pc>安於朝元殿后天書刻玉幄次<pc>。</pc>詔以來年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>上玉帝聖號<pc>，</pc>帝親撰文<pc>，</pc>及天書下<pc>，</pc>亦以此日奏告<pc>，</pc>仍定儀式班之<pc>。</pc>以王旦為奏告大禮使<pc>，</pc>向敏中為儀仗使<pc>，</pc>寇准為鹵簿使<pc>，</pc>丁謂為禮儀使<pc>，</pc>王嗣宗為橋道頓遞使<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
-<num value="1">正月</num>朔<pc>，</pc>駕詣玉清昭應宮奉表奏告<pc>，</pc>上玉皇大帝聖號曰太上開天執符禦曆含真體道玉皇大天帝<pc>，</pc>奉刻玉天書安于寶符閣<pc>，</pc>以帝禦容侍立於側<pc>，</pc>升閣酌獻<pc>。</pc>複朝拜明慶<num value="2">二</num>聖殿<pc>。</pc>禮畢還宮<pc>，</pc>易常服<pc>，</pc>禦崇德殿<pc>，</pc>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>朔<pc>，</pc>駕詣玉清昭應宮奉表奏告<pc>，</pc>上玉皇大帝聖號曰太上開天執符禦曆含真體道玉皇大天帝<pc>，</pc>奉刻玉天書安于寶符閣<pc>，</pc>以帝禦容侍立於側<pc>，</pc>升閣酌獻<pc>。</pc>複朝拜明慶<num value="2">二</num>聖殿<pc>。</pc>禮畢還宮<pc>，</pc>易常服<pc>，</pc>禦崇德殿<pc>，</pc>
 <num value="100">百</num>官稱賀<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<pc>，</pc>詔以來年<num value="1">正月</num>朔詣玉清昭應宮上玉皇聖號寶冊<pc>，</pc>
+<pc>，</pc>詔以來年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>朔詣玉清昭應宮上玉皇聖號寶冊<pc>，</pc>
 <measure quantity="2" unit="days">
 <num value="2">二</num>日</measure>詣景靈宮上聖祖天尊大帝徽號<pc>。</pc>
 <measure quantity="12" unit="months">

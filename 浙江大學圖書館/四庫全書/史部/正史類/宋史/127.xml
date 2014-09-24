@@ -325,7 +325,10 @@
 <p>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>詔徐<pc>、</pc>宿<pc>、</pc>泗<pc>、</pc>耀<pc>、</pc>江<pc>、</pc>鄭<pc>、</pc>淮陽<measure quantity="7" unit="prefectures">
 <num value="7">七</num>州</measure>軍采磬石<pc>，</pc>仍令諸路轉運司訪民間有藏古尺律者上之<pc>。</pc>
 <measure quantity="2" unit="months">
@@ -460,7 +463,10 @@
 <pc>，</pc>子子孫孫永寶用<pc>。</pc>
 <pc>”</pc>叩其聲<pc>，</pc>與樸鍾夷則清聲合<pc>，</pc>而其形側垂<pc>。</pc>瑗後改鑄<pc>，</pc>正其鈕<pc>，</pc>使下垂<pc>，</pc>叩之弇<pc>，</pc>鬱而不揚<pc>。</pc>其鎛鍾又長甬而震掉<pc>，</pc>聲不和<pc>。</pc>著作佐郎劉羲叟謂人曰<pc>：</pc>
 <pc>“</pc>此與周景王無射鍾無異<pc>，</pc>上將有眩惑之疾<pc>。</pc>
-<pc>”</pc>嘉祐元年<num value="1">正月</num>
+<pc>”</pc>嘉祐元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>帝禦大慶殿受朝<pc>，</pc>前<num value="1">一</num>夕<pc>，</pc>殿庭設仗衛<pc>、</pc>既具而大雨雪<pc>，</pc>至壓宮架折<pc>，</pc>帝於禁中跣而告天<pc>，</pc>遂暴感風眩<pc>，</pc>人以羲叟之言為驗<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>

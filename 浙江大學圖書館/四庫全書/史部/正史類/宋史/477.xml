@@ -343,7 +343,10 @@
 <p>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="28">辛卯</num>
 <pc>，</pc>全兵浚圍城塹<pc>，</pc>範<pc>、</pc>葵遣諸將出城東門掩擊<pc>，</pc>全走土城<pc>，</pc>官軍躡之<pc>，</pc>蹂溺甚眾<pc>。</pc>是日<pc>，</pc>玠破全將鄭祥<pc>，</pc>獲糧<num value="100">百</num>艘<pc>。</pc>
 <num value="31">甲午</num>
@@ -365,7 +368,10 @@
 </p>
 </div>
 <div>
-<p>時<num value="1">正月</num>望<pc>，</pc>城中放燈張樂<pc>，</pc>姑示整暇<pc>。</pc>全見之<pc>。</pc>亦往海陵載妓女<pc>，</pc>張燈平山堂<pc>，</pc>矯情自肆<pc>。</pc>是晚<pc>，</pc>燕大元宣差<pc>，</pc>宣差激全曰<pc>：</pc>
+<p>時<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>望<pc>，</pc>城中放燈張樂<pc>，</pc>姑示整暇<pc>。</pc>全見之<pc>。</pc>亦往海陵載妓女<pc>，</pc>張燈平山堂<pc>，</pc>矯情自肆<pc>。</pc>是晚<pc>，</pc>燕大元宣差<pc>，</pc>宣差激全曰<pc>：</pc>
 <pc>“</pc>相公服飾器用多南方物<pc>，</pc>乃心終在南耳<pc>！</pc>
 <pc>”</pc>全乃取誥敕<pc>，</pc>朝服南向<pc>，</pc>曆述平生梗概<pc>，</pc>再拜褫服<pc>，</pc>焚之<pc>，</pc>歎曰<pc>：</pc>
 <pc>“</pc>國明誤我<pc>。</pc>

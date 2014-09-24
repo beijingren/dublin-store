@@ -402,7 +402,10 @@
 <div>
 <p>
 <measure quantity="8" unit="years">
-<num value="8">八</num>年</measure>春<num value="1">正月</num>
+<num value="8">八</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>擢拜右<term>諫議大夫</term>
 <pc>、</pc>同判<num value="3">三</num>司<pc>。</pc>
 <measure quantity="3" unit="months">

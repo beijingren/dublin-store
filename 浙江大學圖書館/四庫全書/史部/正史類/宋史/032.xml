@@ -26,7 +26,10 @@
 <p>
 <div>
 <p>　　<measure quantity="31" unit="years">
-<num value="31">三十一</num>年</measure>春<num value="1">正月</num>
+<num value="31">三十一</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="11">甲戌</num>朔<pc>，</pc>以日食<pc>，</pc>不受朝<pc>。</pc>
 <num value="14">丁丑</num>
 <pc>，</pc>雷<pc>。</pc>
@@ -423,7 +426,10 @@
 </div>
 <div>
 <p>　　<measure quantity="32" unit="years">
-<num value="32">三十二</num>年</measure>春<num value="1">正月</num>
+<num value="32">三十二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="5">戊辰</num>朔<pc>，</pc>日有食之<pc>。</pc>帝在鎮江<pc>。</pc>
 <num value="6">己巳</num>
 <pc>，</pc>金人犯壽春府<pc>，</pc>忠義將劉泰戰死<pc>，</pc>金兵引去<pc>。</pc>

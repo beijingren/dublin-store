@@ -171,7 +171,13 @@
 <p>初<pc>，</pc>預買綢絹務優直以利民<pc>，</pc>然猶未免煩民<pc>，</pc>後或令民折輸錢<pc>，</pc>或物重而價輕<pc>，</pc>民力浸困<pc>，</pc>其終也<pc>，</pc>官不給直<pc>，</pc>而賦取益甚矣<pc>。</pc>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<pc>，</pc>詔令轉運司各會<num value="1">一</num>路之數<pc>，</pc>分下州縣經畫<pc>，</pc>不以錢以他物<pc>、</pc>不以<num value="1">正月</num>以他月給者<pc>，</pc>並論以違製<pc>。</pc>然有司鮮能承順焉<pc>。</pc>靖康元年<pc>，</pc>命轉運司以常平錢前<num value="1">一</num>季預備<pc>，</pc>如<num value="1">正月</num>之期給之<pc>，</pc>毋貸以他物而損其數<pc>。</pc>京東州縣勿以遷移戶舊數科著業人<pc>，</pc>仍先除其數<pc>，</pc>俟流民歸業均敷<pc>。</pc>餘路亦如之<pc>。</pc>
+<pc>，</pc>詔令轉運司各會<num value="1">一</num>路之數<pc>，</pc>分下州縣經畫<pc>，</pc>不以錢以他物<pc>、</pc>不以<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>以他月給者<pc>，</pc>並論以違製<pc>。</pc>然有司鮮能承順焉<pc>。</pc>靖康元年<pc>，</pc>命轉運司以常平錢前<num value="1">一</num>季預備<pc>，</pc>如<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>之期給之<pc>，</pc>毋貸以他物而損其數<pc>。</pc>京東州縣勿以遷移戶舊數科著業人<pc>，</pc>仍先除其數<pc>，</pc>俟流民歸業均敷<pc>。</pc>餘路亦如之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -213,7 +219,10 @@
 <p>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>複河南<pc>，</pc>減折帛錢匹<num value="1000">一千</num>
 <pc>，</pc>未幾又增之<pc>。</pc>
 <measure quantity="17" unit="years">

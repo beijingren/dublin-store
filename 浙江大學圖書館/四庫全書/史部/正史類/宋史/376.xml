@@ -209,7 +209,10 @@
 <p>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>再召為給事中<pc>。</pc>出知廣州<pc>。</pc>尋以顯謨閣待制致仕<pc>。</pc>
 <measure quantity="17" unit="years">
 <num value="17">十七</num>年</measure>卒<pc>，</pc>年<num value="58">五十八</num>

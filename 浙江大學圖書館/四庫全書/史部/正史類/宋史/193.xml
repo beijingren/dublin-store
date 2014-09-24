@@ -360,7 +360,10 @@
 <p>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>兩浙東路鈐轄司奏<pc>：</pc>
 <pc>“</pc>乞將溫<pc>、</pc>處<pc>、</pc>衢<pc>、</pc>婺州元管不係將禁軍<num value="6">六</num>指揮<pc>，</pc>更招置增為<num value="10">十</num>指揮<pc>，</pc>並以<num value="500">五百</num>人為額<pc>，</pc>凡<num value="5000">五千</num>人<pc>，</pc>庶成全將<pc>。</pc>及更於台州招置不係將禁軍<num value="1">一</num>指揮<pc>，</pc>以<num value="400">四百</num>人為額<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>
@@ -394,7 +397,10 @@
 </p>
 </div>
 <div>
-<p>靖康元年春<num value="1">正月</num>
+<p>靖康元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>臣僚言<pc>：</pc>
 <pc>“</pc>諸路見招募人兵<pc>，</pc>緣逐處漕計闕乏<pc>，</pc>乞於近州應奉司及延福宮西城錢帛<pc>，</pc>並許請用<pc>，</pc>庶得速辦<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>又詔<pc>：</pc>
@@ -840,7 +846,10 @@
 <measure quantity="27" unit="years">
 <num value="27">二十七</num>年</measure>
 <pc>，</pc>楊存中奉旨<pc>，</pc>
-<num value="3">三</num>衙所招效用兵令住招<pc>。</pc>今闕<num value="6726">六千七百二十六</num>人<pc>，</pc>若不招填<pc>，</pc>兵數日損<pc>。</pc>詔本司來年<num value="1">正月</num>為始<pc>，</pc>依舊招募<pc>。</pc>
+<num value="3">三</num>衙所招效用兵令住招<pc>。</pc>今闕<num value="6726">六千七百二十六</num>人<pc>，</pc>若不招填<pc>，</pc>兵數日損<pc>。</pc>詔本司來年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>為始<pc>，</pc>依舊招募<pc>。</pc>
 </p>
 </div>
 <div>

@@ -297,8 +297,14 @@
 <div>
 <p>　　<num value="5">五</num>禮之序<pc>，</pc>以吉禮為首<pc>，</pc>主邦國神祇祭祀之事<pc>。</pc>凡祀典皆領于太常<pc>。</pc>歲之大祀<num value="30">三十</num>
 <pc>：</pc>
-<num value="1">正月</num>上辛祈谷<pc>，</pc>孟夏雩祀<pc>，</pc>季秋大享明堂<pc>，</pc>冬至圜丘祭昊天上帝<pc>，</pc>
-<num value="1">正月</num>上辛又祀感生帝<pc>，</pc>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>上辛祈谷<pc>，</pc>孟夏雩祀<pc>，</pc>季秋大享明堂<pc>，</pc>冬至圜丘祭昊天上帝<pc>，</pc>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>上辛又祀感生帝<pc>，</pc>
 <num value="4">四</num>立及土王日祀<num value="5">五</num>方帝<pc>，</pc>春分朝日<pc>，</pc>秋分夕月<pc>，</pc>東西太<num value="1">一</num>
 <pc>，</pc>臘日大蠟祭<num value="100">百</num>神<pc>，</pc>夏至祭皇地祇<pc>，</pc>孟冬祭神州地祇<pc>，</pc>
 <num value="4">四</num>孟<pc>、</pc>季冬薦享太廟<pc>、</pc>後廟<pc>，</pc>春秋<num value="2">二</num>仲及臘日祭太社<pc>、</pc>太稷<pc>，</pc>

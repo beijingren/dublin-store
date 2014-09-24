@@ -419,7 +419,10 @@
 <div>
 <p>德祐<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>扬州饥<pc>。</pc>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
@@ -588,7 +591,10 @@
 <div>
 <p>天禧<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>永州大风<pc>，</pc>发屋拔木<pc>，</pc>数日止<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
@@ -644,7 +650,10 @@
 <div>
 <p>嘉祐<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<num value="1">正月</num>元日平旦<pc>，</pc>有风从东北来<pc>，</pc>遍天有苍黑云<pc>，</pc>占云<pc>：</pc>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>元日平旦<pc>，</pc>有风从东北来<pc>，</pc>遍天有苍黑云<pc>，</pc>占云<pc>：</pc>
 <pc>“</pc>大熟多雨<pc>。</pc>
 <pc>”</pc>
 </p>
@@ -707,7 +716,10 @@
 </p>
 </div>
 <div>
-<p>靖康元年<num value="1">正月</num>望夜<pc>，</pc>大风起西北<pc>，</pc>有声<pc>，</pc>吹沙走石<pc>，</pc>尽明日乃止<pc>。</pc>
+<p>靖康元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>望夜<pc>，</pc>大风起西北<pc>，</pc>有声<pc>，</pc>吹沙走石<pc>，</pc>尽明日乃止<pc>。</pc>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="45">戊申</num>
@@ -724,7 +736,10 @@
 <pc>，</pc>大风起北方<pc>，</pc>雪作<pc>，</pc>盈数尺<pc>，</pc>连夜不止<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<num value="1">正月</num>巳亥<pc>，</pc>天气昏噎<pc>，</pc>狂风迅发<pc>，</pc>竟日夜<pc>，</pc>西北阴云中如有火光<pc>，</pc>长<num value="2">二</num>丈余<pc>，</pc>阔数尺<pc>，</pc>民时时见之<pc>。</pc>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>巳亥<pc>，</pc>天气昏噎<pc>，</pc>狂风迅发<pc>，</pc>竟日夜<pc>，</pc>西北阴云中如有火光<pc>，</pc>长<num value="2">二</num>丈余<pc>，</pc>阔数尺<pc>，</pc>民时时见之<pc>。</pc>
 <num value="47">庚戌</num>
 <pc>，</pc>大风雨<pc>。</pc>
 <measure quantity="2" unit="months">
@@ -741,7 +756,10 @@
 </p>
 </div>
 <div>
-<p>建炎元年<num value="1">正月</num>
+<p>建炎元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="34">丁酉</num>
 <pc>，</pc>大风吹石折木<pc>。</pc>
 <measure quantity="12" unit="months">
@@ -812,7 +830,10 @@
 <num value="42">乙巳</num>夜<pc>，</pc>福清县<pc>、</pc>兴化军大风雨<pc>，</pc>坏官舍<pc>、</pc>民居<pc>、</pc>仓库及海口镇<pc>，</pc>人多死者<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="47">庚戌</num>
 <pc>，</pc>大风<pc>。</pc>
 <measure quantity="6" unit="years">
@@ -890,7 +911,10 @@
 <pc>，</pc>大风<pc>，</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="12">乙亥</num>亦如之<pc>。</pc>
 </p>
 </div>
@@ -936,12 +960,18 @@
 <pc>，</pc>余姚县风潮坏海堤<pc>，</pc>亘<num value="8">八</num>乡<pc>。</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="17">庚辰</num>
 <pc>，</pc>江州放镫<pc>，</pc>黑云暴风忽作<pc>，</pc>游人相践<pc>，</pc>死者<num value="20">二十</num>余<pc>。</pc>
 <measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="32">乙未</num>
 <pc>，</pc>大风拔木<pc>。</pc>
 <measure quantity="11" unit="months">
@@ -1079,7 +1109,10 @@
 <pc>，</pc>大风昼晦<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="17">庚辰</num>朔<pc>，</pc>大风霾<pc>。</pc>是日<pc>，</pc>上尊号<pc>，</pc>廷中仗卫皆不能整<pc>。</pc>时帝已不豫<pc>，</pc>后<measure quantity="7" unit="days">
 <num value="7">七</num>日</measure>崩<pc>。</pc>
 </p>
@@ -1104,7 +1137,10 @@
 <div>
 <p>靖康<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="36">己亥</num>
 <pc>，</pc>天气昏曀<pc>，</pc>风迅发竟日<pc>。</pc>
 <measure quantity="3" unit="months">
@@ -1114,7 +1150,10 @@
 </p>
 </div>
 <div>
-<p>建炎元年<num value="1">正月</num>
+<p>建炎元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="28">辛卯</num>朔<pc>，</pc>大风霾<pc>。</pc>
 <num value="34">丁酉</num>
 <pc>，</pc>风霾<pc>，</pc>日色薄而有晕<pc>。</pc>
@@ -1142,7 +1181,10 @@
 <div>
 <p>乾道<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="21">甲申</num>
 <pc>，</pc>昼霾<num value="4">四</num>塞<pc>。</pc>
 </p>
@@ -1166,7 +1208,10 @@
 </p>
 </div>
 <div>
-<p>开禧元年<num value="1">正月</num>
+<p>开禧元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="19">壬午</num>
 <pc>，</pc>雨霾<pc>。</pc>
 </p>
@@ -1174,7 +1219,10 @@
 <div>
 <p>嘉定<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="32">乙未</num>
 <pc>，</pc>昼霾<pc>。</pc>
 <measure quantity="2" unit="months">
@@ -1205,7 +1253,10 @@
 <div>
 <p>大中祥符<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>霸州渠冰有如华葩状<pc>。</pc>
 </p>
 </div>
@@ -1749,7 +1800,10 @@
 <div>
 <p>淳化<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="52">乙卯</num>
 <pc>，</pc>京师雨土<pc>，</pc>占曰<pc>：</pc>
 <pc>“</pc>小人叛<pc>。</pc>
@@ -1765,13 +1819,19 @@
 <pc>”</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="3">丙寅</num>
 <pc>，</pc>黄白气环之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>大中祥符元年<num value="1">正月</num>
+<p>大中祥符元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="60">癸亥</num>朔<pc>，</pc>黄气出于艮<pc>，</pc>占曰<pc>：</pc>
 <pc>“</pc>主<num value="5">五</num>谷熟<pc>。</pc>
 <pc>”</pc>
@@ -1859,7 +1919,10 @@
 <div>
 <p>元祐<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="55">戊午</num>
 <pc>，</pc>天雨尘土<pc>，</pc>主民劳苦<pc>。</pc>
 </p>
@@ -1922,14 +1985,20 @@
 <pc>、</pc>
 <measure quantity="11" unit="years">
 <num value="11">十一</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="28">辛卯</num>
 <pc>、</pc>
 <num value="51">甲寅</num>
 <pc>、</pc>
 <measure quantity="13" unit="years">
 <num value="13">十三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="39">壬寅</num>
 <pc>，</pc>亦如之<pc>。</pc>
 <measure quantity="15" unit="years">
@@ -1975,7 +2044,10 @@
 <pc>，</pc>天雨尘土<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="13">丙子</num>
 <pc>、</pc>
 <measure quantity="4" unit="months">
@@ -1988,7 +2060,10 @@
 <pc>，</pc>天雨尘土<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="6">己巳</num>
 <pc>、</pc>闰月<num value="44">丁未</num>
 <pc>、</pc>
@@ -2024,7 +2099,10 @@
 <div>
 <p>嘉定<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="43">丙午</num>
 <pc>，</pc>天雨尘土<pc>。</pc>
 <measure quantity="8" unit="years">
@@ -2161,7 +2239,10 @@
 <pc>，</pc>许州开元观老君像自动<pc>，</pc>知州宋偓以闻<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>简州普通院毗庐佛像自动<pc>。</pc>
 </p>
 </div>
@@ -2188,12 +2269,18 @@
 <pc>，</pc>庆州地震者再<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>益州地震<pc>。</pc>
 </p>
 </div>
 <div>
-<p>景德元年<num value="1">正月</num>
+<p>景德元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="33">丙申</num>夜<pc>，</pc>京师地震；<num value="40">癸卯</num>夜<pc>，</pc>复震；<num value="44">丁未</num>夜<pc>，</pc>又震<pc>，</pc>屋皆动<pc>，</pc>有声<pc>，</pc>移时方止<pc>。</pc>
 <num value="50">癸丑</num>
 <pc>，</pc>冀州地震<pc>，</pc>占云<pc>：</pc>
@@ -2264,7 +2351,10 @@
 </p>
 </div>
 <div>
-<p>宝元元年<num value="1">正月</num>
+<p>宝元元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="57">庚申</num>
 <pc>，</pc>并<pc>、</pc>忻<pc>、</pc>代<measure quantity="3" unit="prefectures">
 <num value="3">三</num>州</measure>地震<pc>。</pc>
@@ -2462,7 +2552,10 @@
 <num value="9">壬申</num>夜<pc>，</pc>云阴蔽天<pc>，</pc>地震良久<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="9">壬申</num>
 <pc>，</pc>恩州地震<pc>。</pc>
 <measure quantity="8" unit="months">
@@ -2499,7 +2592,10 @@
 <pc>，</pc>北方用兵<pc>，</pc>雄州地大震<pc>。</pc>玄武见于州之正寝<pc>，</pc>有龟大如钱<pc>，</pc>蛇若朱漆箸<pc>，</pc>相逐而行<pc>，</pc>宣抚使焚香再拜<pc>，</pc>以银奁贮<num value="2">二</num>物<pc>。</pc>俄俱死<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>京师连日地震<pc>，</pc>宫殿门皆动有声<pc>。</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
@@ -2512,7 +2608,10 @@
 <div>
 <p>建炎<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="35">戊戌</num>
 <pc>，</pc>长安地大震<pc>，</pc>金将娄宿围城<pc>，</pc>弥旬无外援<pc>，</pc>乘地震而入<pc>，</pc>城遂陷<pc>。</pc>
 </p>
@@ -2543,7 +2642,10 @@
 <pc>，</pc>地震<pc>。</pc>
 <measure quantity="24" unit="years">
 <num value="24">二十四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="15">戊寅</num>
 <pc>，</pc>地震<pc>。</pc>
 <measure quantity="25" unit="years">
@@ -2668,7 +2770,10 @@
 <pc>，</pc>西川地震<pc>。</pc>
 <measure quantity="14" unit="years">
 <num value="14">十四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="32">乙未</num>夜<pc>，</pc>地震<pc>，</pc>大雷<pc>。</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
@@ -2743,7 +2848,10 @@
 <num value="38">辛丑</num>夜<pc>，</pc>大泽县<num value="3">三</num>阳砦大雨崖摧<pc>，</pc>压死者<num value="62">六十二</num>人<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>成纪县山摧<pc>，</pc>压死者<num value="60">六十</num>余人<pc>。</pc>
 </p>
 </div>

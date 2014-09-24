@@ -337,7 +337,10 @@
 <div>
 <p>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>冬<pc>，</pc>被病<pc>，</pc>詔中使偕尚醫療視<pc>。</pc>明年<num value="1">正月</num>
+<num value="3">三</num>年</measure>冬<pc>，</pc>被病<pc>，</pc>詔中使偕尚醫療視<pc>。</pc>明年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>許還京師<pc>。</pc>時車駕上陵<pc>，</pc>顯謂賓佐曰<pc>：</pc>
 <pc>“</pc>餘年位偕極<pc>，</pc>今天子道出虎牢<pc>，</pc>不得<num value="1">一</num>拜屬車之塵<pc>，</pc>是遺恨也<pc>。</pc>
 <pc>”</pc>言訖涕下<pc>，</pc>至京<pc>，</pc>信宿卒<pc>，</pc>年<num value="76">七十六</num>

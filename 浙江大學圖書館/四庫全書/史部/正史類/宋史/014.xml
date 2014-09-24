@@ -62,7 +62,10 @@
 <div>
 <p>　　<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="54">丁巳</num>
 <pc>，</pc>英廟崩<pc>，</pc>帝即皇帝位<pc>。</pc>
 <num value="55">戊午</num>
@@ -304,7 +307,10 @@
 </p>
 </div>
 <div>
-<p>　　熙甯元年春<num value="1">正月</num>
+<p>　　熙甯元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="11">甲戌</num>朔<pc>，</pc>日有食之<pc>。</pc>詔改元<pc>。</pc>
 <num value="14">丁丑</num>
 <pc>，</pc>以旱<pc>，</pc>減天下囚罪<num value="1">一</num>等<pc>，</pc>杖以下釋之<pc>。</pc>
@@ -495,7 +501,10 @@
 </div>
 <div>
 <p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<num value="1">正月</num>
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="31">甲午</num>
 <pc>，</pc>奉安英宗神御于景靈宮英德殿<pc>。</pc>
 </p>

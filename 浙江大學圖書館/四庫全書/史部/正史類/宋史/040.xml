@@ -26,7 +26,10 @@
 <p>
 <div>
 <p>　　<measure quantity="10" unit="years">
-<num value="10">十</num>年</measure>春<num value="1">正月</num>
+<num value="10">十</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="30">癸巳</num>
 <pc>，</pc>雨土<pc>。</pc>
 <num value="32">乙未</num>
@@ -144,7 +147,10 @@
 </div>
 <div>
 <p>　　<measure quantity="11" unit="years">
-<num value="11">十一</num>年</measure>春<num value="1">正月</num>
+<num value="11">十一</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="19">壬午</num>
 <pc>，</pc>京東路忠義李全率衆來歸<pc>，</pc>詔以全爲京東路總管<pc>。</pc>
 <num value="25">戊子</num>
@@ -274,7 +280,10 @@
 </div>
 <div>
 <p>　　<measure quantity="12" unit="years">
-<num value="12">十二</num>年</measure>春<num value="1">正月</num>
+<num value="12">十二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="5">戊辰</num>朔<pc>，</pc>召董居誼詣行在<pc>。</pc>以新利州路安撫使聶子述爲<num value="4">四</num>川制置使<pc>。</pc>
 <num value="17">庚辰</num>
 <pc>，</pc>金人犯湫池堡<pc>，</pc>守將石宣拒<persName>退之</persName>
@@ -475,7 +484,10 @@
 </div>
 <div>
 <p>　　<measure quantity="13" unit="years">
-<num value="13">十三</num>年</measure>春<num value="1">正月</num>
+<num value="13">十三</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="34">丁酉</num>
 <pc>，</pc>扈再興引兵攻鄧州<pc>，</pc>鄂州都統許國攻唐州<pc>，</pc>不克而還<pc>。</pc>金人追之<pc>，</pc>遂攻樊城<pc>，</pc>趙方督諸將拒<persName>退之</persName>
 <pc>。</pc>
@@ -615,7 +627,10 @@
 </div>
 <div>
 <p>　　<measure quantity="14" unit="years">
-<num value="14">十四</num>年</measure>春<num value="1">正月</num>
+<num value="14">十四</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="23">丙戌</num>朔<pc>，</pc>以雪寒<pc>，</pc>釋大理<pc>、</pc>
 <num value="3">三</num>衙<pc>、</pc>臨安<pc>、</pc>兩浙諸州杖以下囚<pc>。</pc>
 <num value="32">乙未</num>
@@ -783,7 +798,10 @@
 </div>
 <div>
 <p>　　<measure quantity="15" unit="years">
-<num value="15">十五</num>年</measure>春<num value="1">正月</num>
+<num value="15">十五</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="47">庚戌</num>朔<pc>，</pc>御大慶殿<pc>，</pc>受恭膺天命之寶<pc>。</pc>
 <num value="50">癸丑</num>
 <pc>，</pc>立李誠之廟於蘄州<pc>。</pc>
@@ -901,7 +919,10 @@
 </div>
 <div>
 <p>　　<measure quantity="16" unit="years">
-<num value="16">十六</num>年</measure>春<num value="1">正月</num>
+<num value="16">十六</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="45">戊申</num>
 <pc>，</pc>詔命官犯贓毋免約法<pc>。</pc>
 <num value="46">己酉</num>
@@ -975,7 +996,10 @@
 </div>
 <div>
 <p>　　<measure quantity="17" unit="years">
-<num value="17">十七</num>年</measure>春<num value="1">正月</num>
+<num value="17">十七</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="35">戊戌</num>朔<pc>，</pc>詔補先聖裔孔元用爲通直郎<pc>，</pc>錄程頤後<pc>。</pc>
 <num value="60">癸亥</num>
 <pc>，</pc>命淮東西<pc>、</pc>湖北路轉運司提督營屯田<pc>。</pc>
@@ -1043,7 +1067,10 @@
 <num value="32">乙未</num>朔<pc>，</pc>申嚴兩浙諸州輸苗過取之禁<pc>。</pc>
 <num value="34">丁酉</num>
 <pc>，</pc>皇帝崩于福寧殿<pc>，</pc>年<num value="57">五十七</num>
-<pc>。</pc>史彌遠傳遺詔<pc>，</pc>立侄貴誠爲皇子<pc>，</pc>更名昀<pc>，</pc>即皇帝位<pc>。</pc>尊皇后爲皇太后<pc>，</pc>垂簾聽政<pc>。</pc>進封皇子竑爲濟陽郡王<pc>，</pc>出居湖州<pc>。</pc>寶慶元年<num value="1">正月</num>
+<pc>。</pc>史彌遠傳遺詔<pc>，</pc>立侄貴誠爲皇子<pc>，</pc>更名昀<pc>，</pc>即皇帝位<pc>。</pc>尊皇后爲皇太后<pc>，</pc>垂簾聽政<pc>。</pc>進封皇子竑爲濟陽郡王<pc>，</pc>出居湖州<pc>。</pc>寶慶元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="26">己丑</num>
 <pc>，</pc>諡曰仁文哲武恭孝皇帝<pc>，</pc>廟號寧宗<pc>。</pc>
 <measure quantity="3" unit="months">

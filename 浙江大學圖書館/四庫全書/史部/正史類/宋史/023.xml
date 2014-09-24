@@ -39,13 +39,19 @@
 <num value="24">丁亥</num>
 <pc>，</pc>又改今名<pc>。</pc>大觀<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>進封定王<pc>。</pc>政和元年<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <pc>，</pc>講學於資善堂<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>加太保<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
@@ -91,7 +97,10 @@
 </p>
 </div>
 <div>
-<p>　　靖康元年春<num value="1">正月</num>
+<p>　　靖康元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="4">丁卯</num>朔<pc>，</pc>受群臣朝賀<pc>，</pc>退詣龍德宮<pc>，</pc>賀道君皇帝<pc>。</pc>詔中外臣庶實封言得失<pc>。</pc>金人破相州<pc>。</pc>
 <num value="5">戊辰</num>
 <pc>，</pc>破濬州<pc>。</pc>威武軍<term>節度使</term>梁方平師潰<pc>，</pc>河北<pc>、</pc>河東路制置副使何灌退保滑州<pc>。</pc>
@@ -223,7 +232,7 @@
 <num value="22">乙酉</num>
 <pc>，</pc>迎道君皇帝于宜春苑<pc>，</pc>太后入居甯德宮<pc>。</pc>
 <num value="23">丙戌</num>
-<pc>，</pc>知中山府詹度為資政殿大學士<pc>，</pc>知太原府張孝純<pc>、</pc>知河間府陳遘並為資政殿學士<pc>，</pc>知澤州高世由直龍圖閣<pc>，</pc>賞城守之勞也<pc>。</pc>
+<pc>，</pc>知中山府詹度為資政殿大學士<pc>，</pc>知太原府張孝純<pc>、</pc>知河間府陳遘並為資政殿學士<pc>，</pc>知<placeName>澤州</placeName>高世由直龍圖閣<pc>，</pc>賞城守之勞也<pc>。</pc>
 <num value="24">丁亥</num>
 <pc>，</pc>朝于甯德宮<pc>，</pc>詔扈從行宮官吏<pc>，</pc>候還京日優加賞典<pc>，</pc>除有罪之人迫於公議已行遣外<pc>，</pc>餘令台諫勿複用前事糾言<pc>。</pc>
 <num value="27">庚寅</num>
@@ -468,7 +477,9 @@
 <num value="52">乙卯</num>
 <pc>，</pc>雨木冰<pc>。</pc>
 <num value="53">丙辰</num>
-<pc>，</pc>金人陷平陽府<pc>，</pc>又陷威勝<pc>、</pc>隆德<pc>、</pc>澤州<pc>。</pc>
+<pc>，</pc>金人陷平陽府<pc>，</pc>又陷威勝<pc>、</pc>隆德<pc>、</pc>
+<placeName>澤州</placeName>
+<pc>。</pc>
 <num value="54">丁巳</num>
 <pc>，</pc>高麗入貢<pc>，</pc>令明州遞表以進<pc>，</pc>遣其使還<pc>。</pc>
 <num value="55">戊午</num>
@@ -528,7 +539,7 @@
 <div>
 <p>　　閏月<num value="29">壬辰</num>朔<pc>，</pc>金人攻善利門<pc>，</pc>統制姚仲友禦之<pc>。</pc>奇兵作亂<pc>，</pc>殺使臣<pc>，</pc>王宗濋斬數<num value="10">十</num>人乃定<pc>。</pc>唐恪出都<pc>，</pc>人欲擊之<pc>，</pc>因求去<pc>，</pc>罷為中太<num value="1">一</num>宮使<pc>。</pc>以門下侍郎何㮚為尚書右僕射兼中書侍郎<pc>。</pc>劉韐坐棄軍<pc>，</pc>降<num value="5">五</num>官予祠<pc>。</pc>
 <num value="30">癸巳</num>
-<pc>，</pc>京師苦寒<pc>，</pc>用日者言<pc>，</pc>借土牛迎春<pc>。</pc>朱伯友坐棄鄭州<pc>，</pc>降<num value="3">三</num>官罷<pc>。</pc>西道總管王襄棄西京去<pc>。</pc>知澤州高世由以城降于金<pc>。</pc>燕瑛欲棄河陽<pc>，</pc>為亂兵所殺<pc>。</pc>河東諸郡<pc>，</pc>或降或破殆盡<pc>。</pc>都民殺東壁統制官辛亢宗<pc>。</pc>罷民乘城<pc>，</pc>代以保甲<pc>。</pc>粘罕軍至城下<pc>。</pc>
+<pc>，</pc>京師苦寒<pc>，</pc>用日者言<pc>，</pc>借土牛迎春<pc>。</pc>朱伯友坐棄鄭州<pc>，</pc>降<num value="3">三</num>官罷<pc>。</pc>西道總管王襄棄西京去<pc>。</pc>知<placeName>澤州</placeName>高世由以城降于金<pc>。</pc>燕瑛欲棄河陽<pc>，</pc>為亂兵所殺<pc>。</pc>河東諸郡<pc>，</pc>或降或破殆盡<pc>。</pc>都民殺東壁統制官辛亢宗<pc>。</pc>罷民乘城<pc>，</pc>代以保甲<pc>。</pc>粘罕軍至城下<pc>。</pc>
 <num value="31">甲午</num>
 <pc>，</pc>時雨雪交作<pc>，</pc>帝被甲登城<pc>，</pc>以禦膳賜士卒<pc>，</pc>易火飯以進<pc>，</pc>人皆感激流涕<pc>。</pc>金人攻通津門<pc>，</pc>數<num value="100">百</num>人縋城禦之<pc>，</pc>焚其炮架<num value="5">五</num>
 <pc>、</pc>鵝車<num value="2">二</num>
@@ -614,7 +625,10 @@
 </div>
 <div>
 <p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<num value="1">正月</num>
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="28">辛卯</num>朔<pc>，</pc>命濟王栩<pc>、</pc>景王杞出賀金軍<pc>，</pc>金人亦遣使入賀<pc>。</pc>
 <num value="29">壬辰</num>
 <pc>，</pc>金人趣召康王還<pc>。</pc>遣聶昌<pc>、</pc>耿南仲<pc>、</pc>陳過庭出割兩河地<pc>，</pc>民堅守不奉詔<pc>，</pc>凡累月<pc>，</pc>止得石州<pc>。</pc>

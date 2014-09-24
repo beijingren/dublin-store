@@ -53,7 +53,10 @@
 <p>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>詔遣樞密都承旨韓崇訓等與殿前司<pc>、</pc>侍衛馬步軍司揀閱諸軍兵士<pc>，</pc>供備庫使<pc>、</pc>帶禦器械綦政敏等分往京東<pc>、</pc>西路揀閱<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
@@ -74,7 +77,10 @@
 <p>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>帝諭知樞密院王欽若等<pc>：</pc>
 <pc>“</pc>在京軍校差充外處人員<pc>，</pc>軍數不足<pc>，</pc>有妨訓練<pc>，</pc>可詔示殿前<pc>、</pc>侍衛馬步軍司簡補<pc>。</pc>禁軍逐指揮兵士內<pc>，</pc>捧日上<num value="3">三</num>軍要及<num value="300">三百</num>人<pc>，</pc>龍衛上<num value="4">四</num>軍各<num value="250">二百五十</num>人<pc>，</pc>拱聖<pc>、</pc>驍騎<pc>、</pc>驍勝<pc>、</pc>寧朔<pc>、</pc>神騎<pc>、</pc>雲武騎各<num value="350">三百五十</num>人<pc>，</pc>並於下次軍營升填<pc>，</pc>須及得本額等樣<pc>，</pc>及令軍頭司於諸處招揀到人內選填<pc>。</pc>營在京者引見分配<pc>，</pc>在外處者準此<pc>，</pc>仍委逐司擘畫開坐以聞<pc>。</pc>在京差出者<pc>，</pc>候替回揀選<pc>。</pc>
 <pc>”</pc>
@@ -240,7 +246,10 @@
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <pc>，</pc>詔諸路每歲於<measure quantity="8" unit="months">
-<num value="8">八</num>月</measure>後解發試武藝人到闕<pc>，</pc>殿前司限次年<num value="1">正月</num>
+<num value="8">八</num>月</measure>後解發試武藝人到闕<pc>，</pc>殿前司限次年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>軍頭司限<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>以前試驗推恩<pc>。</pc>呈試武藝人同<pc>。</pc>
 </p>

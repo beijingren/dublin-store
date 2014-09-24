@@ -1114,7 +1114,10 @@
 <div>
 <p>晉永和<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="10">癸酉</num>
 <pc>，</pc>鎮星掩鉞星<pc>。</pc>
 <pc>《</pc>
@@ -1427,7 +1430,10 @@
 <pc>，</pc>凡<measure quantity="3301" unit="years">
 <num value="3301">三千三百一</num>年</measure>矣<pc>。</pc>虞<pc>、</pc>夏之間<pc>，</pc>未有<num value="1">甲子</num>可證<pc>，</pc>成湯既沒<pc>，</pc>太甲元年始有<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
-<num value="2">乙丑</num>朔旦冬至<pc>，</pc>伊尹祀于先王<pc>，</pc>至武王伐商之年<num value="1">正月</num>
+<num value="2">乙丑</num>朔旦冬至<pc>，</pc>伊尹祀于先王<pc>，</pc>至武王伐商之年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="28">辛卯</num>朔<pc>，</pc>
 <num value="20">二十</num>有<measure quantity="8" unit="days">
 <num value="8">八</num>日</measure>
@@ -1494,7 +1500,10 @@
 <title>春秋</title>
 <pc>》</pc>魯僖公<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="48">辛亥</num>朔旦冬至<pc>，</pc>了無差爽<pc>。</pc>用此為法<pc>，</pc>以推經傳<pc>，</pc>縱小有增減<pc>，</pc>抑又經傳之誤<pc>，</pc>皆可以發明也<pc>。</pc>古曆到齊<pc>、</pc>梁以來<pc>，</pc>或差<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
 <pc>，</pc>更有近曆校課<pc>，</pc>亦得符合<pc>。</pc>伏望聖慈<pc>，</pc>許臣撰集<pc>，</pc>不出<measure quantity="100" unit="days">

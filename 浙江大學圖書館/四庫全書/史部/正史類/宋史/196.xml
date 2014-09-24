@@ -979,7 +979,10 @@
 <p>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>詔<pc>：</pc>
 <pc>“</pc>河北軍馬與陝西<pc>、</pc>河東更戍<pc>，</pc>非元豐法<pc>，</pc>遂罷其令<pc>。</pc>應拖後人並與免罪<pc>，</pc>依舊收管<pc>。</pc>
 <pc>”</pc>閏<measure quantity="5" unit="months">

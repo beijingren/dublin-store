@@ -26,7 +26,10 @@
 <p>
 <div>
 <p>　　<measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<num value="1">正月</num>
+<num value="4">四</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="41">甲辰</num>朔<pc>，</pc>禦舟碇海中<pc>。</pc>
 <num value="42">乙巳</num>
 <pc>，</pc>金人犯明州<pc>，</pc>張俊及守臣劉洪道擊卻之<pc>。</pc>
@@ -444,7 +447,10 @@
 </p>
 </div>
 <div>
-<p>　　紹興元年春<num value="1">正月</num>
+<p>　　紹興元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="36">己亥</num>朔<pc>，</pc>帝在越州<pc>，</pc>帥<num value="100">百</num>官遙拜<num value="2">二</num>帝<pc>，</pc>不受朝賀<pc>。</pc>下詔改元<pc>，</pc>釋流以下囚<pc>，</pc>複賢良方正直言極諫科<pc>，</pc>蠲兩浙夏稅<pc>、</pc>和買槹絹絲綿<pc>，</pc>減閩中上供銀<num value="3">三</num>分之<num value="1">一</num>
 <pc>。</pc>
 <num value="45">戊申</num>

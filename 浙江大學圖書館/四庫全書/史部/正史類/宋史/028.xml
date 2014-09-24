@@ -26,7 +26,10 @@
 <p>
 <div>
 <p>　　<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>春<num value="1">正月</num>
+<num value="5">五</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="42">乙巳</num>朔<pc>，</pc>日有食之<pc>。</pc>帝在平江府<pc>。</pc>金人去濠州<pc>。</pc>
 <num value="44">丁未</num>
 <pc>，</pc>戒諸軍戰陳毋殺中原民籍充金兵者<pc>。</pc>命鬻官田宅輸錢專充軍費<pc>。</pc>
@@ -375,7 +378,10 @@
 </div>
 <div>
 <p>　　<measure quantity="6" unit="years">
-<num value="6">六</num>年</measure>春<num value="1">正月</num>
+<num value="6">六</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="8">辛未</num>
 <pc>，</pc>蠲貧民戶帖錢之半<pc>，</pc>無物產者悉除之<pc>。</pc>
 <num value="10">癸酉</num>
@@ -656,7 +662,10 @@
 </div>
 <div>
 <p>　　<measure quantity="7" unit="years">
-<num value="7">七</num>年</measure>春<num value="1">正月</num>
+<num value="7">七</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="60">癸亥</num>朔<pc>，</pc>帝在平江<pc>，</pc>下詔移蹕建康<pc>。</pc>蠲無為軍稅役<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>
 <pc>。</pc>置建康御前軍器局<pc>。</pc>

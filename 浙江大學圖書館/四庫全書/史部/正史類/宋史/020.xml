@@ -26,7 +26,10 @@
 <p>
 <div>
 <p>　　<measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<num value="1">正月</num>
+<num value="4">四</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="7">庚午</num>朔<pc>，</pc>改熙河蘭會路為熙河蘭湟路<pc>。</pc>
 <num value="23">丙戌</num>
 <pc>，</pc>築溪哥城<pc>。</pc>
@@ -207,7 +210,10 @@
 </div>
 <div>
 <p>　　<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>春<num value="1">正月</num>
+<num value="5">五</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="35">戊戌</num>
 <pc>，</pc>彗出西方<pc>，</pc>其長竟天<pc>。</pc>
 <num value="37">庚子</num>
@@ -341,7 +347,10 @@
 </p>
 </div>
 <div>
-<p>　　大觀元年春<num value="1">正月</num>
+<p>　　大觀元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="25">戊子</num>朔<pc>，</pc>赦天下<pc>。</pc>
 <num value="31">甲午</num>
 <pc>，</pc>以蔡京為尚書左僕射兼門下侍郎<pc>。</pc>
@@ -511,7 +520,10 @@
 </div>
 <div>
 <p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<num value="1">正月</num>
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="49">壬子</num>朔<pc>，</pc>受<num value="8">八</num>寶於大慶殿<pc>，</pc>赦天下<pc>，</pc>文武進位<num value="1">一</num>等<pc>。</pc>蔡京表賀符瑞<pc>。</pc>
 <num value="52">乙卯</num>
 <pc>，</pc>以婉儀劉氏為德妃<pc>。</pc>
@@ -635,7 +647,10 @@
 </div>
 <div>
 <p>　　<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>春<num value="1">正月</num>
+<num value="3">三</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="52">乙卯</num>
 <pc>，</pc>祔靖和皇后神主于別廟<pc>。</pc>
 <num value="56">己未</num>
@@ -768,7 +783,10 @@
 </div>
 <div>
 <p>　　<measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<num value="1">正月</num>
+<num value="4">四</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="40">癸卯</num>
 <pc>，</pc>罷改鑄當<num value="10">十</num>錢<pc>。</pc>
 <num value="58">辛酉</num>
@@ -920,7 +938,10 @@
 </p>
 </div>
 <div>
-<p>　　政和元年春<num value="1">正月</num>
+<p>　　政和元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="6">己巳</num>
 <pc>，</pc>以賢妃王氏為德妃<pc>。</pc>
 <num value="9">壬申</num>

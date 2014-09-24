@@ -558,7 +558,10 @@
 <num value="5">五</num>年</measure>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<pc>，</pc>以左丞相<pc>、</pc>贈太師<pc>、</pc>魯國公陳康伯配享孝宗廟庭<pc>。</pc>嘉熙元年<num value="1">正月</num>
+<pc>，</pc>以左丞相<pc>、</pc>贈太師<pc>、</pc>魯國公陳康伯配享孝宗廟庭<pc>。</pc>嘉熙元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>以右丞相<pc>、</pc>贈太師葛邲配享光宗廟庭<pc>。</pc>
 </p>
 </div>

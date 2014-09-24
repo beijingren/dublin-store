@@ -58,7 +58,10 @@
 <div>
 <p>　　<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>始冠<pc>。</pc>
 <measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
@@ -361,7 +364,10 @@
 </p>
 </div>
 <div>
-<p>　　慶元元年春<num value="1">正月</num>
+<p>　　慶元元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="54">丁巳</num>朔<pc>，</pc>蠲兩淮租稅<pc>。</pc>
 <num value="39">壬寅</num>
 <pc>，</pc>黎州蠻寇邊<pc>，</pc>官軍戰卻之<pc>。</pc>
@@ -524,7 +530,10 @@
 </div>
 <div>
 <p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<num value="1">正月</num>
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="27">庚寅</num>
 <pc>，</pc>以餘端禮爲左丞相<pc>，</pc>京鏜爲右丞相<pc>，</pc>鄭僑知樞密院事<pc>，</pc>謝深甫參知政事<pc>，</pc>御史中丞何澹同知樞密院事<pc>，</pc>
 <num value="37">庚子</num>
@@ -668,7 +677,10 @@
 </div>
 <div>
 <p>　　<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>春<num value="1">正月</num>
+<num value="3">三</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="39">壬寅</num>
 <pc>，</pc>鄭僑罷<pc>。</pc>
 <num value="40">癸卯</num>
@@ -803,7 +815,10 @@
 <div>
 <p>　　<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="16">己卯</num>
 <pc>，</pc>上欽宗皇后諡曰仁懷皇后<pc>。</pc>
 <num value="3">丙寅</num>
@@ -915,7 +930,10 @@
 </div>
 <div>
 <p>　　<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>春<num value="1">正月</num>
+<num value="5">五</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="37">庚子</num>
 <pc>，</pc>樞密院直省官蔡璉訴趙汝愚定策時有異謀<pc>，</pc>詔下大理捕鞫彭龜年<pc>、</pc>曾<num value="3">三</num>聘等<pc>，</pc>以實其事<pc>。</pc>中書舍人范仲藝力爭之于韓侂胄<pc>，</pc>事遂寢<pc>。</pc>張釜等復請窮治<pc>，</pc>詔停龜年<pc>、</pc>
 <num value="3">三</num>聘官<pc>。</pc>
@@ -1017,7 +1035,10 @@
 </div>
 <div>
 <p>　　<measure quantity="6" unit="years">
-<num value="6">六</num>年</measure>春<num value="1">正月</num>
+<num value="6">六</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="36">己亥</num>
 <pc>，</pc>子坦生<pc>。</pc>
 </p>

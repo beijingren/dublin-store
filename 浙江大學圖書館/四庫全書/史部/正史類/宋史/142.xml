@@ -1373,10 +1373,10 @@
 <pc>》</pc>
 <pc>、</pc>
 <pc>《</pc>
-<measure quantity="10000000" unit="years">
 <title>
-<num value="10000000">千萬</num>年</title>
-</measure>
+<measure quantity="10000000" unit="years">
+<num value="10000000">千萬</num>年</measure>
+</title>
 <pc>》</pc>
 <pc>。</pc>
 </p>
@@ -1787,10 +1787,10 @@
 <pc>》</pc>
 <pc>、</pc>
 <pc>《</pc>
-<measure quantity="1000" unit="years">
 <title>
-<num value="1000">千千</num>歲</title>
-</measure>
+<measure quantity="1000" unit="years">
+<num value="1000">千千</num>歲</measure>
+</title>
 <pc>》</pc>
 <pc>。</pc>
 </p>
@@ -2421,7 +2421,10 @@
 <pc>”</pc>從之<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>禮部奏<pc>：</pc>
 <pc>“</pc>教坊樂<pc>，</pc>春或用商聲<pc>，</pc>孟或用季律<pc>，</pc>甚失<num value="4">四</num>時之序<pc>。</pc>乞以大晟府<measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>所定聲律<pc>，</pc>令教坊閱習<pc>，</pc>仍令秘書省撰詞<pc>。</pc>

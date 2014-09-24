@@ -200,7 +200,10 @@
 <div>
 <p>　　<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>治遣使白思柔貢方物並謝賜經及御制<pc>。</pc>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
@@ -292,14 +295,20 @@
 <measure quantity="3" unit="years">
 <num value="3">三</num>歲</measure>
 <num value="1">一</num>試舉人<pc>，</pc>有進士<pc>、</pc>諸科<pc>、</pc>算學<pc>，</pc>每試<num value="100">百</num>餘人<pc>，</pc>登第者不過<num value="20">一二十</num>
-<pc>。</pc>每<num value="1">正月</num>
+<pc>。</pc>每<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
 <pc>、</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <measure quantity="5" unit="days">
-<num value="5">五</num>日</measure>祭祖禰廟<pc>。</pc>又<num value="1">正月</num>
+<num value="5">五</num>日</measure>祭祖禰廟<pc>。</pc>又<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="7" unit="days">
 <num value="7">七</num>日</measure>
 <pc>，</pc>家爲王母像戴之<pc>。</pc>

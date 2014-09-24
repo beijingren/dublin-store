@@ -30,10 +30,14 @@
 </div>
 <div>
 <p>　　<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>春<num value="1">正月</num>
+<num value="3">三</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="10">癸酉</num>朔<pc>，</pc>以出師不御殿<pc>。</pc>
 <num value="11">甲戌</num>
-<pc>，</pc>王全斌克劍門<pc>，</pc>斬首<num value="10000">萬</num>餘级<pc>，</pc>禽蜀樞密使王昭遠<pc>、</pc>澤州節度趙崇韜<pc>。</pc>
+<pc>，</pc>王全斌克劍門<pc>，</pc>斬首<num value="10000">萬</num>餘级<pc>，</pc>禽蜀樞密使王昭遠<pc>、</pc>
+<placeName>澤州</placeName>節度趙崇韜<pc>。</pc>
 <num value="12">乙亥</num>
 <pc>，</pc>詔瘗征蜀戰死士卒<pc>，</pc>被傷者給繒帛<pc>。</pc>
 <num value="19">壬午</num>
@@ -192,7 +196,10 @@
 </div>
 <div>
 <p>　　<measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<num value="1">正月</num>
+<num value="4">四</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="13">丙子</num>
 <pc>，</pc>遣使分詣江陵<pc>、</pc>鳳翔<pc>，</pc>賜蜀群臣家錢帛<pc>。</pc>
 <num value="24">丁亥</num>
@@ -349,7 +356,10 @@
 </div>
 <div>
 <p>　　<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>春<num value="1">正月</num>
+<num value="5">五</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="35">戊戌</num>
 <pc>，</pc>治河堤<pc>。</pc>
 <num value="44">丁未</num>
@@ -456,7 +466,10 @@
 </p>
 </div>
 <div>
-<p>　　開寶元年春<num value="1">正月</num>
+<p>　　開寶元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="31">甲午</num>
 <pc>，</pc>增治京城<pc>。</pc>陝之集津<pc>、</pc>絳之垣曲<pc>、</pc>懷之武陟飢<pc>，</pc>振之<pc>。</pc>
 <num value="36">己亥</num>
@@ -570,7 +583,10 @@
 </div>
 <div>
 <p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<num value="1">正月</num>
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="16">己卯</num>朔<pc>，</pc>以出師<pc>，</pc>不御殿<pc>。</pc>
 </p>
 </div>
@@ -734,7 +750,10 @@
 </div>
 <div>
 <p>　　<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>春<num value="1">正月</num>
+<num value="3">三</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="40">癸卯</num>朔<pc>，</pc>雨雪<pc>，</pc>不御殿<pc>。</pc>
 <num value="50">癸丑</num>
 <pc>，</pc>增河隄<pc>。</pc>
@@ -864,7 +883,10 @@
 </div>
 <div>
 <p>　　<measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<num value="1">正月</num>
+<num value="4">四</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="35">戊戌</num>朔<pc>，</pc>以出師<pc>，</pc>不視朝<pc>。</pc>
 <num value="43">丙午</num>
 <pc>，</pc>罷諸道州縣攝官<pc>。</pc>

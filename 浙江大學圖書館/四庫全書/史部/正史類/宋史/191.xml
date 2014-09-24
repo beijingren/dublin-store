@@ -142,7 +142,10 @@
 <measure quantity="15" unit="days">
 <num value="15">十五</num>日</measure>上<pc>，</pc>
 <measure quantity="10" unit="months">
-<num value="10">十</num>月</measure>罷；防春以<num value="1">正月</num>
+<num value="10">十</num>月</measure>罷；防春以<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="15" unit="days">
 <num value="15">十五</num>日</measure>上<pc>，</pc>
 <measure quantity="3" unit="months">
@@ -277,7 +280,10 @@
 <pc>，</pc>詔<pc>：</pc>
 <pc>“</pc>
 <num value="5">五</num>路義勇每年赴州教<pc>，</pc>保甲赴縣教<pc>，</pc>並自<measure quantity="10" unit="months">
-<num value="10">十</num>月</measure>至次年<num value="1">正月</num>終<pc>。</pc>義勇不及<num value="10">十</num>指揮<pc>、</pc>保甲不及<num value="10">十</num>都者<pc>，</pc>自<measure quantity="12" unit="months">
+<num value="10">十</num>月</measure>至次年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>終<pc>。</pc>義勇不及<num value="10">十</num>指揮<pc>、</pc>保甲不及<num value="10">十</num>都者<pc>，</pc>自<measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>起教<pc>，</pc>各據人數分定番次<pc>，</pc>教閱<measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>
 <pc>，</pc>不許拆破指揮<pc>、</pc>都保<pc>。</pc>其人數少處<pc>，</pc>隻作<num value="1">一</num>番<pc>、</pc>兩番<pc>，</pc>不須滿所教月分<pc>。</pc>其年已上番者<pc>，</pc>止教半月<pc>。</pc>
@@ -291,7 +297,10 @@
 <p>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>詔義勇<pc>、</pc>保甲逐年遇閱日比試所習武藝<pc>，</pc>
 <num value="5">五</num>路每州以<num value="20">二十</num>分為率取<num value="1">一</num>
 <pc>，</pc>分為<num value="5">五</num>等<pc>，</pc>第<num value="1">一</num>等解發<pc>。</pc>

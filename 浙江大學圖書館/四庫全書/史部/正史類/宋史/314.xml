@@ -149,11 +149,17 @@
 </p>
 </div>
 <div>
-<p>明年<num value="1">正月</num>
+<p>明年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>詔諸路入討<pc>，</pc>仲淹曰<pc>：</pc>
 <pc>「</pc>
 <quote>
-<num value="1">正月</num>塞外大寒<pc>，</pc>我師暴露<pc>，</pc>不如俟春深入<pc>，</pc>賊馬瘦人饑<pc>，</pc>勢易制也<pc>。</pc>況邊備漸修<pc>，</pc>師出有紀<pc>，</pc>賊雖猖獗<pc>，</pc>固已懾其氣矣<pc>。</pc>鄜<pc>、</pc>延密邇靈<pc>、</pc>夏<pc>，</pc>西羌必由之地也<pc>。</pc>第按兵不動<pc>，</pc>以觀其釁<pc>，</pc>許臣稍以恩信招來之<pc>。</pc>不然<pc>，</pc>情意阻絕<pc>，</pc>臣恐偃兵無期矣<pc>。</pc>若臣策不效<pc>，</pc>當舉兵先取綏<pc>、</pc>宥<pc>，</pc>據要害<pc>，</pc>屯兵營田<pc>，</pc>為持久計<pc>，</pc>則茶山<pc>、</pc>橫山之民<pc>，</pc>必挈族來歸矣<pc>。</pc>拓疆禦寇<pc>，</pc>策之上也<pc>。</pc>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>塞外大寒<pc>，</pc>我師暴露<pc>，</pc>不如俟春深入<pc>，</pc>賊馬瘦人饑<pc>，</pc>勢易制也<pc>。</pc>況邊備漸修<pc>，</pc>師出有紀<pc>，</pc>賊雖猖獗<pc>，</pc>固已懾其氣矣<pc>。</pc>鄜<pc>、</pc>延密邇靈<pc>、</pc>夏<pc>，</pc>西羌必由之地也<pc>。</pc>第按兵不動<pc>，</pc>以觀其釁<pc>，</pc>許臣稍以恩信招來之<pc>。</pc>不然<pc>，</pc>情意阻絕<pc>，</pc>臣恐偃兵無期矣<pc>。</pc>若臣策不效<pc>，</pc>當舉兵先取綏<pc>、</pc>宥<pc>，</pc>據要害<pc>，</pc>屯兵營田<pc>，</pc>為持久計<pc>，</pc>則茶山<pc>、</pc>橫山之民<pc>，</pc>必挈族來歸矣<pc>。</pc>拓疆禦寇<pc>，</pc>策之上也<pc>。</pc>
 </quote>
 <pc>」</pc>帝皆用其議<pc>。</pc>仲淹又請修承平<pc>、</pc>永平等砦<pc>，</pc>稍招還流亡<pc>，</pc>定堡障<pc>，</pc>通斥候<pc>，</pc>城<num value="12">十二</num>砦<pc>，</pc>於是羌漢之民<pc>，</pc>相踵歸業<pc>。</pc>
 </p>

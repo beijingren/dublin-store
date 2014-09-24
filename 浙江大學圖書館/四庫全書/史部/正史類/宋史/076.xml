@@ -335,7 +335,10 @@
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <num value="27">庚寅</num>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="6" unit="days">
 <num value="6">六</num>日</measure>
 <num value="31">甲午</num>雲陰不測<pc>。</pc>
@@ -375,7 +378,10 @@
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <num value="27">庚寅</num>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="21" unit="days">
 <num value="21">二十一</num>日</measure>
 <num value="46">己酉</num>雲陰不測</p>
@@ -387,7 +393,10 @@
 <p>　　<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <num value="28">辛卯</num>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="2" unit="days">
 <num value="2">二</num>日</measure>
 <num value="51">甲寅</num>
@@ -404,7 +413,10 @@
 <p>　　<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <num value="29">壬辰</num>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="12" unit="days">
 <num value="12">十二</num>日</measure>
 <num value="56">己未</num>
@@ -436,7 +448,10 @@
 <p>　　<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <num value="28">辛卯</num>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="17" unit="days">
 <num value="17">十七</num>日</measure>
 <num value="6">己巳</num>
@@ -453,7 +468,10 @@
 <p>　　<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <num value="29">壬辰</num>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="28" unit="days">
 <num value="28">二十八</num>日</measure>
 <num value="12">乙亥</num>雲陰不測</p>
@@ -1184,7 +1202,10 @@
 <num value="2">二</num>氣各退<measure quantity="2" unit="days">
 <num value="2">二</num>日</measure>
 <num value="12">十二</num>刻<pc>，</pc>則晷景之數<pc>，</pc>立冬更短<pc>，</pc>立春更長<pc>，</pc>並差<num value="2">二</num>寸<pc>，</pc>
-<num value="2">二</num>氣中景俱長<num value="9">九</num>尺<num value="8">八</num>寸矣<pc>，</pc>即立冬<pc>、</pc>立春之<num value="1">正日</num>也<pc>。</pc>以此推之<pc>，</pc>曆置冬至後天亦<measure quantity="2" unit="days">
+<num value="2">二</num>氣中景俱長<num value="9">九</num>尺<num value="8">八</num>寸矣<pc>，</pc>即立冬<pc>、</pc>立春之<measure quantity="1" unit="day">
+<num value="1">
+<num value="1">正</num>日</num>
+</measure>也<pc>。</pc>以此推之<pc>，</pc>曆置冬至後天亦<measure quantity="2" unit="days">
 <num value="2">二</num>日</measure>
 <num value="12">十二</num>刻也<pc>。</pc>熹平<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>

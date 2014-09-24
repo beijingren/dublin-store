@@ -164,7 +164,10 @@
 <pc>，</pc>遂詔諸州依條發解<pc>，</pc>
 <measure quantity="12" unit="years">
 <num value="12">十二</num>年</measure>
-<num value="1">正月</num>省試<pc>，</pc>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>省試<pc>，</pc>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>禦試<pc>，</pc>後皆準此<pc>。</pc>
 </p>
@@ -549,7 +552,10 @@
 <num value="2">二</num>月</measure>
 <measure quantity="21" unit="days">
 <num value="21">二十一</num>日</measure>
-<pc>，</pc>與降詔日相逼<pc>，</pc>遂改用<num value="1">正月</num>
+<pc>，</pc>與降詔日相逼<pc>，</pc>遂改用<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="15" unit="days">
 <num value="15">十五</num>日</measure>奏裁降詔<pc>。</pc>
 </p>

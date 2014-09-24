@@ -151,7 +151,10 @@
 <num value="2">二</num>年</measure>
 <pc>，</pc>守信上言<pc>：</pc>
 <pc>“</pc>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>為<measure quantity="1" unit="year">
 <num value="1">一</num>歲</measure>之首<pc>。</pc>每月<measure quantity="8" unit="days">

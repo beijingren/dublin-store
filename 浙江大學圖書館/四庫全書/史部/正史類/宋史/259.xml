@@ -200,7 +200,10 @@
 </p>
 </div>
 <div>
-<p>明年<num value="1">正月</num>
+<p>明年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>次遂州<pc>，</pc>州將陳俞率吏民來降<pc>。</pc>盡出府庫金帛以給將士<pc>。</pc>初出師也<pc>，</pc>太祖命之曰<pc>：</pc>
 <pc>“</pc>所得郡縣<pc>，</pc>當傾帑藏<pc>，</pc>為朕賞戰士<pc>，</pc>國家所收唯土疆爾<pc>。</pc>
 <pc>”</pc>故人皆效命<pc>，</pc>所至成功<pc>。</pc>蜀平<pc>，</pc>王全斌等皆坐縱部下掠奪子女玉帛及納賄賂左降<pc>，</pc>惟廷讓秋毫無犯<pc>。</pc>及全師雄等作亂<pc>，</pc>郡縣相應<pc>，</pc>寇盜蜂起<pc>。</pc>廷讓又與曹彬破之<pc>，</pc>以功改領鎮安軍節度<pc>，</pc>從征太原<pc>。</pc>開寶<measure quantity="6" unit="years">
@@ -286,7 +289,10 @@
 <pc>，</pc>移鎮河陽<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>遣將征太原<pc>，</pc>分命攻城<pc>，</pc>以彥進與郢州防禦使尹勳攻其東<pc>，</pc>彰德軍節度李漢瓊<pc>、</pc>冀州<term>刺史</term>牛思進攻其南<pc>，</pc>桂州觀察使曹翰<pc>、</pc>翰林使杜彥圭攻其西<pc>，</pc>彰信軍節度劉遇<pc>、</pc>光州<term>刺史</term>史珪攻其北<pc>。</pc>彥進督戰甚急<pc>，</pc>太祖嘉之<pc>。</pc>晉陽平<pc>，</pc>從征幽州<pc>，</pc>又與內供奉官江守鈞率兵攻城之西北<pc>。</pc>及班師<pc>，</pc>詔彥進與西上閣門副使薛繼興<pc>、</pc>閣門祗候李守斌領兵屯關南<pc>，</pc>以功加檢校太尉<pc>。</pc>是秋<pc>，</pc>契丹侵遂城<pc>，</pc>彥進與劉廷翰<pc>、</pc>崔翰等擊破之<pc>，</pc>斬首<num value="10000">萬</num>級<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
@@ -296,7 +302,10 @@
 <div>
 <p>雍熙<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>命將北伐<pc>，</pc>分兵<num value="3">三</num>路<pc>，</pc>詔彥進為幽州道行營馬步軍水陸副都部署<pc>，</pc>與曹彬<pc>、</pc>米信出雄州<pc>。</pc>大軍失利<pc>，</pc>彥進坐違彬節製<pc>，</pc>別道回軍<pc>，</pc>為敵所敗<pc>，</pc>召還<pc>，</pc>貶右武衛上將軍<pc>，</pc>事具彬傳<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>春<pc>，</pc>授保靜軍節度<pc>。</pc>端拱元年<pc>，</pc>被病<pc>，</pc>召歸闕<pc>，</pc>卒<pc>，</pc>年<num value="67">六十七</num>
@@ -314,7 +323,8 @@
 </p>
 </div>
 <div>
-<p>張廷翰<pc>，</pc>澤州陵川人<pc>。</pc>初為漢祖親校<pc>。</pc>漢祖入汴<pc>，</pc>補內殿直<pc>，</pc>遷東西班軍使<pc>。</pc>周初<pc>，</pc>改護聖指揮使<pc>。</pc>從世宗平淮甸<pc>，</pc>以功遷鐵騎右第<num value="2">二</num>軍都<term>虞候</term>
+<p>張廷翰<pc>，</pc>
+<placeName>澤州</placeName>陵川人<pc>。</pc>初為漢祖親校<pc>。</pc>漢祖入汴<pc>，</pc>補內殿直<pc>，</pc>遷東西班軍使<pc>。</pc>周初<pc>，</pc>改護聖指揮使<pc>。</pc>從世宗平淮甸<pc>，</pc>以功遷鐵騎右第<num value="2">二</num>軍都<term>虞候</term>
 <pc>。</pc>顯德末<pc>，</pc>改殿前散都頭都<term>虞候</term>
 <pc>。</pc>宋初<pc>，</pc>權為鐵騎左第<num value="2">二</num>軍都校<pc>、</pc>領開州<term>刺史</term>
 <pc>。</pc>從平<placeName>揚州</placeName>

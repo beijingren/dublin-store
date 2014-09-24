@@ -239,7 +239,8 @@
 </p>
 </div>
 <div>
-<p>劉崇人寇<pc>，</pc>遣馬軍樊愛能<pc>、</pc>步軍何徽赴澤州<pc>，</pc>令拱監護之<pc>。</pc>世宗親征<pc>，</pc>拱以精騎居陣中<pc>。</pc>高平之捷<pc>，</pc>以功兼義成軍節度<pc>、</pc>河東行營前軍都監<pc>。</pc>師還<pc>，</pc>出鎮陳州<pc>。</pc>
+<p>劉崇人寇<pc>，</pc>遣馬軍樊愛能<pc>、</pc>步軍何徽赴<placeName>澤州</placeName>
+<pc>，</pc>令拱監護之<pc>。</pc>世宗親征<pc>，</pc>拱以精騎居陣中<pc>。</pc>高平之捷<pc>，</pc>以功兼義成軍節度<pc>、</pc>河東行營前軍都監<pc>。</pc>師還<pc>，</pc>出鎮陳州<pc>。</pc>
 </p>
 </div>
 <div>
@@ -272,7 +273,7 @@
 <div>
 <p>宋初<pc>，</pc>加兼侍中<pc>。</pc>太祖征李筠<pc>，</pc>拱迎謁至汜水<pc>，</pc>言於上曰<pc>：</pc>
 <pc>“</pc>筠逆節久著<pc>，</pc>兵力日盛<pc>，</pc>陛下宜急濟大河<pc>，</pc>逾太行<pc>，</pc>乘其未集而誅之<pc>，</pc>緩則勢張<pc>，</pc>難為力矣<pc>。</pc>
-<pc>”</pc>帝從其言<pc>，</pc>卷甲倍道趨之<pc>。</pc>筠果率兵南向<pc>，</pc>聞車駕至<pc>，</pc>惶駭走澤州城守<pc>，</pc>遂見擒<pc>。</pc>乾德初<pc>，</pc>從郊祀畢<pc>，</pc>封譙國公<pc>。</pc>
+<pc>”</pc>帝從其言<pc>，</pc>卷甲倍道趨之<pc>。</pc>筠果率兵南向<pc>，</pc>聞車駕至<pc>，</pc>惶駭走<placeName>澤州</placeName>城守<pc>，</pc>遂見擒<pc>。</pc>乾德初<pc>，</pc>從郊祀畢<pc>，</pc>封譙國公<pc>。</pc>
 </p>
 </div>
 <div>
@@ -615,7 +616,10 @@
 <p>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="13" unit="days">
 <num value="13">十三</num>日</measure>
 <pc>，</pc>師次魏城<pc>，</pc>孟昶遣使奉表來降<pc>，</pc>全斌等入成都<pc>。</pc>旬餘<pc>，</pc>劉廷讓等始自峽路至<pc>。</pc>昶饋遺廷讓等及犒師<pc>，</pc>並同全斌之至<pc>。</pc>及詔書頒賞<pc>，</pc>諸軍亦無差降<pc>。</pc>由是兩路兵相嫉<pc>，</pc>蜀人亦構<pc>，</pc>主帥遂不協<pc>。</pc>全斌等先受詔<pc>，</pc>每製置必須諸將僉議<pc>，</pc>至是<pc>，</pc>雖小事不能即決<pc>。</pc>
@@ -713,8 +717,10 @@
 <p>經略使明鎬言凱在河外<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
 <pc>，</pc>有功<pc>，</pc>遂領資州<term>刺史</term>
-<pc>。</pc>久之召還<pc>，</pc>未及見<pc>，</pc>會甘陵盜起<pc>，</pc>即命領兵赴城下<pc>。</pc>賊平<pc>，</pc>拜澤州<term>刺史</term>
-<pc>、</pc>知邠州<pc>。</pc>未幾<pc>，</pc>為神龍衛<num value="4">四</num>廂都指揮使<pc>、</pc>澤州團練使<pc>，</pc>曆環慶<pc>、</pc>並代<pc>、</pc>定州路副都總管<pc>，</pc>捧日天武<num value="4">四</num>廂<pc>、</pc>綿州防禦使<pc>，</pc>累遷侍衛親軍步軍副都指揮使<pc>、</pc>涇州觀察使<pc>。</pc>又徙秦鳳路<pc>，</pc>辭日<pc>，</pc>帝諭以唃氏木征<pc>，</pc>交易阻絕<pc>，</pc>頗有入寇之萌<pc>，</pc>宜安靜以處之<pc>。</pc>凱至<pc>，</pc>與主帥以恩信撫接<pc>，</pc>遂複常貢<pc>。</pc>召拜武勝軍節度觀察留後<pc>、</pc>侍衛親軍馬軍副都指揮使<pc>。</pc>卒<pc>，</pc>年<num value="66">六十六</num>
+<pc>。</pc>久之召還<pc>，</pc>未及見<pc>，</pc>會甘陵盜起<pc>，</pc>即命領兵赴城下<pc>。</pc>賊平<pc>，</pc>拜<placeName>澤州</placeName>
+<term>刺史</term>
+<pc>、</pc>知邠州<pc>。</pc>未幾<pc>，</pc>為神龍衛<num value="4">四</num>廂都指揮使<pc>、</pc>
+<placeName>澤州</placeName>團練使<pc>，</pc>曆環慶<pc>、</pc>並代<pc>、</pc>定州路副都總管<pc>，</pc>捧日天武<num value="4">四</num>廂<pc>、</pc>綿州防禦使<pc>，</pc>累遷侍衛親軍步軍副都指揮使<pc>、</pc>涇州觀察使<pc>。</pc>又徙秦鳳路<pc>，</pc>辭日<pc>，</pc>帝諭以唃氏木征<pc>，</pc>交易阻絕<pc>，</pc>頗有入寇之萌<pc>，</pc>宜安靜以處之<pc>。</pc>凱至<pc>，</pc>與主帥以恩信撫接<pc>，</pc>遂複常貢<pc>。</pc>召拜武勝軍節度觀察留後<pc>、</pc>侍衛親軍馬軍副都指揮使<pc>。</pc>卒<pc>，</pc>年<num value="66">六十六</num>
 <pc>。</pc>贈彰武軍<term>節度使</term>
 <pc>，</pc>諡莊恪<pc>。</pc>
 </p>

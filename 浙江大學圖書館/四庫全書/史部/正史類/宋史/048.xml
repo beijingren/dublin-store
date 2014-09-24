@@ -84,7 +84,10 @@
 <pc>，</pc>
 <pc>「</pc>
 <quote>
-<num value="1">正月</num>繁霜<pc>，</pc>我心憂傷</quote>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>繁霜<pc>，</pc>我心憂傷</quote>
 <pc>」</pc>
 <pc>，</pc>以及<pc>「</pc>
 <quote>彼月而微<pc>，</pc>此日而微</quote>
@@ -144,7 +147,10 @@
 <div>
 <p>　　太平興國<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>巴中人張思訓創作以獻<pc>。</pc>太宗召工造於禁中<pc>，</pc>逾年而成<pc>，</pc>詔置於文明殿東鼓樓下<pc>。</pc>其制<pc>：</pc>起樓高丈餘<pc>，</pc>機隱於內<pc>，</pc>規天矩地<pc>。</pc>下設地輪<pc>、</pc>地足；又爲橫輪<pc>、</pc>側輪<pc>、</pc>斜輪<pc>、</pc>定身關<pc>、</pc>中關<pc>、</pc>小關<pc>、</pc>天柱；<num value="7">七</num>直神<pc>，</pc>左搖鈴<pc>，</pc>右扣鐘<pc>，</pc>中擊鼓<pc>，</pc>以定刻數<pc>，</pc>每<num value="1">一</num>晝夜周而復始<pc>。</pc>又以木爲<num value="12">十二</num>神<pc>，</pc>各直<num value="1">一</num>時<pc>，</pc>至其時則自執辰牌<pc>，</pc>迴圈而出<pc>，</pc>隨刻數以定晝夜短長<pc>。</pc>上有天頂<pc>、</pc>天牙<pc>、</pc>天關<pc>、</pc>天指<pc>、</pc>天抱<pc>、</pc>天束<pc>、</pc>天條<pc>，</pc>布<num value="365">三百六十五</num>度<pc>，</pc>爲日<pc>、</pc>月<pc>、</pc>
 <num value="5">五</num>星<pc>、</pc>紫微宮<pc>、</pc>列宿<pc>、</pc>鬥建<pc>、</pc>黃赤道<pc>，</pc>以日行度定寒暑進退<pc>。</pc>開元遺法<pc>，</pc>運轉以水<pc>，</pc>至冬中凝凍遲澀<pc>，</pc>遂爲疏略<pc>，</pc>寒暑無准<pc>。</pc>今以水銀代之<pc>，</pc>則無差失<pc>。</pc>冬至之日<pc>，</pc>日在黃道表<pc>，</pc>去北極最遠<pc>，</pc>爲小寒<pc>，</pc>晝短夜長<pc>。</pc>夏至之日<pc>，</pc>日在赤道裏<pc>，</pc>去北極最近<pc>，</pc>爲小暑<pc>，</pc>晝長夜短<pc>。</pc>春秋<num value="2">二</num>分<pc>，</pc>日在兩交<pc>，</pc>春和秋涼<pc>，</pc>晝夜平分<pc>。</pc>寒暑進退<pc>，</pc>皆由於此<pc>。</pc>並著日月象<pc>，</pc>皆取仰視<pc>。</pc>按舊法<pc>，</pc>日月晝夜行度皆人所運行<pc>。</pc>新製成于自然<pc>，</pc>尤爲精妙<pc>。</pc>以思訓爲司天渾儀丞<pc>。</pc>
 </p>
@@ -454,7 +460,10 @@
 <div>
 <p>　　中興更謀製作<pc>，</pc>紹興<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>工部員外郎袁正功獻渾儀木樣<pc>，</pc>太史局令丁師仁始請募工鑄造<pc>，</pc>且言<pc>：</pc>
 <pc>「</pc>
 <quote>東京舊儀用銅<num value="20000">二萬</num>餘<pc>，</pc>今請折半用<num value="8000">八千</num>斤有奇<pc>。</pc>
@@ -555,7 +564,10 @@
 <div>
 <p>　　土圭<pc>《</pc>
 <title>周官</title>
-<pc>》</pc>大司徒以土圭之法<num value="1">正日</num>景<pc>，</pc>以求地中<pc>。</pc>而馮相氏春夏致日<pc>，</pc>秋冬致月<pc>，</pc>以辨<num value="4">四</num>時<pc>。</pc>
+<pc>》</pc>大司徒以土圭之法<measure quantity="1" unit="day">
+<num value="1">
+<num value="1">正</num>日</num>
+</measure>景<pc>，</pc>以求地中<pc>。</pc>而馮相氏春夏致日<pc>，</pc>秋冬致月<pc>，</pc>以辨<num value="4">四</num>時<pc>。</pc>
 </p>
 </div>
 </p>

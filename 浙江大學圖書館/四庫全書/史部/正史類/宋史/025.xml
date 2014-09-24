@@ -26,7 +26,10 @@
 <p>
 <div>
 <p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<num value="1">正月</num>
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="23">丙戌</num>朔<pc>，</pc>帝在<placeName>揚州</placeName>
 <pc>。</pc>
 <num value="24">丁亥</num>
@@ -316,7 +319,10 @@
 </div>
 <div>
 <p>　　<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>春<num value="1">正月</num>
+<num value="3">三</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="17">庚辰</num>朔<pc>，</pc>帝在<placeName>揚州</placeName>
 <pc>。</pc>以京西北路兵馬鈐轄翟興為河南尹<pc>、</pc>京西北路安撫制置兼招討使<pc>。</pc>京西賊貴仲正陷嶽州<pc>。</pc>
 <num value="21">甲申</num>

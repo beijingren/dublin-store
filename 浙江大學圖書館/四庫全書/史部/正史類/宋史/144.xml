@@ -136,7 +136,10 @@
 <num value="4">四</num>孟詣景靈宮<pc>，</pc>用殿前司<num value="875">八百七十五</num>人<pc>，</pc>皇城在內巡檢司<num value="528">五百二十八</num>人<pc>，</pc>崇政殿<num value="521">五百二十一</num>人<pc>，</pc>凡<num value="1924">一千九百二十四</num>人<pc>。</pc>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>詔<pc>：</pc>駕出禦後殿坐<pc>，</pc>宰執<pc>、</pc>
 <num value="100">百</num>官<pc>、</pc>儀衛等赴後殿<pc>，</pc>起居殿上；登輦<pc>，</pc>出後殿門<pc>，</pc>駕回<pc>，</pc>入祥曦殿門<pc>。</pc>
 </p>

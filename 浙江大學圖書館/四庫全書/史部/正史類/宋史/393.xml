@@ -208,11 +208,17 @@
 <p>遷嘉王府翊善<pc>，</pc>講<pc>《</pc>
 <title>春秋</title>
 <pc>》</pc>
-<pc>“</pc>王<num value="1">正月</num>
+<pc>“</pc>王<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>”</pc>曰<pc>：</pc>
 <pc>“</pc>周之王<pc>，</pc>即今之帝也<pc>。</pc>王不能號令諸侯<pc>，</pc>則王不足為王；帝不能統禦郡鎮<pc>，</pc>則帝不足為帝<pc>。</pc>今之郡縣<pc>，</pc>即古諸侯也<pc>。</pc>周之王惟不能號令諸侯<pc>，</pc>故<pc>《</pc>
 <title>春秋</title>
-<pc>》</pc>必書 ‘王<num value="1">正月</num>’<pc>，</pc>所以<num value="1">一</num>諸侯之正朔<pc>。</pc>今天下境土<pc>，</pc>比祖宗時不能<num value="10">十</num>之<num value="4">四</num>
+<pc>》</pc>必書 ‘王<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>’<pc>，</pc>所以<num value="1">一</num>諸侯之正朔<pc>。</pc>今天下境土<pc>，</pc>比祖宗時不能<num value="10">十</num>之<num value="4">四</num>
 <pc>，</pc>然猶跨吳<pc>、</pc>蜀<pc>、</pc>荊<pc>、</pc>廣<pc>、</pc>閩<pc>、</pc>越<measure quantity="200" unit="prefectures">
 <num value="200">二百</num>州</measure>
 <pc>，</pc>任吾民者<pc>，</pc>
@@ -779,7 +785,10 @@
 <pc>，</pc>參知政事<pc>。</pc>光宗以疾不朝垂華宮<pc>，</pc>會慶節稱壽又不果往<pc>。</pc>騤<num value="3">三</num>入奏<pc>，</pc>廷臣上疏者以<num value="100">百</num>數<pc>，</pc>上感悟<pc>，</pc>以冬至日朝重華<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<num value="1">正月</num>朔旦<pc>，</pc>稱壽于慈福宮<pc>。</pc>孝宗崩<pc>，</pc>光宗以疾未臨喪<pc>，</pc>騤請正儲位以安人心<pc>。</pc>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>朔旦<pc>，</pc>稱壽于慈福宮<pc>。</pc>孝宗崩<pc>，</pc>光宗以疾未臨喪<pc>，</pc>騤請正儲位以安人心<pc>。</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <pc>，</pc>攝行<num value="3">三</num>省事<pc>。</pc>

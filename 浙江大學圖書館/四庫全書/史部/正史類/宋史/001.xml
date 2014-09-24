@@ -148,7 +148,10 @@
 </p>
 </div>
 <div>
-<p>　　建隆元年春<num value="1">正月</num>
+<p>　　建隆元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="42">乙巳</num>
 <pc>，</pc>大赦<pc>，</pc>改元<pc>，</pc>定有天下之號曰宋<pc>。</pc>賜內外<num value="100">百</num>官軍士爵賞<pc>，</pc>貶降者敘復<pc>，</pc>流配者釋放<pc>，</pc>父母該恩者封贈<pc>。</pc>遣使徧告郡國<pc>。</pc>
 <num value="43">丙午</num>
@@ -254,7 +257,9 @@
 <pc>，</pc>發京師<pc>。</pc>
 <num value="4">丁卯</num>
 <pc>，</pc>石守信<pc>、</pc>
-<persName>高懷德</persName>破筠眾于澤州<pc>，</pc>禽偽節度范守圖<pc>，</pc>殺北漢援兵之降者數<num value="1000">千</num>人<pc>，</pc>筠遁入澤州<pc>。</pc>
+<persName>高懷德</persName>破筠眾于<placeName>澤州</placeName>
+<pc>，</pc>禽偽節度范守圖<pc>，</pc>殺北漢援兵之降者數<num value="1000">千</num>人<pc>，</pc>筠遁入<placeName>澤州</placeName>
+<pc>。</pc>
 <num value="5">戊辰</num>
 <pc>，</pc>王師圍之<pc>。</pc>
 </p>
@@ -265,9 +270,10 @@
 <num value="10">癸酉</num>
 <pc>，</pc>有星赤色出心<pc>。</pc>
 <num value="8">辛未</num>
-<pc>，</pc>拔澤州<pc>，</pc>筠赴火死<pc>，</pc>命埋胔骼<pc>。</pc>釋河東相衛融<pc>，</pc>禁剽掠<pc>。</pc>
+<pc>，</pc>拔<placeName>澤州</placeName>
+<pc>，</pc>筠赴火死<pc>，</pc>命埋胔骼<pc>。</pc>釋河東相衛融<pc>，</pc>禁剽掠<pc>。</pc>
 <num value="21">甲申</num>
-<pc>，</pc>免澤州今年租<pc>。</pc>有星赤色出太微垣<pc>，</pc>歷上相<pc>。</pc>
+<pc>，</pc>免<placeName>澤州</placeName>今年租<pc>。</pc>有星赤色出太微垣<pc>，</pc>歷上相<pc>。</pc>
 <num value="22">乙酉</num>
 <pc>，</pc>伐上黨<pc>。</pc>
 <num value="24">丁亥</num>
@@ -396,7 +402,10 @@
 </div>
 <div>
 <p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<num value="1">正月</num>
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="33">丙申</num>朔<pc>，</pc>上詣太后宮門稱慶<pc>。</pc>
 <num value="37">庚子</num>
 <pc>，</pc>占城國王遣使來朝<pc>。</pc>
@@ -418,7 +427,9 @@
 <pc>、</pc>野馬<num value="2">二</num>
 <pc>。</pc>
 <num value="1">甲子</num>
-<pc>，</pc>澤州<term>刺史</term>張崇詁坐黨李重進棄市<pc>。</pc>
+<pc>，</pc>
+<placeName>澤州</placeName>
+<term>刺史</term>張崇詁坐黨李重進棄市<pc>。</pc>
 </p>
 </div>
 <div>
@@ -600,7 +611,10 @@
 </div>
 <div>
 <p>　　<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>春<num value="1">正月</num>
+<num value="3">三</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="57">庚申</num>朔<pc>，</pc>以喪不受朝賀<pc>。</pc>己已<pc>，</pc>淮南饑<pc>，</pc>振之<pc>。</pc>
 <num value="7">庚午</num>
 <pc>，</pc>幸迎春苑宴射<pc>。</pc>
@@ -806,7 +820,10 @@
 </p>
 </div>
 <div>
-<p>　　乾德元年春<num value="1">正月</num>
+<p>　　乾德元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="51">甲寅</num>朔<pc>，</pc>不御殿<pc>。</pc>
 <num value="52">乙卯</num>
 <pc>，</pc>發關西鄉兵赴慶州<pc>。</pc>
@@ -1066,7 +1083,10 @@
 </div>
 <div>
 <p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<num value="1">正月</num>
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="18">辛巳</num>
 <pc>，</pc>諭郡國長吏勸農耕作<pc>。</pc>有象入南陽<pc>，</pc>虞人殺之<pc>，</pc>以齒<pc>、</pc>革來獻<pc>。</pc>京師雨雪<pc>、</pc>雷<pc>。</pc>
 <num value="20">癸未</num>

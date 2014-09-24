@@ -426,7 +426,10 @@
 <p>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>孝宗疾革<pc>，</pc>正數請車駕過宮<pc>。</pc>
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>

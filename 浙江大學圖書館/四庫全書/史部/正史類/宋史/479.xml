@@ -113,7 +113,10 @@
 <p>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>昶遣其通奏伊審征齎表詣全斌請降<pc>，</pc>且言<pc>：</pc>
 <pc>“</pc>中外骨肉<num value="200">二百</num>餘人<pc>，</pc>有親年幾<num value="70">七十</num>
 <pc>，</pc>願終甘旨之養<pc>，</pc>免賜睽離之責<pc>，</pc>則祖宗血食庶獲少延<pc>。</pc>
@@ -239,7 +242,10 @@
 <div>
 <p>初<pc>，</pc>昶在蜀專務奢靡<pc>，</pc>為<num value="7">七</num>寶溺器<pc>，</pc>他物稱是<pc>。</pc>每歲除<pc>，</pc>命學士為詞<pc>，</pc>題桃符<pc>，</pc>置寢門左右<pc>。</pc>末年<pc>，</pc>學士幸寅遜撰詞<pc>，</pc>昶以其非工<pc>，</pc>自命筆題雲<pc>：</pc>
 <pc>“</pc>新年納餘慶<pc>，</pc>喜節號長春<pc>。</pc>
-<pc>”</pc>以其年<num value="1">正月</num>
+<pc>”</pc>以其年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="11" unit="days">
 <num value="11">十一</num>日</measure>降<pc>，</pc>太祖命呂餘慶知成都府<pc>，</pc>而<pc>“</pc>長春<pc>”</pc>乃聖節名也<pc>。</pc>又昶襲位後<pc>，</pc>民質錢取息者<pc>，</pc>將徙居<pc>，</pc>必署其門曰<pc>：</pc>
 <pc>“</pc>召主收贖<pc>。</pc>
