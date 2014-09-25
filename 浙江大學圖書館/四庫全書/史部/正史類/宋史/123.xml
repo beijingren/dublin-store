@@ -118,7 +118,7 @@
 <num value="3">三</num>月</measure>
 <measure quantity="27" unit="days">
 <num value="27">二十七</num>日</measure>
-<pc>，</pc>孝明皇后啟欑宮<pc>，</pc>群臣服初喪之服；明日<pc>，</pc>孝惠皇后自幄殿發引<pc>。</pc>皆設遣奠<pc>，</pc>讀哀冊<pc>。</pc>
+<pc>，</pc>孝明皇后啟欑宮<pc>，</pc>群臣服初喪之服<pc>；</pc>明日<pc>，</pc>孝惠皇后自幄殿發引<pc>。</pc>皆設遣奠<pc>，</pc>讀哀冊<pc>。</pc>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <measure quantity="9" unit="days">
@@ -143,7 +143,10 @@
 <pc>，</pc>上諡曰孝章皇后<pc>。</pc>以歲在未<pc>，</pc>有忌<pc>，</pc>權欑于趙村沙台<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="20" unit="days">
 <num value="20">二十</num>日</measure>
 <pc>，</pc>祔葬永昌陵之北<pc>。</pc>皇堂<pc>、</pc>陵台<pc>、</pc>神牆<pc>、</pc>乳台<pc>、</pc>鵲台並如孝明園陵制度<pc>，</pc>仍以故許王及夫人李氏<pc>、</pc>魏王夫人王氏<pc>、</pc>楚王夫人馮氏<pc>、</pc>皇太子亡妻莒國夫人潘氏<pc>、</pc>將軍惟正之妻裴氏陪葬<pc>。</pc>
@@ -304,7 +307,8 @@
 <num value="4">四</num>面各長<num value="65">六十五</num>步<pc>。</pc>乳台高<num value="1">一</num>丈<num value="9">九</num>尺<pc>，</pc>至南神門<num value="45">四十五</num>步<pc>。</pc>鵲台高<num value="2">二</num>丈<num value="3">三</num>尺<pc>，</pc>至乳台<num value="45">四十五</num>步<pc>。</pc>詔下宮更不修蓋<pc>，</pc>餘依<pc>。</pc>
 <measure quantity="27" unit="days">
 <num value="27">二十七</num>日</measure>
-<pc>，</pc>以<term>宰臣</term>張士遜為山園使<pc>。</pc>是日<pc>，</pc>翰林學士馮元請上尊諡；<measure quantity="9" unit="months">
+<pc>，</pc>以<term>宰臣</term>張士遜為山園使<pc>。</pc>是日<pc>，</pc>翰林學士馮元請上尊諡<pc>；</pc>
+<measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <measure quantity="4" unit="days">
 <num value="4">四</num>日</measure>
@@ -342,7 +346,10 @@
 <pc>」</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="16" unit="days">
 <num value="16">十六</num>日</measure>
 <pc>，</pc>上諡<pc>。</pc>
@@ -396,12 +403,15 @@
 <div>
 <p>　　<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="14" unit="days">
 <num value="14">十四</num>日</measure>
 <pc>，</pc>上諡<pc>。</pc>太常禮院言<pc>：</pc>
 <pc>「</pc>
-<quote>大行太皇太后雖已有諡<pc>，</pc>然山陵未畢<pc>，</pc>俟掩皇堂<pc>，</pc>去'大行'<pc>，</pc>稱慈聖光獻太皇太后；祔廟題神主<pc>，</pc>仍去<num value="2">二</num>'太'字<pc>。</pc>
+<quote>大行太皇太后雖已有諡<pc>，</pc>然山陵未畢<pc>，</pc>俟掩皇堂<pc>，</pc>去'大行'<pc>，</pc>稱慈聖光獻太皇太后<pc>；</pc>祔廟題神主<pc>，</pc>仍去<num value="2">二</num>'太'字<pc>。</pc>
 </quote>
 <pc>」</pc>
 </p>
@@ -410,9 +420,9 @@
 <p>　　秘閣校理何洵直言<pc>：</pc>
 <pc>「</pc>
 <quote>按禮<pc>，</pc>既葬<pc>，</pc>日中還<pc>，</pc>虞於正寢<pc>。</pc>蓋古者之葬<pc>，</pc>近在國城之北<pc>，</pc>故可以平旦而往<pc>，</pc>至日中即虞於寢<pc>，</pc>所謂葬日虞<pc>，</pc>弗忍<measure quantity="1" unit="day">
-<num value="1">一</num>日</measure>離也<pc>。</pc>後世之葬<pc>，</pc>其地既遠<pc>，</pc>則禮有不能盡如古者<pc>。</pc>今大行太皇太后葬日至第<num value="6">六</num>虞<pc>，</pc>自當行之於外<pc>，</pc>如舊儀；其<num value="7">七</num>虞及<num value="9">九</num>虞<pc>、</pc>卒哭<pc>，</pc>謂宜行之于慶壽殿<pc>。</pc>又按<pc>《</pc>
+<num value="1">一</num>日</measure>離也<pc>。</pc>後世之葬<pc>，</pc>其地既遠<pc>，</pc>則禮有不能盡如古者<pc>。</pc>今大行太皇太后葬日至第<num value="6">六</num>虞<pc>，</pc>自當行之於外<pc>，</pc>如舊儀<pc>；</pc>其<num value="7">七</num>虞及<num value="9">九</num>虞<pc>、</pc>卒哭<pc>，</pc>謂宜行之于慶壽殿<pc>。</pc>又按<pc>《</pc>
 <title>春秋公羊傳</title>
-<pc>》</pc>曰<pc>：</pc> '虞主用桑<pc>。</pc>'<pc>《</pc>
+<pc>》</pc>曰<pc>：</pc>'虞主用桑<pc>。</pc>'<pc>《</pc>
 <title>士虞禮</title>
 <pc>》</pc>曰<pc>：</pc>'桑主不文<pc>。</pc>'伏請罷題虞主<pc>。</pc>
 </quote>
@@ -459,7 +469,10 @@
 <pc>」</pc>
 <measure quantity="14" unit="days">
 <num value="14">十四</num>日</measure>
-<pc>，</pc>詔園陵依慈聖光獻太皇太后之制<pc>。</pc>紹聖元年<num value="1">正月</num>
+<pc>，</pc>詔園陵依慈聖光獻太皇太后之制<pc>。</pc>紹聖元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="28" unit="days">
 <num value="28">二十八</num>日</measure>
 <pc>，</pc>禮部言<pc>：</pc>
@@ -475,7 +488,10 @@
 </p>
 </div>
 <div>
-<p>　　神宗欽聖憲肅皇后向氏<pc>，</pc>建中靖國元年<num value="1">正月</num>
+<p>　　神宗欽聖憲肅皇后向氏<pc>，</pc>建中靖國元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="13" unit="days">
 <num value="13">十三</num>日</measure>崩<pc>。</pc>
 <measure quantity="2" unit="months">
@@ -627,7 +643,7 @@
 </p>
 </div>
 <div>
-<p>　　南渡後<pc>，</pc>主奉祠事<pc>，</pc>以嗣濮王為之；園令<num value="1">一</num>員<pc>，</pc>以宗室為之；祠堂主管兼園廟香火官<num value="1">一</num>員<pc>，</pc>以武臣為之<pc>。</pc>紹興<measure quantity="2" unit="years">
+<p>　　南渡後<pc>，</pc>主奉祠事<pc>，</pc>以嗣濮王為之<pc>；</pc>園令<num value="1">一</num>員<pc>，</pc>以宗室為之<pc>；</pc>祠堂主管兼園廟香火官<num value="1">一</num>員<pc>，</pc>以武臣為之<pc>。</pc>紹興<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
@@ -652,7 +668,8 @@
 <pc>「</pc>
 <quote>濮安懿王神貌<pc>、</pc>神主權於紹興府光孝寺<pc>，</pc>仲享薦祭<pc>，</pc>其獻官<pc>、</pc>牲牢<pc>、</pc>禮料並多簡略<pc>。</pc>乞令有司討論舊制<pc>。</pc>
 </quote>
-<pc>」</pc>行下禮部<pc>、</pc>太常寺令參酌<pc>，</pc>欲令土夽攝初獻<pc>，</pc>仍差士夽子或從子<num value="2">二</num>人攝亞<pc>、</pc>終獻<pc>。</pc>其合用牲牢<pc>，</pc>羊<pc>、</pc>豕各<num value="1">一</num>；籩<pc>、</pc>豆各<num value="10">十</num>
+<pc>」</pc>行下禮部<pc>、</pc>太常寺令參酌<pc>，</pc>欲令土夽攝初獻<pc>，</pc>仍差士夽子或從子<num value="2">二</num>人攝亞<pc>、</pc>終獻<pc>。</pc>其合用牲牢<pc>，</pc>羊<pc>、</pc>豕各<num value="1">一</num>
+<pc>；</pc>籩<pc>、</pc>豆各<num value="10">十</num>
 <pc>，</pc>設禮料<pc>。</pc>初獻合服<num value="8">八</num>旒冕<pc>，</pc>亞獻<pc>、</pc>終獻合服<num value="4">四</num>旒冕<pc>，</pc>奉禮郎<pc>、</pc>太祝<pc>、</pc>太官令服無旒冕<pc>，</pc>並以舊制從事<pc>。</pc>從之<pc>。</pc>
 <measure quantity="26" unit="years">
 <num value="26">二十六</num>年</measure>
@@ -695,7 +712,7 @@
 <pc>「</pc>
 <quote>濮安懿王園廟制度<pc>，</pc>廟堂<pc>、</pc>神門宜並用獸<pc>。</pc>所安木主石塪<pc>，</pc>於室中西壁<num value="3">三</num>分之<num value="1">一</num>近南去地<num value="4">四</num>尺開坎室<pc>，</pc>以石為之<pc>，</pc>其中可容神主趺匱<pc>。</pc>今來秀安僖王及夫人神主<pc>，</pc>欲乞並依上件典禮<pc>。</pc>
 <num value="4">四</num>仲饗廟<pc>，</pc>
-<num value="3">三</num>獻官並奉禮郎等<pc>，</pc>系嗣秀王充初獻<pc>，</pc>本位侄男攝亞<pc>、</pc>終獻<pc>，</pc>其奉禮郎等<pc>，</pc>乞湖州差官充攝<pc>。</pc>行禮合用牲羊<pc>、</pc>豕<pc>，</pc>湖州排辦；祭器<pc>、</pc>祭服<pc>，</pc>工部下文思院製造<pc>。</pc>每遇仲饗<pc>，</pc>本府前期牒報湖州排辦<pc>。</pc>所有行禮儀注<pc>，</pc>乞從太堂寺參照濮安懿王儀注修定<pc>。</pc>
+<num value="3">三</num>獻官並奉禮郎等<pc>，</pc>系嗣秀王充初獻<pc>，</pc>本位侄男攝亞<pc>、</pc>終獻<pc>，</pc>其奉禮郎等<pc>，</pc>乞湖州差官充攝<pc>。</pc>行禮合用牲羊<pc>、</pc>豕<pc>，</pc>湖州排辦<pc>；</pc>祭器<pc>、</pc>祭服<pc>，</pc>工部下文思院製造<pc>。</pc>每遇仲饗<pc>，</pc>本府前期牒報湖州排辦<pc>。</pc>所有行禮儀注<pc>，</pc>乞從太堂寺參照濮安懿王儀注修定<pc>。</pc>
 </quote>
 <pc>」</pc>並從之<pc>。</pc>其園廟差禦帶霍漢臣同湖州通判<num value="1">一</num>員相度聞奏<pc>。</pc>
 <measure quantity="8" unit="months">
@@ -716,7 +733,10 @@
 <pc>」</pc>從之<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="1">一</num>收<pc>，</pc>嗣秀王伯圭奏<pc>：</pc>
 <pc>「</pc>
 <quote>建造秀安僖王園廟<pc>，</pc>近已畢工<pc>，</pc>所有修制神主儀式<pc>，</pc>令所司檢照典故修制<pc>，</pc>委官題寫<pc>。</pc>
@@ -744,7 +764,7 @@
 </p>
 </div>
 <div>
-<p>　　自發哀至釋服日<pc>，</pc>皇帝不視事<pc>，</pc>權禁行在音樂<pc>，</pc>仍命諸寺院聲鐘<pc>。</pc>其小斂<pc>、</pc>大斂合祭告<pc>，</pc>以本宮主管春坊官<num value="1">一</num>員行禮；其餘祭告<pc>，</pc>以諸司官行禮<pc>。</pc>差護喪葬事<num value="1">一</num>員<pc>，</pc>左藏庫出錢<num value="20000">二萬</num>貫<pc>、</pc>銀<num value="5000">五千</num>兩<pc>、</pc>絹<num value="5000">五千</num>匹<pc>。</pc>
+<p>　　自發哀至釋服日<pc>，</pc>皇帝不視事<pc>，</pc>權禁行在音樂<pc>，</pc>仍命諸寺院聲鐘<pc>。</pc>其小斂<pc>、</pc>大斂合祭告<pc>，</pc>以本宮主管春坊官<num value="1">一</num>員行禮<pc>；</pc>其餘祭告<pc>，</pc>以諸司官行禮<pc>。</pc>差護喪葬事<num value="1">一</num>員<pc>，</pc>左藏庫出錢<num value="20000">二萬</num>貫<pc>、</pc>銀<num value="5000">五千</num>兩<pc>、</pc>絹<num value="5000">五千</num>匹<pc>。</pc>
 </p>
 </div>
 <div>
@@ -863,7 +883,7 @@
 <quote>按<pc>《</pc>
 <title>開元禮</title>
 <pc>》</pc>
-<pc>，</pc>春秋<num value="2">二</num>仲月<pc>，</pc>司徒<pc>、</pc>司空巡陵<pc>，</pc>不設牲牢之祀<pc>。</pc>今請如宗廟薦享<pc>，</pc>少加裁減<pc>，</pc>除不設登鉶<pc>、</pc>牙盤食及太常登歌外<pc>，</pc>餘悉如大祠<pc>。</pc>朝拜日<pc>，</pc>有司豫于陵南<num value="100">百</num>步道東設次<pc>，</pc>具翦除器以備酒掃<pc>。</pc>設宗正卿位於兆外之左<pc>，</pc>西向；陵官位於卿之東南<pc>，</pc>執事官又于其南<pc>，</pc>俱西向北上<pc>。</pc>設祭器<pc>、</pc>禮料<pc>、</pc>酒饌於兆門內<pc>。</pc>宗正卿以下各就位<pc>，</pc>再拜<pc>，</pc>盥手<pc>，</pc>奠酒<pc>，</pc>讀祝冊<pc>，</pc>再拜<pc>。</pc>先赴安陵<pc>，</pc>次永昌陵<pc>，</pc>次孝明<pc>、</pc>孝惠<pc>、</pc>懿德<pc>、</pc>淑德皇后陵<pc>。</pc>
+<pc>，</pc>春秋<num value="2">二</num>仲月<pc>，</pc>司徒<pc>、</pc>司空巡陵<pc>，</pc>不設牲牢之祀<pc>。</pc>今請如宗廟薦享<pc>，</pc>少加裁減<pc>，</pc>除不設登鉶<pc>、</pc>牙盤食及太常登歌外<pc>，</pc>餘悉如大祠<pc>。</pc>朝拜日<pc>，</pc>有司豫于陵南<num value="100">百</num>步道東設次<pc>，</pc>具翦除器以備酒掃<pc>。</pc>設宗正卿位於兆外之左<pc>，</pc>西向<pc>；</pc>陵官位於卿之東南<pc>，</pc>執事官又于其南<pc>，</pc>俱西向北上<pc>。</pc>設祭器<pc>、</pc>禮料<pc>、</pc>酒饌於兆門內<pc>。</pc>宗正卿以下各就位<pc>，</pc>再拜<pc>，</pc>盥手<pc>，</pc>奠酒<pc>，</pc>讀祝冊<pc>，</pc>再拜<pc>。</pc>先赴安陵<pc>，</pc>次永昌陵<pc>，</pc>次孝明<pc>、</pc>孝惠<pc>、</pc>懿德<pc>、</pc>淑德皇后陵<pc>。</pc>
 </quote>
 <pc>」</pc>從之<pc>。</pc>
 </p>
@@ -875,8 +895,11 @@
 <pc>「</pc>
 <quote>朝陵故事<pc>，</pc>合排小駕鹵簿<pc>。</pc>唐太宗朝獻陵<pc>，</pc>宿設黃麾仗<pc>，</pc>周衛陵寢<pc>。</pc>今請周設黃麾仗<pc>。</pc>又唐制<pc>：</pc>前<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
-<pc>，</pc>陵令以玉冊進禦親書<pc>，</pc>近臣奉出<pc>，</pc>陵令受之<pc>。</pc>今請造竹冊<num value="4">四</num>副<pc>，</pc>祝畢焚之<pc>。</pc>其<num value="100">百</num>官位舊設陵所<pc>，</pc>從祝官及皇親<pc>、</pc>客使分於神道左右<pc>，</pc>貞觀中並陪列司馬門內<pc>。</pc>今望准舊儀施行<pc>。</pc>又舊儀<pc>，</pc>詣寢宮至大次之時<pc>，</pc>設<num value="100">百</num>官位<pc>，</pc>奏請行禮<pc>。</pc>望令先入赴寢殿立班<pc>。</pc>貞觀中<pc>，</pc>皇帝至小次<pc>，</pc>素服乘馬<pc>。</pc>檢會今年<num value="1">正月</num>
-<pc>，</pc>車駕朝拜明德欑宮<pc>，</pc>止服素白衣<pc>。</pc>當時皇帝在大祥之內<pc>，</pc>今既服除<pc>，</pc>望止服淡黃袍<pc>。</pc>又按貞觀<pc>、</pc>永徽故事<pc>，</pc>朝陵皆先親後尊<pc>，</pc>拜辭訖<pc>，</pc>出還大次<pc>，</pc>便進發<pc>，</pc>今望先朝永熙陵；行事及辭<pc>，</pc>皇帝皆兩次再拜<pc>，</pc>陪位官每陵亦各兩次再拜<pc>，</pc>今請皇帝詣安陵參辭<pc>，</pc>
+<pc>，</pc>陵令以玉冊進禦親書<pc>，</pc>近臣奉出<pc>，</pc>陵令受之<pc>。</pc>今請造竹冊<num value="4">四</num>副<pc>，</pc>祝畢焚之<pc>。</pc>其<num value="100">百</num>官位舊設陵所<pc>，</pc>從祝官及皇親<pc>、</pc>客使分於神道左右<pc>，</pc>貞觀中並陪列司馬門內<pc>。</pc>今望准舊儀施行<pc>。</pc>又舊儀<pc>，</pc>詣寢宮至大次之時<pc>，</pc>設<num value="100">百</num>官位<pc>，</pc>奏請行禮<pc>。</pc>望令先入赴寢殿立班<pc>。</pc>貞觀中<pc>，</pc>皇帝至小次<pc>，</pc>素服乘馬<pc>。</pc>檢會今年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
+<pc>，</pc>車駕朝拜明德欑宮<pc>，</pc>止服素白衣<pc>。</pc>當時皇帝在大祥之內<pc>，</pc>今既服除<pc>，</pc>望止服淡黃袍<pc>。</pc>又按貞觀<pc>、</pc>永徽故事<pc>，</pc>朝陵皆先親後尊<pc>，</pc>拜辭訖<pc>，</pc>出還大次<pc>，</pc>便進發<pc>，</pc>今望先朝永熙陵<pc>；</pc>行事及辭<pc>，</pc>皇帝皆兩次再拜<pc>，</pc>陪位官每陵亦各兩次再拜<pc>，</pc>今請皇帝詣安陵參辭<pc>，</pc>
 <num value="4">四</num>度再拜<pc>，</pc>永昌<pc>、</pc>永熙陵各兩度設拜<pc>。</pc>舊儀<pc>，</pc>逐寢殿上食<pc>，</pc>備太牢之饌<pc>，</pc>珍羞庶品<pc>。</pc>近以羊豕代太牢<pc>。</pc>今請備少牢之祭<pc>，</pc>設奠<pc>、</pc>讀冊畢<pc>，</pc>複詣寢宮上珍羞庶品<pc>，</pc>別行致奠之禮<pc>。</pc>又舊儀<pc>，</pc>前發<measure quantity="2" unit="days">
 <num value="2">二</num>日</measure>
 <pc>，</pc>太尉告太廟<pc>。</pc>今請依禮遍告<num value="6">六</num>室<pc>。</pc>
@@ -887,15 +910,22 @@
 <div>
 <p>　　<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
-<pc>，</pc>車駕次鞏縣<pc>，</pc>罷鳴鞭及太常奏嚴<pc>、</pc>金吾傳呼<pc>。</pc>既至<pc>，</pc>齋于永安鎮行宮<pc>，</pc>太官進蔬膳<pc>。</pc>是夜<pc>，</pc>漏未盡<num value="3">三</num>鼓<pc>，</pc>帝乘馬<pc>，</pc>卻輿輦傘扇<pc>，</pc>至安陵<pc>，</pc>素服步入司馬門行奠獻禮<pc>，</pc>諸陵亦然<pc>。</pc>又詣下宮<pc>。</pc>凡上宮用牲牢<pc>、</pc>祝冊<pc>，</pc>有司奉事；下宮備膳羞<pc>，</pc>內臣執事<pc>，</pc>
-<num value="100">百</num>官陪位<pc>，</pc>又詣元德太后陵奠獻<pc>，</pc>別於陵西南設幄殿<pc>，</pc>祭如下宮<pc>。</pc>禮畢<pc>，</pc>遍詣孝明<pc>、</pc>孝章<pc>、</pc>懿德<pc>、</pc>淑德<pc>、</pc>明德<pc>、</pc>莊懷<num value="7">七</num>後陵<pc>，</pc>遂單騎從內臣巡視陵闕<pc>，</pc>而親奠夔<pc>、</pc>魏<pc>、</pc>岐<pc>、</pc>鄆<pc>、</pc>安<pc>、</pc>週<num value="6">六</num>王及恭孝太子諸墳<pc>。</pc>其<num value="3">三</num>陵陪葬皇子<pc>、</pc>皇孫<pc>、</pc>公主之未出閣者<pc>，</pc>及諸王夫人之蚤亡者<pc>，</pc>各設位次諸陵下宮之東序<pc>。</pc>安陵<num value="21">百二十一</num>墳<pc>，</pc>量設<num value="30">三十</num>位<pc>，</pc>男子<pc>、</pc>女子共祝版<num value="2">二</num>；昌陵<num value="15">十五</num>墳<pc>，</pc>量設<num value="10">十</num>位<pc>，</pc>熙陵<num value="8">八</num>墳<pc>，</pc>量設<num value="5">五</num>位<pc>，</pc>並祝版<num value="1">一</num>以致祭焉<pc>。</pc>辰後<pc>，</pc>暫詣幄次更衣<pc>，</pc>複詣諸陵奉辭<pc>。</pc>有司以朝拜無辭禮<pc>，</pc>帝不忍<pc>，</pc>故複往<pc>。</pc>仍遣官祭<num value="1">一</num>品皇親諸親墓<pc>。</pc>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
+<pc>，</pc>車駕次鞏縣<pc>，</pc>罷鳴鞭及太常奏嚴<pc>、</pc>金吾傳呼<pc>。</pc>既至<pc>，</pc>齋于永安鎮行宮<pc>，</pc>太官進蔬膳<pc>。</pc>是夜<pc>，</pc>漏未盡<num value="3">三</num>鼓<pc>，</pc>帝乘馬<pc>，</pc>卻輿輦傘扇<pc>，</pc>至安陵<pc>，</pc>素服步入司馬門行奠獻禮<pc>，</pc>諸陵亦然<pc>。</pc>又詣下宮<pc>。</pc>凡上宮用牲牢<pc>、</pc>祝冊<pc>，</pc>有司奉事<pc>；</pc>下宮備膳羞<pc>，</pc>內臣執事<pc>，</pc>
+<num value="100">百</num>官陪位<pc>，</pc>又詣元德太后陵奠獻<pc>，</pc>別於陵西南設幄殿<pc>，</pc>祭如下宮<pc>。</pc>禮畢<pc>，</pc>遍詣孝明<pc>、</pc>孝章<pc>、</pc>懿德<pc>、</pc>淑德<pc>、</pc>明德<pc>、</pc>莊懷<num value="7">七</num>後陵<pc>，</pc>遂單騎從內臣巡視陵闕<pc>，</pc>而親奠夔<pc>、</pc>魏<pc>、</pc>岐<pc>、</pc>鄆<pc>、</pc>安<pc>、</pc>週<num value="6">六</num>王及恭孝太子諸墳<pc>。</pc>其<num value="3">三</num>陵陪葬皇子<pc>、</pc>皇孫<pc>、</pc>公主之未出閣者<pc>，</pc>及諸王夫人之蚤亡者<pc>，</pc>各設位次諸陵下宮之東序<pc>。</pc>安陵<num value="21">百二十一</num>墳<pc>，</pc>量設<num value="30">三十</num>位<pc>，</pc>男子<pc>、</pc>女子共祝版<num value="2">二</num>
+<pc>；</pc>昌陵<num value="15">十五</num>墳<pc>，</pc>量設<num value="10">十</num>位<pc>，</pc>熙陵<num value="8">八</num>墳<pc>，</pc>量設<num value="5">五</num>位<pc>，</pc>並祝版<num value="1">一</num>以致祭焉<pc>。</pc>辰後<pc>，</pc>暫詣幄次更衣<pc>，</pc>複詣諸陵奉辭<pc>。</pc>有司以朝拜無辭禮<pc>，</pc>帝不忍<pc>，</pc>故複往<pc>。</pc>仍遣官祭<num value="1">一</num>品皇親諸親墓<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　大中祥符<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>祀汾陰<pc>，</pc>經鞏縣<pc>，</pc>有司請于訾村王台設幄殿<pc>，</pc>置<num value="3">三</num>陵神坐<pc>，</pc>皇帝靴袍就幄<pc>，</pc>設香酒<pc>、</pc>時果<pc>、</pc>牙盤食奠獻<pc>，</pc>而命大臣以香幣<pc>、</pc>酒脯詣諸陵致告<pc>。</pc>駕還<pc>，</pc>複行親謁之禮<pc>，</pc>帝素服乘馬至永安縣<pc>，</pc>齋於行宮<pc>，</pc>夜漏未盡<num value="2">二</num>鼓<pc>，</pc>詣<num value="3">三</num>陵及元德太后<pc>、</pc>明德皇后陵奠獻<pc>，</pc>哀慟<pc>。</pc>未明<pc>，</pc>禮畢<pc>，</pc>複詣<num value="4">四</num>陵奉辭<pc>，</pc>省視幾筵<pc>，</pc>奠獻如初禮<pc>。</pc>又遍詣諸後陵<pc>、</pc>諸王墳致奠<pc>。</pc>命中使遍祭皇親諸親墳及汝州秦王墳<pc>。</pc>
 </p>
 </div>
@@ -976,7 +1006,10 @@
 <pc>」</pc>詔令樞密院每半年差使臣兩員前去<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>禮部<pc>、</pc>太常寺言<pc>：</pc>
 <pc>「</pc>
 <quote>春秋<num value="2">二</num>仲<pc>，</pc>薦獻諸陵<pc>，</pc>乞於行在法惠寺設位<pc>，</pc>望祭行禮<pc>。</pc>
@@ -990,7 +1023,10 @@
 <div>
 <p>　　<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>上謂輔臣曰<pc>：</pc>
 <pc>「</pc>
 <quote>祖宗陵寢<pc>，</pc>久淪異域<pc>，</pc>今金國既割還故地<pc>，</pc>便當遣宗室使相與臣僚前去修奉灑掃<pc>。</pc>
@@ -1043,7 +1079,10 @@
 </p>
 </div>
 <div>
-<p>　　端平元年<num value="1">正月</num>
+<p>　　端平元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>京西湖北安撫制置使史嵩之露布以滅金聞<pc>。</pc>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
@@ -1123,7 +1162,10 @@
 </p>
 </div>
 <div>
-<p>　　淳熙元年<num value="1">正月</num>
+<p>　　淳熙元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>禮部<pc>、</pc>太常寺言<pc>：</pc>
 <pc>「</pc>
 <quote>春秋<num value="2">二</num>仲<pc>，</pc>差太常少卿薦獻永祐陵欑宮<pc>，</pc>並周視陵域<pc>。</pc>如遇少卿有缺<pc>，</pc>乞從本寺前期取指揮<pc>。</pc>差本寺以次官充攝<pc>。</pc>所有今年仲春薦獻<pc>，</pc>即日見闕少卿<pc>。</pc>
@@ -1143,7 +1185,7 @@
 </div>
 <div>
 <p>　　忌日<pc>，</pc>唐初始著罷樂<pc>、</pc>廢務及行香<pc>、</pc>修齋之文<pc>。</pc>基後<pc>，</pc>又朔望停朝<pc>，</pc>令天下上州皆准式行香<pc>。</pc>天祐初<pc>，</pc>始令<num value="100">百</num>官詣閣奉慰<pc>。</pc>宋循其制<pc>，</pc>惟宣祖<pc>、</pc>昭憲皇后為大忌<pc>。</pc>前<measure quantity="1" unit="day">
-<num value="1">一</num>日</measure>不坐<pc>，</pc>群臣詣西上閣門奉慰<pc>，</pc>移班奉慰皇太后<pc>，</pc>退<pc>，</pc>赴佛寺行香<pc>。</pc>凡大忌<pc>，</pc>中書悉集；小忌<pc>，</pc>差官<num value="1">一</num>員赴寺<pc>。</pc>如車駕巡幸道遇忌日<pc>，</pc>皆不進名奉慰<pc>。</pc>留守自於寺院行香<pc>，</pc>仍不得在拜表之所<pc>。</pc>天下州府軍監亦如之<pc>。</pc>
+<num value="1">一</num>日</measure>不坐<pc>，</pc>群臣詣西上閣門奉慰<pc>，</pc>移班奉慰皇太后<pc>，</pc>退<pc>，</pc>赴佛寺行香<pc>。</pc>凡大忌<pc>，</pc>中書悉集<pc>；</pc>小忌<pc>，</pc>差官<num value="1">一</num>員赴寺<pc>。</pc>如車駕巡幸道遇忌日<pc>，</pc>皆不進名奉慰<pc>。</pc>留守自於寺院行香<pc>，</pc>仍不得在拜表之所<pc>。</pc>天下州府軍監亦如之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1155,9 +1197,12 @@
 <pc>「</pc>
 <quote>唐開成<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="22" unit="days">
-<num value="22">二十二</num>日</measure>祀先農<pc>，</pc>與穆宗忌同日；太和<measure quantity="7" unit="years">
+<num value="22">二十二</num>日</measure>祀先農<pc>，</pc>與穆宗忌同日<pc>；</pc>太和<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
@@ -1171,16 +1216,20 @@
 <div>
 <p>　　咸平中<pc>，</pc>有司將設春宴<pc>，</pc>金明池習水戲<pc>，</pc>開瓊林苑<pc>，</pc>縱都人遊賞<pc>。</pc>帝以是月太宗忌月<pc>，</pc>命詳定故事以聞<pc>。</pc>史館檢討杜鎬等言<pc>：</pc>
 <pc>「</pc>
-<quote>按晉穆帝納後月<pc>，</pc>是康帝忌月<pc>，</pc>禮官荀訥議<pc>：</pc>'有忌日<pc>，</pc>無忌月；若有忌月<pc>，</pc>即有忌時<pc>、</pc>忌歲<pc>，</pc>益無所據<pc>。</pc>'當時從訥所議<pc>。</pc>唐武后神功元年<pc>，</pc>建安王攸宜破契丹<pc>，</pc>詣闕獻捷<pc>，</pc>軍人入城<pc>，</pc>例有軍樂<pc>，</pc>內史王及善以國家忌月<pc>，</pc>請備而不奏<pc>。</pc>鳳閣侍郎王方慶奏<pc>：</pc>'按<pc>《</pc>
+<quote>按晉穆帝納後月<pc>，</pc>是康帝忌月<pc>，</pc>禮官荀訥議<pc>：</pc>'有忌日<pc>，</pc>無忌月<pc>；</pc>若有忌月<pc>，</pc>即有忌時<pc>、</pc>忌歲<pc>，</pc>益無所據<pc>。</pc>'當時從訥所議<pc>。</pc>唐武后神功元年<pc>，</pc>建安王攸宜破契丹<pc>，</pc>詣闕獻捷<pc>，</pc>軍人入城<pc>，</pc>例有軍樂<pc>，</pc>內史王及善以國家忌月<pc>，</pc>請備而不奏<pc>。</pc>鳳閣侍郎王方慶奏<pc>：</pc>'按<pc>《</pc>
 <title>禮經</title>
 <pc>》</pc>
 <pc>，</pc>有忌日而無忌月<pc>。</pc>'遂舉樂<pc>。</pc>憲宗時<pc>，</pc>太常博士韋公肅言<pc>：</pc>
 <pc>「</pc>
 <pc>《</pc>
 <title>禮</title>
-<pc>》</pc>無忌月禁樂<pc>，</pc>今太常教坊以<num value="1">正月</num>為忌月<pc>，</pc>停郊廟饗宴之禮<pc>，</pc>中外士庶咸罷宴樂<pc>，</pc>竊恐乖宜<pc>。</pc>'時依公肅所奏<pc>。</pc>伏以忌日不樂<pc>，</pc>嘗載<pc>《</pc>
+<pc>》</pc>無忌月禁樂<pc>，</pc>今太常教坊以<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>為忌月<pc>，</pc>停郊廟饗宴之禮<pc>，</pc>中外士庶咸罷宴樂<pc>，</pc>竊恐乖宜<pc>。</pc>'時依公肅所奏<pc>。</pc>伏以忌日不樂<pc>，</pc>嘗載<pc>《</pc>
 <title>禮經</title>
-<pc>》</pc>；忌月徹縣<pc>，</pc>實無典故<pc>。</pc>況前代鴻儒<pc>，</pc>議論足據<pc>。</pc>其春宴及池苑<pc>，</pc>併合舉樂<pc>。</pc>
+<pc>》</pc>
+<pc>；</pc>忌月徹縣<pc>，</pc>實無典故<pc>。</pc>況前代鴻儒<pc>，</pc>議論足據<pc>。</pc>其春宴及池苑<pc>，</pc>併合舉樂<pc>。</pc>
 </quote>
 <pc>」</pc>
 </p>
@@ -1233,7 +1282,7 @@
 </p>
 </div>
 <div>
-<p>　　初<pc>，</pc>神禦殿酌獻<pc>，</pc>設皇帝位於庭下<pc>，</pc>而忌日兩府列於殿上；寺院行香<pc>，</pc>左右巡使<pc>、</pc>兩赤縣令于中門相向分立<pc>，</pc>俟<term>宰臣</term>至<pc>，</pc>立位前<pc>，</pc>直省官贊通揖<pc>，</pc>於禮無據<pc>。</pc>乃命行香群臣班殿下<pc>，</pc>
+<p>　　初<pc>，</pc>神禦殿酌獻<pc>，</pc>設皇帝位於庭下<pc>，</pc>而忌日兩府列於殿上<pc>；</pc>寺院行香<pc>，</pc>左右巡使<pc>、</pc>兩赤縣令于中門相向分立<pc>，</pc>俟<term>宰臣</term>至<pc>，</pc>立位前<pc>，</pc>直省官贊通揖<pc>，</pc>於禮無據<pc>。</pc>乃命行香群臣班殿下<pc>，</pc>
 <term>宰相</term>
 <num value="1">一</num>員升殿跪爐<pc>，</pc>而罷通揖<pc>。</pc>又詔<pc>：</pc>大忌日不為假<pc>，</pc>執政官蚤出<pc>。</pc>禮部言<pc>：</pc>
 <pc>「</pc>
@@ -1251,9 +1300,9 @@
 <title>政和新儀</title>
 <pc>》</pc>
 <pc>：</pc>群臣進名奉慰<pc>，</pc>其日質明<pc>，</pc>文武朝參官入詣朝堂就次<pc>。</pc>禦史台先引殿中侍御史<num value="1">一</num>員入就位<pc>，</pc>次西上閣門<pc>、</pc>禦史台分引朝參官及諸軍將校<pc>，</pc>次禮直官引<num value="3">三</num>公以下在西上閣門南階下<pc>，</pc>每等重行異位<pc>，</pc>並北向東上<pc>。</pc>知西上閣門官于班前西向立<pc>，</pc>搢笏<pc>，</pc>執名紙<pc>，</pc>躬<pc>。</pc>
-<num value="3">三</num>公以下文武<num value="100">百</num>僚俱再拜<pc>，</pc>俊閣門官執笏<pc>、</pc>置名紙笏上<pc>、</pc>入西上閣門訖<pc>，</pc>退<pc>。</pc>群臣奉慰詣景靈宮<pc>，</pc>每等重行異位<pc>，</pc>並北向東上<pc>。</pc>禮直官揖班首以下再拜訖<pc>，</pc>引班首自東階升殿<pc>，</pc>舍人接引同升<pc>，</pc>詣香案前<pc>，</pc>搢笏<pc>，</pc>上香<pc>，</pc>跪奠茶訖<pc>，</pc>執笏興<pc>，</pc>降階復位<pc>，</pc>又再拜；次引班首以下分左右搢笏<pc>，</pc>行香<pc>，</pc>
+<num value="3">三</num>公以下文武<num value="100">百</num>僚俱再拜<pc>，</pc>俊閣門官執笏<pc>、</pc>置名紙笏上<pc>、</pc>入西上閣門訖<pc>，</pc>退<pc>。</pc>群臣奉慰詣景靈宮<pc>，</pc>每等重行異位<pc>，</pc>並北向東上<pc>。</pc>禮直官揖班首以下再拜訖<pc>，</pc>引班首自東階升殿<pc>，</pc>舍人接引同升<pc>，</pc>詣香案前<pc>，</pc>搢笏<pc>，</pc>上香<pc>，</pc>跪奠茶訖<pc>，</pc>執笏興<pc>，</pc>降階復位<pc>，</pc>又再拜<pc>；</pc>次引班首以下分左右搢笏<pc>，</pc>行香<pc>，</pc>
 <term>宰相</term>
-<pc>、</pc>執政官分左右行香訖<pc>，</pc>執笏俱復位；次引班首升殿<pc>，</pc>詣香案前俯伏<pc>，</pc>跪<pc>，</pc>搢笏<pc>，</pc>執爐<pc>，</pc>俟讀疏畢<pc>，</pc>執笏俯伏<pc>，</pc>興<pc>，</pc>降階復位<pc>，</pc>又再拜<pc>，</pc>退<pc>。</pc>
+<pc>、</pc>執政官分左右行香訖<pc>，</pc>執笏俱復位<pc>；</pc>次引班首升殿<pc>，</pc>詣香案前俯伏<pc>，</pc>跪<pc>，</pc>搢笏<pc>，</pc>執爐<pc>，</pc>俟讀疏畢<pc>，</pc>執笏俯伏<pc>，</pc>興<pc>，</pc>降階復位<pc>，</pc>又再拜<pc>，</pc>退<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1282,11 +1331,17 @@
 <div>
 <p>　　<measure quantity="13" unit="years">
 <num value="13">十三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>禦史台言<pc>：</pc>
 <pc>「</pc>
 <quote>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="13" unit="days">
 <num value="13">十三</num>日</measure>
 <pc>，</pc>欽聖憲肅皇后忌<pc>，</pc>其日立春<pc>。</pc>准令<pc>，</pc>諸臣僚及將校立春日賜幡勝<pc>，</pc>遇稱賀等拜表<pc>、</pc>忌辰奉慰退即戴<pc>。</pc>欲乞候<measure quantity="13" unit="days">
@@ -1310,10 +1365,16 @@
 <pc>」</pc>詔依<pc>。</pc>
 <measure quantity="32" unit="years">
 <num value="32">三十二</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>禮部<pc>、</pc>太常寺言<pc>：</pc>
 <pc>「</pc>
-<quote>已降旨<pc>：</pc>欽宗祔廟<pc>，</pc>翼祖當遷<pc>。</pc>於<num value="1">正月</num>
+<quote>已降旨<pc>：</pc>欽宗祔廟<pc>，</pc>翼祖當遷<pc>。</pc>於<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <measure quantity="9" unit="days">
 <num value="9">九</num>日</measure>告遷翼祖皇帝<pc>、</pc>簡穆皇后神主奉藏於夾室<pc>，</pc>所有以後翼祖皇帝忌及諱<pc>、</pc>簡穆皇后忌<pc>，</pc>欲乞依禮不諱<pc>、</pc>不忌<pc>。</pc>
 </quote>
@@ -1361,7 +1422,7 @@
 </quote>
 <pc>」</pc>其後有司言<pc>：</pc>
 <pc>「</pc>
-<quote>臣僚忌日恩賜<pc>，</pc>其間甚有無名者<pc>：</pc>如劉繼元<pc>、</pc>李煜<pc>、</pc>劉鋹之類<pc>，</pc>皆身為降俘<pc>，</pc>亡沒已久<pc>，</pc>而尚沾恩賜；及周朝忌日<pc>，</pc>尚有追薦；本朝亦有追尊皇后生日道場<pc>，</pc>並諸神祠亦有為生日者<pc>。</pc>請付禮官詳議<pc>，</pc>不經之物<pc>，</pc>
+<quote>臣僚忌日恩賜<pc>，</pc>其間甚有無名者<pc>：</pc>如劉繼元<pc>、</pc>李煜<pc>、</pc>劉鋹之類<pc>，</pc>皆身為降俘<pc>，</pc>亡沒已久<pc>，</pc>而尚沾恩賜<pc>；</pc>及周朝忌日<pc>，</pc>尚有追薦<pc>；</pc>本朝亦有追尊皇后生日道場<pc>，</pc>並諸神祠亦有為生日者<pc>。</pc>請付禮官詳議<pc>，</pc>不經之物<pc>，</pc>
 <num value="1">一</num>切省去<pc>。</pc>
 </quote>
 <pc>」</pc>詔周朝忌日仍舊<pc>，</pc>餘罷之<pc>。</pc>

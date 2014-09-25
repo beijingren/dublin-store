@@ -29,7 +29,10 @@
 </div>
 <div>
 <p>　　<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>春<num value="1">正月</num>
+<num value="5">五</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="29">壬辰</num>朔<pc>，</pc>雨雪<pc>，</pc>不御殿<pc>。</pc>禁鐵鑄浮屠及佛像<pc>。</pc>
 <num value="37">庚子</num>
 <pc>，</pc>前盧氏縣尉鄢陵許永年<num value="70">七十</num>有<num value="5">五</num>
@@ -175,12 +178,15 @@
 <num value="51">甲寅</num>
 <pc>，</pc>內班董延諤坐監務盜芻粟<pc>，</pc>杖殺之<pc>。</pc>詔合入令錄者引見後方注<pc>。</pc>
 <num value="52">乙卯</num>
-<pc>，</pc>大雨雪<pc>。</pc> 是歲<pc>，</pc>大饑<pc>。</pc>
+<pc>，</pc>大雨雪<pc>。</pc>是歲<pc>，</pc>大饑<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　<measure quantity="6" unit="years">
-<num value="6">六</num>年</measure>春<num value="1">正月</num>
+<num value="6">六</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="53">丙辰</num>朔<pc>，</pc>不御殿<pc>。</pc>置蜀水陸轉運計度使<pc>。</pc>
 <num value="10">癸酉</num>
 <pc>，</pc>修魏縣河<pc>。</pc>
@@ -320,7 +326,10 @@
 </div>
 <div>
 <p>　　<measure quantity="7" unit="years">
-<num value="7">七</num>年</measure>春<num value="1">正月</num>
+<num value="7">七</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="47">庚戌</num>
 <pc>，</pc>不御殿<pc>。</pc>
 <num value="57">庚申</num>
@@ -377,7 +386,8 @@
 <num value="33">丙申</num>
 <pc>，</pc>河中府饑<pc>，</pc>發粟<num value="30000">三萬</num>石振之<pc>。</pc>
 <num value="36">己亥</num>
-<pc>，</pc>淮溢入泗州城；<num value="39">壬寅</num>
+<pc>，</pc>淮溢入泗州城<pc>；</pc>
+<num value="39">壬寅</num>
 <pc>，</pc>安陽河溢<pc>，</pc>皆壞民居<pc>。</pc>
 </p>
 </div>
@@ -418,7 +428,7 @@
 <pc>，</pc>命宣徽南院使<pc>、</pc>義成軍<term>節度使</term>曹彬為西南路行營馬步軍戰櫂都部署<pc>，</pc>山南東道<term>節度使</term>潘美為都監<pc>，</pc>
 <placeName>潁州</placeName>團練使曹翰為先鋒都指揮使<pc>，</pc>將兵<num value="100000">十萬</num>出荊南<pc>，</pc>以伐江南<pc>。</pc>將行<pc>，</pc>召曹彬<pc>、</pc>潘美<pc>，</pc>戒之曰<pc>：</pc>
 <pc>「</pc>
-<quote>城陷之日<pc>，</pc>慎無殺戮；設若困鬬<pc>，</pc>則李煜<num value="1">一</num>門<pc>，</pc>不可加害<pc>。</pc>
+<quote>城陷之日<pc>，</pc>慎無殺戮<pc>；</pc>設若困鬬<pc>，</pc>則李煜<num value="1">一</num>門<pc>，</pc>不可加害<pc>。</pc>
 </quote>
 <pc>」</pc>
 <num value="4">丁卯</num>
@@ -503,10 +513,13 @@
 </div>
 <div>
 <p>　　<measure quantity="8" unit="years">
-<num value="8">八</num>年</measure>春<num value="1">正月</num>
+<num value="8">八</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="11">甲戌</num>朔<pc>，</pc>以出師<pc>，</pc>不御殿<pc>。</pc>
 <num value="13">丙子</num>
-<pc>，</pc>知池州樊若水敗江南軍於州界；田欽祚敗江南軍於溧水<pc>，</pc>斬其都統使李雄<pc>。</pc>
+<pc>，</pc>知池州樊若水敗江南軍於州界<pc>；</pc>田欽祚敗江南軍於溧水<pc>，</pc>斬其都統使李雄<pc>。</pc>
 <num value="22">乙酉</num>
 <pc>，</pc>御長春殿<pc>，</pc>謂<term>宰相</term>曰<pc>：</pc>
 <pc>「</pc>
@@ -572,7 +585,7 @@
 <div>
 <p>　　<measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
-<num value="9">壬申</num>朔<pc>，</pc>以<date>吳越</date>國王錢俶守太師<pc>、</pc>尚書令<pc>，</pc>益食邑<pc>。</pc>知桂陽監張侃發前官隱沒羨銀<pc>，</pc>追罪兵部郎中董樞<pc>、</pc>右讚善大夫孔璘<pc>，</pc>殺之<pc>，</pc>太子洗馬趙瑜杖配海島；侃受賞<pc>，</pc>遷屯田員外郎<pc>。</pc>
+<num value="9">壬申</num>朔<pc>，</pc>以<date>吳越</date>國王錢俶守太師<pc>、</pc>尚書令<pc>，</pc>益食邑<pc>。</pc>知桂陽監張侃發前官隱沒羨銀<pc>，</pc>追罪兵部郎中董樞<pc>、</pc>右讚善大夫孔璘<pc>，</pc>殺之<pc>，</pc>太子洗馬趙瑜杖配海島<pc>；</pc>侃受賞<pc>，</pc>遷屯田員外郎<pc>。</pc>
 <num value="18">辛巳</num>
 <pc>，</pc>祈晴<pc>。</pc>
 <num value="21">甲申</num>
@@ -678,7 +691,8 @@
 <pc>，</pc>幸惠民河觀築堰<pc>。</pc>
 <num value="38">辛丑</num>
 <pc>，</pc>赦江南<pc>，</pc>復<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>；兵戈所經<pc>，</pc>
+<num value="1">一</num>歲</measure>
+<pc>；</pc>兵戈所經<pc>，</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>歲</measure>
 <pc>。</pc>
@@ -701,7 +715,10 @@
 </div>
 <div>
 <p>　　<measure quantity="9" unit="years">
-<num value="9">九</num>年</measure>春<num value="1">正月</num>
+<num value="9">九</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="8">辛未</num>
 <pc>，</pc>御明德門<pc>，</pc>見李煜於樓下<pc>，</pc>不用獻俘儀<pc>。</pc>
 <num value="9">壬申</num>
@@ -931,11 +948,12 @@
 </p>
 </div>
 <div>
-<p>　　王彥升擅殺韓通<pc>，</pc>雖預佐命<pc>，</pc>終身不與節鉞<pc>。</pc>王全斌入蜀<pc>，</pc>貪恣殺降<pc>，</pc>雖有大功<pc>，</pc>即加貶絀<pc>。</pc>
+<p>　　王彥升擅殺韓通<pc>，</pc>雖預佐命<pc>，</pc>終身不與節鉞<pc>。</pc>
+<persName>王全斌</persName>入蜀<pc>，</pc>貪恣殺降<pc>，</pc>雖有大功<pc>，</pc>即加貶絀<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　宮中葦簾<pc>，</pc>緣用青布；常服之衣<pc>，</pc>浣濯至再<pc>。</pc>魏國長公主襦飾翠羽<pc>，</pc>戒勿復用<pc>，</pc>又教之曰<pc>：</pc>
+<p>　　宮中葦簾<pc>，</pc>緣用青布<pc>；</pc>常服之衣<pc>，</pc>浣濯至再<pc>。</pc>魏國長公主襦飾翠羽<pc>，</pc>戒勿復用<pc>，</pc>又教之曰<pc>：</pc>
 <pc>「</pc>
 <quote>汝生長富貴<pc>，</pc>當念惜福<pc>。</pc>
 </quote>
@@ -993,7 +1011,7 @@
 </div>
 <div>
 <p>　　<num value="5">五</num>季亂極<pc>，</pc>宋太祖起介胄之中<pc>，</pc>踐<num value="5">九五</num>之位<pc>，</pc>原其得國<pc>，</pc>視晉<pc>、</pc>漢<pc>、</pc>周亦豈甚相絕哉<pc>？</pc>及其發號施令<pc>，</pc>名藩大將<pc>，</pc>俯首聽命<pc>，</pc>
-<num value="4">四</num>方列國<pc>，</pc>次第削平<pc>，</pc>此非人力所易致也<pc>。</pc>建隆以來<pc>，</pc>釋藩鎮兵權<pc>，</pc>繩贓吏重法<pc>，</pc>以塞濁亂之源<pc>。</pc>州郡司牧<pc>，</pc>下至令錄<pc>、</pc>幕職<pc>，</pc>躬自引對；務農興學<pc>，</pc>慎罰薄斂<pc>，</pc>與世休息<pc>，</pc>迄於丕平；治定功成<pc>，</pc>制禮作樂<pc>。</pc>在位<num value="10">十</num>有<measure quantity="7" unit="years">
+<num value="4">四</num>方列國<pc>，</pc>次第削平<pc>，</pc>此非人力所易致也<pc>。</pc>建隆以來<pc>，</pc>釋藩鎮兵權<pc>，</pc>繩贓吏重法<pc>，</pc>以塞濁亂之源<pc>。</pc>州郡司牧<pc>，</pc>下至令錄<pc>、</pc>幕職<pc>，</pc>躬自引對<pc>；</pc>務農興學<pc>，</pc>慎罰薄斂<pc>，</pc>與世休息<pc>，</pc>迄於丕平<pc>；</pc>治定功成<pc>，</pc>制禮作樂<pc>。</pc>在位<num value="10">十</num>有<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>之間<pc>，</pc>而<num value="300">三百</num>餘載之基<pc>，</pc>傳之子孫<pc>，</pc>世有典則<pc>。</pc>遂使<num value="3">三</num>代而降<pc>，</pc>考論聲明文物之治<pc>，</pc>道德仁義之風<pc>，</pc>宋於漢<pc>、</pc>唐<pc>，</pc>蓋無讓焉<pc>。</pc>嗚呼<pc>，</pc>創業垂統之君<pc>，</pc>規模若是<pc>，</pc>亦可謂遠也已矣<pc>！</pc>
 </p>
 </div>

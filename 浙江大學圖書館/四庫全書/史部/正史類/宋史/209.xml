@@ -820,7 +820,10 @@
 <num value="5">五</num>月</measure>
 <pc>，</pc>迄天寶<measure quantity="13" unit="years">
 <num value="13">十三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>）</pc>
 <pc>《</pc>
 <title>張曲江雜編</title>
@@ -3790,7 +3793,10 @@
 <num value="5">五</num>月</measure>
 <pc>，</pc>迄天寶<measure quantity="13" unit="years">
 <num value="13">十三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>）</pc>
 <pc>《</pc>
 <title>張曲江雜編</title>

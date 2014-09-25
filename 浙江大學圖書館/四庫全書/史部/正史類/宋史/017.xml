@@ -239,7 +239,10 @@
 </p>
 </div>
 <div>
-<p>　　元祐元年春<num value="1">正月</num>
+<p>　　元祐元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="27">庚寅</num>朔<pc>，</pc>改元<pc>。</pc>
 <num value="43">丙午</num>
 <pc>，</pc>錄在京囚<pc>，</pc>減死罪以下<num value="1">一</num>等<pc>，</pc>杖罪者釋之<pc>。</pc>
@@ -283,7 +286,7 @@
 <num value="43">丙午</num>
 <pc>，</pc>守尚書右丞李清臣爲尚書左丞<pc>，</pc>試吏部尚書呂大防爲尚書右丞<pc>。</pc>白虹貫日<pc>。</pc>
 <num value="44">丁未</num>
-<pc>，</pc>群臣上太皇太后宮名曰崇慶<pc>，</pc>殿曰崇慶壽康；皇太后宮曰隆祐<pc>，</pc>殿曰隆祐慈徽<pc>。</pc>
+<pc>，</pc>群臣上太皇太后宮名曰崇慶<pc>，</pc>殿曰崇慶壽康<pc>；</pc>皇太后宮曰隆祐<pc>，</pc>殿曰隆祐慈徽<pc>。</pc>
 <num value="47">庚戌</num>
 <pc>，</pc>賜于闐國王服帶<pc>、</pc>器幣<pc>。</pc>
 <num value="48">辛亥</num>
@@ -447,7 +450,10 @@
 </div>
 <div>
 <p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<num value="1">正月</num>
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="2">乙丑</num>
 <pc>，</pc>封秉常子乾順爲夏國主<pc>。</pc>
 <num value="5">戊辰</num>
@@ -654,7 +660,10 @@
 </div>
 <div>
 <p>　　<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>春<num value="1">正月</num>
+<num value="3">三</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="46">己酉</num>朔<pc>，</pc>不受朝<pc>。</pc>
 <num value="47">庚戌</num>
 <pc>，</pc>復廣惠倉<pc>。</pc>
@@ -832,7 +841,10 @@
 </div>
 <div>
 <p>　　<measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<num value="1">正月</num>
+<num value="4">四</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="9">壬申</num>朔<pc>，</pc>不受朝<pc>，</pc>群臣及遼使詣東上閣門<pc>、</pc>內東門拜表賀<pc>。</pc>
 <num value="13">丙子</num>
 <pc>，</pc>宴遼使於紫宸殿<pc>。</pc>
@@ -999,7 +1011,10 @@
 </div>
 <div>
 <p>　　<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>春<num value="1">正月</num>
+<num value="5">五</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="4">丁卯</num>朔<pc>，</pc>御大慶殿視朝<pc>。</pc>
 <num value="14">丁丑</num>
 <pc>，</pc>朝獻景靈宮<pc>。</pc>
@@ -1117,7 +1132,10 @@
 </div>
 <div>
 <p>　　<measure quantity="6" unit="years">
-<num value="6">六</num>年</measure>春<num value="1">正月</num>
+<num value="6">六</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="58">辛酉</num>朔<pc>，</pc>不受朝<pc>，</pc>群臣及遼使詣東上閣門<pc>、</pc>內東門拜表賀<pc>。</pc>
 <num value="10">癸酉</num>
 <pc>，</pc>詔祠祭<pc>、</pc>游幸毋用羔<pc>。</pc>
@@ -1302,7 +1320,10 @@
 </div>
 <div>
 <p>　　<measure quantity="7" unit="years">
-<num value="7">七</num>年</measure>春<num value="1">正月</num>
+<num value="7">七</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="41">甲辰</num>
 <pc>，</pc>以遼使耶律迪卒<pc>，</pc>輟朝<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
@@ -1443,7 +1464,10 @@
 </div>
 <div>
 <p>　　<measure quantity="8" unit="years">
-<num value="8">八</num>年</measure>春<num value="1">正月</num>
+<num value="8">八</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="16">己卯</num>朔<pc>，</pc>不受朝<pc>。</pc>
 <num value="21">甲申</num>
 <pc>，</pc>蔡確卒<pc>。</pc>

@@ -38,13 +38,19 @@
 <num value="24">丁亥</num>
 <pc>，</pc>又改今名<pc>。</pc>大觀<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>進封定王<pc>。</pc>政和元年<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <pc>，</pc>講學於資善堂<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>加太保<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
@@ -90,7 +96,10 @@
 </p>
 </div>
 <div>
-<p>　　靖康元年春<num value="1">正月</num>
+<p>　　靖康元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="4">丁卯</num>朔<pc>，</pc>受群臣朝賀<pc>，</pc>退詣龍德宮<pc>，</pc>賀道君皇帝<pc>。</pc>詔中外臣庶實封言得失<pc>。</pc>金人破相州<pc>。</pc>
 <num value="5">戊辰</num>
 <pc>，</pc>破濬州<pc>。</pc>威武軍<term>節度使</term>梁方平師潰<pc>，</pc>河北<pc>、</pc>河東路制置副使何灌退保滑州<pc>。</pc>
@@ -366,7 +375,8 @@
 <div>
 <p>　　秋<measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
-<num value="2">乙丑</num>朔<pc>，</pc>除元符上書邪等之禁<pc>。</pc>宋昭政和中上書諫攻遼<pc>，</pc>貶連州；<num value="7">庚午</num>
+<num value="2">乙丑</num>朔<pc>，</pc>除元符上書邪等之禁<pc>。</pc>宋昭政和中上書諫攻遼<pc>，</pc>貶連州<pc>；</pc>
+<num value="7">庚午</num>
 <pc>，</pc>詔赴都堂<pc>。</pc>
 <num value="12">乙亥</num>
 <pc>，</pc>安置蔡京於儋州<pc>，</pc>攸雷州<pc>，</pc>童貫吉陽軍<pc>。</pc>
@@ -613,7 +623,10 @@
 </div>
 <div>
 <p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<num value="1">正月</num>
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="28">辛卯</num>朔<pc>，</pc>命濟王栩<pc>、</pc>景王杞出賀金軍<pc>，</pc>金人亦遣使入賀<pc>。</pc>
 <num value="29">壬辰</num>
 <pc>，</pc>金人趣召康王還<pc>。</pc>遣聶昌<pc>、</pc>耿南仲<pc>、</pc>陳過庭出割兩河地<pc>，</pc>民堅守不奉詔<pc>，</pc>凡累月<pc>，</pc>止得石州<pc>。</pc>

@@ -65,7 +65,7 @@
 <div>
 <p>　　<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>淮南勸農使王貫之導海州石闥堰水入漣水軍<pc>，</pc>溉民田；知定遠縣江澤<pc>、</pc>知江陰軍崔立率民修廢塘<pc>，</pc>浚古港<pc>，</pc>以灌高仰之地<pc>。</pc>並賜詔獎焉<pc>。</pc>
+<pc>，</pc>淮南勸農使王貫之導海州石闥堰水入漣水軍<pc>，</pc>溉民田<pc>；</pc>知定遠縣江澤<pc>、</pc>知江陰軍崔立率民修廢塘<pc>，</pc>浚古港<pc>，</pc>以灌高仰之地<pc>。</pc>並賜詔獎焉<pc>。</pc>
 </p>
 </div>
 <div>
@@ -109,7 +109,7 @@
 <num value="1">一</num>年</measure>
 <pc>，</pc>遂罷兩浙工役<pc>。</pc>又數月<pc>，</pc>中書檢正沈括複言<pc>：</pc>
 <pc>「</pc>
-<quote>浙西涇浜淺涸<pc>，</pc>當浚；浙東堤防川瀆堙沒<pc>，</pc>當修<pc>。</pc>請下司農貸緡募役<pc>。</pc>
+<quote>浙西涇浜淺涸<pc>，</pc>當浚<pc>；</pc>浙東堤防川瀆堙沒<pc>，</pc>當修<pc>。</pc>請下司農貸緡募役<pc>。</pc>
 </quote>
 <pc>」</pc>從之<pc>，</pc>仍命括相度兩浙水利<pc>。</pc>
 </p>
@@ -117,7 +117,10 @@
 <div>
 <p>　　<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="19">壬午</num>
 <pc>，</pc>劉瑾言<pc>：</pc>
 <pc>「</pc>
@@ -143,7 +146,10 @@
 <div>
 <p>　　<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="5">戊辰</num>
 <pc>，</pc>開龜山運河<pc>，</pc>
 <measure quantity="2" unit="months">
@@ -153,7 +159,10 @@
 <pc>，</pc>皮公弼請複浚治<pc>，</pc>起<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <num value="39">壬寅</num>
-<pc>，</pc>盡明年<num value="1">正月</num>
+<pc>，</pc>盡明年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="34">丁酉</num>而畢<pc>，</pc>人便之<pc>。</pc>至是<pc>，</pc>發運使羅拯複欲自洪澤而上<pc>，</pc>鑿龜山裏河以達於淮<pc>，</pc>帝深然之<pc>。</pc>會發運使蔣之奇入對<pc>，</pc>建言<pc>：</pc>
 <pc>「</pc>
 <quote>上有清汴<pc>，</pc>下有洪澤<pc>，</pc>而風浪之險止<num value="100">百</num>里淮<pc>，</pc>邇歲溺公私之載不可計<pc>。</pc>凡諸道轉輸<pc>，</pc>涉湖行江<pc>，</pc>已數<num value="1000">千</num>里<pc>，</pc>而覆敗於此<num value="100">百</num>里間<pc>，</pc>良為可惜<pc>。</pc>宜自龜山蛇浦下屬洪澤<pc>，</pc>鑿左肋為複河<pc>，</pc>取淮為源<pc>，</pc>不置堰閘<pc>，</pc>可免風濤覆溺之患<pc>。</pc>
@@ -233,7 +242,10 @@
 </p>
 </div>
 <div>
-<p>　　元符元年<num value="1">正月</num>
+<p>　　元符元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>知潤州王悆建言<pc>：</pc>
 <pc>「</pc>
 <quote>呂城閘常宜單水入澳<pc>，</pc>灌注閘身以濟舟<pc>。</pc>若舟遝至而力不給<pc>，</pc>許量差牽駕兵卒<pc>，</pc>並力為之<pc>。</pc>監官任滿<pc>，</pc>水無走泄者賞<pc>，</pc>水未應而輒開閘者罰<pc>，</pc>守貳<pc>、</pc>令佐<pc>，</pc>常覺察之<pc>。</pc>
@@ -285,7 +297,7 @@
 <pc>「</pc>
 <quote>
 <measure quantity="3" unit="prefectures">
-<num value="3">三</num>州</measure>開江兵卒<num value="400">千四百</num>人<pc>，</pc>使臣<num value="2">二</num>人<pc>，</pc>請就令護察已開之江<pc>，</pc>遇潮沙淤澱<pc>，</pc>隨即開淘；若他役者<pc>，</pc>以違制論<pc>。</pc>
+<num value="3">三</num>州</measure>開江兵卒<num value="400">千四百</num>人<pc>，</pc>使臣<num value="2">二</num>人<pc>，</pc>請就令護察已開之江<pc>，</pc>遇潮沙淤澱<pc>，</pc>隨即開淘<pc>；</pc>若他役者<pc>，</pc>以違制論<pc>。</pc>
 </quote>
 <pc>」</pc>確與監司往往被賞<pc>，</pc>人以為濫<pc>。</pc>
 </p>
@@ -316,7 +328,10 @@
 <div>
 <p>　　<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>以倉部員外郎沈延嗣提舉開修青草<pc>、</pc>洞庭直河<pc>。</pc>
 </p>
 </div>
@@ -325,7 +340,7 @@
 <num value="5">五</num>月</measure>
 <pc>，</pc>中書舍人許光凝奏<pc>：</pc>
 <pc>「</pc>
-<quote>臣向在姑蘇<pc>，</pc>遍詢民吏<pc>，</pc>皆謂欲去水患<pc>，</pc>莫若開江浚浦<pc>。</pc>蓋太湖在諸郡間<pc>，</pc>必導之海然後水有所歸<pc>。</pc>自太湖距海<pc>，</pc>有<num value="3">三</num>江<pc>，</pc>有諸浦<pc>，</pc>能疏滌江<pc>、</pc>浦<pc>，</pc>除水患猶反掌耳<pc>。</pc>今境內積水<pc>，</pc>視去歲損<num value="2">二</num>尺<pc>，</pc>視前歲損<num value="4">四</num>尺<pc>，</pc>良由初開吳松江<pc>，</pc>繼浚<num value="8">八</num>浦之力也<pc>。</pc>吳人謂開<num value="1">一</num>江有<num value="1">一</num>江之利<pc>，</pc>浚<num value="1">一</num>浦有<num value="1">一</num>浦之利<pc>。</pc>願委本路監司<pc>，</pc>與諳曉水勢精強之吏<pc>，</pc>遍詣江<pc>、</pc>浦<pc>，</pc>詳究利害<pc>，</pc>假以歲月<pc>，</pc>先為之備<pc>。</pc>然後興夫調役<pc>，</pc>可使公無費財<pc>，</pc>而歲供常足；人不告勞<pc>，</pc>而民食不匱<pc>，</pc>是<num value="1">一</num>舉而獲<num value="10000">萬</num>世之利也<pc>。</pc>
+<quote>臣向在姑蘇<pc>，</pc>遍詢民吏<pc>，</pc>皆謂欲去水患<pc>，</pc>莫若開江浚浦<pc>。</pc>蓋太湖在諸郡間<pc>，</pc>必導之海然後水有所歸<pc>。</pc>自太湖距海<pc>，</pc>有<num value="3">三</num>江<pc>，</pc>有諸浦<pc>，</pc>能疏滌江<pc>、</pc>浦<pc>，</pc>除水患猶反掌耳<pc>。</pc>今境內積水<pc>，</pc>視去歲損<num value="2">二</num>尺<pc>，</pc>視前歲損<num value="4">四</num>尺<pc>，</pc>良由初開吳松江<pc>，</pc>繼浚<num value="8">八</num>浦之力也<pc>。</pc>吳人謂開<num value="1">一</num>江有<num value="1">一</num>江之利<pc>，</pc>浚<num value="1">一</num>浦有<num value="1">一</num>浦之利<pc>。</pc>願委本路監司<pc>，</pc>與諳曉水勢精強之吏<pc>，</pc>遍詣江<pc>、</pc>浦<pc>，</pc>詳究利害<pc>，</pc>假以歲月<pc>，</pc>先為之備<pc>。</pc>然後興夫調役<pc>，</pc>可使公無費財<pc>，</pc>而歲供常足<pc>；</pc>人不告勞<pc>，</pc>而民食不匱<pc>，</pc>是<num value="1">一</num>舉而獲<num value="10000">萬</num>世之利也<pc>。</pc>
 </quote>
 <pc>」</pc>詔吳擇仁相度以聞<pc>，</pc>開江之議復興矣<pc>。</pc>
 </p>
@@ -362,7 +377,7 @@
 </quote>
 <pc>」</pc>章下工部<pc>，</pc>工部謂<pc>：</pc>
 <pc>「</pc>
-<quote>今所具<num value="3">三</num>江<pc>，</pc>或非禹跡；又吳松江散漫<pc>，</pc>不可開淘泄水<pc>。</pc>
+<quote>今所具<num value="3">三</num>江<pc>，</pc>或非禹跡<pc>；</pc>又吳松江散漫<pc>，</pc>不可開淘泄水<pc>。</pc>
 </quote>
 <pc>」</pc>遂命諸司再相度以聞<pc>。</pc>
 </p>
@@ -422,14 +437,17 @@
 <num value="2">二</num>月</measure>
 <pc>，</pc>工部言<pc>：</pc>
 <pc>「</pc>
-<quote>前太平州判官盧宗原請開修自江州至真州古來河道湮塞者凡<num value="7">七</num>處<pc>，</pc>以成運河<pc>，</pc>入浙西<num value="150">一百五十</num>裏<pc>，</pc>可避<num value="1600">一千六百</num>里大江風濤之患；又可就土興築自古江水浸沒膏腴田<pc>，</pc>自<num value="300">三百</num>頃至<num value="10000">萬</num>頃者凡<num value="9">九</num>所<pc>，</pc>計<num value="42000">四萬二千</num>餘頃<pc>，</pc>其<num value="300">三百</num>頃以下者又過之<pc>。</pc>乞依宗原任太平州判官日已興政和圩田例<pc>，</pc>召人戶自備財力興修<pc>。</pc>
+<quote>前太平州判官盧宗原請開修自江州至真州古來河道湮塞者凡<num value="7">七</num>處<pc>，</pc>以成運河<pc>，</pc>入浙西<num value="150">一百五十</num>裏<pc>，</pc>可避<num value="1600">一千六百</num>里大江風濤之患<pc>；</pc>又可就土興築自古江水浸沒膏腴田<pc>，</pc>自<num value="300">三百</num>頃至<num value="10000">萬</num>頃者凡<num value="9">九</num>所<pc>，</pc>計<num value="42000">四萬二千</num>餘頃<pc>，</pc>其<num value="300">三百</num>頃以下者又過之<pc>。</pc>乞依宗原任太平州判官日已興政和圩田例<pc>，</pc>召人戶自備財力興修<pc>。</pc>
 </quote>
 <pc>」</pc>詔沈鏻等相度措置<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　<measure quantity="6" unit="years">
-<num value="6">六</num>年</measure>閏<num value="1">正月</num>
+<num value="6">六</num>年</measure>閏<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <pc>，</pc>知杭州李偃言<pc>：</pc>
 <pc>「</pc>
 <quote>湯村<pc>、</pc>岩門<pc>、</pc>白石等處並錢塘江通大海<pc>，</pc>日受兩潮<pc>，</pc>漸至侵齧<pc>。</pc>乞依<num value="6">六</num>和寺岸<pc>，</pc>用石砌疊<pc>。</pc>
@@ -456,7 +474,7 @@
 </quote>
 <pc>」</pc>於是<pc>，</pc>發運副使應<persName>安道</persName>言<pc>：</pc>
 <pc>「</pc>
-<quote>凡港浦非要切者<pc>，</pc>皆可徐議<pc>。</pc>惟當先開昆山縣界茜涇塘等<num value="6">六</num>所；秀之華亭縣<pc>，</pc>欲並循古法<pc>，</pc>盡去諸堰<pc>，</pc>各置小斗門；常州<pc>、</pc>鎮江府<pc>、</pc>望亭鎮<pc>，</pc>仍舊置閘<pc>。</pc>
+<quote>凡港浦非要切者<pc>，</pc>皆可徐議<pc>。</pc>惟當先開昆山縣界茜涇塘等<num value="6">六</num>所<pc>；</pc>秀之華亭縣<pc>，</pc>欲並循古法<pc>，</pc>盡去諸堰<pc>，</pc>各置小斗門<pc>；</pc>常州<pc>、</pc>鎮江府<pc>、</pc>望亭鎮<pc>，</pc>仍舊置閘<pc>。</pc>
 </quote>
 <pc>」</pc>
 <measure quantity="8" unit="months">
@@ -585,7 +603,7 @@
 <num value="2">二</num>月</measure>
 <pc>，</pc>詔<pc>：</pc>
 <pc>「</pc>
-<quote>趙之鑒湖<pc>，</pc>明之廣德湖<pc>，</pc>自措置為田<pc>，</pc>下流堙塞<pc>，</pc>有妨灌溉<pc>，</pc>致失常賦<pc>，</pc>又多為權勢所占<pc>，</pc>兩州被害<pc>，</pc>民以流徙<pc>。</pc>宜令陳亨伯究實<pc>，</pc>如租稅過重<pc>，</pc>即裁為中制；應妨下流灌溉者<pc>，</pc>並馳以予民<pc>。</pc>
+<quote>趙之鑒湖<pc>，</pc>明之廣德湖<pc>，</pc>自措置為田<pc>，</pc>下流堙塞<pc>，</pc>有妨灌溉<pc>，</pc>致失常賦<pc>，</pc>又多為權勢所占<pc>，</pc>兩州被害<pc>，</pc>民以流徙<pc>。</pc>宜令陳亨伯究實<pc>，</pc>如租稅過重<pc>，</pc>即裁為中制<pc>；</pc>應妨下流灌溉者<pc>，</pc>並馳以予民<pc>。</pc>
 </quote>
 <pc>」</pc>
 </p>
@@ -634,7 +652,7 @@
 <num value="9">九</num>月</measure>
 <pc>，</pc>盧宗原複言<pc>：</pc>
 <pc>「</pc>
-<quote>池州大江<pc>，</pc>乃上流綱運所經<pc>，</pc>其東岸皆暗石<pc>，</pc>多至<num value="20">二十</num>餘處；西岸則沙洲<pc>，</pc>廣<num value="200">二百</num>餘裏<pc>。</pc>諺雲'拆船灣'<pc>，</pc>言舟至此<pc>，</pc>必毀拆也<pc>。</pc>今東岸有車軸河口沙地<num value="400">四百</num>餘裏<pc>，</pc>若開通入杜湖<pc>，</pc>使舟經平水<pc>，</pc>徑池口<pc>，</pc>可避<num value="200">二百</num>里風濤拆船之險<pc>，</pc>請措置開修<pc>。</pc>
+<quote>池州大江<pc>，</pc>乃上流綱運所經<pc>，</pc>其東岸皆暗石<pc>，</pc>多至<num value="20">二十</num>餘處<pc>；</pc>西岸則沙洲<pc>，</pc>廣<num value="200">二百</num>餘裏<pc>。</pc>諺雲'拆船灣'<pc>，</pc>言舟至此<pc>，</pc>必毀拆也<pc>。</pc>今東岸有車軸河口沙地<num value="400">四百</num>餘裏<pc>，</pc>若開通入杜湖<pc>，</pc>使舟經平水<pc>，</pc>徑池口<pc>，</pc>可避<num value="200">二百</num>里風濤拆船之險<pc>，</pc>請措置開修<pc>。</pc>
 </quote>
 <pc>」</pc>從之<pc>。</pc>
 </p>
@@ -664,7 +682,7 @@
 <num value="8">八</num>月</measure>辛醜<pc>，</pc>戶部言<pc>：</pc>
 <pc>「</pc>
 <quote>命官在任興修農田水利<pc>，</pc>依元豐賞格<pc>，</pc>
-<num value="1000">千</num>頃以上<pc>，</pc>該第<num value="1">一</num>等<pc>，</pc>轉<num value="1">一</num>官<pc>，</pc>下至<num value="100">百</num>頃<pc>，</pc>皆等第酬獎；紹聖亦如之<pc>。</pc>緣政和續附常平格<pc>，</pc>
+<num value="1000">千</num>頃以上<pc>，</pc>該第<num value="1">一</num>等<pc>，</pc>轉<num value="1">一</num>官<pc>，</pc>下至<num value="100">百</num>頃<pc>，</pc>皆等第酬獎<pc>；</pc>紹聖亦如之<pc>。</pc>緣政和續附常平格<pc>，</pc>
 <num value="1000">千</num>頃增立轉兩官<pc>，</pc>減磨勘<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>實為太優<pc>。</pc>

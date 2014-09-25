@@ -24,7 +24,10 @@
 <body>
 <div type="chapter" n="22">
 <div>
-<p>　　宣和元年春<num value="1">正月</num>
+<p>　　宣和元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="45">戊申</num>朔<pc>，</pc>日下有<num value="5">五</num>色雲<pc>。</pc>
 <num value="49">壬子</num>
 <pc>，</pc>進建安郡王樞為肅王<pc>，</pc>文安郡王杞為景王<pc>，</pc>並為太保<pc>。</pc>
@@ -167,12 +170,15 @@
 <num value="28">辛卯</num>
 <pc>，</pc>大雨雹<pc>。</pc>
 <num value="33">丙申</num>
-<pc>，</pc>帝數微行<pc>，</pc>正字曹輔上書極論之<pc>，</pc>編管郴州<pc>。</pc>是歲<pc>，</pc>京西饑<pc>，</pc>淮東大旱<pc>，</pc>遣官振濟<pc>。</pc>嵐州黃河清<pc>。</pc>升邢州為信德<pc>，</pc>陳州為淮寧<pc>，</pc>襄州為襄陽<pc>，</pc>慶州為慶陽<pc>，</pc>安州為德安<pc>，</pc>鄆州為東平<pc>，</pc>趙州為慶源府；瀘州為瀘川<pc>，</pc>睦州為建德<pc>，</pc>嶽州為岳陽<pc>，</pc>寧州為興寧<pc>，</pc>宜州為慶遠<pc>，</pc>光州為光山<pc>，</pc>均州為武當軍<pc>。</pc>
+<pc>，</pc>帝數微行<pc>，</pc>正字曹輔上書極論之<pc>，</pc>編管郴州<pc>。</pc>是歲<pc>，</pc>京西饑<pc>，</pc>淮東大旱<pc>，</pc>遣官振濟<pc>。</pc>嵐州黃河清<pc>。</pc>升邢州為信德<pc>，</pc>陳州為淮寧<pc>，</pc>襄州為襄陽<pc>，</pc>慶州為慶陽<pc>，</pc>安州為德安<pc>，</pc>鄆州為東平<pc>，</pc>趙州為慶源府<pc>；</pc>瀘州為瀘川<pc>，</pc>睦州為建德<pc>，</pc>嶽州為岳陽<pc>，</pc>寧州為興寧<pc>，</pc>宜州為慶遠<pc>，</pc>光州為光山<pc>，</pc>均州為武當軍<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<num value="1">正月</num>
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="60">癸亥</num>
 <pc>，</pc>追封蔡確為汝南郡王<pc>。</pc>
 <num value="1">甲子</num>
@@ -302,11 +308,14 @@
 </div>
 <div>
 <p>　　<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>春<num value="1">正月</num>
+<num value="3">三</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="39">壬寅</num>
 <pc>，</pc>鄧洵武卒<pc>。</pc>
 <num value="55">戊午</num>
-<pc>，</pc>以安康郡王栩為太保<pc>，</pc>進封濟王；鎮國公模為開府儀同<num value="3">三</num>司<pc>，</pc>進封樂安郡王<pc>。</pc>
+<pc>，</pc>以安康郡王栩為太保<pc>，</pc>進封濟王<pc>；</pc>鎮國公模為開府儀同<num value="3">三</num>司<pc>，</pc>進封樂安郡王<pc>。</pc>
 <num value="56">己未</num>
 <pc>，</pc>詔淮南<pc>、</pc>江東<pc>、</pc>福建各權添置武臣提刑<num value="1">一</num>員<pc>。</pc>
 <num value="58">辛酉</num>
@@ -454,7 +463,10 @@
 </div>
 <div>
 <p>　　<measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<num value="1">正月</num>
+<num value="4">四</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="4">丁卯</num>
 <pc>，</pc>以蔡攸為少保<pc>，</pc>梁師成為開府儀同<num value="3">三</num>司<pc>。</pc>
 <num value="10">癸酉</num>
@@ -605,7 +617,10 @@
 </div>
 <div>
 <p>　　<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>春<num value="1">正月</num>
+<num value="5">五</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="55">戊午</num>
 <pc>，</pc>金人遣李靖來議所許<measure quantity="6" unit="prefectures">
 <num value="6">六</num>州</measure>代租錢<pc>。</pc>
@@ -748,7 +763,10 @@
 </div>
 <div>
 <p>　　<measure quantity="6" unit="years">
-<num value="6">六</num>年</measure>春<num value="1">正月</num>
+<num value="6">六</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="52">乙卯</num>
 <pc>，</pc>為金主輟朝<pc>。</pc>
 <num value="55">戊午</num>
@@ -763,7 +781,7 @@
 <p>　　<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="24">丁亥</num>
-<pc>，</pc>以冀國公㮙為開府儀同<num value="3">三</num>司<pc>，</pc>進封河間郡王；韶州防禦使令蕩為婺州觀察使<pc>，</pc>封安定郡王<pc>。</pc>
+<pc>，</pc>以冀國公㮙為開府儀同<num value="3">三</num>司<pc>，</pc>進封河間郡王<pc>；</pc>韶州防禦使令蕩為婺州觀察使<pc>，</pc>封安定郡王<pc>。</pc>
 <num value="36">己亥</num>
 <pc>，</pc>躬耕藉田<pc>。</pc>
 <num value="43">丙午</num>
@@ -880,7 +898,10 @@
 </div>
 <div>
 <p>　　<measure quantity="7" unit="years">
-<num value="7">七</num>年</measure>春<num value="1">正月</num>
+<num value="7">七</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="10">癸酉</num>朔<pc>，</pc>詔赦兩河<pc>、</pc>京西流民為盜者<pc>，</pc>仍給複<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>
 <pc>。</pc>
@@ -921,7 +942,8 @@
 <num value="57">庚申</num>
 <pc>，</pc>蔡京複致仕<pc>。</pc>複州縣免行錢<pc>。</pc>
 <num value="5">戊辰</num>
-<pc>，</pc>詔行元豐官制<pc>。</pc>複尚書令之名<pc>，</pc>虛而勿授；<num value="3">三</num>公但為階官<pc>，</pc>毋領<num value="3">三</num>省事<pc>。</pc>
+<pc>，</pc>詔行元豐官制<pc>。</pc>複尚書令之名<pc>，</pc>虛而勿授<pc>；</pc>
+<num value="3">三</num>公但為階官<pc>，</pc>毋領<num value="3">三</num>省事<pc>。</pc>
 </p>
 </div>
 <div>
@@ -968,7 +990,8 @@
 <pc>、</pc>
 <pc>「</pc>
 <quote>聖</quote>
-<pc>」</pc>為名字<pc>，</pc>及以<num value="59">壬戌</num>日輔臣焚香<pc>。</pc>
+<pc>」</pc>為名字<pc>，</pc>及以<measure quantity="59" unit="days">
+<num value="59">壬戌</num>日</measure>輔臣焚香<pc>。</pc>
 <num value="11">甲戌</num>
 <pc>，</pc>以河間郡王㮙為太保<pc>，</pc>進封沂王<pc>。</pc>是月<pc>，</pc>河東義勝軍叛<pc>。</pc>熙河<pc>、</pc>河東路地震<pc>。</pc>
 </p>
@@ -1025,7 +1048,10 @@
 </p>
 </div>
 <div>
-<p>　　靖康元年<num value="1">正月</num>
+<p>　　靖康元年<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="6">己巳</num>
 <pc>，</pc>詣亳州太清宮<pc>，</pc>行恭謝禮<pc>，</pc>遂幸鎮江府<pc>。</pc>
 <measure quantity="4" unit="months">
@@ -1063,7 +1089,10 @@
 <pc>，</pc>祔太廟第<num value="11">十一</num>室<pc>。</pc>
 <measure quantity="13" unit="years">
 <num value="13">十三</num>年</measure>
-<num value="1">正月</num>
+<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="36">己亥</num>
 <pc>，</pc>加上尊諡曰體神合道駿烈遜功聖文仁德憲慈顯孝皇帝<pc>。</pc>
 </p>

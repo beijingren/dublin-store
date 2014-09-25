@@ -29,10 +29,14 @@
 </div>
 <div>
 <p>　　<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>春<num value="1">正月</num>
+<num value="3">三</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="10">癸酉</num>朔<pc>，</pc>以出師不御殿<pc>。</pc>
 <num value="11">甲戌</num>
-<pc>，</pc>王全斌克劍門<pc>，</pc>斬首<num value="10000">萬</num>餘级<pc>，</pc>禽蜀樞密使王昭遠<pc>、</pc>澤州節度趙崇韜<pc>。</pc>
+<pc>，</pc>
+<persName>王全斌</persName>克劍門<pc>，</pc>斬首<num value="10000">萬</num>餘级<pc>，</pc>禽蜀樞密使王昭遠<pc>、</pc>澤州節度趙崇韜<pc>。</pc>
 <num value="12">乙亥</num>
 <pc>，</pc>詔瘗征蜀戰死士卒<pc>，</pc>被傷者給繒帛<pc>。</pc>
 <num value="19">壬午</num>
@@ -68,7 +72,8 @@
 <num value="44">丁未</num>
 <pc>，</pc>全州大水<pc>。</pc>
 <num value="57">庚申</num>
-<pc>，</pc>王全斌殺蜀降兵<num value="27000">二萬七千</num>人於成都<pc>。</pc>
+<pc>，</pc>
+<persName>王全斌</persName>殺蜀降兵<num value="27000">二萬七千</num>人於成都<pc>。</pc>
 </p>
 </div>
 <div>
@@ -136,7 +141,7 @@
 <num value="40">癸卯</num>
 <pc>，</pc>河決陽武縣<pc>。</pc>
 <num value="47">庚戌</num>
-<pc>，</pc>詔王全斌等廩蜀亡命兵士家<pc>。</pc>
+<pc>，</pc>詔<persName>王全斌</persName>等廩蜀亡命兵士家<pc>。</pc>
 <num value="52">乙卯</num>
 <pc>，</pc>河溢河陽<pc>，</pc>壞民居<pc>。</pc>
 <num value="55">戊午</num>
@@ -191,7 +196,10 @@
 </div>
 <div>
 <p>　　<measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<num value="1">正月</num>
+<num value="4">四</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="13">丙子</num>
 <pc>，</pc>遣使分詣江陵<pc>、</pc>鳳翔<pc>，</pc>賜蜀群臣家錢帛<pc>。</pc>
 <num value="24">丁亥</num>
@@ -298,7 +306,7 @@
 <num value="39">壬寅</num>
 <pc>，</pc>詔憲臣及吏<pc>、</pc>刑部官<num value="3">三</num>周歲滿日<pc>，</pc>即轉授加恩<pc>。</pc>
 <num value="47">庚戌</num>
-<pc>，</pc>樞密直學士馮瓚<pc>、</pc>綾錦副使李美<pc>、</pc>殿中侍御史李橶為<term>宰相</term>趙普陷<pc>，</pc>以贓論死；會赦<pc>，</pc>流沙門島<pc>，</pc>逢恩不還<pc>。</pc>
+<pc>，</pc>樞密直學士馮瓚<pc>、</pc>綾錦副使李美<pc>、</pc>殿中侍御史李橶為<term>宰相</term>趙普陷<pc>，</pc>以贓論死<pc>；</pc>會赦<pc>，</pc>流沙門島<pc>，</pc>逢恩不還<pc>。</pc>
 <num value="48">辛亥</num>
 <pc>，</pc>幸玉津園宴射<pc>。</pc>京兆府貢野蠶繭<pc>。</pc>
 <num value="49">壬子</num>
@@ -348,7 +356,10 @@
 </div>
 <div>
 <p>　　<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>春<num value="1">正月</num>
+<num value="5">五</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="35">戊戌</num>
 <pc>，</pc>治河堤<pc>。</pc>
 <num value="44">丁未</num>
@@ -357,7 +368,8 @@
 <pc>」</pc>
 <pc>。</pc>
 <num value="51">甲寅</num>
-<pc>，</pc>王全斌等坐伐蜀黷貨殺降<pc>，</pc>全斌責崇義軍<term>節度使</term>
+<pc>，</pc>
+<persName>王全斌</persName>等坐伐蜀黷貨殺降<pc>，</pc>全斌責崇義軍<term>節度使</term>
 <pc>，</pc>崔彥進責昭化軍<term>節度使</term>
 <pc>，</pc>王仁贍責右衛大將軍<pc>。</pc>
 <num value="53">丙辰</num>
@@ -455,7 +467,10 @@
 </p>
 </div>
 <div>
-<p>　　開寶元年春<num value="1">正月</num>
+<p>　　開寶元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="31">甲午</num>
 <pc>，</pc>增治京城<pc>。</pc>陝之集津<pc>、</pc>絳之垣曲<pc>、</pc>懷之武陟飢<pc>，</pc>振之<pc>。</pc>
 <num value="36">己亥</num>
@@ -569,7 +584,10 @@
 </div>
 <div>
 <p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<num value="1">正月</num>
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="16">己卯</num>朔<pc>，</pc>以出師<pc>，</pc>不御殿<pc>。</pc>
 </p>
 </div>
@@ -733,7 +751,10 @@
 </div>
 <div>
 <p>　　<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>春<num value="1">正月</num>
+<num value="3">三</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="40">癸卯</num>朔<pc>，</pc>雨雪<pc>，</pc>不御殿<pc>。</pc>
 <num value="50">癸丑</num>
 <pc>，</pc>增河隄<pc>。</pc>
@@ -863,7 +884,10 @@
 </div>
 <div>
 <p>　　<measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<num value="1">正月</num>
+<num value="4">四</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="35">戊戌</num>朔<pc>，</pc>以出師<pc>，</pc>不視朝<pc>。</pc>
 <num value="43">丙午</num>
 <pc>，</pc>罷諸道州縣攝官<pc>。</pc>
@@ -893,7 +917,7 @@
 <num value="32">乙未</num>
 <pc>，</pc>幸飛龍院<pc>，</pc>賜從臣馬<pc>。</pc>
 <num value="33">丙申</num>
-<pc>，</pc>詔<pc>：</pc>廣南有賣人男女為奴婢轉傭利者<pc>，</pc>並放免；偽政有害于民者具以聞<pc>，</pc>除之<pc>。</pc>增前代帝王守陵戶<num value="2">二</num>
+<pc>，</pc>詔<pc>：</pc>廣南有賣人男女為奴婢轉傭利者<pc>，</pc>並放免<pc>；</pc>偽政有害于民者具以聞<pc>，</pc>除之<pc>。</pc>增前代帝王守陵戶<num value="2">二</num>
 <pc>。</pc>
 </p>
 </div>
@@ -920,7 +944,7 @@
 <div>
 <p>　　<measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
-<num value="32">乙未</num>朔<pc>，</pc>御明德門受劉鋹俘<pc>，</pc>釋之；斬其柄臣龔澄樞<pc>、</pc>李托<pc>、</pc>薛崇譽<pc>。</pc>大宴於大明殿<pc>，</pc>鋹預焉<pc>。</pc>
+<num value="32">乙未</num>朔<pc>，</pc>御明德門受劉鋹俘<pc>，</pc>釋之<pc>；</pc>斬其柄臣龔澄樞<pc>、</pc>李托<pc>、</pc>薛崇譽<pc>。</pc>大宴於大明殿<pc>，</pc>鋹預焉<pc>。</pc>
 <num value="34">丁酉</num>
 <pc>，</pc>賞伐廣南功<pc>，</pc>潘美<pc>、</pc>尹崇珂等進爵有差<pc>。</pc>
 </p>
@@ -992,7 +1016,8 @@
 <pc>，</pc>日南至<pc>，</pc>有事南郊<pc>，</pc>大赦<pc>，</pc>
 <num value="10">十</num>惡<pc>、</pc>故劫殺<pc>、</pc>官吏受贓者不原<pc>。</pc>詔置諸州幕職官奉戶<pc>。</pc>
 <num value="59">壬戌</num>
-<pc>，</pc>蜀班內殿直<num value="40">四十</num>人<pc>，</pc>援御馬直例乞賞<pc>，</pc>遂撾登聞鼓<pc>，</pc>命各杖<num value="20">二十</num>；翌日<pc>，</pc>悉斬於營<pc>，</pc>都指揮單斌等皆杖<pc>、</pc>降<pc>。</pc>
+<pc>，</pc>蜀班內殿直<num value="40">四十</num>人<pc>，</pc>援御馬直例乞賞<pc>，</pc>遂撾登聞鼓<pc>，</pc>命各杖<num value="20">二十</num>
+<pc>；</pc>翌日<pc>，</pc>悉斬於營<pc>，</pc>都指揮單斌等皆杖<pc>、</pc>降<pc>。</pc>
 </p>
 </div>
 <div>

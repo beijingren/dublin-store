@@ -25,7 +25,10 @@
 <div type="chapter" n="20">
 <div>
 <p>　　<measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<num value="1">正月</num>
+<num value="4">四</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="7">庚午</num>朔<pc>，</pc>改熙河蘭會路為熙河蘭湟路<pc>。</pc>
 <num value="23">丙戌</num>
 <pc>，</pc>築溪哥城<pc>。</pc>
@@ -97,7 +100,7 @@
 <num value="15">戊寅</num>
 <pc>，</pc>夏人攻臨宗砦<pc>。</pc>
 <num value="18">辛巳</num>
-<pc>，</pc>詔諸路走馬承受毋得預軍政及邊事<pc>。</pc>己醜<pc>，</pc>夏人寇順寧砦<pc>，</pc>鄜延第<num value="2">二</num>副將劉延慶擊破之；複攻湟州北蕃市城<pc>，</pc>知州辛叔獻等擊卻之<pc>。</pc>
+<pc>，</pc>詔諸路走馬承受毋得預軍政及邊事<pc>。</pc>己醜<pc>，</pc>夏人寇順寧砦<pc>，</pc>鄜延第<num value="2">二</num>副將劉延慶擊破之<pc>；</pc>複攻湟州北蕃市城<pc>，</pc>知州辛叔獻等擊卻之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -206,7 +209,10 @@
 </div>
 <div>
 <p>　　<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>春<num value="1">正月</num>
+<num value="5">五</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="35">戊戌</num>
 <pc>，</pc>彗出西方<pc>，</pc>其長竟天<pc>。</pc>
 <num value="37">庚子</num>
@@ -340,7 +346,10 @@
 </p>
 </div>
 <div>
-<p>　　大觀元年春<num value="1">正月</num>
+<p>　　大觀元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="25">戊子</num>朔<pc>，</pc>赦天下<pc>。</pc>
 <num value="31">甲午</num>
 <pc>，</pc>以蔡京為尚書左僕射兼門下侍郎<pc>。</pc>
@@ -510,19 +519,22 @@
 </div>
 <div>
 <p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<num value="1">正月</num>
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="49">壬子</num>朔<pc>，</pc>受<num value="8">八</num>寶於大慶殿<pc>，</pc>赦天下<pc>，</pc>文武進位<num value="1">一</num>等<pc>。</pc>蔡京表賀符瑞<pc>。</pc>
 <num value="52">乙卯</num>
 <pc>，</pc>以婉儀劉氏為德妃<pc>。</pc>
 <num value="56">己未</num>
-<pc>，</pc>蔡京進太師；加童貫<term>節度使</term>
+<pc>，</pc>蔡京進太師<pc>；</pc>加童貫<term>節度使</term>
 <pc>，</pc>仍宣撫<pc>。</pc>
 <num value="57">庚申</num>
-<pc>，</pc>進封魏王俁為燕王<pc>，</pc>鄧王偲為越王<pc>，</pc>並為太尉；京兆郡王桓為定王<pc>，</pc>高密郡王楷為嘉王<pc>，</pc>並為司空；吳國公樞為建安郡王<pc>，</pc>冀國公杞為文安郡王<pc>，</pc>楚國公栩為安康郡王<pc>，</pc>楊國公棫為濟陽郡王<pc>，</pc>蜀國公構為廣平郡王<pc>，</pc>並為開府儀同<num value="3">三</num>司<pc>。</pc>
+<pc>，</pc>進封魏王俁為燕王<pc>，</pc>鄧王偲為越王<pc>，</pc>並為太尉<pc>；</pc>京兆郡王桓為定王<pc>，</pc>高密郡王楷為嘉王<pc>，</pc>並為司空<pc>；</pc>吳國公樞為建安郡王<pc>，</pc>冀國公杞為文安郡王<pc>，</pc>楚國公栩為安康郡王<pc>，</pc>楊國公棫為濟陽郡王<pc>，</pc>蜀國公構為廣平郡王<pc>，</pc>並為開府儀同<num value="3">三</num>司<pc>。</pc>
 <num value="1">甲子</num>
 <pc>，</pc>以神宗德妃宋氏<pc>、</pc>劉氏為淑妃<pc>，</pc>賢妃喬氏為德妃<pc>。</pc>
 <num value="7">庚午</num>
-<pc>，</pc>徙封仲損為齊安郡王<pc>，</pc>仲禦為華陽郡王<pc>，</pc>孝騫為晉康郡王<pc>，</pc>孝參為豫章郡王<pc>，</pc>並開府儀同<num value="3">三</num>司；封仲增為信安郡王<pc>，</pc>仲忽為普安郡王<pc>，</pc>仲癸為咸安郡王<pc>，</pc>仲僕為同安郡王<pc>，</pc>仲糜為淮安郡王<pc>。</pc>
+<pc>，</pc>徙封仲損為齊安郡王<pc>，</pc>仲禦為華陽郡王<pc>，</pc>孝騫為晉康郡王<pc>，</pc>孝參為豫章郡王<pc>，</pc>並開府儀同<num value="3">三</num>司<pc>；</pc>封仲增為信安郡王<pc>，</pc>仲忽為普安郡王<pc>，</pc>仲癸為咸安郡王<pc>，</pc>仲僕為同安郡王<pc>，</pc>仲糜為淮安郡王<pc>。</pc>
 <num value="15">戊寅</num>
 <pc>，</pc>徙封向宗回為漢東郡王<pc>，</pc>向宗良為開府儀同<num value="3">三</num>司<pc>。</pc>仲損薨<pc>。</pc>河東<pc>、</pc>北盜起<pc>。</pc>
 </p>
@@ -634,7 +646,10 @@
 </div>
 <div>
 <p>　　<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>春<num value="1">正月</num>
+<num value="3">三</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="52">乙卯</num>
 <pc>，</pc>祔靖和皇后神主于別廟<pc>。</pc>
 <num value="56">己未</num>
@@ -767,7 +782,10 @@
 </div>
 <div>
 <p>　　<measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<num value="1">正月</num>
+<num value="4">四</num>年</measure>春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="40">癸卯</num>
 <pc>，</pc>罷改鑄當<num value="10">十</num>錢<pc>。</pc>
 <num value="58">辛酉</num>
@@ -919,7 +937,10 @@
 </p>
 </div>
 <div>
-<p>　　政和元年春<num value="1">正月</num>
+<p>　　政和元年春<measure quantity="1" unit="month">
+<num value="1">
+<num value="1">正</num>月</num>
+</measure>
 <num value="6">己巳</num>
 <pc>，</pc>以賢妃王氏為德妃<pc>。</pc>
 <num value="9">壬申</num>
