@@ -1,0 +1,41 @@
+Prefix(:=<http://example.org/owl/sikuquanshu#>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+
+Ontology(<http://example.org/owl/sikuquanshu#>
+
+	Declaration(Class(:Person))
+	Declaration(Class(:City))
+	Declaration(Class(:Settlement))
+	Declaration(Class(:PopulatedPlace))
+	Declaration(Class(:Place))
+	Declaration(Class(:Xian))
+	Declaration(Class(:Zhou))
+	Declaration(Class(:SexagenaryCycle))
+	Declaration(Class(:OfficialTitle))
+	Declaration(Class(:Nianhao))
+	Declaration(Class(:Term))
+
+	SubClassOf(:Person owl:Thing)
+	SubClassOf(:Place owl:Thing)
+	SubClassOf(:PopulatedPlace :Place)
+	SubClassOf(:Settlement :PopulatedPlace)
+	SubClassOf(:City :Settlement)
+	SubClassOf(:Xian :Place)
+	SubClassOf(:Zhou :Place)
+	SubClassOf(:OfficialTitle :Term)
+
+	Declaration(ObjectProperty(:zi))
+	Declaration(ObjectProperty(:hao))
+	Declaration(ObjectProperty(:shihao))
+	Declaration(DataProperty(:jinshi))
+
+	Declaration(ObjectProperty(:hasChild))
+	Declaration(ObjectProperty(:hasWife))
+
+	ClassAssertion(:Person :{persname})
+
+	ClassAssertion(:Place :{placename})
+
+	ClassAssertion(:Term :{term})
+)
