@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="173">
 <div>
-<p>◎食貨上<num value="1">一</num>
+<p>
+<name key="null" type="null">◎食貨</name>上<num value="1">一</num>
 <pc>（</pc>農田<pc>）</pc>
 </p>
 </div>
@@ -88,7 +89,7 @@
 </p>
 </div>
 <div>
-<p>農田之製自<date>
+<p>農田之製自<date when="null">
 <num value="5">五</num>代</date>以兵戰為務<pc>，</pc>條章多闕<pc>，</pc>周世宗始遣使均括諸州民田<pc>。</pc>太祖即位<pc>，</pc>循用其法<pc>，</pc>建隆以來<pc>，</pc>命官分詣諸道均田<pc>，</pc>苛暴失實者輒譴黜<pc>。</pc>申明周顯德<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>之令<pc>，</pc>課民種樹<pc>，</pc>定民籍為<num value="5">五</num>等<pc>，</pc>第<num value="1">一</num>等種雜樹<num value="100">百</num>
 <pc>，</pc>每等減<num value="20">二十</num>為差<pc>，</pc>桑棗半之<pc>；</pc>男女<measure quantity="10" unit="years">
@@ -98,7 +99,9 @@
 </p>
 </div>
 <div>
-<p>太宗太平興國中<pc>，</pc>兩京<pc>、</pc>諸路許民共推練土地之宜<pc>、</pc>明樹藝之法者<num value="1">一</num>人<pc>，</pc>縣補為農師<pc>，</pc>令相視田畝肥瘠及<num value="5">五</num>種所宜<pc>，</pc>某家有種<pc>，</pc>某戶有丁男<pc>，</pc>某人有耕牛<pc>；</pc>即同鄉<num value="3">三</num>老<pc>、</pc>裏胥召集餘夫<pc>，</pc>分畫曠土<pc>，</pc>勸令種蒔<pc>，</pc>候歲熟共取其利<pc>。</pc>為農師者蠲稅免役<pc>。</pc>民有飲博怠於農務者<pc>，</pc>農師謹察之<pc>，</pc>白州縣論罪<pc>，</pc>以警遊惰<pc>。</pc>所墾田即為永業<pc>，</pc>官不取其租<pc>。</pc>其後以煩擾罷<pc>。</pc>初<pc>，</pc>農時<pc>，</pc>太宗嚐令取畿內青苗觀之<pc>，</pc>聽政之次<pc>，</pc>出示近臣<pc>。</pc>是歲<pc>，</pc>畿內菽粟苗皆長數尺<pc>。</pc>帝顧謂左右曰<pc>：</pc>
+<p>太宗太平興國中<pc>，</pc>兩京<pc>、</pc>諸路許民共推練土地之宜<pc>、</pc>明樹藝之法者<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>縣補為農師<pc>，</pc>令相視田畝肥瘠及<num value="5">五</num>種所宜<pc>，</pc>某家有種<pc>，</pc>某戶有丁男<pc>，</pc>某人有耕牛<pc>；</pc>即同鄉<num value="3">三</num>老<pc>、</pc>裏胥召集餘夫<pc>，</pc>分畫曠土<pc>，</pc>勸令種蒔<pc>，</pc>候歲熟共取其利<pc>。</pc>為農師者蠲稅免役<pc>。</pc>民有飲博怠於農務者<pc>，</pc>農師謹察之<pc>，</pc>白州縣論罪<pc>，</pc>以警遊惰<pc>。</pc>所墾田即為永業<pc>，</pc>官不取其租<pc>。</pc>其後以煩擾罷<pc>。</pc>初<pc>，</pc>農時<pc>，</pc>太宗嚐令取畿內青苗觀之<pc>，</pc>聽政之次<pc>，</pc>出示近臣<pc>。</pc>是歲<pc>，</pc>畿內菽粟苗皆長數尺<pc>。</pc>帝顧謂左右曰<pc>：</pc>
 <pc>“</pc>朕每念耕稼之勤<pc>，</pc>苟非兵食所資<pc>，</pc>固當盡複其租稅<pc>。</pc>
 <pc>”</pc>
 </p>
@@ -431,7 +434,9 @@
 <pc>》</pc>
 <num value="13">十三</num>篇<pc>，</pc>大略謂<pc>：</pc>
 <pc>“</pc>
-<date>國朝</date>兵農之政<pc>，</pc>大抵因唐末之故<pc>。</pc>今農貧而多失職<pc>，</pc>兵驕而不可用<pc>，</pc>是以饑民竄卒<pc>，</pc>類為盜賊<pc>。</pc>宜仿古井田之製<pc>，</pc>使民<num value="1">一</num>夫占田<num value="50">五十</num>畝<pc>，</pc>其羨田之家毋得市田<pc>；</pc>其無田與遊惰末作者<pc>，</pc>皆使為隸農<pc>，</pc>以耕田之羨者<pc>。</pc>雜紐錢穀<pc>，</pc>以為什<num value="1">一</num>之稅<pc>。</pc>本朝<num value="2">二</num>稅之數<pc>，</pc>視唐增至<num value="7">七</num>倍<pc>。</pc>今本政之製<pc>，</pc>每<num value="16">十六</num>夫為<num value="1">一</num>井<pc>，</pc>提封<num value="100">百</num>裏<pc>，</pc>為<num value="3400">三千四百</num>井<pc>，</pc>率稅米<num value="51000">五萬一千</num>斛<pc>，</pc>錢<num value="2000">萬二千</num>緡<pc>。</pc>每井賦<num value="2">二</num>兵<num value="1">一</num>馬<pc>，</pc>率為兵<num value="6800">六千八百</num>人<pc>，</pc>馬<num value="3400">三千四百</num>匹<pc>。</pc>
+<date when="null">國朝</date>兵農之政<pc>，</pc>大抵因唐末之故<pc>。</pc>今農貧而多失職<pc>，</pc>兵驕而不可用<pc>，</pc>是以饑民竄卒<pc>，</pc>類為盜賊<pc>。</pc>宜仿古井田之製<pc>，</pc>使民<num value="1">一</num>夫占田<num value="50">五十</num>畝<pc>，</pc>其羨田之家毋得市田<pc>；</pc>其無田與遊惰末作者<pc>，</pc>皆使為隸農<pc>，</pc>以耕田之羨者<pc>。</pc>雜紐錢穀<pc>，</pc>以為什<num value="1">一</num>之稅<pc>。</pc>本朝<num value="2">二</num>稅之數<pc>，</pc>視唐增至<num value="7">七</num>倍<pc>。</pc>今本政之製<pc>，</pc>每<num value="16">十六</num>夫為<num value="1">一</num>井<pc>，</pc>提封<num value="100">百</num>裏<pc>，</pc>為<num value="3400">三千四百</num>井<pc>，</pc>率稅米<num value="51000">五萬一千</num>斛<pc>，</pc>錢<num value="2000">萬二千</num>緡<pc>。</pc>每井賦<num value="2">二</num>兵<num value="1">一</num>馬<pc>，</pc>率為兵<measure quantity="6800" unit="people">
+<num value="6800">六千八百</num>人</measure>
+<pc>，</pc>馬<num value="3400">三千四百</num>匹<pc>。</pc>
 <pc>（</pc>此方<num value="100">百</num>裏之縣所出賦稅之數<pc>。</pc>
 <pc>）</pc>歲取<num value="5">五</num>之<num value="1">一</num>以為上番之額<pc>，</pc>以給征役<pc>；</pc>無事則又分為<num value="4">四</num>番<pc>，</pc>以直官府<pc>，</pc>以給守衛<pc>。</pc>是民凡<measure quantity="35" unit="years">
 <num value="35">三十五</num>年</measure>
@@ -712,7 +717,7 @@
 <pc>，</pc>知<placeName>揚州</placeName>晁公武奏<pc>：</pc>
 <pc>“</pc>朝廷以沿淮荒殘之久<pc>，</pc>未行租稅<pc>，</pc>民複業與創戶者<pc>，</pc>雖阡陌相望<pc>，</pc>然聞之官者<num value="10">十</num>才<num value="6">二三</num>
 <pc>，</pc>鹹懼後來稅重<pc>。</pc>昔晚唐民務稼穡則增其租<pc>，</pc>故播種少<pc>；</pc>
-<date>吳越</date>民墾荒田而不加稅<pc>，</pc>故無曠土<pc>。</pc>望詔兩淮更不增賦<pc>，</pc>庶民知勸<pc>。</pc>
+<date when="null">吳越</date>民墾荒田而不加稅<pc>，</pc>故無曠土<pc>。</pc>望詔兩淮更不增賦<pc>，</pc>庶民知勸<pc>。</pc>
 <pc>”</pc>詔可<pc>。</pc>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
@@ -734,7 +739,9 @@
 <num value="6">六</num>年</measure>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
-<pc>，</pc>提舉浙西常平茶鹽顏<persName>師魯</persName>奏<pc>：</pc>
+<pc>，</pc>提舉浙西常平茶鹽顏<name key="尹洙" type="zi">
+<persName>師魯</persName>
+</name>奏<pc>：</pc>
 <pc>“</pc>設勸課之法<pc>，</pc>欲重農桑<pc>、</pc>廣種植也<pc>。</pc>今鄉民於己田連接閑曠磽確之地<pc>，</pc>墾成田園<pc>，</pc>用力甚勤<pc>。</pc>或以未陳起稅<pc>，</pc>為人所訟<pc>，</pc>即以盜耕罪之<pc>，</pc>何以勸力田哉<pc>？</pc>止宜實田起稅<pc>，</pc>非特可戢告訐之風<pc>，</pc>亦見盛世重農之意<pc>。</pc>
 <pc>”</pc>詔可<pc>。</pc>
 <num value="10">十</num>有<measure quantity="1" unit="month">
@@ -840,7 +847,7 @@
 <div>
 <p>
 <pc>“</pc>豪強兼並之患<pc>，</pc>至今日而極<pc>，</pc>非限民名田有所不可<pc>，</pc>是亦救世道之微權也<pc>。</pc>
-<date>國朝</date>駐蹕錢塘<pc>，</pc>
+<date when="null">國朝</date>駐蹕錢塘<pc>，</pc>
 <num value="100">百</num>有<num value="20">二十</num>餘年矣<pc>。</pc>外之境土日荒<pc>，</pc>內之生齒日繁<pc>，</pc>權勢之家日盛<pc>，</pc>兼並之習日滋<pc>，</pc>
 <num value="100">百</num>姓日貧<pc>，</pc>經製日壞<pc>，</pc>上下煎迫<pc>，</pc>若有不可為之勢<pc>。</pc>所謂富貴操柄者<pc>，</pc>若非人主之所得專<pc>，</pc>識者懼焉<pc>。</pc>夫<num value="1000000">百萬</num>生靈資生養之具<pc>，</pc>皆本於穀粟<pc>，</pc>而穀粟之產<pc>，</pc>皆出於田<pc>。</pc>今<num value="100">百</num>姓膏腴皆歸貴勢之家<pc>，</pc>租米有及<num value="1000000">百萬</num>石者<pc>；</pc>少民<num value="100">百</num>畝之田<pc>，</pc>頻年差充保役<pc>，</pc>官吏誅求<num value="100">百</num>端<pc>，</pc>不得已<pc>，</pc>則獻其產於巨室<pc>，</pc>以規免役<pc>。</pc>小民田日減而保役不休<pc>，</pc>大官田日增而保役不及<pc>。</pc>以此弱之肉<pc>，</pc>強之食<pc>，</pc>兼並浸盛<pc>，</pc>民無以遂其生<pc>。</pc>於斯時也<pc>，</pc>可不嚴立經製以為之防乎<pc>？</pc>
 </p>
@@ -918,7 +925,7 @@
 </div>
 <div>
 <p>初<pc>，</pc>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>馬氏於潭州東<num value="20">二十</num>裏<pc>，</pc>因諸山之泉<pc>，</pc>築堤瀦水<pc>，</pc>號曰龜塘<pc>，</pc>溉田<num value="10000">萬</num>頃<pc>。</pc>其後堤壞<pc>，</pc>歲旱<pc>，</pc>民皆阻饑<pc>。</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
@@ -1013,7 +1020,8 @@
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>王炎言<pc>：</pc>
-<pc>“</pc>興元府山河堰世傳漢蕭<pc>、</pc>曹所作<pc>。</pc>本朝嘉祐中<pc>，</pc>提舉史炤上堰法<pc>，</pc>獲降敕書刻石堰上<pc>。</pc>紹興以來<pc>，</pc>戶口凋疏<pc>，</pc>堰事荒廢<pc>，</pc>遂委知興元府吳拱修複<pc>，</pc>發卒<num value="10000">萬</num>人助役<pc>。</pc>宣撫司及安撫<pc>、</pc>都統司共用錢<num value="31000">三萬一千</num>餘緡<pc>，</pc>盡修<num value="6">六</num>堰<pc>，</pc>浚大小渠<num value="65">六十五</num>裏<pc>，</pc>凡溉南鄭<pc>、</pc>褒城田<num value="233000">二十三萬三千</num>畝有奇<pc>。</pc>
+<pc>“</pc>興元府山河堰世傳漢蕭<pc>、</pc>曹所作<pc>。</pc>本朝嘉祐中<pc>，</pc>提舉史炤上堰法<pc>，</pc>獲降敕書刻石堰上<pc>。</pc>紹興以來<pc>，</pc>戶口凋疏<pc>，</pc>堰事荒廢<pc>，</pc>遂委知興元府吳拱修複<pc>，</pc>發卒<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>助役<pc>。</pc>宣撫司及安撫<pc>、</pc>都統司共用錢<num value="31000">三萬一千</num>餘緡<pc>，</pc>盡修<num value="6">六</num>堰<pc>，</pc>浚大小渠<num value="65">六十五</num>裏<pc>，</pc>凡溉南鄭<pc>、</pc>褒城田<num value="233000">二十三萬三千</num>畝有奇<pc>。</pc>
 <pc>”</pc>詔獎諭拱<pc>。</pc>
 </p>
 </div>

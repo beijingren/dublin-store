@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="309">
 <div>
-<p>王延德<pc>，</pc>開封東明人<pc>。</pc>曾祖芝<pc>，</pc>濮陽令<pc>。</pc>祖璋<pc>，</pc>相州錄事參軍<pc>。</pc>父溫<pc>。</pc>晉末契丹內寇<pc>，</pc>溫率鄉豪捍蔽境內<pc>，</pc>裏人德之<pc>。</pc>宣祖掌畿甸兵<pc>，</pc>與溫厚善<pc>，</pc>延德方總角<pc>，</pc>宣祖愛其謹重<pc>，</pc>召置左右<pc>。</pc>太宗尹京<pc>，</pc>署為親校<pc>，</pc>專主庖膳<pc>，</pc>尤被倚信<pc>。</pc>
+<p>
+<name key="null" type="null">王延德</name>
+<pc>，</pc>開封東明人<pc>。</pc>曾祖芝<pc>，</pc>濮陽令<pc>。</pc>祖璋<pc>，</pc>相州錄事參軍<pc>。</pc>父溫<pc>。</pc>晉末契丹內寇<pc>，</pc>溫率鄉豪捍蔽境內<pc>，</pc>裏人德之<pc>。</pc>宣祖掌畿甸兵<pc>，</pc>與溫厚善<pc>，</pc>延德方總角<pc>，</pc>宣祖愛其謹重<pc>，</pc>召置左右<pc>。</pc>太宗尹京<pc>，</pc>署為親校<pc>，</pc>專主庖膳<pc>，</pc>尤被倚信<pc>。</pc>
 </p>
 </div>
 <div>
@@ -200,7 +202,7 @@
 <num value="7">七</num>年</measure>
 <pc>，</pc>轉都承旨<pc>。</pc>在樞要僅<measure quantity="50" unit="days">
 <num value="50">五十</num>日</measure>
-<pc>，</pc>練習事程<pc>，</pc>精敏端愨<pc>，</pc>未嚐有過<pc>。</pc>舊<pc>，</pc>本院吏罕有遷至都承旨者<pc>，</pc>上素知質廉謹<pc>，</pc>故以授之<pc>。</pc>嚐召問<date>
+<pc>，</pc>練習事程<pc>，</pc>精敏端愨<pc>，</pc>未嚐有過<pc>。</pc>舊<pc>，</pc>本院吏罕有遷至都承旨者<pc>，</pc>上素知質廉謹<pc>，</pc>故以授之<pc>。</pc>嚐召問<date when="null">
 <num value="5">五</num>代</date>以降洎國初軍籍更易之製<pc>，</pc>且命條具利害<pc>，</pc>質纂為<num value="3">三</num>篇<pc>，</pc>目曰<pc>《</pc>
 <title>兵要</title>
 <pc>》</pc>以進<pc>，</pc>上覽而稱善<pc>。</pc>
@@ -220,13 +222,17 @@
 </p>
 </div>
 <div>
-<p>太平興國中<pc>，</pc>以殿直掌廣州市舶<pc>。</pc>自南漢之後<pc>，</pc>海賊子孫相襲<pc>，</pc>大者及數<num value="100">百</num>人<pc>，</pc>州縣苦之<pc>。</pc>允恭因部運入奏其事<pc>，</pc>太宗即命為廣<pc>、</pc>連都巡檢使<pc>。</pc>又以海鹽盜入嶺北<pc>，</pc>民犯者眾<pc>，</pc>請建大庾縣為軍<pc>，</pc>官輦鹽市之<pc>。</pc>詔建為南安軍<pc>，</pc>自是冒禁者少<pc>。</pc>賊有葉氏者<pc>，</pc>眾<num value="500">五百</num>餘<pc>，</pc>往來海上<pc>。</pc>允恭集水軍<pc>，</pc>造輕舠<pc>，</pc>掩襲其首<pc>，</pc>斬之<pc>。</pc>餘黨棄船走<pc>，</pc>伏匿山穀<pc>，</pc>允恭伐木開道<pc>，</pc>悉殲焉<pc>。</pc>賊寇每遇風濤<pc>，</pc>則遁止洲島間<pc>。</pc>允恭領眾涉海<pc>，</pc>捕之殆盡<pc>，</pc>賊皆望風奔潰<pc>。</pc>又抵漳<pc>、</pc>泉賊所止處<pc>，</pc>盡奪先所劫男女<num value="60">六十</num>餘口還其家<pc>。</pc>詔書嘉獎<pc>，</pc>賜錢<num value="100000">十萬</num>
+<p>太平興國中<pc>，</pc>以殿直掌廣州市舶<pc>。</pc>自南漢之後<pc>，</pc>海賊子孫相襲<pc>，</pc>大者及數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>州縣苦之<pc>。</pc>允恭因部運入奏其事<pc>，</pc>太宗即命為廣<pc>、</pc>連都巡檢使<pc>。</pc>又以海鹽盜入嶺北<pc>，</pc>民犯者眾<pc>，</pc>請建大庾縣為軍<pc>，</pc>官輦鹽市之<pc>。</pc>詔建為南安軍<pc>，</pc>自是冒禁者少<pc>。</pc>賊有葉氏者<pc>，</pc>眾<num value="500">五百</num>餘<pc>，</pc>往來海上<pc>。</pc>允恭集水軍<pc>，</pc>造輕舠<pc>，</pc>掩襲其首<pc>，</pc>斬之<pc>。</pc>餘黨棄船走<pc>，</pc>伏匿山穀<pc>，</pc>允恭伐木開道<pc>，</pc>悉殲焉<pc>。</pc>賊寇每遇風濤<pc>，</pc>則遁止洲島間<pc>。</pc>允恭領眾涉海<pc>，</pc>捕之殆盡<pc>，</pc>賊皆望風奔潰<pc>。</pc>又抵漳<pc>、</pc>泉賊所止處<pc>，</pc>盡奪先所劫男女<num value="60">六十</num>餘口還其家<pc>。</pc>詔書嘉獎<pc>，</pc>賜錢<num value="100000">十萬</num>
 <pc>，</pc>轉供奉官<pc>。</pc>詔歸<pc>，</pc>改內殿崇班<pc>。</pc>
 </p>
 </div>
 <div>
 <p>時緣江多賊<pc>，</pc>命督江南水運<pc>，</pc>因捕寇黨<pc>。</pc>行及臨江軍<pc>，</pc>擇驍卒輕舟伺下江賊所止<pc>，</pc>夜發軍城<pc>，</pc>
-<num value="3">三</num>鼓<pc>，</pc>遇賊<num value="100">百</num>餘<pc>，</pc>拒敵久之<pc>，</pc>悉梟其首<pc>。</pc>又趣通州境上躡海賊<pc>，</pc>賊係眾舟<pc>。</pc>張幕<pc>，</pc>發勁弩<pc>、</pc>短炮<pc>。</pc>允恭兵刃所向<pc>，</pc>多為幕所縈<pc>，</pc>炮中允恭左肩<pc>，</pc>流血及袖<pc>，</pc>容色彌壯<pc>。</pc>徐遣善泅者以繩連鐵鉤散擲之<pc>，</pc>壞其幕<pc>，</pc>士卒爭進<pc>，</pc>賊赴水死者大半<pc>，</pc>擒數<num value="100">百</num>人<pc>。</pc>自是江路無剽掠之患<pc>。</pc>以功轉洛苑副使<pc>，</pc>江<pc>、</pc>淮<pc>、</pc>兩浙都大發運<pc>、</pc>擘畫茶鹽捕賊事<pc>；</pc>賜紫袍<pc>、</pc>金帶<pc>、</pc>錢<num value="500000">五十萬</num>
+<num value="3">三</num>鼓<pc>，</pc>遇賊<num value="100">百</num>餘<pc>，</pc>拒敵久之<pc>，</pc>悉梟其首<pc>。</pc>又趣通州境上躡海賊<pc>，</pc>賊係眾舟<pc>。</pc>張幕<pc>，</pc>發勁弩<pc>、</pc>短炮<pc>。</pc>允恭兵刃所向<pc>，</pc>多為幕所縈<pc>，</pc>炮中允恭左肩<pc>，</pc>流血及袖<pc>，</pc>容色彌壯<pc>。</pc>徐遣善泅者以繩連鐵鉤散擲之<pc>，</pc>壞其幕<pc>，</pc>士卒爭進<pc>，</pc>賊赴水死者大半<pc>，</pc>擒數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>自是江路無剽掠之患<pc>。</pc>以功轉洛苑副使<pc>，</pc>江<pc>、</pc>淮<pc>、</pc>兩浙都大發運<pc>、</pc>擘畫茶鹽捕賊事<pc>；</pc>賜紫袍<pc>、</pc>金帶<pc>、</pc>錢<num value="500000">五十萬</num>
 <pc>。</pc>先是<pc>，</pc>
 <num value="3">三</num>路轉運使各領其職<pc>，</pc>或廩庾多積<pc>，</pc>而軍士舟楫不給<pc>，</pc>雖以官錢雇丁男挽舟<pc>，</pc>而土人憚其役<pc>，</pc>以是歲上供米<pc>，</pc>不過<num value="3000000">三百萬</num>
 <pc>。</pc>允恭盡籍<num value="3">三</num>路舟卒與所運物數<pc>，</pc>令諸州擇牙吏<pc>，</pc>悉集<pc>，</pc>允恭乃辨數授之<pc>。</pc>江<pc>、</pc>浙所運<pc>，</pc>止於淮<pc>、</pc>泗<pc>，</pc>由淮<pc>、</pc>泗輸京師<pc>，</pc>行之<measure quantity="1" unit="year">
@@ -275,7 +281,8 @@
 <p>俄知通利軍<pc>，</pc>兼黃<pc>、</pc>禦河發運使<pc>。</pc>會議減西鄙屯兵<pc>，</pc>以息轉餉<pc>，</pc>召允恭與崇儀副使竇神寶<pc>、</pc>閣門祗候李允則馳往經度<pc>，</pc>圖上郡縣山川之形勝<pc>。</pc>允恭因建議曰<pc>：</pc>
 <pc>“</pc>自環州入積石<pc>、</pc>抵靈武<measure quantity="7" unit="days">
 <num value="7">七</num>日</measure>程<pc>。</pc>芻粟之運<pc>，</pc>其策有<num value="3">三</num>
-<pc>。</pc>然以人以驢<pc>，</pc>其費頗煩<pc>，</pc>而所載數鮮<pc>。</pc>莫若用諸葛亮木牛之製<pc>，</pc>以小車發卒分鋪運之<pc>。</pc>每<num value="1">一</num>車<num value="4">四</num>人挽之<pc>，</pc>旁設兵衛<pc>，</pc>加戈刃於其上<pc>，</pc>寇至則聚車於中<pc>，</pc>合士卒之力<pc>，</pc>禦寇於外<pc>。</pc>
+<pc>。</pc>然以人以驢<pc>，</pc>其費頗煩<pc>，</pc>而所載數鮮<pc>。</pc>莫若用諸葛亮木牛之製<pc>，</pc>以小車發卒分鋪運之<pc>。</pc>每<num value="1">一</num>車<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>挽之<pc>，</pc>旁設兵衛<pc>，</pc>加戈刃於其上<pc>，</pc>寇至則聚車於中<pc>，</pc>合士卒之力<pc>，</pc>禦寇於外<pc>。</pc>
 <pc>”</pc>尋為議者所沮而止<pc>。</pc>複遣之任<pc>，</pc>又議<pc>，</pc>江<pc>、</pc>淮鹽鐵使陳恕力爭<pc>，</pc>詔從允恭之議<pc>。</pc>加領康州<term>刺史</term>
 <pc>。</pc>
 </p>
@@ -302,7 +309,7 @@
 </div>
 <div>
 <p>秦羲<pc>，</pc>字致堯<pc>，</pc>江寧人<pc>。</pc>世仕江左<pc>。</pc>曾祖本<pc>，</pc>嶽州<term>刺史</term>
-<pc>。</pc>祖進遠<pc>，</pc>寧國軍節度副使<pc>。</pc>父承裕<pc>，</pc>建州監軍使<pc>、</pc>知州事<pc>。</pc>李煜之歸朝也<pc>，</pc>承裕遣羲詣闕上符印<pc>，</pc>太祖召見<pc>，</pc>悅其趨對詳謹<pc>，</pc>補殿直<pc>，</pc>令督廣濟漕船<pc>。</pc>太平興國中<pc>，</pc>有<date>南唐</date>軍校馬光璉等亡命荊楚<pc>，</pc>結徒為盜<pc>。</pc>羲受詔<pc>，</pc>縛光璉以獻<pc>，</pc>太宗壯之<pc>。</pc>積勞改西頭供奉官<pc>，</pc>決獄於淮南諸州<pc>。</pc>
+<pc>。</pc>祖進遠<pc>，</pc>寧國軍節度副使<pc>。</pc>父承裕<pc>，</pc>建州監軍使<pc>、</pc>知州事<pc>。</pc>李煜之歸朝也<pc>，</pc>承裕遣羲詣闕上符印<pc>，</pc>太祖召見<pc>，</pc>悅其趨對詳謹<pc>，</pc>補殿直<pc>，</pc>令督廣濟漕船<pc>。</pc>太平興國中<pc>，</pc>有<date when="null">南唐</date>軍校馬光璉等亡命荊楚<pc>，</pc>結徒為盜<pc>。</pc>羲受詔<pc>，</pc>縛光璉以獻<pc>，</pc>太宗壯之<pc>。</pc>積勞改西頭供奉官<pc>，</pc>決獄於淮南諸州<pc>。</pc>
 </p>
 </div>
 <div>
@@ -334,7 +341,7 @@
 </p>
 </div>
 <div>
-<p>謝德權<pc>，</pc>字士衡<pc>，</pc>福州人<pc>。</pc>父文節<pc>，</pc>初仕王氏<pc>，</pc>為侯官令<pc>。</pc>後入<date>南唐</date>
+<p>謝德權<pc>，</pc>字士衡<pc>，</pc>福州人<pc>。</pc>父文節<pc>，</pc>初仕王氏<pc>，</pc>為侯官令<pc>。</pc>後入<date when="null">南唐</date>
 <pc>，</pc>為忠烈都虞侯<pc>、</pc>
 <placeName>饒州</placeName>團練使<pc>，</pc>以驍勇聞<pc>。</pc>周世宗南征<pc>，</pc>文節獨擐甲度大江<pc>，</pc>潛覘敵壘<pc>，</pc>吳人號為<pc>“</pc>鐵龍<pc>”</pc>
 <pc>。</pc>後守鄂州<pc>，</pc>拒宋師<pc>，</pc>戰沒<pc>。</pc>

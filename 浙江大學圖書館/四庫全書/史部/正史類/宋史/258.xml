@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="258">
 <div>
-<p>曹彬<pc>，</pc>字國華<pc>，</pc>真定靈壽人<pc>。</pc>父芸<pc>，</pc>成德軍節度都知兵馬使<pc>。</pc>彬始生周歲<pc>，</pc>父母以<num value="100">百</num>玩之具羅于席<pc>，</pc>觀其所取<pc>。</pc>彬左手持干戈<pc>，</pc>右手持俎豆<pc>，</pc>斯須取<num value="1">一</num>印<pc>，</pc>他無所視<pc>，</pc>人皆異之<pc>。</pc>及長<pc>，</pc>氣質淳厚<pc>。</pc>漢乾祐中<pc>，</pc>為成德軍牙將<pc>。</pc>節帥武行德見其端懿<pc>，</pc>指謂左右曰<pc>：</pc>
+<p>
+<name key="null" type="null">曹彬<pc>，</pc>
+</name>字國華<pc>，</pc>真定靈壽人<pc>。</pc>父芸<pc>，</pc>成德軍節度都知兵馬使<pc>。</pc>彬始生周歲<pc>，</pc>父母以<num value="100">百</num>玩之具羅于席<pc>，</pc>觀其所取<pc>。</pc>彬左手持干戈<pc>，</pc>右手持俎豆<pc>，</pc>斯須取<num value="1">一</num>印<pc>，</pc>他無所視<pc>，</pc>人皆異之<pc>。</pc>及長<pc>，</pc>氣質淳厚<pc>。</pc>漢乾祐中<pc>，</pc>為成德軍牙將<pc>。</pc>節帥武行德見其端懿<pc>，</pc>指謂左右曰<pc>：</pc>
 <pc>「</pc>
 <quote>此遠大器<pc>，</pc>非常流也<pc>。</pc>
 </quote>
@@ -41,10 +43,10 @@
 <pc>，</pc>改潼關監軍<pc>，</pc>遷西上閣門使<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>使<date>吳越</date>
+<pc>，</pc>使<date when="null">吳越</date>
 <pc>，</pc>致命訖即還<pc>。</pc>私覿之禮<pc>，</pc>
 <num value="1">一</num>無所受<pc>。</pc>
-<date>吳越</date>人以輕舟追遺之<pc>，</pc>至於數<num value="4">四</num>
+<date when="null">吳越</date>人以輕舟追遺之<pc>，</pc>至於數<num value="4">四</num>
 <pc>，</pc>彬猶不受<pc>。</pc>既而曰<pc>：</pc>
 <pc>「</pc>
 <quote>吾終拒之<pc>，</pc>是近名也<pc>。</pc>
@@ -75,7 +77,9 @@
 <quote>臣為周室近親<pc>，</pc>複忝內職<pc>，</pc>靖恭守位<pc>，</pc>猶恐獲過<pc>，</pc>安敢妄有交結<pc>？</pc>
 </quote>
 <pc>」</pc>遷客省使<pc>，</pc>與<persName>王全斌</persName>
-<pc>、</pc>郭進領騎兵攻河東平樂縣<pc>，</pc>降其將王超<pc>、</pc>侯霸榮等<num value="800">千八百</num>人<pc>，</pc>俘獲<num value="1000">千</num>餘人<pc>。</pc>既而賊將蔚進率兵來援<pc>，</pc>
+<pc>、</pc>郭進領騎兵攻河東平樂縣<pc>，</pc>降其將王超<pc>、</pc>侯霸榮等<measure quantity="800" unit="people">
+<num value="800">千八百</num>人</measure>
+<pc>，</pc>俘獲<num value="1000">千</num>餘人<pc>。</pc>既而賊將蔚進率兵來援<pc>，</pc>
 <num value="3">三</num>戰皆敗之<pc>。</pc>遂建樂平為平晉軍<pc>。</pc>乾德初<pc>，</pc>改左神武將軍<pc>。</pc>時初克遼州<pc>，</pc>河東召契丹兵<num value="60000">六萬</num>騎來攻平晉<pc>，</pc>彬與李繼勳等大敗之於城下<pc>。</pc>俄兼樞密承旨<pc>。</pc>
 </p>
 </div>
@@ -161,7 +165,9 @@
 </quote>
 <pc>」</pc>城垂克<pc>，</pc>彬忽稱疾不視事<pc>，</pc>諸將皆來問疾<pc>。</pc>彬曰<pc>：</pc>
 <pc>「</pc>
-<quote>餘之疾非藥石所能愈<pc>，</pc>惟須諸公誠心自誓<pc>，</pc>以克城之日<pc>，</pc>不妄殺<num value="1">一</num>人<pc>，</pc>則自愈矣<pc>。</pc>
+<quote>餘之疾非藥石所能愈<pc>，</pc>惟須諸公誠心自誓<pc>，</pc>以克城之日<pc>，</pc>不妄殺<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>則自愈矣<pc>。</pc>
 </quote>
 <pc>」</pc>諸將許諾<pc>，</pc>共焚香為誓<pc>。</pc>明日<pc>，</pc>稍愈<pc>。</pc>又明日<pc>，</pc>城陷<pc>。</pc>煜與其臣<num value="100">百</num>餘人詣軍門請罪<pc>，</pc>彬慰安之<pc>，</pc>待以賓禮<pc>，</pc>請煜入宮治裝<pc>，</pc>彬以數騎待宮門外<pc>。</pc>左右密謂彬曰<pc>：</pc>
 <pc>「</pc>
@@ -416,8 +422,12 @@
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>張佶知秦州<pc>，</pc>置<num value="4">四</num>門砦<pc>，</pc>侵奪羌地<pc>，</pc>羌人多叛去<pc>，</pc>畏得罪不敢出<pc>。</pc>瑋招出之<pc>，</pc>令入馬贖罪<pc>，</pc>還故地<pc>，</pc>至者數<num value="1000">千</num>人<pc>，</pc>每送馬<num value="60">六十</num>匹<pc>，</pc>給彩<num value="1">一</num>端<pc>。</pc>築弓門<pc>、</pc>冶坊<pc>、</pc>床穰<pc>、</pc>靜戎<pc>、</pc>
-<num value="3">三</num>陽<pc>、</pc>定西<pc>、</pc>伏羌<pc>、</pc>永寧<pc>、</pc>小洛門<pc>、</pc>威遠<num value="10">十</num>砦<pc>，</pc>浚壕<num value="380">三百八十</num>裏<pc>，</pc>皆役屬羌廂兵<pc>，</pc>工費不出民<pc>。</pc>伏羌首領廝雞波<pc>、</pc>李磨論私立文法<pc>，</pc>瑋潛兵滅其帳<pc>。</pc>其年<pc>，</pc>唃廝嵒率眾數<num value="10000">萬</num>大入寇<pc>，</pc>瑋迎戰<num value="3">三</num>都穀<pc>，</pc>追奔<num value="30">三十</num>裏<pc>，</pc>斬首<num value="1000">千</num>餘級<pc>，</pc>獲馬牛<pc>、</pc>雜畜<pc>、</pc>器仗<num value="30000">三萬</num>餘<pc>。</pc>遷客省使<pc>、</pc>康州防禦使<pc>。</pc>馬波叱臈立柵野吳穀<pc>，</pc>瑋選募神武軍<num value="200">二百</num>人<pc>，</pc>斬柵<pc>，</pc>獲生口<pc>、</pc>孳畜甚眾<pc>。</pc>
+<p>初<pc>，</pc>張佶知秦州<pc>，</pc>置<num value="4">四</num>門砦<pc>，</pc>侵奪羌地<pc>，</pc>羌人多叛去<pc>，</pc>畏得罪不敢出<pc>。</pc>瑋招出之<pc>，</pc>令入馬贖罪<pc>，</pc>還故地<pc>，</pc>至者數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>每送馬<num value="60">六十</num>匹<pc>，</pc>給彩<num value="1">一</num>端<pc>。</pc>築弓門<pc>、</pc>冶坊<pc>、</pc>床穰<pc>、</pc>靜戎<pc>、</pc>
+<num value="3">三</num>陽<pc>、</pc>定西<pc>、</pc>伏羌<pc>、</pc>永寧<pc>、</pc>小洛門<pc>、</pc>威遠<num value="10">十</num>砦<pc>，</pc>浚壕<num value="380">三百八十</num>裏<pc>，</pc>皆役屬羌廂兵<pc>，</pc>工費不出民<pc>。</pc>伏羌首領廝雞波<pc>、</pc>李磨論私立文法<pc>，</pc>瑋潛兵滅其帳<pc>。</pc>其年<pc>，</pc>唃廝嵒率眾數<num value="10000">萬</num>大入寇<pc>，</pc>瑋迎戰<num value="3">三</num>都穀<pc>，</pc>追奔<num value="30">三十</num>裏<pc>，</pc>斬首<num value="1000">千</num>餘級<pc>，</pc>獲馬牛<pc>、</pc>雜畜<pc>、</pc>器仗<num value="30000">三萬</num>餘<pc>。</pc>遷客省使<pc>、</pc>康州防禦使<pc>。</pc>馬波叱臈立柵野吳穀<pc>，</pc>瑋選募神武軍<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>斬柵<pc>，</pc>獲生口<pc>、</pc>孳畜甚眾<pc>。</pc>
 </p>
 </div>
 <div>
@@ -467,7 +477,8 @@
 </p>
 </div>
 <div>
-<p>環<pc>、</pc>慶屬羌田多為邊人所市<pc>，</pc>致單弱不能自存<pc>，</pc>因沒彼中<pc>。</pc>瑋盡令還其故田<pc>，</pc>後有犯者<pc>，</pc>遷其家內地<pc>。</pc>所募弓箭手<pc>，</pc>使馳射<pc>，</pc>較強弱<pc>，</pc>勝者與田<num value="2">二</num>頃<pc>。</pc>再更秋獲<pc>，</pc>課市<num value="1">一</num>馬<pc>，</pc>馬必勝甲<pc>，</pc>然後官籍之<pc>，</pc>則加<num value="50">五十</num>畝<pc>。</pc>至<num value="300">三百</num>人以上<pc>，</pc>團為<num value="1">一</num>指揮<pc>。</pc>要害處為築堡<pc>，</pc>使自塹其地為方田環之<pc>。</pc>立馬社<pc>，</pc>
+<p>環<pc>、</pc>慶屬羌田多為邊人所市<pc>，</pc>致單弱不能自存<pc>，</pc>因沒彼中<pc>。</pc>瑋盡令還其故田<pc>，</pc>後有犯者<pc>，</pc>遷其家內地<pc>。</pc>所募弓箭手<pc>，</pc>使馳射<pc>，</pc>較強弱<pc>，</pc>勝者與田<num value="2">二</num>頃<pc>。</pc>再更秋獲<pc>，</pc>課市<num value="1">一</num>馬<pc>，</pc>馬必勝甲<pc>，</pc>然後官籍之<pc>，</pc>則加<num value="50">五十</num>畝<pc>。</pc>至<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>以上<pc>，</pc>團為<num value="1">一</num>指揮<pc>。</pc>要害處為築堡<pc>，</pc>使自塹其地為方田環之<pc>。</pc>立馬社<pc>，</pc>
 <num value="1">一</num>馬死<pc>，</pc>眾出錢市馬<pc>。</pc>降者既多<pc>，</pc>因制屬羌<num value="100">百</num>帳以上<pc>，</pc>其首領為本族軍主<pc>，</pc>次為指揮使<pc>，</pc>又其次為副指揮使<pc>，</pc>不及<num value="100">百</num>帳為本族指揮使<pc>。</pc>其蕃落將校<pc>，</pc>止於本軍敘進<pc>，</pc>以其習知羌情與地利<pc>，</pc>不可徙他軍也<pc>。</pc>開邊壕<pc>，</pc>率令深廣丈<num value="5">五</num>尺<pc>；</pc>山險不可塹者<pc>，</pc>因其峭絕治之<pc>，</pc>使足以限敵<pc>，</pc>後皆以為法<pc>。</pc>天雄卒有犯盜者<pc>，</pc>眾謂獄具必殺之<pc>，</pc>瑋乃處以常法<pc>。</pc>人或以為疑<pc>，</pc>瑋笑曰<pc>：</pc>
 <pc>「</pc>
 <quote>臨邊對敵<pc>，</pc>斬不用命者<pc>，</pc>所以令眾吾<pc>，</pc>非好殺也<pc>。</pc>治內郡<pc>，</pc>安事此乎<pc>？</pc>
@@ -512,7 +523,9 @@
 </p>
 </div>
 <div>
-<p>寶元初南郊<pc>，</pc>召入侍祠<pc>。</pc>會元昊反<pc>，</pc>拜同州觀察使<pc>，</pc>複知秦州<pc>，</pc>上攻<pc>、</pc>守<pc>、</pc>禦<num value="3">三</num>策<pc>。</pc>久之<pc>，</pc>兼同管勾涇原路兵馬<pc>、</pc>定國軍節度觀察留後<pc>。</pc>劉平<pc>、</pc>石元孫敗<pc>，</pc>關輔震恐<pc>。</pc>琮請籍民為義軍<pc>，</pc>以張兵勢<pc>，</pc>於是料簡鄉弓手數<num value="10000">萬</num>人<pc>。</pc>賊寇山外<pc>，</pc>還天都<pc>，</pc>劫儀<pc>、</pc>秦屬戶<pc>。</pc>琮發騎士<pc>，</pc>設伏以待之<pc>，</pc>賊遂引去<pc>。</pc>琮欲誘吐蕃犄角圖賊<pc>，</pc>得西川舊賈<pc>，</pc>使諭意<pc>。</pc>而沙州鎮王子遣使奉書曰<pc>：</pc>
+<p>寶元初南郊<pc>，</pc>召入侍祠<pc>。</pc>會元昊反<pc>，</pc>拜同州觀察使<pc>，</pc>複知秦州<pc>，</pc>上攻<pc>、</pc>守<pc>、</pc>禦<num value="3">三</num>策<pc>。</pc>久之<pc>，</pc>兼同管勾涇原路兵馬<pc>、</pc>定國軍節度觀察留後<pc>。</pc>劉平<pc>、</pc>石元孫敗<pc>，</pc>關輔震恐<pc>。</pc>琮請籍民為義軍<pc>，</pc>以張兵勢<pc>，</pc>於是料簡鄉弓手數<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>。</pc>賊寇山外<pc>，</pc>還天都<pc>，</pc>劫儀<pc>、</pc>秦屬戶<pc>。</pc>琮發騎士<pc>，</pc>設伏以待之<pc>，</pc>賊遂引去<pc>。</pc>琮欲誘吐蕃犄角圖賊<pc>，</pc>得西川舊賈<pc>，</pc>使諭意<pc>。</pc>而沙州鎮王子遣使奉書曰<pc>：</pc>
 <pc>「</pc>
 <quote>我本唐甥<pc>，</pc>天子實吾舅也<pc>。</pc>自黨項破甘<pc>、</pc>涼<pc>，</pc>遂與漢隔<pc>。</pc>今願率首領為朝廷擊賊<pc>。</pc>
 </quote>
@@ -542,7 +555,7 @@
 </div>
 <div>
 <p>李重進叛<pc>，</pc>太祖親征<pc>，</pc>命石守信為招討使<pc>，</pc>美為行營都監以副之<pc>。</pc>
-<placeName>揚州</placeName>平<pc>，</pc>留為巡檢<pc>，</pc>以任鎮撫<pc>，</pc>以功授秦州團練使<pc>。</pc>時湖南叛將汪端既平<pc>，</pc>人心未寧<pc>，</pc>乃授美潭州防禦使<pc>。</pc>嶺南劉鋹數寇桂陽<pc>、</pc>江華<pc>，</pc>美擊走之<pc>。</pc>溪峒蠻獠自<date>唐</date>以來<pc>，</pc>不時侵略<pc>，</pc>頗為民患<pc>。</pc>美窮其巢穴<pc>，</pc>多所殺獲<pc>，</pc>餘加慰撫<pc>，</pc>夷落遂定<pc>。</pc>乾德<measure quantity="2" unit="years">
+<placeName>揚州</placeName>平<pc>，</pc>留為巡檢<pc>，</pc>以任鎮撫<pc>，</pc>以功授秦州團練使<pc>。</pc>時湖南叛將汪端既平<pc>，</pc>人心未寧<pc>，</pc>乃授美潭州防禦使<pc>。</pc>嶺南劉鋹數寇桂陽<pc>、</pc>江華<pc>，</pc>美擊走之<pc>。</pc>溪峒蠻獠自<date when="null">唐</date>以來<pc>，</pc>不時侵略<pc>，</pc>頗為民患<pc>。</pc>美窮其巢穴<pc>，</pc>多所殺獲<pc>，</pc>餘加慰撫<pc>，</pc>夷落遂定<pc>。</pc>乾德<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>又從兵馬都監丁德裕等率兵克郴州<pc>。</pc>
 </p>
@@ -573,7 +586,9 @@
 <quote>彼編竹木為柵<pc>，</pc>若攻之以火<pc>，</pc>彼必潰亂<pc>。</pc>因以銳師夾擊之<pc>，</pc>
 <num value="10000">萬</num>全策也<pc>。</pc>
 </quote>
-<pc>」</pc>遂分遣丁夫數<num value="1000">千</num>人<pc>，</pc>人持<num value="2">二</num>炬<pc>，</pc>間道造其柵<pc>。</pc>及夜<pc>，</pc>
+<pc>」</pc>遂分遣丁夫數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>人持<num value="2">二</num>炬<pc>，</pc>間道造其柵<pc>。</pc>及夜<pc>，</pc>
 <num value="10000">萬</num>炬俱發<pc>，</pc>會天大風<pc>，</pc>火勢甚熾<pc>。</pc>鋹眾驚擾來犯<pc>，</pc>美揮兵急擊之<pc>，</pc>鋹眾大敗<pc>，</pc>斬數<num value="10000">萬</num>計<pc>。</pc>長驅至廣州<pc>，</pc>鋹盡焚其府庫<pc>，</pc>遂克之<pc>，</pc>擒鋹送京師<pc>，</pc>露布以聞<pc>。</pc>即日<pc>，</pc>命美與尹崇珂同知廣州兼市舶使<pc>。</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
@@ -595,9 +610,13 @@
 <num value="10">十</num>月</measure>
 <pc>，</pc>命美為升州道行營都監<pc>，</pc>與曹彬偕往<pc>，</pc>進次秦淮<pc>。</pc>時舟楫未具<pc>，</pc>美下令曰<pc>：</pc>
 <pc>「</pc>
-<quote>美受詔<pc>，</pc>提驍果數<num value="10000">萬</num>人<pc>，</pc>期於必勝<pc>，</pc>豈限此<num value="1">一</num>衣帶水而不徑度乎<pc>？</pc>
+<quote>美受詔<pc>，</pc>提驍果數<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>，</pc>期於必勝<pc>，</pc>豈限此<num value="1">一</num>衣帶水而不徑度乎<pc>？</pc>
 </quote>
-<pc>」</pc>遂麾以涉<pc>，</pc>大軍隨之<pc>，</pc>吳師大敗<pc>。</pc>及採石磯浮梁成<pc>，</pc>吳人以戰艦<num value="20">二十</num>餘鳴鼓溯流來趨利<pc>。</pc>美麾兵奮擊<pc>，</pc>奪其戰艦<pc>，</pc>擒其將鄭賓等<num value="7">七</num>人<pc>，</pc>又破其城南水砦<pc>，</pc>分舟師守之<pc>。</pc>奏至<pc>，</pc>太祖遣使令亟徙置戰棹<pc>，</pc>以防他變<pc>。</pc>美聞詔即徙軍<pc>。</pc>是夜<pc>，</pc>吳人果來攻砦<pc>，</pc>不能克<pc>。</pc>進薄金陵<pc>，</pc>江南水陸<num value="100000">十萬</num>陳於城下<pc>，</pc>美率兵襲擊<pc>，</pc>大敗之<pc>。</pc>李煜危甚<pc>，</pc>遣徐鉉來乞緩師<pc>，</pc>上不之省<pc>，</pc>仍詔諸將促令歸附<pc>。</pc>煜遷延未能決<pc>，</pc>夜遣兵數<num value="1000">千</num>
+<pc>」</pc>遂麾以涉<pc>，</pc>大軍隨之<pc>，</pc>吳師大敗<pc>。</pc>及採石磯浮梁成<pc>，</pc>吳人以戰艦<num value="20">二十</num>餘鳴鼓溯流來趨利<pc>。</pc>美麾兵奮擊<pc>，</pc>奪其戰艦<pc>，</pc>擒其將鄭賓等<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>，</pc>又破其城南水砦<pc>，</pc>分舟師守之<pc>。</pc>奏至<pc>，</pc>太祖遣使令亟徙置戰棹<pc>，</pc>以防他變<pc>。</pc>美聞詔即徙軍<pc>。</pc>是夜<pc>，</pc>吳人果來攻砦<pc>，</pc>不能克<pc>。</pc>進薄金陵<pc>，</pc>江南水陸<num value="100000">十萬</num>陳於城下<pc>，</pc>美率兵襲擊<pc>，</pc>大敗之<pc>。</pc>李煜危甚<pc>，</pc>遣徐鉉來乞緩師<pc>，</pc>上不之省<pc>，</pc>仍詔諸將促令歸附<pc>。</pc>煜遷延未能決<pc>，</pc>夜遣兵數<num value="1000">千</num>
 <pc>，</pc>持炬鼓噪來犯我師<pc>。</pc>美率精銳以短兵接戰<pc>，</pc>因與大將曹彬率士晨夜攻城<pc>，</pc>
 <num value="100">百</num>道俱進<pc>。</pc>金陵平<pc>，</pc>以功拜宣徽北院使<pc>。</pc>
 </p>
@@ -655,9 +674,11 @@
 </p>
 </div>
 <div>
-<p>論曰<pc>：</pc>曹彬以器識受知太祖<pc>，</pc>遂膺柄用<pc>。</pc>平居<pc>，</pc>於<num value="100">百</num>蟲之蟄猶不忍傷<pc>，</pc>出使<date>吳越</date>
-<pc>，</pc>籍上私饋<pc>，</pc>悉用施予<pc>，</pc>而不留<num value="1">一</num>錢<pc>；</pc>則其總戎專征<pc>，</pc>而秋毫無犯<pc>，</pc>不妄戮<num value="1">一</num>人者<pc>，</pc>益可信矣<pc>。</pc>潘美素厚太祖<pc>，</pc>信任于得位之初<pc>，</pc>遂受征討之托<pc>。</pc>劉鋹遣使乞降<pc>，</pc>觀美所喻<pc>，</pc>辭義嚴正<pc>，</pc>得奉辭伐罪之體<pc>；</pc>則其威名之重<pc>，</pc>豈待平嶺表<pc>、</pc>定江南<pc>、</pc>征太原<pc>、</pc>鎮北門而後見哉<pc>？</pc>
-<num value="2">二</num>人皆諡武惠<pc>，</pc>皆與配饗<pc>，</pc>兩家子孫<pc>，</pc>皆能樹立<pc>，</pc>享富貴<pc>。</pc>而光獻<pc>、</pc>章懷皆稱賢后<pc>，</pc>非偶然也<pc>。</pc>君子謂仁恕清慎<pc>，</pc>能保功名<pc>，</pc>守法度<pc>，</pc>唯彬為宋良將第<num value="1">一</num>
+<p>論曰<pc>：</pc>曹彬以器識受知太祖<pc>，</pc>遂膺柄用<pc>。</pc>平居<pc>，</pc>於<num value="100">百</num>蟲之蟄猶不忍傷<pc>，</pc>出使<date when="null">吳越</date>
+<pc>，</pc>籍上私饋<pc>，</pc>悉用施予<pc>，</pc>而不留<num value="1">一</num>錢<pc>；</pc>則其總戎專征<pc>，</pc>而秋毫無犯<pc>，</pc>不妄戮<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>者<pc>，</pc>益可信矣<pc>。</pc>潘美素厚太祖<pc>，</pc>信任于得位之初<pc>，</pc>遂受征討之托<pc>。</pc>劉鋹遣使乞降<pc>，</pc>觀美所喻<pc>，</pc>辭義嚴正<pc>，</pc>得奉辭伐罪之體<pc>；</pc>則其威名之重<pc>，</pc>豈待平嶺表<pc>、</pc>定江南<pc>、</pc>征太原<pc>、</pc>鎮北門而後見哉<pc>？</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>皆諡武惠<pc>，</pc>皆與配饗<pc>，</pc>兩家子孫<pc>，</pc>皆能樹立<pc>，</pc>享富貴<pc>。</pc>而光獻<pc>、</pc>章懷皆稱賢后<pc>，</pc>非偶然也<pc>。</pc>君子謂仁恕清慎<pc>，</pc>能保功名<pc>，</pc>守法度<pc>，</pc>唯彬為宋良將第<num value="1">一</num>
 <pc>，</pc>豈無意哉<pc>？</pc>若李浚者<pc>，</pc>亦以材幹自結主知<pc>，</pc>遂曆清顯<pc>。</pc>謂為陰德所致<pc>，</pc>理或然也<pc>。</pc>
 </p>
 </div>

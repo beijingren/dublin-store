@@ -24,14 +24,16 @@
 <body>
 <div type="chapter" n="320">
 <div>
-<p>○蔡襄呂溱王素<pc>（</pc>從子靖從孫震<pc>）</pc>
+<p>
+<name key="null" type="null">○蔡襄</name>呂溱王素<pc>（</pc>從子靖從孫震<pc>）</pc>
 <persName>余靖</persName>彭思永張存</p>
 </div>
 <div>
 <p>蔡襄<pc>，</pc>字君謨<pc>，</pc>興化仙遊人<pc>。</pc>舉進士<pc>，</pc>為西京留守推官<pc>、</pc>館閣校勘<pc>。</pc>範仲淹以言事去國<pc>，</pc>
 <persName>余靖</persName>論救之<pc>，</pc>
 <persName>尹洙</persName>請與同貶<pc>，</pc>
-<persName>歐陽修</persName>移書責司諫高若訥<pc>，</pc>由是<num value="3">三</num>人者皆坐譴<pc>。</pc>襄作<pc>《</pc>
+<persName>歐陽修</persName>移書責司諫高若訥<pc>，</pc>由是<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>者皆坐譴<pc>。</pc>襄作<pc>《</pc>
 <title>
 <num value="4">四</num>賢<num value="1">一</num>不肖詩</title>
 <pc>》</pc>
@@ -42,10 +44,12 @@
 <p>慶曆<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>仁宗更用輔相<pc>，</pc>親擢靖<pc>、</pc>修及王素為諫官<pc>，</pc>襄又以詩賀<pc>，</pc>
-<num value="3">三</num>人列薦之<pc>，</pc>帝亦命襄知諫院<pc>。</pc>襄喜言路開<pc>，</pc>而慮正人難久立也<pc>。</pc>乃上疏曰<pc>：</pc>
+<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>列薦之<pc>，</pc>帝亦命襄知諫院<pc>。</pc>襄喜言路開<pc>，</pc>而慮正人難久立也<pc>。</pc>乃上疏曰<pc>：</pc>
 <pc>“</pc>朝廷增用諫臣<pc>，</pc>脩<pc>、</pc>靖<pc>、</pc>素<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>並命<pc>，</pc>朝野相慶<pc>。</pc>然任諫非難<pc>，</pc>聽諫為難<pc>；</pc>聽諫非難<pc>，</pc>用諫為難<pc>。</pc>
-<num value="3">三</num>人忠誠剛正<pc>，</pc>必能盡言<pc>。</pc>臣恐邪人不利<pc>，</pc>必造為禦之之說<pc>。</pc>其禦之之說不過有<num value="3">三</num>
+<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>忠誠剛正<pc>，</pc>必能盡言<pc>。</pc>臣恐邪人不利<pc>，</pc>必造為禦之之說<pc>。</pc>其禦之之說不過有<num value="3">三</num>
 <pc>，</pc>臣請為陛下辨之<pc>。</pc>
 <num value="1">一</num>曰好名<pc>。</pc>夫忠臣引君當道<pc>，</pc>論事唯恐不至<pc>，</pc>若避好名之嫌無所陳<pc>，</pc>則土木之人<pc>，</pc>皆可為矣<pc>。</pc>
 <num value="2">二</num>曰好進<pc>。</pc>前世諫者之難<pc>，</pc>激於忠憤<pc>，</pc>遭世昏亂<pc>，</pc>死猶不辭<pc>，</pc>何好進之有<pc>？</pc>近世獎拔太速<pc>，</pc>但久而勿遷<pc>，</pc>雖死是官<pc>，</pc>猶無悔也<pc>。</pc>
@@ -92,7 +96,7 @@
 </p>
 </div>
 <div>
-<p>以母老<pc>，</pc>求知福州<pc>，</pc>改福建路轉運使<pc>，</pc>開古<num value="5">五</num>塘溉民田<pc>，</pc>奏減<date>
+<p>以母老<pc>，</pc>求知福州<pc>，</pc>改福建路轉運使<pc>，</pc>開古<num value="5">五</num>塘溉民田<pc>，</pc>奏減<date when="null">
 <num value="5">五</num>代</date>時丁口稅之半<pc>。</pc>複修起居注<pc>。</pc>唐介擊<term>宰相</term>
 <pc>，</pc>觸盛怒<pc>，</pc>襄趨進曰<pc>：</pc>
 <pc>“</pc>介誠狂愚<pc>，</pc>然出於進忠<pc>，</pc>必望全貸<pc>。</pc>
@@ -314,7 +318,9 @@
 <div>
 <p>
 <persName>余靖</persName>
-<pc>，</pc>字<persName>安道</persName>
+<pc>，</pc>字<name key="余靖" type="zi">
+<persName>安道</persName>
+</name>
 <pc>，</pc>韶州曲江人<pc>。</pc>少不事羈檢<pc>，</pc>以文學稱鄉裏<pc>。</pc>舉進士起家<pc>，</pc>為贛縣尉<pc>，</pc>試書判拔萃<pc>，</pc>改將作監丞<pc>、</pc>知新建縣<pc>，</pc>遷秘書丞<pc>。</pc>數上書論事<pc>，</pc>建言班固<pc>《</pc>
 <title>漢書</title>
 <pc>》</pc>舛謬<pc>，</pc>命與王洙並校司馬遷<pc>、</pc>範曄<num value="2">二</num>史<pc>。</pc>書奏<pc>，</pc>擢集賢校理<pc>。</pc>
@@ -365,8 +371,11 @@
 </p>
 </div>
 <div>
-<p>儂智高反邕州<pc>，</pc>乘勝掠<num value="9">九</num>郡<pc>，</pc>以兵圍廣州<pc>。</pc>朝廷方顧南事<pc>，</pc>就喪次起靖為秘書監<pc>、</pc>知潭州<pc>，</pc>改桂州<pc>，</pc>詔以廣南西路委靖經製<pc>。</pc>智高西走邕州<pc>，</pc>靖策其必結援交阯<pc>，</pc>而脅諸峒以自固<pc>，</pc>乃約李德政會兵擊賊於邕州<pc>，</pc>備<num value="10000">萬</num>人糧以待之<pc>；</pc>而詔亦給緡錢<num value="20000">二萬</num>助德政興師<pc>，</pc>且約賊平更賞以緡錢<num value="20000">二萬</num>
-<pc>。</pc>又募儂<pc>、</pc>黃諸姓酋長<pc>，</pc>皆縻以職<pc>，</pc>使不與智高合<pc>。</pc>既而朝廷遣狄青<pc>、</pc>孫沔將兵共討賊<pc>。</pc>青卻交阯<pc>，</pc>援兵不用<pc>，</pc>賊平<pc>。</pc>就遷靖給事中<pc>。</pc>禦史梁茜言賞薄<pc>，</pc>又遷尚書工部侍郎<pc>。</pc>初<pc>，</pc>青兵未至前<pc>，</pc>戒部將勿戰<pc>。</pc>靖迫鈐轄陳曙出鬥<pc>，</pc>敗走<pc>。</pc>青至<pc>，</pc>按軍法斬曙及指使袁用等於坐<pc>，</pc>靖瞿然起拜<pc>。</pc>及諸將班師<pc>，</pc>獨留靖廣西<pc>，</pc>遣人入特磨道擒智高母子弟<num value="3">三</num>人<pc>，</pc>生致之闕下<pc>。</pc>加集賢院學士<pc>，</pc>徙知潭州<pc>，</pc>又徙青州<pc>。</pc>
+<p>儂智高反邕州<pc>，</pc>乘勝掠<num value="9">九</num>郡<pc>，</pc>以兵圍廣州<pc>。</pc>朝廷方顧南事<pc>，</pc>就喪次起靖為秘書監<pc>、</pc>知潭州<pc>，</pc>改桂州<pc>，</pc>詔以廣南西路委靖經製<pc>。</pc>智高西走邕州<pc>，</pc>靖策其必結援交阯<pc>，</pc>而脅諸峒以自固<pc>，</pc>乃約李德政會兵擊賊於邕州<pc>，</pc>備<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>糧以待之<pc>；</pc>而詔亦給緡錢<num value="20000">二萬</num>助德政興師<pc>，</pc>且約賊平更賞以緡錢<num value="20000">二萬</num>
+<pc>。</pc>又募儂<pc>、</pc>黃諸姓酋長<pc>，</pc>皆縻以職<pc>，</pc>使不與智高合<pc>。</pc>既而朝廷遣狄青<pc>、</pc>孫沔將兵共討賊<pc>。</pc>青卻交阯<pc>，</pc>援兵不用<pc>，</pc>賊平<pc>。</pc>就遷靖給事中<pc>。</pc>禦史梁茜言賞薄<pc>，</pc>又遷尚書工部侍郎<pc>。</pc>初<pc>，</pc>青兵未至前<pc>，</pc>戒部將勿戰<pc>。</pc>靖迫鈐轄陳曙出鬥<pc>，</pc>敗走<pc>。</pc>青至<pc>，</pc>按軍法斬曙及指使袁用等於坐<pc>，</pc>靖瞿然起拜<pc>。</pc>及諸將班師<pc>，</pc>獨留靖廣西<pc>，</pc>遣人入特磨道擒智高母子弟<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>生致之闕下<pc>。</pc>加集賢院學士<pc>，</pc>徙知潭州<pc>，</pc>又徙青州<pc>。</pc>
 </p>
 </div>
 <div>
@@ -404,7 +413,8 @@
 <num value="3">三</num>歲</measure>
 <pc>，</pc>出入自如<pc>。</pc>思永攝府事甫<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
-<pc>，</pc>即具獄<pc>。</pc>民以楮券為市<pc>，</pc>藏衣帶中<pc>，</pc>盜置刃於爪<pc>，</pc>捷取之<pc>，</pc>鮮敗者<pc>。</pc>思永得<num value="1">一</num>人詰之<pc>，</pc>悉黥其黨隸兵間<pc>。</pc>中使歲祠峨眉<pc>，</pc>率留成都掊珍玩<pc>，</pc>價直數<num value="1000000">百萬</num>錢<pc>，</pc>悉出於民<pc>。</pc>思永朘其<num value="3">三</num>之<num value="1">一</num>
+<pc>，</pc>即具獄<pc>。</pc>民以楮券為市<pc>，</pc>藏衣帶中<pc>，</pc>盜置刃於爪<pc>，</pc>捷取之<pc>，</pc>鮮敗者<pc>。</pc>思永得<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>詰之<pc>，</pc>悉黥其黨隸兵間<pc>。</pc>中使歲祠峨眉<pc>，</pc>率留成都掊珍玩<pc>，</pc>價直數<num value="1000000">百萬</num>錢<pc>，</pc>悉出於民<pc>。</pc>思永朘其<num value="3">三</num>之<num value="1">一</num>
 <pc>，</pc>使怒去<pc>，</pc>而不能有所中傷也<pc>。</pc>
 </p>
 </div>
@@ -434,7 +444,9 @@
 </p>
 </div>
 <div>
-<p>張存<pc>，</pc>字誠之<pc>，</pc>冀州人<pc>。</pc>舉進士<pc>，</pc>為安肅軍判官<pc>。</pc>天禧中<pc>，</pc>詔銓司以身言書判取士<pc>，</pc>才得<num value="2">二</num>人<pc>，</pc>存預其選<pc>。</pc>改著作佐郎<pc>，</pc>知大名府朝城縣<pc>。</pc>寇準為守<pc>，</pc>異待之<pc>。</pc>禦史中丞王曙<pc>，</pc>屢薦為殿中侍禦史<pc>，</pc>遷侍禦史<pc>。</pc>
+<p>張存<pc>，</pc>字誠之<pc>，</pc>冀州人<pc>。</pc>舉進士<pc>，</pc>為安肅軍判官<pc>。</pc>天禧中<pc>，</pc>詔銓司以身言書判取士<pc>，</pc>才得<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>存預其選<pc>。</pc>改著作佐郎<pc>，</pc>知大名府朝城縣<pc>。</pc>寇準為守<pc>，</pc>異待之<pc>。</pc>禦史中丞王曙<pc>，</pc>屢薦為殿中侍禦史<pc>，</pc>遷侍禦史<pc>。</pc>
 </p>
 </div>
 <div>
@@ -470,7 +482,8 @@
 <div>
 <p>存性孝友<pc>，</pc>嚐為蜀郡<pc>，</pc>得奇繒文錦以歸<pc>，</pc>悉布之堂上<pc>，</pc>恣兄弟擇取<pc>。</pc>常曰<pc>：</pc>
 <pc>“</pc>兄弟<pc>，</pc>手足也<pc>；</pc>妻妾<pc>，</pc>外舍人耳<pc>。</pc>奈何先外人而後手足乎<pc>？</pc>
-<pc>”</pc>收恤宗屬<pc>，</pc>嫁聘窮嫠<pc>，</pc>不使<num value="1">一</num>人失所<pc>。</pc>家居矜莊<pc>，</pc>子孫非正衣冠不見<pc>。</pc>與賓友燕接<pc>，</pc>垂足危坐終日<pc>，</pc>未嚐傾倚<pc>。</pc>棗強河決<pc>，</pc>勢逼冀城<pc>，</pc>或勸使他徒<pc>，</pc>曰<pc>：</pc>
+<pc>”</pc>收恤宗屬<pc>，</pc>嫁聘窮嫠<pc>，</pc>不使<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>失所<pc>。</pc>家居矜莊<pc>，</pc>子孫非正衣冠不見<pc>。</pc>與賓友燕接<pc>，</pc>垂足危坐終日<pc>，</pc>未嚐傾倚<pc>。</pc>棗強河決<pc>，</pc>勢逼冀城<pc>，</pc>或勸使他徒<pc>，</pc>曰<pc>：</pc>
 <pc>“</pc>吾家<pc>，</pc>眾所望也<pc>，</pc>苟輕舉動<pc>，</pc>使<measure quantity="1" unit="prefecture">
 <num value="1">一</num>州</measure>吏民何以自安<pc>。</pc>
 <pc>”</pc>訖不徙<pc>。</pc>卒<pc>，</pc>年<num value="88">八十八</num>

@@ -24,17 +24,19 @@
 <body>
 <div type="chapter" n="480">
 <div>
-<p>◎世家<num value="3">三</num>○<date>吳越</date>錢氏</p>
+<p>
+<name key="null" type="null">◎世家</name>
+<num value="3">三</num>○<date when="null">吳越</date>錢氏</p>
 </div>
 <div>
 <p>
-<date>吳越</date>錢俶字文德<pc>，</pc>杭州臨安人<pc>。</pc>本名弘俶<pc>，</pc>以犯宣祖偏諱去之<pc>。</pc>祖鏐<pc>，</pc>因黃巢之亂<pc>，</pc>據有<date>吳越</date>
-<pc>，</pc>昭宗授以杭<pc>、</pc>越兩藩節製<pc>，</pc>封彭城郡王<pc>。</pc>曆梁<pc>、</pc>後唐<pc>，</pc>加<date>吳越</date>國王<pc>，</pc>卒<pc>，</pc>子元瓘嗣<pc>。</pc>元瓘卒<pc>，</pc>子佐嗣<pc>。</pc>佐卒<pc>，</pc>弟倧嗣<pc>，</pc>為其大將胡進思所廢<pc>，</pc>遂迎立俶<pc>，</pc>事具<pc>《</pc>
+<date when="null">吳越</date>錢俶字文德<pc>，</pc>杭州臨安人<pc>。</pc>本名弘俶<pc>，</pc>以犯宣祖偏諱去之<pc>。</pc>祖鏐<pc>，</pc>因黃巢之亂<pc>，</pc>據有<date when="null">吳越</date>
+<pc>，</pc>昭宗授以杭<pc>、</pc>越兩藩節製<pc>，</pc>封彭城郡王<pc>。</pc>曆梁<pc>、</pc>後唐<pc>，</pc>加<date when="null">吳越</date>國王<pc>，</pc>卒<pc>，</pc>子元瓘嗣<pc>。</pc>元瓘卒<pc>，</pc>子佐嗣<pc>。</pc>佐卒<pc>，</pc>弟倧嗣<pc>，</pc>為其大將胡進思所廢<pc>，</pc>遂迎立俶<pc>，</pc>事具<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>史</title>
 <pc>》</pc>
-<pc>。</pc>俶即元瓘之第<num value="9">九</num>子也<pc>，</pc>母<date>吳越</date>國恭懿夫人吳氏<pc>。</pc>
+<pc>。</pc>俶即元瓘之第<num value="9">九</num>子也<pc>，</pc>母<date when="null">吳越</date>國恭懿夫人吳氏<pc>。</pc>
 </p>
 </div>
 <div>
@@ -47,7 +49,7 @@
 <div>
 <p>漢乾祐初<pc>，</pc>授東南面兵馬都元帥<pc>、</pc>鎮海鎮東軍<term>節度使</term>
 <pc>、</pc>開府儀同<num value="3">三</num>司<pc>、</pc>檢校太師兼中書令<pc>、</pc>杭越等州大都督<pc>、</pc>
-<date>吳越</date>國王<pc>，</pc>賜號翊聖廣運同德保定功臣<pc>，</pc>賜以金印<pc>、</pc>玉冊<pc>。</pc>
+<date when="null">吳越</date>國王<pc>，</pc>賜號翊聖廣運同德保定功臣<pc>，</pc>賜以金印<pc>、</pc>玉冊<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>江南遣其將查文徽攻福州<pc>，</pc>俶發兵擒文徽<pc>，</pc>獻捷<pc>，</pc>加尚書令<pc>。</pc>
@@ -105,7 +107,8 @@
 <num value="7">七</num>年</measure>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
-<pc>，</pc>賜俶襲衣<pc>、</pc>玉帶<pc>、</pc>玉鞍勒馬<pc>、</pc>金器<num value="200">二百</num>兩<pc>、</pc>銀器<num value="3000">三千</num>兩<pc>、</pc>錦綺<num value="1000">千</num>段<pc>。</pc>是冬<pc>，</pc>討江南<pc>。</pc>遣內客省使丁德裕齎詔<pc>，</pc>以俶為升州東面招撫製置使<pc>，</pc>賜戰馬<num value="200">二百</num>匹<pc>、</pc>旌旗劍甲<pc>；</pc>令德裕以禁兵步騎<num value="1000">千</num>人為俶前鋒<pc>，</pc>盡護其軍<pc>。</pc>李煜貽書於俶<pc>，</pc>其略曰<pc>：</pc>
+<pc>，</pc>賜俶襲衣<pc>、</pc>玉帶<pc>、</pc>玉鞍勒馬<pc>、</pc>金器<num value="200">二百</num>兩<pc>、</pc>銀器<num value="3000">三千</num>兩<pc>、</pc>錦綺<num value="1000">千</num>段<pc>。</pc>是冬<pc>，</pc>討江南<pc>。</pc>遣內客省使丁德裕齎詔<pc>，</pc>以俶為升州東面招撫製置使<pc>，</pc>賜戰馬<num value="200">二百</num>匹<pc>、</pc>旌旗劍甲<pc>；</pc>令德裕以禁兵步騎<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>為俶前鋒<pc>，</pc>盡護其軍<pc>。</pc>李煜貽書於俶<pc>，</pc>其略曰<pc>：</pc>
 <pc>“</pc>今日無我<pc>，</pc>明日豈有君<pc>？</pc>
 <num value="1">一</num>旦明天子易地酬勳<pc>，</pc>王亦大梁<num value="1">一</num>布衣耳<pc>。</pc>
 <pc>”</pc>俶不答<pc>，</pc>以書來上<pc>。</pc>
@@ -118,9 +121,13 @@
 <pc>，</pc>俶率兵拔常州<pc>，</pc>加守太師<pc>，</pc>詔俶歸國<pc>。</pc>俶遣大將沈承禮等率兵水陸隨王師平潤州<pc>，</pc>遂進討金陵<pc>。</pc>上嘗召進奏使任知果<pc>，</pc>令諭旨於俶曰<pc>：</pc>
 <pc>“</pc>元帥克毗陵有大功<pc>，</pc>俟平江南<pc>，</pc>可暫來與朕相見<pc>，</pc>以慰延想之意<pc>。</pc>即當遣還<pc>，</pc>不久留也<pc>。</pc>朕<num value="3">三</num>執圭幣以見上帝<pc>，</pc>豈食言乎<pc>？</pc>
 <pc>”</pc>江南平<pc>，</pc>論功以俶大將沈承禮<pc>、</pc>孫承祐並為<term>節度使</term>
-<pc>，</pc>為防禦使者<num value="1">一</num>人<pc>、</pc>
+<pc>，</pc>為防禦使者<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>、</pc>
 <term>刺史</term>
-<num value="6">六</num>人<pc>。</pc>
+<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -138,8 +145,8 @@
 <num value="3">三</num>月</measure>
 <num value="7">庚午</num>
 <pc>，</pc>詔曰<pc>：</pc>
-<pc>“</pc>古者宗工大臣特被隆眷<pc>，</pc>或劍履上殿<pc>，</pc>或書詔不名<pc>，</pc>率由豐功<pc>，</pc>待以殊禮<pc>。</pc>今我兼其命數<pc>，</pc>用獎勳賢<pc>，</pc>輝映古今<pc>，</pc>允為優異<pc>。</pc>谘爾<date>吳越</date>國王錢俶<pc>，</pc>德隆宏茂<pc>，</pc>器識深遠<pc>，</pc>撫奧區於吳會<pc>，</pc>勒洪伐於宗彝<pc>。</pc>昨以江表不庭<pc>，</pc>王師致討<pc>，</pc>委方面之兵柄<pc>，</pc>克常<pc>、</pc>潤之土宇<pc>，</pc>輔翼帝室<pc>，</pc>震疊皇靈<pc>。</pc>而乃執圭來庭<pc>，</pc>垂紳就列<pc>，</pc>罄事君之誠愨<pc>，</pc>為群後之表儀<pc>。</pc>爰峻徽章<pc>，</pc>以旌元老<pc>。</pc>可特賜劍履上殿<pc>，</pc>書詔不名<pc>。</pc>
-<pc>”</pc>以俶妻賢德順穆夫人孫氏為<date>吳越</date>國王妃<pc>，</pc>令惟濬齎詔賜之<pc>。</pc>
+<pc>“</pc>古者宗工大臣特被隆眷<pc>，</pc>或劍履上殿<pc>，</pc>或書詔不名<pc>，</pc>率由豐功<pc>，</pc>待以殊禮<pc>。</pc>今我兼其命數<pc>，</pc>用獎勳賢<pc>，</pc>輝映古今<pc>，</pc>允為優異<pc>。</pc>谘爾<date when="null">吳越</date>國王錢俶<pc>，</pc>德隆宏茂<pc>，</pc>器識深遠<pc>，</pc>撫奧區於吳會<pc>，</pc>勒洪伐於宗彝<pc>。</pc>昨以江表不庭<pc>，</pc>王師致討<pc>，</pc>委方面之兵柄<pc>，</pc>克常<pc>、</pc>潤之土宇<pc>，</pc>輔翼帝室<pc>，</pc>震疊皇靈<pc>。</pc>而乃執圭來庭<pc>，</pc>垂紳就列<pc>，</pc>罄事君之誠愨<pc>，</pc>為群後之表儀<pc>。</pc>爰峻徽章<pc>，</pc>以旌元老<pc>。</pc>可特賜劍履上殿<pc>，</pc>書詔不名<pc>。</pc>
+<pc>”</pc>以俶妻賢德順穆夫人孫氏為<date when="null">吳越</date>國王妃<pc>，</pc>令惟濬齎詔賜之<pc>。</pc>
 <term>宰相</term>以為異姓諸侯王妻無封妃之典<pc>，</pc>太祖曰<pc>：</pc>
 <pc>“</pc>行自我朝<pc>，</pc>表異恩也<pc>。</pc>
 <pc>”</pc>俶獻白金<num value="60000">六萬</num>兩<pc>、</pc>絹<num value="60000">六萬</num>匹為謝<pc>。</pc>
@@ -209,7 +216,7 @@
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <pc>，</pc>會陳洪進納土<pc>，</pc>俶上言曰<pc>：</pc>
-<pc>“</pc>臣伏有懇誠<pc>，</pc>貯於肺腑<pc>，</pc>幸因入覲<pc>，</pc>輒敢上聞<pc>。</pc>蓋虞神道之害盈<pc>，</pc>必冀天慈之從欲<pc>。</pc>臣近蒙朝廷賜以劍履上殿<pc>，</pc>詔書不名<pc>，</pc>仍以本道領募卒徒<pc>，</pc>嘗營戈甲<pc>，</pc>特建國王之號<pc>，</pc>俾增師律之嚴<pc>，</pc>皆所以假其寵名<pc>，</pc>托於鄰敵<pc>。</pc>方今幅員開外<pc>，</pc>名數洞分<pc>，</pc>豈可冒居<pc>，</pc>自罹公議<pc>？</pc>合從省罷<pc>，</pc>以正等威<pc>。</pc>除本道軍士<pc>、</pc>器甲臣已曾奏納外<pc>，</pc>其所封<date>吳越</date>國王及天下兵馬大元帥職名<pc>，</pc>望皆許解罷<pc>。</pc>凡頒詔命<pc>，</pc>願複名呼<pc>，</pc>庶聖朝無虛授之恩<pc>，</pc>微臣免疾顛之禍<pc>。</pc>
+<pc>“</pc>臣伏有懇誠<pc>，</pc>貯於肺腑<pc>，</pc>幸因入覲<pc>，</pc>輒敢上聞<pc>。</pc>蓋虞神道之害盈<pc>，</pc>必冀天慈之從欲<pc>。</pc>臣近蒙朝廷賜以劍履上殿<pc>，</pc>詔書不名<pc>，</pc>仍以本道領募卒徒<pc>，</pc>嘗營戈甲<pc>，</pc>特建國王之號<pc>，</pc>俾增師律之嚴<pc>，</pc>皆所以假其寵名<pc>，</pc>托於鄰敵<pc>。</pc>方今幅員開外<pc>，</pc>名數洞分<pc>，</pc>豈可冒居<pc>，</pc>自罹公議<pc>？</pc>合從省罷<pc>，</pc>以正等威<pc>。</pc>除本道軍士<pc>、</pc>器甲臣已曾奏納外<pc>，</pc>其所封<date when="null">吳越</date>國王及天下兵馬大元帥職名<pc>，</pc>望皆許解罷<pc>。</pc>凡頒詔命<pc>，</pc>願複名呼<pc>，</pc>庶聖朝無虛授之恩<pc>，</pc>微臣免疾顛之禍<pc>。</pc>
 <pc>”</pc>優詔不許<pc>。</pc>
 </p>
 </div>
@@ -238,7 +245,7 @@
 <num value="24">丁亥</num>
 <pc>，</pc>詔曰<pc>：</pc>
 <pc>“</pc>漢寵功臣<pc>，</pc>聿著帶河之誓<pc>；</pc>周尊元老<pc>，</pc>遂分表海之邦<pc>。</pc>其有奄宅勾吳<pc>，</pc>早綿星紀<pc>，</pc>包茅入貢<pc>，</pc>不絕於累朝<pc>，</pc>羽檄起兵<pc>，</pc>備嘗於<num value="100">百</num>戰<pc>。</pc>適當輯瑞而來勤<pc>，</pc>爰以提封而上獻<pc>。</pc>宜遷內地<pc>，</pc>別錫爰田<pc>，</pc>彌昭啟土之榮<pc>，</pc>俾增書社之數<pc>。</pc>
-<date>吳越</date>國王錢俶天資純懿<pc>，</pc>世濟忠貞<pc>，</pc>兆積德於靈源<pc>，</pc>書大勳於策府<pc>。</pc>近者慶衝人之踐阼<pc>，</pc>奉國珍而來朝<pc>，</pc>齒革羽毛既修其常貢<pc>，</pc>土田版籍又獻於有司<pc>，</pc>願宿衛於京師<pc>，</pc>表乃心於王室<pc>。</pc>眷茲誠節<pc>，</pc>宜茂寵光<pc>。</pc>是用列西楚之名區<pc>，</pc>析長淮之奧壤<pc>，</pc>建茲大國<pc>，</pc>不遠舊封<pc>，</pc>載疏<num value="1000">千</num>裏之疆<pc>，</pc>更重<num value="4">四</num>征之寄<pc>。</pc>疇其爵邑<pc>，</pc>施及子孫<pc>，</pc>永夾輔於皇家<pc>，</pc>用對揚於休命<pc>，</pc>垂厥<num value="100">百</num>世<pc>，</pc>不其偉歟<pc>！</pc>其以淮南節度管內封俶為淮海國王<pc>，</pc>仍改賜寧淮鎮海崇文耀武宣德守道功臣<pc>，</pc>即以禮賢宅賜之<pc>。</pc>
+<date when="null">吳越</date>國王錢俶天資純懿<pc>，</pc>世濟忠貞<pc>，</pc>兆積德於靈源<pc>，</pc>書大勳於策府<pc>。</pc>近者慶衝人之踐阼<pc>，</pc>奉國珍而來朝<pc>，</pc>齒革羽毛既修其常貢<pc>，</pc>土田版籍又獻於有司<pc>，</pc>願宿衛於京師<pc>，</pc>表乃心於王室<pc>。</pc>眷茲誠節<pc>，</pc>宜茂寵光<pc>。</pc>是用列西楚之名區<pc>，</pc>析長淮之奧壤<pc>，</pc>建茲大國<pc>，</pc>不遠舊封<pc>，</pc>載疏<num value="1000">千</num>裏之疆<pc>，</pc>更重<num value="4">四</num>征之寄<pc>。</pc>疇其爵邑<pc>，</pc>施及子孫<pc>，</pc>永夾輔於皇家<pc>，</pc>用對揚於休命<pc>，</pc>垂厥<num value="100">百</num>世<pc>，</pc>不其偉歟<pc>！</pc>其以淮南節度管內封俶為淮海國王<pc>，</pc>仍改賜寧淮鎮海崇文耀武宣德守道功臣<pc>，</pc>即以禮賢宅賜之<pc>。</pc>
 <pc>”</pc>惟濬為<term>節度使</term>兼侍中<pc>，</pc>惟治為<term>節度使</term>
 <pc>，</pc>惟演為團練使<pc>，</pc>惟願暨侄鬱<pc>、</pc>昱並為<term>刺史</term>
 <pc>，</pc>弟儀<pc>、</pc>信並為觀察使<pc>，</pc>將校孫承祐<pc>、</pc>沈承禮並為<term>節度使</term>
@@ -250,8 +257,12 @@
 <num value="7">七</num>月</measure>中元<pc>，</pc>京城張燈<pc>，</pc>令有司於俶宅前設燈山<pc>、</pc>陳聲樂以寵之<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>令兩浙發俶緦麻以上親及管內官吏悉歸朝<pc>，</pc>凡舟<num value="1044">一千四十四</num>艘<pc>，</pc>所過以兵護送<pc>。</pc>杭州貢俶樂人凡<num value="80">八十</num>有<num value="1">一</num>人<pc>，</pc>詔以<num value="36">三十六</num>人還杭州<pc>，</pc>
-<num value="45">四十五</num>人賜俶<pc>。</pc>俶上表謝<pc>，</pc>上親畫<pc>“</pc>付中書送史館<pc>”</pc>
+<pc>，</pc>令兩浙發俶緦麻以上親及管內官吏悉歸朝<pc>，</pc>凡舟<num value="1044">一千四十四</num>艘<pc>，</pc>所過以兵護送<pc>。</pc>杭州貢俶樂人凡<num value="80">八十</num>有<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>詔以<measure quantity="36" unit="people">
+<num value="36">三十六</num>人</measure>還杭州<pc>，</pc>
+<measure quantity="45" unit="people">
+<num value="45">四十五</num>人</measure>賜俶<pc>。</pc>俶上表謝<pc>，</pc>上親畫<pc>“</pc>付中書送史館<pc>”</pc>
 <pc>。</pc>
 </p>
 </div>
@@ -346,7 +357,7 @@
 </div>
 <div>
 <p>命中使護其喪歸葬<placeName>洛陽</placeName>
-<pc>。</pc>自鏐至俶世有<date>吳越</date>之地僅<measure quantity="100" unit="years">
+<pc>。</pc>自鏐至俶世有<date when="null">吳越</date>之地僅<measure quantity="100" unit="years">
 <num value="100">百</num>年</measure>
 <pc>，</pc>管內諸州皆子弟<pc>，</pc>將校授任而後請命於朝<pc>，</pc>有至使相者<pc>。</pc>俶任太師<pc>、</pc>尚書令兼中書令<measure quantity="40" unit="years">
 <num value="40">四十</num>年</measure>
@@ -356,7 +367,7 @@
 </p>
 </div>
 <div>
-<p>然甚儉素<pc>，</pc>自奉尤薄<pc>，</pc>常服大帛之衣<pc>，</pc>幃帳茵褥皆用紫絁<pc>，</pc>食不重味<pc>。</pc>頗知書<pc>，</pc>雅好吟詠<pc>。</pc>在<date>吳越</date>日<pc>，</pc>自編其詩數<num value="100">百</num>首為<pc>《</pc>
+<p>然甚儉素<pc>，</pc>自奉尤薄<pc>，</pc>常服大帛之衣<pc>，</pc>幃帳茵褥皆用紫絁<pc>，</pc>食不重味<pc>。</pc>頗知書<pc>，</pc>雅好吟詠<pc>。</pc>在<date when="null">吳越</date>日<pc>，</pc>自編其詩數<num value="100">百</num>首為<pc>《</pc>
 <title>正本集</title>
 <pc>》</pc>
 <pc>，</pc>因陶穀奉使至杭州<pc>，</pc>求為之序<pc>。</pc>性謙和<pc>，</pc>未嘗忤物<pc>。</pc>在藩日<pc>，</pc>每朝廷使至<pc>，</pc>接遇勤厚<pc>。</pc>所上乘輿<pc>、</pc>服物<pc>、</pc>器玩<pc>，</pc>製作精妙<pc>，</pc>每遣使修貢<pc>，</pc>必羅列於庭<pc>，</pc>焚香再拜<pc>，</pc>其恭謹如此<pc>。</pc>崇信釋氏<pc>，</pc>前後造寺數<num value="100">百</num>
@@ -419,7 +430,9 @@
 <div>
 <p>太宗即位<pc>，</pc>加兼侍中<pc>。</pc>太平興國<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>丁母<persName>妃孫</persName>氏憂<pc>，</pc>起複<pc>，</pc>加鎮東大將軍<pc>、</pc>右金吾衛大將軍<pc>，</pc>員外置同正<pc>。</pc>俶將入朝<pc>，</pc>惟濬先奉方物來貢<pc>，</pc>詔戶部郎中侯涉至泗州迎勞之<pc>，</pc>賜賚無算<pc>，</pc>並增其食邑<pc>。</pc>
+<pc>，</pc>丁母<name key="null" type="maternal">
+<persName>妃孫</persName>
+</name>氏憂<pc>，</pc>起複<pc>，</pc>加鎮東大將軍<pc>、</pc>右金吾衛大將軍<pc>，</pc>員外置同正<pc>。</pc>俶將入朝<pc>，</pc>惟濬先奉方物來貢<pc>，</pc>詔戶部郎中侯涉至泗州迎勞之<pc>，</pc>賜賚無算<pc>，</pc>並增其食邑<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>隨俶來朝<pc>，</pc>俶盡獻浙右之地<pc>，</pc>改封淮海國王<pc>，</pc>徙惟濬淮南節度<pc>。</pc>是冬<pc>，</pc>郊祀恩<pc>，</pc>加檢校太師<pc>。</pc>從平太原及從征幽薊<pc>，</pc>又從幸大名<pc>。</pc>雍熙元年<pc>，</pc>郊祀<pc>，</pc>改山南東道節度<pc>。</pc>
@@ -430,7 +443,9 @@
 </div>
 <div>
 <p>惟濬與俶諸子共進錢金<pc>、</pc>綾羅<pc>、</pc>犀玉帶笏<pc>、</pc>犀角<pc>、</pc>象牙<pc>、</pc>丁香<pc>、</pc>金玉馬腦鞍勒<pc>、</pc>金玉珠翠首飾<pc>、</pc>樂器<pc>、</pc>博具<pc>、</pc>器皿什物<pc>、</pc>馬橐駝牛驢車凡數<num value="100000">十萬</num>計<pc>。</pc>俶妻俞氏又進金銀<num value="10">十</num>餘<num value="10000">萬</num>
-<pc>、</pc>犀<num value="20">二十</num>株<pc>、</pc>通犀赬犀玉帶<num value="22">二十二</num>條<pc>、</pc>水晶佛像<num value="12">十二</num>事<pc>。</pc>惟濬又進女樂<num value="10">十</num>人<pc>，</pc>上不納<pc>，</pc>各賜錦彩<num value="30">三十</num>段遣還之<pc>。</pc>淳化初<pc>，</pc>杭州以錢氏家廟所藏唐<pc>、</pc>梁以來累朝所賜玉冊竹冊各<num value="3">三</num>副<pc>、</pc>鐵券<num value="1">一</num>來上<pc>，</pc>上悉以賜惟濬<pc>。</pc>明年春<pc>，</pc>得疾暴卒<pc>，</pc>年<num value="37">三十七</num>
+<pc>、</pc>犀<num value="20">二十</num>株<pc>、</pc>通犀赬犀玉帶<num value="22">二十二</num>條<pc>、</pc>水晶佛像<num value="12">十二</num>事<pc>。</pc>惟濬又進女樂<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>上不納<pc>，</pc>各賜錦彩<num value="30">三十</num>段遣還之<pc>。</pc>淳化初<pc>，</pc>杭州以錢氏家廟所藏唐<pc>、</pc>梁以來累朝所賜玉冊竹冊各<num value="3">三</num>副<pc>、</pc>鐵券<num value="1">一</num>來上<pc>，</pc>上悉以賜惟濬<pc>。</pc>明年春<pc>，</pc>得疾暴卒<pc>，</pc>年<num value="37">三十七</num>
 <pc>。</pc>廢朝<measure quantity="2" unit="days">
 <num value="2">二</num>日</measure>
 <pc>，</pc>追封邠王<pc>，</pc>諡安僖<pc>，</pc>中使典喪事<pc>。</pc>
@@ -596,7 +611,7 @@
 <pc>、</pc>
 <pc>《</pc>
 <title>
-<date>吳越</date>備史</title>
+<date when="null">吳越</date>備史</title>
 <pc>》</pc>
 <measure quantity="15" unit="chapters">
 <num value="15">十五</num>卷</measure>
@@ -664,7 +679,8 @@
 <p>昱善筆劄<pc>，</pc>工尺牘<pc>，</pc>太祖嘗取觀賞之<pc>，</pc>賜以禦書金花扇及<pc>《</pc>
 <title>急就章</title>
 <pc>》</pc>
-<pc>。</pc>昱聰敏能覆棋<pc>，</pc>工琴畫<pc>，</pc>飲酒至鬥餘不亂<pc>。</pc>善諧謔<pc>，</pc>生平交舊終日談宴<pc>，</pc>未曾犯<num value="1">一</num>人家諱<pc>。</pc>有集<measure quantity="20" unit="chapters">
+<pc>。</pc>昱聰敏能覆棋<pc>，</pc>工琴畫<pc>，</pc>飲酒至鬥餘不亂<pc>。</pc>善諧謔<pc>，</pc>生平交舊終日談宴<pc>，</pc>未曾犯<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>家諱<pc>。</pc>有集<measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>
 <pc>。</pc>然貪猥縱肆<pc>，</pc>無名節可稱<pc>。</pc>生子<num value="100">百</num>數<pc>。</pc>涉<pc>，</pc>雍熙中進士及第<pc>。</pc>絳<pc>，</pc>至內殿承製<pc>、</pc>閣門祗候<pc>，</pc>累典郡<pc>，</pc>頗以幹力稱<pc>。</pc>
 </p>
@@ -717,7 +733,8 @@
 </p>
 </div>
 <div>
-<p>王師征江南<pc>，</pc>俶遣承禮率水陸數<num value="10000">萬</num>人助平毗陵<pc>，</pc>因攻潤州<pc>。</pc>城中兵夜出焚外柵<pc>，</pc>諸將皆欲馳救<pc>，</pc>承禮曰<pc>：</pc>
+<p>王師征江南<pc>，</pc>俶遣承禮率水陸數<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>助平毗陵<pc>，</pc>因攻潤州<pc>。</pc>城中兵夜出焚外柵<pc>，</pc>諸將皆欲馳救<pc>，</pc>承禮曰<pc>：</pc>
 <pc>“</pc>古人有言<pc>，</pc>擊東南而備西北者<pc>，</pc>此之謂也<pc>。</pc>
 <pc>”</pc>命士皆擐甲蓐食<pc>，</pc>堅壁不動<pc>。</pc>他壘不設備者悉驚擾<pc>，</pc>獨承禮所部敵人不敢窺<pc>。</pc>丹陽平<pc>，</pc>遂率兵抵建業<pc>。</pc>李煜歸朝<pc>，</pc>錄其功<pc>，</pc>真授福州節製<pc>。</pc>太平興國初<pc>，</pc>俶盡獻浙右地<pc>，</pc>徙承禮鎮密州<pc>。</pc>
 <measure quantity="8" unit="years">

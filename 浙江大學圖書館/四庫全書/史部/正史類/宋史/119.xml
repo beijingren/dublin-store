@@ -24,13 +24,13 @@
 <body>
 <div type="chapter" n="119">
 <div>
-<p>◎禮<num value="22">二十二</num>
-<pc>（</pc>賓禮<num value="4">四</num>
+<p>
+<name key="null" type="null">◎禮二</name>十二<pc>（</pc>賓禮<num value="4">四</num>
 <pc>）</pc>
 </p>
 </div>
 <div>
-<p>○錄周後錄先聖後群臣朝使宴餞朝臣時節饋廩外國君長來朝契丹夏國使副見辭儀高麗附金國使副見辭儀諸<date>國朝</date>貢</p>
+<p>○錄周後錄先聖後群臣朝使宴餞朝臣時節饋廩外國君長來朝契丹夏國使副見辭儀高麗附金國使副見辭儀諸<date when="null">國朝</date>貢</p>
 </div>
 <div>
 <p>昔周滅殷<pc>，</pc>封微子為殷後<pc>，</pc>俾修其禮物<pc>，</pc>作賓於王家<pc>，</pc>與國鹹休<pc>。</pc>宋以柴周之後為<num value="2">二</num>恪<pc>，</pc>又錄孔子之後<pc>，</pc>亦先王崇德象賢之意也<pc>，</pc>故皆為賓禮<pc>。</pc>其餘則有朝使之宴餞<pc>、</pc>歲時之廩饋及外國之使聘<pc>、</pc>遠方之朝貢<pc>，</pc>著其迓餞宴賚之式<pc>，</pc>登降揖遜之儀<pc>，</pc>備<num value="1">一</num>代之製焉<pc>。</pc>
@@ -76,7 +76,8 @@
 <pc>，</pc>錄故虢州防禦使柴貴子肅為<num value="3">三</num>班奉職<pc>。</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>錄故太子少傅柴守禮孫詠為<num value="3">三</num>班奉職<pc>。</pc>其後<pc>，</pc>又錄柴氏之後曰熙<pc>、</pc>曰 愈<pc>、</pc>曰若拙<pc>、</pc>曰上善並為<num value="3">三</num>班奉職<pc>，</pc>曰餘慶<pc>、</pc>曰織為州長史<pc>、</pc>助教<pc>，</pc>曰貽廓等<num value="11">十一</num>人複其身<pc>，</pc>仍各賜錢<num value="10000">一萬</num>
+<pc>，</pc>錄故太子少傅柴守禮孫詠為<num value="3">三</num>班奉職<pc>。</pc>其後<pc>，</pc>又錄柴氏之後曰熙<pc>、</pc>曰 愈<pc>、</pc>曰若拙<pc>、</pc>曰上善並為<num value="3">三</num>班奉職<pc>，</pc>曰餘慶<pc>、</pc>曰織為州長史<pc>、</pc>助教<pc>，</pc>曰貽廓等<measure quantity="11" unit="people">
+<num value="11">十一</num>人</measure>複其身<pc>，</pc>仍各賜錢<num value="10000">一萬</num>
 <pc>。</pc>又錄世宗曾孫揆<pc>、</pc>柔及貴曾孫日宣<pc>、</pc>守禮曾孫若訥皆為<num value="3">三</num>班奉職<pc>。</pc>
 </p>
 </div>
@@ -87,7 +88,7 @@
 <pc>“</pc>昔舜受堯<pc>、</pc>禹受舜之天下<pc>，</pc>而封丹朱<pc>、</pc>商均以為國賓<pc>。</pc>周<pc>、</pc>漢以降<pc>，</pc>以及於唐<pc>，</pc>莫不崇奉先代<pc>，</pc>延及苗裔<pc>。</pc>本 朝受周天下<pc>，</pc>而近代之盛莫如唐<pc>，</pc>自梁以下<pc>，</pc>皆不足以崇襲<pc>。</pc>臣願考求唐<pc>、</pc>周之裔<pc>，</pc>以備<num value="2">二</num>王之後<pc>，</pc>授以爵命<pc>，</pc>封縣立廟<pc>，</pc>世世承襲<pc>，</pc>永為國賓<pc>。</pc>
 <pc>”</pc>事下太常議<pc>，</pc>曰<pc>：</pc>
 <pc>“</pc>古者立<num value="2">二</num>王後<pc>，</pc>不惟繼絕<pc>，</pc>兼取其明德可法<pc>。</pc>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>草創<pc>，</pc>載祀不永<pc>，</pc>文章製度<pc>，</pc>
 <num value="1">一</num>無可考<pc>。</pc>上取唐室<pc>，</pc>世數已遠<pc>，</pc>於經不合<pc>。</pc>惟周則我受禪之所自<pc>，</pc>義不可 廢<pc>。</pc>宜訪求子孫<pc>，</pc>如孔子後衍聖公<pc>，</pc>授<num value="1">一</num>京官<pc>，</pc>爵以公號<pc>，</pc>使專奉廟饗<pc>，</pc>歲時存問<pc>，</pc>賜之粟帛<pc>、</pc>牲器<pc>、</pc>祭服<pc>。</pc>每遇時祀<pc>，</pc>並從官給<pc>，</pc>其廟宇亦加嚴飾<pc>。</pc>如此<pc>，</pc>則上不 失繼絕之義<pc>，</pc>度之於今<pc>，</pc>亦簡而易行<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>
@@ -96,7 +97,9 @@
 <pc>，</pc>詔曰<pc>：</pc>
 <pc>“</pc>先王推紹天之序<pc>，</pc>尚尊賢之義<pc>，</pc>褒其後嗣<pc>，</pc>賓以殊禮<pc>，</pc>豈非聖人稽古報功之大典哉<pc>？</pc>國家受命之元<pc>，</pc>繼周而王<pc>，</pc>雖民靈欣戴<pc>，</pc>曆數允集<pc>，</pc>而虞賓將遜<pc>，</pc>德美丕顯<pc>。</pc>頃者推命本始<pc>，</pc>褒及支庶<pc>，</pc>每遇南郊<pc>，</pc>許奏白身<num value="1">一</num>名充班行<pc>，</pc>恩則厚矣<pc>，</pc>而義未稱<pc>。</pc>將上采姚<pc>、</pc>姒之 舊<pc>，</pc>略循周<pc>、</pc>漢之典<pc>，</pc>詳其世嫡<pc>，</pc>優以公爵<pc>，</pc>異其仕進之路<pc>，</pc>申以土田之錫<pc>，</pc>俾廟寢有奉<pc>，</pc>饗祀不輟<pc>，</pc>庶幾乎<pc>《</pc>
 <title>春秋</title>
-<pc>》</pc>通<num value="3">三</num>統<pc>、</pc>厚先代之製矣<pc>。</pc>宜令有司取柴氏譜 係<pc>，</pc>於諸房中推最長<num value="1">一</num>人<pc>，</pc>令歲時親奉周室祀事<pc>。</pc>如白身<pc>，</pc>即與京主簿<pc>，</pc>如為班行者<pc>，</pc>即比類換文資<pc>，</pc>仍封崇義公<pc>，</pc>與河南府<pc>、</pc>鄭州合入差遣<pc>，</pc>給公田<num value="10">十</num>頃<pc>，</pc>專管勾 陵廟<pc>。</pc>應緣祭饗禮料所須<pc>，</pc>皆從官給<pc>。</pc>如至知州資序<pc>，</pc>即別與差遣<pc>，</pc>卻取以次近親<pc>，</pc>令襲爵授官<pc>，</pc>永為定式<pc>。</pc>
+<pc>》</pc>通<num value="3">三</num>統<pc>、</pc>厚先代之製矣<pc>。</pc>宜令有司取柴氏譜 係<pc>，</pc>於諸房中推最長<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>令歲時親奉周室祀事<pc>。</pc>如白身<pc>，</pc>即與京主簿<pc>，</pc>如為班行者<pc>，</pc>即比類換文資<pc>，</pc>仍封崇義公<pc>，</pc>與河南府<pc>、</pc>鄭州合入差遣<pc>，</pc>給公田<num value="10">十</num>頃<pc>，</pc>專管勾 陵廟<pc>。</pc>應緣祭饗禮料所須<pc>，</pc>皆從官給<pc>。</pc>如至知州資序<pc>，</pc>即別與差遣<pc>，</pc>卻取以次近親<pc>，</pc>令襲爵授官<pc>，</pc>永為定式<pc>。</pc>
 <pc>”</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
@@ -150,7 +153,7 @@
 </p>
 </div>
 <div>
-<p>時又求隋<pc>、</pc>唐及朱氏<pc>、</pc>李氏<pc>、</pc>石氏<pc>、</pc>劉氏<pc>、</pc>郭氏之後<pc>，</pc>及<date>吳越</date>
+<p>時又求隋<pc>、</pc>唐及朱氏<pc>、</pc>李氏<pc>、</pc>石氏<pc>、</pc>劉氏<pc>、</pc>郭氏之後<pc>，</pc>及<date when="null">吳越</date>
 <pc>、</pc>荊南<pc>、</pc>湖南<pc>、</pc>蜀漢諸國之子孫<pc>，</pc>皆命以官<pc>，</pc>使守其祀<pc>。</pc>具見<pc>《</pc>
 <title>本紀</title>
 <pc>》</pc>
@@ -170,7 +173,7 @@
 <num value="7">七</num>月</measure>
 <pc>，</pc>詔曰<pc>：</pc>
 <pc>“</pc>
-<date>國朝</date>以來<pc>，</pc>世以孔氏子孫知仙源縣<pc>，</pc>使奉承廟祀<pc>。</pc>近歲廢而不行<pc>，</pc>非所以尊先聖也<pc>。</pc>宜以孔氏子孫知仙源縣事<pc>。</pc>
+<date when="null">國朝</date>以來<pc>，</pc>世以孔氏子孫知仙源縣<pc>，</pc>使奉承廟祀<pc>。</pc>近歲廢而不行<pc>，</pc>非所以尊先聖也<pc>。</pc>宜以孔氏子孫知仙源縣事<pc>。</pc>
 <pc>”</pc>
 </p>
 </div>
@@ -193,7 +196,8 @@
 <div>
 <p>宣和<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>詔宣議郎孔端友襲封衍聖公<pc>，</pc>為通直郎<pc>、</pc>直秘閣<pc>，</pc>仍許就任關升<pc>，</pc>以示崇獎<pc>。</pc>端友言<pc>：</pc>詔敕文宣王後與親屬<num value="1">一</num>人判司簿尉<pc>，</pc>今孔若采當承繼推恩<pc>。</pc>詔補迪功郎<pc>。</pc>
+<pc>，</pc>詔宣議郎孔端友襲封衍聖公<pc>，</pc>為通直郎<pc>、</pc>直秘閣<pc>，</pc>仍許就任關升<pc>，</pc>以示崇獎<pc>。</pc>端友言<pc>：</pc>詔敕文宣王後與親屬<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>判司簿尉<pc>，</pc>今孔若采當承繼推恩<pc>。</pc>詔補迪功郎<pc>。</pc>
 </p>
 </div>
 <div>
@@ -203,7 +207,7 @@
 </p>
 </div>
 <div>
-<p>群臣朝覲出使宴餞之儀<pc>。</pc>太祖<pc>、</pc>太宗朝<pc>，</pc>藩鎮牧伯<pc>，</pc>沿<date>
+<p>群臣朝覲出使宴餞之儀<pc>。</pc>太祖<pc>、</pc>太宗朝<pc>，</pc>藩鎮牧伯<pc>，</pc>沿<date when="null">
 <num value="5">五</num>代</date>舊製<pc>，</pc>入覲及被召<pc>、</pc>使回<pc>，</pc>客省齎簽賜酒食<pc>。</pc>
 <term>節度使</term>
 <measure quantity="10" unit="days">
@@ -295,7 +299,7 @@
 <measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>
 <pc>，</pc>宴近臣於廣政殿<pc>，</pc>江南<pc>、</pc>
-<date>吳越</date>朝貢使皆預<pc>。</pc>乾德<measure quantity="3" unit="years">
+<date when="null">吳越</date>朝貢使皆預<pc>。</pc>乾德<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
@@ -313,7 +317,7 @@
 <measure quantity="5" unit="days">
 <num value="5">五</num>日</measure>
 <pc>，</pc>江南李煜<pc>、</pc>
-<date>吳越</date>錢俶各遣子弟來朝<pc>，</pc>宴於崇德殿<pc>。</pc>
+<date when="null">吳越</date>錢俶各遣子弟來朝<pc>，</pc>宴於崇德殿<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <measure quantity="3" unit="months">
@@ -347,7 +351,7 @@
 <measure quantity="25" unit="days">
 <num value="25">二十五</num>日</measure>
 <pc>，</pc>
-<date>吳越</date>錢俶來 朝<pc>，</pc>宴於長春殿<pc>，</pc>親王<pc>、</pc>
+<date when="null">吳越</date>錢俶來 朝<pc>，</pc>宴於長春殿<pc>，</pc>親王<pc>、</pc>
 <term>宰相</term>
 <pc>、</pc>
 <term>節度使</term>
@@ -415,7 +419,8 @@
 <num value="10000">萬</num>歲</measure>
 <pc>，</pc>喝就坐<pc>，</pc>分引赴兩廊<pc>。</pc>次喝教坊已下兩拜<pc>，</pc>班首奏聖躬<num value="10000">萬</num>福<pc>，</pc>又喝拜<pc>，</pc>兩拜<pc>，</pc>隨拜<measure quantity="10000" unit="years">
 <num value="10000">萬</num>歲</measure>
-<pc>，</pc>喝各祗候<pc>。</pc>次引看盞<num value="2">二</num>人稍近前<pc>，</pc>喝拜<pc>，</pc>兩拜<pc>，</pc>隨拜<measure quantity="10000" unit="years">
+<pc>，</pc>喝各祗候<pc>。</pc>次引看盞<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>稍近前<pc>，</pc>喝拜<pc>，</pc>兩拜<pc>，</pc>隨拜<measure quantity="10000" unit="years">
 <num value="10000">萬</num>歲</measure>
 <pc>，</pc>喝上殿祗 候<pc>，</pc>分東西上殿立<pc>。</pc>有司進茶床<pc>，</pc>內侍酹酒<pc>，</pc>訖<pc>，</pc>閣門使殿上禦前鞠躬奏某甲已下進酒<pc>，</pc>餘如常儀<pc>。</pc>宴起<pc>，</pc>
 <term>宰臣</term>已下降階<pc>，</pc>舍人喝兩拜<pc>，</pc>搢笏<pc>，</pc>舞蹈<pc>，</pc>喝各祗候<pc>，</pc>分 班出<pc>。</pc>次舍利合班<pc>，</pc>喝兩拜<pc>，</pc>舞蹈<pc>，</pc>
@@ -500,7 +505,8 @@
 <pc>，</pc>罍洗<num value="1">一</num>
 <pc>，</pc>尊<num value="2">二</num>
 <pc>。</pc>銘曰<pc>：</pc>
-<pc>“</pc>惟爾令德孝恭<pc>，</pc>世稱東蕃<pc>，</pc>有來顯相<pc>，</pc>予<num value="1">一</num>人嘉之<pc>。</pc>用錫爾寶尊<pc>，</pc>以寧爾祖考<pc>。</pc>子子孫孫<pc>，</pc>其永保之<pc>！</pc>
+<pc>“</pc>惟爾令德孝恭<pc>，</pc>世稱東蕃<pc>，</pc>有來顯相<pc>，</pc>予<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>嘉之<pc>。</pc>用錫爾寶尊<pc>，</pc>以寧爾祖考<pc>。</pc>子子孫孫<pc>，</pc>其永保之<pc>！</pc>
 <pc>”</pc>紹興<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>高麗遣使副來貢<pc>，</pc>並賜酒食於同文館<pc>。</pc>
@@ -529,7 +535,8 @@
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <pc>，</pc>金國遣審議使來<pc>。</pc>入見<pc>，</pc>時殿 陛之儀議猶未決<pc>。</pc>議者謂<pc>“</pc>兵衛單弱<pc>，</pc>則非所以隆國體<pc>；</pc>欲設仗衛<pc>，</pc>恐駭虜情<pc>。</pc>
-<pc>”</pc>乃設黃麾仗<num value="500">千五百</num>人於殿廊<pc>，</pc>蔽以帟幕<pc>，</pc>班定徹帷<pc>。</pc>
+<pc>”</pc>乃設黃麾仗<measure quantity="500" unit="people">
+<num value="500">千五百</num>人</measure>於殿廊<pc>，</pc>蔽以帟幕<pc>，</pc>班定徹帷<pc>。</pc>
 <measure quantity="12" unit="years">
 <num value="12">十二</num>年</measure>
 <pc>，</pc>扈從徽宗梓宮<pc>、</pc>皇太 後使副來<pc>。</pc>
@@ -588,12 +595,24 @@
 </p>
 </div>
 <div>
-<p>自到闕朝見<pc>、</pc>燕射<pc>、</pc>朝辭<pc>，</pc>共賜大使金<num value="400">千四百</num>兩<pc>，</pc>副使金<num value="880">八百八十</num>兩<pc>，</pc>衣各<num value="3">三</num>襲<pc>，</pc>金帶各<num value="3">三</num>條<pc>。</pc>都管上節各賜銀<num value="40">四十</num>兩<pc>，</pc>中下節各<num value="30">三十</num>兩<pc>，</pc>衣<num value="1">一</num>襲<pc>、</pc>塗金帶<num value="1">一</num>條<pc>。</pc>使人到闕筵宴<pc>，</pc>凡用樂人<num value="300">三百</num>人<pc>，</pc>
-<num value="100">百</num>戲軍<num value="70">七十</num>人<pc>，</pc>築球軍<num value="32">三十二</num>人<pc>，</pc>起立球門行人<num value="32">三十二</num>人<pc>，</pc>旗鼓<num value="40">四十</num>人<pc>，</pc>並下臨安府差<pc>；</pc>相撲<num value="15">一十五</num>人<pc>，</pc>於禦前等子內差<pc>，</pc>並前期 教習之<pc>。</pc>
+<p>自到闕朝見<pc>、</pc>燕射<pc>、</pc>朝辭<pc>，</pc>共賜大使金<num value="400">千四百</num>兩<pc>，</pc>副使金<num value="880">八百八十</num>兩<pc>，</pc>衣各<num value="3">三</num>襲<pc>，</pc>金帶各<num value="3">三</num>條<pc>。</pc>都管上節各賜銀<num value="40">四十</num>兩<pc>，</pc>中下節各<num value="30">三十</num>兩<pc>，</pc>衣<num value="1">一</num>襲<pc>、</pc>塗金帶<num value="1">一</num>條<pc>。</pc>使人到闕筵宴<pc>，</pc>凡用樂人<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>，</pc>
+<num value="100">百</num>戲軍<measure quantity="70" unit="people">
+<num value="70">七十</num>人</measure>
+<pc>，</pc>築球軍<measure quantity="32" unit="people">
+<num value="32">三十二</num>人</measure>
+<pc>，</pc>起立球門行人<measure quantity="32" unit="people">
+<num value="32">三十二</num>人</measure>
+<pc>，</pc>旗鼓<measure quantity="40" unit="people">
+<num value="40">四十</num>人</measure>
+<pc>，</pc>並下臨安府差<pc>；</pc>相撲<measure quantity="15" unit="people">
+<num value="15">一十五</num>人</measure>
+<pc>，</pc>於禦前等子內差<pc>，</pc>並前期 教習之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>諸<date>國朝</date>貢<pc>，</pc>其交州<pc>、</pc>宜州<pc>、</pc>黎州諸國見辭<pc>，</pc>並如上儀<pc>。</pc>惟迓勞宴賚之數<pc>，</pc>則有殺焉<pc>。</pc>其授書皆令有司付之<pc>。</pc>又有西蕃唃氏<pc>、</pc>西南諸蕃占城<pc>、</pc>回 鶻<pc>、</pc>大食<pc>、</pc>於闐<pc>、</pc>
+<p>諸<date when="null">國朝</date>貢<pc>，</pc>其交州<pc>、</pc>宜州<pc>、</pc>黎州諸國見辭<pc>，</pc>並如上儀<pc>。</pc>惟迓勞宴賚之數<pc>，</pc>則有殺焉<pc>。</pc>其授書皆令有司付之<pc>。</pc>又有西蕃唃氏<pc>、</pc>西南諸蕃占城<pc>、</pc>回 鶻<pc>、</pc>大食<pc>、</pc>於闐<pc>、</pc>
 <num value="3">三</num>佛齊<pc>、</pc>邛部川蠻及溪峒之屬<pc>，</pc>或比間數歲入貢<pc>。</pc>層檀<pc>、</pc>日本<pc>、</pc>大理<pc>、</pc>注輦<pc>、</pc>蒲甘<pc>、</pc>龜茲<pc>、</pc>佛泥<pc>、</pc>拂菻<pc>、</pc>真臘<pc>、</pc>羅殿<pc>、</pc>渤泥<pc>、</pc>邈黎<pc>、</pc>闍婆<pc>、</pc>甘眉流 諸國入貢<pc>，</pc>或<num value="1">一</num>再<pc>，</pc>或<num value="12">三四</num>
 <pc>，</pc>不常至<pc>。</pc>注輦<pc>、</pc>
 <num value="3">三</num>佛齊使者至<pc>，</pc>以真珠<pc>、</pc>龍腦<pc>、</pc>金蓮花等登陛跪散之<pc>，</pc>謂之<pc>“</pc>撒殿<pc>”</pc>
@@ -636,7 +655,8 @@
 <p>紹興<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>
-<num value="3">三</num>佛齊國乞進章奏赴闕朝見<pc>，</pc>詔許之<pc>。</pc>令廣東經略司斟量<pc>，</pc>隻許<num value="40">四十</num>人到闕<pc>，</pc>進貢南珠<pc>、</pc>象齒<pc>、</pc>龍涎<pc>、</pc>珊瑚<pc>、</pc>琉璃<pc>、</pc>香藥<pc>。</pc>詔補保順慕化大將軍<pc>、</pc>
+<num value="3">三</num>佛齊國乞進章奏赴闕朝見<pc>，</pc>詔許之<pc>。</pc>令廣東經略司斟量<pc>，</pc>隻許<measure quantity="40" unit="people">
+<num value="40">四十</num>人</measure>到闕<pc>，</pc>進貢南珠<pc>、</pc>象齒<pc>、</pc>龍涎<pc>、</pc>珊瑚<pc>、</pc>琉璃<pc>、</pc>香藥<pc>。</pc>詔補保順慕化大將軍<pc>、</pc>
 <num value="3">三</num>佛 齊國王<pc>，</pc>給賜鞍馬<pc>、</pc>衣帶<pc>、</pc>銀器<pc>。</pc>賜使人宴於懷遠驛<pc>。</pc>淳熙<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>再入貢<pc>。</pc>計其直<num value="25000">二萬五千</num>緡<pc>，</pc>回賜綾錦羅絹等物<pc>、</pc>銀<num value="2500">二千五百</num>兩<pc>。</pc>

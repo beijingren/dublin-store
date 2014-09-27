@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="443">
 <div>
-<p>列傳第<num value="202">二百二</num>文苑<num value="5">五</num>
+<p>
+<name key="null" type="null">列傳第</name>
+<num value="202">二百二</num>文苑<num value="5">五</num>
 </p>
 </div>
 <div>
@@ -34,18 +36,22 @@
 <div>
 <p>
 <persName>梅堯臣</persName>
-<pc>，</pc>字<persName>聖俞</persName>
+<pc>，</pc>字<name key="梅堯臣" type="zi">
+<persName>聖俞</persName>
+</name>
 <pc>，</pc>宣州宣城人<pc>，</pc>侍讀學士詢從子也<pc>。</pc>工為詩<pc>，</pc>以深遠古淡為意<pc>，</pc>間出奇巧<pc>，</pc>初未為人所知<pc>。</pc>用詢陰為河南主簿<pc>，</pc>錢惟演留守西京<pc>，</pc>特嗟賞之<pc>，</pc>為忘年交<pc>，</pc>引與酬倡<pc>，</pc>
 <num value="1">一</num>府盡傾<pc>。</pc>
 <persName>歐陽修</persName>與為詩友<pc>，</pc>自以為不及<pc>。</pc>堯臣益刻厲<pc>，</pc>精思苦學<pc>，</pc>繇是知名於時<pc>。</pc>
-<date>宋</date>興<pc>，</pc>以詩名家為世所傳如堯臣者<pc>，</pc>蓋少也<pc>。</pc>嘗語人曰<pc>：</pc>
+<date when="null">宋</date>興<pc>，</pc>以詩名家為世所傳如堯臣者<pc>，</pc>蓋少也<pc>。</pc>嘗語人曰<pc>：</pc>
 <pc>「</pc>
 <quote>凡詩<pc>，</pc>意新語工<pc>，</pc>得前人所未道者<pc>，</pc>斯為善矣<pc>。</pc>必能狀難寫之景如在目前<pc>，</pc>含不盡之意見於言外<pc>，</pc>然後為至也<pc>。</pc>
 </quote>
 <pc>」</pc>世以為知言<pc>。</pc>歷德興縣令<pc>，</pc>知建德<pc>、</pc>襄城縣<pc>，</pc>監湖州稅<pc>，</pc>簽書忠武<pc>、</pc>鎮安判官<pc>，</pc>監永豐倉<pc>。</pc>大臣屢薦宜在館閣<pc>，</pc>召試<pc>，</pc>賜進士出身<pc>，</pc>為國子監直講<pc>，</pc>累遷尚書都官員外郎<pc>。</pc>預修<pc>《</pc>
 <title>唐書</title>
 <pc>》</pc>
-<pc>，</pc>成<pc>，</pc>未奏而卒<pc>，</pc>錄其子<num value="1">一</num>人<pc>。</pc>
+<pc>，</pc>成<pc>，</pc>未奏而卒<pc>，</pc>錄其子<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -180,7 +186,9 @@
 </p>
 </div>
 <div>
-<p>其有機也<pc>，</pc>是以有腹心之臣<pc>。</pc>禹有益<pc>，</pc>湯有伊尹<pc>，</pc>武王有太公望<pc>，</pc>是<num value="3">三</num>臣者<pc>，</pc>聞天下之所不聞<pc>，</pc>知群臣之所不知<pc>。</pc>禹與湯武倡其機於上<pc>，</pc>而<num value="3">三</num>臣者和之於下<pc>，</pc>以成<num value="10000">萬</num>世之功<pc>。</pc>下而至於桓<pc>、</pc>文<pc>，</pc>有管仲<pc>、</pc>狐偃為之謀主<pc>，</pc>闔廬有伍員<pc>，</pc>勾踐有范蠡<pc>、</pc>大夫種<pc>。</pc>高祖之起也<pc>，</pc>大將任韓信<pc>、</pc>黥布<pc>、</pc>彭越<pc>，</pc>裨將任曹參<pc>、</pc>樊噲<pc>、</pc>滕公<pc>、</pc>灌嬰<pc>，</pc>遊說諸侯任酈生<pc>、</pc>陸賈<pc>、</pc>樅公<pc>，</pc>至於奇機密謀<pc>，</pc>君臣所不與者<pc>，</pc>唯留侯<pc>、</pc>酇侯<num value="2">二</num>人<pc>。</pc>唐太宗之臣多奇才<pc>，</pc>而委之深<pc>、</pc>任之密者<pc>，</pc>亦不過曰房<pc>、</pc>杜<pc>。</pc>夫君子為善之心與小人為惡之心<num value="1">一</num>也<pc>，</pc>君子有機以成其善<pc>，</pc>小人有機以成其惡<pc>。</pc>有機也<pc>，</pc>雖惡亦或濟<pc>，</pc>無機也<pc>，</pc>雖善亦不克<pc>，</pc>是故腹心之臣不可以<measure quantity="1" unit="day">
+<p>其有機也<pc>，</pc>是以有腹心之臣<pc>。</pc>禹有益<pc>，</pc>湯有伊尹<pc>，</pc>武王有太公望<pc>，</pc>是<num value="3">三</num>臣者<pc>，</pc>聞天下之所不聞<pc>，</pc>知群臣之所不知<pc>。</pc>禹與湯武倡其機於上<pc>，</pc>而<num value="3">三</num>臣者和之於下<pc>，</pc>以成<num value="10000">萬</num>世之功<pc>。</pc>下而至於桓<pc>、</pc>文<pc>，</pc>有管仲<pc>、</pc>狐偃為之謀主<pc>，</pc>闔廬有伍員<pc>，</pc>勾踐有范蠡<pc>、</pc>大夫種<pc>。</pc>高祖之起也<pc>，</pc>大將任韓信<pc>、</pc>黥布<pc>、</pc>彭越<pc>，</pc>裨將任曹參<pc>、</pc>樊噲<pc>、</pc>滕公<pc>、</pc>灌嬰<pc>，</pc>遊說諸侯任酈生<pc>、</pc>陸賈<pc>、</pc>樅公<pc>，</pc>至於奇機密謀<pc>，</pc>君臣所不與者<pc>，</pc>唯留侯<pc>、</pc>酇侯<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>唐太宗之臣多奇才<pc>，</pc>而委之深<pc>、</pc>任之密者<pc>，</pc>亦不過曰房<pc>、</pc>杜<pc>。</pc>夫君子為善之心與小人為惡之心<num value="1">一</num>也<pc>，</pc>君子有機以成其善<pc>，</pc>小人有機以成其惡<pc>。</pc>有機也<pc>，</pc>雖惡亦或濟<pc>，</pc>無機也<pc>，</pc>雖善亦不克<pc>，</pc>是故腹心之臣不可以<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>無也<pc>。</pc>司馬氏<pc>，</pc>魏之賊也<pc>，</pc>有賈充之徒為之腹心之臣以濟<pc>，</pc>陳勝<pc>、</pc>吳廣<pc>，</pc>秦民之湯<pc>、</pc>武也<pc>，</pc>無腹心之臣以不克<pc>。</pc>何則<pc>？</pc>無腹心之臣<pc>，</pc>無機也<pc>，</pc>有機而洩也<pc>。</pc>夫無機與有機而洩者<pc>，</pc>譬如虎豹食人而不知設陷阱<pc>，</pc>設陷阱而不知以物覆其上者也<pc>。</pc>
 </p>
 </div>
@@ -214,13 +222,17 @@
 <pc>」</pc>彼無腹心之臣<pc>，</pc>
 <num value="5">五</num>載<num value="1">一</num>出<pc>，</pc>捐<num value="1000">千</num>里之畿<pc>，</pc>而誰與守邪<pc>？</pc>今夫<num value="1">一</num>家之中必有宗老<pc>，</pc>
 <num value="1">一</num>介之士必有密友<pc>，</pc>以開心胸<pc>，</pc>以濟緩急<pc>，</pc>奈何天子而無腹心之臣乎<pc>？</pc>近世之君抗然於上<pc>，</pc>而使<term>宰相</term>眇然於下<pc>，</pc>上下不接<pc>，</pc>而其志不通矣<pc>。</pc>臣視君如天之遼然而不可親<pc>，</pc>而君亦如天之視人<pc>，</pc>泊然無愛之之心也<pc>。</pc>是以社稷之憂<pc>，</pc>彼不以為憂<pc>，</pc>君憂不辱<pc>，</pc>君辱不死<pc>。</pc>
-<num value="1">一</num>人譽之則用之<pc>，</pc>
-<num value="1">一</num>人毀之則捨之<pc>。</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>譽之則用之<pc>，</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>毀之則捨之<pc>。</pc>
 <term>宰相</term>避嫌畏譏且不暇<pc>，</pc>何暇盡心以憂社稷<pc>？</pc>數遷數易<pc>，</pc>視相府如傳捨<pc>。</pc>
 <num value="100">百</num>官泛泛於下<pc>，</pc>而天子惸惸於上<pc>，</pc>
 <num value="1">一</num>旦有卒然之憂<pc>，</pc>吾未見其不顛沛而殞越也<pc>。</pc>聖人之任腹心之臣也<pc>，</pc>尊之如父師<pc>，</pc>愛之如兄弟<pc>，</pc>執手入臥內<pc>，</pc>同起居寢食<pc>，</pc>知無不言<pc>，</pc>言無不盡<pc>。</pc>
-<num value="100">百</num>人譽之不加密<pc>，</pc>
-<num value="100">百</num>人毀之不加疏<pc>，</pc>尊其爵<pc>，</pc>厚其祿<pc>，</pc>重其權<pc>，</pc>而後可與議天下之機<pc>，</pc>慮天下之變<pc>。</pc>
+<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>譽之不加密<pc>，</pc>
+<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>毀之不加疏<pc>，</pc>尊其爵<pc>，</pc>厚其祿<pc>，</pc>重其權<pc>，</pc>而後可與議天下之機<pc>，</pc>慮天下之變<pc>。</pc>
 </p>
 </div>
 <div>
@@ -274,11 +286,14 @@
 <p>王逢<pc>，</pc>字會之<pc>，</pc>太平州當塗人<pc>。</pc>其<num value="4">四</num>世祖居巖<pc>，</pc>仕唐為驍衛長史<pc>，</pc>遭亂棄官<pc>，</pc>歸居青山<pc>。</pc>楊行密據淮南<pc>，</pc>使人以兵迫起之<pc>。</pc>居巖散遣其家人<pc>，</pc>而以<num value="1">一</num>身歸行密<pc>，</pc>授以湖州別駕<pc>，</pc>不遣<pc>。</pc>
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
-<pc>，</pc>行密大會<pc>，</pc>失居巖<pc>，</pc>亟使人掩其家<pc>，</pc>無<num value="1">一</num>人在者<pc>。</pc>其後有人於嵩山見空石室<pc>，</pc>詢其旁<pc>，</pc>或雲有道人王居巖居此<pc>，</pc>去而莫知其所終<pc>。</pc>子孫仕無顯者<pc>，</pc>至逢<pc>，</pc>博學能屬文<pc>，</pc>尤長於講說<pc>。</pc>
+<pc>，</pc>行密大會<pc>，</pc>失居巖<pc>，</pc>亟使人掩其家<pc>，</pc>無<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>在者<pc>。</pc>其後有人於嵩山見空石室<pc>，</pc>詢其旁<pc>，</pc>或雲有道人王居巖居此<pc>，</pc>去而莫知其所終<pc>。</pc>子孫仕無顯者<pc>，</pc>至逢<pc>，</pc>博學能屬文<pc>，</pc>尤長於講說<pc>。</pc>
 </p>
 </div>
 <div>
-<p>少舉進士不中<pc>，</pc>去<pc>，</pc>教授蘇州<pc>，</pc>學者嘗數<num value="100">百</num>人<pc>。</pc>晚始登第<pc>，</pc>補南雄州軍事判官<pc>，</pc>歸為國子監直講兼隴西郡王宅教授<pc>，</pc>李瑋從學<pc>，</pc>事之甚謹<pc>。</pc>岐國公主既降<pc>，</pc>瑋為逢求遷官<pc>，</pc>且有命<pc>，</pc>逢辭不受<pc>。</pc>久之<pc>，</pc>以太常博士通判徐州<pc>，</pc>卒<pc>。</pc>逢為人樂易<pc>，</pc>篤於朋友<pc>，</pc>與胡瑗最善<pc>。</pc>喜著書<pc>，</pc>有<pc>《</pc>
+<p>少舉進士不中<pc>，</pc>去<pc>，</pc>教授蘇州<pc>，</pc>學者嘗數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>晚始登第<pc>，</pc>補南雄州軍事判官<pc>，</pc>歸為國子監直講兼隴西郡王宅教授<pc>，</pc>李瑋從學<pc>，</pc>事之甚謹<pc>。</pc>岐國公主既降<pc>，</pc>瑋為逢求遷官<pc>，</pc>且有命<pc>，</pc>逢辭不受<pc>。</pc>久之<pc>，</pc>以太常博士通判徐州<pc>，</pc>卒<pc>。</pc>逢為人樂易<pc>，</pc>篤於朋友<pc>，</pc>與胡瑗最善<pc>。</pc>喜著書<pc>，</pc>有<pc>《</pc>
 <title>易傳</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
@@ -356,7 +371,9 @@
 </p>
 </div>
 <div>
-<p>庚兄弟<num value="5">五</num>人<pc>，</pc>長兄瞻<pc>，</pc>字望之<pc>，</pc>後改名伯虎<pc>，</pc>字長孺<pc>。</pc>治<pc>《</pc>
+<p>庚兄弟<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>，</pc>長兄瞻<pc>，</pc>字望之<pc>，</pc>後改名伯虎<pc>，</pc>字長孺<pc>。</pc>治<pc>《</pc>
 <title>易</title>
 <pc>》</pc>
 <pc>、</pc>
@@ -386,7 +403,9 @@
 <p>元符<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>庚以貢舉事系獄臨邛<pc>，</pc>語連伯虎<pc>，</pc>臨邛並械之<pc>。</pc>凡對吏逾年<pc>，</pc>掠治無完膚<pc>，</pc>其詞確然<pc>，</pc>
-<num value="1">一</num>不及庚<pc>，</pc>以故獄久不具<pc>，</pc>卒會赦<pc>，</pc>除之<pc>。</pc>伯虎性真率<pc>，</pc>無威儀<pc>，</pc>人多易之<pc>，</pc>至是皆大服<pc>，</pc>以為不可及<pc>。</pc>伯虎仕於<num value="4">四</num>方<pc>，</pc>每數年<num value="1">一</num>歸<pc>，</pc>不過旬日復去<pc>。</pc>後卒於家<pc>，</pc>有子<num value="2">二</num>人<pc>。</pc>
+<num value="1">一</num>不及庚<pc>，</pc>以故獄久不具<pc>，</pc>卒會赦<pc>，</pc>除之<pc>。</pc>伯虎性真率<pc>，</pc>無威儀<pc>，</pc>人多易之<pc>，</pc>至是皆大服<pc>，</pc>以為不可及<pc>。</pc>伯虎仕於<num value="4">四</num>方<pc>，</pc>每數年<num value="1">一</num>歸<pc>，</pc>不過旬日復去<pc>。</pc>後卒於家<pc>，</pc>有子<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -483,7 +502,8 @@
 <quote>能從吾治<pc>，</pc>免白髮<pc>。</pc>
 </quote>
 <pc>」</pc>即起自袒其膚<pc>，</pc>杖之數下<pc>，</pc>貴人子叩頭祈哀<pc>，</pc>即大笑釋去<pc>。</pc>自是諸挾氣力頡頏者<pc>，</pc>皆側目不敢仰視<pc>。</pc>是時<pc>，</pc>江<pc>、</pc>淮間有米芾以魁岸奇譎知名<pc>，</pc>鑄以氣俠雄爽適相先後<pc>，</pc>
-<num value="2">二</num>人每相遇<pc>，</pc>瞋目抵掌<pc>，</pc>論辯鋒起<pc>，</pc>終日各不能屈<pc>，</pc>談者爭傳為口實<pc>。</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>每相遇<pc>，</pc>瞋目抵掌<pc>，</pc>論辯鋒起<pc>，</pc>終日各不能屈<pc>，</pc>談者爭傳為口實<pc>。</pc>
 </p>
 </div>
 <div>

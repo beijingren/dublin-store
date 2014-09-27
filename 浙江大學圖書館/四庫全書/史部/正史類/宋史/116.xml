@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="116">
 <div>
-<p>◎禮<num value="19">十九</num>
-<pc>（</pc>賓禮<num value="1">一</num>
+<p>
+<name key="null" type="null">◎禮十</name>九<pc>（</pc>賓禮<num value="1">一</num>
 <pc>）</pc>○大朝會儀常朝儀</p>
 </div>
 <div>
@@ -141,7 +141,9 @@
 <div>
 <p>元正<pc>、</pc>冬至大朝會<pc>，</pc>有司設禦坐大慶殿<pc>，</pc>東西房於禦坐之左右少北<pc>，</pc>東西閣於殿後<pc>，</pc>
 <num value="100">百</num>官<pc>、</pc>宗室<pc>、</pc>客使次於朝堂之內外<pc>。</pc>
-<num value="5">五</num>輅先陳於庭<pc>，</pc>兵部設黃麾仗於殿之內 外<pc>。</pc>大樂令展宮架之樂於橫街南<pc>。</pc>鼓吹令分置<num value="12">十二</num>案於宮架外<pc>。</pc>協律郎<num value="2">二</num>人<pc>，</pc>
+<num value="5">五</num>輅先陳於庭<pc>，</pc>兵部設黃麾仗於殿之內 外<pc>。</pc>大樂令展宮架之樂於橫街南<pc>。</pc>鼓吹令分置<num value="12">十二</num>案於宮架外<pc>。</pc>協律郎<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>
 <num value="1">一</num>位殿上西階之前楹<pc>，</pc>
 <num value="1">一</num>位宮架西北<pc>，</pc>俱東向<pc>。</pc>陳輿輦<pc>、</pc>禦馬於龍墀<pc>，</pc>傘扇於沙墀<pc>，</pc>貢 物於宮架南<pc>（</pc>冬至不設貢物<pc>）</pc>
 <pc>，</pc>餘則列大慶門外<pc>。</pc>陳布將士於街<pc>。</pc>左<pc>、</pc>右金吾<num value="6">六</num>軍諸衛勒所部<pc>，</pc>列黃麾大仗於門及殿庭<pc>。</pc>
@@ -353,7 +355,9 @@
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>有司言<pc>：</pc>
-<pc>“</pc>明年正旦朝會<pc>，</pc>請權以文德殿為大慶殿<pc>，</pc>合設黃麾大仗<num value="5027">五千二十七</num>人<pc>，</pc>欲權減<num value="3">三</num>分之<num value="1">一</num>
+<pc>“</pc>明年正旦朝會<pc>，</pc>請權以文德殿為大慶殿<pc>，</pc>合設黃麾大仗<measure quantity="5027" unit="people">
+<num value="5027">五千二十七</num>人</measure>
+<pc>，</pc>欲權減<num value="3">三</num>分之<num value="1">一</num>
 <pc>；</pc>合設<num value="8">八</num>寶於禦坐之東西<pc>，</pc>及登歌<pc>、</pc>宮架<pc>、</pc>樂舞<pc>、</pc>諸州諸蕃貢物<pc>。</pc>行在致仕官<pc>、</pc>諸路貢士舉首<pc>，</pc>並令立班<pc>。</pc>
 <pc>”</pc>詔從之<pc>。</pc>
 <measure quantity="15" unit="years">
@@ -365,7 +369,8 @@
 <num value="5">五</num>日</measure>
 <num value="1">一</num>隨<term>宰相</term>入見<pc>，</pc>謂之起居<pc>，</pc>宋因其製<pc>。</pc>皇帝日禦垂拱殿<pc>。</pc>文武官日赴文德殿正衙曰常參<pc>，</pc>
 <term>宰相</term>
-<num value="1">一</num>人 押班<pc>。</pc>其朝朔望亦於此殿<pc>。</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure> 押班<pc>。</pc>其朝朔望亦於此殿<pc>。</pc>
 <measure quantity="5" unit="days">
 <num value="5">五</num>日</measure>起居則於崇德殿或長春殿<pc>，</pc>中書<pc>、</pc>門下為班首<pc>。</pc>長春即垂拱也<pc>。</pc>至元豐中官製行<pc>，</pc>始詔侍從官而上日朝垂拱<pc>，</pc>謂之常參官<pc>。</pc>
 <num value="100">百</num>司朝官 以上<pc>，</pc>每<measure quantity="5" unit="days">
@@ -375,7 +380,7 @@
 </div>
 <div>
 <p>正衙常參<pc>。</pc>
-<date>國朝</date>之製<pc>：</pc>兩省<pc>、</pc>台官<pc>、</pc>文武<num value="100">百</num>官每日 赴文德殿立班<pc>，</pc>
+<date when="null">國朝</date>之製<pc>：</pc>兩省<pc>、</pc>台官<pc>、</pc>文武<num value="100">百</num>官每日 赴文德殿立班<pc>，</pc>
 <term>宰臣</term>
 <num value="1">一</num>員押班<pc>。</pc>常朝官有詔旨免常朝<pc>，</pc>及勾當更番宿者不赴<pc>。</pc>遇假並<measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>以上<pc>，</pc>即橫行參假<pc>。</pc>
@@ -481,7 +486,9 @@
 <p>景德<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>光祿寺丞錢易言<pc>：</pc>
-<pc>“</pc>竊睹文德殿常朝班不及<num value="120">三四十</num>人<pc>，</pc>蓋以凡掌職務止赴<measure quantity="5" unit="days">
+<pc>“</pc>竊睹文德殿常朝班不及<measure quantity="120" unit="people">
+<num value="120">三四十</num>人</measure>
+<pc>，</pc>蓋以凡掌職務止赴<measure quantity="5" unit="days">
 <num value="5">五</num>日</measure>起居<pc>，</pc>頗違舊章<pc>。</pc>望令並赴朝參<pc>。</pc>
 <pc>”</pc>乃詔應<num value="3">三</num>館<pc>、</pc>秘書閣<pc>、</pc>尚書省<num value="24">二十四</num>司<pc>、</pc>諸司寺監朝臣內殿起居外<pc>，</pc>並赴文德殿常參<pc>。</pc>其審刑院<pc>、</pc>大理寺<pc>、</pc>台直官<pc>、</pc>開封府判官推官司錄兩縣令<pc>、</pc>司天監<pc>、</pc>翰林天文<pc>、</pc>監倉場庫務等仍免<pc>。</pc>
 </p>
@@ -530,14 +537,14 @@
 <num value="5">五</num>日</measure>皆入<pc>，</pc>曰起居<pc>。</pc>平時<pc>，</pc>
 <term>宰相</term>垂拱殿奏事畢<pc>，</pc>赴文德殿押班<pc>，</pc>或日昃未退<pc>，</pc>則閣門傳宣放班<pc>，</pc>多不複赴<pc>。</pc>王陶以<persName>韓琦</persName>
 <pc>、</pc>曾公亮違 故事不押班為不恭<pc>，</pc>劾之<pc>。</pc>琦<pc>、</pc>公亮上表待罪<pc>，</pc>且言<pc>：</pc>
-<pc>“</pc>唐及<date>
+<pc>“</pc>唐及<date when="null">
 <num value="5">五</num>代</date>
 <pc>《</pc>
 <title>會要</title>
 <pc>》</pc>
 <pc>，</pc>月<num value="9">九</num>開延英<pc>，</pc>則餘日<term>宰相</term>當押正衙班<pc>。</pc>及延英對日<pc>，</pc>未禦內殿前<pc>，</pc>傳宣放班<pc>，</pc>則<term>宰相</term>不 押正衙班明矣<pc>。</pc>自祖宗繼日臨朝<pc>，</pc>
 <term>宰相</term>奏事<pc>。</pc>至祥符初<pc>，</pc>始詔循故事<pc>，</pc>押文德班<pc>。</pc>以妨職浸廢<pc>，</pc>乃至今日<pc>。</pc>請下太常禮院詳定<pc>。</pc>
-<pc>”</pc>陶坐絀<pc>。</pc>司馬光代為中丞<pc>，</pc>請令宰 相遵<date>國朝</date>舊製押班<pc>，</pc>不須詳定<pc>。</pc>尋詔<pc>：</pc>
+<pc>”</pc>陶坐絀<pc>。</pc>司馬光代為中丞<pc>，</pc>請令宰 相遵<date when="null">國朝</date>舊製押班<pc>，</pc>不須詳定<pc>。</pc>尋詔<pc>：</pc>
 <pc>“</pc>
 <term>宰相</term>春分辰初<pc>、</pc>秋分辰正<pc>，</pc>垂拱殿未退<pc>，</pc>聽勿赴文德殿<pc>，</pc>令禦史台放班<pc>。</pc>
 <pc>”</pc>光又言<pc>：</pc>

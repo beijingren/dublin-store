@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="187">
 <div>
-<p>　　宋之兵制<pc>，</pc>大概有<num value="3">三</num>
+<p>
+<name key="null" type="null">　　宋</name>之兵制<pc>，</pc>大概有<num value="3">三</num>
 <pc>：</pc>天子之衛兵<pc>，</pc>以守京師<pc>，</pc>備征戍<pc>，</pc>曰禁軍<pc>；</pc>諸州之鎮兵<pc>，</pc>以分給役使<pc>，</pc>曰廂軍<pc>；</pc>選於戶籍或應募<pc>，</pc>使之團結訓練<pc>，</pc>以爲在所防守<pc>，</pc>則曰鄉兵<pc>。</pc>又有蕃兵<pc>，</pc>其法始于國初<pc>，</pc>具籍塞下<pc>，</pc>團結以爲藩籬之兵<pc>；</pc>其後分隊伍<pc>，</pc>給旗幟<pc>，</pc>繕營堡<pc>，</pc>備器械<pc>，</pc>
 <num value="1">一</num>律以鄉兵之制<pc>。</pc>今因舊史纂修<pc>《</pc>
 <title>兵志</title>
@@ -38,7 +39,7 @@
 </div>
 <div>
 <p>　　嗟乎<pc>！</pc>
-<num value="3">三</num>代遠矣<pc>。</pc>秦<pc>、</pc>漢而下得寓兵于農之遺意者<pc>，</pc>惟唐府衛爲近之<pc>。</pc>府衛變而召募<pc>，</pc>因循姑息<pc>，</pc>至於藩鎮盛而唐以亡<pc>。</pc>更曆<date>
+<num value="3">三</num>代遠矣<pc>。</pc>秦<pc>、</pc>漢而下得寓兵于農之遺意者<pc>，</pc>惟唐府衛爲近之<pc>。</pc>府衛變而召募<pc>，</pc>因循姑息<pc>，</pc>至於藩鎮盛而唐以亡<pc>。</pc>更曆<date when="null">
 <num value="5">五</num>代</date>
 <pc>，</pc>亂亡相踵<pc>，</pc>未有不由於兵者<pc>。</pc>太祖起戎行<pc>，</pc>有天下<pc>，</pc>收<num value="4">四</num>方勁兵<pc>，</pc>列營京畿<pc>，</pc>以備宿衛<pc>，</pc>分番屯戍<pc>，</pc>以捍邊圉<pc>。</pc>于時將帥之臣入奉朝請<pc>，</pc>獷暴之民收隸尺籍<pc>，</pc>雖有桀驁恣肆<pc>，</pc>而無所施於其間<pc>。</pc>凡其制<pc>，</pc>爲什長之法<pc>，</pc>階級之辨<pc>，</pc>使之內外相維<pc>，</pc>上下相制<pc>，</pc>截然而不可犯者<pc>，</pc>是雖以矯累朝藩鎮之弊<pc>，</pc>而其所懲者深矣<pc>。</pc>
 </p>
@@ -60,7 +61,8 @@
 <pc>，</pc>改左右雄捷<pc>、</pc>左右驍武軍並爲驍捷<pc>，</pc>左右備征爲雲騎<pc>，</pc>左右平遠爲廣捷<pc>，</pc>左右懷德爲懷順<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>賜河東樂平縣歸降卒元威以下<num value="266">二百六十六</num>人衣服<pc>、</pc>錢絹有差<pc>，</pc>立爲效順指揮<pc>。</pc>
+<pc>，</pc>賜河東樂平縣歸降卒元威以下<measure quantity="266" unit="people">
+<num value="266">二百六十六</num>人</measure>衣服<pc>、</pc>錢絹有差<pc>，</pc>立爲效順指揮<pc>。</pc>
 </p>
 </div>
 <div>
@@ -74,14 +76,18 @@
 <pc>，</pc>詔改西川感化<pc>、</pc>耀武等軍並爲虎捷<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
-<pc>，</pc>上御講武殿閱諸道兵<pc>，</pc>得<num value="10000">萬</num>餘人<pc>，</pc>以騎兵爲驍雄<pc>，</pc>步軍爲雄武<pc>，</pc>並隸侍衛司<pc>，</pc>且命王繼勳主之<pc>，</pc>給緡錢俾娶妻<pc>。</pc>繼勳縱之白日掠人妻女<pc>，</pc>街使不能禁<pc>。</pc>帝聞大怒<pc>，</pc>捕斬者<num value="100">百</num>人<pc>，</pc>小黃門閻承翰見而不奏<pc>，</pc>亦杖數<num value="10">十</num>
+<pc>，</pc>上御講武殿閱諸道兵<pc>，</pc>得<num value="10000">萬</num>餘人<pc>，</pc>以騎兵爲驍雄<pc>，</pc>步軍爲雄武<pc>，</pc>並隸侍衛司<pc>，</pc>且命王繼勳主之<pc>，</pc>給緡錢俾娶妻<pc>。</pc>繼勳縱之白日掠人妻女<pc>，</pc>街使不能禁<pc>。</pc>帝聞大怒<pc>，</pc>捕斬者<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>小黃門閻承翰見而不奏<pc>，</pc>亦杖數<num value="10">十</num>
 <pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　開寶<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>泰甯軍<term>節度使</term>李從善部下及江南水軍凡<num value="39">千三十九</num>人<pc>，</pc>並黥面隸籍<pc>，</pc>以歸化<pc>、</pc>歸聖爲額<pc>。</pc>
+<pc>，</pc>泰甯軍<term>節度使</term>李從善部下及江南水軍凡<measure quantity="39" unit="people">
+<num value="39">千三十九</num>人</measure>
+<pc>，</pc>並黥面隸籍<pc>，</pc>以歸化<pc>、</pc>歸聖爲額<pc>。</pc>
 </p>
 </div>
 <div>
@@ -108,7 +114,8 @@
 <pc>，</pc>東西列陣<pc>，</pc>挽強彀弩<pc>，</pc>視其進退發矢如<num value="1">一</num>
 <pc>，</pc>容止中節<pc>，</pc>因曰<pc>：</pc>
 <pc>「</pc>
-<quote>此殿庭間數<num value="100">百</num>人爾<pc>，</pc>猶兵威可觀<pc>，</pc>況堂堂之陣數<num value="10000">萬</num>成列者乎<pc>！</pc>
+<quote>此殿庭間數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>爾<pc>，</pc>猶兵威可觀<pc>，</pc>況堂堂之陣數<num value="10000">萬</num>成列者乎<pc>！</pc>
 </quote>
 <pc>」</pc>
 </p>
@@ -146,7 +153,9 @@
 <pc>，</pc>置廣捷兵士<num value="5">五</num>指揮<pc>。</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
-<pc>，</pc>命使臣分往邠<pc>、</pc>寧<pc>、</pc>環<pc>、</pc>慶<pc>、</pc>涇<pc>、</pc>原<pc>、</pc>儀<pc>、</pc>渭<pc>、</pc>隴<pc>、</pc>鄜<pc>、</pc>延等州<pc>，</pc>於保安<pc>、</pc>保毅軍內<pc>，</pc>與逐處官吏選取有力者共<num value="20000">二萬</num>人<pc>，</pc>各於本州置營<pc>，</pc>升爲禁軍<pc>，</pc>號曰振武指揮<pc>。</pc>既而帝曰<pc>：</pc>
+<pc>，</pc>命使臣分往邠<pc>、</pc>寧<pc>、</pc>環<pc>、</pc>慶<pc>、</pc>涇<pc>、</pc>原<pc>、</pc>儀<pc>、</pc>渭<pc>、</pc>隴<pc>、</pc>鄜<pc>、</pc>延等州<pc>，</pc>於保安<pc>、</pc>保毅軍內<pc>，</pc>與逐處官吏選取有力者共<measure quantity="20000" unit="people">
+<num value="20000">二萬</num>人</measure>
+<pc>，</pc>各於本州置營<pc>，</pc>升爲禁軍<pc>，</pc>號曰振武指揮<pc>。</pc>既而帝曰<pc>：</pc>
 <pc>「</pc>
 <quote>邊防闕兵<pc>，</pc>朝廷須爲制置<pc>，</pc>蓋不得已也<pc>。</pc>候邊鄙乂寧<pc>，</pc>即可銷弭<pc>。</pc>
 </quote>
@@ -182,7 +191,9 @@
 <pc>。</pc>所募多市井選忄耎<pc>，</pc>不足以備戰守<pc>。</pc>是時禁兵多戍陝西<pc>，</pc>並邊土兵雖不及等<pc>，</pc>然驍勇善戰<pc>。</pc>京師所遣戍者<pc>，</pc>雖稱魁頭<pc>，</pc>大率不能辛苦<pc>，</pc>而摧鋒陷陣非其所長<pc>。</pc>又北兵戍及川峽<pc>、</pc>荊湘<pc>、</pc>嶺嶠間<pc>，</pc>多不便習水土<pc>，</pc>故議者欲益募土兵爲就糧<pc>。</pc>於是增置陝西蕃落<pc>、</pc>保捷<pc>、</pc>定功<pc>，</pc>河北雲翼<pc>、</pc>有馬勁勇<pc>，</pc>陝西<pc>、</pc>河北振武<pc>，</pc>河北<pc>、</pc>京東武衛<pc>，</pc>陝西<pc>、</pc>京西壯勇<pc>，</pc>延州青澗<pc>，</pc>登州澄海弩手<pc>，</pc>京畿近郡亦增募龍騎<pc>、</pc>廣勇<pc>、</pc>廣捷<pc>、</pc>虎翼<pc>、</pc>步鬥<pc>、</pc>步武<pc>，</pc>復升河北招收<pc>、</pc>無敵<pc>、</pc>廳子馬<pc>，</pc>陝西制勝<pc>，</pc>並州克戎<pc>、</pc>騎射<pc>，</pc>
 <placeName>麟州</placeName>飛騎<pc>，</pc>府州威遠<pc>，</pc>秦州建威<pc>，</pc>慶州有馬安塞<pc>，</pc>保州威邊<pc>，</pc>安肅軍忠銳<pc>，</pc>嵐<pc>、</pc>府州建安<pc>，</pc>登州平海<pc>，</pc>皆爲禁兵<pc>，</pc>增內外馬步凡數<num value="100">百</num>營<pc>。</pc>又京東西<pc>、</pc>河北<pc>、</pc>河東<pc>、</pc>江<pc>、</pc>淮<pc>、</pc>荊湖<pc>、</pc>兩浙<pc>、</pc>福建路各募宣毅<pc>，</pc>大州<num value="2">二</num>營<pc>，</pc>小州<num value="1">一</num>營<pc>，</pc>凡<num value="288">二百八十八</num>
 <pc>。</pc>岢嵐軍別置床子弩炮手<pc>。</pc>時吏以所募多寡爲賞罰格<pc>，</pc>諸軍子弟悉聽隸籍<pc>，</pc>禁軍闕額多選本城補填<pc>，</pc>故慶曆中外禁<pc>、</pc>廂軍總<num value="1250000">一百二十五萬</num>
-<pc>，</pc>視國初爲最多<pc>。</pc>西師既罷<pc>，</pc>上患兵冗<pc>，</pc>帑庾不能給<pc>，</pc>乃詔省兵數<num value="10000">萬</num>人<pc>。</pc>
+<pc>，</pc>視國初爲最多<pc>。</pc>西師既罷<pc>，</pc>上患兵冗<pc>，</pc>帑庾不能給<pc>，</pc>乃詔省兵數<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -191,7 +202,11 @@
 <pc>，</pc>川峽增置寧遠<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>江<pc>、</pc>淮<pc>、</pc>荊湖置教閱忠節<pc>，</pc>州<num value="1">一</num>營<pc>，</pc>大州<num value="500">五百</num>人<pc>，</pc>小州<num value="300">三百</num>人<pc>。</pc>於是宣毅浸廢不復補<pc>，</pc>而荊湖<pc>、</pc>廣南益募雄略<pc>。</pc>至和<measure quantity="2" unit="years">
+<pc>，</pc>江<pc>、</pc>淮<pc>、</pc>荊湖置教閱忠節<pc>，</pc>州<num value="1">一</num>營<pc>，</pc>大州<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>
+<pc>，</pc>小州<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>。</pc>於是宣毅浸廢不復補<pc>，</pc>而荊湖<pc>、</pc>廣南益募雄略<pc>。</pc>至和<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>廣<pc>、</pc>桂<pc>、</pc>邕州置有馬雄略<pc>。</pc>明年<pc>，</pc>並<num value="10000">萬</num>勝爲<num value="10">十</num>營<pc>。</pc>其後<pc>，</pc>議者謂東南雖無事<pc>，</pc>不宜馳備<pc>。</pc>嘉祐<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
@@ -240,7 +255,8 @@
 <num value="12">十二</num>月</measure>
 <pc>，</pc>詔<pc>：</pc>
 <pc>「</pc>
-<quote>京東武衛<num value="42">四十二</num>指揮並分隸河北都總管司<num value="6">六</num>指揮<pc>，</pc>隸大名府路<num value="36">三十六</num>指揮<pc>，</pc>均隸定州<pc>、</pc>高陽關兩路更戍<pc>；</pc>其休番者<pc>，</pc>選差兵官<num value="3">三</num>人依河北教閱新法訓練<pc>，</pc>仍差使臣押教<pc>。</pc>
+<quote>京東武衛<num value="42">四十二</num>指揮並分隸河北都總管司<num value="6">六</num>指揮<pc>，</pc>隸大名府路<num value="36">三十六</num>指揮<pc>，</pc>均隸定州<pc>、</pc>高陽關兩路更戍<pc>；</pc>其休番者<pc>，</pc>選差兵官<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>依河北教閱新法訓練<pc>，</pc>仍差使臣押教<pc>。</pc>
 </quote>
 <pc>」</pc>又詔京東路募河北流民<pc>，</pc>招置教閱廂軍<num value="20">二十</num>指揮<pc>，</pc>以忠果爲額<pc>。</pc>青<pc>、</pc>鄆<pc>、</pc>淄<pc>、</pc>齊州各<num value="3">三</num>指揮<pc>，</pc>濟<pc>、</pc>兗<pc>、</pc>曹<pc>、</pc>濮州各兩指揮<pc>。</pc>
 </p>
@@ -250,7 +266,32 @@
 <num value="3">三</num>年</measure>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<pc>，</pc>樞密使文彥博等上在京<pc>、</pc>開封府界及京東等路禁軍數<pc>，</pc>帝亦參以治平中兵數而討論焉<pc>。</pc>遂詔<pc>：</pc>殿前虎翼除水軍<num value="1">一</num>指揮外<pc>，</pc>存<num value="60">六十</num>指揮<pc>，</pc>各以<num value="500">五百</num>人爲率<pc>，</pc>總<num value="30400">三萬四百</num>人<pc>；</pc>在京增廣勇<num value="5">五</num>指揮<pc>，</pc>共<num value="2000">二千</num>人<pc>；</pc>開封府界定<num value="62000">六萬二千</num>人<pc>，</pc>京東<num value="51200">五萬一千二百</num>人<pc>，</pc>兩浙<num value="4000">四千</num>人<pc>，</pc>江東<num value="5200">五千二百</num>人<pc>，</pc>江西<num value="6800">六千八百</num>人<pc>，</pc>湖南<num value="8300">八千三百</num>人<pc>，</pc>湖北<num value="2000">萬二千</num>人<pc>，</pc>福建<num value="4500">四千五百</num>人<pc>，</pc>廣南東<pc>、</pc>西<num value="200">千二百</num>人<pc>，</pc>川峽<num value="3">三</num>路<num value="4400">四千四百</num>人爲額<pc>。</pc>在京其餘指揮並河東<pc>、</pc>陝西<pc>、</pc>京西<pc>、</pc>淮南路既皆撥並<pc>，</pc>唯河北人數尚多<pc>，</pc>乃詔禁軍以<num value="70000">七萬</num>爲額<pc>。</pc>初<pc>，</pc>河北兵籍比諸路爲多<pc>，</pc>其緣邊者且仰給<num value="3">三</num>司<pc>，</pc>至是而撥並畸零<pc>，</pc>立爲定額焉<pc>。</pc>是時<pc>，</pc>京東增置武衛軍<pc>，</pc>分隸河北<num value="4">四</num>路<pc>，</pc>後又以<num value="3000">三千</num>人戍揚<pc>、</pc>杭州<pc>、</pc>江寧府<pc>，</pc>其後又團結軍士置將分領<pc>，</pc>則謂之將兵雲<pc>。</pc>
+<pc>，</pc>樞密使文彥博等上在京<pc>、</pc>開封府界及京東等路禁軍數<pc>，</pc>帝亦參以治平中兵數而討論焉<pc>。</pc>遂詔<pc>：</pc>殿前虎翼除水軍<num value="1">一</num>指揮外<pc>，</pc>存<num value="60">六十</num>指揮<pc>，</pc>各以<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>爲率<pc>，</pc>總<measure quantity="30400" unit="people">
+<num value="30400">三萬四百</num>人</measure>
+<pc>；</pc>在京增廣勇<num value="5">五</num>指揮<pc>，</pc>共<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>
+<pc>；</pc>開封府界定<measure quantity="62000" unit="people">
+<num value="62000">六萬二千</num>人</measure>
+<pc>，</pc>京東<measure quantity="51200" unit="people">
+<num value="51200">五萬一千二百</num>人</measure>
+<pc>，</pc>兩浙<measure quantity="4000" unit="people">
+<num value="4000">四千</num>人</measure>
+<pc>，</pc>江東<measure quantity="5200" unit="people">
+<num value="5200">五千二百</num>人</measure>
+<pc>，</pc>江西<measure quantity="6800" unit="people">
+<num value="6800">六千八百</num>人</measure>
+<pc>，</pc>湖南<measure quantity="8300" unit="people">
+<num value="8300">八千三百</num>人</measure>
+<pc>，</pc>湖北<measure quantity="2000" unit="people">
+<num value="2000">萬二千</num>人</measure>
+<pc>，</pc>福建<measure quantity="4500" unit="people">
+<num value="4500">四千五百</num>人</measure>
+<pc>，</pc>廣南東<pc>、</pc>西<measure quantity="200" unit="people">
+<num value="200">千二百</num>人</measure>
+<pc>，</pc>川峽<num value="3">三</num>路<measure quantity="4400" unit="people">
+<num value="4400">四千四百</num>人</measure>爲額<pc>。</pc>在京其餘指揮並河東<pc>、</pc>陝西<pc>、</pc>京西<pc>、</pc>淮南路既皆撥並<pc>，</pc>唯河北人數尚多<pc>，</pc>乃詔禁軍以<num value="70000">七萬</num>爲額<pc>。</pc>初<pc>，</pc>河北兵籍比諸路爲多<pc>，</pc>其緣邊者且仰給<num value="3">三</num>司<pc>，</pc>至是而撥並畸零<pc>，</pc>立爲定額焉<pc>。</pc>是時<pc>，</pc>京東增置武衛軍<pc>，</pc>分隸河北<num value="4">四</num>路<pc>，</pc>後又以<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>戍揚<pc>、</pc>杭州<pc>、</pc>江寧府<pc>，</pc>其後又團結軍士置將分領<pc>，</pc>則謂之將兵雲<pc>。</pc>
 </p>
 </div>
 <div>
@@ -300,8 +341,12 @@
 <num value="5">五</num>年</measure>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
-<pc>，</pc>詔諸路教閱廂軍<pc>，</pc>於下禁軍內增入指揮名額<pc>，</pc>排連並同禁軍<pc>。</pc>蓋熙寧之籍<pc>，</pc>天下禁軍凡<num value="568688">五十六萬八千六百八十八</num>人<pc>；</pc>元豐之籍<pc>，</pc>
-<num value="612243">六十一萬二千二百四十三</num>人<pc>。</pc>
+<pc>，</pc>詔諸路教閱廂軍<pc>，</pc>於下禁軍內增入指揮名額<pc>，</pc>排連並同禁軍<pc>。</pc>蓋熙寧之籍<pc>，</pc>天下禁軍凡<measure quantity="568688" unit="people">
+<num value="568688">五十六萬八千六百八十八</num>人</measure>
+<pc>；</pc>元豐之籍<pc>，</pc>
+<measure quantity="612243" unit="people">
+<num value="612243">六十一萬二千二百四十三</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -314,7 +359,8 @@
 <pc>，</pc>詔西關堡防拓禁軍和雇入役<pc>。</pc>復置河北<pc>、</pc>河東<pc>、</pc>陝西<pc>、</pc>府界馬步軍<pc>。</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>河東<pc>、</pc>陝西路諸帥府敢勇以<num value="100">一百</num>人爲額<pc>，</pc>專隸經略司<pc>。</pc>
+<pc>，</pc>河東<pc>、</pc>陝西路諸帥府敢勇以<measure quantity="100" unit="people">
+<num value="100">一百</num>人</measure>爲額<pc>，</pc>專隸經略司<pc>。</pc>
 </p>
 </div>
 <div>
@@ -324,7 +370,9 @@
 </p>
 </div>
 <div>
-<p>　　元符元年<pc>，</pc>利州路興元府<pc>、</pc>閬州各增置就糧武寧<pc>；</pc>又湖北<pc>、</pc>江東各增置有馬雄略<pc>。</pc>涇原路新築南牟會<pc>，</pc>賜名西安州<pc>，</pc>戍守共以<num value="7000">七千</num>人爲額<pc>，</pc>仍招置馬軍蕃落<pc>、</pc>步軍保捷<pc>。</pc>天都<pc>、</pc>臨羌砦戍守各以<num value="3000">三千</num>人爲額<pc>，</pc>仍各置馬軍蕃落<pc>、</pc>步軍保捷<pc>。</pc>永興軍等路創置蕃落<pc>；</pc>河北大名府等<measure quantity="22" unit="prefectures">
+<p>　　元符元年<pc>，</pc>利州路興元府<pc>、</pc>閬州各增置就糧武寧<pc>；</pc>又湖北<pc>、</pc>江東各增置有馬雄略<pc>。</pc>涇原路新築南牟會<pc>，</pc>賜名西安州<pc>，</pc>戍守共以<measure quantity="7000" unit="people">
+<num value="7000">七千</num>人</measure>爲額<pc>，</pc>仍招置馬軍蕃落<pc>、</pc>步軍保捷<pc>。</pc>天都<pc>、</pc>臨羌砦戍守各以<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>爲額<pc>，</pc>仍各置馬軍蕃落<pc>、</pc>步軍保捷<pc>。</pc>永興軍等路創置蕃落<pc>；</pc>河北大名府等<measure quantity="22" unit="prefectures">
 <num value="22">二十二</num>州</measure>共創置馬軍廣威<pc>、</pc>步軍保捷<pc>，</pc>以河北大水<pc>，</pc>招刺流民故也<pc>。</pc>
 </p>
 </div>
@@ -335,7 +383,9 @@
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
-<pc>，</pc>環慶增置敢勇<num value="200">二百</num>人<pc>。</pc>
+<pc>，</pc>環慶增置敢勇<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>。</pc>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <pc>，</pc>環慶路都總管司言<pc>：</pc>
@@ -379,7 +429,9 @@
 <pc>，</pc>隴右都護奏<pc>：</pc>乞于鄯州置水軍<pc>，</pc>守河浮橋<pc>。</pc>又樞密院乞增置府界<pc>、</pc>京東西等路步軍<pc>，</pc>荊湖南路雄略<pc>，</pc>皆從之<pc>。</pc>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
-<pc>，</pc>京東西<pc>、</pc>河東北<pc>、</pc>開封府界創置馬步軍<num value="50000">五萬</num>人<pc>，</pc>馬軍以崇捷<pc>、</pc>崇銳名<pc>，</pc>步軍以崇武<pc>、</pc>崇威名<pc>，</pc>合用緡錢<num value="2800000">二百八十萬</num>有奇<pc>，</pc>以常平<pc>、</pc>封樁等錢支<pc>，</pc>用蔡京之請也<pc>。</pc>京又言<pc>：</pc>今拓地廣<pc>，</pc>戍兵少<pc>，</pc>當議添置兵額<pc>，</pc>以爲邊備<pc>。</pc>
+<pc>，</pc>京東西<pc>、</pc>河東北<pc>、</pc>開封府界創置馬步軍<measure quantity="50000" unit="people">
+<num value="50000">五萬</num>人</measure>
+<pc>，</pc>馬軍以崇捷<pc>、</pc>崇銳名<pc>，</pc>步軍以崇武<pc>、</pc>崇威名<pc>，</pc>合用緡錢<num value="2800000">二百八十萬</num>有奇<pc>，</pc>以常平<pc>、</pc>封樁等錢支<pc>，</pc>用蔡京之請也<pc>。</pc>京又言<pc>：</pc>今拓地廣<pc>，</pc>戍兵少<pc>，</pc>當議添置兵額<pc>，</pc>以爲邊備<pc>。</pc>
 <pc>」</pc>從之<pc>。</pc>
 </p>
 </div>
@@ -388,13 +440,16 @@
 <num value="4">四</num>年</measure>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
-<pc>，</pc>廣西路置刀牌手<num value="3000">三千</num>人<pc>，</pc>於切要州軍更戌<pc>，</pc>以寧海名<pc>。</pc>
+<pc>，</pc>廣西路置刀牌手<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>
+<pc>，</pc>於切要州軍更戌<pc>，</pc>以寧海名<pc>。</pc>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <pc>，</pc>詔<pc>：</pc>
 <pc>「</pc>
 <quote>
-<num value="4">四</num>輔屏翰京師<pc>，</pc>兵力不可偏重<pc>，</pc>可各以<num value="20000">二萬</num>人爲額<pc>。</pc>
+<num value="4">四</num>輔屏翰京師<pc>，</pc>兵力不可偏重<pc>，</pc>可各以<measure quantity="20000" unit="people">
+<num value="20000">二萬</num>人</measure>爲額<pc>。</pc>
 </quote>
 <pc>」</pc>
 <measure quantity="5" unit="years">
@@ -443,7 +498,9 @@
 <div>
 <p>　　自元豐而後<pc>，</pc>民兵日盛<pc>，</pc>募兵日衰<pc>，</pc>其募兵闕額<pc>，</pc>則收其廩給<pc>，</pc>以爲民兵教閱之費<pc>。</pc>元祐以降<pc>，</pc>民兵亦衰<pc>。</pc>崇甯<pc>、</pc>大觀以來<pc>，</pc>蔡京用事<pc>，</pc>兵弊日滋<pc>，</pc>至於受逃亡<pc>，</pc>收配隸<pc>，</pc>猶恐不足<pc>。</pc>政和之後<pc>，</pc>久廢蒐補<pc>，</pc>軍士死亡之余<pc>，</pc>老疾者徒費廩給<pc>，</pc>少健者又多冗占<pc>，</pc>階級既壞<pc>，</pc>紀律遂亡<pc>。</pc>童貫握兵<pc>，</pc>勢傾內外<pc>，</pc>凡遇陣敗<pc>，</pc>恥於人言<pc>，</pc>第申逃竄<pc>。</pc>河北將兵<pc>，</pc>
 <num value="10">十</num>無<num value="6">二三</num>
-<pc>，</pc>往往多住招闕額<pc>，</pc>以其封樁爲上供之用<pc>。</pc>陝右諸路兵亦無幾<pc>，</pc>種師道將兵入援<pc>，</pc>止得<num value="5000">萬五千</num>人<pc>。</pc>故靖康之變<pc>，</pc>雖畫<num value="1">一</num>之詔<pc>，</pc>哀痛激切<pc>，</pc>而事已無及矣<pc>。</pc>
+<pc>，</pc>往往多住招闕額<pc>，</pc>以其封樁爲上供之用<pc>。</pc>陝右諸路兵亦無幾<pc>，</pc>種師道將兵入援<pc>，</pc>止得<measure quantity="5000" unit="people">
+<num value="5000">萬五千</num>人</measure>
+<pc>。</pc>故靖康之變<pc>，</pc>雖畫<num value="1">一</num>之詔<pc>，</pc>哀痛激切<pc>，</pc>而事已無及矣<pc>。</pc>
 </p>
 </div>
 <div>
@@ -453,7 +510,8 @@
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>上以祖宗故事<pc>，</pc>兵皆隸<num value="3">三</num>衙<pc>，</pc>乃廢神武中軍隸殿前司<pc>，</pc>於是殿司兵柄始<num value="1">一</num>
-<pc>。</pc>乾道元年<pc>，</pc>詔殿前兵馬權以<num value="73000">七萬三千</num>人爲額<pc>。</pc>
+<pc>。</pc>乾道元年<pc>，</pc>詔殿前兵馬權以<measure quantity="73000" unit="people">
+<num value="73000">七萬三千</num>人</measure>爲額<pc>。</pc>
 </p>
 </div>
 <div>
@@ -485,7 +543,9 @@
 </p>
 </div>
 <div>
-<p>　　其禁軍將校<pc>，</pc>則有殿前司都指揮使<pc>、</pc>副都指揮使<pc>、</pc>都<term>虞候</term>各<num value="1">一</num>人<pc>；</pc>諸班有都<term>虞候</term>
+<p>　　其禁軍將校<pc>，</pc>則有殿前司都指揮使<pc>、</pc>副都指揮使<pc>、</pc>都<term>虞候</term>各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>；</pc>諸班有都<term>虞候</term>
 <pc>、</pc>指揮使<pc>、</pc>都知<pc>、</pc>副都知<pc>、</pc>押班<pc>；</pc>御龍諸直有<num value="4">四</num>直都<term>虞候</term>
 <pc>，</pc>本直各有都<term>虞候</term>
 <pc>、</pc>指揮使<pc>、</pc>副指揮使<pc>、</pc>都頭<pc>、</pc>副都頭<pc>、</pc>
@@ -521,7 +581,8 @@
 <div>
 <p>　　內殿直左右班<num value="4">四</num>
 <pc>。</pc>周制<pc>，</pc>簡軍校暨武臣子弟有材勇者立<pc>。</pc>又有川班內殿直<pc>，</pc>乾德<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>平蜀得奇兵<pc>，</pc>簡閱材貌魁偉便習騎射者凡<num value="20">百二十</num>人立<pc>，</pc>開寶<measure quantity="4" unit="years">
+<num value="3">三</num>年</measure>平蜀得奇兵<pc>，</pc>簡閱材貌魁偉便習騎射者凡<measure quantity="20" unit="people">
+<num value="20">百二十</num>人</measure>立<pc>，</pc>開寶<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>廢<pc>。</pc>
 </p>
 </div>
@@ -952,7 +1013,11 @@
 </p>
 </div>
 <div>
-<p>　　侍衛司侍衛親軍馬步軍都指揮使<pc>、</pc>副都指揮使<pc>、</pc>都<term>虞候</term>各<num value="1">一</num>人<pc>。</pc>馬軍都指揮使<pc>、</pc>副都指揮使<pc>、</pc>都<term>虞候</term>各<num value="1">一</num>人<pc>，</pc>步軍亦如之<pc>。</pc>自馬步軍都<term>虞候</term>已上<pc>，</pc>其員全闕<pc>，</pc>即馬<pc>、</pc>步軍都指揮使等各領其務<pc>，</pc>與殿前號爲<num value="3">三</num>司<pc>。</pc>馬步軍有龍衛神衛左右<num value="4">四</num>廂都指揮使<pc>、</pc>都<term>虞候</term>
+<p>　　侍衛司侍衛親軍馬步軍都指揮使<pc>、</pc>副都指揮使<pc>、</pc>都<term>虞候</term>各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>馬軍都指揮使<pc>、</pc>副都指揮使<pc>、</pc>都<term>虞候</term>各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>步軍亦如之<pc>。</pc>自馬步軍都<term>虞候</term>已上<pc>，</pc>其員全闕<pc>，</pc>即馬<pc>、</pc>步軍都指揮使等各領其務<pc>，</pc>與殿前號爲<num value="3">三</num>司<pc>。</pc>馬步軍有龍衛神衛左右<num value="4">四</num>廂都指揮使<pc>、</pc>都<term>虞候</term>
 <pc>。</pc>每指揮有指揮使<pc>、</pc>副指揮使<pc>。</pc>余如殿前司之制<pc>。</pc>所領騎兵步兵之額敘列如左<pc>：</pc>
 </p>
 </div>
@@ -1824,7 +1889,7 @@
 </p>
 </div>
 <div>
-<p>　　御前忠佐散員本許州員僚剩員<pc>，</pc>淳化中<pc>，</pc>立爲軍頭司散員<num value="1">一</num>班<pc>。</pc>又<date>
+<p>　　御前忠佐散員本許州員僚剩員<pc>，</pc>淳化中<pc>，</pc>立爲軍頭司散員<num value="1">一</num>班<pc>。</pc>又<date when="null">
 <num value="5">五</num>代</date>以來<pc>，</pc>軍校立功無可門署者<pc>，</pc>第令與諸校同其飲膳<pc>，</pc>名健飯都指揮使<pc>，</pc>後唯被譴者居此<pc>。</pc>大中祥符<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>改爲散指揮使<pc>。</pc>班<num value="1">一</num>
@@ -1843,7 +1908,9 @@
 </p>
 </div>
 <div>
-<p>　　備軍<num value="1960">一千九百六十</num>人<pc>。</pc>
+<p>　　備軍<measure quantity="1960" unit="people">
+<num value="1960">一千九百六十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1859,7 +1926,8 @@
 <num value="9">九</num>年</measure>
 <pc>，</pc>選輦官<num value="60">六十</num>以上者充<pc>。</pc>治平<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>詔以<num value="500">五百</num>人爲額<pc>。</pc>
+<pc>，</pc>詔以<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>爲額<pc>。</pc>
 </p>
 </div>
 <div>

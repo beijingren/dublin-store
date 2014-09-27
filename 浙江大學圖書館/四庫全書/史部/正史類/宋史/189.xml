@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="189">
 <div>
-<p>　　廂兵者<pc>，</pc>諸州之鎮兵也<pc>。</pc>內總于侍衛司<pc>。</pc>
+<p>
+<name key="null" type="null">　　廂</name>兵者<pc>，</pc>諸州之鎮兵也<pc>。</pc>內總于侍衛司<pc>。</pc>
 <num value="1">一</num>軍之額<pc>，</pc>有分隸數州者<pc>，</pc>或<measure quantity="1" unit="prefecture">
 <num value="1">一</num>州</measure>之管兼屯數州者<pc>，</pc>在京諸司之額<num value="5">五</num>
 <pc>，</pc>隸宣徽院<pc>，</pc>以分給畜牧繕修之役<pc>，</pc>而諸州則各以其事屬焉<pc>。</pc>建隆初<pc>，</pc>選諸州募兵之壯勇者部送京師<pc>，</pc>以備禁衛<pc>，</pc>餘留本城<pc>，</pc>雖無戍更<pc>，</pc>然罕教閱<pc>，</pc>類多給役而已<pc>。</pc>
@@ -90,7 +91,9 @@
 <div>
 <p>　　又詔<pc>：</pc>
 <pc>「</pc>
-<quote>廣南東西<pc>、</pc>荊湖南北<pc>、</pc>福建<pc>、</pc>江南<pc>、</pc>京西等<num value="7">七</num>路諸州<pc>、</pc>府<pc>、</pc>軍<pc>、</pc>監見管雜犯配隸軍人等<pc>，</pc>各差使臣<num value="1">一</num>人<pc>，</pc>馳驛往逐處與轉運使<pc>、</pc>副或提點臣僚<pc>、</pc>知州<pc>、</pc>通判<pc>、</pc>鈐轄<pc>、</pc>都監<pc>、</pc>監押同共簡選<pc>，</pc>就近體量人數<pc>，</pc>分配側近州軍本城收管<pc>。</pc>如年老病患<pc>，</pc>委實久遠不任醫治充役者<pc>，</pc>放令逐便<pc>；</pc>其少壯者即差人管押赴闕引見<pc>，</pc>當議選配近上軍分<pc>。</pc>如不願量移及赴闕者<pc>，</pc>亦聽其便<pc>，</pc>仍於軍分量與遷改<pc>。</pc>如地遠勾抽遲延<pc>，</pc>即馳驛分路簡訖<pc>，</pc>具析以聞<pc>。</pc>
+<quote>廣南東西<pc>、</pc>荊湖南北<pc>、</pc>福建<pc>、</pc>江南<pc>、</pc>京西等<num value="7">七</num>路諸州<pc>、</pc>府<pc>、</pc>軍<pc>、</pc>監見管雜犯配隸軍人等<pc>，</pc>各差使臣<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>馳驛往逐處與轉運使<pc>、</pc>副或提點臣僚<pc>、</pc>知州<pc>、</pc>通判<pc>、</pc>鈐轄<pc>、</pc>都監<pc>、</pc>監押同共簡選<pc>，</pc>就近體量人數<pc>，</pc>分配側近州軍本城收管<pc>。</pc>如年老病患<pc>，</pc>委實久遠不任醫治充役者<pc>，</pc>放令逐便<pc>；</pc>其少壯者即差人管押赴闕引見<pc>，</pc>當議選配近上軍分<pc>。</pc>如不願量移及赴闕者<pc>，</pc>亦聽其便<pc>，</pc>仍於軍分量與遷改<pc>。</pc>如地遠勾抽遲延<pc>，</pc>即馳驛分路簡訖<pc>，</pc>具析以聞<pc>。</pc>
 </quote>
 <pc>」</pc>
 </p>
@@ -152,20 +155,36 @@
 <num value="3">三</num>年</measure>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
-<pc>，</pc>詔以禁軍分<num value="5">五</num>部法檢治廂軍<pc>，</pc>其後禁軍或降剩員<pc>，</pc>或升補<pc>，</pc>皆以備廂軍諸路力役之事<pc>。</pc>間詔募增<pc>，</pc>而京西轉運司所募多至<num value="30000">三萬</num>人<pc>；</pc>陝西減額<num value="5000">五千</num>人<pc>，</pc>亦至<num value="30000">三萬</num>人<pc>。</pc>河朔流民寓京東者如舊制招募教閱<pc>，</pc>以爲忠果<num value="20">二十</num>指揮<pc>，</pc>分隸河北總管司<pc>，</pc>以除盜恤饑<pc>。</pc>而河北及熙河路修城壘<pc>，</pc>河北所募兵<num value="5000">五千</num>人<pc>，</pc>熙河亦<num value="3000">三千</num>人<pc>。</pc>修京城<pc>，</pc>以廢馬監兵置廣固<pc>、</pc>保忠凡<num value="10">十</num>指揮<pc>，</pc>亦<num value="5000">五千</num>人<pc>，</pc>湖南徭平<pc>，</pc>戎<pc>、</pc>瀘軍興<pc>，</pc>洮<pc>、</pc>河轉漕<pc>，</pc>又皆增置焉<pc>。</pc>
+<pc>，</pc>詔以禁軍分<num value="5">五</num>部法檢治廂軍<pc>，</pc>其後禁軍或降剩員<pc>，</pc>或升補<pc>，</pc>皆以備廂軍諸路力役之事<pc>。</pc>間詔募增<pc>，</pc>而京西轉運司所募多至<measure quantity="30000" unit="people">
+<num value="30000">三萬</num>人</measure>
+<pc>；</pc>陝西減額<measure quantity="5000" unit="people">
+<num value="5000">五千</num>人</measure>
+<pc>，</pc>亦至<measure quantity="30000" unit="people">
+<num value="30000">三萬</num>人</measure>
+<pc>。</pc>河朔流民寓京東者如舊制招募教閱<pc>，</pc>以爲忠果<num value="20">二十</num>指揮<pc>，</pc>分隸河北總管司<pc>，</pc>以除盜恤饑<pc>。</pc>而河北及熙河路修城壘<pc>，</pc>河北所募兵<measure quantity="5000" unit="people">
+<num value="5000">五千</num>人</measure>
+<pc>，</pc>熙河亦<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>
+<pc>。</pc>修京城<pc>，</pc>以廢馬監兵置廣固<pc>、</pc>保忠凡<num value="10">十</num>指揮<pc>，</pc>亦<measure quantity="5000" unit="people">
+<num value="5000">五千</num>人</measure>
+<pc>，</pc>湖南徭平<pc>，</pc>戎<pc>、</pc>瀘軍興<pc>，</pc>洮<pc>、</pc>河轉漕<pc>，</pc>又皆增置焉<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　初<pc>，</pc>樞密院言<pc>：</pc>
 <pc>「</pc>
-<quote>京師役兵不足<pc>，</pc>歲取于諸路<pc>，</pc>而江<pc>、</pc>淮兵每饑凍<pc>，</pc>道斃相屬<pc>。</pc>略計歲所用外軍<num value="7000">七千</num>人<pc>，</pc>調發增給不貲<pc>。</pc>請募東西<num value="8">八</num>作司壯役指揮<pc>，</pc>諸司雜犯罪人情輕者並配隸<pc>，</pc>以次補雜役<pc>、</pc>效役<pc>，</pc>代諸路役兵<pc>，</pc>
+<quote>京師役兵不足<pc>，</pc>歲取于諸路<pc>，</pc>而江<pc>、</pc>淮兵每饑凍<pc>，</pc>道斃相屬<pc>。</pc>略計歲所用外軍<measure quantity="7000" unit="people">
+<num value="7000">七千</num>人</measure>
+<pc>，</pc>調發增給不貲<pc>。</pc>請募東西<num value="8">八</num>作司壯役指揮<pc>，</pc>諸司雜犯罪人情輕者並配隸<pc>，</pc>以次補雜役<pc>、</pc>效役<pc>，</pc>代諸路役兵<pc>，</pc>
 </quote>
 <pc>」</pc>從之<pc>。</pc>又言<pc>：</pc>
 <pc>「</pc>
 <quote>諸路廂軍名額猥多<pc>，</pc>自騎射至牢城<pc>，</pc>其名凡<num value="223">二百二十三</num>
 <pc>。</pc>其間因事募人<pc>，</pc>團立新額<pc>，</pc>或因工作<pc>、</pc>榷酤<pc>、</pc>水陸運送<pc>、</pc>通道<pc>、</pc>山險<pc>、</pc>橋樑<pc>、</pc>郵傳<pc>、</pc>馬牧<pc>、</pc>提防<pc>、</pc>堰埭<pc>，</pc>若此者事在而名未可廢<pc>。</pc>及剩員直<pc>、</pc>牢城皆待有罪配隸之人<pc>；</pc>壯城專治城隍<pc>，</pc>不給他役<pc>，</pc>別爲<num value="1">一</num>軍<pc>；</pc>而教閱廂軍亦自爲額<pc>。</pc>請以諸路不教閱廂軍並爲<num value="1">一</num>額<pc>，</pc>餘從省廢<pc>，</pc>其移並如禁軍法<pc>。</pc>
 </quote>
-<pc>」</pc>奏可<pc>。</pc>遂下諸路轉運司<pc>，</pc>以州大小高下爲序<pc>，</pc>始自某州爲第<num value="1">一</num>指揮<pc>，</pc>差次至某州<pc>，</pc>凡爲若干指揮<pc>，</pc>每指揮毋過<num value="500">五百</num>人<pc>。</pc>河北曰崇勝<pc>，</pc>河東曰雄猛<pc>，</pc>陝西曰保寧<pc>，</pc>京東曰奉化<pc>，</pc>京西曰勁武<pc>，</pc>淮南曰寧淮<pc>，</pc>兩浙曰崇節<pc>，</pc>江南曰效勇<pc>，</pc>荊湖曰宣節<pc>，</pc>福建曰保節<pc>，</pc>廣南曰清化<pc>，</pc>川<num value="4">四</num>路曰克寧<pc>。</pc>
+<pc>」</pc>奏可<pc>。</pc>遂下諸路轉運司<pc>，</pc>以州大小高下爲序<pc>，</pc>始自某州爲第<num value="1">一</num>指揮<pc>，</pc>差次至某州<pc>，</pc>凡爲若干指揮<pc>，</pc>每指揮毋過<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>
+<pc>。</pc>河北曰崇勝<pc>，</pc>河東曰雄猛<pc>，</pc>陝西曰保寧<pc>，</pc>京東曰奉化<pc>，</pc>京西曰勁武<pc>，</pc>淮南曰寧淮<pc>，</pc>兩浙曰崇節<pc>，</pc>江南曰效勇<pc>，</pc>荊湖曰宣節<pc>，</pc>福建曰保節<pc>，</pc>廣南曰清化<pc>，</pc>川<num value="4">四</num>路曰克寧<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>詔忻<pc>、</pc>代州諸砦<pc>，</pc>以禁軍代廂軍<pc>。</pc>
@@ -183,7 +202,9 @@
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <pc>，</pc>詔諸路教閱廂軍<pc>，</pc>於下禁軍內增入指揮名額<pc>，</pc>排連並同禁軍<pc>。</pc>於是<pc>，</pc>馬步排定有馬廂軍<num value="22">二十二</num>指揮<pc>，</pc>無馬廂軍<num value="229">二百二十九</num>指揮<pc>。</pc>元豐之末<pc>，</pc>總天下廂兵馬步指揮凡<num value="840">八百四十</num>
-<pc>，</pc>其爲兵幾<num value="227627">二十二萬七千六百二十七</num>人<pc>，</pc>而府界及諸司或因事募兵之額不與焉<pc>。</pc>
+<pc>，</pc>其爲兵幾<measure quantity="227627" unit="people">
+<num value="227627">二十二萬七千六百二十七</num>人</measure>
+<pc>，</pc>而府界及諸司或因事募兵之額不與焉<pc>。</pc>
 </p>
 </div>
 <div>
@@ -196,11 +217,13 @@
 <pc>」</pc>樞密院亦以爲言<pc>。</pc>乃詔本部自今進冊<pc>，</pc>以其副上樞密院<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>詔京西路廂軍以<num value="30500">三萬五百</num>人爲額<pc>，</pc>又詔天下州郡以地理置壯城兵<pc>。</pc>
+<pc>，</pc>詔京西路廂軍以<measure quantity="30500" unit="people">
+<num value="30500">三萬五百</num>人</measure>爲額<pc>，</pc>又詔天下州郡以地理置壯城兵<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　元符元年<pc>，</pc>詔罪人應配<num value="500">五百</num>里以上<pc>，</pc>皆配陝西<pc>、</pc>河東充廂軍<pc>，</pc>諸路經略司各<num value="2000">二千</num>人止<pc>。</pc>
+<p>　　元符元年<pc>，</pc>詔罪人應配<num value="500">五百</num>里以上<pc>，</pc>皆配陝西<pc>、</pc>河東充廂軍<pc>，</pc>諸路經略司各<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>止<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>詔撥陝西保甯指揮入諸路廂軍額<pc>。</pc>
@@ -215,17 +238,25 @@
 <div>
 <p>　　政和<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>廣固<num value="4">四</num>指揮各增<num value="500">五百</num>人<pc>，</pc>以備京城之役<pc>。</pc>
+<pc>，</pc>廣固<num value="4">四</num>指揮各增<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>
+<pc>，</pc>以備京城之役<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
-<pc>，</pc>增置通濟兵士<num value="2000">二千</num>人<pc>，</pc>備御前牽挽綱運<pc>。</pc>於是工役日興<pc>，</pc>增募益廣矣<pc>。</pc>
+<pc>，</pc>增置通濟兵士<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>
+<pc>，</pc>備御前牽挽綱運<pc>。</pc>於是工役日興<pc>，</pc>增募益廣矣<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　建炎而後<pc>，</pc>兵制靡定<pc>，</pc>逮乾道中<pc>，</pc>
-<num value="4">四</num>川廂軍<num value="20972">二萬九百七十二</num>人<pc>，</pc>禁軍<num value="27992">二萬七千九百九十二</num>人<pc>。</pc>厥後廢置損益<pc>，</pc>隨時不同<pc>，</pc>摭其可考者以附見焉<pc>。</pc>
+<num value="4">四</num>川廂軍<measure quantity="20972" unit="people">
+<num value="20972">二萬九百七十二</num>人</measure>
+<pc>，</pc>禁軍<measure quantity="27992" unit="people">
+<num value="27992">二萬七千九百九十二</num>人</measure>
+<pc>。</pc>厥後廢置損益<pc>，</pc>隨時不同<pc>，</pc>摭其可考者以附見焉<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1409,7 +1440,9 @@
 <p>　　河北路騎軍之額<pc>，</pc>自騎射而下<num value="10">十</num>有<num value="2">二</num>
 <pc>；</pc>步軍之額<pc>，</pc>自奉化而下<num value="20">二十</num>有<num value="6">六</num>
 <pc>，</pc>並改號曰崇勝<pc>。</pc>凡<num value="112">一百一十二</num>指揮<pc>，</pc>
-<num value="29270">二萬九千二百七十</num>人<pc>。</pc>
+<measure quantity="29270" unit="people">
+<num value="29270">二萬九千二百七十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1595,7 +1628,9 @@
 <p>　　河東路騎軍之額<pc>，</pc>自威邊而下<num value="2">二</num>
 <pc>；</pc>步軍之額<pc>，</pc>自左衙而下<num value="10">十</num>有<num value="8">八</num>
 <pc>，</pc>並改號曰雄猛<pc>。</pc>凡<num value="52">五十二</num>指揮<pc>，</pc>
-<num value="12410">一萬二千四百一十</num>人<pc>。</pc>
+<measure quantity="12410" unit="people">
+<num value="12410">一萬二千四百一十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1700,7 +1735,9 @@
 <p>　　陝西路騎軍之額<pc>，</pc>自騎射而下有<num value="6">六</num>
 <pc>；</pc>步軍之額<pc>，</pc>自左衙而下<num value="20">二十</num>有<num value="9">九</num>
 <pc>，</pc>並改號曰保寧<pc>。</pc>凡<num value="111">一百一十一</num>指揮<pc>，</pc>
-<num value="20563">二萬五百六十三</num>人<pc>。</pc>
+<measure quantity="20563" unit="people">
+<num value="20563">二萬五百六十三</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1818,7 +1855,9 @@
 <div>
 <p>　　保寧渭<pc>。</pc>熙寧<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>詔系役廂禁軍自今權免役<pc>，</pc>專肄習武藝<pc>，</pc>置鳳翔府簡中保甯<num value="6">六</num>指揮<num value="3000">三千</num>人<pc>，</pc>專備熙河修城砦<pc>。</pc>元豐<measure quantity="5" unit="years">
+<pc>，</pc>詔系役廂禁軍自今權免役<pc>，</pc>專肄習武藝<pc>，</pc>置鳳翔府簡中保甯<num value="6">六</num>指揮<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>
+<pc>，</pc>專備熙河修城砦<pc>。</pc>元豐<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>蘭州置<num value="2">二</num>
 <pc>。</pc>紹興<measure quantity="3" unit="years">
@@ -1945,7 +1984,9 @@
 <p>　　京東路騎軍之額<pc>，</pc>自騎射而下有<num value="3">三</num>
 <pc>；</pc>步軍之額<pc>，</pc>自左衙而下<num value="10">十</num>有<num value="7">七</num>
 <pc>，</pc>並改號曰奉化<pc>。</pc>凡<num value="54">五十四</num>指揮<pc>，</pc>
-<num value="14750">一萬四千七百五十</num>人<pc>。</pc>
+<measure quantity="14750" unit="people">
+<num value="14750">一萬四千七百五十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2003,7 +2044,9 @@
 <div>
 <p>　　勇敢密<pc>、</pc>沂<pc>。</pc>元符<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>環慶增置<num value="200">二百</num>人<pc>。</pc>
+<pc>，</pc>環慶增置<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2073,7 +2116,9 @@
 <div>
 <p>　　崇武濮<pc>。</pc>崇甯<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>詔於京西東<pc>、</pc>河東北<pc>、</pc>開封府界創置馬步軍<num value="50000">五萬</num>人<pc>，</pc>步軍以崇武爲名<pc>。</pc>大觀<measure quantity="4" unit="years">
+<pc>，</pc>詔於京西東<pc>、</pc>河東北<pc>、</pc>開封府界創置馬步軍<measure quantity="50000" unit="people">
+<num value="50000">五萬</num>人</measure>
+<pc>，</pc>步軍以崇武爲名<pc>。</pc>大觀<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>詔<num value="4">四</num>輔州闕額<pc>，</pc>于崇武等軍內撥填<pc>。</pc>
 </p>
@@ -2086,7 +2131,9 @@
 <p>　　京西路騎軍之額<pc>，</pc>自騎射而下<num value="6">六</num>
 <pc>；</pc>步軍之額<pc>，</pc>自奉化而下<num value="20">二十</num>有<num value="5">五</num>
 <pc>，</pc>並改號曰勁武<pc>。</pc>凡<num value="45">四十五</num>指揮<pc>，</pc>
-<num value="15150">一萬五千一百五十</num>人<pc>。</pc>
+<measure quantity="15150" unit="people">
+<num value="15150">一萬五千一百五十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2250,7 +2297,9 @@
 <p>　　淮南路騎軍之額<pc>，</pc>自威邊而下<num value="6">六</num>
 <pc>；</pc>步軍之額<pc>，</pc>自左衙而下<num value="20">二十</num>有<num value="7">七</num>
 <pc>，</pc>並改號曰寧淮<pc>。</pc>凡<num value="102">一百二</num>指揮<pc>，</pc>
-<num value="41285">四萬一千二百八十五</num>人<pc>。</pc>
+<measure quantity="41285" unit="people">
+<num value="41285">四萬一千二百八十五</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2432,7 +2481,9 @@
 <div>
 <p>　　兩浙路步軍之額<pc>，</pc>自捍江而下<num value="3">三</num>
 <pc>，</pc>並改號曰崇節<pc>。</pc>凡<num value="51">五十一</num>指揮<pc>，</pc>
-<num value="19000">一萬九千</num>人<pc>。</pc>
+<measure quantity="19000" unit="people">
+<num value="19000">一萬九千</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2488,7 +2539,9 @@
 <p>　　江南路騎軍之額<pc>，</pc>揀中騎射<num value="1">一</num>
 <pc>；</pc>步軍之額<pc>，</pc>自效勇而下<num value="5">五</num>
 <pc>，</pc>並改號曰效勇<pc>。</pc>凡<num value="53">五十三</num>指揮<pc>，</pc>
-<num value="16650">一萬六千六百五十</num>人<pc>。</pc>
+<measure quantity="16650" unit="people">
+<num value="16650">一萬六千六百五十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2570,7 +2623,9 @@
 <p>　　荊湖路騎軍之額<pc>，</pc>自騎射而下<num value="3">三</num>
 <pc>；</pc>步軍之額<pc>，</pc>自左衙而下<num value="20">二十</num>
 <pc>，</pc>並改號曰宣節<pc>。</pc>凡<num value="44">四十四</num>指揮<pc>，</pc>
-<num value="11300">一萬一千三百</num>人<pc>。</pc>
+<measure quantity="11300" unit="people">
+<num value="11300">一萬一千三百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2694,7 +2749,9 @@
 <div>
 <p>　　福建路步軍之額<pc>，</pc>自水軍而下<num value="3">三</num>
 <pc>，</pc>並改號曰保節<pc>。</pc>凡<num value="33">三十三</num>指揮<pc>，</pc>
-<num value="11150">一萬一千一百五十</num>人<pc>。</pc>
+<measure quantity="11150" unit="people">
+<num value="11150">一萬一千一百五十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2713,7 +2770,9 @@
 <p>　　廣南路騎軍之額<pc>，</pc>自靜山而下<num value="2">二</num>
 <pc>；</pc>步軍之額<pc>，</pc>自水軍而下<num value="10">十</num>
 <pc>，</pc>並改號曰清化<pc>。</pc>凡<num value="82">八十二</num>指揮<pc>，</pc>
-<num value="12700">一萬二千七百</num>人<pc>。</pc>
+<measure quantity="12700" unit="people">
+<num value="12700">一萬二千七百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2775,7 +2834,9 @@
 <div>
 <p>　　寧海瓊<pc>。</pc>崇甯<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>廣南西路經略司請置刀牌手<num value="3000">三千</num>人<pc>，</pc>于桂州置營<pc>，</pc>候教閱習熟<pc>，</pc>分戍諸州<pc>。</pc>
+<pc>，</pc>廣南西路經略司請置刀牌手<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>
+<pc>，</pc>于桂州置營<pc>，</pc>候教閱習熟<pc>，</pc>分戍諸州<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2799,7 +2860,9 @@
 <div>
 <p>　　<num value="4">四</num>川路步軍之額<pc>，</pc>自開遠而下<num value="10">十</num>
 <pc>，</pc>並改號曰克寧<pc>。</pc>凡<num value="111">一百一十一</num>指揮<pc>，</pc>
-<num value="23400">二萬三千四百</num>人<pc>。</pc>自河北路至此<pc>，</pc>凡改號<pc>、</pc>指揮人數<pc>，</pc>並因元豐以前<pc>，</pc>其後增改<pc>，</pc>各隨軍額<pc>。</pc>
+<measure quantity="23400" unit="people">
+<num value="23400">二萬三千四百</num>人</measure>
+<pc>。</pc>自河北路至此<pc>，</pc>凡改號<pc>、</pc>指揮人數<pc>，</pc>並因元豐以前<pc>，</pc>其後增改<pc>，</pc>各隨軍額<pc>。</pc>
 </p>
 </div>
 <div>

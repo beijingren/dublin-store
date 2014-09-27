@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="97">
 <div>
-<p>　　淮郡諸水<pc>：</pc>紹興初<pc>，</pc>以金兵蹂踐淮南<pc>，</pc>猶未退師<pc>，</pc>
+<p>
+<name key="null" type="null">　　淮</name>郡諸水<pc>：</pc>紹興初<pc>，</pc>以金兵蹂踐淮南<pc>，</pc>猶未退師<pc>，</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>詔燒毀<placeName>揚州</placeName>灣頭港口閘<pc>、</pc>泰州薑堰<pc>、</pc>通州白莆堰<pc>，</pc>其餘諸堰<pc>，</pc>並令守臣開決焚毀<pc>，</pc>務要不通敵船<pc>；</pc>又詔宣撫司毀拆真<pc>、</pc>揚堰閘及真州陳公塘<pc>，</pc>無令走入運河<pc>，</pc>以資敵用<pc>。</pc>
@@ -156,13 +157,19 @@
 <num value="11">十一</num>月</measure>
 <pc>，</pc>監察禦史兼崇政殿說書李衢言<pc>：</pc>
 <pc>「</pc>
-<quote>國家駐蹕錢塘<pc>，</pc>今逾<num value="10">十</num>紀<pc>。</pc>惟是浙江東接海門<pc>，</pc>胥濤澎湃<pc>，</pc>稍越故道<pc>，</pc>則沖齧堤岸<pc>，</pc>蕩析民居<pc>，</pc>前後不知其幾<pc>。</pc>慶曆中<pc>，</pc>造捍江<num value="5">五</num>指揮<pc>，</pc>兵士每指揮以<num value="400">四百</num>人為額<pc>。</pc>今所管才<num value="300">三百</num>人<pc>，</pc>乞下臨安府拘收<pc>，</pc>不許占破<pc>。</pc>及從本府收買樁石<pc>，</pc>沿江置場樁管<pc>，</pc>不得移易他用<pc>。</pc>仍選武臣<num value="1">一</num>人習于修江者<pc>，</pc>隨其資格<pc>，</pc>或以副將<pc>，</pc>或以路分鈐轄系銜<pc>，</pc>專<num value="1">一</num>鈐束修江軍兵<pc>，</pc>值有摧損<pc>，</pc>隨即修補<pc>；</pc>或不勝任<pc>，</pc>以致江潮沖損堤岸<pc>，</pc>即與責罰<pc>。</pc>
+<quote>國家駐蹕錢塘<pc>，</pc>今逾<num value="10">十</num>紀<pc>。</pc>惟是浙江東接海門<pc>，</pc>胥濤澎湃<pc>，</pc>稍越故道<pc>，</pc>則沖齧堤岸<pc>，</pc>蕩析民居<pc>，</pc>前後不知其幾<pc>。</pc>慶曆中<pc>，</pc>造捍江<num value="5">五</num>指揮<pc>，</pc>兵士每指揮以<measure quantity="400" unit="people">
+<num value="400">四百</num>人</measure>為額<pc>。</pc>今所管才<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>，</pc>乞下臨安府拘收<pc>，</pc>不許占破<pc>。</pc>及從本府收買樁石<pc>，</pc>沿江置場樁管<pc>，</pc>不得移易他用<pc>。</pc>仍選武臣<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>習于修江者<pc>，</pc>隨其資格<pc>，</pc>或以副將<pc>，</pc>或以路分鈐轄系銜<pc>，</pc>專<num value="1">一</num>鈐束修江軍兵<pc>，</pc>值有摧損<pc>，</pc>隨即修補<pc>；</pc>或不勝任<pc>，</pc>以致江潮沖損堤岸<pc>，</pc>即與責罰<pc>。</pc>
 </quote>
 <pc>」</pc>
 </p>
 </div>
 <div>
-<p>　　臨安西湖周回<num value="30">三十</num>裏<pc>，</pc>源出於武林泉<pc>。</pc>錢氏有國<pc>，</pc>始置撩湖兵士<num value="1000">千</num>人<pc>，</pc>專<num value="1">一</num>開浚<pc>。</pc>至<date>宋</date>以來<pc>，</pc>稍廢不治<pc>，</pc>水涸草生<pc>，</pc>漸成葑田<pc>。</pc>
+<p>　　臨安西湖周回<num value="30">三十</num>裏<pc>，</pc>源出於武林泉<pc>。</pc>錢氏有國<pc>，</pc>始置撩湖兵士<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>專<num value="1">一</num>開浚<pc>。</pc>至<date when="null">宋</date>以來<pc>，</pc>稍廢不治<pc>，</pc>水涸草生<pc>，</pc>漸成葑田<pc>。</pc>
 </p>
 </div>
 <div>
@@ -185,7 +192,9 @@
 <div>
 <p>　　紹興<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<pc>，</pc>以張澄奏請<pc>，</pc>命臨安府招置廂軍兵士<num value="200">二百</num>人<pc>，</pc>委錢塘縣尉兼領其事<pc>，</pc>專<num value="1">一</num>浚湖<pc>；</pc>若包占種田<pc>，</pc>沃以糞土<pc>，</pc>重寘於法<pc>。</pc>
+<pc>，</pc>以張澄奏請<pc>，</pc>命臨安府招置廂軍兵士<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>委錢塘縣尉兼領其事<pc>，</pc>專<num value="1">一</num>浚湖<pc>；</pc>若包占種田<pc>，</pc>沃以糞土<pc>，</pc>重寘於法<pc>。</pc>
 <measure quantity="19" unit="years">
 <num value="19">十九</num>年</measure>
 <pc>，</pc>守臣湯鵬舉奏請重開<pc>。</pc>乾道<measure quantity="5" unit="years">
@@ -193,7 +202,8 @@
 <pc>，</pc>守臣周淙言<pc>：</pc>
 <pc>「</pc>
 <quote>西湖水面唯務深闊<pc>，</pc>不容填溢<pc>，</pc>並引入城內諸井<pc>，</pc>
-<num value="1">一</num>城汲用<pc>，</pc>尤在涓潔<pc>。</pc>舊招軍士止有<num value="30">三十</num>餘人<pc>，</pc>今宜增置撩湖軍兵<pc>，</pc>以<num value="100">百</num>人為額<pc>，</pc>專<num value="1">一</num>開撩<pc>。</pc>或有種植茭菱<pc>，</pc>因而包占<pc>，</pc>增疊堤岸<pc>，</pc>坐以違制<pc>。</pc>
+<num value="1">一</num>城汲用<pc>，</pc>尤在涓潔<pc>。</pc>舊招軍士止有<num value="30">三十</num>餘人<pc>，</pc>今宜增置撩湖軍兵<pc>，</pc>以<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>為額<pc>，</pc>專<num value="1">一</num>開撩<pc>。</pc>或有種植茭菱<pc>，</pc>因而包占<pc>，</pc>增疊堤岸<pc>，</pc>坐以違制<pc>。</pc>
 </quote>
 <pc>」</pc>
 </p>
@@ -215,7 +225,9 @@
 <pc>「</pc>
 <quote>熙寧中<pc>，</pc>通判杭州時<pc>，</pc>父老皆雲苦運河淤塞<pc>，</pc>率<measure quantity="15" unit="years">
 <num value="15">三五</num>年</measure>常<num value="1">一</num>開浚<pc>。</pc>不獨勞役兵民<pc>，</pc>而運河自州前至北郭<pc>，</pc>穿闤闠中蓋<num value="30">十四五</num>裏<pc>，</pc>每將興工<pc>，</pc>市肆洶動<pc>，</pc>公私騷然<pc>。</pc>自胥吏<pc>、</pc>壕砦兵級等<pc>，</pc>皆能恐喝人戶<pc>，</pc>或雲當於某處置土<pc>、</pc>某處過泥水<pc>，</pc>則居者皆有失業之憂<pc>。</pc>既得重賂<pc>，</pc>又轉而之他<pc>。</pc>及工役既畢<pc>，</pc>則房廊<pc>、</pc>邸舍<pc>，</pc>作踐狼籍<pc>，</pc>園圃隙地<pc>，</pc>例成丘阜<pc>，</pc>積雨蕩濯<pc>，</pc>複入河中<pc>，</pc>居民患厭<pc>，</pc>未易悉數<pc>。</pc>若<measure quantity="15" unit="years">
-<num value="15">三五</num>年</measure>失開<pc>，</pc>則公私壅滯<pc>，</pc>以尺寸水行數<num value="100">百</num>斛舟<pc>，</pc>人牛力盡<pc>，</pc>跬步<num value="1000">千</num>里<pc>，</pc>雖監司使命<pc>，</pc>有數日不能出郭者<pc>。</pc>詢其所以頻開屢塞之由<pc>，</pc>皆雲龍山浙江兩閘<pc>，</pc>泥沙渾濁<pc>，</pc>積日稍久<pc>，</pc>便及<num value="20">四五</num>尺<pc>，</pc>其勢當然<pc>，</pc>不足怪也<pc>。</pc>尋剗刷捍江兵士及諸色廂軍<pc>，</pc>得<num value="1000">一千</num>人<pc>，</pc>
+<num value="15">三五</num>年</measure>失開<pc>，</pc>則公私壅滯<pc>，</pc>以尺寸水行數<num value="100">百</num>斛舟<pc>，</pc>人牛力盡<pc>，</pc>跬步<num value="1000">千</num>里<pc>，</pc>雖監司使命<pc>，</pc>有數日不能出郭者<pc>。</pc>詢其所以頻開屢塞之由<pc>，</pc>皆雲龍山浙江兩閘<pc>，</pc>泥沙渾濁<pc>，</pc>積日稍久<pc>，</pc>便及<num value="20">四五</num>尺<pc>，</pc>其勢當然<pc>，</pc>不足怪也<pc>。</pc>尋剗刷捍江兵士及諸色廂軍<pc>，</pc>得<measure quantity="1000" unit="people">
+<num value="1000">一千</num>人</measure>
+<pc>，</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>之間<pc>，</pc>開浚茅山<pc>、</pc>鹽橋<num value="2">二</num>河<pc>，</pc>各<num value="10">十</num>餘裏<pc>，</pc>皆有水<num value="8">八</num>尺<pc>。</pc>自是公私舟船通利<pc>，</pc>
 <measure quantity="30" unit="years">
@@ -247,7 +259,9 @@
 <pc>」</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
-<pc>，</pc>又命守臣張澄發廂軍<pc>、</pc>壯城兵<num value="1000">千</num>人<pc>，</pc>開浚運河堙塞<pc>，</pc>以通往來舟楫<pc>。</pc>
+<pc>，</pc>又命守臣張澄發廂軍<pc>、</pc>壯城兵<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>開浚運河堙塞<pc>，</pc>以通往來舟楫<pc>。</pc>
 </p>
 </div>
 <div>
@@ -377,7 +391,7 @@
 <quote>東錢湖容受<num value="72">七十二</num>溪<pc>，</pc>方圓廣闊<num value="800">八百</num>頃<pc>，</pc>傍山為固<pc>，</pc>疊石為塘<num value="80">八十</num>裏<pc>。</pc>自唐天寶<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>縣令陸南金開廣之<pc>。</pc>
-<date>國朝</date>天禧元年<pc>，</pc>郡守李夷庚重修之<pc>。</pc>中有<num value="4">四</num>閘<num value="7">七</num>堰<pc>，</pc>凡遇旱涸<pc>，</pc>開閘放水<pc>，</pc>溉田<num value="500000">五十萬</num>畝<pc>。</pc>比因豪民於湖塘淺岸漸次包占<pc>，</pc>種植菱荷<pc>，</pc>障塞湖水<pc>。</pc>紹興<measure quantity="18" unit="years">
+<date when="null">國朝</date>天禧元年<pc>，</pc>郡守李夷庚重修之<pc>。</pc>中有<num value="4">四</num>閘<num value="7">七</num>堰<pc>，</pc>凡遇旱涸<pc>，</pc>開閘放水<pc>，</pc>溉田<num value="500000">五十萬</num>畝<pc>。</pc>比因豪民於湖塘淺岸漸次包占<pc>，</pc>種植菱荷<pc>，</pc>障塞湖水<pc>。</pc>紹興<measure quantity="18" unit="years">
 <num value="18">十八</num>年</measure>
 <pc>，</pc>雖曾檢舉約束<pc>，</pc>盡罷請佃<pc>。</pc>歲久菱根蔓延<pc>，</pc>滲塞水脈<pc>，</pc>致妨蓄水<pc>；</pc>兼塘岸間有低塌處<pc>，</pc>若不淘浚修築<pc>，</pc>不惟浸失水利<pc>，</pc>兼恐塘埂相繼摧毀<pc>。</pc>乞候農隙趁時開鑿<pc>，</pc>因得土修治埂岸<pc>，</pc>實為兩便<pc>。</pc>
 </quote>
@@ -464,7 +478,11 @@
 <div>
 <p>　　隆興元年<pc>，</pc>紹興府守臣吳芾言<pc>：</pc>
 <pc>「</pc>
-<quote>鑒湖自江衍所立碑石之外<pc>，</pc>今為民田者<pc>，</pc>又<num value="165">一百六十五</num>頃<pc>，</pc>湖盡堙廢<pc>。</pc>今欲發<num value="4900000">四百九十萬</num>工<pc>，</pc>于農隙接續開鑿<pc>。</pc>又移壯城<num value="100">百</num>人<pc>，</pc>以備撩灑浚治<pc>，</pc>差強幹使臣<num value="1">一</num>人<pc>，</pc>以'巡轄鑒湖堤岸'為名<pc>。</pc>
+<quote>鑒湖自江衍所立碑石之外<pc>，</pc>今為民田者<pc>，</pc>又<num value="165">一百六十五</num>頃<pc>，</pc>湖盡堙廢<pc>。</pc>今欲發<num value="4900000">四百九十萬</num>工<pc>，</pc>于農隙接續開鑿<pc>。</pc>又移壯城<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>以備撩灑浚治<pc>，</pc>差強幹使臣<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>以'巡轄鑒湖堤岸'為名<pc>。</pc>
 </quote>
 <pc>」</pc>
 </p>
@@ -492,7 +510,9 @@
 <num value="3">三</num>年</measure>
 <pc>，</pc>守臣言<pc>：</pc>
 <pc>「</pc>
-<quote>募人自西興至大江<pc>，</pc>疏沙河<num value="20">二十</num>裏<pc>，</pc>並浚閘裏運河<num value="13">十三</num>裏<pc>，</pc>通使綱運<pc>，</pc>民旅皆利<pc>。</pc>複恐潮水不定<pc>，</pc>複有填淤<pc>，</pc>且通江<num value="6">六</num>堰<pc>，</pc>綱運至多<pc>，</pc>宜差注指使<num value="1">一</num>人<pc>，</pc>專以'開撩西興沙河'系銜<pc>，</pc>及發捍江兵士<num value="50">五十</num>名<pc>，</pc>專充開撩沙浦<pc>，</pc>不得雜役<pc>，</pc>仍從本府起立營屋居之<pc>。</pc>
+<quote>募人自西興至大江<pc>，</pc>疏沙河<num value="20">二十</num>裏<pc>，</pc>並浚閘裏運河<num value="13">十三</num>裏<pc>，</pc>通使綱運<pc>，</pc>民旅皆利<pc>。</pc>複恐潮水不定<pc>，</pc>複有填淤<pc>，</pc>且通江<num value="6">六</num>堰<pc>，</pc>綱運至多<pc>，</pc>宜差注指使<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>專以'開撩西興沙河'系銜<pc>，</pc>及發捍江兵士<num value="50">五十</num>名<pc>，</pc>專充開撩沙浦<pc>，</pc>不得雜役<pc>，</pc>仍從本府起立營屋居之<pc>。</pc>
 </quote>
 <pc>」</pc>
 </p>
@@ -516,7 +536,11 @@
 <num value="6">六</num>年</measure>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
-<pc>，</pc>又命兩浙運副劉敏士<pc>、</pc>浙西提舉芮輝於新涇塘置閘堰<pc>，</pc>以捍海潮<pc>；</pc>楊家港東開河置閘<pc>，</pc>通行鹽船<pc>。</pc>仍差閘官<num value="1">一</num>人<pc>，</pc>兵級<num value="15">十五</num>人<pc>，</pc>以時啟閉挑撩<pc>。</pc>
+<pc>，</pc>又命兩浙運副劉敏士<pc>、</pc>浙西提舉芮輝於新涇塘置閘堰<pc>，</pc>以捍海潮<pc>；</pc>楊家港東開河置閘<pc>，</pc>通行鹽船<pc>。</pc>仍差閘官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>兵級<measure quantity="15" unit="people">
+<num value="15">十五</num>人</measure>
+<pc>，</pc>以時啟閉挑撩<pc>。</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <pc>，</pc>又以兩折轉運司並常州守臣言<pc>，</pc>填築<num value="5">五</num>瀉上<pc>、</pc>下兩閘<pc>，</pc>及修築閘裏堤岸<pc>。</pc>仍于郭瀆港口舜郎廟側水聚會處<pc>，</pc>築捺硬壩<pc>，</pc>以防走泄運水<pc>。</pc>委無錫知縣主掌鑰匣<pc>，</pc>遇水深<num value="6">六</num>尺<pc>，</pc>方許開閘<pc>，</pc>通放客舟<pc>。</pc>
@@ -681,7 +705,9 @@
 <div>
 <p>　　<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<pc>，</pc>又命華亭縣作監閘官<pc>，</pc>招收土軍<num value="50">五十</num>人<pc>，</pc>巡邏堤堰<pc>，</pc>專<num value="1">一</num>禁戢<pc>，</pc>將卑薄處時加修捺<pc>。</pc>令知縣<pc>、</pc>縣尉並帶'主管堰事'<pc>，</pc>則上下協心<pc>，</pc>不致廢壞<pc>。</pc>
+<pc>，</pc>又命華亭縣作監閘官<pc>，</pc>招收土軍<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>，</pc>巡邏堤堰<pc>，</pc>專<num value="1">一</num>禁戢<pc>，</pc>將卑薄處時加修捺<pc>。</pc>令知縣<pc>、</pc>縣尉並帶'主管堰事'<pc>，</pc>則上下協心<pc>，</pc>不致廢壞<pc>。</pc>
 </p>
 </div>
 <div>
@@ -768,7 +794,9 @@
 <div>
 <p>　　廣西水<pc>：</pc>靈渠源即離水<pc>，</pc>在桂州興安縣之北<pc>，</pc>經縣郭而南<pc>。</pc>其初乃秦史祿所鑿<pc>，</pc>以下兵于南越者<pc>。</pc>至漢<pc>，</pc>歸義侯嚴出零陵離水<pc>，</pc>即此渠也<pc>；</pc>馬伏波南征之師<pc>，</pc>饟道亦出於此<pc>。</pc>唐寶曆初<pc>，</pc>觀察使李渤立斗門以通漕舟<pc>。</pc>宋初<pc>，</pc>計使邊翊始修之<pc>。</pc>嘉祐<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>提刑李師中領河渠事重辟<pc>，</pc>發近縣夫<num value="400">千四百</num>人<pc>，</pc>作<measure quantity="34" unit="days">
+<pc>，</pc>提刑李師中領河渠事重辟<pc>，</pc>發近縣夫<measure quantity="400" unit="people">
+<num value="400">千四百</num>人</measure>
+<pc>，</pc>作<measure quantity="34" unit="days">
 <num value="34">三十四</num>日</measure>
 <pc>，</pc>乃成<pc>。</pc>
 </p>

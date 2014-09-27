@@ -23,10 +23,12 @@
 <text>
 <body>
 <div type="chapter" n="127">
+<name key="null" type="null">
 <div>
 <p>◎樂<num value="2">二</num>
 </p>
 </div>
+</name>
 <div>
 <p>景祐<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
@@ -113,8 +115,11 @@
 <pc>“</pc>李照新樂比舊樂下<num value="3">三</num>律<pc>，</pc>眾論以為無所考據<pc>。</pc>願如琦請<pc>，</pc>郊廟複用和峴所定舊樂<pc>，</pc>鍾磬不經鐫磨者猶存<num value="3">三</num>縣奇<num value="7">七</num>虡<pc>，</pc>郊廟<pc>、</pc>殿庭可以更用<pc>。</pc>
 <pc>”</pc>太常亦言<pc>：</pc>
 <pc>“</pc>舊樂<pc>，</pc>宮縣用龍鳳散鼓<num value="4">四</num>麵<pc>，</pc>以應樂節<pc>，</pc>李照廢而不用<pc>，</pc>止以晉鼓<num value="1">一</num>麵應節<pc>。</pc>舊樂<pc>，</pc>建鼓<num value="4">四</num>
-<pc>，</pc>並鞞<pc>、</pc>應共<num value="12">十二</num>麵<pc>，</pc>備而不擊<pc>，</pc>李照以<num value="4">四</num>隅建鼓與鎛鍾相應擊之<pc>。</pc>舊樂<pc>，</pc>雷鼓兩架各<num value="8">八</num>麵<pc>，</pc>止用<num value="1">一</num>人考擊<pc>，</pc>李照別造雷鼓<pc>，</pc>每麵各用<num value="1">一</num>人椎鼓<pc>，</pc>順天左旋<pc>，</pc>
-<num value="3">三</num>步<num value="1">一</num>止<pc>，</pc>又令<num value="2">二</num>人搖鞉以應之<pc>。</pc>又所造大竽<pc>、</pc>大笙<pc>、</pc>雙鳳管<pc>、</pc>兩儀琴<pc>、</pc>
+<pc>，</pc>並鞞<pc>、</pc>應共<num value="12">十二</num>麵<pc>，</pc>備而不擊<pc>，</pc>李照以<num value="4">四</num>隅建鼓與鎛鍾相應擊之<pc>。</pc>舊樂<pc>，</pc>雷鼓兩架各<num value="8">八</num>麵<pc>，</pc>止用<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>考擊<pc>，</pc>李照別造雷鼓<pc>，</pc>每麵各用<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>椎鼓<pc>，</pc>順天左旋<pc>，</pc>
+<num value="3">三</num>步<num value="1">一</num>止<pc>，</pc>又令<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>搖鞉以應之<pc>。</pc>又所造大竽<pc>、</pc>大笙<pc>、</pc>雙鳳管<pc>、</pc>兩儀琴<pc>、</pc>
 <num value="12">十二</num>弦琴並行<pc>。</pc>今既複用舊樂<pc>，</pc>未審照所作樂器製度<pc>，</pc>合改與否<pc>？</pc>
 <pc>”</pc>詔<pc>：</pc>
 <pc>“</pc>悉仍舊製<pc>，</pc>其李照所作<pc>，</pc>勿複施用<pc>。</pc>
@@ -286,7 +291,7 @@
 <pc>“</pc>明堂酌獻<num value="5">五</num>帝<pc>《</pc>
 <title>精安之曲</title>
 <pc>》</pc>
-<pc>，</pc>並用黃鍾<num value="1">一</num>均聲<pc>，</pc>此乃<date>國朝</date>常祀<pc>、</pc>
+<pc>，</pc>並用黃鍾<num value="1">一</num>均聲<pc>，</pc>此乃<date when="null">國朝</date>常祀<pc>、</pc>
 <num value="5">五</num>時迎氣所用舊法<pc>，</pc>若於親行大饗<pc>，</pc>即所未安<pc>。</pc>且明堂之位<pc>，</pc>木室在寅<pc>，</pc>火室在巳<pc>，</pc>金室在申<pc>，</pc>水室在亥<pc>，</pc>蓋木<pc>、</pc>火<pc>、</pc>金<pc>、</pc>水之始也<pc>；</pc>土室在西南<pc>，</pc>蓋土王之次也<pc>。</pc>既皆用<num value="5">五</num>行本始所王之次<pc>，</pc>則獻神之樂亦當用<num value="5">五</num>行本始月律<pc>，</pc>各從其音以為曲<pc>。</pc>其<pc>《</pc>
 <title>精安</title>
 <pc>》</pc>
@@ -341,7 +346,7 @@
 <num value="7">七</num>州</measure>軍采磬石<pc>，</pc>仍令諸路轉運司訪民間有藏古尺律者上之<pc>。</pc>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
-<pc>，</pc>詔兩製及禮官參稽典製<pc>，</pc>議定<date>國朝</date>大樂名<pc>，</pc>中書門下審加詳閱以聞<pc>。</pc>初<pc>，</pc>胡瑗請太祖廟舞用幹戚<pc>，</pc>太宗廟兼用幹<pc>、</pc>羽<pc>，</pc>真宗廟用羽<pc>、</pc>龠<pc>，</pc>以象<num value="3">三</num>聖功德<pc>。</pc>然議者謂<date>國朝</date>
+<pc>，</pc>詔兩製及禮官參稽典製<pc>，</pc>議定<date when="null">國朝</date>大樂名<pc>，</pc>中書門下審加詳閱以聞<pc>。</pc>初<pc>，</pc>胡瑗請太祖廟舞用幹戚<pc>，</pc>太宗廟兼用幹<pc>、</pc>羽<pc>，</pc>真宗廟用羽<pc>、</pc>龠<pc>，</pc>以象<num value="3">三</num>聖功德<pc>。</pc>然議者謂<date when="null">國朝</date>
 <num value="7">七</num>廟之舞<pc>，</pc>名雖不同<pc>，</pc>而幹<pc>、</pc>羽並用<pc>，</pc>又廟製與古異<pc>。</pc>及瑗建言<pc>，</pc>止降詔定樂名而已<pc>。</pc>
 </p>
 </div>
@@ -354,7 +359,7 @@
 <num value="4">四</num>時之祀<pc>，</pc>樂章凡<num value="89">八十九</num>曲<pc>，</pc>自<pc>《</pc>
 <title>景安</title>
 <pc>》</pc>而下<num value="75">七十五</num>章<pc>，</pc>率以‘安’名曲<pc>，</pc>豈特本道德<pc>、</pc>政教嘉靖之美<pc>，</pc>亦緣神靈<pc>、</pc>祖考安樂之故<pc>。</pc>臣等謹上議<pc>，</pc>
-<date>國朝</date>樂宜名<pc>《</pc>
+<date when="null">國朝</date>樂宜名<pc>《</pc>
 <title>大安</title>
 <pc>》</pc>
 <pc>。</pc>
@@ -593,7 +598,7 @@
 <pc>《</pc>
 <title>傳</title>
 <pc>》</pc>稱祭天以禋為歆神之始<pc>，</pc>以血為陳饌之始<pc>；</pc>祭地以埋為歆神之始<pc>，</pc>以血為陳饌之始<pc>。</pc>宗廟以灌為歆神之始<pc>，</pc>以腥為陳饒之始<pc>。</pc>然則天地<pc>、</pc>宗廟皆以樂為致神之始<pc>，</pc>故曰大祭有<num value="3">三</num>始<pc>，</pc>謂此也<pc>。</pc>天地之間虛豁而不見其形者<pc>，</pc>陽也<pc>。</pc>鬼神居天地之間<pc>，</pc>不可以人道接也<pc>。</pc>聲屬於陽<pc>，</pc>故樂之音聲號呼召於天地之間<pc>，</pc>庶幾神明聞之<pc>，</pc>因而來格<pc>，</pc>故祭必求諸陽<pc>。</pc>商人之祭<pc>，</pc>先奏樂以求神<pc>，</pc>先求於陽也<pc>；</pc>次灌地求神於陰<pc>，</pc>達於淵泉也<pc>。</pc>周人尚臭<pc>，</pc>
-<num value="4">四</num>時之祭<pc>，</pc>先灌地以求神<pc>，</pc>先求諸陰也<pc>。</pc>然則天神<pc>、</pc>地祇<pc>、</pc>人鬼之祀不可去樂明矣<pc>。</pc>今<num value="7">七</num>廟連室<pc>，</pc>難分廟忌之尊卑<pc>，</pc>欲依唐製及<date>國朝</date>故事<pc>：</pc>廟祭與忌同日<pc>，</pc>並縣而不作<pc>；</pc>其與別廟諸後忌同者<pc>，</pc>作之<pc>；</pc>若祠天地<pc>、</pc>日月<pc>、</pc>
+<num value="4">四</num>時之祭<pc>，</pc>先灌地以求神<pc>，</pc>先求諸陰也<pc>。</pc>然則天神<pc>、</pc>地祇<pc>、</pc>人鬼之祀不可去樂明矣<pc>。</pc>今<num value="7">七</num>廟連室<pc>，</pc>難分廟忌之尊卑<pc>，</pc>欲依唐製及<date when="null">國朝</date>故事<pc>：</pc>廟祭與忌同日<pc>，</pc>並縣而不作<pc>；</pc>其與別廟諸後忌同者<pc>，</pc>作之<pc>；</pc>若祠天地<pc>、</pc>日月<pc>、</pc>
 <num value="9">九</num>宮<pc>、</pc>太<num value="1">一</num>及蠟<num value="100">百</num>神<pc>，</pc>並請作樂<pc>；</pc>社稷以下諸祠既卑於廟<pc>，</pc>則樂可不作<pc>。</pc>
 <pc>”</pc>翰林學士王珪等以為<pc>：</pc>
 <pc>“</pc>社稷<pc>，</pc>國之所尊<pc>，</pc>其祠日若與別廟諸後忌同者<pc>，</pc>伏請亦不去樂<pc>。</pc>
@@ -629,7 +634,9 @@
 <title>天下大定之舞</title>
 <pc>》</pc>象征伐<pc>，</pc>柔毅舒急不侔<pc>，</pc>而所法所習亦異<pc>，</pc>不當中易也<pc>。</pc>竊惟天神皆降<pc>，</pc>地祇皆出<pc>，</pc>
 <num value="8">八</num>音克諧<pc>，</pc>祖考來格<pc>，</pc>天子親執珪幣<pc>，</pc>‘相維辟公’<pc>，</pc>‘嚴恭寅畏’<pc>，</pc>可謂極矣<pc>。</pc>而舞者紛然縱橫於下<pc>，</pc>進退取舍<pc>，</pc>蹙迫如是<pc>，</pc>豈明有德<pc>、</pc>象有功之誼哉<pc>？</pc>國家<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>而躬<num value="1">一</num>郊<pc>，</pc>同殿而享<num value="8">八</num>室<pc>，</pc>而舞者闕如<pc>，</pc>名曰<num value="2">二</num>舞<pc>，</pc>實<num value="1">一</num>舞也<pc>。</pc>且如大朝會所以宴臣下<pc>，</pc>而舞者備其數<pc>；</pc>郊廟所以事天地<pc>、</pc>祖考<pc>，</pc>而舞者減其半<pc>：</pc>殊未為稱<pc>。</pc>事有近而不可邇<pc>，</pc>禮有繁而不可省<pc>，</pc>所係者大<pc>，</pc>而有司之職不敢廢也<pc>。</pc>伏請南郊<pc>、</pc>太廟文武<num value="2">二</num>舞各用<num value="64">六十四</num>人<pc>，</pc>以備帝王之禮樂<pc>，</pc>以明祖宗之功德<pc>。</pc>
+<num value="3">三</num>年</measure>而躬<num value="1">一</num>郊<pc>，</pc>同殿而享<num value="8">八</num>室<pc>，</pc>而舞者闕如<pc>，</pc>名曰<num value="2">二</num>舞<pc>，</pc>實<num value="1">一</num>舞也<pc>。</pc>且如大朝會所以宴臣下<pc>，</pc>而舞者備其數<pc>；</pc>郊廟所以事天地<pc>、</pc>祖考<pc>，</pc>而舞者減其半<pc>：</pc>殊未為稱<pc>。</pc>事有近而不可邇<pc>，</pc>禮有繁而不可省<pc>，</pc>所係者大<pc>，</pc>而有司之職不敢廢也<pc>。</pc>伏請南郊<pc>、</pc>太廟文武<num value="2">二</num>舞各用<measure quantity="64" unit="people">
+<num value="64">六十四</num>人</measure>
+<pc>，</pc>以備帝王之禮樂<pc>，</pc>以明祖宗之功德<pc>。</pc>
 <pc>”</pc>奏可<pc>。</pc>
 </p>
 </div>
@@ -641,7 +648,7 @@
 <num value="8">八</num>月</measure>
 <pc>，</pc>學士院建言<pc>：</pc>
 <pc>“</pc>
-<date>國朝</date>宗廟之樂<pc>，</pc>各以功德名舞<pc>。</pc>洪惟英宗<pc>，</pc>繼天遵業<pc>，</pc>欽明勤儉<pc>，</pc>不自暇逸<pc>。</pc>踐祚未幾<pc>，</pc>而恩行威立<pc>，</pc>固已超軼<num value="100">百</num>王之上<pc>。</pc>今厚陵複土<pc>，</pc>祔廟有期<pc>，</pc>而樂名未立<pc>，</pc>亡以詔<num value="10000">萬</num>世<pc>。</pc>請上樂章及名廟所用舞曰<pc>《</pc>
+<date when="null">國朝</date>宗廟之樂<pc>，</pc>各以功德名舞<pc>。</pc>洪惟英宗<pc>，</pc>繼天遵業<pc>，</pc>欽明勤儉<pc>，</pc>不自暇逸<pc>。</pc>踐祚未幾<pc>，</pc>而恩行威立<pc>，</pc>固已超軼<num value="100">百</num>王之上<pc>。</pc>今厚陵複土<pc>，</pc>祔廟有期<pc>，</pc>而樂名未立<pc>，</pc>亡以詔<num value="10000">萬</num>世<pc>。</pc>請上樂章及名廟所用舞曰<pc>《</pc>
 <title>大英</title>
 <pc>》</pc>之舞<pc>。</pc>自後禮官<pc>、</pc>禦史有所建明<pc>，</pc>而詳定朝會及郊廟禮文官於樂節有議論<pc>，</pc>率以時考正之<pc>。</pc>
 <pc>”</pc>
@@ -761,8 +768,14 @@
 <div>
 <p>其<num value="5">五</num>
 <pc>、</pc>古之鄉射禮<pc>，</pc>
-<num value="3">三</num>笙<num value="1">一</num>和而成聲<pc>，</pc>謂<num value="3">三</num>人吹笙<pc>，</pc>
-<num value="1">一</num>人吹和<pc>。</pc>今朝會作樂<pc>，</pc>丹墀之上<pc>，</pc>巢笙<pc>、</pc>和笙各<num value="2">二</num>人<pc>，</pc>其數相敵<pc>，</pc>非也<pc>。</pc>蓋鄉射乃列國大夫<pc>、</pc>士之禮<pc>，</pc>請增倍為<num value="8">八</num>人<pc>，</pc>丹墀東西各<num value="3">三</num>巢<num value="1">一</num>和<pc>。</pc>
+<num value="3">三</num>笙<num value="1">一</num>和而成聲<pc>，</pc>謂<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>吹笙<pc>，</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>吹和<pc>。</pc>今朝會作樂<pc>，</pc>丹墀之上<pc>，</pc>巢笙<pc>、</pc>和笙各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>其數相敵<pc>，</pc>非也<pc>。</pc>蓋鄉射乃列國大夫<pc>、</pc>士之禮<pc>，</pc>請增倍為<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>丹墀東西各<num value="3">三</num>巢<num value="1">一</num>和<pc>。</pc>
 </p>
 </div>
 <div>
@@ -792,22 +805,37 @@
 </div>
 <div>
 <p>其<num value="10">十</num>
-<pc>、</pc>古者歌工之數<pc>：</pc>大射工<num value="6">六</num>人<pc>，</pc>
-<num value="4">四</num>瑟<pc>，</pc>則是諸侯鼓瑟以<num value="4">四</num>人<pc>，</pc>歌以<num value="2">二</num>人<pc>；</pc>天子<num value="8">八</num>人<pc>，</pc>則瑟與歌皆<num value="4">四</num>人矣<pc>。</pc>魏<pc>、</pc>晉以來<pc>，</pc>登歌<num value="5">五</num>人<pc>，</pc>隋<pc>、</pc>唐<num value="4">四</num>人<pc>，</pc>本朝因之<pc>，</pc>是循用周製也<pc>。</pc>
+<pc>、</pc>古者歌工之數<pc>：</pc>大射工<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>
+<num value="4">四</num>瑟<pc>，</pc>則是諸侯鼓瑟以<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>歌以<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>；</pc>天子<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>則瑟與歌皆<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>矣<pc>。</pc>魏<pc>、</pc>晉以來<pc>，</pc>登歌<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>，</pc>隋<pc>、</pc>唐<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>本朝因之<pc>，</pc>是循用周製也<pc>。</pc>
 <pc>《</pc>
 <title>禮</title>
 <pc>》</pc>
 <pc>“</pc>登歌下管<pc>”</pc>
 <pc>，</pc>貴人聲也<pc>，</pc>故<pc>《</pc>
 <title>儀禮</title>
-<pc>》</pc>瑟與歌工皆席於西階上<pc>。</pc>隋<pc>、</pc>唐相承<pc>，</pc>庭中磬虡之下<pc>，</pc>係以偶歌琴瑟<pc>，</pc>非所謂升歌貴人聲之義<pc>。</pc>今堂上琴瑟<pc>，</pc>比之周製<pc>，</pc>不啻倍蓰<pc>，</pc>而歌工止<num value="4">四</num>人<pc>，</pc>音高下不相權<pc>。</pc>蓋樂有<num value="8">八</num>音<pc>，</pc>所以行<num value="8">八</num>風<pc>，</pc>是以舞佾與鍾磬俱用<num value="8">八</num>為數<pc>。</pc>請罷庭中歌者<pc>，</pc>堂上歌為<num value="8">八</num>
+<pc>》</pc>瑟與歌工皆席於西階上<pc>。</pc>隋<pc>、</pc>唐相承<pc>，</pc>庭中磬虡之下<pc>，</pc>係以偶歌琴瑟<pc>，</pc>非所謂升歌貴人聲之義<pc>。</pc>今堂上琴瑟<pc>，</pc>比之周製<pc>，</pc>不啻倍蓰<pc>，</pc>而歌工止<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>音高下不相權<pc>。</pc>蓋樂有<num value="8">八</num>音<pc>，</pc>所以行<num value="8">八</num>風<pc>，</pc>是以舞佾與鍾磬俱用<num value="8">八</num>為數<pc>。</pc>請罷庭中歌者<pc>，</pc>堂上歌為<num value="8">八</num>
 <pc>，</pc>琴瑟之數放此<pc>，</pc>其箏<pc>、</pc>阮<pc>、</pc>築悉廢<pc>。</pc>
 </p>
 </div>
 <div>
 <p>太常以謂<pc>：</pc>
 <pc>“</pc>堂上鍾磬去之<pc>，</pc>則歌聲與宮縣遠<pc>。</pc>漢<pc>、</pc>
-<date>唐</date>以來<pc>，</pc>宮室之製浸廣<pc>，</pc>堂上益遠庭中<pc>，</pc>其上下樂節苟不相應<pc>，</pc>則繁亂而無序<pc>。</pc>況朝會之禮<pc>，</pc>起於西漢<pc>，</pc>則後世難以純用<num value="3">三</num>代之製<pc>。</pc>其堂上鍾磬<pc>、</pc>庭中歌工與箏<pc>、</pc>築之器<pc>，</pc>從舊儀便<pc>。</pc>
+<date when="null">唐</date>以來<pc>，</pc>宮室之製浸廣<pc>，</pc>堂上益遠庭中<pc>，</pc>其上下樂節苟不相應<pc>，</pc>則繁亂而無序<pc>。</pc>況朝會之禮<pc>，</pc>起於西漢<pc>，</pc>則後世難以純用<num value="3">三</num>代之製<pc>。</pc>其堂上鍾磬<pc>、</pc>庭中歌工與箏<pc>、</pc>築之器<pc>，</pc>從舊儀便<pc>。</pc>
 <pc>”</pc>遂如太常議<pc>。</pc>
 </p>
 </div>

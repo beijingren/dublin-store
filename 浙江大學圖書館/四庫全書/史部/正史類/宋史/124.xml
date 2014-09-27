@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="124">
 <div>
-<p>◎禮<num value="27">二十七</num>
-<pc>（</pc>凶禮<num value="3">三</num>
+<p>
+<name key="null" type="null">◎禮二</name>十七<pc>（</pc>凶禮<num value="3">三</num>
 <pc>）</pc>○外國喪禮及入吊儀諸臣喪葬等儀</p>
 </div>
 <div>
@@ -207,9 +207,12 @@
 </div>
 <div>
 <p>其儀<pc>：</pc>乘輿自內出<pc>，</pc>
-<num value="1000">千</num>牛將軍<num value="4">四</num>人執戈<pc>，</pc>
-<num value="1">一</num>人執桃<pc>，</pc>
-<num value="1">一</num>人執茢<pc>，</pc>前導<pc>。</pc>車駕將至所幸之第<pc>，</pc>讚禮者引喪主哭於大門內<pc>，</pc>望見乘輿<pc>，</pc>止哭<pc>，</pc>再拜<pc>，</pc>立於庭<pc>。</pc>皇帝至幕殿<pc>，</pc>改素服就臨<pc>，</pc>喪主內外再拜<pc>。</pc>皇帝哭<pc>，</pc>
+<num value="1000">千</num>牛將軍<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>執戈<pc>，</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>執桃<pc>，</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>執茢<pc>，</pc>前導<pc>。</pc>車駕將至所幸之第<pc>，</pc>讚禮者引喪主哭於大門內<pc>，</pc>望見乘輿<pc>，</pc>止哭<pc>，</pc>再拜<pc>，</pc>立於庭<pc>。</pc>皇帝至幕殿<pc>，</pc>改素服就臨<pc>，</pc>喪主內外再拜<pc>。</pc>皇帝哭<pc>，</pc>
 <num value="15">十五</num>舉音<pc>，</pc>喪主內外皆哭<pc>。</pc>皇帝詣祭所<num value="3">三</num>奠酒<pc>，</pc>喪主已下再拜<pc>。</pc>皇帝退<pc>，</pc>止 哭<pc>。</pc>從官進名奉慰<pc>。</pc>皇帝改常服還內<pc>。</pc>
 </p>
 </div>
@@ -317,7 +320,7 @@
 <p>建隆<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>山南東道<term>節度使</term>慕容延釗卒<pc>，</pc>太祖素服發哀<pc>。</pc>其後趙普薨<pc>，</pc>太宗亦如之<pc>。</pc>景德元年<pc>，</pc>李沆薨<pc>，</pc>禮官言<pc>：</pc>
-<pc>“</pc>舉哀品秩<pc>，</pc>雖載禮典<pc>，</pc>伏緣<date>國朝</date>惟趙普<pc>、</pc>曹彬曾行茲禮<pc>，</pc>今望裁自聖恩<pc>。</pc>
+<pc>“</pc>舉哀品秩<pc>，</pc>雖載禮典<pc>，</pc>伏緣<date when="null">國朝</date>惟趙普<pc>、</pc>曹彬曾行茲禮<pc>，</pc>今望裁自聖恩<pc>。</pc>
 <pc>”</pc>詔特擇日舉哀<pc>。</pc>自後<term>宰臣</term>薨<pc>，</pc>皆用此禮<pc>。</pc>
 </p>
 </div>
@@ -416,7 +419,8 @@
 <measure quantity="17" unit="days">
 <num value="17">十七</num>日</measure>春宴<pc>，</pc>禮院上言<pc>：</pc>
 <pc>“</pc>君臣父子<pc>，</pc>家國均同<pc>。</pc>元首股 肱<pc>，</pc>相濟成體<pc>。</pc>貴賤雖異<pc>，</pc>哀樂則同<pc>。</pc>
-<num value="1">一</num>人向隅<pc>，</pc>滿堂嗟戚<pc>。</pc>今<term>宰臣</term>新在苫塊<pc>，</pc>欲乞罷春宴聲樂<pc>，</pc>以表聖人憂恤大臣之意<pc>。</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>向隅<pc>，</pc>滿堂嗟戚<pc>。</pc>今<term>宰臣</term>新在苫塊<pc>，</pc>欲乞罷春宴聲樂<pc>，</pc>以表聖人憂恤大臣之意<pc>。</pc>
 <pc>”</pc>詔下<pc>，</pc>並春宴寢罷<pc>。</pc>
 </p>
 </div>
@@ -507,17 +511,27 @@
 <num value="3">三</num>品已上<num value="4">四</num>引<pc>、</pc>
 <num value="4">四</num>披<pc>、</pc>
 <num value="6">六</num>鐸<pc>、</pc>
-<num value="6">六</num>翣<pc>、</pc>挽歌<num value="6">六</num>行<num value="36">三十六</num>人<pc>；</pc>
+<num value="6">六</num>翣<pc>、</pc>挽歌<num value="6">六</num>行<measure quantity="36" unit="people">
+<num value="36">三十六</num>人</measure>
+<pc>；</pc>
 <num value="4">四</num>品<num value="2">二</num>引<pc>、</pc>
 <num value="2">二</num>披<pc>、</pc>
 <num value="4">四</num>鐸<pc>、</pc>
-<num value="4">四</num>翣<pc>、</pc>挽歌者<num value="4">四</num>行<num value="16">十六</num>人<pc>；</pc>
+<num value="4">四</num>翣<pc>、</pc>挽歌者<num value="4">四</num>行<measure quantity="16" unit="people">
+<num value="16">十六</num>人</measure>
+<pc>；</pc>
 <num value="5">五</num>品<pc>、</pc>
-<num value="6">六</num>品挽歌<num value="8">八</num>人<pc>；</pc>
+<num value="6">六</num>品挽歌<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>；</pc>
 <num value="7">七</num>品<pc>、</pc>
-<num value="8">八</num>品挽歌<num value="6">六</num>人<pc>；</pc>
+<num value="8">八</num>品挽歌<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>；</pc>
 <num value="6">六</num>品<pc>、</pc>
-<num value="9">九</num>品<pc>（</pc>謂非升朝者<pc>）</pc>挽歌<num value="4">四</num>人<pc>。</pc>其持引<pc>、</pc>披者<pc>，</pc>皆布 幘<pc>、</pc>布深衣<pc>；</pc>挽歌<pc>，</pc>白練幘<pc>、</pc>白練褠衣<pc>，</pc>皆執鐸<pc>、</pc>綍<pc>，</pc>並鞋襪<pc>。</pc>諸<num value="4">四</num>品已上用方相<pc>，</pc>
+<num value="9">九</num>品<pc>（</pc>謂非升朝者<pc>）</pc>挽歌<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>其持引<pc>、</pc>披者<pc>，</pc>皆布 幘<pc>、</pc>布深衣<pc>；</pc>挽歌<pc>，</pc>白練幘<pc>、</pc>白練褠衣<pc>，</pc>皆執鐸<pc>、</pc>綍<pc>，</pc>並鞋襪<pc>。</pc>諸<num value="4">四</num>品已上用方相<pc>，</pc>
 <num value="7">七</num>品已上用魌頭<pc>。</pc>諸纛<pc>：</pc>
 <num value="5">五</num>品已上<pc>，</pc>其竿長<num value="9">九</num>尺<pc>；</pc>已下<num value="5">五</num>尺已上<pc>。</pc>諸葬不得以石 為棺槨及石室<pc>，</pc>其棺槨皆不得雕鏤彩畫<pc>、</pc>施方牖檻<pc>，</pc>棺內不得藏金寶珠玉<pc>。</pc>
 </p>
@@ -530,7 +544,9 @@
 <pc>；</pc>挽歌<num value="16">十六</num>
 <pc>。</pc>其明器<pc>、</pc>床帳<pc>、</pc>衣輿<pc>、</pc>結彩床皆不 定數<pc>。</pc>墳所有石羊虎<pc>、</pc>望柱各<num value="2">二</num>
 <pc>，</pc>
-<num value="3">三</num>品以上加石人<num value="2">二</num>人<pc>。</pc>入墳有當壙<pc>、</pc>當野<pc>、</pc>祖思<pc>、</pc>祖明<pc>、</pc>地軸<pc>、</pc>
+<num value="3">三</num>品以上加石人<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>入墳有當壙<pc>、</pc>當野<pc>、</pc>祖思<pc>、</pc>祖明<pc>、</pc>地軸<pc>、</pc>
 <num value="12">十二</num>時神<pc>、</pc>誌石<pc>、</pc>券石<pc>、</pc>鐵券各<num value="1">一</num>
 <pc>。</pc>殯前<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>對靈柩<pc>，</pc>及至墳所下 事時<pc>，</pc>皆設敕祭<pc>，</pc>監葬官行禮<pc>。</pc>熙寧初<pc>，</pc>又著新式<pc>，</pc>頒於有司<pc>。</pc>
@@ -541,13 +557,19 @@
 <num value="3">三</num>年</measure>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
-<pc>，</pc>中書令<pc>、</pc>秦國公孟昶薨<pc>，</pc>其母<persName>李</persName>氏繼亡<pc>，</pc>命鴻臚範禹偁監護喪事<pc>，</pc>仍詔 禮官議定吉凶儀仗禮例以聞<pc>。</pc>太常禮院言<pc>：</pc>
+<pc>，</pc>中書令<pc>、</pc>秦國公孟昶薨<pc>，</pc>其母<name key="null" type="maternal">
+<persName>李</persName>
+</name>氏繼亡<pc>，</pc>命鴻臚範禹偁監護喪事<pc>，</pc>仍詔 禮官議定吉凶儀仗禮例以聞<pc>。</pc>太常禮院言<pc>：</pc>
 <pc>“</pc>檢詳故事<pc>，</pc>晉天福<measure quantity="12" unit="years">
 <num value="12">十二</num>年</measure>葬故魏王<pc>，</pc>周廣順元年葬故樞密使楊邠<pc>、</pc>侍衛使史弘肇<pc>、</pc>
-<num value="3">三</num>司使王章例<pc>，</pc>並用<num value="1">一</num>品禮<pc>。</pc>墓方圓<num value="90">九十</num>步<pc>，</pc>墳高<num value="1">一</num>丈<num value="8">八</num>尺<pc>，</pc>明器<num value="90">九十</num>事<pc>，</pc>石作<num value="6">六</num>事<pc>，</pc>音身隊<num value="20">二十</num>人<pc>，</pc>當壙<pc>、</pc>當野<pc>、</pc>祖明<pc>、</pc>祖思<pc>、</pc>地軸<pc>、</pc>
+<num value="3">三</num>司使王章例<pc>，</pc>並用<num value="1">一</num>品禮<pc>。</pc>墓方圓<num value="90">九十</num>步<pc>，</pc>墳高<num value="1">一</num>丈<num value="8">八</num>尺<pc>，</pc>明器<num value="90">九十</num>事<pc>，</pc>石作<num value="6">六</num>事<pc>，</pc>音身隊<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>當壙<pc>、</pc>當野<pc>、</pc>祖明<pc>、</pc>祖思<pc>、</pc>地軸<pc>、</pc>
 <num value="12">十二</num>時神<pc>、</pc>蚊廚帳<pc>、</pc>暖帳各<num value="1">一</num>
 <pc>，</pc>需車<num value="1">一</num>
-<pc>，</pc>挽歌<num value="36">三十六</num>人<pc>；</pc>拂<num value="1">一</num>
+<pc>，</pc>挽歌<measure quantity="36" unit="people">
+<num value="36">三十六</num>人</measure>
+<pc>；</pc>拂<num value="1">一</num>
 <pc>、</pc>纛<num value="1">一</num>
 <pc>、</pc>翣<num value="6">六</num>
 <pc>、</pc>盾車<pc>、</pc>魂車<pc>、</pc>儀槨車<pc>、</pc>買道車<pc>、</pc>誌石車各<num value="1">一</num>
@@ -558,7 +580,11 @@
 <pc>、</pc>朱漆團扇<num value="4">四</num>
 <pc>，</pc>自第導引出城<pc>，</pc>量遠近各還<pc>。</pc>贈玉<num value="1">一</num>
 <pc>、</pc>纁<num value="2">二</num>
-<pc>，</pc>贈祭少牢禮料<pc>，</pc>亦請下光祿<pc>、</pc>太府寺<pc>、</pc>少府監諸司依禮供應<pc>。</pc>又楚王母依子官<num value="1">一</num>品例<pc>，</pc>準令文<pc>，</pc>外命婦<num value="1">一</num>品侍近<num value="2">二</num>人<pc>、</pc>青衣<num value="6">六</num>人<pc>，</pc>偏扇<pc>、</pc>方扇各<num value="16">十六</num>
+<pc>，</pc>贈祭少牢禮料<pc>，</pc>亦請下光祿<pc>、</pc>太府寺<pc>、</pc>少府監諸司依禮供應<pc>。</pc>又楚王母依子官<num value="1">一</num>品例<pc>，</pc>準令文<pc>，</pc>外命婦<num value="1">一</num>品侍近<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>、</pc>青衣<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>偏扇<pc>、</pc>方扇各<num value="16">十六</num>
 <pc>，</pc>行鄣<num value="3">三</num>
 <pc>、</pc>坐鄣<num value="2">二</num>
 <pc>，</pc>白銅飾犢車駕牛馭人<num value="4">四</num>
@@ -635,7 +661,7 @@
 </div>
 <div>
 <p>
-<date>國朝</date>之製<pc>：</pc>有於私第冊之者<pc>，</pc>有於本道冊之者<pc>。</pc>私第冊之者<pc>，</pc>乾德<measure quantity="3" unit="years">
+<date when="null">國朝</date>之製<pc>：</pc>有於私第冊之者<pc>，</pc>有於本道冊之者<pc>。</pc>私第冊之者<pc>，</pc>乾德<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>正衙命使冊贈孟昶尚書令<pc>，</pc>追封楚王是也<pc>。</pc>本道冊者<pc>，</pc>建隆元年<pc>，</pc>故特進<pc>、</pc>檢校太師<pc>、</pc>南平王高保融奉敕贈太尉<pc>，</pc>端拱元年<pc>，</pc>故守太師<pc>、</pc>尚書令<pc>、</pc>鄧王錢俶特追封秦王是也<pc>。</pc>其儀與<pc>《</pc>
 <title>通禮</title>

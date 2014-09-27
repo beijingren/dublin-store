@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="494">
 <div>
-<p>◎蠻夷<num value="2">二</num>○西南溪峒諸蠻下梅山峒誠徽州南丹州</p>
+<p>
+<name key="null" type="null">◎蠻夷</name>
+<num value="2">二</num>○西南溪峒諸蠻下梅山峒誠徽州南丹州</p>
 </div>
 <div>
 <p>紹興<measure quantity="3" unit="years">
@@ -51,11 +53,23 @@
 <num value="6">六</num>年</measure>
 <pc>，</pc>知鼎州張觷言<pc>：</pc>
 <pc>“</pc>鼎<pc>、</pc>澧<pc>、</pc>辰<pc>、</pc>沅<pc>、</pc>靖州與溪峒接壤<pc>，</pc>祖宗時嚐置弓弩手<pc>，</pc>得其死力<pc>，</pc>比緣多故<pc>，</pc>遂皆廢闕<pc>。</pc>
-<num value="1">萬一</num>蠻夷生變<pc>，</pc>將誰與捍禦<pc>？</pc>今雖各出良田<pc>，</pc>募人以補其額<pc>，</pc>率皆豪強遣僮奴竄名籍中<pc>，</pc>乘時射利<pc>，</pc>無益公家<pc>，</pc>所宜汰去<pc>。</pc>則募溪峒司兵得<num value="300">三百</num>人<pc>，</pc>俾加習練<pc>，</pc>足為守禦<pc>，</pc>給田募人開墾<pc>，</pc>以供軍儲<pc>。</pc>
+<num value="1">萬一</num>蠻夷生變<pc>，</pc>將誰與捍禦<pc>？</pc>今雖各出良田<pc>，</pc>募人以補其額<pc>，</pc>率皆豪強遣僮奴竄名籍中<pc>，</pc>乘時射利<pc>，</pc>無益公家<pc>，</pc>所宜汰去<pc>。</pc>則募溪峒司兵得<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>，</pc>俾加習練<pc>，</pc>足為守禦<pc>，</pc>給田募人開墾<pc>，</pc>以供軍儲<pc>。</pc>
 <pc>”</pc>詔荊湖北路帥司相度以聞<pc>。</pc>帥司言<pc>：</pc>
 <pc>“</pc>營田<measure quantity="4" unit="prefectures">
-<num value="4">四</num>州</measure>舊置弓弩手<num value="9110">九千一百一十</num>人<pc>，</pc>練習武事<pc>，</pc>散居邊境<pc>，</pc>鎮撫蠻夷<pc>，</pc>平居則事耕作<pc>，</pc>緩急以備戰守<pc>，</pc>深為利便<pc>。</pc>靖康初<pc>，</pc>調發應援河東<pc>，</pc>全軍陷沒<pc>。</pc>今辰<pc>、</pc>沅<pc>、</pc>澧<pc>、</pc>靖等州乏兵防守<pc>，</pc>竊慮蠻夷生變叵測<pc>。</pc>若將<measure quantity="4" unit="prefectures">
-<num value="4">四</num>州</measure>弓弩手減元額<pc>，</pc>定為<num value="3500">三千五百</num>人<pc>，</pc>辰州置<num value="1000">千</num>人<pc>，</pc>沅州置<num value="500">千五百</num>人<pc>，</pc>澧州<pc>、</pc>靖州各置<num value="500">五百</num>人<pc>，</pc>分處要害<pc>，</pc>量給土田<pc>，</pc>訓練以時<pc>，</pc>耕戰合度<pc>，</pc>庶可備禦<pc>。</pc>以所餘閑田募人耕作<pc>，</pc>歲收其租<pc>，</pc>其於邊防財賦<pc>，</pc>兩得其便<pc>，</pc>可為經久之計<pc>。</pc>
+<num value="4">四</num>州</measure>舊置弓弩手<measure quantity="9110" unit="people">
+<num value="9110">九千一百一十</num>人</measure>
+<pc>，</pc>練習武事<pc>，</pc>散居邊境<pc>，</pc>鎮撫蠻夷<pc>，</pc>平居則事耕作<pc>，</pc>緩急以備戰守<pc>，</pc>深為利便<pc>。</pc>靖康初<pc>，</pc>調發應援河東<pc>，</pc>全軍陷沒<pc>。</pc>今辰<pc>、</pc>沅<pc>、</pc>澧<pc>、</pc>靖等州乏兵防守<pc>，</pc>竊慮蠻夷生變叵測<pc>。</pc>若將<measure quantity="4" unit="prefectures">
+<num value="4">四</num>州</measure>弓弩手減元額<pc>，</pc>定為<measure quantity="3500" unit="people">
+<num value="3500">三千五百</num>人</measure>
+<pc>，</pc>辰州置<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>沅州置<measure quantity="500" unit="people">
+<num value="500">千五百</num>人</measure>
+<pc>，</pc>澧州<pc>、</pc>靖州各置<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>
+<pc>，</pc>分處要害<pc>，</pc>量給土田<pc>，</pc>訓練以時<pc>，</pc>耕戰合度<pc>，</pc>庶可備禦<pc>。</pc>以所餘閑田募人耕作<pc>，</pc>歲收其租<pc>，</pc>其於邊防財賦<pc>，</pc>兩得其便<pc>，</pc>可為經久之計<pc>。</pc>
 <pc>”</pc>詔從之<pc>。</pc>
 </p>
 </div>
@@ -66,8 +80,10 @@
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <pc>，</pc>張觷言<pc>：</pc>
-<pc>“</pc>湖外自靖康以來<pc>，</pc>盜賊盤踞<pc>，</pc>鍾相<pc>、</pc>楊太山<pc>、</pc>雷德進等相繼叛<pc>，</pc>澧州所屬尤甚<pc>。</pc>獨慈利縣向思勝等<num value="5">五</num>人素號溪峒歸明<pc>，</pc>誓掌防拓<pc>，</pc>卒能保境息民<pc>，</pc>使德進賊黨無所剽掠<pc>，</pc>思勝後竟殺德進<pc>。</pc>會官軍招撫劉智等<pc>，</pc>而彭永健<pc>、</pc>彭永政<pc>、</pc>彭永全<pc>、</pc>彭永勝及思勝共獻糧助官軍<pc>，</pc>招複諸山<num value="40">四十</num>餘柵<pc>，</pc>宣力效忠功居多<pc>，</pc>宜加恩賞<pc>。</pc>
-<pc>”</pc>詔思勝等<num value="5">五</num>人各轉兩資<pc>。</pc>
+<pc>“</pc>湖外自靖康以來<pc>，</pc>盜賊盤踞<pc>，</pc>鍾相<pc>、</pc>楊太山<pc>、</pc>雷德進等相繼叛<pc>，</pc>澧州所屬尤甚<pc>。</pc>獨慈利縣向思勝等<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>素號溪峒歸明<pc>，</pc>誓掌防拓<pc>，</pc>卒能保境息民<pc>，</pc>使德進賊黨無所剽掠<pc>，</pc>思勝後竟殺德進<pc>。</pc>會官軍招撫劉智等<pc>，</pc>而彭永健<pc>、</pc>彭永政<pc>、</pc>彭永全<pc>、</pc>彭永勝及思勝共獻糧助官軍<pc>，</pc>招複諸山<num value="40">四十</num>餘柵<pc>，</pc>宣力效忠功居多<pc>，</pc>宜加恩賞<pc>。</pc>
+<pc>”</pc>詔思勝等<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>各轉兩資<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>詔荊湖<pc>、</pc>廣南路溪峒頭首土人內有子孫應襲職名差遣<pc>，</pc>及主管年滿合給恩賜之數<pc>，</pc>俾帥司取會核實以聞<pc>。</pc>
@@ -104,7 +120,9 @@
 <pc>”</pc>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<pc>，</pc>成忠郎充武岡軍綏寧縣管界都巡檢兼溪峒首領楊進京<pc>，</pc>率其族<num value="300">三百</num>人<pc>，</pc>備黃金<pc>、</pc>朱砂<pc>、</pc>方物求入貢<pc>，</pc>先遣其子孝友陳請<pc>。</pc>詔本路帥司閱舊製以聞<pc>，</pc>給孝友錢<num value="300">三百</num>貫<pc>，</pc>俾還聽進止<pc>。</pc>
+<pc>，</pc>成忠郎充武岡軍綏寧縣管界都巡檢兼溪峒首領楊進京<pc>，</pc>率其族<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>，</pc>備黃金<pc>、</pc>朱砂<pc>、</pc>方物求入貢<pc>，</pc>先遣其子孝友陳請<pc>。</pc>詔本路帥司閱舊製以聞<pc>，</pc>給孝友錢<num value="300">三百</num>貫<pc>，</pc>俾還聽進止<pc>。</pc>
 </p>
 </div>
 <div>
@@ -150,7 +168,9 @@
 <p>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>靖州界徭人姚明教等作亂<pc>，</pc>詔荊<pc>、</pc>鄂駐紮明椿選將率精銳<num value="1000">千</num>人<pc>，</pc>會屯戍官合擊之<pc>，</pc>能立功者有厚賞<pc>。</pc>
+<pc>，</pc>靖州界徭人姚明教等作亂<pc>，</pc>詔荊<pc>、</pc>鄂駐紮明椿選將率精銳<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>會屯戍官合擊之<pc>，</pc>能立功者有厚賞<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>詔平溪峒互市鹽米價<pc>，</pc>聽民便<pc>，</pc>毋相抑配<pc>，</pc>其徭人歲輸身丁米<pc>，</pc>務平收<pc>，</pc>無取羨餘及折輸錢<pc>，</pc>違者論罪<pc>。</pc>
@@ -178,7 +198,12 @@
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>盧陽西據獠楊添朝寇邊<pc>，</pc>知沅州孫叔傑調兵數<num value="1000">千</num>討之<pc>，</pc>敗績<pc>，</pc>死者<num value="66">十七八</num>
-<pc>。</pc>初<pc>，</pc>徭人與省戶交爭<pc>，</pc>殺<num value="2">二</num>人死<pc>，</pc>叔傑輒出兵破其<num value="13">十三</num>柵<pc>，</pc>奪還所侵地<pc>，</pc>於是徭人相結為亂<pc>。</pc>諸司請調常德府城兵<num value="300">三百</num>人<pc>，</pc>益官兵<num value="3000">三千</num>人<pc>，</pc>合擊討之<pc>。</pc>
+<pc>。</pc>初<pc>，</pc>徭人與省戶交爭<pc>，</pc>殺<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>死<pc>，</pc>叔傑輒出兵破其<num value="13">十三</num>柵<pc>，</pc>奪還所侵地<pc>，</pc>於是徭人相結為亂<pc>。</pc>諸司請調常德府城兵<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>，</pc>益官兵<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>
+<pc>，</pc>合擊討之<pc>。</pc>
 <term>宰臣</term>虞允文奏曰<pc>：</pc>
 <pc>“</pc>蠻夷為變<pc>，</pc>皆守臣貪功所致<pc>。</pc>今徭人仇視守臣<pc>，</pc>若更去叔傑<pc>，</pc>量遣官軍<pc>，</pc>示以兵威<pc>，</pc>徐與盟誓<pc>，</pc>自可平定<pc>。</pc>
 <pc>”</pc>帝允其奏<pc>，</pc>俾葉行代叔傑<pc>，</pc>開示恩信<pc>，</pc>諭以禍福<pc>，</pc>遂招降之<pc>，</pc>邊境悉平<pc>。</pc>前知武岡軍趙善穀言<pc>：</pc>
@@ -201,8 +226,12 @@
 <num value="20">二十</num>年</measure>
 <pc>，</pc>其地當沅<pc>、</pc>靖<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>水陸之衝<pc>，</pc>
-<num value="1">一</num>有蠻隙<pc>，</pc>則為害不細<pc>，</pc>臣謂宜預為之備<pc>。</pc>靖康前<pc>，</pc>辰州每歲蒙朝廷賜錢<num value="70000">七萬</num>貫<pc>，</pc><pc>、</pc>絹<pc>、</pc>布共<num value="8100">八千一百</num>匹<pc>，</pc>綿<num value="17000">一萬七千</num>兩<pc>。</pc>是時<pc>，</pc>本州廂禁軍<num value="1400">一千四百</num>餘人<pc>，</pc>沿邊<num value="16">一十六</num>砦<pc>，</pc>土兵<num value="600">六百</num>餘人<pc>，</pc>皆可贍給<pc>。</pc>其後中外多故<pc>，</pc>今歲賜止得<num value="12000">一萬二千</num>緡<pc>，</pc>而本州財複匱乏<pc>，</pc>無以充召募之費<pc>。</pc>禁軍止<num value="210">二百一十</num>餘人<pc>，</pc>諸砦土兵止<num value="105">一百五</num>人<pc>，</pc>甚至砦官有全無<num value="1">一</num>兵而徒存虛名者<pc>，</pc>其於邊防豈可不為深慮<pc>？</pc>若歲增給民錢<num value="10000">一萬</num>
-<pc>，</pc>俾本州募強壯禁軍或效用<num value="200">二百</num>人<pc>，</pc>分屯盧溪等處<pc>，</pc>以防諸蠻<pc>，</pc>庶使邊患永消<pc>，</pc>可免異時調遣之費<pc>。</pc>
+<num value="1">一</num>有蠻隙<pc>，</pc>則為害不細<pc>，</pc>臣謂宜預為之備<pc>。</pc>靖康前<pc>，</pc>辰州每歲蒙朝廷賜錢<num value="70000">七萬</num>貫<pc>，</pc><pc>、</pc>絹<pc>、</pc>布共<num value="8100">八千一百</num>匹<pc>，</pc>綿<num value="17000">一萬七千</num>兩<pc>。</pc>是時<pc>，</pc>本州廂禁軍<num value="1400">一千四百</num>餘人<pc>，</pc>沿邊<num value="16">一十六</num>砦<pc>，</pc>土兵<num value="600">六百</num>餘人<pc>，</pc>皆可贍給<pc>。</pc>其後中外多故<pc>，</pc>今歲賜止得<num value="12000">一萬二千</num>緡<pc>，</pc>而本州財複匱乏<pc>，</pc>無以充召募之費<pc>。</pc>禁軍止<num value="210">二百一十</num>餘人<pc>，</pc>諸砦土兵止<measure quantity="105" unit="people">
+<num value="105">一百五</num>人</measure>
+<pc>，</pc>甚至砦官有全無<num value="1">一</num>兵而徒存虛名者<pc>，</pc>其於邊防豈可不為深慮<pc>？</pc>若歲增給民錢<num value="10000">一萬</num>
+<pc>，</pc>俾本州募強壯禁軍或效用<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>分屯盧溪等處<pc>，</pc>以防諸蠻<pc>，</pc>庶使邊患永消<pc>，</pc>可免異時調遣之費<pc>。</pc>
 <pc>”</pc>書奏<pc>，</pc>詔湖北帥臣詳議以聞<pc>。</pc>是年<pc>，</pc>申嚴邊民售田之禁<pc>，</pc>守令不能奉法者除名<pc>，</pc>部<term>刺史</term>常加糾察<pc>。</pc>
 </p>
 </div>
@@ -212,7 +241,11 @@
 <num value="8">八</num>年</measure>
 <pc>，</pc>知貴州陳乂上疏言<pc>：</pc>
 <pc>“</pc>臣前知靖州時<pc>，</pc>居蠻夷腹心<pc>，</pc>民不服役<pc>，</pc>田不輸賦<pc>，</pc>其地似若可棄<pc>。</pc>然為重湖<pc>、</pc>
-<num value="2">二</num>廣保障<pc>，</pc>實南服之要區也<pc>。</pc>或控製失宜<pc>，</pc>或金穀不繼<pc>，</pc>或兵甲少振<pc>，</pc>蠻獠則乘時竊發<pc>，</pc>勤勞王師<pc>，</pc>朝廷當重守臣之選<pc>。</pc>崇寧初戍兵<num value="3000">三千</num>人<pc>，</pc>建炎以來<pc>，</pc>每於都統司或帥司摘兵<num value="2000">二千</num>人<pc>，</pc>以備屯戍<pc>。</pc>其凶悍者<pc>，</pc>以州郡不能製<pc>，</pc>遂慢守臣<pc>，</pc>反通徭蠻以撓編民<pc>。</pc>州郡非白主帥不敢治<pc>，</pc>比得報<pc>，</pc>已晚矣<pc>。</pc>故戍兵敢肆其惡<pc>，</pc>
+<num value="2">二</num>廣保障<pc>，</pc>實南服之要區也<pc>。</pc>或控製失宜<pc>，</pc>或金穀不繼<pc>，</pc>或兵甲少振<pc>，</pc>蠻獠則乘時竊發<pc>，</pc>勤勞王師<pc>，</pc>朝廷當重守臣之選<pc>。</pc>崇寧初戍兵<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>
+<pc>，</pc>建炎以來<pc>，</pc>每於都統司或帥司摘兵<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>
+<pc>，</pc>以備屯戍<pc>。</pc>其凶悍者<pc>，</pc>以州郡不能製<pc>，</pc>遂慢守臣<pc>，</pc>反通徭蠻以撓編民<pc>。</pc>州郡非白主帥不敢治<pc>，</pc>比得報<pc>，</pc>已晚矣<pc>。</pc>故戍兵敢肆其惡<pc>，</pc>
 <num value="1">一</num>旦有警<pc>，</pc>複安能為用<pc>？</pc>臣以為宜聽守臣節製為便<pc>。</pc>
 <pc>”</pc>帝嘉其言<pc>，</pc>複問左右曰<pc>：</pc>
 <pc>“</pc>靖隸湖北<pc>，</pc>今聞仰給廣西<pc>，</pc>何也<pc>？</pc>
@@ -239,7 +272,10 @@
 <p>
 <measure quantity="11" unit="years">
 <num value="11">十一</num>年</measure>
-<pc>，</pc>詔給事中<pc>、</pc>中書舍人<pc>、</pc>戶部長貳同敕令所議<pc>，</pc>禁民毋質徭人田<pc>，</pc>以奪其業<pc>，</pc>俾能自養<pc>，</pc>以息邊釁<pc>。</pc>從知沅州王鎮之請也<pc>。</pc>沅州生界犵狑副峒官吳自由子<num value="3">三</num>人<pc>，</pc>貨丹砂麻陽縣<pc>，</pc>巡檢唐人傑誣為盜<pc>，</pc>執之送獄<pc>，</pc>自由率峒官楊友祿等謀為亂<pc>。</pc>帥司調神勁軍<num value="300">三百</num>人及沅州民兵屯境上<pc>，</pc>聲言進討<pc>。</pc>先遣歸明官田思忠往招撫之<pc>，</pc>以孔目官為質<pc>，</pc>世祿等既盟<pc>，</pc>自由取其<num value="3">三</num>子以歸<pc>。</pc>
+<pc>，</pc>詔給事中<pc>、</pc>中書舍人<pc>、</pc>戶部長貳同敕令所議<pc>，</pc>禁民毋質徭人田<pc>，</pc>以奪其業<pc>，</pc>俾能自養<pc>，</pc>以息邊釁<pc>。</pc>從知沅州王鎮之請也<pc>。</pc>沅州生界犵狑副峒官吳自由子<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>貨丹砂麻陽縣<pc>，</pc>巡檢唐人傑誣為盜<pc>，</pc>執之送獄<pc>，</pc>自由率峒官楊友祿等謀為亂<pc>。</pc>帥司調神勁軍<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>及沅州民兵屯境上<pc>，</pc>聲言進討<pc>。</pc>先遣歸明官田思忠往招撫之<pc>，</pc>以孔目官為質<pc>，</pc>世祿等既盟<pc>，</pc>自由取其<num value="3">三</num>子以歸<pc>。</pc>
 </p>
 </div>
 <div>
@@ -258,7 +294,8 @@
 <p>嘉定元年<pc>，</pc>郴州黑風峒徭人羅世傳寇邊<pc>，</pc>飛虎統製邊寧戰沒<pc>。</pc>江西<pc>、</pc>湖南驚擾<pc>，</pc>知隆興趙希懌<pc>、</pc>知潭州史彌堅共招降之<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>李元礪<pc>、</pc>羅孟<num value="2">二</num>寇江西<pc>，</pc>攻破龍泉縣<pc>。</pc>李再興戰敗<pc>，</pc>死之<pc>，</pc>江州駐紮都統製趙選亦戰死<pc>。</pc>初<pc>，</pc>吉州獲賊長<num value="7">七</num>人係獄<pc>，</pc>土豪黃從龍為賊畫策<pc>，</pc>賂吉守李絪<pc>，</pc>得縱還<pc>，</pc>賊遂無所忌<pc>。</pc>有侯押隊者<pc>，</pc>領兵戍龍泉境上<pc>，</pc>元礪複用從龍計<pc>，</pc>椎牛釃酒以犒官軍<pc>。</pc>賊至<pc>，</pc>官軍皆醉<pc>，</pc>狼狽散走<pc>。</pc>寇之初起甚微<pc>，</pc>賊伺知議論不<num value="1">一</num>
+<pc>，</pc>李元礪<pc>、</pc>羅孟<num value="2">二</num>寇江西<pc>，</pc>攻破龍泉縣<pc>。</pc>李再興戰敗<pc>，</pc>死之<pc>，</pc>江州駐紮都統製趙選亦戰死<pc>。</pc>初<pc>，</pc>吉州獲賊長<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>係獄<pc>，</pc>土豪黃從龍為賊畫策<pc>，</pc>賂吉守李絪<pc>，</pc>得縱還<pc>，</pc>賊遂無所忌<pc>。</pc>有侯押隊者<pc>，</pc>領兵戍龍泉境上<pc>，</pc>元礪複用從龍計<pc>，</pc>椎牛釃酒以犒官軍<pc>。</pc>賊至<pc>，</pc>官軍皆醉<pc>，</pc>狼狽散走<pc>。</pc>寇之初起甚微<pc>，</pc>賊伺知議論不<num value="1">一</num>
 <pc>，</pc>故玩侮官軍<pc>。</pc>方江西力戰則求降湖南<pc>，</pc>湖南戰則求降江西<pc>，</pc>牽製王師<pc>，</pc>使不得相應援<pc>。</pc>其後命工部侍郎王居安知豫章<pc>，</pc>擒獲之<pc>，</pc>溪峒略平<pc>。</pc>
 </p>
 </div>
@@ -318,7 +355,12 @@
 <p>熙寧<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>有楊光富者<pc>，</pc>率其族姓<measure quantity="23" unit="prefectures">
-<num value="23">二十三</num>州</measure>峒歸附<pc>，</pc>詔以光富為右班殿直<pc>，</pc>昌運<num value="5">五</num>人補<num value="3">三</num>班奉職<pc>，</pc>晟情等<num value="16">十六</num>人補<num value="3">三</num>司軍將<pc>。</pc>繼有楊昌銜者<pc>，</pc>亦願罷進奉<pc>，</pc>出租賦為漢民<pc>，</pc>詔補為右班殿直<pc>，</pc>子弟侄<num value="18">十八</num>人補授有差<pc>。</pc>獨光僭頗負固不從命<pc>，</pc>詔湖南轉運使朱初平羈縻之<pc>，</pc>未幾亦降<pc>，</pc>乃與其子日儼請於其側建學舍<pc>，</pc>求名士教子孫<pc>。</pc>詔潭州長史樸成為徽<pc>、</pc>誠等州教授<pc>；</pc>光僭皇城使<pc>、</pc>誠州<term>刺史</term>致仕<pc>，</pc>官為建宅<pc>；</pc>置飛山<num value="1">一</num>帶道路巡檢<pc>。</pc>光僭未及拜而卒<pc>，</pc>遂以贈之<pc>，</pc>錄其子<num value="6">六</num>人<pc>。</pc>
+<num value="23">二十三</num>州</measure>峒歸附<pc>，</pc>詔以光富為右班殿直<pc>，</pc>昌運<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>補<num value="3">三</num>班奉職<pc>，</pc>晟情等<measure quantity="16" unit="people">
+<num value="16">十六</num>人</measure>補<num value="3">三</num>司軍將<pc>。</pc>繼有楊昌銜者<pc>，</pc>亦願罷進奉<pc>，</pc>出租賦為漢民<pc>，</pc>詔補為右班殿直<pc>，</pc>子弟侄<measure quantity="18" unit="people">
+<num value="18">十八</num>人</measure>補授有差<pc>。</pc>獨光僭頗負固不從命<pc>，</pc>詔湖南轉運使朱初平羈縻之<pc>，</pc>未幾亦降<pc>，</pc>乃與其子日儼請於其側建學舍<pc>，</pc>求名士教子孫<pc>。</pc>詔潭州長史樸成為徽<pc>、</pc>誠等州教授<pc>；</pc>光僭皇城使<pc>、</pc>誠州<term>刺史</term>致仕<pc>，</pc>官為建宅<pc>；</pc>置飛山<num value="1">一</num>帶道路巡檢<pc>。</pc>光僭未及拜而卒<pc>，</pc>遂以贈之<pc>，</pc>錄其子<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -331,7 +373,9 @@
 <div>
 <p>元祐<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>改誠州為渠陽軍<pc>，</pc>罷兩州兵馬及守禦民丁<pc>。</pc>有楊晟台者<pc>，</pc>乘間寇文村堡<pc>，</pc>知渠陽軍胡田措置亡術<pc>，</pc>蠻結西融州蠻砦粟仁催<pc>，</pc>往來兩路為民患<pc>，</pc>調兵屯渠陽至<num value="10000">萬</num>人<pc>，</pc>湖南亦增屯兵應援<pc>，</pc>
+<pc>，</pc>改誠州為渠陽軍<pc>，</pc>罷兩州兵馬及守禦民丁<pc>。</pc>有楊晟台者<pc>，</pc>乘間寇文村堡<pc>，</pc>知渠陽軍胡田措置亡術<pc>，</pc>蠻結西融州蠻砦粟仁催<pc>，</pc>往來兩路為民患<pc>，</pc>調兵屯渠陽至<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>，</pc>湖南亦增屯兵應援<pc>，</pc>
 <num value="3">三</num>路俱驚<pc>。</pc>朝廷方務省事<pc>，</pc>議廢堡砦<pc>，</pc>徹戍守<pc>，</pc>而以其地予蠻<pc>，</pc>乃詔湖北轉運副使李茂直招撫<pc>，</pc>又遣唐乂同措置邊事討之<pc>。</pc>後以渠陽為誠州<pc>，</pc>命光僭之子供備庫使昌達<pc>、</pc>供備庫副使楊昌等同知州事<pc>，</pc>而貫保<pc>、</pc>豐山<pc>、</pc>若水等砦皆罷戍<pc>，</pc>擇授土官<pc>，</pc>俾乂間毀樓櫓<pc>，</pc>撤官舍<pc>，</pc>護領居民入砦<pc>。</pc>崇寧初<pc>，</pc>改誠州為靖州<pc>。</pc>
 </p>
 </div>
@@ -351,7 +395,8 @@
 <num value="4">四</num>年</measure>
 <pc>，</pc>洪[B16D]族人知寶隆鎮莫淮閬牛<num value="1">一</num>頭<pc>，</pc>逐水草至金城州河池縣<pc>，</pc>宜州牙校周承鑒以其牛耕作<pc>，</pc>淮閬<num value="3">三</num>遣人取牛<pc>，</pc>承鑒不還<pc>，</pc>凡耕<measure quantity="10" unit="days">
 <num value="10">十</num>日</measure>
-<pc>，</pc>始釋牛逐水草去<pc>。</pc>淮閬怒<pc>，</pc>領鄉兵<num value="60">六十</num>人劫取承鑒家資財<pc>，</pc>驅縣民莫世家牛<num value="6">六</num>頭以歸<pc>，</pc>誘群蠻為寇<pc>。</pc>上遣供奉官王承緒乘傳劾承鑒<pc>，</pc>具伏占牛<pc>，</pc>詔棄市<pc>。</pc>時知宜州<pc>、</pc>讚善大夫侯汀失於備禦<pc>，</pc>群蠻之擾<pc>，</pc>頗害及民庶<pc>，</pc>詔發諸州兵進討<pc>，</pc>兵未至<pc>，</pc>悉已遁歸<pc>，</pc>汀坐免官<pc>。</pc>詔諭宜<pc>、</pc>融<pc>、</pc>柳州<num value="100">百</num>姓及蠻界人戶曰<pc>：</pc>
+<pc>，</pc>始釋牛逐水草去<pc>。</pc>淮閬怒<pc>，</pc>領鄉兵<measure quantity="60" unit="people">
+<num value="60">六十</num>人</measure>劫取承鑒家資財<pc>，</pc>驅縣民莫世家牛<num value="6">六</num>頭以歸<pc>，</pc>誘群蠻為寇<pc>。</pc>上遣供奉官王承緒乘傳劾承鑒<pc>，</pc>具伏占牛<pc>，</pc>詔棄市<pc>。</pc>時知宜州<pc>、</pc>讚善大夫侯汀失於備禦<pc>，</pc>群蠻之擾<pc>，</pc>頗害及民庶<pc>，</pc>詔發諸州兵進討<pc>，</pc>兵未至<pc>，</pc>悉已遁歸<pc>，</pc>汀坐免官<pc>。</pc>詔諭宜<pc>、</pc>融<pc>、</pc>柳州<num value="100">百</num>姓及蠻界人戶曰<pc>：</pc>
 <pc>“</pc>朕托兆庶之上<pc>，</pc>處司牧之重<pc>，</pc>照臨所暨<pc>，</pc>撫養是均<pc>，</pc>矧於遐陬<pc>，</pc>尤所軫慮<pc>。</pc>昨以知宜州事侯汀失於綏緝<pc>，</pc>恣其侵牟<pc>，</pc>致茲邊夷<pc>，</pc>起為寇鈔<pc>，</pc>侵騷閭裏<pc>，</pc>虔劉士庶<pc>。</pc>及興師而討伐<pc>，</pc>乃畏威而竄伏<pc>。</pc>朕以興戎召釁<pc>，</pc>職由於汀<pc>，</pc>爰舉國章<pc>，</pc>削其官秩<pc>。</pc>汝等所宜體予含垢<pc>，</pc>革乃前非<pc>，</pc>安土厚生<pc>，</pc>保境延世<pc>，</pc>嬉我至化<pc>，</pc>是為永圖<pc>。</pc>或尚恣於陸梁<pc>，</pc>當盡剿其族類<pc>。</pc>
 <pc>”</pc>自是不複為寇<pc>。</pc>
 </p>
@@ -360,7 +405,9 @@
 <p>淳化元年<pc>，</pc>洪[B16D]卒<pc>，</pc>其弟洪皓襲稱<term>刺史</term>
 <pc>，</pc>遣其子淮通來貢銀碗<num value="20">二十</num>
 <pc>，</pc>銅鼓<num value="3">三</num>麵<pc>，</pc>銅印<num value="1">一</num>鈕<pc>，</pc>旗<num value="1">一</num>帖<pc>，</pc>繡真珠紅羅襦<num value="1">一</num>
-<pc>。</pc>上降優詔<pc>，</pc>賜彩<num value="100">百</num>匹<pc>，</pc>還其襦<pc>。</pc>自洪[B16D]領州<num value="10">十</num>餘年<pc>，</pc>歲輸白金<num value="100">百</num>兩<pc>。</pc>洪皓之襲兄位<pc>，</pc>專其地利<pc>，</pc>不修常貢<pc>。</pc>其弟洪沅忿之<pc>，</pc>挈妻子來奔宜州<pc>。</pc>洪皓怒其背己<pc>，</pc>數引兵攻洪沅<pc>。</pc>洪沅與<num value="2">二</num>男並牙將<num value="1">一</num>人<pc>，</pc>乘傳詣闕訴其事<pc>，</pc>請發兵致討<pc>。</pc>上以蠻夷之俗<pc>，</pc>羈縻而已<pc>，</pc>不欲為之興師報怨<pc>。</pc>洪沅先自稱南丹州副使<pc>，</pc>以為邵州團練使<pc>，</pc>給田<num value="10">十</num>頃<pc>，</pc>下詔戒敕洪皓<pc>。</pc>
+<pc>。</pc>上降優詔<pc>，</pc>賜彩<num value="100">百</num>匹<pc>，</pc>還其襦<pc>。</pc>自洪[B16D]領州<num value="10">十</num>餘年<pc>，</pc>歲輸白金<num value="100">百</num>兩<pc>。</pc>洪皓之襲兄位<pc>，</pc>專其地利<pc>，</pc>不修常貢<pc>。</pc>其弟洪沅忿之<pc>，</pc>挈妻子來奔宜州<pc>。</pc>洪皓怒其背己<pc>，</pc>數引兵攻洪沅<pc>。</pc>洪沅與<num value="2">二</num>男並牙將<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>乘傳詣闕訴其事<pc>，</pc>請發兵致討<pc>。</pc>上以蠻夷之俗<pc>，</pc>羈縻而已<pc>，</pc>不欲為之興師報怨<pc>。</pc>洪沅先自稱南丹州副使<pc>，</pc>以為邵州團練使<pc>，</pc>給田<num value="10">十</num>頃<pc>，</pc>下詔戒敕洪皓<pc>。</pc>
 </p>
 </div>
 <div>
@@ -375,7 +422,8 @@
 <num value="3">三</num>年</measure>
 <pc>，</pc>有淮戟者舉族來歸<pc>，</pc>命為湖南州團練副使<pc>，</pc>敕州縣拊存<pc>。</pc>後淮辿老<pc>，</pc>自言願傳其子世漸<pc>。</pc>至和元年<pc>，</pc>命世漸為檢校散騎常侍<pc>，</pc>權發遣州事<pc>。</pc>明年<pc>，</pc>以淮辿為懷遠大將軍致仕<pc>，</pc>世漸為<term>刺史</term>
 <pc>、</pc>檢校工部尚書<pc>，</pc>賜袍帶<pc>，</pc>錢<num value="100000">十萬</num>
-<pc>，</pc>絹<num value="100">百</num>匹<pc>。</pc>又補其親黨數<num value="10">十</num>人為檢校官<pc>，</pc>如故事也<pc>。</pc>世漸死<pc>，</pc>嘉祐末<pc>，</pc>命其子公帳襲之<pc>。</pc>
+<pc>，</pc>絹<num value="100">百</num>匹<pc>。</pc>又補其親黨數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>為檢校官<pc>，</pc>如故事也<pc>。</pc>世漸死<pc>，</pc>嘉祐末<pc>，</pc>命其子公帳襲之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -390,7 +438,9 @@
 <num value="3">三</num>年</measure>入貢<pc>，</pc>其印以<pc>“</pc>西南諸道武盛軍德政官家明天國主<pc>”</pc>為文<pc>，</pc>詔以南丹州印賜之<pc>，</pc>令毀其舊印<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>大軍討安化<pc>，</pc>世忍獻弓矢<pc>，</pc>自言願世世為外臣<pc>，</pc>修貢不懈<pc>，</pc>遷檢校戶部尚書<pc>，</pc>給銅牌旗號<pc>，</pc>官其子侄<num value="9">九</num>人<pc>。</pc>世忍死<pc>，</pc>子公佞襲<pc>。</pc>
+<pc>，</pc>大軍討安化<pc>，</pc>世忍獻弓矢<pc>，</pc>自言願世世為外臣<pc>，</pc>修貢不懈<pc>，</pc>遷檢校戶部尚書<pc>，</pc>給銅牌旗號<pc>，</pc>官其子侄<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>
+<pc>。</pc>世忍死<pc>，</pc>子公佞襲<pc>。</pc>
 </p>
 </div>
 <div>

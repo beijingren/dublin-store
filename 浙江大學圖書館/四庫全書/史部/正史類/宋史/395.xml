@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="395">
 <div>
-<p>○樓鑰李大性任希夷徐應龍莊夏王阮王質陸遊方信孺王柟</p>
+<p>
+<name key="null" type="null">○樓鑰</name>李大性任希夷徐應龍莊夏王阮王質陸遊方信孺王柟</p>
 </div>
 <div>
 <p>樓鑰<pc>，</pc>字大防<pc>，</pc>明州鄞縣人<pc>。</pc>隆興元年<pc>，</pc>試南宮<pc>，</pc>有司偉其辭藝<pc>，</pc>欲以冠多士<pc>，</pc>策偶犯舊諱<pc>，</pc>知貢舉洪遵奏<pc>，</pc>得旨以冠末等<pc>。</pc>投贄謝諸公<pc>，</pc>考官胡銓稱之曰<pc>：</pc>
@@ -214,7 +215,8 @@
 <pc>”</pc>兼侍講<pc>，</pc>言<pc>：</pc>
 <pc>“</pc>人主不能盡知天下人材<pc>，</pc>當責之<term>宰相</term>
 <pc>；</pc>
-<term>宰相</term>不能盡知天下人材<pc>，</pc>當采之公論<pc>。</pc>李吉甫為相<pc>，</pc>號稱得人<pc>，</pc>而<num value="3">三</num>人之薦<pc>，</pc>乃出於裴垍之疏<pc>。</pc>
+<term>宰相</term>不能盡知天下人材<pc>，</pc>當采之公論<pc>。</pc>李吉甫為相<pc>，</pc>號稱得人<pc>，</pc>而<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>之薦<pc>，</pc>乃出於裴垍之疏<pc>。</pc>
 <pc>”</pc>
 </p>
 </div>
@@ -246,7 +248,8 @@
 <div>
 <p>召為太學博士<pc>。</pc>言<pc>：</pc>
 <pc>“</pc>比年分藩持節<pc>，</pc>詔墨未乾而改除<pc>，</pc>坐席未溫而易地<pc>，</pc>
-<num value="1">一</num>人而歲<num value="3">三</num>易節<pc>，</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>而歲<num value="3">三</num>易節<pc>，</pc>
 <measure quantity="1" unit="year">
 <num value="1">一</num>歲</measure>而郡<num value="4">四</num>易守<pc>，</pc>民力何由裕<pc>？</pc>
 <pc>”</pc>遷國子博士<pc>，</pc>召除吏部員外郎<pc>，</pc>遷軍器監<pc>，</pc>太府少卿<pc>。</pc>出知漳州<pc>，</pc>為宗正少卿兼國史院編修官<pc>，</pc>尋權直學士院兼太子侍讀<pc>。</pc>時流民來歸<pc>，</pc>夏言<pc>：</pc>
@@ -276,7 +279,9 @@
 </div>
 <div>
 <p>臨安蟠幽宅阻<pc>，</pc>麵湖背海<pc>，</pc>膏腴沃野<pc>，</pc>足以休養生聚<pc>，</pc>其地利於休息<pc>。</pc>建康東南重鎮<pc>，</pc>控製長江呼吸之間<pc>，</pc>上下<num value="1000">千</num>裏<pc>，</pc>足以虎視吳<pc>、</pc>楚<pc>，</pc>應接梁<pc>、</pc>宋<pc>，</pc>其地利於進取<pc>。</pc>建炎<pc>、</pc>紹興間<pc>，</pc>敵人乘勝長驅直搗<pc>，</pc>而我師亦甚憊也<pc>。</pc>上皇遵養時晦<pc>，</pc>不得與平<pc>，</pc>乃駐臨安<pc>，</pc>所以為休息計也<pc>。</pc>已<measure quantity="30" unit="years">
-<num value="30">三十</num>年</measure>來<pc>，</pc>闕者全<pc>，</pc>壞者修<pc>，</pc>弊者整<pc>，</pc>廢者複<pc>，</pc>較以曩昔<pc>，</pc>倍<num value="10000">萬</num>不侔<pc>。</pc>主上獨見遠覽<pc>，</pc>舉而措諸事業<pc>，</pc>非固以臨安為不足居也<pc>。</pc>戰守之形既分<pc>，</pc>動靜進<persName>退之</persName>理異也<pc>。</pc>
+<num value="30">三十</num>年</measure>來<pc>，</pc>闕者全<pc>，</pc>壞者修<pc>，</pc>弊者整<pc>，</pc>廢者複<pc>，</pc>較以曩昔<pc>，</pc>倍<num value="10000">萬</num>不侔<pc>。</pc>主上獨見遠覽<pc>，</pc>舉而措諸事業<pc>，</pc>非固以臨安為不足居也<pc>。</pc>戰守之形既分<pc>，</pc>動靜進<name key="韓愈" type="zi">
+<persName>退之</persName>
+</name>理異也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -372,7 +377,7 @@
 </div>
 <div>
 <p>和議將成<pc>，</pc>遊又以書白<num value="2">二</num>府曰<pc>：</pc>
-<pc>“</pc>江左自<date>吳</date>以來<pc>，</pc>未有舍建康他都者<pc>。</pc>駐蹕臨安出於權宜<pc>，</pc>形勢不固<pc>，</pc>饋餉不便<pc>，</pc>海道逼近<pc>，</pc>凜然意外之憂<pc>。</pc>
+<pc>“</pc>江左自<date when="null">吳</date>以來<pc>，</pc>未有舍建康他都者<pc>。</pc>駐蹕臨安出於權宜<pc>，</pc>形勢不固<pc>，</pc>饋餉不便<pc>，</pc>海道逼近<pc>，</pc>凜然意外之憂<pc>。</pc>
 <num value="1">一</num>和之後<pc>，</pc>盟誓已立<pc>，</pc>動有拘礙<pc>。</pc>今當與之約<pc>，</pc>建康<pc>、</pc>臨安皆係駐蹕之地<pc>，</pc>北使朝聘<pc>，</pc>或就建康<pc>，</pc>或就臨安<pc>，</pc>如此則我得以暇時建都立國<pc>，</pc>彼不我疑<pc>。</pc>
 <pc>”</pc>
 </p>
@@ -423,7 +428,9 @@
 </p>
 </div>
 <div>
-<p>方信孺<pc>，</pc>字孚若<pc>，</pc>興化軍人<pc>。</pc>有雋材<pc>，</pc>未冠能文<pc>，</pc>周必大<pc>、</pc>楊<num value="10000">萬</num>裏見而異之<pc>。</pc>以父崧卿蔭<pc>，</pc>補番禺縣尉<pc>。</pc>盜劫海賈<pc>，</pc>信孺捕之<pc>，</pc>盜方沙聚分鹵獲<pc>，</pc>惶駭欲趨舟<pc>，</pc>信孺已使人負盜舟去矣<pc>，</pc>乃悉縛盜<pc>，</pc>不失<num value="1">一</num>人<pc>。</pc>
+<p>方信孺<pc>，</pc>字孚若<pc>，</pc>興化軍人<pc>。</pc>有雋材<pc>，</pc>未冠能文<pc>，</pc>周必大<pc>、</pc>楊<num value="10000">萬</num>裏見而異之<pc>。</pc>以父崧卿蔭<pc>，</pc>補番禺縣尉<pc>。</pc>盜劫海賈<pc>，</pc>信孺捕之<pc>，</pc>盜方沙聚分鹵獲<pc>，</pc>惶駭欲趨舟<pc>，</pc>信孺已使人負盜舟去矣<pc>，</pc>乃悉縛盜<pc>，</pc>不失<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -516,7 +523,9 @@
 </p>
 </div>
 <div>
-<p>王柟<pc>，</pc>字汝良<pc>，</pc>大名人<pc>。</pc>祖倫<pc>，</pc>同簽書樞密院事<pc>。</pc>倫使北死<pc>，</pc>孝宗訪求其孫之未祿者<num value="3">三</num>人官之<pc>，</pc>柟其<num value="1">一</num>也<pc>。</pc>調通州海門尉<pc>。</pc>乘輕舟入海濤<pc>，</pc>捕劇賊小吳郎<pc>，</pc>並其徒<num value="17">十七</num>人獲之<pc>，</pc>獄成<pc>，</pc>不受賞<pc>。</pc>
+<p>王柟<pc>，</pc>字汝良<pc>，</pc>大名人<pc>。</pc>祖倫<pc>，</pc>同簽書樞密院事<pc>。</pc>倫使北死<pc>，</pc>孝宗訪求其孫之未祿者<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>官之<pc>，</pc>柟其<num value="1">一</num>也<pc>。</pc>調通州海門尉<pc>。</pc>乘輕舟入海濤<pc>，</pc>捕劇賊小吳郎<pc>，</pc>並其徒<measure quantity="17" unit="people">
+<num value="17">十七</num>人</measure>獲之<pc>，</pc>獄成<pc>，</pc>不受賞<pc>。</pc>
 </p>
 </div>
 <div>
@@ -526,7 +535,8 @@
 </p>
 </div>
 <div>
-<p>金將烏骨論等<num value="4">四</num>人列坐<pc>，</pc>問<pc>：</pc>
+<p>金將烏骨論等<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>列坐<pc>，</pc>問<pc>：</pc>
 <pc>“</pc>韓侂胄貴顯幾年矣<pc>？</pc>
 <pc>”</pc>柟對<pc>：</pc>
 <pc>“</pc>已<num value="10">十</num>餘年<pc>，</pc>平章國事財<measure quantity="2" unit="years">
@@ -536,7 +546,8 @@
 <pc>”</pc>柟曰<pc>：</pc>
 <pc>“</pc>主上英斷<pc>，</pc>去之何難<pc>。</pc>
 <pc>”</pc>
-<num value="4">四</num>人相顧而笑<pc>。</pc>有完顏天寵者<pc>，</pc>袖出文書<pc>，</pc>雲<pc>：</pc>
+<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>相顧而笑<pc>。</pc>有完顏天寵者<pc>，</pc>袖出文書<pc>，</pc>雲<pc>：</pc>
 <pc>“</pc>王柟雖持韓侂胄書<pc>，</pc>乃朝廷有旨遣其來元帥府議和<pc>，</pc>宜詳議以報<pc>。</pc>
 <pc>”</pc>於是金人知侂胄已誅<pc>，</pc>和議遂決<pc>。</pc>
 </p>

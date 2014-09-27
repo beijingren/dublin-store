@@ -24,8 +24,9 @@
 <body>
 <div type="chapter" n="26">
 <div>
-<p>　　<measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<measure quantity="1" unit="month">
+<p>
+<name key="null" type="null">　　<num value="4">四</num>
+</name>年春<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -45,7 +46,9 @@
 <num value="54">丁巳</num>
 <pc>，</pc>婁宿陷陝州<pc>，</pc>守臣李彥仙死之<pc>。</pc>
 <num value="56">己未</num>
-<pc>，</pc>金人陷明州夜<pc>，</pc>大雨震電<pc>，</pc>乘勝破定海<pc>，</pc>以舟師來襲禦舟<pc>，</pc>張公裕以大舶擊<persName>退之</persName>
+<pc>，</pc>金人陷明州夜<pc>，</pc>大雨震電<pc>，</pc>乘勝破定海<pc>，</pc>以舟師來襲禦舟<pc>，</pc>張公裕以大舶擊<name key="韓愈" type="zi">
+<persName>退之</persName>
+</name>
 <pc>。</pc>
 <num value="58">辛酉</num>
 <pc>，</pc>發章安鎮<pc>。</pc>
@@ -65,7 +68,9 @@
 <pc>，</pc>換給僧道度牒<pc>，</pc>人輸錢<num value="10000">十千</num>
 <pc>。</pc>
 <num value="8">辛未</num>
-<pc>，</pc>命臣僚條具兵<persName>退之</persName>後措置之策<pc>、</pc>駐蹕之所<pc>。</pc>是月<pc>，</pc>金人攻楚州<pc>，</pc>守臣趙立拒之<pc>。</pc>金人犯邠州<pc>，</pc>曲端遣涇原路副總管吳玠拒戰<pc>，</pc>敗之于彭原<pc>；</pc>又陷同州<pc>。</pc>張浚遣謝亮使夏國<pc>，</pc>至則其主乾順已稱制<pc>，</pc>遂還<pc>。</pc>
+<pc>，</pc>命臣僚條具兵<name key="韓愈" type="zi">
+<persName>退之</persName>
+</name>後措置之策<pc>、</pc>駐蹕之所<pc>。</pc>是月<pc>，</pc>金人攻楚州<pc>，</pc>守臣趙立拒之<pc>。</pc>金人犯邠州<pc>，</pc>曲端遣涇原路副總管吳玠拒戰<pc>，</pc>敗之于彭原<pc>；</pc>又陷同州<pc>。</pc>張浚遣謝亮使夏國<pc>，</pc>至則其主乾順已稱制<pc>，</pc>遂還<pc>。</pc>
 </p>
 </div>
 <div>
@@ -117,7 +122,9 @@
 <num value="53">丙辰</num>
 <pc>，</pc>金人犯終南縣<pc>，</pc>經略使鄭恩戰敗<pc>，</pc>死之<pc>。</pc>
 <num value="54">丁巳</num>
-<pc>，</pc>金人至鎮江府<pc>，</pc>韓世忠屯焦山寺邀擊之<pc>。</pc>詔侍從官各舉可充監司者<num value="2">一二</num>人<pc>。</pc>
+<pc>，</pc>金人至鎮江府<pc>，</pc>韓世忠屯焦山寺邀擊之<pc>。</pc>詔侍從官各舉可充監司者<measure quantity="2" unit="people">
+<num value="2">一二</num>人</measure>
+<pc>。</pc>
 <num value="58">辛酉</num>
 <pc>，</pc>禦舟發溫州<pc>。</pc>宣撫司節制軍馬李允文部兵至鄂州<pc>。</pc>禦營前軍將楊勍叛<pc>。</pc>
 <num value="1">甲子</num>
@@ -167,7 +174,9 @@
 <num value="49">壬子</num>
 <pc>，</pc>金人焚建康府<pc>，</pc>執李棁<pc>、</pc>陳邦光而去<pc>。</pc>淮南宣撫司統制岳飛邀擊于靜安鎮<pc>，</pc>敗之<pc>。</pc>是夜<pc>，</pc>紫微垣內有赤雲亙天<pc>，</pc>白氣貫其中<pc>。</pc>
 <num value="50">癸丑</num>
-<pc>，</pc>詔台諫等官各舉所知<num value="2">二</num>人<pc>。</pc>以張守參知政事<pc>、</pc>趙鼎簽書樞密院事<pc>。</pc>以白金<num value="30000">三萬</num>兩賜韓世忠軍<pc>，</pc>贈戰歿將孫世詢<pc>、</pc>嚴永吉<pc>、</pc>張淵等官<pc>。</pc>
+<pc>，</pc>詔台諫等官各舉所知<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>以張守參知政事<pc>、</pc>趙鼎簽書樞密院事<pc>。</pc>以白金<num value="30000">三萬</num>兩賜韓世忠軍<pc>，</pc>贈戰歿將孫世詢<pc>、</pc>嚴永吉<pc>、</pc>張淵等官<pc>。</pc>
 <num value="51">甲寅</num>
 <pc>，</pc>金人陷定遠縣<pc>，</pc>執閭勍去<pc>，</pc>勍不屈<pc>，</pc>死之<pc>。</pc>巨師古擊戚方于宣州<pc>，</pc>數敗之<pc>，</pc>方引去<pc>。</pc>
 <num value="52">乙卯</num>
@@ -203,7 +212,9 @@
 <num value="15">戊寅</num>
 <pc>，</pc>更御前<num value="5">五</num>軍為神武軍<pc>，</pc>禦營<num value="5">五</num>軍為神武副軍<pc>。</pc>以知建康府權邦彥為淮南等路制置發運使<pc>。</pc>滁<pc>、</pc>濠鎮撫使劉位為賊張文孝所殺<pc>，</pc>命其子綱襲職<pc>。</pc>
 <num value="17">庚辰</num>
-<pc>，</pc>置鎮撫使<num value="6">六</num>人<pc>：</pc>陳規<pc>，</pc>德安府<pc>、</pc>複州<pc>、</pc>漢陽軍<pc>；</pc>解潛<pc>，</pc>荊南府<pc>、</pc>歸<pc>、</pc>峽州<pc>、</pc>荊門<pc>、</pc>公安軍<pc>；</pc>程昌寓<pc>，</pc>鼎<pc>、</pc>澧州<pc>；</pc>陳求道<pc>，</pc>襄陽府<pc>、</pc>鄧<pc>、</pc>隨<pc>、</pc>郢州<pc>；</pc>范之才<pc>，</pc>金<pc>、</pc>均<pc>、</pc>房州<pc>；</pc>馮長寧<pc>，</pc>淮寧<pc>、</pc>順昌府<pc>、</pc>蔡州<pc>。</pc>
+<pc>，</pc>置鎮撫使<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>：</pc>陳規<pc>，</pc>德安府<pc>、</pc>複州<pc>、</pc>漢陽軍<pc>；</pc>解潛<pc>，</pc>荊南府<pc>、</pc>歸<pc>、</pc>峽州<pc>、</pc>荊門<pc>、</pc>公安軍<pc>；</pc>程昌寓<pc>，</pc>鼎<pc>、</pc>澧州<pc>；</pc>陳求道<pc>，</pc>襄陽府<pc>、</pc>鄧<pc>、</pc>隨<pc>、</pc>郢州<pc>；</pc>范之才<pc>，</pc>金<pc>、</pc>均<pc>、</pc>房州<pc>；</pc>馮長寧<pc>，</pc>淮寧<pc>、</pc>順昌府<pc>、</pc>蔡州<pc>。</pc>
 <num value="18">辛巳</num>
 <pc>，</pc>慮囚<pc>。</pc>申命有司<pc>，</pc>討論厘正崇寧以來濫賞<pc>。</pc>罷諸州添差通判職官<pc>。</pc>
 <num value="20">癸未</num>
@@ -258,7 +269,8 @@
 <num value="58">辛酉</num>
 <pc>，</pc>建州民範汝為作亂<pc>，</pc>命統制李捧捕之<pc>。</pc>
 <num value="2">乙丑</num>
-<pc>，</pc>複李邦彥以下<num value="19">十九</num>人官職<pc>，</pc>聽自便<pc>。</pc>複李綱銀青光祿大夫<pc>，</pc>許翰<pc>、</pc>顏岐端明殿學士<pc>。</pc>張浚貶曲端階州居住<pc>。</pc>
+<pc>，</pc>複李邦彥以下<measure quantity="19" unit="people">
+<num value="19">十九</num>人</measure>官職<pc>，</pc>聽自便<pc>。</pc>複李綱銀青光祿大夫<pc>，</pc>許翰<pc>、</pc>顏岐端明殿學士<pc>。</pc>張浚貶曲端階州居住<pc>。</pc>
 <num value="4">丁卯</num>
 <pc>，</pc>金人立劉豫為帝<pc>，</pc>國號齊<pc>。</pc>
 <num value="5">戊辰</num>
@@ -274,14 +286,17 @@
 <num value="9">壬申</num>
 <pc>，</pc>李成請降于江州<pc>，</pc>詔撫納之<pc>，</pc>張浚停程<num value="1000">千</num>秋官<pc>、</pc>文州編管<pc>。</pc>
 <num value="10">癸酉</num>
-<pc>，</pc>選神武中軍親兵<num value="600">六百</num>人番直禁中<pc>。</pc>
+<pc>，</pc>選神武中軍親兵<measure quantity="600" unit="people">
+<num value="600">六百</num>人</measure>番直禁中<pc>。</pc>
 <num value="11">甲戌</num>
 <pc>，</pc>詔侍從官日<num value="1">一</num>員輪直<pc>，</pc>進故事關治體者<pc>。</pc>
 <num value="14">丁丑</num>
 <pc>，</pc>以韓世忠為檢校少師<pc>、</pc>武成感德軍<term>節度使</term>
 <pc>，</pc>張俊檢校少保<pc>、</pc>甯武昭慶軍<term>節度使</term>
 <pc>。</pc>贈監察禦史常安民<pc>、</pc>左司諫江公望為左<term>諫議大夫</term>
-<pc>，</pc>錄其後<num value="2">二</num>人<pc>。</pc>
+<pc>，</pc>錄其後<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <num value="17">庚辰</num>
 <pc>，</pc>太后至自虔州<pc>。</pc>薛慶及金人戰於<placeName>揚州</placeName>城下<pc>，</pc>死之<pc>。</pc>郭仲威奔興化縣<pc>。</pc>
 <num value="18">辛巳</num>
@@ -414,7 +429,8 @@
 <num value="1">甲子</num>
 <pc>，</pc>詔諸路守臣節制管內軍馬<pc>。</pc>
 <num value="3">丙寅</num>
-<pc>，</pc>金<pc>、</pc>房州賊郭希犯歸州<pc>，</pc>田祐恭擊卻之<pc>。</pc>命王  部兵<num value="10000">萬</num>人速援呂頤浩<pc>。</pc>祝友渡江大掠<pc>。</pc>是月<pc>，</pc>張浚退軍興州<pc>，</pc>秦鳳副總管吳玠收餘兵保大散關東和尚原<pc>。</pc>詔諸路轉運司括借寺觀田租蘆場<measure quantity="3" unit="years">
+<pc>，</pc>金<pc>、</pc>房州賊郭希犯歸州<pc>，</pc>田祐恭擊卻之<pc>。</pc>命王  部兵<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>速援呂頤浩<pc>。</pc>祝友渡江大掠<pc>。</pc>是月<pc>，</pc>張浚退軍興州<pc>，</pc>秦鳳副總管吳玠收餘兵保大散關東和尚原<pc>。</pc>詔諸路轉運司括借寺觀田租蘆場<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>。</pc>
 </p>
@@ -452,7 +468,8 @@
 <num value="36">己亥</num>朔<pc>，</pc>帝在越州<pc>，</pc>帥<num value="100">百</num>官遙拜<num value="2">二</num>帝<pc>，</pc>不受朝賀<pc>。</pc>下詔改元<pc>，</pc>釋流以下囚<pc>，</pc>複賢良方正直言極諫科<pc>，</pc>蠲兩浙夏稅<pc>、</pc>和買槹絹絲綿<pc>，</pc>減閩中上供銀<num value="3">三</num>分之<num value="1">一</num>
 <pc>。</pc>
 <num value="45">戊申</num>
-<pc>，</pc>改命張俊為江淮路招討使<pc>。</pc>複江<pc>、</pc>池路為江東<pc>、</pc>西路<pc>，</pc>分荊湖江南諸州為荊湖東<pc>、</pc>西路<pc>，</pc>置安撫司<pc>，</pc>治池<pc>、</pc>江<pc>、</pc>鄂<pc>、</pc>鼎州<pc>。</pc>江南東<pc>、</pc>西路各置轉運司<pc>，</pc>荊湖東<pc>、</pc>西路轉運司通掌兩路財賦<pc>。</pc>以呂頤浩為江東路安撫大使<pc>，</pc>朱勝非江西路安撫大使<pc>。</pc>馬進陷江州<pc>，</pc>守臣姚舜明棄城走<pc>，</pc>端明殿學士王易簡等<num value="200">二百</num>人皆遇害<pc>。</pc>
+<pc>，</pc>改命張俊為江淮路招討使<pc>。</pc>複江<pc>、</pc>池路為江東<pc>、</pc>西路<pc>，</pc>分荊湖江南諸州為荊湖東<pc>、</pc>西路<pc>，</pc>置安撫司<pc>，</pc>治池<pc>、</pc>江<pc>、</pc>鄂<pc>、</pc>鼎州<pc>。</pc>江南東<pc>、</pc>西路各置轉運司<pc>，</pc>荊湖東<pc>、</pc>西路轉運司通掌兩路財賦<pc>。</pc>以呂頤浩為江東路安撫大使<pc>，</pc>朱勝非江西路安撫大使<pc>。</pc>馬進陷江州<pc>，</pc>守臣姚舜明棄城走<pc>，</pc>端明殿學士王易簡等<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>皆遇害<pc>。</pc>
 <num value="46">己酉</num>
 <pc>，</pc>岳飛引兵之洪州<pc>。</pc>金人犯<placeName>揚州</placeName>
 <pc>。</pc>謝向率範汝為討平建陽賊劉時舉<pc>。</pc>金人犯秦州<pc>，</pc>吳玠擊敗之<pc>。</pc>
@@ -461,16 +478,21 @@
 <num value="48">辛亥</num>
 <pc>，</pc>謝克家罷<pc>。</pc>
 <num value="49">壬子</num>
-<pc>，</pc>詔京官<pc>、</pc>知縣並堂除<pc>，</pc>內外侍從各舉可任縣令者<num value="2">二</num>人<pc>，</pc>犯贓連坐<pc>。</pc>自今不曆縣令者勿除監司<pc>、</pc>郎官<pc>，</pc>不曆外任者勿除侍從<pc>，</pc>著為令<pc>。</pc>張中孚以原州叛降于金<pc>。</pc>
+<pc>，</pc>詔京官<pc>、</pc>知縣並堂除<pc>，</pc>內外侍從各舉可任縣令者<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>犯贓連坐<pc>。</pc>自今不曆縣令者勿除監司<pc>、</pc>郎官<pc>，</pc>不曆外任者勿除侍從<pc>，</pc>著為令<pc>。</pc>張中孚以原州叛降于金<pc>。</pc>
 <num value="50">癸丑</num>
-<pc>，</pc>李敦仁圍建昌軍<pc>，</pc>蔡延世率鄉兵擊<persName>退之</persName>
+<pc>，</pc>李敦仁圍建昌軍<pc>，</pc>蔡延世率鄉兵擊<name key="韓愈" type="zi">
+<persName>退之</persName>
+</name>
 <pc>。</pc>賊曹成入漢陽軍<pc>，</pc>李允文招之<pc>，</pc>成入鄂州<pc>，</pc>複趨江西<pc>。</pc>
 <num value="54">丁巳</num>
 <pc>，</pc>呂頤浩遣王<pc>、</pc>崔增擊賊於湖口<pc>，</pc>大敗之<pc>。</pc>頤浩及楊惟忠引兵趨江州<pc>。</pc>
 <num value="58">辛酉</num>
 <pc>，</pc>詔<pc>：</pc>
 <pc>「</pc>
-<quote>太祖創業垂統<pc>，</pc>德被<num value="10000">萬</num>世<pc>。</pc>神宗詔封子孫<num value="1">一</num>人為安定郡王<pc>，</pc>世世勿絕<pc>。</pc>自宣和末至今未舉<pc>。</pc>有司其上應襲封人名<pc>，</pc>依故事舉行<pc>。</pc>
+<quote>太祖創業垂統<pc>，</pc>德被<num value="10000">萬</num>世<pc>。</pc>神宗詔封子孫<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>為安定郡王<pc>，</pc>世世勿絕<pc>。</pc>自宣和末至今未舉<pc>。</pc>有司其上應襲封人名<pc>，</pc>依故事舉行<pc>。</pc>
 </quote>
 <pc>」</pc>金人再圍環州<pc>。</pc>是月<pc>，</pc>張浚複曲端榮州<term>刺史</term>
 <pc>、</pc>提舉江州太平觀<pc>、</pc>閬州居住<pc>，</pc>尋移恭州<pc>。</pc>
@@ -803,7 +825,9 @@
 <num value="48">辛亥</num>
 <pc>，</pc>升康州為德慶府<pc>。</pc>
 <num value="49">壬子</num>
-<pc>，</pc>詔內外侍從各舉所知<num value="3">三</num>人<pc>。</pc>
+<pc>，</pc>詔內外侍從各舉所知<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>。</pc>
 <num value="53">丙辰</num>
 <pc>，</pc>程昌寓遣杜湛擊楊華<pc>，</pc>敗之<pc>。</pc>命張俊遣使持詔招曹成<pc>，</pc>以所部赴行在<pc>。</pc>
 <num value="56">己未</num>

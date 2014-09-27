@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="177">
 <div>
-<p>◎食貨上<num value="5">五</num>
+<p>
+<name key="null" type="null">◎食貨</name>上<num value="5">五</num>
 <pc>（</pc>役法上<pc>）</pc>
 </p>
 </div>
@@ -64,14 +65,20 @@
 <num value="2">二</num>年</measure>
 <num value="1">一</num>易<pc>。</pc>
 <pc>”</pc>下其議京畿<pc>、</pc>河北<pc>、</pc>河東<pc>、</pc>陝西<pc>、</pc>京東西轉運司度利害<pc>，</pc>皆以為便<pc>。</pc>而知製誥韓絳<pc>、</pc>蔡襄極論江南<pc>、</pc>福建裏正衙前之弊<pc>，</pc>絳請行鄉戶<num value="5">五</num>則之法<pc>，</pc>襄請以產錢多少定役重輕<pc>。</pc>至和中<pc>，</pc>命絳<pc>、</pc>襄與<num value="3">三</num>司置司參定<pc>，</pc>繼遣尚書都官員外郎吳幾複趨江東<pc>，</pc>殿中丞蔡稟趨江西<pc>，</pc>與長吏<pc>、</pc>轉運使議可否<pc>。</pc>因請行<num value="5">五</num>則法<pc>，</pc>凡差鄉戶衙前<pc>，</pc>視資產多寡置籍<pc>，</pc>分為<num value="5">五</num>則<pc>，</pc>又第其役輕重放此<pc>。</pc>假有第<num value="1">一</num>等重役<num value="10">十</num>
-<pc>，</pc>當役<num value="10">十</num>人<pc>，</pc>列第<num value="1">一</num>等戶<num value="100">百</num>
+<pc>，</pc>當役<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>列第<num value="1">一</num>等戶<num value="100">百</num>
 <pc>；</pc>第<num value="2">二</num>等重役<num value="5">五</num>
-<pc>，</pc>當役<num value="5">五</num>人<pc>，</pc>列第<num value="2">二</num>等戶<num value="50">五十</num>
+<pc>，</pc>當役<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>，</pc>列第<num value="2">二</num>等戶<num value="50">五十</num>
 <pc>，</pc>以備<num value="10">十</num>番役使<pc>。</pc>藏其籍通判治所<pc>，</pc>遇差人<pc>，</pc>長吏以下同按視之<pc>，</pc>轉運使<pc>、</pc>提點刑獄察其違慢<pc>。</pc>遂更著淮南<pc>、</pc>江南<pc>、</pc>兩浙<pc>、</pc>荊湖<pc>、</pc>福建之法<pc>，</pc>下<num value="3">三</num>司頒焉<pc>。</pc>
 </p>
 </div>
 <div>
-<p>自罷裏正衙前<pc>，</pc>民稍休息<pc>。</pc>又詔諸路轉運司<pc>、</pc>開封府界訪衙前之役有重為害者條奏之<pc>；</pc>能件悉便利<pc>、</pc>大去勞弊者議賞<pc>。</pc>置寬恤民力司<pc>，</pc>遣使<num value="4">四</num>出<pc>。</pc>自是州縣力役多所裁損<pc>，</pc>凡<num value="23622">二萬三千六百二十二</num>人<pc>。</pc>
+<p>自罷裏正衙前<pc>，</pc>民稍休息<pc>。</pc>又詔諸路轉運司<pc>、</pc>開封府界訪衙前之役有重為害者條奏之<pc>；</pc>能件悉便利<pc>、</pc>大去勞弊者議賞<pc>。</pc>置寬恤民力司<pc>，</pc>遣使<num value="4">四</num>出<pc>。</pc>自是州縣力役多所裁損<pc>，</pc>凡<measure quantity="23622" unit="people">
+<num value="23622">二萬三千六百二十二</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -91,7 +98,8 @@
 <pc>”</pc>後帝閱內藏庫奏<pc>，</pc>有衙前越<num value="1000">千</num>裏輸金<num value="7">七</num>錢<pc>，</pc>庫吏邀乞<pc>，</pc>逾年不得還者<pc>。</pc>帝重傷之<pc>，</pc>乃詔製置條例司講立役法<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>遣劉彝<pc>、</pc>謝卿材<pc>、</pc>侯叔獻<pc>、</pc>程顥<pc>、</pc>盧秉<pc>、</pc>王汝翼<pc>、</pc>曾伉<pc>、</pc>王廣廉<num value="8">八</num>人行諸路<pc>，</pc>相度農田水利<pc>、</pc>稅賦科率<pc>、</pc>徭役利害<pc>。</pc>
+<pc>，</pc>遣劉彝<pc>、</pc>謝卿材<pc>、</pc>侯叔獻<pc>、</pc>程顥<pc>、</pc>盧秉<pc>、</pc>王汝翼<pc>、</pc>曾伉<pc>、</pc>王廣廉<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>行諸路<pc>，</pc>相度農田水利<pc>、</pc>稅賦科率<pc>、</pc>徭役利害<pc>。</pc>
 </p>
 </div>
 <div>
@@ -123,11 +131,14 @@
 </div>
 <div>
 <p>募法<pc>：</pc>
-<num value="3">三</num>人相任<pc>，</pc>衙前仍供物產為抵<pc>；</pc>弓手試武藝<pc>，</pc>典吏試書計<pc>；</pc>以<measure quantity="3" unit="years">
+<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>相任<pc>，</pc>衙前仍供物產為抵<pc>；</pc>弓手試武藝<pc>，</pc>典吏試書計<pc>；</pc>以<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>或<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>乃更<pc>。</pc>為法既具<pc>，</pc>揭示<measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>
-<pc>，</pc>民無異辭<pc>，</pc>著為令<pc>。</pc>令下<pc>，</pc>募者執役<pc>，</pc>被差者得散去<pc>。</pc>開封<num value="1">一</num>府罷衙前<num value="830">八百三十</num>人<pc>，</pc>畿縣鄉役數<num value="1000">千</num>
+<pc>，</pc>民無異辭<pc>，</pc>著為令<pc>。</pc>令下<pc>，</pc>募者執役<pc>，</pc>被差者得散去<pc>。</pc>開封<num value="1">一</num>府罷衙前<measure quantity="830" unit="people">
+<num value="830">八百三十</num>人</measure>
+<pc>，</pc>畿縣鄉役數<num value="1000">千</num>
 <pc>，</pc>遂頒其法於天下<pc>。</pc>
 </p>
 </div>
@@ -395,7 +406,9 @@
 <p>元祐元年<pc>，</pc>侍禦史劉摯言<pc>：</pc>
 <pc>“</pc>率戶賦錢<pc>，</pc>有從來不預差役而概被斂取者<pc>，</pc>有<num value="1">一</num>戶而輸數<num value="100">百</num>以至<num value="1000">千</num>緡者<pc>。</pc>昔惟衙前<num value="1">一</num>役<pc>，</pc>有至破產者爾<pc>。</pc>今天下坊場<pc>，</pc>官收而官賣之<pc>，</pc>歲計緡錢無慮數<num value="1000000">百萬</num>
 <pc>，</pc>自可足衙前雇募支酬之直<pc>，</pc>則役之重者已無所事於農民矣<pc>。</pc>外惟散從<pc>、</pc>承符<pc>、</pc>弓手<pc>、</pc>手力<pc>、</pc>耆戶長<pc>、</pc>壯丁之類<pc>，</pc>無大勞費<pc>，</pc>宜並用祖宗差法<pc>，</pc>自第<num value="1">一</num>等而下通任之<pc>。</pc>
-<pc>”</pc>監察禦史王岩叟請於衙前大役立本等相助法<pc>，</pc>以盡變通之利<pc>。</pc>借如<num value="1">一</num>邑之中當應大役者<num value="100">百</num>家<pc>，</pc>而歲取<num value="10">十</num>人<pc>，</pc>則<num value="90">九十</num>家出力為助<pc>，</pc>明年易<num value="10">十</num>戶<pc>，</pc>複如之<pc>，</pc>則大役無偏重之弊<pc>；</pc>其於<num value="100">百</num>色無名之差占<pc>，</pc>
+<pc>”</pc>監察禦史王岩叟請於衙前大役立本等相助法<pc>，</pc>以盡變通之利<pc>。</pc>借如<num value="1">一</num>邑之中當應大役者<num value="100">百</num>家<pc>，</pc>而歲取<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>則<num value="90">九十</num>家出力為助<pc>，</pc>明年易<num value="10">十</num>戶<pc>，</pc>複如之<pc>，</pc>則大役無偏重之弊<pc>；</pc>其於<num value="100">百</num>色無名之差占<pc>，</pc>
 <num value="1">一</num>切非理之資陪<pc>，</pc>悉用熙寧新法禁之<pc>，</pc>雖不助猶可為也<pc>。</pc>
 </p>
 </div>
@@ -469,7 +482,9 @@
 <div>
 <p>司馬光之始議差役<pc>，</pc>中書舍人範<num value="100">百</num>祿言於光曰<pc>：</pc>
 <pc>“</pc>熙寧免役法行<pc>，</pc>
-<num value="100">百</num>祿為鹹平縣<pc>，</pc>開封罷遣衙前數<num value="100">百</num>人<pc>，</pc>民皆欣幸<pc>。</pc>其後有司求羨餘<pc>，</pc>務刻剝<pc>，</pc>乃以法為病<pc>。</pc>今第減助免錢額以寬民力可也<pc>。</pc>
+<num value="100">百</num>祿為鹹平縣<pc>，</pc>開封罷遣衙前數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>民皆欣幸<pc>。</pc>其後有司求羨餘<pc>，</pc>務刻剝<pc>，</pc>乃以法為病<pc>。</pc>今第減助免錢額以寬民力可也<pc>。</pc>
 <pc>”</pc>光雖不從<pc>，</pc>及議州縣吏因差役受賕從重法加等配流<pc>，</pc>
 <num value="100">百</num>祿押刑房<pc>，</pc>固執不可曰<pc>：</pc>
 <pc>“</pc>鄉民因徭為吏<pc>，</pc>今日執事而受賕<pc>，</pc>明日罷役<pc>，</pc>複以財遺人<pc>，</pc>若盡以重法繩之<pc>，</pc>將見黥麵赭衣充塞道路矣<pc>。</pc>

@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="178">
 <div>
-<p>◎食貨上<num value="6">六</num>
+<p>
+<name key="null" type="null">◎食貨</name>上<num value="6">六</num>
 <pc>（</pc>役法下振恤<pc>）</pc>役法</p>
 </div>
 <div>
@@ -299,7 +300,9 @@
 <div>
 <p>舊置重修編敕所看詳中外文字本<pc>，</pc>以去年所差鄉役未盡善<pc>，</pc>遂入議曰<pc>：</pc>
 <pc>“</pc>都<pc>、</pc>副保正比耆長事責已輕<pc>，</pc>又有承帖人受行文書<pc>，</pc>即大保長苦無公事<pc>。</pc>元豐本製<pc>，</pc>
-<num value="1">一</num>都之內<pc>，</pc>役者<num value="10">十</num>人<pc>，</pc>副正之外<pc>，</pc>
+<num value="1">一</num>都之內<pc>，</pc>役者<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>副正之外<pc>，</pc>
 <num value="8">八</num>保各差<num value="1">一</num>大長<pc>。</pc>今若常輪<num value="2">二</num>大長分催<num value="10">十</num>保稅租<pc>、</pc>常平錢物<pc>，</pc>
 <num value="1">一</num>稅<num value="1">一</num>替<pc>，</pc>則自不必更輪保丁充甲頭矣<pc>。</pc>凡都保所雇承帖人<pc>，</pc>必選家於本保者<pc>，</pc>而雇直皆從官給<pc>，</pc>
 <measure quantity="1" unit="year">
@@ -333,7 +336,9 @@
 <title>常平免役敕令</title>
 <pc>》</pc>
 <pc>，</pc>頒之天下<pc>。</pc>詔翰林學士承旨兼詳定役法蔡京依舊詳定重修敕令<pc>。</pc>侍禦史董敦逸言<pc>：</pc>
-<pc>“</pc>京在元祐初知開封府<pc>，</pc>附司馬光行差法<pc>，</pc>祥符<num value="1">一</num>縣<pc>，</pc>數日間差至<num value="1100">一千一百</num>人<pc>。</pc>乞以役法專委戶部<pc>。</pc>
+<pc>“</pc>京在元祐初知開封府<pc>，</pc>附司馬光行差法<pc>，</pc>祥符<num value="1">一</num>縣<pc>，</pc>數日間差至<measure quantity="1100" unit="people">
+<num value="1100">一千一百</num>人</measure>
+<pc>。</pc>乞以役法專委戶部<pc>。</pc>
 <pc>”</pc>詔令疏析<pc>。</pc>京奏上<pc>，</pc>複令敦逸自辨<pc>，</pc>京無責焉<pc>。</pc>
 </p>
 </div>
@@ -341,7 +346,8 @@
 <p>元符<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>以蕭世京<pc>、</pc>張行為郎<pc>。</pc>
-<num value="2">二</num>人在元祐中<pc>，</pc>皆嚐言免役法為是<pc>，</pc>帝出其疏擢之<pc>。</pc>既而詔河北東西<pc>、</pc>淮南運司<pc>，</pc>府界提點司<pc>，</pc>如人戶已嚐差充正夫<pc>，</pc>其免夫錢皆罷催<pc>。</pc>後又詔<pc>：</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>在元祐中<pc>，</pc>皆嚐言免役法為是<pc>，</pc>帝出其疏擢之<pc>。</pc>既而詔河北東西<pc>、</pc>淮南運司<pc>，</pc>府界提點司<pc>，</pc>如人戶已嚐差充正夫<pc>，</pc>其免夫錢皆罷催<pc>。</pc>後又詔<pc>：</pc>
 <pc>“</pc>雖因邊事起差夫丁<pc>，</pc>須以應差雇實數上之朝廷<pc>，</pc>未得輒差<pc>。</pc>其河防並溝河歲合用<num value="168000">一十六萬八千</num>餘夫<pc>，</pc>聽人戶納錢以免<pc>。</pc>
 <pc>”</pc>
 </p>
@@ -400,7 +406,8 @@
 <pc>“</pc>役錢<num value="1">一</num>事<pc>，</pc>神宗首防官戶免多<pc>，</pc>特責半輸<pc>。</pc>今比戶稱官<pc>，</pc>州縣募役之類既不可減<pc>，</pc>雇令官戶所減之數均入下戶<pc>，</pc>下戶於常賦之外<pc>，</pc>又代官戶減半之輸<pc>，</pc>豈不重困<pc>？</pc>
 <pc>”</pc>詔<pc>：</pc>
 <pc>“</pc>自今<num value="2">二</num>等以上戶<pc>，</pc>因直降指揮非泛補官者<pc>，</pc>輸賦<pc>、</pc>差科<pc>、</pc>免役並不得示官戶法減免<pc>，</pc>已免者改之<pc>。</pc>進納人自如本法<pc>。</pc>
-<pc>”</pc>保長月給雇錢<pc>，</pc>督催稅賦<pc>。</pc>比年諸縣或每稅戶<num value="20">一二十</num>家<pc>，</pc>又差<num value="1">一</num>人充甲頭及催稅人<pc>，</pc>
+<pc>”</pc>保長月給雇錢<pc>，</pc>督催稅賦<pc>。</pc>比年諸縣或每稅戶<num value="20">一二十</num>家<pc>，</pc>又差<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>充甲頭及催稅人<pc>，</pc>
 <measure quantity="10" unit="days">
 <num value="10">十</num>日</measure>
 <num value="1">一</num>進<pc>，</pc>赴官比磨<pc>，</pc>求取決責<pc>，</pc>有害良民<pc>，</pc>詔禁之<pc>。</pc>
@@ -497,7 +504,7 @@
 <div>
 <p>初<pc>，</pc>建隆<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>戶部郎中沈義倫使<date>吳越</date>還<pc>，</pc>言<pc>：</pc>
+<pc>，</pc>戶部郎中沈義倫使<date when="null">吳越</date>還<pc>，</pc>言<pc>：</pc>
 <pc>“</pc>揚<pc>、</pc>泗饑民多死<pc>，</pc>郡中軍儲尚餘<num value="10000">萬</num>斛<pc>，</pc>宜以貸民<pc>。</pc>
 <pc>”</pc>有司沮之曰<pc>：</pc>
 <pc>“</pc>若來歲不稔<pc>，</pc>誰任其咎<pc>？</pc>
@@ -517,7 +524,9 @@
 <p>仁宗<pc>、</pc>英宗<num value="1">一</num>遇災變<pc>，</pc>則避朝變服<pc>，</pc>損膳徹樂<pc>。</pc>恐懼修省<pc>，</pc>見於顏色<pc>；</pc>惻怛哀矜<pc>，</pc>形於詔旨<pc>。</pc>慶曆初<pc>，</pc>詔天下複立義倉<pc>。</pc>嘉祐<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>又詔天下置廣惠倉<pc>，</pc>使老幼疾貧者皆有所養<pc>。</pc>累朝相承<pc>，</pc>其慮於民也既周<pc>，</pc>其施於民也益厚<pc>。</pc>而又<num value="1">一</num>時牧守<pc>，</pc>亦多得人<pc>，</pc>如張詠之治蜀<pc>，</pc>歲糶米<num value="60000">六萬</num>石<pc>，</pc>著之皇祐甲令<pc>。</pc>
-<persName>富弼</persName>之移青州<pc>，</pc>擇公私廬舍<num value="10">十</num>餘<num value="10000">萬</num>區<pc>，</pc>散處流民以廩之<pc>，</pc>凡活<num value="50">五十</num>餘<num value="10000">萬</num>人<pc>，</pc>募而為兵者又<num value="10000">萬</num>餘人<pc>，</pc>天下傳以為法<pc>。</pc>知鄆州劉夔發廩振饑<pc>，</pc>民賴全活者甚眾<pc>，</pc>盜賊衰止<pc>，</pc>賜詔褒美<pc>。</pc>知越州趙抃揭榜於通衢<pc>，</pc>令民有米增價以糶<pc>，</pc>於是米商輻湊<pc>，</pc>越之米價頓減<pc>，</pc>民無饑死<pc>。</pc>若是之政<pc>，</pc>不可悉書<pc>，</pc>故於先王救荒之法為略具焉<pc>。</pc>
+<persName>富弼</persName>之移青州<pc>，</pc>擇公私廬舍<num value="10">十</num>餘<num value="10000">萬</num>區<pc>，</pc>散處流民以廩之<pc>，</pc>凡活<num value="50">五十</num>餘<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>，</pc>募而為兵者又<num value="10000">萬</num>餘人<pc>，</pc>天下傳以為法<pc>。</pc>知鄆州劉夔發廩振饑<pc>，</pc>民賴全活者甚眾<pc>，</pc>盜賊衰止<pc>，</pc>賜詔褒美<pc>。</pc>知越州趙抃揭榜於通衢<pc>，</pc>令民有米增價以糶<pc>，</pc>於是米商輻湊<pc>，</pc>越之米價頓減<pc>，</pc>民無饑死<pc>。</pc>若是之政<pc>，</pc>不可悉書<pc>，</pc>故於先王救荒之法為略具焉<pc>。</pc>
 </p>
 </div>
 <div>
@@ -543,7 +552,11 @@
 </p>
 </div>
 <div>
-<p>京師舊置東<pc>、</pc>西福田院<pc>，</pc>以廩老疾孤窮丐者<pc>，</pc>其後給錢粟者才<num value="24">二十四</num>人<pc>。</pc>英宗命增置南<pc>、</pc>北福田院<pc>，</pc>並東<pc>、</pc>西各廣官舍<pc>，</pc>日廩<num value="300">三百</num>人<pc>。</pc>歲出內藏錢<num value="5000000">五百萬</num>給其費<pc>，</pc>後易以泗州施利錢<pc>，</pc>增為<num value="8000000">八百萬</num>
+<p>京師舊置東<pc>、</pc>西福田院<pc>，</pc>以廩老疾孤窮丐者<pc>，</pc>其後給錢粟者才<measure quantity="24" unit="people">
+<num value="24">二十四</num>人</measure>
+<pc>。</pc>英宗命增置南<pc>、</pc>北福田院<pc>，</pc>並東<pc>、</pc>西各廣官舍<pc>，</pc>日廩<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>。</pc>歲出內藏錢<num value="5000000">五百萬</num>給其費<pc>，</pc>後易以泗州施利錢<pc>，</pc>增為<num value="8000000">八百萬</num>
 <pc>。</pc>又詔<pc>：</pc>
 <pc>“</pc>州縣長吏遇大雨雪<pc>，</pc>蠲僦舍錢<measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>
@@ -576,14 +589,19 @@
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>又置漏澤園<pc>。</pc>初<pc>，</pc>神宗詔<pc>：</pc>
-<pc>“</pc>開封府界僧寺旅寄棺柩<pc>，</pc>貧不能葬<pc>，</pc>令畿縣各度官不毛地<num value="15">三五</num>頃<pc>，</pc>聽人安厝<pc>，</pc>命僧主之<pc>。</pc>葬及<num value="3000">三千</num>人以上<pc>，</pc>度僧<num value="1">一</num>人<pc>，</pc>
+<pc>“</pc>開封府界僧寺旅寄棺柩<pc>，</pc>貧不能葬<pc>，</pc>令畿縣各度官不毛地<num value="15">三五</num>頃<pc>，</pc>聽人安厝<pc>，</pc>命僧主之<pc>。</pc>葬及<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>以上<pc>，</pc>度僧<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>與紫衣<pc>；</pc>有紫衣<pc>，</pc>與師號<pc>，</pc>更使領事<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>願複領者聽之<pc>。</pc>
 <pc>”</pc>至是<pc>，</pc>蔡京推廣為園<pc>，</pc>置籍<pc>，</pc>瘞人並深<num value="3">三</num>尺<pc>，</pc>毋令暴露<pc>，</pc>監司巡曆檢察<pc>。</pc>安濟坊亦募僧主之<pc>，</pc>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>醫愈<num value="1000">千</num>人<pc>，</pc>賜紫衣<pc>、</pc>祠部牒各<num value="1">一</num>道<pc>。</pc>醫者人給手曆<pc>，</pc>以書所治痊失人<pc>，</pc>歲終考其數為殿最<pc>。</pc>諸城<pc>、</pc>砦<pc>、</pc>鎮<pc>、</pc>市戶及<num value="1000">千</num>以上有知監者<pc>，</pc>依各縣增置居養院<pc>、</pc>安濟坊<pc>、</pc>漏澤園<pc>。</pc>道路遇寒僵仆之人及無衣丐者<pc>，</pc>許送近便居養院<pc>，</pc>給錢米救濟<pc>。</pc>孤貧小兒可教者<pc>，</pc>令入小學聽讀<pc>，</pc>其衣襴於常平頭子錢內給造<pc>，</pc>仍免入齋之用<pc>。</pc>遺棄小兒<pc>，</pc>雇人乳養<pc>，</pc>仍聽宮觀<pc>、</pc>寺院養為童行<pc>。</pc>宣和<measure quantity="2" unit="years">
+<num value="3">三</num>年</measure>醫愈<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>賜紫衣<pc>、</pc>祠部牒各<num value="1">一</num>道<pc>。</pc>醫者人給手曆<pc>，</pc>以書所治痊失人<pc>，</pc>歲終考其數為殿最<pc>。</pc>諸城<pc>、</pc>砦<pc>、</pc>鎮<pc>、</pc>市戶及<num value="1000">千</num>以上有知監者<pc>，</pc>依各縣增置居養院<pc>、</pc>安濟坊<pc>、</pc>漏澤園<pc>。</pc>道路遇寒僵仆之人及無衣丐者<pc>，</pc>許送近便居養院<pc>，</pc>給錢米救濟<pc>。</pc>孤貧小兒可教者<pc>，</pc>令入小學聽讀<pc>，</pc>其衣襴於常平頭子錢內給造<pc>，</pc>仍免入齋之用<pc>。</pc>遺棄小兒<pc>，</pc>雇人乳養<pc>，</pc>仍聽宮觀<pc>、</pc>寺院養為童行<pc>。</pc>宣和<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>詔<pc>：</pc>
 <pc>“</pc>居養<pc>、</pc>安濟<pc>、</pc>漏澤可參考元豐舊法<pc>，</pc>裁立中製<pc>。</pc>應居養人日給粳米或粟米<num value="1">一</num>升<pc>，</pc>錢<num value="10">十</num>文省<pc>，</pc>

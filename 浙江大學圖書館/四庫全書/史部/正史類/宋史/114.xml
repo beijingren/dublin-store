@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="114">
 <div>
-<p>◎禮<num value="17">十七</num>
-<pc>（</pc>嘉禮<num value="5">五</num>
+<p>
+<name key="null" type="null">◎禮十</name>七<pc>（</pc>嘉禮<num value="5">五</num>
 <pc>）</pc>
 </p>
 </div>
@@ -48,14 +48,30 @@
 </p>
 </div>
 <div>
-<p>凡行幸<pc>，</pc>太祖<pc>、</pc>太宗不常其數<pc>。</pc>自鹹平中<pc>，</pc>車駕每出<pc>，</pc>金吾將軍帥士<num value="200">二百</num>人<pc>，</pc>執楇周繞<pc>，</pc>謂之禁圍<pc>，</pc>春<pc>、</pc>夏緋衣<pc>，</pc>秋<pc>、</pc>冬紫衣<pc>。</pc>郊祀<pc>、</pc>省方並增<num value="200">二百</num>
+<p>凡行幸<pc>，</pc>太祖<pc>、</pc>太宗不常其數<pc>。</pc>自鹹平中<pc>，</pc>車駕每出<pc>，</pc>金吾將軍帥士<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>執楇周繞<pc>，</pc>謂之禁圍<pc>，</pc>春<pc>、</pc>夏緋衣<pc>，</pc>秋<pc>、</pc>冬紫衣<pc>。</pc>郊祀<pc>、</pc>省方並增<num value="200">二百</num>
 <pc>，</pc>服錦襖<pc>，</pc>出京師則加執劍<pc>。</pc>親王<pc>、</pc>中書<pc>、</pc>樞密<pc>、</pc>宣徽行圍內<pc>，</pc>餘官圍外<pc>。</pc>大禮備儀衛<pc>，</pc>則有司先布土為黃道<pc>，</pc>自宮 至祀所<pc>，</pc>左右設香台<pc>、</pc>畫甕<pc>、</pc>青繩闌幹<pc>。</pc>
 <pc>（</pc>巡省在途則不設<pc>。</pc>
-<pc>）</pc>凡巡省<pc>，</pc>翰林進號傳詩付樞密院<pc>，</pc>每夕摘字<pc>，</pc>令衛士相應為識<pc>。</pc>東京舊城城門<pc>、</pc>西京皇城司並契勘<pc>，</pc>內外城<pc>、</pc>宮廟門並勘箭<pc>，</pc>出入皆然<pc>。</pc>入藩鎮外城<pc>、</pc>子城門亦勘箭<pc>。</pc>朝陵定扈從官人數<pc>，</pc>入柏城者<pc>，</pc>仆射以上<num value="3">三</num>人<pc>，</pc>丞<pc>、</pc>郎以上<num value="2">二</num>人<pc>，</pc>餘各<num value="1">一</num>人<pc>。</pc>東封<pc>，</pc>定仗內導駕官 從人數<pc>，</pc>親王<pc>、</pc>中書<pc>、</pc>樞密<pc>、</pc>宣徽<pc>、</pc>
-<num value="3">三</num>司使<num value="4">四</num>人<pc>，</pc>學士<pc>、</pc>尚書丞郎<pc>、</pc>
+<pc>）</pc>凡巡省<pc>，</pc>翰林進號傳詩付樞密院<pc>，</pc>每夕摘字<pc>，</pc>令衛士相應為識<pc>。</pc>東京舊城城門<pc>、</pc>西京皇城司並契勘<pc>，</pc>內外城<pc>、</pc>宮廟門並勘箭<pc>，</pc>出入皆然<pc>。</pc>入藩鎮外城<pc>、</pc>子城門亦勘箭<pc>。</pc>朝陵定扈從官人數<pc>，</pc>入柏城者<pc>，</pc>仆射以上<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>丞<pc>、</pc>郎以上<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>餘各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>東封<pc>，</pc>定仗內導駕官 從人數<pc>，</pc>親王<pc>、</pc>中書<pc>、</pc>樞密<pc>、</pc>宣徽<pc>、</pc>
+<num value="3">三</num>司使<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>學士<pc>、</pc>尚書丞郎<pc>、</pc>
 <term>節度使</term>
-<num value="3">三</num>人<pc>，</pc>大兩省<pc>、</pc>大卿監<pc>、</pc>
-<num value="3">三</num>司副使<pc>、</pc>樞密承旨<pc>、</pc>客省閣門使副<pc>、</pc>金吾大將軍押仗鳴珂<pc>、</pc>內 殿崇班以上<num value="2">二</num>人<pc>，</pc>餘各<num value="1">一</num>人<pc>。</pc>命諸司巡察之<pc>。</pc>自後舉大禮<pc>，</pc>皆循此製<pc>。</pc>
+<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>大兩省<pc>、</pc>大卿監<pc>、</pc>
+<num value="3">三</num>司副使<pc>、</pc>樞密承旨<pc>、</pc>客省閣門使副<pc>、</pc>金吾大將軍押仗鳴珂<pc>、</pc>內 殿崇班以上<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>餘各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>命諸司巡察之<pc>。</pc>自後舉大禮<pc>，</pc>皆循此製<pc>。</pc>
 </p>
 </div>
 <div>
@@ -151,7 +167,8 @@
 <pc>》</pc>作<pc>，</pc>皇帝即禦坐<pc>，</pc>樂止<pc>。</pc>典儀曰<pc>“</pc>再拜<pc>”</pc>
 <pc>，</pc>在位官皆再 拜<pc>。</pc>
 <num value="3">三</num>老<pc>、</pc>
-<num value="5">五</num>更杖而入<pc>，</pc>各左右<num value="2">二</num>人夾扶<pc>，</pc>太常博士前引<pc>，</pc>史臣執筆以從<pc>。</pc>
+<num value="5">五</num>更杖而入<pc>，</pc>各左右<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>夾扶<pc>，</pc>太常博士前引<pc>，</pc>史臣執筆以從<pc>。</pc>
 <num value="3">三</num>老<pc>、</pc>
 <num value="5">五</num>更入門<pc>，</pc>宮架<pc>《</pc>
 <title>和安之樂</title>
@@ -248,7 +265,9 @@
 <pc>“</pc>朕自睦鄰息兵<pc>，</pc>首開學校<pc>。</pc>教養多士<pc>，</pc>以遂忠良<pc>。</pc>繼幸太學<pc>，</pc>延見諸生<pc>。</pc>濟濟在庭<pc>，</pc>意甚嘉之<pc>。</pc>因作<pc>《</pc>
 <title>文宣王讚</title>
 <pc>》</pc>
-<pc>。</pc>機政餘閑<pc>，</pc>曆取顏回而下<num value="72">七十二</num>人<pc>，</pc>亦為製讚<pc>。</pc>用廣列聖崇儒右文之聲<pc>，</pc>複 知‘師弟子間纓弁森森<pc>、</pc>覃精繹思’之訓<pc>，</pc>其於世道人心庶幾焉<pc>。</pc>
+<pc>。</pc>機政餘閑<pc>，</pc>曆取顏回而下<measure quantity="72" unit="people">
+<num value="72">七十二</num>人</measure>
+<pc>，</pc>亦為製讚<pc>。</pc>用廣列聖崇儒右文之聲<pc>，</pc>複 知‘師弟子間纓弁森森<pc>、</pc>覃精繹思’之訓<pc>，</pc>其於世道人心庶幾焉<pc>。</pc>
 <pc>”</pc>
 <measure quantity="26" unit="years">
 <num value="26">二十六</num>年</measure>
@@ -544,7 +563,9 @@
 </p>
 </div>
 <div>
-<p>凡遊幸池苑<pc>，</pc>或命宗室<pc>、</pc>武臣射<pc>，</pc>每帝射中的<pc>，</pc>從官再拜奉觴<pc>、</pc>貢馬為賀<pc>。</pc>預射官中者<pc>，</pc>帝為之解<pc>，</pc>賜襲衣<pc>、</pc>金帶<pc>、</pc>散馬<pc>，</pc>不解則不賜<pc>。</pc>苑中皆有射棚<pc>、</pc>畫暈的<pc>。</pc>射則用招箭班<num value="30">三十</num>人<pc>，</pc>服緋紫繡衣<pc>、</pc>帕首<pc>，</pc>分立左右<pc>，</pc>以唱中否<pc>。</pc>節序賜宴<pc>，</pc>則宗室<pc>、</pc>禁軍大校<pc>、</pc>牧伯<pc>、</pc>諸司使副皆令習射<pc>，</pc>遂為定製<pc>。</pc>外國使入朝<pc>，</pc>亦令帥臣伴<pc>，</pc>賜射於園苑<pc>。</pc>
+<p>凡遊幸池苑<pc>，</pc>或命宗室<pc>、</pc>武臣射<pc>，</pc>每帝射中的<pc>，</pc>從官再拜奉觴<pc>、</pc>貢馬為賀<pc>。</pc>預射官中者<pc>，</pc>帝為之解<pc>，</pc>賜襲衣<pc>、</pc>金帶<pc>、</pc>散馬<pc>，</pc>不解則不賜<pc>。</pc>苑中皆有射棚<pc>、</pc>畫暈的<pc>。</pc>射則用招箭班<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>，</pc>服緋紫繡衣<pc>、</pc>帕首<pc>，</pc>分立左右<pc>，</pc>以唱中否<pc>。</pc>節序賜宴<pc>，</pc>則宗室<pc>、</pc>禁軍大校<pc>、</pc>牧伯<pc>、</pc>諸司使副皆令習射<pc>，</pc>遂為定製<pc>。</pc>外國使入朝<pc>，</pc>亦令帥臣伴<pc>，</pc>賜射於園苑<pc>。</pc>
 </p>
 </div>
 <div>

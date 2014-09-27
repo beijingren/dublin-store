@@ -24,17 +24,33 @@
 <body>
 <div type="chapter" n="147">
 <div>
-<p>◎儀衛<num value="5">五</num>
+<p>
+<name key="null" type="null">◎儀衛</name>
+<num value="5">五</num>
 </p>
 </div>
 <div>
 <p>○紹興鹵簿皇太後皇後鹵簿皇太子鹵簿妃附王公以下鹵簿</p>
 </div>
 <div>
-<p>紹興鹵簿<pc>。</pc>宋初<pc>，</pc>大駕用<num value="11222">一萬一千二百二十二</num>人<pc>。</pc>宣和<pc>，</pc>增用<num value="20061">二萬六十一</num>人<pc>。</pc>建炎初<pc>，</pc>裁定<num value="1335">一千三百三十五</num>人<pc>。</pc>紹興初<pc>，</pc>用宋初之數<pc>，</pc>
+<p>紹興鹵簿<pc>。</pc>宋初<pc>，</pc>大駕用<measure quantity="11222" unit="people">
+<num value="11222">一萬一千二百二十二</num>人</measure>
+<pc>。</pc>宣和<pc>，</pc>增用<measure quantity="20061" unit="people">
+<num value="20061">二萬六十一</num>人</measure>
+<pc>。</pc>建炎初<pc>，</pc>裁定<measure quantity="1335" unit="people">
+<num value="1335">一千三百三十五</num>人</measure>
+<pc>。</pc>紹興初<pc>，</pc>用宋初之數<pc>，</pc>
 <measure quantity="16" unit="years">
-<num value="16">十六</num>年</measure>以後<pc>，</pc>遂用<num value="15050">一萬五千五十</num>人<pc>；</pc>明堂<num value="3">三</num>分省<num value="1">一</num>
-<pc>，</pc>用<num value="10015">一萬一十五</num>人<pc>，</pc>孝宗用<num value="6889">六千八百八十九</num>人<pc>，</pc>明堂用<num value="3319">三千三百十九</num>人<pc>。</pc>以後<pc>，</pc>並用孝宗之數<pc>。</pc>
+<num value="16">十六</num>年</measure>以後<pc>，</pc>遂用<measure quantity="15050" unit="people">
+<num value="15050">一萬五千五十</num>人</measure>
+<pc>；</pc>明堂<num value="3">三</num>分省<num value="1">一</num>
+<pc>，</pc>用<measure quantity="10015" unit="people">
+<num value="10015">一萬一十五</num>人</measure>
+<pc>，</pc>孝宗用<measure quantity="6889" unit="people">
+<num value="6889">六千八百八十九</num>人</measure>
+<pc>，</pc>明堂用<measure quantity="3319" unit="people">
+<num value="3319">三千三百十九</num>人</measure>
+<pc>。</pc>以後<pc>，</pc>並用孝宗之數<pc>。</pc>
 </p>
 </div>
 <div>
@@ -48,17 +64,27 @@
 </div>
 <div>
 <p>
-<num value="6">六</num>引<pc>。</pc>第<num value="1">一</num>引<pc>，</pc>清道<num value="2">二</num>人<pc>；</pc>
+<num value="6">六</num>引<pc>。</pc>第<num value="1">一</num>引<pc>，</pc>清道<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>；</pc>
 <pc>（</pc>孝宗省之<pc>。</pc>
-<pc>）</pc>幰弩<num value="1">一</num>人<pc>，</pc>騎<pc>；</pc>方傘<num value="1">一</num>
+<pc>）</pc>幰弩<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>騎<pc>；</pc>方傘<num value="1">一</num>
 <pc>，</pc>雜花扇<num value="2">二</num>
 <pc>，</pc>曲蓋<num value="1">一</num>
-<pc>；</pc>外仗青衣<num value="2">二</num>人<pc>，</pc>車輻棒<num value="2">二</num>
+<pc>；</pc>外仗青衣<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>車輻棒<num value="2">二</num>
 <pc>，</pc>告止<pc>、</pc>傳教<pc>、</pc>信幡各<num value="2">二</num>
 <pc>，</pc>戟<num value="10">十</num>
-<pc>。</pc>第<num value="2">二</num>引<pc>，</pc>清道<num value="2">二</num>人<pc>；</pc>
+<pc>。</pc>第<num value="2">二</num>引<pc>，</pc>清道<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>；</pc>
 <pc>（</pc>孝宗省之<pc>。</pc>
-<pc>）</pc>幰弩<num value="1">一</num>人<pc>，</pc>騎<pc>；</pc>鼓<num value="1">一</num>
+<pc>）</pc>幰弩<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>騎<pc>；</pc>鼓<num value="1">一</num>
 <pc>，</pc>鉦<num value="1">一</num>
 <pc>，</pc>大鼓<num value="10">十</num>
 <pc>；</pc>節<num value="1">一</num>
@@ -80,7 +106,9 @@
 <pc>，</pc>簫<num value="1">一</num>
 <pc>，</pc>觱栗<num value="1">一</num>
 <pc>，</pc>笳<num value="1">一</num>
-<pc>；</pc>外仗青衣<num value="4">四</num>人<pc>，</pc>
+<pc>；</pc>外仗青衣<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>孝宗省為<num value="2">二</num>
 <pc>。</pc>
 <pc>）</pc>車輻棒<num value="4">四</num>
@@ -102,7 +130,9 @@
 <pc>、</pc>第<num value="4">四</num>
 <pc>、</pc>第<num value="5">五</num>
 <pc>、</pc>第<num value="6">六</num>引<pc>，</pc>並同第<num value="2">二</num>引<pc>。</pc>內花扇<pc>、</pc>大角各<num value="2">二</num>
-<pc>，</pc>青衣<num value="2">二</num>人<pc>。</pc>
+<pc>，</pc>青衣<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <pc>（</pc>孝宗朝<pc>，</pc>第<num value="3">三</num>
 <pc>、</pc>第<num value="4">四</num>
 <pc>、</pc>第<num value="5">五</num>
@@ -116,15 +146,25 @@
 <pc>，</pc>
 <pc>（</pc>孝宗省為<num value="6">六</num>
 <pc>。</pc>
-<pc>）</pc>押纛<num value="2">二</num>人<pc>，</pc>
+<pc>）</pc>押纛<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>孝宗省為<num value="1">一</num>
 <pc>。</pc>
-<pc>）</pc>押衙<num value="4">四</num>人<pc>，</pc>
+<pc>）</pc>押衙<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>孝宗省為<num value="2">二</num>
 <pc>。</pc>
-<pc>）</pc>上將軍<num value="4">四</num>人<pc>，</pc>將軍<num value="4">四</num>人<pc>，</pc>
+<pc>）</pc>上將軍<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>將軍<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>孝宗省之<pc>。</pc>
-<pc>）</pc>大將軍<num value="2">二</num>人<pc>，</pc>
+<pc>）</pc>大將軍<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>孝宗省為<num value="1">一</num>
 <pc>。</pc>
 <pc>）</pc>暴槊<num value="12">十二</num>
@@ -134,21 +174,33 @@
 <pc>）</pc>朱雀隊<pc>。</pc>朱雀旗<num value="1">一</num>
 <pc>，</pc>暴槊<num value="2">二</num>
 <pc>，</pc>弩<num value="4">四</num>
-<pc>，</pc>隊前後引<pc>、</pc>押各天武都指揮使<num value="1">一</num>人<pc>，</pc>騎<pc>。</pc>龍旗隊<pc>。</pc>引旗<num value="1">一</num>
+<pc>，</pc>隊前後引<pc>、</pc>押各天武都指揮使<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>騎<pc>。</pc>龍旗隊<pc>。</pc>引旗<num value="1">一</num>
 <pc>，</pc>風師<pc>、</pc>雨師<pc>、</pc>雷旗<pc>、</pc>電旗各<num value="1">一</num>
 <pc>，</pc>
 <num value="5">五</num>星旗<num value="5">五</num>
 <pc>，</pc>攝提旗<num value="2">二</num>
 <pc>，</pc>北鬥旗<num value="1">一</num>
 <pc>，</pc>護旗<num value="1">一</num>
-<pc>，</pc>左右衛大將軍<num value="1">一</num>人<pc>。</pc>金吾引駕騎<pc>，</pc>神勇都指揮使<pc>；</pc>次弩<pc>、</pc>弓矢<pc>、</pc>槊各<num value="4">四</num>
+<pc>，</pc>左右衛大將軍<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>金吾引駕騎<pc>，</pc>神勇都指揮使<pc>；</pc>次弩<pc>、</pc>弓矢<pc>、</pc>槊各<num value="4">四</num>
 <pc>，</pc>並騎<pc>。</pc>
 </p>
 </div>
 <div>
 <p>太常前部鼓吹<pc>。</pc>鼓吹令<num value="2">二</num>
-<pc>，</pc>府史<num value="4">四</num>人<pc>，</pc>管轄指揮使<num value="1">一</num>人<pc>，</pc>帥兵官<num value="36">三十六</num>人<pc>，</pc>
-<pc>（</pc>孝宗省作<num value="14">十四</num>人<pc>。</pc>
+<pc>，</pc>府史<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>管轄指揮使<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>帥兵官<measure quantity="36" unit="people">
+<num value="36">三十六</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省作<measure quantity="14" unit="people">
+<num value="14">十四</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>鼓<num value="12">十二</num>
 <pc>，</pc>金鉦<num value="12">十二</num>
 <pc>，</pc>
@@ -194,7 +246,15 @@
 </p>
 </div>
 <div>
-<p>持鈒前隊<pc>。</pc>驍騎都指揮使<num value="1">一</num>人<pc>，</pc>將軍<num value="2">二</num>人<pc>，</pc>軍使<num value="4">四</num>人<pc>，</pc>並騎<pc>。</pc>稱長<num value="1">一</num>人<pc>，</pc>靈芝旗<num value="2">二</num>
+<p>持鈒前隊<pc>。</pc>驍騎都指揮使<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>將軍<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>軍使<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>並騎<pc>。</pc>稱長<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>靈芝旗<num value="2">二</num>
 <pc>，</pc>瑞瓜旗<num value="2">二</num>
 <pc>，</pc>雙蓮花旗<num value="2">二</num>
 <pc>，</pc>太平瑞木旗<num value="2">二</num>
@@ -282,7 +342,8 @@
 </div>
 <div>
 <p>龍墀旗隊<pc>。</pc>天下太平旗<num value="1">一</num>
-<pc>，</pc>排仗大將<num value="2">二</num>人夾之<pc>；</pc>
+<pc>，</pc>排仗大將<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>夾之<pc>；</pc>
 <num value="5">五</num>方龍旗各<num value="1">一</num>
 <pc>，</pc>
 <pc>（</pc>為<num value="3">三</num>重<pc>。</pc>
@@ -293,7 +354,8 @@
 <num value="10000">萬</num>歲</measure>旗<num value="1">一</num>
 <pc>；</pc>日旗<num value="1">一</num>
 <pc>，</pc>左<pc>，</pc>月旗<num value="1">一</num>
-<pc>，</pc>右<pc>。</pc>禦馬<num value="10">十</num>匹<pc>，</pc>分左右<pc>，</pc>為<num value="5">五</num>重<pc>。</pc>中道隊<pc>。</pc>左右衛大將軍<num value="1">一</num>人檢校<pc>，</pc>騎<pc>。</pc>日月合璧旗<num value="1">一</num>
+<pc>，</pc>右<pc>。</pc>禦馬<num value="10">十</num>匹<pc>，</pc>分左右<pc>，</pc>為<num value="5">五</num>重<pc>。</pc>中道隊<pc>。</pc>左右衛大將軍<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>檢校<pc>，</pc>騎<pc>。</pc>日月合璧旗<num value="1">一</num>
 <pc>，</pc>慶雲旗<num value="2">二</num>
 <pc>，</pc>
 <num value="5">五</num>星連珠旗<num value="1">一</num>
@@ -323,7 +385,9 @@
 <num value="5">五</num>方旗在右<pc>；</pc>
 <num value="5">五</num>龍旗在左<pc>，</pc>
 <num value="5">五</num>鳳旗在右<pc>；</pc>
-<num value="4">四</num>瀆旗<pc>，</pc>江<pc>、</pc>淮在左<pc>，</pc>河<pc>、</pc>濟在右<pc>；</pc>押<num value="2">二</num>人<pc>，</pc>分左右<pc>，</pc>騎<pc>。</pc>
+<num value="4">四</num>瀆旗<pc>，</pc>江<pc>、</pc>淮在左<pc>，</pc>河<pc>、</pc>濟在右<pc>；</pc>押<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>分左右<pc>，</pc>騎<pc>。</pc>
 <pc>（</pc>孝宗<num value="5">五</num>龍<pc>、</pc>
 <num value="5">五</num>鳳旗止各<num value="1">一</num>隊<pc>，</pc>共省<num value="40">四十</num>旗<pc>，</pc>餘同<pc>。</pc>
 <pc>）</pc>
@@ -332,7 +396,17 @@
 <div>
 <p>
 <num value="8">八</num>寶輿<pc>。</pc>鎮國神寶左<pc>，</pc>受命之寶右<pc>；</pc>皇帝之寶左<pc>，</pc>天子之寶右<pc>；</pc>皇帝信寶左<pc>，</pc>天子信寶右<pc>；</pc>皇帝行寶左<pc>，</pc>天子行寶右<pc>，</pc>為<num value="4">四</num>列<pc>。</pc>每寶<num value="1">一</num>輿<pc>，</pc>每輿<num value="1">一</num>香案<pc>，</pc>輿<pc>、</pc>案前燭罩<num value="32">三十二</num>
-<pc>。</pc>引寶職掌<num value="8">八</num>人<pc>，</pc>侍寶官<num value="1">一</num>人<pc>，</pc>內外符寶郎各<num value="2">二</num>人<pc>，</pc>扈衛<num value="100">一百</num>人<pc>。</pc>碧襴<num value="20">二十</num>人<pc>，</pc>夾扈衛之外<pc>。</pc>
+<pc>。</pc>引寶職掌<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>侍寶官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>內外符寶郎各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>扈衛<measure quantity="100" unit="people">
+<num value="100">一百</num>人</measure>
+<pc>。</pc>碧襴<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>夾扈衛之外<pc>。</pc>
 <pc>（</pc>孝宗省碧襴為<num value="12">十二</num>
 <pc>，</pc>餘同<pc>。</pc>
 <pc>）</pc>
@@ -347,17 +421,33 @@
 <pc>，</pc>
 <pc>（</pc>孝宗省<num value="2">二</num>
 <pc>。</pc>
-<pc>）</pc>金吾<num value="4">四</num>色官<num value="6">六</num>人<pc>，</pc>
+<pc>）</pc>金吾<num value="4">四</num>色官<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>孝宗省為<num value="2">二</num>
 <pc>。</pc>
-<pc>）</pc>押仗<num value="2">二</num>人<pc>，</pc>騎<pc>，</pc>金甲<num value="2">二</num>人<pc>，</pc>執鉞<pc>，</pc>進馬官<num value="4">四</num>人<pc>，</pc>騎<pc>，</pc>
-<num value="1000">千</num>牛衛大將軍<num value="1">一</num>人<pc>，</pc>
+<pc>）</pc>押仗<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>騎<pc>，</pc>金甲<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>執鉞<pc>，</pc>進馬官<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>騎<pc>，</pc>
+<num value="1000">千</num>牛衛大將軍<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>孝宗省之<pc>。</pc>
 <pc>）</pc>
-<num value="1000">千</num>牛衛將軍<num value="8">八</num>人<pc>，</pc>
+<num value="1000">千</num>牛衛將軍<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>孝宗省為<num value="2">二</num>
 <pc>。</pc>
-<pc>）</pc>金吾引駕官<num value="2">二</num>人<pc>，</pc>導駕官<num value="4">四</num>人<pc>，</pc>並騎導<pc>。</pc>大傘<num value="2">二</num>
+<pc>）</pc>金吾引駕官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>導駕官<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>並騎導<pc>。</pc>大傘<num value="2">二</num>
 <pc>，</pc>
 <pc>（</pc>孝宗省<num value="1">一</num>
 <pc>。</pc>
@@ -373,26 +463,53 @@
 <pc>（</pc>孝宗省為<num value="4">四</num>
 <pc>。</pc>
 <pc>）</pc>華蓋<num value="2">二</num>
-<pc>，</pc>排列官<num value="1">一</num>人<pc>，</pc>香鐙<num value="1">一</num>
+<pc>，</pc>排列官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>香鐙<num value="1">一</num>
 <pc>，</pc>火燎<num value="1">一</num>
 <pc>，</pc>小輿<num value="1">一</num>
 <pc>，</pc>逍遙子<pc>，</pc>平輦<pc>。</pc>
 </p>
 </div>
 <div>
-<p>駕前諸班直<pc>。</pc>駕頭<pc>、</pc>鳴鞭<pc>、</pc>誕馬<pc>、</pc>燭罩<num value="330">三百三十</num>人<pc>。</pc>
-<pc>（</pc>孝宗省為<num value="210">二百一十</num>人<pc>。</pc>
-<pc>）</pc>前驅都下親從官<num value="150">一百五十</num>人<pc>，</pc>
-<pc>（</pc>孝宗省為<num value="45">四十五</num>人<pc>。</pc>
-<pc>）</pc>東西班<num value="6">六</num>人<pc>，</pc>
-<pc>（</pc>孝宗省為<num value="22">二十二</num>人約攔<pc>。</pc>
-<pc>）</pc>殿前指揮使<num value="40">四十</num>人<pc>，</pc>東第<num value="3">三</num>班長入祗候<num value="52">五十二</num>人<pc>，</pc>班直主首<num value="9">九</num>人<pc>，</pc>
-<pc>（</pc>孝宗省為<num value="3">三</num>人<pc>。</pc>
-<pc>）</pc>茶酒新舊班<num value="106">一百六</num>人<pc>，</pc>
-<pc>（</pc>孝宗省為<num value="44">四十四</num>人<pc>。</pc>
+<p>駕前諸班直<pc>。</pc>駕頭<pc>、</pc>鳴鞭<pc>、</pc>誕馬<pc>、</pc>燭罩<measure quantity="330" unit="people">
+<num value="330">三百三十</num>人</measure>
+<pc>。</pc>
+<pc>（</pc>孝宗省為<measure quantity="210" unit="people">
+<num value="210">二百一十</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>前驅都下親從官<measure quantity="150" unit="people">
+<num value="150">一百五十</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省為<measure quantity="45" unit="people">
+<num value="45">四十五</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>東西班<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省為<measure quantity="22" unit="people">
+<num value="22">二十二</num>人</measure>約攔<pc>。</pc>
+<pc>）</pc>殿前指揮使<measure quantity="40" unit="people">
+<num value="40">四十</num>人</measure>
+<pc>，</pc>東第<num value="3">三</num>班長入祗候<measure quantity="52" unit="people">
+<num value="52">五十二</num>人</measure>
+<pc>，</pc>班直主首<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省為<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>茶酒新舊班<measure quantity="106" unit="people">
+<num value="106">一百六</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省為<measure quantity="44" unit="people">
+<num value="44">四十四</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>開道旗<num value="1">一</num>
 <pc>，</pc>纛<num value="12">一十二</num>
-<pc>，</pc>鈞容直<num value="270">二百七十</num>人<pc>，</pc>
+<pc>，</pc>鈞容直<measure quantity="270" unit="people">
+<num value="270">二百七十</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>架回則作樂<pc>。</pc>孝宗乾道元年省之<pc>，</pc>乾道<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>以後再用<pc>。</pc>
 <pc>）</pc>吉利旗<num value="5">五</num>
@@ -405,66 +522,158 @@
 <pc>，</pc>
 <pc>（</pc>孝宗省為<num value="30">三十</num>
 <pc>。</pc>
-<pc>）</pc>殿前指揮使<pc>、</pc>引駕骨朵子直<num value="40">四十</num>人<pc>。</pc>
+<pc>）</pc>殿前指揮使<pc>、</pc>引駕骨朵子直<measure quantity="40" unit="people">
+<num value="40">四十</num>人</measure>
+<pc>。</pc>
 <pc>（</pc>分左右<pc>，</pc>夾門旗外<pc>。</pc>
-<pc>）</pc>駕頭<pc>，</pc>駕頭下天武官<num value="22">二十二</num>人<pc>，</pc>
-<pc>（</pc>孝宗省為<num value="17">十七</num>人<pc>。</pc>
-<pc>）</pc>都下親從<num value="16">一十六</num>人<pc>，</pc>
-<pc>（</pc>孝宗省為<num value="8">八</num>人<pc>。</pc>
-<pc>）</pc>茶酒班執從物殿侍<num value="22">二十二</num>人<pc>，</pc>又都下親從<num value="22">二十二</num>人<pc>，</pc>
-<pc>（</pc>孝宗省為<num value="17">十七</num>人<pc>。</pc>
-<pc>）</pc>劍<num value="6">六</num>人<pc>，</pc>
-<pc>（</pc>孝宗省為<num value="3">三</num>人<pc>。</pc>
+<pc>）</pc>駕頭<pc>，</pc>駕頭下天武官<measure quantity="22" unit="people">
+<num value="22">二十二</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省為<measure quantity="17" unit="people">
+<num value="17">十七</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>都下親從<measure quantity="16" unit="people">
+<num value="16">一十六</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省為<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>茶酒班執從物殿侍<measure quantity="22" unit="people">
+<num value="22">二十二</num>人</measure>
+<pc>，</pc>又都下親從<measure quantity="22" unit="people">
+<num value="22">二十二</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省為<measure quantity="17" unit="people">
+<num value="17">十七</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>劍<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省為<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>麋旗<num value="1">一</num>
 <pc>，</pc>人員<num value="1">一</num>
 <pc>，</pc>
 <pc>（</pc>孝宗省之<pc>。</pc>
-<pc>）</pc>殿前指揮使<pc>、</pc>行門<num value="22">二十二</num>人<pc>，</pc>鳴鞭<num value="12">十二</num>人<pc>。</pc>
-<pc>（</pc>孝宗增為<num value="14">一十四</num>人<pc>。</pc>
-<pc>）</pc>次禦龍直<num value="20">百二十</num>人<pc>，</pc>
-<pc>（</pc>孝宗省為<num value="86">八十六</num>人<pc>。</pc>
-<pc>）</pc>快行<num value="50">五十</num>人<pc>，</pc>日<pc>、</pc>月<pc>、</pc>麟<pc>、</pc>鳳旗各<num value="1">一</num>
+<pc>）</pc>殿前指揮使<pc>、</pc>行門<measure quantity="22" unit="people">
+<num value="22">二十二</num>人</measure>
+<pc>，</pc>鳴鞭<measure quantity="12" unit="people">
+<num value="12">十二</num>人</measure>
+<pc>。</pc>
+<pc>（</pc>孝宗增為<measure quantity="14" unit="people">
+<num value="14">一十四</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>次禦龍直<measure quantity="20" unit="people">
+<num value="20">百二十</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省為<measure quantity="86" unit="people">
+<num value="86">八十六</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>快行<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>，</pc>日<pc>、</pc>月<pc>、</pc>麟<pc>、</pc>鳳旗各<num value="1">一</num>
 <pc>，</pc>青龍<pc>、</pc>白龍<pc>、</pc>赤龍<pc>、</pc>黑龍旗<num value="4">四</num>
 <pc>，</pc>人員<num value="2">二</num>
-<pc>，</pc>引駕<num value="1000">千</num>牛上將軍<num value="1">一</num>人<pc>。</pc>
+<pc>，</pc>引駕<num value="1000">千</num>牛上將軍<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
-<p>玉輅奉宸隊<pc>。</pc>分左右<pc>，</pc>充禁衛<pc>，</pc>圍子<num value="8">八</num>重<pc>：</pc>崇政殿親從圍子<num value="200">二百</num>人<pc>，</pc>為第<num value="1">一</num>重<pc>；</pc>
+<p>玉輅奉宸隊<pc>。</pc>分左右<pc>，</pc>充禁衛<pc>，</pc>圍子<num value="8">八</num>重<pc>：</pc>崇政殿親從圍子<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>為第<num value="1">一</num>重<pc>；</pc>
 <pc>（</pc>從裏數出<pc>。</pc>
-<pc>）</pc>禦龍直<num value="250">二百五十</num>人<pc>，</pc>為第<num value="2">二</num>重<pc>；</pc>崇政殿親從外圍子<num value="250">二百五十</num>人<pc>，</pc>為第<num value="3">三</num>重<pc>；</pc>禦龍直<pc>、</pc>骨朵子直<num value="250">二百五十</num>人<pc>，</pc>為第<num value="4">四</num>重<pc>；</pc>禦龍弓箭直<num value="250">二百五十</num>人<pc>，</pc>為第<num value="5">五</num>重<pc>；</pc>禦龍弩直<num value="250">二百五十</num>人<pc>，</pc>為第<num value="6">六</num>重<pc>；</pc>禁衛天武<num value="250">二百五十</num>人<pc>，</pc>為第<num value="7">七</num>重<pc>；</pc>都下親從圍子<num value="300">三百</num>人<pc>，</pc>為第<num value="8">八</num>重<pc>。</pc>
+<pc>）</pc>禦龍直<measure quantity="250" unit="people">
+<num value="250">二百五十</num>人</measure>
+<pc>，</pc>為第<num value="2">二</num>重<pc>；</pc>崇政殿親從外圍子<measure quantity="250" unit="people">
+<num value="250">二百五十</num>人</measure>
+<pc>，</pc>為第<num value="3">三</num>重<pc>；</pc>禦龍直<pc>、</pc>骨朵子直<measure quantity="250" unit="people">
+<num value="250">二百五十</num>人</measure>
+<pc>，</pc>為第<num value="4">四</num>重<pc>；</pc>禦龍弓箭直<measure quantity="250" unit="people">
+<num value="250">二百五十</num>人</measure>
+<pc>，</pc>為第<num value="5">五</num>重<pc>；</pc>禦龍弩直<measure quantity="250" unit="people">
+<num value="250">二百五十</num>人</measure>
+<pc>，</pc>為第<num value="6">六</num>重<pc>；</pc>禁衛天武<measure quantity="250" unit="people">
+<num value="250">二百五十</num>人</measure>
+<pc>，</pc>為第<num value="7">七</num>重<pc>；</pc>都下親從圍子<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>，</pc>為第<num value="8">八</num>重<pc>。</pc>
 <pc>（</pc>孝宗以上並同<pc>。</pc>
-<pc>）</pc>天武約攔<num value="200">二百</num>人<pc>，</pc>
-<pc>（</pc>孝宗省作<num value="88">百八十八</num>人<pc>。</pc>
-<pc>）</pc>在禁衛圍子外<pc>，</pc>編排禁衛行子<num value="21">二十一</num>人<pc>，</pc>快行<num value="59">五十九</num>人<pc>，</pc>
+<pc>）</pc>天武約攔<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省作<measure quantity="88" unit="people">
+<num value="88">百八十八</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>在禁衛圍子外<pc>，</pc>編排禁衛行子<measure quantity="21" unit="people">
+<num value="21">二十一</num>人</measure>
+<pc>，</pc>快行<measure quantity="59" unit="people">
+<num value="59">五十九</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>孝宗省為<num value="42">四十二</num>
 <pc>。</pc>
-<pc>）</pc>管押相視禦龍<num value="4">四</num>直<num value="8">八</num>人<pc>，</pc>
-<pc>（</pc>孝宗省為<num value="4">四</num>人<pc>。</pc>
-<pc>）</pc>照管行子禦龍<num value="4">四</num>直<num value="24">二十四</num>人<pc>，</pc>
-<pc>（</pc>孝宗省為<num value="8">八</num>人<pc>。</pc>
-<pc>）</pc>天武<num value="6">六</num>人<pc>，</pc>
+<pc>）</pc>管押相視禦龍<num value="4">四</num>直<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省為<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>照管行子禦龍<num value="4">四</num>直<measure quantity="24" unit="people">
+<num value="24">二十四</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省為<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>天武<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>孝宗省之<pc>。</pc>
-<pc>）</pc>禁衛內攔前崇政殿親從<num value="32">三十二</num>人<pc>。</pc>
-<pc>（</pc>孝宗省作<num value="25">二十五</num>人<pc>。</pc>
+<pc>）</pc>禁衛內攔前崇政殿親從<measure quantity="32" unit="people">
+<num value="32">三十二</num>人</measure>
+<pc>。</pc>
+<pc>（</pc>孝宗省作<measure quantity="25" unit="people">
+<num value="25">二十五</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
 <p>駕後部<pc>。</pc>扇筤<pc>，</pc>大黃龍旗<num value="1">一</num>
-<pc>。</pc>駕後樂<pc>：</pc>東西班<num value="36">三十六</num>人<pc>，</pc>鈞容直<num value="31">三十一</num>人<pc>，</pc>並騎<pc>。</pc>
-<pc>（</pc>孝宗此下增招箭班<num value="34">三十四</num>人<pc>。</pc>
-<pc>）</pc>扇筤<pc>，</pc>扇筤下天武<num value="22">二十二</num>人<pc>，</pc>
-<pc>（</pc>孝宗省作<num value="17">一十七</num>人<pc>。</pc>
-<pc>）</pc>都下親從<num value="16">十六</num>人<pc>，</pc>
-<pc>（</pc>孝宗省作<num value="8">八</num>人<pc>。</pc>
-<pc>）</pc>茶酒班執從物<num value="50">五十</num>人<pc>，</pc>騎<pc>。</pc>
-<pc>（</pc>孝宗省為<num value="30">三十</num>人<pc>。</pc>
+<pc>。</pc>駕後樂<pc>：</pc>東西班<measure quantity="36" unit="people">
+<num value="36">三十六</num>人</measure>
+<pc>，</pc>鈞容直<measure quantity="31" unit="people">
+<num value="31">三十一</num>人</measure>
+<pc>，</pc>並騎<pc>。</pc>
+<pc>（</pc>孝宗此下增招箭班<measure quantity="34" unit="people">
+<num value="34">三十四</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>扇筤<pc>，</pc>扇筤下天武<measure quantity="22" unit="people">
+<num value="22">二十二</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省作<measure quantity="17" unit="people">
+<num value="17">一十七</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>都下親從<measure quantity="16" unit="people">
+<num value="16">十六</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省作<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>茶酒班執從物<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>，</pc>騎<pc>。</pc>
+<pc>（</pc>孝宗省為<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
-<p>大輦<pc>。</pc>輦下應奉並人員合<num value="614">六百一十四</num>人<pc>，</pc>分<num value="5">五</num>番<pc>；</pc>
+<p>大輦<pc>。</pc>輦下應奉並人員合<measure quantity="614" unit="people">
+<num value="614">六百一十四</num>人</measure>
+<pc>，</pc>分<num value="5">五</num>番<pc>；</pc>
 <pc>（</pc>孝宗乾道元年省之<pc>，</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>以後複設<pc>。</pc>
@@ -472,7 +681,11 @@
 </p>
 </div>
 <div>
-<p>持鈒後隊<pc>。</pc>神勇都指揮使<num value="2">二</num>人<pc>，</pc>騎<pc>，</pc>重輪旗<num value="2">二</num>人<pc>，</pc>大傘<num value="2">二</num>
+<p>持鈒後隊<pc>。</pc>神勇都指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>騎<pc>，</pc>重輪旗<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>大傘<num value="2">二</num>
 <pc>，</pc>
 <pc>（</pc>孝宗省為<num value="1">一</num>
 <pc>。</pc>
@@ -500,7 +713,9 @@
 <pc>，</pc>
 <pc>（</pc>孝宗省為<num value="6">六</num>
 <pc>。</pc>
-<pc>）</pc>驍騎都指揮使<num value="1">一</num>人<pc>，</pc>騎<pc>，</pc>
+<pc>）</pc>驍騎都指揮使<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>騎<pc>，</pc>
 <pc>（</pc>總領大角<pc>。</pc>
 <pc>）</pc>大角<num value="40">四十</num>
 <pc>。</pc>
@@ -510,9 +725,17 @@
 </p>
 </div>
 <div>
-<p>太常後部鼓吹<pc>。</pc>鼓吹丞<num value="2">二</num>人<pc>，</pc>典吏<num value="4">四</num>人<pc>，</pc>
-<pc>（</pc>孝宗省為<num value="3">三</num>人<pc>。</pc>
-<pc>）</pc>管轄指揮使<num value="1">一</num>人<pc>，</pc>羽葆鼓<num value="6">六</num>
+<p>太常後部鼓吹<pc>。</pc>鼓吹丞<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>典吏<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>孝宗省為<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>管轄指揮使<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>羽葆鼓<num value="6">六</num>
 <pc>，</pc>歌工<num value="24">二十四</num>
 <pc>，</pc>拱宸管<num value="12">十二</num>
 <pc>，</pc>簫<num value="36">三十六</num>
@@ -521,7 +744,9 @@
 <pc>，</pc>小橫吹<num value="60">六十</num>
 <pc>，</pc>笛<num value="12">十二</num>
 <pc>，</pc>觱栗<num value="12">十二</num>
-<pc>，</pc>帥兵官<num value="10">十</num>人<pc>。</pc>
+<pc>，</pc>帥兵官<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>。</pc>
 <pc>（</pc>孝宗歌工<num value="18">十八</num>
 <pc>，</pc>拱宸管<num value="12">十二</num>
 <pc>，</pc>簫<num value="18">十八</num>
@@ -533,7 +758,9 @@
 <pc>，</pc>觱栗<num value="18">十八</num>
 <pc>，</pc>桃皮觱栗<num value="12">十二</num>
 <pc>，</pc>羽葆鼓吹<num value="6">六</num>
-<pc>，</pc>帥兵官<num value="8">八</num>人<pc>。</pc>
+<pc>，</pc>帥兵官<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -542,13 +769,17 @@
 <pc>，</pc>
 <pc>（</pc>中道<pc>。</pc>
 <pc>）</pc>金輅<pc>、</pc>象輅<pc>、</pc>革輅<pc>、</pc>木輅各<num value="1">一</num>
-<pc>，</pc>每輅誕馬各<num value="6">六</num>在輅前<pc>，</pc>駕士各<num value="54">百五十四</num>人<pc>。</pc>
+<pc>，</pc>每輅誕馬各<num value="6">六</num>在輅前<pc>，</pc>駕士各<measure quantity="54" unit="people">
+<num value="54">百五十四</num>人</measure>
+<pc>。</pc>
 <pc>（</pc>乾道元年省之<pc>，</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>以後複用<pc>。</pc>
 <pc>）</pc>掩後隊<pc>。</pc>
 <pc>（</pc>中道<pc>。</pc>
-<pc>）</pc>宣武都指揮使<num value="2">二</num>人<pc>，</pc>大戟<pc>、</pc>刀盾<pc>、</pc>弓矢<pc>、</pc>槊各<num value="15">十五</num>
+<pc>）</pc>宣武都指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>大戟<pc>、</pc>刀盾<pc>、</pc>弓矢<pc>、</pc>槊各<num value="15">十五</num>
 <pc>。</pc>
 </p>
 </div>
@@ -564,7 +795,9 @@
 <pc>。</pc>
 <pc>）</pc>玄武隊<pc>。</pc>
 <pc>（</pc>並騎<pc>。</pc>中道<pc>。</pc>
-<pc>）</pc>虎翼都指揮使<num value="1">一</num>人<pc>，</pc>暴槊<num value="2">二</num>
+<pc>）</pc>虎翼都指揮使<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>暴槊<num value="2">二</num>
 <pc>，</pc>玄武旗<num value="1">一</num>
 <pc>，</pc>槊<pc>、</pc>弓矢各<num value="10">十</num>
 <pc>，</pc>
@@ -581,7 +814,9 @@
 <pc>，</pc>弓矢<num value="10">十</num>
 <pc>，</pc>槊<num value="16">十六</num>
 <pc>。</pc>左<pc>、</pc>右金吾<num value="16">十六</num>
-<pc>，</pc>騎<pc>。</pc>天武都頭<num value="2">二</num>人<pc>，</pc>弩<num value="8">八</num>
+<pc>，</pc>騎<pc>。</pc>天武都頭<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>弩<num value="8">八</num>
 <pc>，</pc>弓矢<num value="12">十二</num>
 <pc>，</pc>槊<num value="12">十二</num>
 <pc>。</pc>
@@ -593,27 +828,55 @@
 <pc>，</pc>
 <term>虞候</term>佽飛<num value="20">二十</num>
 <pc>，</pc>鐵甲佽飛<num value="12">十二</num>
-<pc>。</pc>前隊殳仗<pc>。</pc>都頭<num value="6">六</num>人<pc>，</pc>騎<pc>，</pc>殳<pc>、</pc>叉<num value="60">六十</num>
-<pc>。</pc>後隊殳仗<pc>。</pc>都頭<num value="4">四</num>人<pc>，</pc>騎<pc>，</pc>殳<pc>、</pc>叉<num value="40">四十</num>
+<pc>。</pc>前隊殳仗<pc>。</pc>都頭<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>騎<pc>，</pc>殳<pc>、</pc>叉<num value="60">六十</num>
+<pc>。</pc>後隊殳仗<pc>。</pc>都頭<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>騎<pc>，</pc>殳<pc>、</pc>叉<num value="40">四十</num>
 <pc>。</pc>
 </p>
 </div>
 <div>
-<p>前部馬隊<pc>。</pc>第<num value="1">一</num>隊<pc>，</pc>捧日都指揮使<num value="2">二</num>人<pc>，</pc>角<pc>、</pc>鬥<pc>、</pc>亢<pc>、</pc>牛旗各<num value="1">一</num>
+<p>前部馬隊<pc>。</pc>第<num value="1">一</num>隊<pc>，</pc>捧日都指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>角<pc>、</pc>鬥<pc>、</pc>亢<pc>、</pc>牛旗各<num value="1">一</num>
 <pc>，</pc>弩<num value="4">四</num>
 <pc>，</pc>弓矢<num value="10">十</num>
 <pc>，</pc>槊<num value="8">八</num>
-<pc>；</pc>第<num value="2">二</num>隊<pc>，</pc>捧日都指揮使<num value="2">二</num>人<pc>，</pc>氐<pc>、</pc>女<pc>、</pc>房<pc>、</pc>虛旗各<num value="1">一</num>
-<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="1">一</num>隊<pc>；</pc>第<num value="3">三</num>隊<pc>，</pc>天武都指揮使<num value="2">二</num>人<pc>，</pc>心<pc>、</pc>危旗各<num value="1">一</num>
-<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="2">二</num>隊<pc>；</pc>第<num value="4">四</num>隊<pc>，</pc>天武都指揮使<num value="2">二</num>人<pc>，</pc>尾<pc>、</pc>室旗各<num value="1">一</num>
-<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="3">三</num>隊<pc>；</pc>第<num value="5">五</num>隊<pc>，</pc>拱聖指揮使<num value="2">二</num>人<pc>，</pc>箕<pc>、</pc>壁旗各<num value="1">一</num>
-<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="4">四</num>隊<pc>；</pc>第<num value="6">六</num>隊<pc>，</pc>拱聖都指揮使<num value="2">二</num>人<pc>，</pc>奎<pc>、</pc>井旗各<num value="1">一</num>
-<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="5">五</num>隊<pc>；</pc>第<num value="7">七</num>隊<pc>，</pc>神勇都指揮使<num value="2">二</num>人<pc>，</pc>婁<pc>、</pc>鬼旗各<num value="1">一</num>
-<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="6">六</num>隊<pc>；</pc>第<num value="8">八</num>隊<pc>，</pc>神勇都指揮使<num value="2">二</num>人<pc>，</pc>胃<pc>、</pc>柳旗各<num value="1">一</num>
-<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="7">七</num>隊<pc>；</pc>第<num value="9">九</num>隊<pc>，</pc>驍騎都指揮使<num value="2">二</num>人<pc>，</pc>昴<pc>、</pc>星旗各<num value="1">一</num>
-<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="8">八</num>隊<pc>；</pc>第<num value="10">十</num>隊<pc>，</pc>宣武都指揮使<num value="2">二</num>人<pc>，</pc>畢<pc>、</pc>張旗各<num value="1">一</num>
-<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="9">九</num>隊<pc>；</pc>第<num value="11">十一</num>隊<pc>，</pc>虎翼都指揮使<num value="2">二</num>人<pc>，</pc>觜<pc>、</pc>翼旗各<num value="1">一</num>
-<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="10">十</num>隊<pc>；</pc>第<num value="12">十二</num>隊<pc>，</pc>廣勇都指揮使<num value="2">二</num>人<pc>，</pc>參<pc>、</pc>軫旗各<num value="1">一</num>
+<pc>；</pc>第<num value="2">二</num>隊<pc>，</pc>捧日都指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>氐<pc>、</pc>女<pc>、</pc>房<pc>、</pc>虛旗各<num value="1">一</num>
+<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="1">一</num>隊<pc>；</pc>第<num value="3">三</num>隊<pc>，</pc>天武都指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>心<pc>、</pc>危旗各<num value="1">一</num>
+<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="2">二</num>隊<pc>；</pc>第<num value="4">四</num>隊<pc>，</pc>天武都指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>尾<pc>、</pc>室旗各<num value="1">一</num>
+<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="3">三</num>隊<pc>；</pc>第<num value="5">五</num>隊<pc>，</pc>拱聖指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>箕<pc>、</pc>壁旗各<num value="1">一</num>
+<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="4">四</num>隊<pc>；</pc>第<num value="6">六</num>隊<pc>，</pc>拱聖都指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>奎<pc>、</pc>井旗各<num value="1">一</num>
+<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="5">五</num>隊<pc>；</pc>第<num value="7">七</num>隊<pc>，</pc>神勇都指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>婁<pc>、</pc>鬼旗各<num value="1">一</num>
+<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="6">六</num>隊<pc>；</pc>第<num value="8">八</num>隊<pc>，</pc>神勇都指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>胃<pc>、</pc>柳旗各<num value="1">一</num>
+<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="7">七</num>隊<pc>；</pc>第<num value="9">九</num>隊<pc>，</pc>驍騎都指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>昴<pc>、</pc>星旗各<num value="1">一</num>
+<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="8">八</num>隊<pc>；</pc>第<num value="10">十</num>隊<pc>，</pc>宣武都指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>畢<pc>、</pc>張旗各<num value="1">一</num>
+<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="9">九</num>隊<pc>；</pc>第<num value="11">十一</num>隊<pc>，</pc>虎翼都指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>觜<pc>、</pc>翼旗各<num value="1">一</num>
+<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="10">十</num>隊<pc>；</pc>第<num value="12">十二</num>隊<pc>，</pc>廣勇都指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>參<pc>、</pc>軫旗各<num value="1">一</num>
 <pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊如第<num value="11">十一</num>隊<pc>。</pc>
 <pc>（</pc>孝宗省為<num value="7">七</num>隊<pc>，</pc>
 <num value="28">二十八</num>宿旗每隊<num value="4">四</num>
@@ -623,7 +886,9 @@
 </p>
 </div>
 <div>
-<p>步甲前隊<pc>。</pc>第<num value="1">一</num>隊<pc>，</pc>捧日指揮使<pc>、</pc>都頭各<num value="2">二</num>人<pc>，</pc>騎<pc>，</pc>
+<p>步甲前隊<pc>。</pc>第<num value="1">一</num>隊<pc>，</pc>捧日指揮使<pc>、</pc>都頭各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>騎<pc>，</pc>
 <pc>（</pc>下同<pc>。</pc>
 <pc>）</pc>鶡雞旗<num value="2">二</num>
 <pc>，</pc>青鍪甲<pc>、</pc>刀盾<num value="20">二十</num>
@@ -639,9 +904,13 @@
 </div>
 <div>
 <p>金吾左右道牙門第<num value="1">一</num>門<pc>。</pc>牙門旗<num value="4">四</num>
-<pc>，</pc>分左右<pc>。</pc>監門使臣<num value="8">八</num>人<pc>，</pc>並騎<pc>。</pc>
+<pc>，</pc>分左右<pc>。</pc>監門使臣<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>並騎<pc>。</pc>
 <pc>（</pc>孝宗旗省為<num value="2">二</num>
-<pc>，</pc>使臣省為<num value="4">四</num>人<pc>。</pc>
+<pc>，</pc>使臣省為<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>步甲前隊第<num value="7">七</num>隊<pc>，</pc>神武指揮使<pc>、</pc>都頭<pc>，</pc>鶡雞旗<pc>，</pc>青鍪甲<pc>、</pc>刀盾<pc>；</pc>第<num value="8">八</num>隊<pc>，</pc>神武指揮使<pc>、</pc>都頭<pc>，</pc>麟旗<pc>，</pc>朱鍪甲<pc>、</pc>刀盾<pc>；</pc>第<num value="9">九</num>隊<pc>，</pc>驍騎指揮使<pc>、</pc>都頭<pc>，</pc>白狼旗<pc>，</pc>黃鍪甲<pc>、</pc>刀盾<pc>；</pc>第<num value="10">十</num>隊<pc>，</pc>驍騎指揮使<pc>、</pc>都頭<pc>，</pc>蒼烏旗<pc>，</pc>次白鍪甲<pc>、</pc>刀盾<pc>；</pc>第<num value="11">十一</num>隊<pc>，</pc>虎翼指揮使<pc>、</pc>都頭<pc>，</pc>鸚鵡旗<pc>，</pc>黑鍪甲<pc>、</pc>刀盾<pc>；</pc>第<num value="12">十二</num>隊<pc>，</pc>廣勇指揮使<pc>、</pc>都頭<pc>，</pc>太平旗<pc>，</pc>黃鍪甲<pc>、</pc>刀盾<pc>。</pc>自<num value="2">二</num>至<num value="12">十二</num>隊<pc>，</pc>人<pc>、</pc>旗<pc>、</pc>刀盾<pc>，</pc>數列如第<num value="1">一</num>隊<pc>。</pc>
 <pc>（</pc>孝宗內去鶡雞旗<pc>、</pc>麟旗而用慶雲旗<pc>、</pc>瑞麥旗<pc>。</pc>
 <pc>）</pc>
@@ -649,9 +918,13 @@
 </div>
 <div>
 <p>金吾左右道牙門第<num value="2">二</num>門<pc>。</pc>牙門旗<num value="4">四</num>
-<pc>，</pc>分左右<pc>，</pc>監門使臣<num value="8">八</num>人<pc>，</pc>並騎<pc>。</pc>
+<pc>，</pc>分左右<pc>，</pc>監門使臣<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>並騎<pc>。</pc>
 <pc>（</pc>孝宗旗省為<num value="2">二</num>
-<pc>，</pc>監門省為<num value="4">四</num>人<pc>。</pc>
+<pc>，</pc>監門省為<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -699,16 +972,30 @@
 <div>
 <p>班劍<pc>、</pc>儀刀隊<pc>。</pc>
 <pc>（</pc>並騎<pc>。</pc>
-<pc>）</pc>武衛將軍<num value="2">二</num>人<pc>，</pc>捧日<pc>、</pc>天武<pc>、</pc>拱聖<pc>、</pc>神勇指揮使各<num value="2">二</num>人<pc>，</pc>班劍<num value="60">六十</num>
+<pc>）</pc>武衛將軍<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>捧日<pc>、</pc>天武<pc>、</pc>拱聖<pc>、</pc>神勇指揮使各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>班劍<num value="60">六十</num>
 <pc>，</pc>儀刀<num value="60">六十</num>
-<pc>。</pc>次驍騎<pc>、</pc>驍勝<pc>、</pc>宣武<pc>、</pc>虎翼指揮使各<num value="2">二</num>人<pc>，</pc>班劍<num value="60">六十</num>
+<pc>。</pc>次驍騎<pc>、</pc>驍勝<pc>、</pc>宣武<pc>、</pc>虎翼指揮使各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>班劍<num value="60">六十</num>
 <pc>，</pc>儀刀<num value="60">六十</num>
 <pc>。</pc>
 </p>
 </div>
 <div>
-<p>親勳<pc>、</pc>散手<pc>、</pc>驍衛翊衛隊<pc>。</pc>並騎<pc>。</pc>中衛郎<num value="4">四</num>人<pc>，</pc>翊衛郎<num value="2">二</num>人<pc>，</pc>親衛郎<num value="2">二</num>人<pc>，</pc>衛兵<num value="40">四十</num>
-<pc>，</pc>甲騎<num value="40">四十</num>在衛兵外<pc>。</pc>左右驍衛<pc>、</pc>翊衛<num value="3">三</num>隊<pc>。</pc>並騎<pc>。</pc>第<num value="1">一</num>隊<pc>，</pc>左右驍衛大將軍<num value="2">二</num>人<pc>，</pc>雙蓮花旗<num value="2">二</num>
+<p>親勳<pc>、</pc>散手<pc>、</pc>驍衛翊衛隊<pc>。</pc>並騎<pc>。</pc>中衛郎<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>翊衛郎<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>親衛郎<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>衛兵<num value="40">四十</num>
+<pc>，</pc>甲騎<num value="40">四十</num>在衛兵外<pc>。</pc>左右驍衛<pc>、</pc>翊衛<num value="3">三</num>隊<pc>。</pc>並騎<pc>。</pc>第<num value="1">一</num>隊<pc>，</pc>左右驍衛大將軍<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>雙蓮花旗<num value="2">二</num>
 <pc>，</pc>弩<num value="4">四</num>
 <pc>，</pc>弓矢<num value="10">十</num>
 <pc>，</pc>
@@ -718,17 +1005,33 @@
 <pc>；</pc>
 <pc>（</pc>孝宗減槊為<num value="8">八</num>
 <pc>，</pc>下同<pc>。</pc>
-<pc>）</pc>第<num value="2">二</num>隊<pc>，</pc>廣勇指揮使<num value="2">二</num>人<pc>，</pc>吉利旗<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊數如初隊<pc>。</pc>
+<pc>）</pc>第<num value="2">二</num>隊<pc>，</pc>廣勇指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>吉利旗<pc>，</pc>弩<pc>、</pc>弓矢<pc>、</pc>槊數如初隊<pc>。</pc>
 </p>
 </div>
 <div>
 <p>金吾左右道牙門第<num value="3">三</num>門<pc>。</pc>牙門旗<num value="4">四</num>
-<pc>，</pc>分左右<pc>，</pc>監門<num value="8">八</num>人<pc>，</pc>並騎<pc>。</pc>
+<pc>，</pc>分左右<pc>，</pc>監門<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>並騎<pc>。</pc>
 <pc>（</pc>孝宗旗減為<num value="2">二</num>
-<pc>，</pc>監門減為<num value="4">四</num>人<pc>。</pc>
+<pc>，</pc>監門減為<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>捧日隊<num value="34">三十四</num>隊<pc>。</pc>左右各<num value="17">十七</num>隊<pc>，</pc>
 <pc>（</pc>孝宗減為<num value="10">十</num>隊<pc>，</pc>左右各<num value="5">五</num>隊<pc>。</pc>
-<pc>）</pc>每隊引<num value="1">一</num>人<pc>，</pc>押<num value="1">一</num>人<pc>，</pc>旗<num value="3">三</num>人<pc>，</pc>槍<num value="5">五</num>人<pc>，</pc>弓箭<num value="20">二十</num>人<pc>。</pc>
+<pc>）</pc>每隊引<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>押<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>旗<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>槍<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>，</pc>弓箭<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -743,14 +1046,20 @@
 </div>
 <div>
 <p>金吾左右道牙門第<num value="4">四</num>門<pc>。</pc>牙門旗<num value="4">四</num>
-<pc>，</pc>監門<num value="8">八</num>人<pc>，</pc>騎<pc>。</pc>
+<pc>，</pc>監門<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>騎<pc>。</pc>
 <pc>（</pc>孝宗旗減為<num value="2">二</num>
-<pc>，</pc>監門減為<num value="4">四</num>人<pc>。</pc>
+<pc>，</pc>監門減為<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
-<p>步甲後隊<pc>。</pc>第<num value="1">一</num>隊<pc>，</pc>捧日指揮使<pc>、</pc>都頭各<num value="2">二</num>人<pc>，</pc>騎<pc>，</pc>鶤旗<pc>、</pc>鶡雞旗各<num value="2">二</num>
+<p>步甲後隊<pc>。</pc>第<num value="1">一</num>隊<pc>，</pc>捧日指揮使<pc>、</pc>都頭各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>騎<pc>，</pc>鶤旗<pc>、</pc>鶡雞旗各<num value="2">二</num>
 <pc>，</pc>青鍪甲<pc>、</pc>刀盾<num value="20">二十</num>
 <pc>；</pc>
 <pc>（</pc>孝宗減刀盾為<num value="16">十六</num>
@@ -762,7 +1071,9 @@
 </div>
 <div>
 <p>金吾左右道牙門第<num value="5">五</num>門<pc>。</pc>牙門旗<num value="4">四</num>
-<pc>，</pc>監門<num value="8">八</num>人<pc>，</pc>騎<pc>。</pc>
+<pc>，</pc>監門<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>騎<pc>。</pc>
 <pc>（</pc>孝宗減旗為<num value="2">二</num>
 <pc>，</pc>減監門為<num value="4">四</num>
 <pc>。</pc>
@@ -804,53 +1115,98 @@
 <div>
 <p>清遊隊<pc>。</pc>旗<num value="1">一</num>
 <pc>。</pc>
-<pc>（</pc>執<num value="1">一</num>人<pc>，</pc>引<num value="2">二</num>人<pc>，</pc>夾<num value="2">二</num>人<pc>，</pc>並騎<pc>。</pc>
+<pc>（</pc>執<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>引<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>夾<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>並騎<pc>。</pc>
 <pc>）</pc>金吾衛折衝都尉<num value="1">一</num>員<pc>，</pc>騎<pc>，</pc>
-<pc>（</pc>執暴槊<num value="2">二</num>人夾<pc>。</pc>
-<pc>）</pc>領<num value="40">四十</num>騎<pc>，</pc>執槊<num value="20">二十</num>人<pc>，</pc>弩<num value="4">四</num>人<pc>，</pc>橫刀<num value="16">一十六</num>人<pc>。</pc>次<term>虞候</term>佽飛<num value="28">二十八</num>
+<pc>（</pc>執暴槊<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>夾<pc>。</pc>
+<pc>）</pc>領<num value="40">四十</num>騎<pc>，</pc>執槊<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>弩<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>橫刀<measure quantity="16" unit="people">
+<num value="16">一十六</num>人</measure>
+<pc>。</pc>次<term>虞候</term>佽飛<num value="28">二十八</num>
 <pc>，</pc>騎<pc>。</pc>次內仆<pc>、</pc>內仆丞各<num value="1">一</num>員<pc>。</pc>
-<pc>（</pc>各書令史<num value="2">二</num>人<pc>，</pc>並騎<pc>。</pc>
+<pc>（</pc>各書令史<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>並騎<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
 <p>次正道黃麾<num value="1">一</num>
 <pc>。</pc>
-<pc>（</pc>執<num value="1">一</num>人<pc>，</pc>夾<num value="2">二</num>人<pc>，</pc>並騎<pc>。</pc>
-<pc>）</pc>次左右廂黃麾仗<pc>，</pc>廂各<num value="3">三</num>行<pc>，</pc>行<num value="100">一百</num>人<pc>：</pc>第<num value="1">一</num>行<pc>，</pc>短戟<pc>、</pc>
+<pc>（</pc>執<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>夾<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>並騎<pc>。</pc>
+<pc>）</pc>次左右廂黃麾仗<pc>，</pc>廂各<num value="3">三</num>行<pc>，</pc>行<measure quantity="100" unit="people">
+<num value="100">一百</num>人</measure>
+<pc>：</pc>第<num value="1">一</num>行<pc>，</pc>短戟<pc>、</pc>
 <num value="5">五</num>色氅<pc>；</pc>第<num value="2">二</num>行<pc>，</pc>戈<pc>、</pc>
 <num value="5">五</num>色氅<pc>；</pc>第<num value="3">三</num>行<pc>，</pc>儀鍠<pc>、</pc>
 <num value="5">五</num>色幡<pc>。</pc>
 </p>
 </div>
 <div>
-<p>左右領軍衛<pc>、</pc>左右威衛<pc>、</pc>左右武衛<pc>、</pc>左右驍衛<pc>、</pc>左右衛等各<num value="3">三</num>行<pc>，</pc>行<num value="20">二十</num>人<pc>，</pc>各帥兵官<num value="6">六</num>人領<pc>，</pc>內左右領軍衛帥兵官各<num value="3">三</num>人<pc>，</pc>各果毅都尉<num value="1">一</num>員檢校<pc>，</pc>
-<pc>（</pc>各<num value="1">一</num>人步從<pc>。</pc>
+<p>左右領軍衛<pc>、</pc>左右威衛<pc>、</pc>左右武衛<pc>、</pc>左右驍衛<pc>、</pc>左右衛等各<num value="3">三</num>行<pc>，</pc>行<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>各帥兵官<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>領<pc>，</pc>內左右領軍衛帥兵官各<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>各果毅都尉<num value="1">一</num>員檢校<pc>，</pc>
+<pc>（</pc>各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>步從<pc>。</pc>
 <pc>）</pc>左右領軍衛絳引旗<pc>，</pc>引前<pc>、</pc>掩後各<num value="6">六</num>
 <pc>。</pc>
 </p>
 </div>
 <div>
-<p>次內謁者監<num value="4">四</num>人<pc>，</pc>給事<pc>、</pc>內常侍<pc>、</pc>內侍各<num value="2">二</num>人<pc>，</pc>並騎<pc>。</pc>
-<pc>（</pc>內給使各<num value="1">一</num>人<pc>，</pc>步從<pc>。</pc>
-<pc>）</pc>次內給使<num value="120">一百二十</num>人<pc>。</pc>次偏扇<pc>、</pc>團扇<pc>、</pc>方扇各<num value="24">二十四</num>
+<p>次內謁者監<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>給事<pc>、</pc>內常侍<pc>、</pc>內侍各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>並騎<pc>。</pc>
+<pc>（</pc>內給使各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>步從<pc>。</pc>
+<pc>）</pc>次內給使<measure quantity="120" unit="people">
+<num value="120">一百二十</num>人</measure>
+<pc>。</pc>次偏扇<pc>、</pc>團扇<pc>、</pc>方扇各<num value="24">二十四</num>
 <pc>。</pc>次香鐙<num value="1">一</num>
-<pc>。</pc>次執擎內給使<num value="4">四</num>人<pc>。</pc>
+<pc>。</pc>次執擎內給使<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>
 <pc>（</pc>在重翟車前<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
 <p>次重翟車<pc>。</pc>駕青馬<num value="6">六</num>
-<pc>，</pc>駕士<num value="24">二十四</num>人<pc>，</pc>行障<num value="6">六</num>
+<pc>，</pc>駕士<measure quantity="24" unit="people">
+<num value="24">二十四</num>人</measure>
+<pc>，</pc>行障<num value="6">六</num>
 <pc>、</pc>坐障<num value="3">三</num>
-<pc>，</pc>夾車<pc>，</pc>並宮人執<pc>。</pc>次內寺伯<num value="2">二</num>人<pc>，</pc>騎<pc>，</pc>領寺人<num value="6">六</num>人<pc>，</pc>分左右夾重翟車<pc>。</pc>
+<pc>，</pc>夾車<pc>，</pc>並宮人執<pc>。</pc>次內寺伯<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>騎<pc>，</pc>領寺人<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>分左右夾重翟車<pc>。</pc>
 </p>
 </div>
 <div>
 <p>次腰輿<num value="1">一</num>
 <pc>，</pc>
-<pc>（</pc>輿士<num value="8">八</num>人<pc>。</pc>
+<pc>（</pc>輿士<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>團雉尾扇<num value="2">二</num>
 <pc>，</pc>夾輿<pc>。</pc>次大傘<num value="4">四</num>
 <pc>，</pc>大雉尾扇<num value="8">八</num>
@@ -861,34 +1217,52 @@
 <pc>（</pc>自腰輿以下<pc>，</pc>並內給使執<pc>。</pc>
 <pc>）</pc>次宮人車<pc>。</pc>次絳麾<num value="2">二</num>
 <pc>。</pc>
-<pc>（</pc>各<num value="1">一</num>人執<pc>。</pc>
+<pc>（</pc>各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>執<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
 <p>次正道後黃麾<num value="1">一</num>
 <pc>。</pc>
-<pc>（</pc>執<num value="1">一</num>人<pc>，</pc>夾<num value="2">二</num>人<pc>，</pc>並騎<pc>。</pc>
+<pc>（</pc>執<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>夾<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>並騎<pc>。</pc>
 <pc>）</pc>次供奉宮人<pc>。</pc>次厭翟車駕赤騮<pc>，</pc>翟車駕黃騮<pc>，</pc>安車駕赤騮<pc>，</pc>各<num value="4">四</num>
-<pc>，</pc>駕士各<num value="24">二十四</num>人<pc>。</pc>
+<pc>，</pc>駕士各<measure quantity="24" unit="people">
+<num value="24">二十四</num>人</measure>
+<pc>。</pc>
 <num value="4">四</num>望車<pc>、</pc>金根車<pc>、</pc>各駕牛<num value="3">三</num>
-<pc>，</pc>駕士各<num value="12">一十二</num>人<pc>。</pc>
+<pc>，</pc>駕士各<measure quantity="12" unit="people">
+<num value="12">一十二</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>次左右廂各置牙門<num value="2">二</num>
 <pc>。</pc>
-<pc>（</pc>每門執<num value="2">二</num>人<pc>，</pc>夾<num value="4">四</num>人<pc>，</pc>
+<pc>（</pc>每門執<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>夾<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>
 <num value="1">一</num>在前黃麾前<pc>，</pc>
 <num value="1">一</num>在後黃麾後<pc>。</pc>
-<pc>）</pc>次左右領軍衛<pc>，</pc>每廂各<num value="150">一百五十</num>人執殳<pc>，</pc>帥兵官<num value="4">四</num>人檢校<pc>。</pc>次左右領軍衛折衝都尉各<num value="1">一</num>員<pc>，</pc>檢校殳仗<pc>。</pc>
-<pc>（</pc>各<num value="1">一</num>人騎從<pc>。</pc>
+<pc>）</pc>次左右領軍衛<pc>，</pc>每廂各<measure quantity="150" unit="people">
+<num value="150">一百五十</num>人</measure>執殳<pc>，</pc>帥兵官<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>檢校<pc>。</pc>次左右領軍衛折衝都尉各<num value="1">一</num>員<pc>，</pc>檢校殳仗<pc>。</pc>
+<pc>（</pc>各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>騎從<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
 <p>次後殳仗<pc>。</pc>內正道置牙門<num value="1">一</num>
-<pc>。</pc>每門監門校尉<num value="2">二</num>人<pc>，</pc>騎<pc>；</pc>每廂各巡檢校尉<num value="1">一</num>員<pc>，</pc>騎<pc>，</pc>來往檢校<pc>。</pc>
+<pc>。</pc>每門監門校尉<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>騎<pc>；</pc>每廂各巡檢校尉<num value="1">一</num>員<pc>，</pc>騎<pc>，</pc>來往檢校<pc>。</pc>
 </p>
 </div>
 <div>
@@ -907,136 +1281,304 @@
 </div>
 <div>
 <p>家令<pc>、</pc>率更令<pc>、</pc>詹事各乘輅車<pc>，</pc>太保<pc>、</pc>太傅<pc>、</pc>太師乘輅<pc>，</pc>各正道<pc>，</pc>威儀<pc>、</pc>鹵簿依本品<pc>。</pc>次清遊隊旗<pc>，</pc>
-<pc>（</pc>執<num value="1">一</num>人<pc>，</pc>引<num value="2">二</num>人<pc>，</pc>夾<num value="2">二</num>人<pc>。</pc>
-<pc>）</pc>並正道<pc>。</pc>清道率府折衝都尉<num value="1">一</num>員<pc>，</pc>領<num value="20">二十</num>騎<pc>，</pc>執槊<num value="18">一十八</num>人<pc>，</pc>弓矢<num value="9">九</num>人<pc>，</pc>弩<num value="3">三</num>人<pc>，</pc>
-<num value="2">二</num>人騎從折衝<pc>。</pc>次左<pc>、</pc>右清道率府率各<num value="1">一</num>員<pc>，</pc>領清道直蕩及檢校清遊隊龍旗等<pc>，</pc>執暴槊各<num value="2">二</num>人<pc>。</pc>次外清道直蕩<num value="24">二十四</num>人<pc>，</pc>騎<pc>。</pc>
+<pc>（</pc>執<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>引<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>夾<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>並正道<pc>。</pc>清道率府折衝都尉<num value="1">一</num>員<pc>，</pc>領<num value="20">二十</num>騎<pc>，</pc>執槊<measure quantity="18" unit="people">
+<num value="18">一十八</num>人</measure>
+<pc>，</pc>弓矢<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>
+<pc>，</pc>弩<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>騎從折衝<pc>。</pc>次左<pc>、</pc>右清道率府率各<num value="1">一</num>員<pc>，</pc>領清道直蕩及檢校清遊隊龍旗等<pc>，</pc>執暴槊各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>次外清道直蕩<measure quantity="24" unit="people">
+<num value="24">二十四</num>人</measure>
+<pc>，</pc>騎<pc>。</pc>
 </p>
 </div>
 <div>
 <p>次正道龍旗各<num value="6">六</num>
 <pc>，</pc>
-<pc>（</pc>執<num value="1">一</num>人<pc>，</pc>前<num value="2">二</num>人引<pc>，</pc>後<num value="2">二</num>人護<pc>。</pc>
+<pc>（</pc>執<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>前<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>引<pc>，</pc>後<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>護<pc>。</pc>
 <pc>）</pc>副竿<num value="2">二</num>
 <pc>。</pc>
-<pc>（</pc>執各<num value="1">一</num>人<pc>，</pc>騎<pc>。</pc>
-<pc>）</pc>次正道細仗引<pc>。</pc>為<num value="6">六</num>重<pc>，</pc>每重<num value="2">二</num>人<pc>，</pc>自龍旗後均布至細仗<pc>，</pc>槊與弓箭相間<pc>，</pc>並騎<pc>；</pc>每廂各果毅都尉<num value="1">一</num>員領<pc>。</pc>次率更丞<num value="1">一</num>員<pc>。</pc>
+<pc>（</pc>執各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>騎<pc>。</pc>
+<pc>）</pc>次正道細仗引<pc>。</pc>為<num value="6">六</num>重<pc>，</pc>每重<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>自龍旗後均布至細仗<pc>，</pc>槊與弓箭相間<pc>，</pc>並騎<pc>；</pc>每廂各果毅都尉<num value="1">一</num>員領<pc>。</pc>次率更丞<num value="1">一</num>員<pc>。</pc>
 </p>
 </div>
 <div>
-<p>次正道前部鼓吹<pc>。</pc>府史<num value="2">二</num>人領鼓吹<pc>，</pc>並騎<pc>。</pc>鼓<pc>、</pc>金鉦各<num value="2">二</num>
+<p>次正道前部鼓吹<pc>。</pc>府史<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>領鼓吹<pc>，</pc>並騎<pc>。</pc>鼓<pc>、</pc>金鉦各<num value="2">二</num>
 <pc>，</pc>
-<pc>（</pc>執各<num value="1">一</num>人<pc>，</pc>夾<num value="2">二</num>人<pc>，</pc>以下準此<pc>。</pc>
-<pc>）</pc>帥兵官<num value="2">二</num>人<pc>；</pc>次大鼓<num value="36">三十六</num>
+<pc>（</pc>執各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>夾<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>以下準此<pc>。</pc>
+<pc>）</pc>帥兵官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>；</pc>次大鼓<num value="36">三十六</num>
 <pc>，</pc>橫行<pc>，</pc>
 <pc>（</pc>長鳴以下準此<pc>。</pc>
-<pc>）</pc>帥兵官<num value="8">八</num>人<pc>；</pc>長鳴<num value="36">三十六</num>
-<pc>，</pc>帥兵官<num value="2">二</num>人<pc>；</pc>鐃吹<num value="1">一</num>部<pc>，</pc>鐃鼓<num value="2">二</num>
+<pc>）</pc>帥兵官<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>；</pc>長鳴<num value="36">三十六</num>
+<pc>，</pc>帥兵官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>；</pc>鐃吹<num value="1">一</num>部<pc>，</pc>鐃鼓<num value="2">二</num>
 <pc>，</pc>
-<pc>（</pc>各執<num value="1">一</num>人<pc>，</pc>夾<num value="2">二</num>人<pc>，</pc>後部鐃節鼓準此<pc>。</pc>
+<pc>（</pc>各執<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>夾<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>後部鐃節鼓準此<pc>。</pc>
 <pc>）</pc>簫<pc>、</pc>笳各<num value="6">六</num>
-<pc>，</pc>帥兵官<num value="2">二</num>人<pc>；</pc>鼓<pc>、</pc>金鉦各<num value="2">二</num>
-<pc>，</pc>帥兵官<num value="2">二</num>人<pc>；</pc>次小鼓<num value="36">三十六</num>
-<pc>，</pc>帥兵官<num value="4">四</num>人<pc>；</pc>中鳴<num value="36">三十六</num>
-<pc>，</pc>帥兵官<num value="2">二</num>人<pc>。</pc>以上並騎<pc>。</pc>
+<pc>，</pc>帥兵官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>；</pc>鼓<pc>、</pc>金鉦各<num value="2">二</num>
+<pc>，</pc>帥兵官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>；</pc>次小鼓<num value="36">三十六</num>
+<pc>，</pc>帥兵官<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>；</pc>中鳴<num value="36">三十六</num>
+<pc>，</pc>帥兵官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>以上並騎<pc>。</pc>
 </p>
 </div>
 <div>
 <p>次誕馬<num value="10">十</num>
 <pc>，</pc>
-<pc>（</pc>每匹<num value="2">二</num>人控<pc>，</pc>餘準此<pc>。</pc>
+<pc>（</pc>每匹<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>控<pc>，</pc>餘準此<pc>。</pc>
 <pc>）</pc>廄牧令<pc>、</pc>丞各<num value="1">一</num>員<pc>。</pc>
-<pc>（</pc>各府史<num value="2">二</num>人騎從<pc>。</pc>
-<pc>）</pc>次左<pc>、</pc>右翊府郎將各<num value="1">一</num>員<pc>，</pc>領班劍<pc>，</pc>左右翊衛執班劍<num value="24">二十四</num>人<pc>，</pc>通事舍人<num value="4">四</num>人<pc>，</pc>司直<num value="2">二</num>人<pc>，</pc>文學<num value="4">四</num>人<pc>，</pc>洗馬<pc>、</pc>司議郎<pc>、</pc>太子舍人<pc>、</pc>中允<pc>、</pc>中舍<pc>、</pc>左右諭德各<num value="2">二</num>人<pc>，</pc>左<pc>、</pc>右庶子<num value="4">四</num>人<pc>，</pc>並騎<pc>。</pc>
-<pc>（</pc>自通事舍人以後<pc>，</pc>各步從<num value="1">一</num>人<pc>。</pc>
+<pc>（</pc>各府史<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>騎從<pc>。</pc>
+<pc>）</pc>次左<pc>、</pc>右翊府郎將各<num value="1">一</num>員<pc>，</pc>領班劍<pc>，</pc>左右翊衛執班劍<measure quantity="24" unit="people">
+<num value="24">二十四</num>人</measure>
+<pc>，</pc>通事舍人<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>司直<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>文學<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>洗馬<pc>、</pc>司議郎<pc>、</pc>太子舍人<pc>、</pc>中允<pc>、</pc>中舍<pc>、</pc>左右諭德各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>左<pc>、</pc>右庶子<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>並騎<pc>。</pc>
+<pc>（</pc>自通事舍人以後<pc>，</pc>各步從<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
-<p>次左<pc>、</pc>右衛率府副率各<num value="1">一</num>員<pc>，</pc>步從<pc>，</pc>親<pc>、</pc>勳<pc>、</pc>翊衛每廂各中郎將<pc>、</pc>郎將<num value="1">一</num>員<pc>，</pc>並領<num value="6">六</num>行儀刀<pc>：</pc>第<num value="1">一</num>行<pc>，</pc>親衛<num value="23">二十三</num>人<pc>，</pc>曲折<num value="3">三</num>人<pc>；</pc>第<num value="2">二</num>行<pc>，</pc>親衛<num value="25">二十五</num>人<pc>，</pc>曲折<num value="4">四</num>人<pc>；</pc>第<num value="3">三</num>行<pc>，</pc>勳衛<num value="27">二十七</num>人<pc>，</pc>曲折<num value="5">五</num>人<pc>；</pc>第<num value="4">四</num>行<pc>，</pc>勳衛<num value="29">二十九</num>人<pc>，</pc>曲折<num value="6">六</num>人<pc>；</pc>第<num value="5">五</num>行<pc>，</pc>翊衛<num value="31">三十一</num>人<pc>，</pc>曲折<num value="7">七</num>人<pc>；</pc>第<num value="6">六</num>行<pc>，</pc>翊衛<num value="33">三十三</num>人<pc>，</pc>曲折<num value="8">八</num>人<pc>。</pc>
+<p>次左<pc>、</pc>右衛率府副率各<num value="1">一</num>員<pc>，</pc>步從<pc>，</pc>親<pc>、</pc>勳<pc>、</pc>翊衛每廂各中郎將<pc>、</pc>郎將<num value="1">一</num>員<pc>，</pc>並領<num value="6">六</num>行儀刀<pc>：</pc>第<num value="1">一</num>行<pc>，</pc>親衛<measure quantity="23" unit="people">
+<num value="23">二十三</num>人</measure>
+<pc>，</pc>曲折<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>；</pc>第<num value="2">二</num>行<pc>，</pc>親衛<measure quantity="25" unit="people">
+<num value="25">二十五</num>人</measure>
+<pc>，</pc>曲折<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>；</pc>第<num value="3">三</num>行<pc>，</pc>勳衛<measure quantity="27" unit="people">
+<num value="27">二十七</num>人</measure>
+<pc>，</pc>曲折<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>；</pc>第<num value="4">四</num>行<pc>，</pc>勳衛<measure quantity="29" unit="people">
+<num value="29">二十九</num>人</measure>
+<pc>，</pc>曲折<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>；</pc>第<num value="5">五</num>行<pc>，</pc>翊衛<measure quantity="31" unit="people">
+<num value="31">三十一</num>人</measure>
+<pc>，</pc>曲折<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>；</pc>第<num value="6">六</num>行<pc>，</pc>翊衛<measure quantity="33" unit="people">
+<num value="33">三十三</num>人</measure>
+<pc>，</pc>曲折<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>。</pc>
 <pc>（</pc>曲折人並部後門<pc>。</pc>
 <pc>）</pc>以上<num value="3">三</num>衛並騎<pc>。</pc>
 </p>
 </div>
 <div>
-<p>次<num value="3">三</num>衛<num value="18">一十八</num>人<pc>，</pc>騎<pc>；</pc>中郎將<num value="2">二</num>人夾輅<pc>，</pc>在<num value="6">六</num>行儀刀仗內<pc>。</pc>金輅<pc>，</pc>駕馬<num value="4">四</num>
-<pc>，</pc>仆寺仆馭<pc>，</pc>左右率府率<num value="1">一</num>員<pc>，</pc>駕士<num value="22">二十二</num>人<pc>。</pc>夾輅左<pc>、</pc>右衛率府率各<num value="1">一</num>員<pc>。</pc>
-<pc>（</pc>各步從<num value="1">一</num>人<pc>。</pc>
+<p>次<num value="3">三</num>衛<measure quantity="18" unit="people">
+<num value="18">一十八</num>人</measure>
+<pc>，</pc>騎<pc>；</pc>中郎將<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>夾輅<pc>，</pc>在<num value="6">六</num>行儀刀仗內<pc>。</pc>金輅<pc>，</pc>駕馬<num value="4">四</num>
+<pc>，</pc>仆寺仆馭<pc>，</pc>左右率府率<num value="1">一</num>員<pc>，</pc>駕士<measure quantity="22" unit="people">
+<num value="22">二十二</num>人</measure>
+<pc>。</pc>夾輅左<pc>、</pc>右衛率府率各<num value="1">一</num>員<pc>。</pc>
+<pc>（</pc>各步從<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
 <p>次左<pc>、</pc>右內率府率各<num value="1">一</num>員<pc>，</pc>副率各<num value="1">一</num>員<pc>，</pc>並騎<pc>。</pc>
-<pc>（</pc>各步從<num value="1">一</num>人<pc>。</pc>
+<pc>（</pc>各步從<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>次<num value="1000">千</num>牛騎<pc>，</pc>執細刀<pc>、</pc>弓矢<pc>，</pc>
-<num value="3">三</num>衛儀刀仗<pc>，</pc>後開牙門<pc>。</pc>次左右監門率府直長各<num value="6">六</num>人<pc>，</pc>監後門<pc>。</pc>
+<num value="3">三</num>衛儀刀仗<pc>，</pc>後開牙門<pc>。</pc>次左右監門率府直長各<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>監後門<pc>。</pc>
 <pc>（</pc>並騎<pc>。</pc>
 <pc>）</pc>次左右衛率府每廂各翊衛<num value="2">二</num>隊<pc>。</pc>
 <pc>（</pc>並騎<pc>。</pc>
-<pc>）</pc>次厭角隊各<num value="30">三十</num>人<pc>，</pc>執旗<num value="1">一</num>人<pc>。</pc>
-<pc>（</pc>引<num value="2">二</num>人<pc>，</pc>夾<num value="2">二</num>人<pc>。</pc>
-<pc>）</pc>執槊<num value="15">一十五</num>人<pc>，</pc>弓矢<num value="7">七</num>人<pc>，</pc>弩<num value="3">三</num>人<pc>，</pc>每隊各郎將<num value="1">一</num>員領<pc>。</pc>
+<pc>）</pc>次厭角隊各<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>，</pc>執旗<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
+<pc>（</pc>引<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>夾<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>執槊<measure quantity="15" unit="people">
+<num value="15">一十五</num>人</measure>
+<pc>，</pc>弓矢<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>，</pc>弩<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>每隊各郎將<num value="1">一</num>員領<pc>。</pc>
 </p>
 </div>
 <div>
 <p>次正道傘<num value="2">二</num>
 <pc>，</pc>雉尾扇<num value="4">四</num>
 <pc>，</pc>夾傘<pc>。</pc>次腰輿<num value="1">一</num>
-<pc>，</pc>輿士<num value="8">八</num>人<pc>，</pc>團雉尾扇<num value="2">二</num>
+<pc>，</pc>輿士<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>團雉尾扇<num value="2">二</num>
 <pc>、</pc>小方雉尾扇<num value="8">八</num>夾<pc>。</pc>
-<pc>（</pc>執各<num value="1">一</num>人<pc>。</pc>
-<pc>）</pc>次內直郎<pc>、</pc>令史各<num value="2">二</num>人騎從檢校<pc>。</pc>次誕馬<num value="10">十</num>
-<pc>，</pc>典乘<num value="2">二</num>人<pc>，</pc>府史<num value="2">二</num>人騎從<pc>。</pc>
+<pc>（</pc>執各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>次內直郎<pc>、</pc>令史各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>騎從檢校<pc>。</pc>次誕馬<num value="10">十</num>
+<pc>，</pc>典乘<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>府史<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>騎從<pc>。</pc>
 </p>
 </div>
 <div>
-<p>次左右司禦率府校尉各<num value="1">一</num>人<pc>，</pc>
+<p>次左右司禦率府校尉各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>並騎從<pc>。</pc>
 <pc>）</pc>領團扇<pc>、</pc>曲蓋<pc>。</pc>次朱團扇<pc>、</pc>紫曲蓋各<num value="6">六</num>
 <pc>。</pc>
-<pc>（</pc>執各<num value="1">一</num>人<pc>。</pc>
+<pc>（</pc>執各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>次諸司供奉官人<pc>。</pc>
 </p>
 </div>
 <div>
-<p>次左右清道率府校尉各<num value="1">一</num>人<pc>，</pc>
+<p>次左右清道率府校尉各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>並騎<pc>。</pc>
 <pc>）</pc>領大角<num value="36">三十六</num>
 <pc>。</pc>鐃鼓<num value="2">二</num>
 <pc>，</pc>簫<pc>、</pc>笳各<num value="6">六</num>
-<pc>，</pc>帥兵官<num value="2">二</num>人<pc>；</pc>橫吹<num value="10">十</num>
+<pc>，</pc>帥兵官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>；</pc>橫吹<num value="10">十</num>
 <pc>，</pc>節鼓<num value="1">一</num>
 <pc>，</pc>笛<pc>、</pc>簫<pc>、</pc>觱栗<num value="5">五</num>
-<pc>，</pc>帥兵官<num value="2">二</num>人<pc>。</pc>
+<pc>，</pc>帥兵官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <pc>（</pc>並騎<pc>。</pc>
-<pc>）</pc>次管轄指揮使<num value="2">二</num>人檢校<pc>。</pc>
+<pc>）</pc>次管轄指揮使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>檢校<pc>。</pc>
 </p>
 </div>
 <div>
-<p>次副輅<pc>，</pc>駕<num value="4">四</num>馬<pc>，</pc>駕士<num value="20">二十</num>人<pc>。</pc>軺車<pc>，</pc>駕<num value="1">一</num>馬<pc>，</pc>駕士<num value="14">十四</num>人<pc>。</pc>
-<num value="4">四</num>望車<pc>，</pc>駕<num value="1">一</num>馬<pc>，</pc>駕士<num value="10">一十</num>人<pc>。</pc>
+<p>次副輅<pc>，</pc>駕<num value="4">四</num>馬<pc>，</pc>駕士<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>。</pc>軺車<pc>，</pc>駕<num value="1">一</num>馬<pc>，</pc>駕士<measure quantity="14" unit="people">
+<num value="14">十四</num>人</measure>
+<pc>。</pc>
+<num value="4">四</num>望車<pc>，</pc>駕<num value="1">一</num>馬<pc>，</pc>駕士<measure quantity="10" unit="people">
+<num value="10">一十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>次左右廂步隊凡<num value="16">十六</num>
-<pc>，</pc>每隊各果毅都尉<num value="1">一</num>人領<pc>，</pc>
+<pc>，</pc>每隊各果毅都尉<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>領<pc>，</pc>
 <pc>（</pc>並騎<pc>。</pc>
-<pc>）</pc>隊<num value="30">三十</num>人<pc>，</pc>執旗<num value="1">一</num>人<pc>，</pc>
-<pc>（</pc>引<num value="2">二</num>人<pc>，</pc>夾<num value="2">二</num>人<pc>，</pc>並帶弓矢<pc>，</pc>騎<pc>。</pc>
-<pc>）</pc>步<num value="25">二十五</num>人<pc>。</pc>前<num value="1">一</num>隊執槊<pc>，</pc>
+<pc>）</pc>隊<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>，</pc>執旗<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>引<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>夾<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>並帶弓矢<pc>，</pc>騎<pc>。</pc>
+<pc>）</pc>步<measure quantity="25" unit="people">
+<num value="25">二十五</num>人</measure>
+<pc>。</pc>前<num value="1">一</num>隊執槊<pc>，</pc>
 <num value="1">一</num>隊帶弓矢<pc>，</pc>以次相間<pc>。</pc>
 <pc>（</pc>左右司禦率府<pc>、</pc>左右衛率府廂各<num value="4">四</num>隊<pc>，</pc>
 <num value="2">二</num>在前<pc>，</pc>
 <num value="2">二</num>在後<pc>。</pc>
-<pc>）</pc>次左右司禦率府副率各<num value="1">一</num>員檢校<pc>，</pc>步隊各<num value="2">二</num>人<pc>，</pc>執暴槊騎從<pc>。</pc>
+<pc>）</pc>次左右司禦率府副率各<num value="1">一</num>員檢校<pc>，</pc>步隊各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>執暴槊騎從<pc>。</pc>
 </p>
 </div>
 <div>
-<p>次儀仗<pc>。</pc>左右廂各<num value="6">六</num>色<pc>，</pc>色<num value="9">九</num>行<pc>，</pc>行<num value="6">六</num>人<pc>。</pc>前第<num value="1">一</num>行<pc>，</pc>戟<pc>、</pc>赤氅<pc>；</pc>第<num value="2">二</num>行<pc>，</pc>弓矢<pc>；</pc>第<num value="3">三</num>行<pc>，</pc>儀鋋並毦<pc>；</pc>第<num value="4">四</num>行<pc>，</pc>刀盾<pc>；</pc>第<num value="5">五</num>行<pc>，</pc>儀鍠<pc>、</pc>
-<num value="5">五</num>色幡<pc>；</pc>第<num value="6">六</num>行<pc>，</pc>油戟<pc>。</pc>次前仗首左右廂各<num value="6">六</num>色<pc>，</pc>色<num value="3">三</num>行<pc>，</pc>行<num value="6">六</num>人<pc>。</pc>左右司禦率府各<num value="1">一</num>員<pc>，</pc>果毅都尉各<num value="1">一</num>員<pc>，</pc>帥兵官各<num value="6">六</num>人領<pc>。</pc>次左右廂各<num value="6">六</num>色<pc>，</pc>色<num value="3">三</num>行<pc>，</pc>行<num value="6">六</num>人<pc>。</pc>左<pc>、</pc>右衛率府副率各<num value="1">一</num>員<pc>，</pc>果毅都尉各<num value="1">一</num>員<pc>，</pc>帥兵官各<num value="6">六</num>人領<pc>。</pc>次盡後鹵簿左右廂各<num value="6">六</num>色<pc>，</pc>色<num value="3">三</num>行<pc>，</pc>行<num value="6">六</num>人<pc>，</pc>左右司禦率府副率各<num value="1">一</num>員<pc>，</pc>
-<pc>（</pc>各<num value="1">一</num>人步從<pc>。</pc>
-<pc>）</pc>果毅都尉各<num value="1">一</num>人<pc>，</pc>帥兵官各<num value="6">六</num>人領<pc>，</pc>左右司禦率府率兵官各<num value="6">六</num>人護後<pc>，</pc>並騎<pc>。</pc>每廂各絳引幡<num value="12">十二</num>
+<p>次儀仗<pc>。</pc>左右廂各<num value="6">六</num>色<pc>，</pc>色<num value="9">九</num>行<pc>，</pc>行<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>。</pc>前第<num value="1">一</num>行<pc>，</pc>戟<pc>、</pc>赤氅<pc>；</pc>第<num value="2">二</num>行<pc>，</pc>弓矢<pc>；</pc>第<num value="3">三</num>行<pc>，</pc>儀鋋並毦<pc>；</pc>第<num value="4">四</num>行<pc>，</pc>刀盾<pc>；</pc>第<num value="5">五</num>行<pc>，</pc>儀鍠<pc>、</pc>
+<num value="5">五</num>色幡<pc>；</pc>第<num value="6">六</num>行<pc>，</pc>油戟<pc>。</pc>次前仗首左右廂各<num value="6">六</num>色<pc>，</pc>色<num value="3">三</num>行<pc>，</pc>行<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>。</pc>左右司禦率府各<num value="1">一</num>員<pc>，</pc>果毅都尉各<num value="1">一</num>員<pc>，</pc>帥兵官各<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>領<pc>。</pc>次左右廂各<num value="6">六</num>色<pc>，</pc>色<num value="3">三</num>行<pc>，</pc>行<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>。</pc>左<pc>、</pc>右衛率府副率各<num value="1">一</num>員<pc>，</pc>果毅都尉各<num value="1">一</num>員<pc>，</pc>帥兵官各<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>領<pc>。</pc>次盡後鹵簿左右廂各<num value="6">六</num>色<pc>，</pc>色<num value="3">三</num>行<pc>，</pc>行<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>左右司禦率府副率各<num value="1">一</num>員<pc>，</pc>
+<pc>（</pc>各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>步從<pc>。</pc>
+<pc>）</pc>果毅都尉各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>帥兵官各<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>領<pc>，</pc>左右司禦率府率兵官各<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>護後<pc>，</pc>並騎<pc>。</pc>每廂各絳引幡<num value="12">十二</num>
 <pc>，</pc>
-<pc>（</pc>執各<num value="1">一</num>人<pc>，</pc>引前旗<num value="6">六</num>
+<pc>（</pc>執各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>引前旗<num value="6">六</num>
 <pc>，</pc>引後旗<num value="6">六</num>
 <pc>。</pc>
 <pc>）</pc>揭鼓<num value="12">十二</num>
@@ -1046,18 +1588,45 @@
 </p>
 </div>
 <div>
-<p>次左右廂殳<pc>。</pc>各<num value="150">一百五十</num>人<pc>，</pc>
-<pc>（</pc>左右司禦率府各<num value="86">八十六</num>人<pc>，</pc>左右衛率府各<num value="64">六十四</num>人<pc>。</pc>
-<pc>）</pc>並分前後<pc>，</pc>在步隊儀仗外<pc>、</pc>馬隊內<pc>，</pc>前接<num value="6">六</num>旗<pc>，</pc>後盡鹵簿<pc>，</pc>曲折至門<pc>，</pc>每廂各司禦率府果毅都尉<num value="1">一</num>員檢校<pc>，</pc>各<num value="1">一</num>人從<pc>，</pc>每廂各帥兵官<num value="7">七</num>人<pc>。</pc>
-<pc>（</pc>並騎<pc>，</pc>左右司禦率府各<num value="4">四</num>人<pc>，</pc>左右率府各<num value="3">三</num>人<pc>。</pc>
+<p>次左右廂殳<pc>。</pc>各<measure quantity="150" unit="people">
+<num value="150">一百五十</num>人</measure>
+<pc>，</pc>
+<pc>（</pc>左右司禦率府各<measure quantity="86" unit="people">
+<num value="86">八十六</num>人</measure>
+<pc>，</pc>左右衛率府各<measure quantity="64" unit="people">
+<num value="64">六十四</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>並分前後<pc>，</pc>在步隊儀仗外<pc>、</pc>馬隊內<pc>，</pc>前接<num value="6">六</num>旗<pc>，</pc>後盡鹵簿<pc>，</pc>曲折至門<pc>，</pc>每廂各司禦率府果毅都尉<num value="1">一</num>員檢校<pc>，</pc>各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>從<pc>，</pc>每廂各帥兵官<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>。</pc>
+<pc>（</pc>並騎<pc>，</pc>左右司禦率府各<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>左右率府各<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
-<p>次馬隊<pc>。</pc>左右廂各<num value="10">十</num>隊<pc>，</pc>每隊帥兵官以下<num value="31">三十一</num>人<pc>，</pc>旗<num value="1">一</num>
+<p>次馬隊<pc>。</pc>左右廂各<num value="10">十</num>隊<pc>，</pc>每隊帥兵官以下<measure quantity="31" unit="people">
+<num value="31">三十一</num>人</measure>
+<pc>，</pc>旗<num value="1">一</num>
 <pc>，</pc>
-<pc>（</pc>執<num value="1">一</num>人<pc>，</pc>引<num value="2">二</num>人<pc>，</pc>夾<num value="2">二</num>人<pc>。</pc>
-<pc>）</pc>執槊<num value="16">十六</num>人<pc>，</pc>弓矢<num value="7">七</num>人<pc>，</pc>弩<num value="3">三</num>人<pc>。</pc>前第<num value="1">一</num>隊<pc>，</pc>左右清道率府果毅都尉各<num value="1">一</num>員領<pc>；</pc>第<num value="2">二</num>
+<pc>（</pc>執<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>引<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>夾<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>執槊<measure quantity="16" unit="people">
+<num value="16">十六</num>人</measure>
+<pc>，</pc>弓矢<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>，</pc>弩<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>。</pc>前第<num value="1">一</num>隊<pc>，</pc>左右清道率府果毅都尉各<num value="1">一</num>員領<pc>；</pc>第<num value="2">二</num>
 <pc>、</pc>第<num value="3">三</num>
 <pc>、</pc>第<num value="4">四</num>隊<pc>，</pc>左右司禦率府果毅都尉各<num value="1">一</num>員領<pc>；</pc>第<num value="5">五</num>
 <pc>、</pc>第<num value="6">六</num>
@@ -1065,38 +1634,80 @@
 <pc>、</pc>第<num value="9">九</num>
 <pc>、</pc>第<num value="10">十</num>隊<pc>，</pc>左右司禦率府果毅都尉各<num value="1">一</num>員領<pc>。</pc>次後拒隊<pc>。</pc>
 <pc>（</pc>旗<num value="1">一</num>
-<pc>，</pc>執<num value="1">一</num>人<pc>，</pc>引<num value="2">二</num>人<pc>，</pc>夾<num value="2">二</num>人<pc>。</pc>
-<pc>）</pc>清道率府果毅都尉<num value="1">一</num>員領<num value="40">四十</num>騎<pc>，</pc>執槊<num value="20">二十</num>人<pc>，</pc>弓矢<num value="16">十六</num>人<pc>，</pc>弩<num value="4">四</num>人<pc>。</pc>叉<num value="2">二</num>人<pc>，</pc>騎從<pc>。</pc>
+<pc>，</pc>執<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>引<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>夾<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
+<pc>）</pc>清道率府果毅都尉<num value="1">一</num>員領<num value="40">四十</num>騎<pc>，</pc>執槊<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>弓矢<measure quantity="16" unit="people">
+<num value="16">十六</num>人</measure>
+<pc>，</pc>弩<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>叉<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>騎從<pc>。</pc>
 </p>
 </div>
 <div>
 <p>次後拒隊前當正道殳仗行內開牙門<pc>。</pc>次左右廂各開牙門<num value="3">三</num>
 <pc>：</pc>前第<num value="1">一</num>門<pc>，</pc>左右司禦率府步隊後<pc>，</pc>左右率府步隊前<pc>；</pc>第<num value="2">二</num>門<pc>，</pc>左右衛率府步隊後<pc>，</pc>司禦率府儀仗前<pc>；</pc>第<num value="3">三</num>門<pc>，</pc>左右司禦率府儀仗後<pc>，</pc>左右衛率府步隊前<pc>。</pc>
-<pc>（</pc>每開牙門<pc>，</pc>執旗<num value="2">二</num>人<pc>，</pc>夾<num value="4">四</num>人<pc>，</pc>並騎<pc>。</pc>
+<pc>（</pc>每開牙門<pc>，</pc>執旗<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>夾<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>並騎<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
-<p>監門率府直長各<num value="2">二</num>人<pc>，</pc>並騎<pc>；</pc>次左右監門率府副率各<num value="1">一</num>員<pc>，</pc>騎<pc>；</pc>來往檢校諸門<pc>，</pc>各<num value="1">一</num>人騎從<pc>。</pc>次左右清道率府副率各<num value="3">三</num>人<pc>，</pc>仗內檢校並糾察<pc>，</pc>各<num value="1">一</num>人騎從<pc>。</pc>次少師<pc>、</pc>少傅<pc>、</pc>少保<pc>，</pc>正道乘輅<pc>，</pc>威儀<pc>、</pc>鹵簿各依本品<pc>，</pc>次文武官以次陪從<pc>。</pc>
+<p>監門率府直長各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>並騎<pc>；</pc>次左右監門率府副率各<num value="1">一</num>員<pc>，</pc>騎<pc>；</pc>來往檢校諸門<pc>，</pc>各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>騎從<pc>。</pc>次左右清道率府副率各<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>仗內檢校並糾察<pc>，</pc>各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>騎從<pc>。</pc>次少師<pc>、</pc>少傅<pc>、</pc>少保<pc>，</pc>正道乘輅<pc>，</pc>威儀<pc>、</pc>鹵簿各依本品<pc>，</pc>次文武官以次陪從<pc>。</pc>
 </p>
 </div>
 <div>
 <p>皇太子妃鹵簿之製<pc>。</pc>政和<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>議禮局上<pc>。</pc>清道率府校尉<num value="6">六</num>人<pc>，</pc>騎<pc>。</pc>次青衣<num value="10">十</num>人<pc>。</pc>次導客舍人<num value="4">四</num>人<pc>，</pc>內給使<num value="60">六十</num>人<pc>，</pc>偏扇<pc>、</pc>團扇<pc>、</pc>方扇各<num value="18">十八</num>
+<pc>，</pc>議禮局上<pc>。</pc>清道率府校尉<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>騎<pc>。</pc>次青衣<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>。</pc>次導客舍人<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>內給使<measure quantity="60" unit="people">
+<num value="60">六十</num>人</measure>
+<pc>，</pc>偏扇<pc>、</pc>團扇<pc>、</pc>方扇各<num value="18">十八</num>
 <pc>，</pc>
 <pc>（</pc>並宮人執<pc>。</pc>
 <pc>）</pc>行障<num value="4">四</num>
 <pc>，</pc>坐障<num value="2">二</num>
 <pc>，</pc>夾車<pc>，</pc>
 <pc>（</pc>宮人執<pc>。</pc>
-<pc>）</pc>典內<num value="2">二</num>人<pc>，</pc>騎<pc>，</pc>厭翟車<pc>，</pc>駕<num value="3">三</num>馬<pc>，</pc>駕士<num value="14">十四</num>人<pc>。</pc>次閣帥<num value="2">二</num>人<pc>，</pc>領內給使<num value="18">十八</num>人<pc>，</pc>夾車<pc>，</pc>
+<pc>）</pc>典內<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>騎<pc>，</pc>厭翟車<pc>，</pc>駕<num value="3">三</num>馬<pc>，</pc>駕士<measure quantity="14" unit="people">
+<num value="14">十四</num>人</measure>
+<pc>。</pc>次閣帥<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>領內給使<measure quantity="18" unit="people">
+<num value="18">十八</num>人</measure>
+<pc>，</pc>夾車<pc>，</pc>
 <num value="6">六</num>柱<num value="2">二</num>扇<pc>，</pc>內給使執<pc>。</pc>次供奉內人<pc>，</pc>乘犢車<pc>。</pc>次傘<num value="1">一</num>
 <pc>，</pc>正道<pc>。</pc>雉尾扇<num value="2">二</num>
 <pc>，</pc>團扇<num value="4">四</num>
 <pc>，</pc>曲蓋<num value="2">二</num>
 <pc>。</pc>
-<pc>（</pc>執傘<pc>、</pc>扇各內給使<num value="1">一</num>人<pc>。</pc>
+<pc>（</pc>執傘<pc>、</pc>扇各內給使<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>次戟<num value="90">九十</num>
 <pc>。</pc>
 </p>
@@ -1106,13 +1717,43 @@
 <pc>《</pc>
 <title>政和禮</title>
 <pc>》</pc>雖創具鹵簿<pc>，</pc>然未及行也<pc>。</pc>南渡後<pc>，</pc>雖嚐討論<pc>，</pc>然皇太子皆衝挹不受<pc>，</pc>朝謁宮廟及陪祀及常朝<pc>，</pc>皆乘馬<pc>，</pc>止以宮僚導從<pc>，</pc>有傘<pc>、</pc>扇而無圍子<pc>。</pc>用<num value="3">三</num>接青羅傘<num value="1">一</num>
-<pc>，</pc>紫羅障扇<num value="4">四</num>人從<pc>，</pc>指使<num value="2">二</num>人<pc>，</pc>直省官<num value="2">二</num>人<pc>，</pc>客司<num value="4">四</num>人<pc>，</pc>親事官<num value="20">二十</num>人<pc>，</pc>輦官<num value="20">二十</num>人<pc>，</pc>翰林司<num value="4">四</num>人<pc>，</pc>儀鸞司<num value="4">四</num>人<pc>，</pc>廚子<num value="6">六</num>人<pc>，</pc>教駿<num value="4">四</num>人<pc>，</pc>背印<num value="2">二</num>人<pc>，</pc>步軍司宣效<num value="10">一十</num>人<pc>，</pc>步司兵級<num value="78">七十八</num>人<pc>，</pc>防警兵士<num value="4">四</num>人<pc>。</pc>朝位在<num value="3">三</num>公上<pc>，</pc>扈從在駕後方圍子內<pc>。</pc>
+<pc>，</pc>紫羅障扇<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>從<pc>，</pc>指使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>直省官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>客司<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>親事官<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>輦官<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>翰林司<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>儀鸞司<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>廚子<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>教駿<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>背印<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>步軍司宣效<measure quantity="10" unit="people">
+<num value="10">一十</num>人</measure>
+<pc>，</pc>步司兵級<measure quantity="78" unit="people">
+<num value="78">七十八</num>人</measure>
+<pc>，</pc>防警兵士<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>朝位在<num value="3">三</num>公上<pc>，</pc>扈從在駕後方圍子內<pc>。</pc>
 </p>
 </div>
 <div>
 <p>皇太子妃<pc>，</pc>政和亦有鹵簿<pc>，</pc>南渡後亦省之<pc>。</pc>妃出入惟乘簷子<pc>，</pc>
 <num value="3">三</num>接青羅傘<num value="1">一</num>
-<pc>，</pc>黃紅羅障扇<num value="4">四</num>人從<pc>。</pc>以皇太子府親事官充輦官<pc>，</pc>前執從物<pc>，</pc>簷子前小殿侍<num value="1">一</num>人<pc>，</pc>抱塗金香球<pc>。</pc>先驅<pc>，</pc>則教駿兵士嗬止<pc>。</pc>
+<pc>，</pc>黃紅羅障扇<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>從<pc>。</pc>以皇太子府親事官充輦官<pc>，</pc>前執從物<pc>，</pc>簷子前小殿侍<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>抱塗金香球<pc>。</pc>先驅<pc>，</pc>則教駿兵士嗬止<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1129,22 +1770,34 @@
 <div>
 <p>徽宗政和<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>議禮局上王公鹵簿之製<pc>：</pc>中道清道<num value="6">六</num>人<pc>。</pc>次幰弩<num value="1">一</num>騎<pc>。</pc>次大晟府前部鼓吹<pc>。</pc>令及職掌<pc>、</pc>局長<pc>、</pc>院官各<num value="1">一</num>人<pc>，</pc>鼓<pc>、</pc>金鉦各<num value="1">一</num>
+<pc>，</pc>議禮局上王公鹵簿之製<pc>：</pc>中道清道<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>。</pc>次幰弩<num value="1">一</num>騎<pc>。</pc>次大晟府前部鼓吹<pc>。</pc>令及職掌<pc>、</pc>局長<pc>、</pc>院官各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>鼓<pc>、</pc>金鉦各<num value="1">一</num>
 <pc>，</pc>大鼓<pc>、</pc>長鳴各<num value="18">一十八</num>
 <pc>，</pc>鼓<pc>、</pc>金鉦各<num value="1">一</num>
-<pc>。</pc>次引樂官<num value="2">二</num>人<pc>，</pc>小鼓<pc>、</pc>中鳴各<num value="10">一十</num>
+<pc>。</pc>次引樂官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>小鼓<pc>、</pc>中鳴各<num value="10">一十</num>
 <pc>。</pc>次麾<pc>、</pc>幢各<num value="1">一</num>
 <pc>，</pc>節<num value="1">一</num>
 <pc>，</pc>夾槊<num value="2">二</num>
 <pc>，</pc>誕馬<num value="8">八</num>
 <pc>，</pc>
-<pc>（</pc>每匹<pc>，</pc>控馬各<num value="2">二</num>人<pc>。</pc>
+<pc>（</pc>每匹<pc>，</pc>控馬各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>革車<num value="1">一</num>乘<pc>，</pc>駕赤馬<num value="4">四</num>
-<pc>，</pc>駕士<num value="25">二十五</num>人<pc>，</pc>散扇<num value="10">十</num>
+<pc>，</pc>駕士<measure quantity="25" unit="people">
+<num value="25">二十五</num>人</measure>
+<pc>，</pc>散扇<num value="10">十</num>
 <pc>，</pc>方傘<num value="2">二</num>
 <pc>，</pc>朱團扇<num value="4">四</num>夾方傘<pc>，</pc>曲蓋<num value="2">二</num>
 <pc>。</pc>次大角<num value="8">八</num>
-<pc>。</pc>次後部鼓吹<pc>，</pc>丞<num value="1">一</num>員<pc>，</pc>錄事<num value="1">一</num>人<pc>。</pc>次鐃鼓<num value="1">一</num>
+<pc>。</pc>次後部鼓吹<pc>，</pc>丞<num value="1">一</num>員<pc>，</pc>錄事<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>次鐃鼓<num value="1">一</num>
 <pc>，</pc>簫<num value="4">四</num>
 <pc>，</pc>笳<num value="4">四</num>
 <pc>，</pc>大橫吹<num value="6">六</num>
@@ -1164,7 +1817,15 @@
 <pc>，</pc>油戟<num value="18">十八</num>
 <pc>，</pc>儀槊<num value="12">十二</num>
 <pc>，</pc>細槊<num value="12">十二</num>
-<pc>。</pc>次左右衛尉寺押當職掌<num value="11">一十一</num>人<pc>，</pc>騎<pc>；</pc>部轄步兵<pc>、</pc>部轄騎兵<pc>、</pc>太仆寺部押人員各<num value="1">一</num>人<pc>，</pc>教馬官<num value="1">一</num>人<pc>。</pc>押當職掌<num value="4">四</num>人<pc>，</pc>騎<pc>。</pc>
+<pc>。</pc>次左右衛尉寺押當職掌<measure quantity="11" unit="people">
+<num value="11">一十一</num>人</measure>
+<pc>，</pc>騎<pc>；</pc>部轄步兵<pc>、</pc>部轄騎兵<pc>、</pc>太仆寺部押人員各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>教馬官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>押當職掌<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>騎<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1175,16 +1836,26 @@
 <p>
 <num value="1">一</num>品鹵簿<pc>。</pc>
 <pc>（</pc>命婦同<pc>。</pc>
-<pc>）</pc>中道清道<num value="4">四</num>人<pc>。</pc>幰弩<num value="1">一</num>
+<pc>）</pc>中道清道<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>幰弩<num value="1">一</num>
 <pc>，</pc>騎<pc>。</pc>大晟府前部鼓吹<pc>。</pc>令<num value="1">一</num>
-<pc>，</pc>職掌<num value="1">一</num>人<pc>，</pc>局長<pc>、</pc>院官各<num value="1">一</num>人<pc>。</pc>鼓<pc>、</pc>金鉦各<num value="1">一</num>
+<pc>，</pc>職掌<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>局長<pc>、</pc>院官各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>鼓<pc>、</pc>金鉦各<num value="1">一</num>
 <pc>，</pc>大鼓<pc>、</pc>長鳴各<num value="16">一十六</num>
 <pc>，</pc>麾<pc>、</pc>幢<pc>、</pc>節各<num value="1">一</num>
 <pc>，</pc>槊<num value="2">二</num>
 <pc>，</pc>誕馬<num value="6">六</num>
 <pc>。</pc>次革車<num value="1">一</num>乘<pc>，</pc>駕赤馬<num value="4">四</num>
-<pc>，</pc>駕士<num value="25">二十五</num>人<pc>。</pc>
-<pc>（</pc>命婦厭翟車<pc>，</pc>駕士<num value="23">二十三</num>人<pc>，</pc>
+<pc>，</pc>駕士<measure quantity="25" unit="people">
+<num value="25">二十五</num>人</measure>
+<pc>。</pc>
+<pc>（</pc>命婦厭翟車<pc>，</pc>駕士<measure quantity="23" unit="people">
+<num value="23">二十三</num>人</measure>
+<pc>，</pc>
 <num value="2">二</num>品<pc>、</pc>
 <num value="3">三</num>品準此<pc>。</pc>
 <pc>）</pc>散扇<num value="8">八</num>
@@ -1205,22 +1876,36 @@
 <pc>。</pc>
 <pc>（</pc>命婦屬車<num value="6">六</num>
 <pc>，</pc>駕黃牛<num value="18">十八</num>
-<pc>，</pc>駕士<num value="59">五十九</num>人<pc>，</pc>行大角前<pc>，</pc>
+<pc>，</pc>駕士<measure quantity="59" unit="people">
+<num value="59">五十九</num>人</measure>
+<pc>，</pc>行大角前<pc>，</pc>
 <num value="2">二</num>品<pc>、</pc>
 <num value="3">三</num>品準此<pc>。</pc>
-<pc>）</pc>次後部鼓吹<pc>。</pc>丞<num value="1">一</num>員<pc>，</pc>錄事<num value="1">一</num>人<pc>，</pc>引樂官<num value="2">二</num>員<pc>。</pc>鐃鼓<num value="1">一</num>
+<pc>）</pc>次後部鼓吹<pc>。</pc>丞<num value="1">一</num>員<pc>，</pc>錄事<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>引樂官<num value="2">二</num>員<pc>。</pc>鐃鼓<num value="1">一</num>
 <pc>，</pc>簫<pc>、</pc>笳<pc>、</pc>大橫吹各<num value="4">四</num>
 <pc>，</pc>節鼓<num value="1">一</num>
 <pc>，</pc>笛<pc>、</pc>簫<pc>、</pc>觱栗<pc>、</pc>笳各<num value="4">四</num>
-<pc>。</pc>外仗<pc>。</pc>青衣<num value="10">十</num>人<pc>，</pc>車輻棒<num value="10">十</num>
+<pc>。</pc>外仗<pc>。</pc>青衣<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>車輻棒<num value="10">十</num>
 <pc>，</pc>戟<num value="90">九十</num>
 <pc>，</pc>刀盾<pc>、</pc>槊各<num value="80">八十</num>
 <pc>，</pc>弓矢<num value="60">六十</num>
 <pc>，</pc>儀刀<num value="30">三十</num>
 <pc>，</pc>信幡<num value="8">八</num>
 <pc>，</pc>告止幡<pc>、</pc>傳教幡<pc>、</pc>儀鍠斧掛<num value="5">五</num>色幡各<num value="4">四</num>
-<pc>。</pc>次衛尉寺排列<pc>、</pc>押當職掌<num value="11">一十一</num>人<pc>，</pc>部轄人員<pc>、</pc>太仆寺部押人員<pc>、</pc>教馬官各<num value="1">一</num>人<pc>。</pc>押當職掌<num value="4">四</num>人<pc>。</pc>
-<pc>（</pc>命婦加<num value="2">二</num>人<pc>。</pc>
+<pc>。</pc>次衛尉寺排列<pc>、</pc>押當職掌<measure quantity="11" unit="people">
+<num value="11">一十一</num>人</measure>
+<pc>，</pc>部轄人員<pc>、</pc>太仆寺部押人員<pc>、</pc>教馬官各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>押當職掌<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>
+<pc>（</pc>命婦加<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -1228,30 +1913,48 @@
 <p>
 <num value="2">二</num>品鹵簿<pc>。</pc>
 <pc>（</pc>命婦同<pc>。</pc>
-<pc>）</pc>中道清道<num value="2">二</num>人<pc>。</pc>幰弩<num value="1">一</num>
+<pc>）</pc>中道清道<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>幰弩<num value="1">一</num>
 <pc>。</pc>大晟府前部鼓吹<pc>。</pc>令<num value="1">一</num>
-<pc>，</pc>及職掌<pc>、</pc>局長<pc>、</pc>院官各<num value="1">一</num>人<pc>。</pc>鼓<pc>、</pc>金鉦各<num value="1">一</num>
+<pc>，</pc>及職掌<pc>、</pc>局長<pc>、</pc>院官各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>鼓<pc>、</pc>金鉦各<num value="1">一</num>
 <pc>，</pc>大鼓<num value="14">十四</num>
 <pc>，</pc>麾<pc>、</pc>幢<pc>、</pc>節各<num value="1">一</num>
 <pc>，</pc>夾槊<num value="2">二</num>
 <pc>，</pc>誕馬<num value="4">四</num>
 <pc>。</pc>次革車<num value="1">一</num>乘<pc>，</pc>駕赤馬<num value="4">四</num>
-<pc>，</pc>駕士<num value="25">二十五</num>人<pc>。</pc>散扇<num value="4">四</num>
+<pc>，</pc>駕士<measure quantity="25" unit="people">
+<num value="25">二十五</num>人</measure>
+<pc>。</pc>散扇<num value="4">四</num>
 <pc>，</pc>方傘<pc>、</pc>朱團扇<pc>、</pc>曲蓋各<num value="2">二</num>
 <pc>。</pc>次大角<num value="8">八</num>
 <pc>。</pc>次後部鼓吹<pc>。</pc>丞<num value="1">一</num>
-<pc>，</pc>錄事<pc>、</pc>引樂官各<num value="1">一</num>人<pc>。</pc>鐃鼓<num value="1">一</num>
+<pc>，</pc>錄事<pc>、</pc>引樂官各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>鐃鼓<num value="1">一</num>
 <pc>，</pc>簫<pc>、</pc>笳各<num value="2">二</num>
 <pc>，</pc>大橫吹<num value="4">四</num>
 <pc>，</pc>笛<pc>、</pc>簫<pc>、</pc>觱栗<pc>、</pc>笳各<num value="2">二</num>
-<pc>。</pc>外仗<pc>。</pc>青衣<num value="8">八</num>人<pc>，</pc>車輻棒<num value="8">八</num>
+<pc>。</pc>外仗<pc>。</pc>青衣<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>車輻棒<num value="8">八</num>
 <pc>，</pc>戟<num value="70">七十</num>
 <pc>，</pc>刀盾<pc>、</pc>槊<pc>、</pc>弓矢各<num value="60">六十</num>
 <pc>，</pc>儀刀<num value="14">十四</num>
 <pc>，</pc>信幡<num value="4">四</num>
 <pc>，</pc>告止<pc>、</pc>傳教幡各<num value="2">二</num>
-<pc>。</pc>次衛尉排列<pc>、</pc>押當職掌<num value="9">九</num>人<pc>，</pc>部轄人員<pc>、</pc>太仆寺部押人員<pc>、</pc>教馬官各<num value="1">一</num>人<pc>。</pc>押當職掌<num value="4">四</num>人<pc>。</pc>
-<pc>（</pc>命婦加<num value="2">二</num>人<pc>。</pc>
+<pc>。</pc>次衛尉排列<pc>、</pc>押當職掌<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>
+<pc>，</pc>部轄人員<pc>、</pc>太仆寺部押人員<pc>、</pc>教馬官各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>押當職掌<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>
+<pc>（</pc>命婦加<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -1266,18 +1969,30 @@
 <pc>，</pc>夾槊<num value="2">二</num>
 <pc>，</pc>誕馬<num value="4">四</num>
 <pc>。</pc>次革車<num value="1">一</num>乘<pc>，</pc>駕赤馬<num value="4">四</num>
-<pc>，</pc>駕士<num value="25">二十五</num>人<pc>。</pc>散扇<num value="2">二</num>
+<pc>，</pc>駕士<measure quantity="25" unit="people">
+<num value="25">二十五</num>人</measure>
+<pc>。</pc>散扇<num value="2">二</num>
 <pc>，</pc>方傘<num value="2">二</num>
 <pc>，</pc>曲蓋<num value="1">一</num>
 <pc>，</pc>大角<num value="4">四</num>
-<pc>。</pc>外仗<pc>。</pc>青衣<num value="8">八</num>人<pc>，</pc>車輻棒<num value="6">六</num>
+<pc>。</pc>外仗<pc>。</pc>青衣<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>車輻棒<num value="6">六</num>
 <pc>，</pc>戟<num value="60">六十</num>
 <pc>，</pc>刀盾<pc>、</pc>槊<pc>、</pc>弓矢各<num value="50">五十</num>
 <pc>，</pc>儀刀<num value="12">十二</num>
 <pc>，</pc>信幡<num value="4">四</num>
 <pc>，</pc>告止<pc>、</pc>傳教幡各<num value="2">二</num>
-<pc>。</pc>次衛尉排列<pc>、</pc>押當職掌<num value="7">七</num>人<pc>，</pc>部轄人員<pc>、</pc>太仆寺部押人員<pc>、</pc>教馬官各<num value="1">一</num>人<pc>。</pc>押當職掌<num value="4">四</num>人<pc>。</pc>
-<pc>（</pc>命婦加<num value="2">二</num>人<pc>。</pc>
+<pc>。</pc>次衛尉排列<pc>、</pc>押當職掌<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>，</pc>部轄人員<pc>、</pc>太仆寺部押人員<pc>、</pc>教馬官各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>押當職掌<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>
+<pc>（</pc>命婦加<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>

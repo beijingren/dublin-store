@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="67">
 <div>
-<p>稼穑作甘<pc>，</pc>土之性也<pc>。</pc>土失其性<pc>，</pc>则为灾凶<pc>。</pc>旧说以恒风<pc>、</pc>脂夜之妖<pc>，</pc>华孽<pc>、</pc>臝虫之孽<pc>，</pc>牛祸<pc>、</pc>黄眚<pc>、</pc>黄祥<pc>，</pc>皆属之土<pc>，</pc>今从之<pc>。</pc>
+<p>
+<name key="null" type="null">稼穑作</name>甘<pc>，</pc>土之性也<pc>。</pc>土失其性<pc>，</pc>则为灾凶<pc>。</pc>旧说以恒风<pc>、</pc>脂夜之妖<pc>，</pc>华孽<pc>、</pc>臝虫之孽<pc>，</pc>牛祸<pc>、</pc>黄眚<pc>、</pc>黄祥<pc>，</pc>皆属之土<pc>，</pc>今从之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -227,7 +228,9 @@
 <num value="11">十一</num>年</measure>
 <pc>，</pc>京西<pc>、</pc>淮南饥<pc>。</pc>
 <measure quantity="18" unit="years">
-<num value="18">十八</num>年</measure>冬<pc>，</pc>浙东<pc>、</pc>江<pc>、</pc>淮郡国多饥<pc>，</pc>绍兴尤甚<pc>。</pc>民之仰哺于官者<num value="28">二十八</num>万<num value="6000">六千</num>人<pc>，</pc>不给<pc>，</pc>乃食糟糠<pc>、</pc>草木<pc>，</pc>殍死殆半<pc>。</pc>
+<num value="18">十八</num>年</measure>冬<pc>，</pc>浙东<pc>、</pc>江<pc>、</pc>淮郡国多饥<pc>，</pc>绍兴尤甚<pc>。</pc>民之仰哺于官者<num value="28">二十八</num>万<measure quantity="6000" unit="people">
+<num value="6000">六千</num>人</measure>
+<pc>，</pc>不给<pc>，</pc>乃食糟糠<pc>、</pc>草木<pc>，</pc>殍死殆半<pc>。</pc>
 <measure quantity="19" unit="years">
 <num value="19">十九</num>年</measure>春<pc>、</pc>夏<pc>，</pc>绍兴府大饥<pc>，</pc>明<pc>、</pc>婺州亦如之<pc>。</pc>
 <measure quantity="24" unit="years">
@@ -298,7 +301,9 @@
 </p>
 </div>
 <div>
-<p>穜稑亦绝<pc>。</pc>湖北<num value="7">七</num>郡荐饥<pc>。</pc>蜀潼<pc>、</pc>利<pc>、</pc>夔<num value="3">三</num>路郡国<num value="18">十八</num>皆饥<pc>，</pc>流徙者数<num value="1000">千</num>人<pc>。</pc>
+<p>穜稑亦绝<pc>。</pc>湖北<num value="7">七</num>郡荐饥<pc>。</pc>蜀潼<pc>、</pc>利<pc>、</pc>夔<num value="3">三</num>路郡国<num value="18">十八</num>皆饥<pc>，</pc>流徙者数<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>。</pc>
 <measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
 <pc>，</pc>合<pc>、</pc>昌州荐饥<pc>，</pc>民就振相蹂死者<num value="3000">三千</num>余人<pc>。</pc>
@@ -324,7 +329,9 @@
 <pc>，</pc>蕲州饥<pc>。</pc>夔路<num value="5">五</num>郡饥<pc>，</pc>渝<pc>、</pc>涪为甚<pc>。</pc>阶<pc>、</pc>成<pc>、</pc>凤<pc>、</pc>西和州亡麦<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>资<pc>、</pc>荣州亡麦<pc>，</pc>普<pc>、</pc>叙<pc>、</pc>简<pc>、</pc>隆州<pc>、</pc>富顺监皆大饥<pc>，</pc>亡麦<pc>，</pc>殍死者众<pc>，</pc>民流成都府至<num value="1000">千</num>余人<pc>，</pc>威远县弃儿且<num value="600">六百</num>人<pc>。</pc>扬州亦多饥<pc>。</pc>
+<pc>，</pc>资<pc>、</pc>荣州亡麦<pc>，</pc>普<pc>、</pc>叙<pc>、</pc>简<pc>、</pc>隆州<pc>、</pc>富顺监皆大饥<pc>，</pc>亡麦<pc>，</pc>殍死者众<pc>，</pc>民流成都府至<num value="1000">千</num>余人<pc>，</pc>威远县弃儿且<measure quantity="600" unit="people">
+<num value="600">六百</num>人</measure>
+<pc>。</pc>扬州亦多饥<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>简<pc>、</pc>资<pc>、</pc>普州饥<pc>，</pc>绵州亡麦<pc>。</pc>夏<pc>，</pc>绍兴府亡麦<pc>。</pc>安丰军大亡麦<pc>。</pc>
@@ -352,7 +359,8 @@
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>春<pc>，</pc>邵<pc>、</pc>永州大饥<pc>，</pc>死徙者众<pc>，</pc>民多剽盗<pc>。</pc>夏<pc>，</pc>行都艰食<pc>。</pc>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<pc>，</pc>抚<pc>、</pc>袁州<pc>、</pc>隆兴府<pc>、</pc>临江军大饥<pc>，</pc>殍死者不可胜瘗<pc>，</pc>有举家<num value="27">二十七</num>人同赴水死者<pc>。</pc>
+<num value="4">四</num>年</measure>春<pc>，</pc>抚<pc>、</pc>袁州<pc>、</pc>隆兴府<pc>、</pc>临江军大饥<pc>，</pc>殍死者不可胜瘗<pc>，</pc>有举家<measure quantity="27" unit="people">
+<num value="27">二十七</num>人</measure>同赴水死者<pc>。</pc>
 </p>
 </div>
 <div>
@@ -367,7 +375,9 @@
 <pc>，</pc>炮人肉<pc>、</pc>马矢食之<pc>。</pc>诏所至郡国振恤归业<pc>，</pc>时邦储既匮<pc>，</pc>郡计不支<pc>，</pc>去者多死<pc>，</pc>亦有俘掠而北者<pc>。</pc>是岁<pc>，</pc>行都亦饥<pc>，</pc>米斗<num value="1000">千</num>钱<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>春<pc>，</pc>两淮<pc>、</pc>荆<pc>、</pc>襄<pc>、</pc>建康府大饥<pc>，</pc>米斗钱数<num value="1000">千</num>
-<pc>，</pc>人食草木<pc>。</pc>淮民刲道殣食尽<pc>，</pc>发瘗胔继之<pc>，</pc>人相搤噬<pc>。</pc>流于扬州者数<num value="1000">千</num>家<pc>，</pc>度江者聚建康<pc>，</pc>殍死日<num value="720">八九十</num>人<pc>。</pc>是秋<pc>，</pc>诸路复大歉<pc>，</pc>常<pc>、</pc>润尤甚<pc>。</pc>冬<pc>，</pc>行都大饥<pc>，</pc>殍者横市<pc>，</pc>道多弃儿<pc>。</pc>
+<pc>，</pc>人食草木<pc>。</pc>淮民刲道殣食尽<pc>，</pc>发瘗胔继之<pc>，</pc>人相搤噬<pc>。</pc>流于扬州者数<num value="1000">千</num>家<pc>，</pc>度江者聚建康<pc>，</pc>殍死日<measure quantity="720" unit="people">
+<num value="720">八九十</num>人</measure>
+<pc>。</pc>是秋<pc>，</pc>诸路复大歉<pc>，</pc>常<pc>、</pc>润尤甚<pc>。</pc>冬<pc>，</pc>行都大饥<pc>，</pc>殍者横市<pc>，</pc>道多弃儿<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>春<pc>，</pc>建康府大饥<pc>，</pc>人相食<pc>。</pc>
 <measure quantity="5" unit="months">
@@ -595,7 +605,9 @@
 <num value="3">三</num>年</measure>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
-<pc>，</pc>徐州利国监大风起西南<pc>，</pc>坏庐舍<num value="200">二百</num>余区<pc>，</pc>压死<num value="12">十二</num>人<pc>。</pc>
+<pc>，</pc>徐州利国监大风起西南<pc>，</pc>坏庐舍<num value="200">二百</num>余区<pc>，</pc>压死<measure quantity="12" unit="people">
+<num value="12">十二</num>人</measure>
+<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <measure quantity="4" unit="months">
@@ -2342,7 +2354,15 @@
 <pc>，</pc>京师地震<pc>。</pc>
 <num value="21">甲申</num>
 <pc>，</pc>忻<pc>、</pc>代<pc>、</pc>并<measure quantity="3" unit="prefectures">
-<num value="3">三</num>州</measure>地震<pc>，</pc>坏庐舍<pc>，</pc>覆压吏民<pc>。</pc>忻州死者万<num value="9742">九千七百四十二</num>人<pc>，</pc>伤者<num value="5655">五千六百五十五</num>人<pc>，</pc>畜扰死者<num value="5">五</num>万余<pc>；</pc>代州死者<num value="759">七百五十九</num>人<pc>，</pc>并州<num value="890">千八百九十</num>人<pc>。</pc>
+<num value="3">三</num>州</measure>地震<pc>，</pc>坏庐舍<pc>，</pc>覆压吏民<pc>。</pc>忻州死者万<measure quantity="9742" unit="people">
+<num value="9742">九千七百四十二</num>人</measure>
+<pc>，</pc>伤者<measure quantity="5655" unit="people">
+<num value="5655">五千六百五十五</num>人</measure>
+<pc>，</pc>畜扰死者<num value="5">五</num>万余<pc>；</pc>代州死者<measure quantity="759" unit="people">
+<num value="759">七百五十九</num>人</measure>
+<pc>，</pc>并州<measure quantity="890" unit="people">
+<num value="890">千八百九十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2842,7 +2862,9 @@
 <num value="3">三</num>年</measure>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
-<num value="38">辛丑</num>夜<pc>，</pc>大泽县<num value="3">三</num>阳砦大雨崖摧<pc>，</pc>压死者<num value="62">六十二</num>人<pc>。</pc>
+<num value="38">辛丑</num>夜<pc>，</pc>大泽县<num value="3">三</num>阳砦大雨崖摧<pc>，</pc>压死者<measure quantity="62" unit="people">
+<num value="62">六十二</num>人</measure>
+<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <measure quantity="1" unit="month">

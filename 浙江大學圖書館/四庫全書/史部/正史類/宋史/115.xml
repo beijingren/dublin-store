@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="115">
 <div>
-<p>◎禮<num value="18">十八</num>
-<pc>（</pc>嘉禮<num value="6">六</num>
+<p>
+<name key="null" type="null">◎禮十</name>八<pc>（</pc>嘉禮<num value="6">六</num>
 <pc>）</pc>
 </p>
 </div>
@@ -46,7 +46,9 @@
 <div>
 <p>其儀<pc>：</pc>前期奏告天地<pc>、</pc>宗廟<pc>、</pc>神稷<pc>、</pc>諸陵<pc>、</pc>宮觀<pc>。</pc>殿中監帥尚舍張設垂拱<pc>、</pc>文德殿門之內<pc>，</pc>設香案殿下螭陛間<pc>，</pc>又為房於東朵殿<pc>。</pc>大晟展宮架樂於橫街南<pc>，</pc>太常設 太子冠席東階上<pc>、</pc>東宮官位於後<pc>，</pc>設褥位<pc>，</pc>陳服於席南<pc>，</pc>東領北上<pc>。</pc>遠遊冠簪導<pc>、</pc>袞冕簪導同箱<pc>，</pc>在服南<pc>。</pc>設罍洗阼階東<pc>，</pc>罍在洗東<pc>，</pc>篚在洗西<pc>，</pc>實巾<num value="1">一</num>
 <pc>，</pc>加勺冪<pc>。</pc>光祿設醴席西階上<pc>，</pc>南麵<pc>，</pc>實側尊在席南<pc>。</pc>又設饌於席<pc>，</pc>加冪<pc>。</pc>執事者並公服<pc>，</pc>立罍洗酒饌之所<pc>。</pc>
-<num value="9">九</num>旒冕<pc>、</pc>遠遊冠<pc>、</pc>折上巾各<num value="1">一</num>匴<pc>，</pc>奉禮郎<num value="3">三</num>人執以侍於東階之東<pc>、</pc>西北上<pc>。</pc>設典儀位於宮架東北<pc>，</pc>讚者<num value="2">二</num>人在南<pc>，</pc>西向<pc>。</pc>
+<num value="9">九</num>旒冕<pc>、</pc>遠遊冠<pc>、</pc>折上巾各<num value="1">一</num>匴<pc>，</pc>奉禮郎<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>執以侍於東階之東<pc>、</pc>西北上<pc>。</pc>設典儀位於宮架東北<pc>，</pc>讚者<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>在南<pc>，</pc>西向<pc>。</pc>
 </p>
 </div>
 <div>
@@ -64,7 +66,8 @@
 </p>
 </div>
 <div>
-<p>東宮官入<pc>，</pc>詣太子東房<pc>，</pc>次禮直官等引太子<pc>，</pc>內侍<num value="2">二</num>人夾侍<pc>，</pc>東宮官後從<pc>，</pc>
+<p>東宮官入<pc>，</pc>詣太子東房<pc>，</pc>次禮直官等引太子<pc>，</pc>內侍<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>夾侍<pc>，</pc>東宮官後從<pc>，</pc>
 <pc>《</pc>
 <title>欽安之樂</title>
 <pc>》</pc>作<pc>，</pc>即席西向坐<pc>，</pc>樂止<pc>。</pc>引掌冠<pc>、</pc>讚冠者以次 詣罍洗<pc>，</pc>樂作<pc>，</pc>搢笏<pc>，</pc>盥帨訖<pc>，</pc>出笏<pc>，</pc>升<pc>，</pc>樂止<pc>。</pc>執折上巾者升<pc>，</pc>掌冠者降<num value="1">一</num>等受之<pc>，</pc>右執項<pc>，</pc>左執前<pc>，</pc>進皇太子席前<pc>，</pc>北向立<pc>，</pc>祝曰<pc>：</pc>
@@ -81,7 +84,9 @@
 <div>
 <p>掌冠者揖太子複坐<pc>，</pc>禮直官等引掌冠者降詣罍洗<pc>，</pc>如上儀<pc>。</pc>讚冠者進席前<pc>，</pc>北向跪<pc>，</pc>脫折上巾置於匴<pc>，</pc>興<pc>，</pc>內 侍跪受<pc>，</pc>興<pc>，</pc>置於席<pc>。</pc>執遠遊冠者升<pc>，</pc>掌冠者降<num value="2">二</num>等受之<pc>，</pc>右執項<pc>，</pc>左執前<pc>，</pc>進太子席前<pc>，</pc>北向立<pc>，</pc>祝曰<pc>：</pc>
 <pc>“</pc>爰即令辰<pc>，</pc>申加元服<pc>。</pc>崇學以讓<pc>，</pc>
-<num value="3">三</num>善皆得<pc>。</pc>副予<num value="1">一</num>人<pc>，</pc>受天<num value="100">百</num>福<pc>。</pc>
+<num value="3">三</num>善皆得<pc>。</pc>副予<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>受天<num value="100">百</num>福<pc>。</pc>
 <pc>”</pc>乃跪冠<pc>，</pc>
 <pc>《</pc>
 <title>懿安</title>
@@ -133,7 +138,8 @@
 </p>
 </div>
 <div>
-<p>其日質明<pc>，</pc>皇帝通天冠<pc>、</pc>絳紗袍<pc>，</pc>禦文德殿<pc>。</pc>皇子自東房出<pc>，</pc>內侍<num value="2">二</num>人夾侍<pc>，</pc>王府官從<pc>，</pc>
+<p>其日質明<pc>，</pc>皇帝通天冠<pc>、</pc>絳紗袍<pc>，</pc>禦文德殿<pc>。</pc>皇子自東房出<pc>，</pc>內侍<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>夾侍<pc>，</pc>王府官從<pc>，</pc>
 <pc>《</pc>
 <title>恭安之樂</title>
 <pc>》</pc>作<pc>，</pc>即席南向坐<pc>，</pc>樂止<pc>。</pc>掌冠者進折上巾<pc>，</pc>北向跪冠<pc>，</pc>
@@ -179,7 +185,8 @@
 <div>
 <p>公主笄禮<pc>。</pc>年<num value="15">十五</num>
 <pc>，</pc>雖未議下嫁<pc>，</pc>亦笄<pc>。</pc>笄之日<pc>，</pc>設香案於殿庭<pc>；</pc>設冠席於東房外<pc>，</pc>坐東向西<pc>；</pc>設 醴席於西階上<pc>，</pc>坐西向東<pc>；</pc>設席位於冠席南<pc>，</pc>西向<pc>。</pc>其裙背<pc>、</pc>大袖長裙<pc>、</pc>褕翟之衣<pc>，</pc>各設於椸<pc>，</pc>陳下庭<pc>；</pc>冠笄<pc>、</pc>冠朵<pc>、</pc>
-<num value="9">九</num>翬<num value="4">四</num>鳳冠<pc>，</pc>各置於盤<pc>，</pc>蒙以帕<pc>。</pc>首飾隨之<pc>，</pc>陳於服椸之南<pc>，</pc>執事者<num value="3">三</num>人掌之<pc>。</pc>櫛總置於東房<pc>。</pc>內執事宮嬪盛服旁立<pc>，</pc>俟樂作<pc>，</pc>奏請皇帝升禦坐<pc>，</pc>樂止<pc>。</pc>
+<num value="9">九</num>翬<num value="4">四</num>鳳冠<pc>，</pc>各置於盤<pc>，</pc>蒙以帕<pc>。</pc>首飾隨之<pc>，</pc>陳於服椸之南<pc>，</pc>執事者<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>掌之<pc>。</pc>櫛總置於東房<pc>。</pc>內執事宮嬪盛服旁立<pc>，</pc>俟樂作<pc>，</pc>奏請皇帝升禦坐<pc>，</pc>樂止<pc>。</pc>
 </p>
 </div>
 <div>
@@ -295,7 +302,8 @@
 <pc>，</pc>行障<pc>、</pc>坐障各<num value="1">一</num>
 <pc>，</pc>方團掌扇<num value="4">四</num>
 <pc>，</pc>引障花<num value="10">十</num>樹<pc>，</pc>生色燭籠<num value="10">十</num>
-<pc>，</pc>高髻釵插並童子<num value="8">八</num>人騎分左右導扇輿<pc>。</pc>其宗室子聘禮<pc>，</pc>賜女家白金<num value="5000">五千</num>兩<pc>。</pc>其敲 門<pc>、</pc>定禮<pc>、</pc>納財<pc>、</pc>親迎禮皆減半<pc>，</pc>遠屬族卑者又減之<pc>。</pc>
+<pc>，</pc>高髻釵插並童子<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>騎分左右導扇輿<pc>。</pc>其宗室子聘禮<pc>，</pc>賜女家白金<num value="5000">五千</num>兩<pc>。</pc>其敲 門<pc>、</pc>定禮<pc>、</pc>納財<pc>、</pc>親迎禮皆減半<pc>，</pc>遠屬族卑者又減之<pc>。</pc>
 </p>
 </div>
 <div>

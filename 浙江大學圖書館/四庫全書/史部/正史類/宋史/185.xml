@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="185">
 <div>
-<p>◎食貨下<num value="7">七</num>○酒坑冶礬香附</p>
+<p>
+<name key="null" type="null">◎食貨</name>下<num value="7">七</num>○酒坑冶礬香附</p>
 </div>
 <div>
 <p>酒宋榷酤之法<pc>：</pc>諸州城內皆置務釀酒<pc>，</pc>縣<pc>、</pc>鎮<pc>、</pc>鄉<pc>、</pc>閭或許民釀而定其歲課<pc>，</pc>若有遺利<pc>，</pc>所在多請官酤<pc>。</pc>
@@ -88,7 +89,7 @@
 </div>
 <div>
 <p>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>漢初<pc>，</pc>犯私曲者並棄市<pc>；</pc>周<pc>，</pc>至<num value="5">五</num>斤者死<pc>。</pc>建隆<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>以周法太峻<pc>，</pc>犯私曲至<num value="15">十五</num>斤<pc>、</pc>以私酒入城至<num value="3">三</num>鬥者始處極刑<pc>，</pc>餘論罪有差<pc>；</pc>私市酒<pc>、</pc>曲者減造人罪之半<pc>。</pc>
@@ -143,7 +144,9 @@
 <pc>，</pc>詔諸郡遇節序毋得以酒相饋<pc>。</pc>初<pc>，</pc>知渭州蔡挺言<pc>：</pc>
 <pc>“</pc>陝西有醞公使酒交遺<pc>，</pc>至逾<num value="20">二十</num>驛<pc>，</pc>道路煩苦<pc>。</pc>
 <pc>”</pc>詔禁之<pc>。</pc>至是<pc>，</pc>都官郎中沈行複言<pc>：</pc>
-<pc>“</pc>知莫州柴貽範饋他州酒至<num value="900">九百</num>餘瓶<pc>，</pc>用兵夫逾<num value="100">一百</num>人<pc>。</pc>
+<pc>“</pc>知莫州柴貽範饋他州酒至<num value="900">九百</num>餘瓶<pc>，</pc>用兵夫逾<measure quantity="100" unit="people">
+<num value="100">一百</num>人</measure>
+<pc>。</pc>
 <pc>”</pc>故並諸路禁焉<pc>。</pc>
 </p>
 </div>
@@ -782,7 +785,7 @@
 <p>礬唐於晉州置平陽院以收其利<pc>。</pc>開成<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>度支奏罷之<pc>，</pc>乃以礬山歸之州縣<pc>。</pc>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>以來<pc>，</pc>複創務置官吏<pc>，</pc>宋因之<pc>。</pc>
 </p>
 </div>

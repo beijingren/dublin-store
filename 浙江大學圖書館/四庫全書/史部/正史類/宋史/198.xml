@@ -24,10 +24,11 @@
 <body>
 <div type="chapter" n="198">
 <div>
-<p>◎兵<num value="12">十二</num>○馬政</p>
+<p>
+<name key="null" type="null">◎兵十</name>二○馬政</p>
 </div>
 <div>
-<p>國馬之牧<pc>，</pc>曆<date>
+<p>國馬之牧<pc>，</pc>曆<date when="null">
 <num value="5">五</num>代</date>浸廢<pc>，</pc>至宋而規製備具<pc>。</pc>自建隆而後<pc>，</pc>其官司之規<pc>，</pc>廄牧之政<pc>，</pc>與夫收市之利<pc>，</pc>牧地之數<pc>，</pc>支配之等<pc>，</pc>曰券馬<pc>，</pc>曰省馬<pc>，</pc>曰馬社<pc>，</pc>曰括買<pc>，</pc>沿革盛衰<pc>，</pc>皆可得而考焉<pc>。</pc>
 </p>
 </div>
@@ -148,7 +149,9 @@
 <p>真宗大中祥符元年<pc>，</pc>立牧監賞罰之令<pc>，</pc>外監息馬<pc>，</pc>
 <measure quantity="1" unit="year">
 <num value="1">一</num>歲</measure>終以<num value="10">十</num>分為率<pc>，</pc>死<num value="1">一</num>分以上勾當官罰<measure quantity="1" unit="month">
-<num value="1">一</num>月</measure>奉<pc>，</pc>餘等第決杖<pc>。</pc>牧倍多而死少者<pc>，</pc>給賞緡有差<pc>。</pc>凡生駒<num value="1">一</num>匹<pc>，</pc>兵校而下賞絹<num value="1">一</num>匹<pc>。</pc>當是時<pc>，</pc>凡內外坊<pc>、</pc>監及諸軍馬凡<num value="20">二十</num>餘<num value="10000">萬</num>匹<pc>，</pc>飼馬兵校<num value="16038">一萬六千三十八</num>人<pc>。</pc>每歲京城草<num value="666000">六十六萬六千</num>圍<pc>，</pc>麩料<num value="62204">六萬二千二百四</num>石<pc>，</pc>鹽<pc>、</pc>油<pc>、</pc>藥<pc>、</pc>糖<num value="95000">九萬五千</num>餘斤<pc>、</pc>石<pc>，</pc>諸州軍不預焉<pc>。</pc>左右騏驥<num value="6">六</num>坊<pc>、</pc>監止留馬<num value="2000">二千</num>餘匹<pc>，</pc>皆春季出就牧<pc>，</pc>孟冬則別其羸病<pc>，</pc>就棧皂養飼<pc>。</pc>其尚乘之馬<pc>，</pc>唯備用者在焉<pc>。</pc>
+<num value="1">一</num>月</measure>奉<pc>，</pc>餘等第決杖<pc>。</pc>牧倍多而死少者<pc>，</pc>給賞緡有差<pc>。</pc>凡生駒<num value="1">一</num>匹<pc>，</pc>兵校而下賞絹<num value="1">一</num>匹<pc>。</pc>當是時<pc>，</pc>凡內外坊<pc>、</pc>監及諸軍馬凡<num value="20">二十</num>餘<num value="10000">萬</num>匹<pc>，</pc>飼馬兵校<measure quantity="16038" unit="people">
+<num value="16038">一萬六千三十八</num>人</measure>
+<pc>。</pc>每歲京城草<num value="666000">六十六萬六千</num>圍<pc>，</pc>麩料<num value="62204">六萬二千二百四</num>石<pc>，</pc>鹽<pc>、</pc>油<pc>、</pc>藥<pc>、</pc>糖<num value="95000">九萬五千</num>餘斤<pc>、</pc>石<pc>，</pc>諸州軍不預焉<pc>。</pc>左右騏驥<num value="6">六</num>坊<pc>、</pc>監止留馬<num value="2000">二千</num>餘匹<pc>，</pc>皆春季出就牧<pc>，</pc>孟冬則別其羸病<pc>，</pc>就棧皂養飼<pc>。</pc>其尚乘之馬<pc>，</pc>唯備用者在焉<pc>。</pc>
 </p>
 </div>
 <div>
@@ -208,7 +211,8 @@
 <div>
 <p>凡收養病馬<pc>，</pc>估馬司<pc>、</pc>騏驥院取病淺者送上監<pc>，</pc>深者送下監<pc>，</pc>分<num value="10">十</num>槽醫療之<pc>。</pc>天聖<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>詔月以都監<pc>、</pc>判官<num value="1">一</num>人提舉<pc>。</pc>
+<pc>，</pc>詔月以都監<pc>、</pc>判官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>提舉<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>言者謂上監去京城遠<pc>，</pc>送病馬非便<pc>。</pc>詔廢之<pc>，</pc>以病淺馬分屬左右騏驥院<num value="6">六</num>坊<pc>、</pc>監<pc>，</pc>季較拋死數<pc>，</pc>歲終第賞罰<pc>。</pc>更以騏驥院官迭往提舉<pc>。</pc>
@@ -814,7 +818,8 @@
 </p>
 </div>
 <div>
-<p>翔及公雅既領提舉事<pc>，</pc>多所建白<pc>。</pc>請借常平錢<pc>，</pc>每路<num value="50000">五萬</num>緡<pc>，</pc>付州縣出息<pc>，</pc>以賞馬之充肥及孳息者<pc>。</pc>願以私馬印為保馬者聽<pc>。</pc>養馬至<num value="3">三</num>匹<pc>，</pc>蠲役外<pc>，</pc>每疋許次丁<num value="1">一</num>人贖杖罪之非侵損於人者<pc>。</pc>詔悉從之<pc>。</pc>公雅又令每都歲市<num value="20">二十</num>匹<pc>，</pc>限<measure quantity="15" unit="years">
+<p>翔及公雅既領提舉事<pc>，</pc>多所建白<pc>。</pc>請借常平錢<pc>，</pc>每路<num value="50000">五萬</num>緡<pc>，</pc>付州縣出息<pc>，</pc>以賞馬之充肥及孳息者<pc>。</pc>願以私馬印為保馬者聽<pc>。</pc>養馬至<num value="3">三</num>匹<pc>，</pc>蠲役外<pc>，</pc>每疋許次丁<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>贖杖罪之非侵損於人者<pc>。</pc>詔悉從之<pc>。</pc>公雅又令每都歲市<num value="20">二十</num>匹<pc>，</pc>限<measure quantity="15" unit="years">
 <num value="15">十五</num>年</measure>者促為<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>半<pc>。</pc>京西不產馬<pc>，</pc>民貧乏益不堪<pc>，</pc>上慮有司責數過多<pc>，</pc>
 <num value="100">百</num>姓未喻上意<pc>，</pc>詔如元令<pc>，</pc>稍增其數<pc>。</pc>公雅乃請每都歲市<num value="8">八</num>匹<pc>，</pc>限以<measure quantity="8" unit="years">
@@ -1092,7 +1097,8 @@
 <div>
 <p>自杞諸蕃本自無馬<pc>，</pc>蓋轉市之南詔<pc>。</pc>南詔<pc>，</pc>大理國也<pc>。</pc>乾道<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<pc>，</pc>大理人李觀音得等<num value="22">二十二</num>人至橫山砦求市馬<pc>，</pc>知邕州姚恪盛陳金帛誇示之<pc>。</pc>其人大喜<pc>，</pc>出<num value="1">一</num>文書<pc>，</pc>稱<pc>“</pc>利貞<measure quantity="2" unit="years">
+<pc>，</pc>大理人李觀音得等<measure quantity="22" unit="people">
+<num value="22">二十二</num>人</measure>至橫山砦求市馬<pc>，</pc>知邕州姚恪盛陳金帛誇示之<pc>。</pc>其人大喜<pc>，</pc>出<num value="1">一</num>文書<pc>，</pc>稱<pc>“</pc>利貞<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>

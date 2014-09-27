@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="108">
 <div>
-<p>◎禮<num value="11">十一</num>
-<pc>（</pc>吉禮<num value="11">十一</num>
+<p>
+<name key="null" type="null">◎禮十</name>一<pc>（</pc>吉禮<num value="11">十一</num>
 <pc>）</pc>○時享薦新加上祖宗諡號廟諱</p>
 </div>
 <div>
@@ -123,7 +123,9 @@
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>兼宗正卿趙安仁言<pc>：</pc>
-<pc>“</pc>準詔以太廟朔望上食品味<pc>，</pc>令臣詳定<pc>。</pc>望自今委禦廚取親享廟日所上牙盤例<pc>，</pc>參以<num value="4">四</num>時珍膳<pc>，</pc>選上局食手<num value="10">十</num>人<pc>，</pc>赴廟饌造<pc>，</pc>上副聖心<pc>，</pc>式表精愨<pc>。</pc>
+<pc>“</pc>準詔以太廟朔望上食品味<pc>，</pc>令臣詳定<pc>。</pc>望自今委禦廚取親享廟日所上牙盤例<pc>，</pc>參以<num value="4">四</num>時珍膳<pc>，</pc>選上局食手<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>赴廟饌造<pc>，</pc>上副聖心<pc>，</pc>式表精愨<pc>。</pc>
 <pc>”</pc>詔<pc>：</pc>所上食味<pc>，</pc>委宮闈令監造訖<pc>，</pc>安仁省視之<pc>。</pc>
 </p>
 </div>
@@ -173,7 +175,7 @@
 </div>
 <div>
 <p>初<pc>，</pc>
-<date>國朝</date>親享太廟<pc>，</pc>儀物有製<pc>。</pc>熙寧以來<pc>，</pc>率循舊典<pc>，</pc>元豐命官詳定<pc>，</pc>始多損益<pc>。</pc>元年<pc>，</pc>詳定郊廟禮文所言<pc>：</pc>
+<date when="null">國朝</date>親享太廟<pc>，</pc>儀物有製<pc>。</pc>熙寧以來<pc>，</pc>率循舊典<pc>，</pc>元豐命官詳定<pc>，</pc>始多損益<pc>。</pc>元年<pc>，</pc>詳定郊廟禮文所言<pc>：</pc>
 <pc>“</pc>古者納 牲之時<pc>，</pc>王親執鸞刀<pc>，</pc>啟其毛<pc>，</pc>而祝以血毛詔於室<pc>。</pc>今請改正儀注<pc>，</pc>諸太祝以毛血薦於神坐訖<pc>，</pc>徹之而退<pc>。</pc>唐崔沔議曰<pc>：</pc>‘毛血盛於盤<pc>。</pc>’<pc>《</pc>
 <title>開元</title>
 <pc>》</pc>
@@ -445,11 +447,15 @@
 <pc>”</pc>奏可<pc>。</pc>是月<measure quantity="27" unit="days">
 <num value="27">二十七</num>日</measure>
 <pc>，</pc>帝禦崇元殿<pc>，</pc>備禮遣使奉冊上<num value="4">四</num>廟諡號<pc>。</pc>皇帝高祖府君冊曰<pc>：</pc>
-<pc>“</pc>孝曾孫嗣皇帝臣 某<pc>，</pc>再拜稽首上言<pc>，</pc>伏以昊天有命<pc>，</pc>皇宋勃興<pc>，</pc>括厚載以開階<pc>，</pc>宅中區而撫運<pc>，</pc>夷夏蠻貊<pc>，</pc>罔不獻誠<pc>，</pc>山川鬼神<pc>，</pc>罔不受職<pc>。</pc>非臣否德<pc>，</pc>肇此丕圖<pc>，</pc>實賴先正儲休<pc>，</pc>上玄降鑒<pc>，</pc>既虔膺於大寶<pc>，</pc>乃眇覿於遐源<pc>，</pc>敢遵曆代之規<pc>，</pc>式薦配天之號<pc>。</pc>謹遣使司空兼門下侍郎同中書門下平章事王溥<pc>、</pc>副使兵部尚書李濤奉寶冊<pc>，</pc>上尊諡曰文獻 皇帝<pc>，</pc>廟號僖祖<pc>，</pc>皇帝高祖母<persName>崔</persName>氏曰文懿皇後<pc>。</pc>
+<pc>“</pc>孝曾孫嗣皇帝臣 某<pc>，</pc>再拜稽首上言<pc>，</pc>伏以昊天有命<pc>，</pc>皇宋勃興<pc>，</pc>括厚載以開階<pc>，</pc>宅中區而撫運<pc>，</pc>夷夏蠻貊<pc>，</pc>罔不獻誠<pc>，</pc>山川鬼神<pc>，</pc>罔不受職<pc>。</pc>非臣否德<pc>，</pc>肇此丕圖<pc>，</pc>實賴先正儲休<pc>，</pc>上玄降鑒<pc>，</pc>既虔膺於大寶<pc>，</pc>乃眇覿於遐源<pc>，</pc>敢遵曆代之規<pc>，</pc>式薦配天之號<pc>。</pc>謹遣使司空兼門下侍郎同中書門下平章事王溥<pc>、</pc>副使兵部尚書李濤奉寶冊<pc>，</pc>上尊諡曰文獻 皇帝<pc>，</pc>廟號僖祖<pc>，</pc>皇帝高祖母<name key="null" type="maternal">
+<persName>崔</persName>
+</name>氏曰文懿皇後<pc>。</pc>
 <pc>”</pc>皇曾祖府君冊曰<pc>：</pc>
 <pc>“</pc>伏以天命匪忱<pc>，</pc>惟歸於有德<pc>，</pc>人文設教<pc>，</pc>必始於貽謀<pc>。</pc>乘時既肇於興王<pc>，</pc>報本敢稽於尊祖<pc>。</pc>非 隆徽稱<pc>，</pc>則大享何以配神<pc>，</pc>非鏤良瑉<pc>，</pc>則洪烈何由垂世<pc>？</pc>方作<pc>《</pc>
 <title>猗那</title>
-<pc>》</pc>之頌<pc>，</pc>永嚴昭穆之容<pc>。</pc>謹遣使王溥<pc>、</pc>副使李濤奉冊寶<pc>，</pc>上尊諡曰惠元皇帝<pc>，</pc>廟號順祖<pc>，</pc>皇曾祖 母<persName>桑</persName>氏曰惠明皇後<pc>。</pc>
+<pc>》</pc>之頌<pc>，</pc>永嚴昭穆之容<pc>。</pc>謹遣使王溥<pc>、</pc>副使李濤奉冊寶<pc>，</pc>上尊諡曰惠元皇帝<pc>，</pc>廟號順祖<pc>，</pc>皇曾祖 母<name key="null" type="maternal">
+<persName>桑</persName>
+</name>氏曰惠明皇後<pc>。</pc>
 <pc>”</pc>皇祖驍衛府君冊曰<pc>：</pc>
 <pc>“</pc>伏以人瞻烏止<pc>，</pc>運葉龍飛<pc>。</pc>非發源之長<pc>，</pc>析派不能通上漢<pc>；</pc>非積基之厚<pc>，</pc>嗣孫不能有中區<pc>。</pc>今人紀肇修<pc>，</pc>孝思罔極<pc>，</pc>酌<num value="100">百</num>王之損益<pc>，</pc>薦<num value="4">四</num>廟之蒸嚐<pc>。</pc>謹遣使王溥<pc>、</pc>副使李濤奉寶冊<pc>，</pc>上尊諡曰簡恭皇帝<pc>，</pc>廟號翼祖<pc>，</pc>皇祖母京兆郡太夫人劉氏曰簡穆皇後<pc>。</pc>
 <pc>”</pc>聖考太尉府君冊曰<pc>：</pc>
@@ -645,7 +651,7 @@
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <pc>，</pc>司農寺丞嶽珂言<pc>：</pc>
-<pc>“</pc>孝宗舊諱從‘伯’從‘玉’從‘宗’<pc>。</pc>考<date>國朝</date>之製<pc>，</pc>祖宗舊諱<num value="2">二</num>字者<pc>，</pc>皆著令不許並用<pc>。</pc>
+<pc>“</pc>孝宗舊諱從‘伯’從‘玉’從‘宗’<pc>。</pc>考<date when="null">國朝</date>之製<pc>，</pc>祖宗舊諱<num value="2">二</num>字者<pc>，</pc>皆著令不許並用<pc>。</pc>
 <pc>”</pc>又言<pc>“</pc>欽宗舊諱<num value="2">二</num>字<pc>，</pc>其<num value="1">一</num>從 ‘[B08A]’從‘旦’<pc>，</pc>其<num value="1">一</num>從‘火’從‘亙’<pc>，</pc>皆合回避<pc>。</pc>乞並下禮<pc>、</pc>寺討論<pc>，</pc>頒降施行<pc>。</pc>
 <pc>”</pc>既而禮<pc>、</pc>寺討論<pc>：</pc>
 <pc>“</pc>所有欽宗<pc>、</pc>孝宗舊諱<pc>，</pc>若<num value="2">二</num>字連用<pc>，</pc>並合回 避<pc>，</pc>宜從本官所請<pc>，</pc>刊入施行<pc>。</pc>

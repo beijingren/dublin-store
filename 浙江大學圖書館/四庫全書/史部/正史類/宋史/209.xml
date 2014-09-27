@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="209">
 <div>
-<p>◎藝文<num value="8">八</num>孔逭<pc>《</pc>
+<p>
+<name key="null" type="null">◎藝文</name>
+<num value="8">八</num>孔逭<pc>《</pc>
 <title>文苑</title>
 <pc>》</pc>
 <measure quantity="19" unit="chapters">
@@ -533,7 +535,7 @@
 <num value="7">七</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>吳越</date>石壁集</title>
+<date when="null">吳越</date>石壁集</title>
 <pc>》</pc>
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>李慎儀<pc>《</pc>
@@ -547,7 +549,7 @@
 <p>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>國初內製雜編</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
@@ -790,7 +792,9 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
-<pc>（</pc>唐崔湜至融<pc>，</pc>凡<num value="37">三十七</num>人<pc>，</pc>集者不知名<pc>）</pc>
+<pc>（</pc>唐崔湜至融<pc>，</pc>凡<measure quantity="37" unit="people">
+<num value="37">三十七</num>人</measure>
+<pc>，</pc>集者不知名<pc>）</pc>
 <pc>《</pc>
 <title>太平內製</title>
 <pc>》</pc>
@@ -1116,7 +1120,7 @@
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="3">三</num>國</date>誌文類</title>
 <pc>》</pc>
 <measure quantity="60" unit="chapters">
@@ -1469,7 +1473,7 @@
 <pc>》</pc>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>製詞</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
@@ -1742,7 +1746,7 @@
 <div>
 <p>孫氏<pc>《</pc>
 <title>
-<date>吳</date>興詩</title>
+<date when="null">吳</date>興詩</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>
@@ -1760,7 +1764,7 @@
 <measure quantity="150" unit="chapters">
 <num value="150">一百五十</num>卷</measure>又<pc>《</pc>
 <title>
-<date>國朝</date>名臣奏議</title>
+<date when="null">國朝</date>名臣奏議</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -3506,7 +3510,7 @@
 <num value="7">七</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>吳越</date>石壁集</title>
+<date when="null">吳越</date>石壁集</title>
 <pc>》</pc>
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>李慎儀<pc>《</pc>
@@ -3520,7 +3524,7 @@
 <p>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>國初內製雜編</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
@@ -3763,7 +3767,9 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
-<pc>（</pc>唐崔湜至融<pc>，</pc>凡<num value="37">三十七</num>人<pc>，</pc>集者不知名<pc>）</pc>
+<pc>（</pc>唐崔湜至融<pc>，</pc>凡<measure quantity="37" unit="people">
+<num value="37">三十七</num>人</measure>
+<pc>，</pc>集者不知名<pc>）</pc>
 <pc>《</pc>
 <title>太平內製</title>
 <pc>》</pc>
@@ -4089,7 +4095,7 @@
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="3">三</num>國</date>誌文類</title>
 <pc>》</pc>
 <measure quantity="60" unit="chapters">
@@ -4442,7 +4448,7 @@
 <pc>》</pc>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>製詞</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
@@ -4715,7 +4721,7 @@
 <div>
 <p>孫氏<pc>《</pc>
 <title>
-<date>吳</date>興詩</title>
+<date when="null">吳</date>興詩</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>
@@ -4733,7 +4739,7 @@
 <measure quantity="150" unit="chapters">
 <num value="150">一百五十</num>卷</measure>又<pc>《</pc>
 <title>
-<date>國朝</date>名臣奏議</title>
+<date when="null">國朝</date>名臣奏議</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>

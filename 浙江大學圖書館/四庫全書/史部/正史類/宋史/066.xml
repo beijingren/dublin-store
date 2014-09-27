@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="66">
 <div>
-<p>从革<pc>，</pc>金性也<pc>。</pc>金失其性<pc>，</pc>则为变怪<pc>。</pc>旧说以僭咎<pc>、</pc>恒旸<pc>、</pc>诗妖<pc>、</pc>民讹<pc>、</pc>毛虫之孽<pc>，</pc>白眚<pc>、</pc>白祥之类皆属之金<pc>，</pc>今从之<pc>。</pc>
+<p>
+<name key="null" type="null">从革<pc>，</pc>
+</name>金性也<pc>。</pc>金失其性<pc>，</pc>则为变怪<pc>。</pc>旧说以僭咎<pc>、</pc>恒旸<pc>、</pc>诗妖<pc>、</pc>民讹<pc>、</pc>毛虫之孽<pc>，</pc>白眚<pc>、</pc>白祥之类皆属之金<pc>，</pc>今从之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1270,7 +1272,9 @@
 <pc>，</pc>平陆县鸷兽伤人<pc>，</pc>遣使捕之<pc>，</pc>生献<num value="10">十</num>头<pc>。</pc>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
-<pc>，</pc>江陵府白昼虎入市<pc>，</pc>伤<num value="2">二</num>人<pc>。</pc>
+<pc>，</pc>江陵府白昼虎入市<pc>，</pc>伤<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1296,7 +1300,9 @@
 <num value="2">二</num>年</measure>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
-<pc>，</pc>苏州虎夜入福山砦<pc>，</pc>食卒<num value="4">四</num>人<pc>。</pc>
+<pc>，</pc>苏州虎夜入福山砦<pc>，</pc>食卒<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1457,7 +1463,8 @@
 <num value="9">九</num>年</measure>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
-<num value="28">辛卯</num>黎明<pc>，</pc>有虎出于扬州市<pc>，</pc>毛色微黑<pc>，</pc>都拨发官曹安国率良家子数<num value="10">十</num>人射之<pc>。</pc>制置使李庭芝占曰<pc>：</pc>
+<num value="28">辛卯</num>黎明<pc>，</pc>有虎出于扬州市<pc>，</pc>毛色微黑<pc>，</pc>都拨发官曹安国率良家子数<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>射之<pc>。</pc>制置使李庭芝占曰<pc>：</pc>
 <pc>“</pc>
 <measure quantity="1000" unit="days">
 <num value="1000">千</num>日</measure>之内<pc>，</pc>杀<num value="1">一</num>大将<pc>。</pc>

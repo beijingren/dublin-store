@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="125">
 <div>
-<p>◎禮<num value="28">二十八</num>
-<pc>（</pc>凶禮<num value="4">四</num>
+<p>
+<name key="null" type="null">◎禮二</name>十八<pc>（</pc>凶禮<num value="4">四</num>
 <pc>）</pc>○士庶人喪禮服紀</p>
 </div>
 <div>
@@ -47,10 +47,24 @@
 <pc>，</pc>令<num value="100">百</num>姓 喪葬祭奠不得以金銀<pc>、</pc>錦繡為飾及陳設音樂<pc>，</pc>葬物稍涉僭越<pc>，</pc>並勒毀除<pc>。</pc>臣等參詳子孫之葬父祖<pc>，</pc>卑幼之葬尊親<pc>，</pc>全尚樸素即有傷孝道<pc>。</pc>其所用錦繡<pc>，</pc>伏請不加禁 斷<pc>。</pc>其用音樂及欄街設祭<pc>，</pc>身無官而葬用方相者<pc>，</pc>望嚴禁之<pc>。</pc>其詔葬設祭者不在此限<pc>。</pc>又準後唐長興<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>詔<pc>：</pc>
 <num value="5">五</num>品<pc>、</pc>
-<num value="6">六</num>品常參官<pc>，</pc>喪輿舁者<num value="20">二十</num>人<pc>，</pc>挽歌<num value="8">八</num>人<pc>，</pc>明器<num value="30">三十</num>事<pc>，</pc>共置<num value="8">八</num>床<pc>；</pc>
-<num value="7">七</num>品常參官舁者<num value="16">十六</num>人<pc>，</pc>挽歌<num value="6">六</num>人<pc>，</pc>明器<num value="20">二十</num>事<pc>，</pc>置<num value="6">六</num>床<pc>；</pc>
-<num value="6">六</num>品以下京官及檢校<pc>、</pc>試官等<pc>，</pc>舁者<num value="12">十二</num>人<pc>，</pc>挽歌<num value="4">四</num>人<pc>，</pc>明器<num value="15">十五</num>事<pc>，</pc>置<num value="5">五</num>床<pc>，</pc>並許 設紗籠<num value="2">二</num>
-<pc>。</pc>庶人<pc>，</pc>舁者<num value="8">八</num>人<pc>，</pc>明器<num value="12">十二</num>事<pc>，</pc>置兩床<pc>。</pc>悉用香輿<pc>、</pc>魂車<pc>。</pc>其品官葬祖父母<pc>、</pc>父母<pc>，</pc>品卑者聽以子品<pc>，</pc>葬妻子者遞降<num value="1">一</num>等<pc>，</pc>其<num value="4">四</num>品以上依令式施行<pc>。</pc>望令 禦史台<pc>、</pc>街司頒行<pc>，</pc>限<measure quantity="100" unit="days">
+<num value="6">六</num>品常參官<pc>，</pc>喪輿舁者<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>挽歌<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>明器<num value="30">三十</num>事<pc>，</pc>共置<num value="8">八</num>床<pc>；</pc>
+<num value="7">七</num>品常參官舁者<measure quantity="16" unit="people">
+<num value="16">十六</num>人</measure>
+<pc>，</pc>挽歌<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>明器<num value="20">二十</num>事<pc>，</pc>置<num value="6">六</num>床<pc>；</pc>
+<num value="6">六</num>品以下京官及檢校<pc>、</pc>試官等<pc>，</pc>舁者<measure quantity="12" unit="people">
+<num value="12">十二</num>人</measure>
+<pc>，</pc>挽歌<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>明器<num value="15">十五</num>事<pc>，</pc>置<num value="5">五</num>床<pc>，</pc>並許 設紗籠<num value="2">二</num>
+<pc>。</pc>庶人<pc>，</pc>舁者<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>明器<num value="12">十二</num>事<pc>，</pc>置兩床<pc>。</pc>悉用香輿<pc>、</pc>魂車<pc>。</pc>其品官葬祖父母<pc>、</pc>父母<pc>，</pc>品卑者聽以子品<pc>，</pc>葬妻子者遞降<num value="1">一</num>等<pc>，</pc>其<num value="4">四</num>品以上依令式施行<pc>。</pc>望令 禦史台<pc>、</pc>街司頒行<pc>，</pc>限<measure quantity="100" unit="days">
 <num value="100">百</num>日</measure>率從新製<pc>；</pc>限滿違者<pc>，</pc>以違禁之物給巡司為賞<pc>。</pc>喪家輒舉樂者<pc>，</pc>譴伶人<pc>。</pc>他不如製者<pc>，</pc>但罪下裏工作<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>
 </p>
@@ -77,13 +91,13 @@
 <num value="27">二十七</num>年</measure>
 <pc>，</pc>監登聞鼓院範同言<pc>：</pc>
 <pc>“</pc>今民俗有所謂火化者<pc>，</pc>生則奉養之具唯恐不至<pc>，</pc>死則燔爇而棄捐之<pc>，</pc>何獨厚於生而薄於死乎<pc>？</pc>甚者焚而置之水中<pc>，</pc>識者見之 動心<pc>。</pc>
-<date>國朝</date>著令<pc>，</pc>貧無葬地者<pc>，</pc>許以係官之地安葬<pc>。</pc>河東地狹人眾<pc>，</pc>雖至親之喪<pc>，</pc>悉皆焚棄<pc>。</pc>
+<date when="null">國朝</date>著令<pc>，</pc>貧無葬地者<pc>，</pc>許以係官之地安葬<pc>。</pc>河東地狹人眾<pc>，</pc>雖至親之喪<pc>，</pc>悉皆焚棄<pc>。</pc>
 <persName>韓琦</persName>鎮並州<pc>，</pc>以官錢市田數頃<pc>，</pc>給民安葬<pc>，</pc>至今為美談<pc>。</pc>然則承流宣 化<pc>，</pc>使民不畔於禮法<pc>，</pc>正守臣之職也<pc>。</pc>方今火葬之慘<pc>，</pc>日益熾甚<pc>，</pc>事關風化<pc>，</pc>理宜禁止<pc>。</pc>仍飭守臣措置荒閑之地<pc>，</pc>使貧民得以收葬<pc>，</pc>少裨風化之美<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>
 <measure quantity="28" unit="years">
 <num value="28">二十八</num>年</measure>
 <pc>，</pc>戶部侍郎榮薿言<pc>：</pc>
-<pc>“</pc>比因臣僚陳請禁火葬<pc>，</pc>令州郡置荒閑之地<pc>，</pc>使貧民得以收葬<pc>，</pc>誠為善政<pc>。</pc>臣聞<date>吳越</date>之俗<pc>，</pc>葬送費廣<pc>，</pc>必積累而後辦<pc>。</pc>至於貧下之家<pc>，</pc>送終之 具<pc>，</pc>唯務從簡<pc>，</pc>是以從來率以火化為便<pc>，</pc>相習成風<pc>，</pc>勢難遽革<pc>。</pc>況州縣休息之久<pc>，</pc>生聚日繁<pc>，</pc>所用之地<pc>，</pc>必須寬廣<pc>。</pc>乃附郭近便處<pc>，</pc>官司以艱得之故<pc>，</pc>有未行摽撥 者<pc>。</pc>既葬埋未有處所<pc>，</pc>而行火化之禁<pc>，</pc>恐非人情所安<pc>。</pc>欲乞除豪富士族申嚴禁止外<pc>，</pc>貧下之民並客旅遠方之人<pc>，</pc>若有死亡<pc>，</pc>姑從其便<pc>，</pc>候將來州縣摽撥到荒閑之地<pc>，</pc>別行取旨<pc>。</pc>
+<pc>“</pc>比因臣僚陳請禁火葬<pc>，</pc>令州郡置荒閑之地<pc>，</pc>使貧民得以收葬<pc>，</pc>誠為善政<pc>。</pc>臣聞<date when="null">吳越</date>之俗<pc>，</pc>葬送費廣<pc>，</pc>必積累而後辦<pc>。</pc>至於貧下之家<pc>，</pc>送終之 具<pc>，</pc>唯務從簡<pc>，</pc>是以從來率以火化為便<pc>，</pc>相習成風<pc>，</pc>勢難遽革<pc>。</pc>況州縣休息之久<pc>，</pc>生聚日繁<pc>，</pc>所用之地<pc>，</pc>必須寬廣<pc>。</pc>乃附郭近便處<pc>，</pc>官司以艱得之故<pc>，</pc>有未行摽撥 者<pc>。</pc>既葬埋未有處所<pc>，</pc>而行火化之禁<pc>，</pc>恐非人情所安<pc>。</pc>欲乞除豪富士族申嚴禁止外<pc>，</pc>貧下之民並客旅遠方之人<pc>，</pc>若有死亡<pc>，</pc>姑從其便<pc>，</pc>候將來州縣摽撥到荒閑之地<pc>，</pc>別行取旨<pc>。</pc>
 <pc>”</pc>詔依<pc>，</pc>仍令諸州依已降指揮<pc>，</pc>措置摽撥<pc>。</pc>
 </p>
 </div>
@@ -103,7 +117,8 @@
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>之內<pc>，</pc>禁中常服布巾<pc>、</pc>布衫<pc>、</pc>布背子<pc>。</pc>視事則禦內殿<pc>，</pc>服白布襆頭<pc>、</pc>白布袍<pc>、</pc>黑銀帶<pc>，</pc>殿設素幄<pc>。</pc>每<measure quantity="5" unit="days">
 <num value="5">五</num>日</measure>
-<num value="1">一</num>次過宮<pc>，</pc>則衰絰而杖<pc>。</pc>虞祭則布折上巾<pc>、</pc>黑帶<pc>、</pc>布袍<pc>。</pc>受金使吊則衰絰<pc>，</pc>禦德壽殿東廊之素幄<pc>。</pc>受賀節使<pc>，</pc>則禦垂拱殿東楹之素幄<pc>。</pc>是時<pc>，</pc>宰執<pc>、</pc>近臣皆不肯行<pc>，</pc>惟斷自上心<pc>，</pc>堅不可奪<pc>，</pc>大臣乃不敢言<pc>。</pc>讚其決者<pc>，</pc>惟敕 局下僚沈清臣<num value="1">一</num>人而已<pc>。</pc>
+<num value="1">一</num>次過宮<pc>，</pc>則衰絰而杖<pc>。</pc>虞祭則布折上巾<pc>、</pc>黑帶<pc>、</pc>布袍<pc>。</pc>受金使吊則衰絰<pc>，</pc>禦德壽殿東廊之素幄<pc>。</pc>受賀節使<pc>，</pc>則禦垂拱殿東楹之素幄<pc>。</pc>是時<pc>，</pc>宰執<pc>、</pc>近臣皆不肯行<pc>，</pc>惟斷自上心<pc>，</pc>堅不可奪<pc>，</pc>大臣乃不敢言<pc>。</pc>讚其決者<pc>，</pc>惟敕 局下僚沈清臣<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>而已<pc>。</pc>
 </p>
 </div>
 <div>
@@ -359,7 +374,7 @@
 <title>開寶通禮<num value="5">五</num>服年月敕</title>
 <pc>》</pc>
 <pc>，</pc>
-<date>國朝</date>見行典製<pc>，</pc>為父後者<pc>，</pc>為出母無服<pc>。</pc>惟<pc>《</pc>
+<date when="null">國朝</date>見行典製<pc>，</pc>為父後者<pc>，</pc>為出母無服<pc>。</pc>惟<pc>《</pc>
 <title>通禮義纂</title>
 <pc>》</pc>引唐天寶<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>製<pc>：</pc>‘出母<pc>、</pc>嫁母並終服<measure quantity="3" unit="years">
@@ -426,7 +441,9 @@
 <num value="3">三</num>年</measure>
 <pc>，</pc>問範宣<pc>，</pc>答曰<pc>：</pc>‘為慈母且猶<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>況親所生乎<pc>？</pc>嫡母雖尊<pc>，</pc>然厭降之製<pc>，</pc>父所不及<pc>。</pc>婦人無專製之事<pc>，</pc>豈得引父為比而屈降支子 也<pc>？</pc>’南齊褚淵遭庶母<persName>郭</persName>氏喪<pc>，</pc>葬畢<pc>，</pc>起為中軍將軍<pc>。</pc>後嫡母吳郡公主薨<pc>，</pc>葬畢<pc>，</pc>令攝職<pc>。</pc>則震當解官行服<pc>，</pc>心喪<measure quantity="3" unit="years">
+<pc>，</pc>況親所生乎<pc>？</pc>嫡母雖尊<pc>，</pc>然厭降之製<pc>，</pc>父所不及<pc>。</pc>婦人無專製之事<pc>，</pc>豈得引父為比而屈降支子 也<pc>？</pc>’南齊褚淵遭庶母<name key="null" type="maternal">
+<persName>郭</persName>
+</name>氏喪<pc>，</pc>葬畢<pc>，</pc>起為中軍將軍<pc>。</pc>後嫡母吳郡公主薨<pc>，</pc>葬畢<pc>，</pc>令攝職<pc>。</pc>則震當解官行服<pc>，</pc>心喪<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>；</pc>若特有奪情之命<pc>，</pc>望不以追出為名<pc>。</pc>自今顯 官有類此者<pc>，</pc>亦請不稱起複<pc>，</pc>第遣厘職<pc>。</pc>
 <pc>”</pc>
@@ -496,7 +513,8 @@
 </p>
 </div>
 <div>
-<p>右仆射魏仁浦等<num value="21">二十一</num>人奏議曰<pc>：</pc>
+<p>右仆射魏仁浦等<measure quantity="21" unit="people">
+<num value="21">二十一</num>人</measure>奏議曰<pc>：</pc>
 <pc>“</pc>謹按<pc>《</pc>
 <title>禮<pc>•</pc>內則</title>
 <pc>》</pc>雲<pc>：</pc>‘婦事舅姑<pc>，</pc>如事父母<pc>。</pc>’則舅姑與父母<num value="1">一</num>也<pc>。</pc>而古禮有期年之說<pc>，</pc>至於後唐始定<measure quantity="3" unit="years">
@@ -523,7 +541,9 @@
 <p>嫡孫承重<pc>。</pc>天聖<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>大理評事杜杞言<pc>：</pc>
-<pc>“</pc>祖母潁川郡君鍾歿<pc>，</pc>並無服重子婦<pc>，</pc>餘孤孫<num value="7">七</num>人<pc>，</pc>臣最居長<pc>，</pc>今己服斬衰<pc>，</pc>即未審解官以否<pc>？</pc>
+<pc>“</pc>祖母潁川郡君鍾歿<pc>，</pc>並無服重子婦<pc>，</pc>餘孤孫<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>，</pc>臣最居長<pc>，</pc>今己服斬衰<pc>，</pc>即未審解官以否<pc>？</pc>
 <pc>”</pc>禮院言<pc>：</pc>
 <pc>“</pc>按<pc>《</pc>
 <title>禮<pc>•</pc>喪服小記</title>
@@ -614,7 +634,9 @@
 </div>
 <div>
 <p>詔太常禮 院與禦史台詳定聞奏<pc>。</pc>眾官參詳<pc>：</pc>
-<pc>“</pc>耀卿<pc>，</pc>王氏子<pc>；</pc>紳<pc>，</pc>王氏孫<pc>，</pc>尤親於慈母<pc>、</pc>庶母<pc>，</pc>祖母<pc>、</pc>庶祖母也<pc>，</pc>耀卿既亡<pc>，</pc>紳受重代養<pc>，</pc>當服之也<pc>。</pc>又薛紳頃因籍田覃恩<pc>，</pc>乞將敘封母氏恩澤<pc>，</pc>回授與故父所生母<persName>王</persName>氏<pc>，</pc>其薛紳官爵未合敘封祖母<pc>，</pc>蓋朝廷以耀卿已亡<pc>，</pc>紳是長孫<pc>，</pc>敦以教道<pc>，</pc>特許封邑<pc>，</pc>豈可王氏生則輒邀國恩<pc>，</pc>歿則不受重 服<pc>？</pc>況紳被王氏鞠育之恩<pc>，</pc>體尊義重<pc>，</pc>合令解官持齊衰<measure quantity="3" unit="years">
+<pc>“</pc>耀卿<pc>，</pc>王氏子<pc>；</pc>紳<pc>，</pc>王氏孫<pc>，</pc>尤親於慈母<pc>、</pc>庶母<pc>，</pc>祖母<pc>、</pc>庶祖母也<pc>，</pc>耀卿既亡<pc>，</pc>紳受重代養<pc>，</pc>當服之也<pc>。</pc>又薛紳頃因籍田覃恩<pc>，</pc>乞將敘封母氏恩澤<pc>，</pc>回授與故父所生母<name key="null" type="maternal">
+<persName>王</persName>
+</name>氏<pc>，</pc>其薛紳官爵未合敘封祖母<pc>，</pc>蓋朝廷以耀卿已亡<pc>，</pc>紳是長孫<pc>，</pc>敦以教道<pc>，</pc>特許封邑<pc>，</pc>豈可王氏生則輒邀國恩<pc>，</pc>歿則不受重 服<pc>？</pc>況紳被王氏鞠育之恩<pc>，</pc>體尊義重<pc>，</pc>合令解官持齊衰<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>之服<pc>。</pc>
 <pc>”</pc>詔從之<pc>。</pc>
 </p>

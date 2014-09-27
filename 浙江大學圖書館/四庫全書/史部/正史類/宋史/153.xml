@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="153">
 <div>
-<p>◎輿服<num value="5">五</num>○諸臣服下士庶人服</p>
+<p>
+<name key="null" type="null">◎輿服</name>
+<num value="5">五</num>○諸臣服下士庶人服</p>
 </div>
 <div>
 <p>公服<pc>。</pc>凡朝服謂之具服<pc>，</pc>公服從省<pc>，</pc>今謂之常服<pc>。</pc>宋因唐製<pc>，</pc>
@@ -116,9 +118,9 @@
 <div>
 <p>襆頭<pc>。</pc>
 <num value="1">一</num>名折上巾<pc>，</pc>起自後周<pc>，</pc>然止以軟帛垂腳<pc>，</pc>隋始以桐木為之<pc>，</pc>唐始以羅代繒<pc>。</pc>惟帝服則腳上曲<pc>，</pc>人臣下垂<pc>。</pc>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>漸變平直<pc>。</pc>
-<date>國朝</date>之製<pc>，</pc>君臣通服平腳<pc>，</pc>乘輿或服上曲焉<pc>。</pc>其初以藤織草巾子為裏<pc>，</pc>紗為表<pc>，</pc>而塗以漆<pc>。</pc>後惟以漆為堅<pc>，</pc>去其藤裏<pc>，</pc>前為<num value="1">一</num>折<pc>，</pc>平施兩腳<pc>，</pc>以鐵為之<pc>。</pc>
+<date when="null">國朝</date>之製<pc>，</pc>君臣通服平腳<pc>，</pc>乘輿或服上曲焉<pc>。</pc>其初以藤織草巾子為裏<pc>，</pc>紗為表<pc>，</pc>而塗以漆<pc>。</pc>後惟以漆為堅<pc>，</pc>去其藤裏<pc>，</pc>前為<num value="1">一</num>折<pc>，</pc>平施兩腳<pc>，</pc>以鐵為之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -298,11 +300,13 @@
 <num value="3">三</num>院禦史在台及出使<pc>，</pc>並重戴<pc>，</pc>事已久廢<pc>。</pc>其禦史出台為省職及在京厘務者<pc>，</pc>請依舊儀<pc>，</pc>違者罰俸<measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>
 <pc>。</pc>
-<pc>”</pc>從之<pc>。</pc>又詔兩省及尚書省<num value="5">五</num>品以上皆重戴<pc>，</pc>樞密<num value="3">三</num>司使<pc>、</pc>副則不<pc>。</pc>中興後<pc>，</pc>禦史<pc>、</pc>兩製<pc>、</pc>知貢舉官<pc>、</pc>新進士上<num value="3">三</num>人<pc>，</pc>許服之<pc>。</pc>
+<pc>”</pc>從之<pc>。</pc>又詔兩省及尚書省<num value="5">五</num>品以上皆重戴<pc>，</pc>樞密<num value="3">三</num>司使<pc>、</pc>副則不<pc>。</pc>中興後<pc>，</pc>禦史<pc>、</pc>兩製<pc>、</pc>知貢舉官<pc>、</pc>新進士上<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>許服之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>時服<pc>。</pc>宋初因<date>
+<p>時服<pc>。</pc>宋初因<date when="null">
 <num value="5">五</num>代</date>舊製<pc>，</pc>每歲諸臣皆賜時服<pc>，</pc>然止賜將相<pc>、</pc>學士<pc>、</pc>禁軍大校<pc>。</pc>建隆<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>太祖謂侍臣曰<pc>：</pc>
@@ -412,8 +416,14 @@
 <pc>，</pc>詔曰<pc>：</pc>
 <pc>“</pc>士庶之間<pc>，</pc>車服之製<pc>，</pc>至於喪葬<pc>，</pc>各有等差<pc>。</pc>近年以來<pc>，</pc>頗成逾僭<pc>。</pc>宣令翰林學士承旨李昉詳定以聞<pc>。</pc>
 <pc>”</pc>昉奏<pc>：</pc>
-<pc>“</pc>今後富商大賈乘馬<pc>，</pc>漆素鞍者勿禁<pc>。</pc>近年品官綠袍及舉子白襴下皆服紫色<pc>，</pc>亦請禁之<pc>。</pc>其私第便服<pc>，</pc>許紫皂衣<pc>、</pc>白袍<pc>。</pc>舊製<pc>，</pc>庶人服白<pc>，</pc>今請流外官及貢舉人<pc>、</pc>庶人通許服皂<pc>。</pc>工商<pc>、</pc>庶人家乘簷子<pc>，</pc>或用<num value="4">四</num>人<pc>、</pc>
-<num value="8">八</num>人<pc>，</pc>請禁斷<pc>，</pc>聽乘車<pc>；</pc>兜子<pc>，</pc>舁不得過<num value="2">二</num>人<pc>。</pc>
+<pc>“</pc>今後富商大賈乘馬<pc>，</pc>漆素鞍者勿禁<pc>。</pc>近年品官綠袍及舉子白襴下皆服紫色<pc>，</pc>亦請禁之<pc>。</pc>其私第便服<pc>，</pc>許紫皂衣<pc>、</pc>白袍<pc>。</pc>舊製<pc>，</pc>庶人服白<pc>，</pc>今請流外官及貢舉人<pc>、</pc>庶人通許服皂<pc>。</pc>工商<pc>、</pc>庶人家乘簷子<pc>，</pc>或用<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>、</pc>
+<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>請禁斷<pc>，</pc>聽乘車<pc>；</pc>兜子<pc>，</pc>舁不得過<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <pc>”</pc>並從之<pc>。</pc>端拱<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>詔縣鎮場務諸色公人並庶人<pc>、</pc>商賈<pc>、</pc>伎術<pc>、</pc>不係官伶人<pc>，</pc>只許服皂<pc>、</pc>白衣<pc>，</pc>鐵<pc>、</pc>角帶<pc>，</pc>不得服紫<pc>。</pc>文武升朝官及諸司副使<pc>、</pc>禁軍指揮使<pc>、</pc>廂軍都<term>虞候</term>之家子弟<pc>，</pc>不拘此限<pc>。</pc>襆頭巾子<pc>，</pc>自今高不過<num value="2">二</num>寸<num value="5">五</num>分<pc>。</pc>婦人假髻並宜禁斷<pc>，</pc>仍不得作高髻及高冠<pc>。</pc>其銷金<pc>、</pc>泥金<pc>、</pc>真珠裝綴衣服<pc>，</pc>除命婦許服外<pc>，</pc>餘人並禁<pc>。</pc>至道元年<pc>，</pc>複許庶人服紫<pc>。</pc>
@@ -489,7 +499,8 @@
 <num value="2">二</num>年</measure>
 <pc>，</pc>侍禦史翟思言<pc>：</pc>
 <pc>“</pc>京城士人與豪右大姓<pc>，</pc>出入率以轎自載<pc>，</pc>
-<num value="4">四</num>人舁之<pc>，</pc>甚者飾以棕蓋<pc>，</pc>徹去簾蔽<pc>，</pc>翼其左右<pc>，</pc>旁午於通衢<pc>，</pc>甚為僭擬<pc>，</pc>乞行止絕<pc>。</pc>
+<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>舁之<pc>，</pc>甚者飾以棕蓋<pc>，</pc>徹去簾蔽<pc>，</pc>翼其左右<pc>，</pc>旁午於通衢<pc>，</pc>甚為僭擬<pc>，</pc>乞行止絕<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>
 </p>
 </div>
@@ -557,7 +568,8 @@
 <p>紹興<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>高宗謂輔臣曰<pc>：</pc>
-<pc>“</pc>金翠為婦人服飾<pc>，</pc>不惟靡貨害物<pc>，</pc>而侈靡之習<pc>，</pc>實關風化<pc>。</pc>已戒中外<pc>，</pc>及下令不許入宮門<pc>，</pc>今無<num value="1">一</num>人犯者<pc>。</pc>尚恐士民之家未能盡革<pc>，</pc>宜申嚴禁<pc>，</pc>仍定銷金及采捕金翠罪賞格<pc>。</pc>
+<pc>“</pc>金翠為婦人服飾<pc>，</pc>不惟靡貨害物<pc>，</pc>而侈靡之習<pc>，</pc>實關風化<pc>。</pc>已戒中外<pc>，</pc>及下令不許入宮門<pc>，</pc>今無<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>犯者<pc>。</pc>尚恐士民之家未能盡革<pc>，</pc>宜申嚴禁<pc>，</pc>仍定銷金及采捕金翠罪賞格<pc>。</pc>
 <pc>”</pc>淳熙<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>孝宗宣示中宮禕衣曰<pc>：</pc>

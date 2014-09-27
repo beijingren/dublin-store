@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="396">
 <div>
-<p>列傳第<num value="155">一百五十五</num>
+<p>
+<name key="null" type="null">列傳第</name>
+<num value="155">一百五十五</num>
 </p>
 </div>
 <div>
@@ -164,11 +166,13 @@
 </p>
 </div>
 <div>
-<p>　　樞密都承旨王抃建議以殿<pc>、</pc>步<num value="2">二</num>司軍多虛額<pc>，</pc>請各募<num value="3000">三千</num>人充之<pc>。</pc>已而殿前司輒捕市人<pc>，</pc>京城騷動<pc>，</pc>被掠者多斷指<pc>，</pc>示不可用<pc>。</pc>軍人怙眾<pc>，</pc>因奪民財<pc>。</pc>浩奏<pc>：</pc>
+<p>　　樞密都承旨王抃建議以殿<pc>、</pc>步<num value="2">二</num>司軍多虛額<pc>，</pc>請各募<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>充之<pc>。</pc>已而殿前司輒捕市人<pc>，</pc>京城騷動<pc>，</pc>被掠者多斷指<pc>，</pc>示不可用<pc>。</pc>軍人怙眾<pc>，</pc>因奪民財<pc>。</pc>浩奏<pc>：</pc>
 <pc>「</pc>
 <quote>盡釋所捕<pc>，</pc>而禽軍民首喧呶者送獄<pc>。</pc>
 </quote>
-<pc>」</pc>獄成議罪<pc>，</pc>欲取兵民各<num value="1">一</num>人梟首以徇<pc>。</pc>浩曰<pc>：</pc>
+<pc>」</pc>獄成議罪<pc>，</pc>欲取兵民各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>梟首以徇<pc>。</pc>浩曰<pc>：</pc>
 <pc>「</pc>
 <quote>諸軍掠人奪貨至於哄<pc>，</pc>則始釁者軍人也<pc>，</pc>軍法從事固當<pc>。</pc>若市人陸慶童特與抗鬥爾<pc>，</pc>可同罰乎<pc>？</pc>陛下恐軍人有語<pc>，</pc>故<num value="1">一</num>其罪以安之<pc>。</pc>夫民不得其平<pc>，</pc>言亦可畏<pc>，</pc>'等死<pc>，</pc>死國可乎<pc>？</pc>'是豈軍人語<pc>。</pc>
 </quote>
@@ -193,7 +197,7 @@
 <pc>「</pc>
 <quote>用人之弊<pc>，</pc>人君乏知人之哲<pc>，</pc>
 <term>宰相</term>不能擇人<pc>。</pc>
-<date>國朝</date>以來<pc>，</pc>過於忠厚<pc>，</pc>
+<date when="null">國朝</date>以來<pc>，</pc>過於忠厚<pc>，</pc>
 <term>宰相</term>而誤國<pc>，</pc>大將而敗軍<pc>，</pc>未嘗誅戮<pc>。</pc>要在人君必審擇相<pc>，</pc>相必當為官擇人<pc>，</pc>懋賞立乎前<pc>，</pc>誅戮設乎後<pc>，</pc>人才不出<pc>，</pc>吾不信也<pc>。</pc>
 </quote>
 <pc>」</pc>手詔既出<pc>，</pc>中外大聳<pc>。</pc>議者謂<persName>曾覿</persName>視草<pc>，</pc>為光祖甲科發也<pc>。</pc>上遣覿持示浩<pc>，</pc>浩奏<pc>：</pc>
@@ -206,7 +210,10 @@
 </p>
 </div>
 <div>
-<p>　　及自經筵將告歸<pc>，</pc>乃於小官中薦江<pc>、</pc>浙之士<num value="15">十五</num>人<pc>，</pc>有旨令升擢<pc>，</pc>皆<num value="1">一</num>時選也<pc>。</pc>如薛叔似<pc>、</pc>楊簡<pc>、</pc>陸<num value="9">九</num>淵<pc>、</pc>石宗昭<pc>、</pc>陳謙<pc>、</pc>葉適<pc>、</pc>袁燮<pc>、</pc>趙靜之<pc>、</pc>張子智<pc>，</pc>後皆擢用<pc>，</pc>不至通顯者<num value="6">六</num>人而已<pc>。</pc>
+<p>　　及自經筵將告歸<pc>，</pc>乃於小官中薦江<pc>、</pc>浙之士<measure quantity="15" unit="people">
+<num value="15">十五</num>人</measure>
+<pc>，</pc>有旨令升擢<pc>，</pc>皆<num value="1">一</num>時選也<pc>。</pc>如薛叔似<pc>、</pc>楊簡<pc>、</pc>陸<num value="9">九</num>淵<pc>、</pc>石宗昭<pc>、</pc>陳謙<pc>、</pc>葉適<pc>、</pc>袁燮<pc>、</pc>趙靜之<pc>、</pc>張子智<pc>，</pc>後皆擢用<pc>，</pc>不至通顯者<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>而已<pc>。</pc>
 </p>
 </div>
 <div>
@@ -421,10 +428,13 @@
 <pc>「</pc>
 <quote>令甲<pc>，</pc>饑民罪不至死<pc>。</pc>
 </quote>
-<pc>」</pc>進士<num value="8">八</num>人求以免舉恩為升等<pc>，</pc>淮曰<pc>：</pc>
+<pc>」</pc>進士<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>求以免舉恩為升等<pc>，</pc>淮曰<pc>：</pc>
 <pc>「</pc>
 <quote>
-<num value="8">八</num>人得之<pc>，</pc>則<num value="100">百</num>人援之<pc>。</pc>
+<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>得之<pc>，</pc>則<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>援之<pc>。</pc>
 </quote>
 <pc>」</pc>龔頤以執政之客補官<pc>，</pc>求詣銓曹<pc>，</pc>淮以此門不可啟<pc>，</pc>絕其請<pc>。</pc>嘗言跅弛之士<pc>，</pc>緩急能出死力<pc>，</pc>乃以周極知安豐軍<pc>，</pc>辛棄疾與祠<pc>。</pc>
 </p>
@@ -583,7 +593,9 @@
 </p>
 </div>
 <div>
-<p>　　金人再入<pc>，</pc>高宗開大元帥府<pc>，</pc>起兩河兵衛汴京<pc>，</pc>邦彥提所部兵<num value="2500">二千五百</num>人<pc>，</pc>與宗澤自澶淵趨韋城<pc>，</pc>據刀馬河<pc>，</pc>諸道兵莫有進者<pc>。</pc>會敵兵大至<pc>，</pc>移屯南華<pc>。</pc>
+<p>　　金人再入<pc>，</pc>高宗開大元帥府<pc>，</pc>起兩河兵衛汴京<pc>，</pc>邦彥提所部兵<measure quantity="2500" unit="people">
+<num value="2500">二千五百</num>人</measure>
+<pc>，</pc>與宗澤自澶淵趨韋城<pc>，</pc>據刀馬河<pc>，</pc>諸道兵莫有進者<pc>。</pc>會敵兵大至<pc>，</pc>移屯南華<pc>。</pc>
 <num value="2">二</num>帝北遷<pc>，</pc>邦彥與澤<num value="5">五</num>表勸進<pc>。</pc>
 </p>
 </div>
@@ -678,7 +690,8 @@
 <num value="4">四</num>川制置使<pc>。</pc>侂胄決議開邊<pc>，</pc>期以<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="4" unit="months">
-<num value="4">四</num>月</measure>分道進兵<pc>，</pc>命松為宣撫使<pc>，</pc>興元都統制吳曦副之<pc>，</pc>尋加曦為陝西招撫使<pc>，</pc>許便宜從事<pc>。</pc>松將東軍<num value="30000">三萬</num>駐興元<pc>，</pc>曦將西軍<num value="60000">六萬</num>駐河池<pc>。</pc>松至益昌<pc>，</pc>欲以執政禮責曦庭參<pc>，</pc>曦聞之<pc>，</pc>及境而返<pc>。</pc>松用東西軍<num value="1800">一千八百</num>人自衛<pc>，</pc>曦多抽摘以去<pc>，</pc>松殊不悟<pc>。</pc>曦遣其客納款于金<pc>，</pc>獻關外<measure quantity="4" unit="prefectures">
+<num value="4">四</num>月</measure>分道進兵<pc>，</pc>命松為宣撫使<pc>，</pc>興元都統制吳曦副之<pc>，</pc>尋加曦為陝西招撫使<pc>，</pc>許便宜從事<pc>。</pc>松將東軍<num value="30000">三萬</num>駐興元<pc>，</pc>曦將西軍<num value="60000">六萬</num>駐河池<pc>。</pc>松至益昌<pc>，</pc>欲以執政禮責曦庭參<pc>，</pc>曦聞之<pc>，</pc>及境而返<pc>。</pc>松用東西軍<measure quantity="1800" unit="people">
+<num value="1800">一千八百</num>人</measure>自衛<pc>，</pc>曦多抽摘以去<pc>，</pc>松殊不悟<pc>。</pc>曦遣其客納款于金<pc>，</pc>獻關外<measure quantity="4" unit="prefectures">
 <num value="4">四</num>州</measure>地<pc>，</pc>求為蜀王<pc>。</pc>有告曦叛者<pc>，</pc>松哂其狂<pc>。</pc>及金人取成州<pc>，</pc>守將棄關遁<pc>，</pc>吳曦焚河池還興州<pc>。</pc>松以書從曦求援兵<pc>，</pc>曦答以<pc>「</pc>
 <quote>鳳州非用騎之地<pc>，</pc>漢中平衍<pc>，</pc>可騎以驅馳<pc>，</pc>當發<num value="3000">三千</num>騎往<pc>。</pc>
 </quote>
@@ -686,7 +699,8 @@
 </p>
 </div>
 <div>
-<p>　　未幾<pc>，</pc>金人封曦為蜀王<pc>。</pc>曦遺松書諷使去<pc>，</pc>松不知所為<pc>。</pc>興元帥劉甲<pc>、</pc>茶馬范仲任見松<pc>，</pc>謀起兵誅曦<pc>，</pc>松恐事泄取禍<pc>，</pc>即揖<num value="2">二</num>人起去<pc>。</pc>會報金人且至<pc>，</pc>
+<p>　　未幾<pc>，</pc>金人封曦為蜀王<pc>。</pc>曦遺松書諷使去<pc>，</pc>松不知所為<pc>。</pc>興元帥劉甲<pc>、</pc>茶馬范仲任見松<pc>，</pc>謀起兵誅曦<pc>，</pc>松恐事泄取禍<pc>，</pc>即揖<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>起去<pc>。</pc>會報金人且至<pc>，</pc>
 <num value="100">百</num>姓奔走相蹂躪<pc>，</pc>
 <num value="1">一</num>城如沸<pc>。</pc>松亟望米倉山遁去<pc>，</pc>由閬州順流至重慶<pc>，</pc>以書抵曦<pc>，</pc>丐贐禮買舟<pc>，</pc>稱曦為蜀王<pc>。</pc>曦遣使以匣封致饋<pc>，</pc>松望見大恐<pc>，</pc>疑其劍也<pc>，</pc>亟逃奔<pc>。</pc>使者追及<pc>，</pc>松不得已啟視之<pc>，</pc>則金寶也<pc>。</pc>松乃兼程出峽<pc>，</pc>西向掩淚曰<pc>：</pc>
 <pc>「</pc>
@@ -756,7 +770,8 @@
 </p>
 </div>
 <div>
-<p>　　論曰<pc>：</pc>史浩宅心平恕<pc>，</pc>而不能相其君恢復之謀<pc>。</pc>王淮為偽學之禁<pc>，</pc>毒痡善類<pc>。</pc>趙雄與虞允文協謀用兵<pc>，</pc>而舊史謂<num value="2">二</num>人沮抑張栻<pc>，</pc>何哉<pc>？</pc>邦彥守城力戰<pc>，</pc>惜乎助呂頤浩攻李綱<pc>，</pc>君子少之<pc>。</pc>程松<pc>、</pc>陳謙<pc>、</pc>張岩誣諛之徒<pc>，</pc>何足算哉<pc>！</pc>
+<p>　　論曰<pc>：</pc>史浩宅心平恕<pc>，</pc>而不能相其君恢復之謀<pc>。</pc>王淮為偽學之禁<pc>，</pc>毒痡善類<pc>。</pc>趙雄與虞允文協謀用兵<pc>，</pc>而舊史謂<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>沮抑張栻<pc>，</pc>何哉<pc>？</pc>邦彥守城力戰<pc>，</pc>惜乎助呂頤浩攻李綱<pc>，</pc>君子少之<pc>。</pc>程松<pc>、</pc>陳謙<pc>、</pc>張岩誣諛之徒<pc>，</pc>何足算哉<pc>！</pc>
 </p>
 </div>
 </div>

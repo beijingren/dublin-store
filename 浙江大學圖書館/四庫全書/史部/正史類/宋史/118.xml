@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="118">
 <div>
-<p>◎禮<num value="21">二十一</num>
-<pc>（</pc>賓禮<num value="3">三</num>
+<p>
+<name key="null" type="null">◎禮二</name>十一<pc>（</pc>賓禮<num value="3">三</num>
 <pc>）</pc>○朝儀班序<num value="100">百</num>官轉對<num value="100">百</num>官相見儀製</p>
 </div>
 <div>
@@ -146,13 +146,16 @@
 </div>
 <div>
 <p>
-<num value="100">百</num>官轉對<pc>。</pc>自建隆詔內殿起居日<pc>，</pc>令<num value="100">百</num>官以次轉對<pc>，</pc>限以<num value="2">二</num>人<pc>。</pc>其封章於閣門通進<pc>，</pc>複鞠躬自奏<pc>，</pc>宣徽使承旨宣答<pc>，</pc>拜舞而出<pc>，</pc>著為閣門儀製<pc>。</pc>
+<num value="100">百</num>官轉對<pc>。</pc>自建隆詔內殿起居日<pc>，</pc>令<num value="100">百</num>官以次轉對<pc>，</pc>限以<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>其封章於閣門通進<pc>，</pc>複鞠躬自奏<pc>，</pc>宣徽使承旨宣答<pc>，</pc>拜舞而出<pc>，</pc>著為閣門儀製<pc>。</pc>
 </p>
 </div>
 <div>
 <p>淳化<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>詔<pc>：</pc>自今內殿起居日<pc>，</pc>複令常參官<num value="2">二</num>人次對<pc>，</pc>閣門受其章<pc>。</pc>大中祥符末<pc>，</pc>罷不複行<pc>。</pc>
+<pc>，</pc>詔<pc>：</pc>自今內殿起居日<pc>，</pc>複令常參官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>次對<pc>，</pc>閣門受其章<pc>。</pc>大中祥符末<pc>，</pc>罷不複行<pc>。</pc>
 </p>
 </div>
 <div>
@@ -195,7 +198,8 @@
 <div>
 <p>元祐中<pc>，</pc>
 <term>宰臣</term>呂大防言<pc>：</pc>
-<pc>“</pc>昨垂簾聽政<pc>，</pc>惟許台諫以<num value="2">二</num>人同對<pc>，</pc>故不正之言無得以入<pc>。</pc>今陛下初見群臣<pc>，</pc>請對者必眾<pc>。</pc>既人人得進<pc>，</pc>則善惡相雜<pc>，</pc>故於采納尤難<pc>。</pc>
+<pc>“</pc>昨垂簾聽政<pc>，</pc>惟許台諫以<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>同對<pc>，</pc>故不正之言無得以入<pc>。</pc>今陛下初見群臣<pc>，</pc>請對者必眾<pc>。</pc>既人人得進<pc>，</pc>則善惡相雜<pc>，</pc>故於采納尤難<pc>。</pc>
 <pc>”</pc>帝曰<pc>：</pc>
 <pc>“</pc>人君以納諫為上<pc>，</pc>然邪正則不可不辨<pc>。</pc>
 <pc>”</pc>遂詔上殿班當直牒及帥臣<pc>、</pc>國信使副<pc>，</pc>許依元豐<measure quantity="8" unit="years">

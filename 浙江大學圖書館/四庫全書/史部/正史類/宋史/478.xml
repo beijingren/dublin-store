@@ -24,18 +24,20 @@
 <body>
 <div type="chapter" n="478">
 <div>
-<p>◎世家<num value="1">一</num>○<date>南唐</date>李氏</p>
+<p>
+<name key="null" type="null">◎世家</name>
+<num value="1">一</num>○<date when="null">南唐</date>李氏</p>
 </div>
 <div>
 <p>唐自安<pc>、</pc>史之亂<pc>，</pc>藩鎮專製<pc>，</pc>
 <num value="100">百</num>有餘年<pc>，</pc>浸成割據<pc>。</pc>及巢賊蹂躪<pc>，</pc>郡邑丘墟<pc>。</pc>降臻<num value="5">五</num>季<pc>，</pc>豪傑蜂午<pc>，</pc>各挾智力<pc>，</pc>擅為封疆<pc>，</pc>自製位號<pc>，</pc>以爭長雄<pc>。</pc>天厭禍亂<pc>，</pc>授宋大柄<pc>。</pc>太祖命將出師<pc>，</pc>
 <num value="10">十</num>餘年間<pc>，</pc>南平荊<pc>、</pc>楚<pc>，</pc>西取巴<pc>、</pc>蜀<pc>，</pc>劉鋹既俘<pc>，</pc>李氏納款<pc>。</pc>至於太宗<pc>，</pc>
-<date>吳越</date>請吏<pc>，</pc>漳<pc>、</pc>泉來歸<pc>，</pc>薄伐太原<pc>，</pc>遂僨北漢<pc>，</pc>而海內<num value="1">一</num>矣<pc>！</pc>王稱<pc>《</pc>
+<date when="null">吳越</date>請吏<pc>，</pc>漳<pc>、</pc>泉來歸<pc>，</pc>薄伐太原<pc>，</pc>遂僨北漢<pc>，</pc>而海內<num value="1">一</num>矣<pc>！</pc>王稱<pc>《</pc>
 <title>東都事略</title>
 <pc>》</pc>用東漢隗囂<pc>、</pc>公孫述例<pc>，</pc>置孟昶<pc>、</pc>劉鋹等於列傳<pc>，</pc>舊史因之<pc>。</pc>今仿<persName>歐陽修</persName>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>史記</title>
 <pc>》</pc>
 <pc>，</pc>列之世家<pc>。</pc>凡諸國治亂之原<pc>，</pc>天下離合之勢<pc>，</pc>有足鑒者<pc>，</pc>悉著於篇<pc>。</pc>其子孫諸臣事業有可考者<pc>，</pc>各疏本國之下<pc>。</pc>作<pc>《</pc>
@@ -46,19 +48,25 @@
 </div>
 <div>
 <p>
-<date>南唐</date>李景<pc>，</pc>本名景通<pc>，</pc>後改為璟<pc>。</pc>避周廟諱<pc>，</pc>複改為景<pc>。</pc>父<pc>，</pc>吳楊行密將徐溫養子<pc>，</pc>冒姓<persName>徐</persName>氏<pc>，</pc>名知誥<pc>，</pc>
+<date when="null">南唐</date>李景<pc>，</pc>本名景通<pc>，</pc>後改為璟<pc>。</pc>避周廟諱<pc>，</pc>複改為景<pc>。</pc>父<pc>，</pc>吳楊行密將徐溫養子<pc>，</pc>冒姓<name key="null" type="null">
+<persName>徐</persName>
+</name>氏<pc>，</pc>名知誥<pc>，</pc>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>史</title>
 <pc>》</pc>有傳<pc>。</pc>景<num value="10">十</num>餘歲<pc>，</pc>以父任駕部郎中<pc>、</pc>諸衛將軍<pc>。</pc>後唐天成<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>溫卒<pc>，</pc>遂專吳政<pc>。</pc>將出鎮<pc>，</pc>欲以國事付景<pc>，</pc>拜兵部尚書<pc>、</pc>參知政事<pc>。</pc>出鎮金陵<pc>，</pc>遷景司徒<pc>、</pc>平章事<pc>、</pc>知內外左右諸軍事<pc>。</pc>頃之<pc>，</pc>亦赴金陵<pc>，</pc>為中外諸軍副都統<pc>，</pc>受吳禪<pc>，</pc>國號大齊<pc>，</pc>改元升元<pc>，</pc>僭帝號<pc>，</pc>居金陵<pc>。</pc>自雲唐宗室建王恪之後<pc>，</pc>下令複姓<persName>李</persName>氏<pc>，</pc>國號唐<pc>。</pc>封景吳王<pc>、</pc>諸道元帥<pc>、</pc>錄尚書事<pc>，</pc>改封齊王<pc>。</pc>
+<pc>，</pc>溫卒<pc>，</pc>遂專吳政<pc>。</pc>將出鎮<pc>，</pc>欲以國事付景<pc>，</pc>拜兵部尚書<pc>、</pc>參知政事<pc>。</pc>出鎮金陵<pc>，</pc>遷景司徒<pc>、</pc>平章事<pc>、</pc>知內外左右諸軍事<pc>。</pc>頃之<pc>，</pc>亦赴金陵<pc>，</pc>為中外諸軍副都統<pc>，</pc>受吳禪<pc>，</pc>國號大齊<pc>，</pc>改元升元<pc>，</pc>僭帝號<pc>，</pc>居金陵<pc>。</pc>自雲唐宗室建王恪之後<pc>，</pc>下令複姓<name key="null" type="null">
+<persName>李</persName>
+</name>氏<pc>，</pc>國號唐<pc>。</pc>封景吳王<pc>、</pc>諸道元帥<pc>、</pc>錄尚書事<pc>，</pc>改封齊王<pc>。</pc>
 </p>
 </div>
 <div>
 <p>昪立<measure quantity="7" unit="years">
-<num value="7">七</num>年</measure>卒<pc>，</pc>景襲位<pc>，</pc>改元保大<pc>，</pc>尊母<persName>宋</persName>氏為皇太后<pc>，</pc>立妻鍾氏為皇后<pc>。</pc>用宋齊丘<pc>、</pc>周宗為<term>宰相</term>
+<num value="7">七</num>年</measure>卒<pc>，</pc>景襲位<pc>，</pc>改元保大<pc>，</pc>尊母<name key="null" type="maternal">
+<persName>宋</persName>
+</name>氏為皇太后<pc>，</pc>立妻鍾氏為皇后<pc>。</pc>用宋齊丘<pc>、</pc>周宗為<term>宰相</term>
 <pc>，</pc>郊祀天地<pc>。</pc>天福末<pc>，</pc>遣其將祖思全<pc>、</pc>何洙侵福建漳<pc>、</pc>泉之地<pc>。</pc>漢乾祐初<pc>，</pc>李守貞以河中叛<pc>，</pc>潛遣舒元<pc>、</pc>楊訥間道求援於景<pc>。</pc>景命其將李金全<pc>、</pc>郭全義出師應之<pc>。</pc>金全以聲勢不接<pc>，</pc>初不願行<pc>，</pc>景固遣之<pc>。</pc>至沭陽<pc>，</pc>聞守貞敗<pc>，</pc>乃還<pc>。</pc>周廣順初<pc>，</pc>景又遣其將邊鎬平湖湘<pc>，</pc>尋複失之<pc>。</pc>
 </p>
 </div>
@@ -89,13 +97,15 @@
 </p>
 </div>
 <div>
-<p>建隆元年<pc>，</pc>太祖受命<pc>，</pc>即遣使以書諭景<pc>。</pc>初<pc>，</pc>顯德中<pc>，</pc>江南將校相繼來降<pc>，</pc>周成等<num value="34">三十四</num>人皆在京師<pc>，</pc>至是遣歸<pc>。</pc>
+<p>建隆元年<pc>，</pc>太祖受命<pc>，</pc>即遣使以書諭景<pc>。</pc>初<pc>，</pc>顯德中<pc>，</pc>江南將校相繼來降<pc>，</pc>周成等<measure quantity="34" unit="people">
+<num value="34">三十四</num>人</measure>皆在京師<pc>，</pc>至是遣歸<pc>。</pc>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <pc>，</pc>景遣使貢絹<num value="20000">二萬</num>匹<pc>、</pc>銀<num value="10000">萬</num>兩<pc>，</pc>賀登極<pc>。</pc>及澤<pc>、</pc>潞平<pc>，</pc>景又貢銀<num value="5000">五千</num>兩為賀<pc>，</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>還京<pc>，</pc>又貢金器<num value="500">五百</num>兩<pc>、</pc>銀器<num value="3000">三千</num>兩<pc>、</pc>羅紈<num value="1000">千</num>匹<pc>、</pc>絹<num value="5000">五千</num>匹<pc>，</pc>又遣其禮部郎中龔慎儀貢乘輿服禦物<pc>。</pc>每歲冬<pc>、</pc>正<pc>、</pc>端午<pc>、</pc>長春節皆以土產珍異<pc>、</pc>金銀器用<pc>、</pc>繒帛<pc>、</pc>片茶為貢<pc>。</pc>每景及錢俶遣親屬入貢<pc>，</pc>皆禦前殿曲宴以寵之<pc>。</pc>景生日<pc>，</pc>遣使賜以金幣及賜羊<num value="10000">萬</num>口<pc>、</pc>馬<num value="300">三百</num>疋<pc>、</pc>橐駝<num value="30">三十</num>
-<pc>，</pc>以為常製<pc>。</pc>是年<pc>，</pc>親征李重進<pc>，</pc>駐蹕廣陵<pc>，</pc>遣其左仆射嚴續來犒師<pc>。</pc>俄遣其子蔣國公從鎰朝行在所<pc>，</pc>又遣其戶部尚書馮延魯貢金買宴<pc>，</pc>並伶官<num value="50">五十</num>人作樂上壽<pc>，</pc>又貢金銀器<pc>、</pc>金玉鞍勒<pc>、</pc>銀裝兵器及錢銀<pc>、</pc>綾絹<pc>，</pc>皆有加常數<pc>，</pc>太祖亦厚賜之<pc>。</pc>
+<pc>，</pc>以為常製<pc>。</pc>是年<pc>，</pc>親征李重進<pc>，</pc>駐蹕廣陵<pc>，</pc>遣其左仆射嚴續來犒師<pc>。</pc>俄遣其子蔣國公從鎰朝行在所<pc>，</pc>又遣其戶部尚書馮延魯貢金買宴<pc>，</pc>並伶官<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>作樂上壽<pc>，</pc>又貢金銀器<pc>、</pc>金玉鞍勒<pc>、</pc>銀裝兵器及錢銀<pc>、</pc>綾絹<pc>，</pc>皆有加常數<pc>，</pc>太祖亦厚賜之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -121,20 +131,22 @@
 </div>
 <div>
 <p>景始嗣位<pc>，</pc>以弟齊王景遂為元帥<pc>，</pc>居東宮<pc>，</pc>燕王景達為副元帥<pc>，</pc>就柩前盟約<pc>，</pc>兄弟相繼<pc>，</pc>中外庶政<pc>，</pc>並委景遂參決<pc>。</pc>景長子冀為東都留守<pc>，</pc>後又立景遂為太弟<pc>，</pc>景達為齊王<pc>、</pc>元帥<pc>，</pc>冀為燕王<pc>、</pc>副元帥<pc>。</pc>冀鎮京口<pc>，</pc>周師征淮<pc>，</pc>
-<date>吳越</date>圍常州<pc>，</pc>冀部將敗之<pc>。</pc>景達屯濠州<pc>，</pc>丘衄遁還<pc>。</pc>及割地後<pc>，</pc>出景遂為洪州元帥<pc>，</pc>封晉王<pc>。</pc>景達撫州元帥<pc>，</pc>立冀為太子<pc>。</pc>景遂尋卒<pc>，</pc>數月冀亦卒<pc>，</pc>乃立從嘉為吳王<pc>。</pc>
+<date when="null">吳越</date>圍常州<pc>，</pc>冀部將敗之<pc>。</pc>景達屯濠州<pc>，</pc>丘衄遁還<pc>。</pc>及割地後<pc>，</pc>出景遂為洪州元帥<pc>，</pc>封晉王<pc>。</pc>景達撫州元帥<pc>，</pc>立冀為太子<pc>。</pc>景遂尋卒<pc>，</pc>數月冀亦卒<pc>，</pc>乃立從嘉為吳王<pc>。</pc>
 </p>
 </div>
 <div>
 <p>建隆<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>景遷洪州<pc>，</pc>立為太子監國<pc>，</pc>是秋襲位<pc>，</pc>居建康<pc>，</pc>改名煜<pc>。</pc>立母<persName>鍾</persName>氏為聖尊后<pc>，</pc>以鍾氏父名泰章故也<pc>，</pc>妻周氏為國后<pc>。</pc>遣戶部尚書馮謐來貢金器<num value="2000">二千</num>兩<pc>、</pc>銀器<num value="2">二</num>腕兩<pc>、</pc>紗羅繒彩<num value="30000">三萬</num>匹<pc>。</pc>且奉表陳紹襲之意曰<pc>：</pc>
+<pc>，</pc>景遷洪州<pc>，</pc>立為太子監國<pc>，</pc>是秋襲位<pc>，</pc>居建康<pc>，</pc>改名煜<pc>。</pc>立母<name key="null" type="maternal">
+<persName>鍾</persName>
+</name>氏為聖尊后<pc>，</pc>以鍾氏父名泰章故也<pc>，</pc>妻周氏為國后<pc>。</pc>遣戶部尚書馮謐來貢金器<num value="2000">二千</num>兩<pc>、</pc>銀器<num value="2">二</num>腕兩<pc>、</pc>紗羅繒彩<num value="30000">三萬</num>匹<pc>。</pc>且奉表陳紹襲之意曰<pc>：</pc>
 </p>
 </div>
 <div>
 <p>臣本於諸子<pc>，</pc>實愧非才<pc>，</pc>自出膠庠<pc>，</pc>心疏利祿<pc>。</pc>被父兄之蔭育<pc>，</pc>樂日月以優遊<pc>，</pc>思追巢<pc>、</pc>許之餘塵<pc>，</pc>遠慕夷<pc>、</pc>齊之高義<pc>。</pc>繼傾懇悃<pc>，</pc>上告先君<pc>，</pc>固匪虛詞<pc>，</pc>人多知者<pc>。</pc>徒以伯仲繼沒<pc>，</pc>次第推遷<pc>，</pc>先世謂臣克習義方<pc>，</pc>既長且嫡<pc>，</pc>俾司國事<pc>，</pc>遽易年華<pc>。</pc>及乎暫赴豫章<pc>，</pc>留居建業<pc>，</pc>正儲副之位<pc>，</pc>分監撫之權<pc>，</pc>懼弗克堪<pc>，</pc>常深自勵<pc>。</pc>不謂掩丁艱罰<pc>，</pc>遂玷纘承<pc>，</pc>因顧肯堂<pc>，</pc>不敢滅性<pc>。</pc>然念先世君臨江表垂<measure quantity="20" unit="years">
 <num value="20">二十</num>年</measure>
 <pc>，</pc>中間務在倦勤<pc>，</pc>將思釋負<pc>。</pc>臣亡兄文獻太子從冀將從內禪<pc>，</pc>已決宿心<pc>，</pc>而世宗敦勸既深<pc>，</pc>議言因息<pc>。</pc>及陛下顯膺帝籙<pc>，</pc>彌篤睿情<pc>，</pc>方誓子孫<pc>，</pc>仰酬臨照<pc>。</pc>則臣向於脫屣<pc>，</pc>亦匪邀名<pc>，</pc>既嗣宗枋<pc>，</pc>敢忘負荷<pc>。</pc>唯堅臣節<pc>，</pc>上奉天朝<pc>。</pc>若曰稍易初心<pc>，</pc>輒萌異誌<pc>，</pc>豈獨不遵於祖禰<pc>，</pc>實當受譴於神明<pc>。</pc>方主<num value="1">一</num>國之生靈<pc>，</pc>遐賴<num value="9">九</num>天之覆燾<pc>。</pc>況陛下懷柔義廣<pc>，</pc>煦嫗仁深<pc>，</pc>必假清光<pc>，</pc>更逾曩日<pc>。</pc>遠憑帝力<pc>，</pc>下撫舊邦<pc>，</pc>克獲宴安<pc>，</pc>得從康泰<pc>。</pc>然所慮者<pc>，</pc>
-<date>吳越</date>國鄰於弊土<pc>，</pc>近似深仇<pc>，</pc>猶恐輒向封疆<pc>，</pc>或生紛擾<pc>。</pc>臣即自嚴部曲<pc>，</pc>終不先有侵漁<pc>，</pc>免結釁嫌<pc>，</pc>撓幹旒扆<pc>。</pc>仍慮巧肆如簧之舌<pc>，</pc>仰成投杼之疑<pc>，</pc>曲構異端<pc>，</pc>潛行詭道<pc>。</pc>願回鑒燭<pc>，</pc>顯諭是非<pc>，</pc>庶使遠臣得安危懇<pc>。</pc>
+<date when="null">吳越</date>國鄰於弊土<pc>，</pc>近似深仇<pc>，</pc>猶恐輒向封疆<pc>，</pc>或生紛擾<pc>。</pc>臣即自嚴部曲<pc>，</pc>終不先有侵漁<pc>，</pc>免結釁嫌<pc>，</pc>撓幹旒扆<pc>。</pc>仍慮巧肆如簧之舌<pc>，</pc>仰成投杼之疑<pc>，</pc>曲構異端<pc>，</pc>潛行詭道<pc>。</pc>願回鑒燭<pc>，</pc>顯諭是非<pc>，</pc>庶使遠臣得安危懇<pc>。</pc>
 </p>
 </div>
 <div>
@@ -184,7 +196,8 @@
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>春<pc>，</pc>王師傅城下<pc>，</pc>煜猶不知<pc>。</pc>
 <measure quantity="1" unit="day">
-<num value="1">一</num>日</measure>登城<pc>，</pc>見列柵於外<pc>，</pc>旌旗遍野<pc>，</pc>始大懼<pc>，</pc>知為近習所蔽<pc>，</pc>遂殺繼勳<pc>。</pc>召朱令贇於上江<pc>，</pc>令連巨筏載甲士數<num value="10000">萬</num>人順流而下<pc>，</pc>將斷浮梁<pc>，</pc>未至<pc>，</pc>為劉遇所破<pc>。</pc>又募勇士<num value="5000">五千</num>餘人謀襲官軍<pc>，</pc>皆素不習戰<pc>，</pc>以暮夜人秉<num value="1">一</num>炬來攻襲北砦<pc>。</pc>宋師縱其至<pc>，</pc>擊之<pc>，</pc>殲焉<pc>。</pc>獲其將帥<pc>，</pc>悉佩印符<pc>。</pc>
+<num value="1">一</num>日</measure>登城<pc>，</pc>見列柵於外<pc>，</pc>旌旗遍野<pc>，</pc>始大懼<pc>，</pc>知為近習所蔽<pc>，</pc>遂殺繼勳<pc>。</pc>召朱令贇於上江<pc>，</pc>令連巨筏載甲士數<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>順流而下<pc>，</pc>將斷浮梁<pc>，</pc>未至<pc>，</pc>為劉遇所破<pc>。</pc>又募勇士<num value="5000">五千</num>餘人謀襲官軍<pc>，</pc>皆素不習戰<pc>，</pc>以暮夜人秉<num value="1">一</num>炬來攻襲北砦<pc>。</pc>宋師縱其至<pc>，</pc>擊之<pc>，</pc>殲焉<pc>。</pc>獲其將帥<pc>，</pc>悉佩印符<pc>。</pc>
 </p>
 </div>
 <div>
@@ -196,7 +209,8 @@
 <div>
 <p>
 <measure quantity="8" unit="years">
-<num value="8">八</num>年</measure>冬<pc>，</pc>城陷<pc>，</pc>曹彬等駐兵於宮門<pc>，</pc>煜率其近臣迎拜於門<pc>。</pc>彬等上露布<pc>，</pc>以煜並其<term>宰相</term>湯悅等<num value="45">四十五</num>人上獻<pc>。</pc>太祖禦明德樓<pc>，</pc>以煜嘗奉正朔<pc>，</pc>詔有司勿宣露布<pc>，</pc>止令煜等白衣紗帽至樓下待罪<pc>。</pc>詔並釋之<pc>，</pc>賜冠帶<pc>、</pc>器幣<pc>、</pc>鞍馬有差<pc>。</pc>下詔曰<pc>：</pc>
+<num value="8">八</num>年</measure>冬<pc>，</pc>城陷<pc>，</pc>曹彬等駐兵於宮門<pc>，</pc>煜率其近臣迎拜於門<pc>。</pc>彬等上露布<pc>，</pc>以煜並其<term>宰相</term>湯悅等<measure quantity="45" unit="people">
+<num value="45">四十五</num>人</measure>上獻<pc>。</pc>太祖禦明德樓<pc>，</pc>以煜嘗奉正朔<pc>，</pc>詔有司勿宣露布<pc>，</pc>止令煜等白衣紗帽至樓下待罪<pc>。</pc>詔並釋之<pc>，</pc>賜冠帶<pc>、</pc>器幣<pc>、</pc>鞍馬有差<pc>。</pc>下詔曰<pc>：</pc>
 </p>
 </div>
 <div>
@@ -250,7 +264,9 @@
 <num value="4">四</num>年</measure>春<pc>，</pc>奉方物來貢<pc>，</pc>授泰寧軍節度<pc>、</pc>兗海沂等州觀察等使<pc>，</pc>留京師<pc>。</pc>時太祖平劉鋹<pc>，</pc>將召煜入朝<pc>，</pc>故授從善節製<pc>，</pc>仍賜汴陽坊甲第<num value="1">一</num>區<pc>。</pc>煜手疏求遣從善歸國<pc>，</pc>優詔不許<pc>。</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>推恩將佐<pc>，</pc>以掌書記江直木為司門員外郎<pc>、</pc>同判兗州<pc>，</pc>衙內都指揮使兼左都押衙崔光習為右<num value="1000">千</num>牛衛將軍<pc>，</pc>衙內都<term>虞候</term>兼右都押衙子再興為右<num value="1000">千</num>牛衛中郎將<pc>，</pc>並同正<pc>。</pc>又封從善母<persName>淩</persName>氏吳國太夫人<pc>。</pc>江南平<pc>，</pc>改右神武大將軍<pc>。</pc>雍熙初<pc>，</pc>再遷右<num value="1000">千</num>牛衛上將軍<pc>，</pc>出為通許監軍<pc>。</pc>
+<pc>，</pc>推恩將佐<pc>，</pc>以掌書記江直木為司門員外郎<pc>、</pc>同判兗州<pc>，</pc>衙內都指揮使兼左都押衙崔光習為右<num value="1000">千</num>牛衛將軍<pc>，</pc>衙內都<term>虞候</term>兼右都押衙子再興為右<num value="1000">千</num>牛衛中郎將<pc>，</pc>並同正<pc>。</pc>又封從善母<name key="null" type="maternal">
+<persName>淩</persName>
+</name>氏吳國太夫人<pc>。</pc>江南平<pc>，</pc>改右神武大將軍<pc>。</pc>雍熙初<pc>，</pc>再遷右<num value="1000">千</num>牛衛上將軍<pc>，</pc>出為通許監軍<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>卒<pc>，</pc>年<num value="48">四十八</num>
@@ -326,7 +342,9 @@
 </p>
 </div>
 <div>
-<p>宋初<pc>，</pc>從平李重進<pc>，</pc>改沂州防禦使<pc>。</pc>為滑州巡檢使<pc>，</pc>與節帥不協<pc>，</pc>誣奏元為同產妹婿宋玘請求<pc>。</pc>事得釋<pc>。</pc>詔元複姓<persName>舒</persName>氏<pc>。</pc>開寶<measure quantity="5" unit="years">
+<p>宋初<pc>，</pc>從平李重進<pc>，</pc>改沂州防禦使<pc>。</pc>為滑州巡檢使<pc>，</pc>與節帥不協<pc>，</pc>誣奏元為同產妹婿宋玘請求<pc>。</pc>事得釋<pc>。</pc>詔元複姓<name key="null" type="null">
+<persName>舒</persName>
+</name>氏<pc>。</pc>開寶<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>為白波兵馬都監<pc>。</pc>太平興國<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
@@ -425,7 +443,7 @@
 </div>
 <div>
 <p>潘佑<pc>，</pc>
-<date>南唐</date>散騎常侍處常之子<pc>。</pc>少介僻<pc>，</pc>杜門讀書<pc>，</pc>不交人事<pc>。</pc>及長<pc>，</pc>善屬文<pc>，</pc>尤長於論議<pc>。</pc>陳喬<pc>、</pc>韓熙載<pc>、</pc>徐鉉等共薦於景<pc>，</pc>為秘書省正字<pc>、</pc>直崇文館<pc>。</pc>煜襲位<pc>，</pc>遷虞部員外郎<pc>、</pc>史館修撰<pc>。</pc>未幾<pc>，</pc>知製誥<pc>，</pc>為內史舍人<pc>。</pc>
+<date when="null">南唐</date>散騎常侍處常之子<pc>。</pc>少介僻<pc>，</pc>杜門讀書<pc>，</pc>不交人事<pc>。</pc>及長<pc>，</pc>善屬文<pc>，</pc>尤長於論議<pc>。</pc>陳喬<pc>、</pc>韓熙載<pc>、</pc>徐鉉等共薦於景<pc>，</pc>為秘書省正字<pc>、</pc>直崇文館<pc>。</pc>煜襲位<pc>，</pc>遷虞部員外郎<pc>、</pc>史館修撰<pc>。</pc>未幾<pc>，</pc>知製誥<pc>，</pc>為內史舍人<pc>。</pc>
 </p>
 </div>
 <div>
@@ -434,7 +452,9 @@
 <num value="2">二</num>家皆置淨室<pc>，</pc>圖神像<pc>，</pc>常被發裸袒處室中<pc>，</pc>家人亦不得至<pc>。</pc>又嘗建議複井田<pc>，</pc>及依<pc>《</pc>
 <title>周禮</title>
 <pc>》</pc>置牛籍<pc>，</pc>薦平判司農寺以督之<pc>。</pc>事行<pc>，</pc>
-<num value="100">百</num>姓大撓<pc>，</pc>未幾而罷<pc>。</pc>佑自以為眾所排<pc>，</pc>因憤怒<pc>，</pc>歷詆大臣與握兵者兩為朋比<pc>，</pc>將謀反叛<pc>；</pc>又言國將亡<pc>，</pc>非己為相不可救<pc>。</pc>江南政事多在尚書省<pc>，</pc>因薦平知省事<pc>，</pc>又薦星官楊熙澄為樞密使<pc>，</pc>小校侯英典禁兵<pc>，</pc>煜不納<pc>。</pc>佑益忿<pc>，</pc>抗疏請誅<term>宰相</term>湯悅等數<num value="10">十</num>人<pc>，</pc>煜手書教戒之<pc>。</pc>佑不複朝謁<pc>，</pc>乃於家上書曰<pc>：</pc>
+<num value="100">百</num>姓大撓<pc>，</pc>未幾而罷<pc>。</pc>佑自以為眾所排<pc>，</pc>因憤怒<pc>，</pc>歷詆大臣與握兵者兩為朋比<pc>，</pc>將謀反叛<pc>；</pc>又言國將亡<pc>，</pc>非己為相不可救<pc>。</pc>江南政事多在尚書省<pc>，</pc>因薦平知省事<pc>，</pc>又薦星官楊熙澄為樞密使<pc>，</pc>小校侯英典禁兵<pc>，</pc>煜不納<pc>。</pc>佑益忿<pc>，</pc>抗疏請誅<term>宰相</term>湯悅等數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>煜手書教戒之<pc>。</pc>佑不複朝謁<pc>，</pc>乃於家上書曰<pc>：</pc>
 <pc>“</pc>臣聞‘<num value="3">三</num>軍可奪帥也<pc>，</pc>匹夫不可奪誌也’<pc>。</pc>近者連上表章指陳奸惡<pc>，</pc>何面目以見士人乎<pc>？</pc>
 <pc>”</pc>遂自縊死<pc>。</pc>
 </p>

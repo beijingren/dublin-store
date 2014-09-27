@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="354">
 <div>
-<p>○沈銖<pc>（</pc>弟錫<pc>）</pc>路昌衡謝文瓘陸蘊黃寔姚祐樓異沈積中李伯宗汪澥何常葉祖洽時彥霍端友俞栗蔡薿</p>
+<p>
+<name key="null" type="null">○沈銖</name>
+<pc>（</pc>弟錫<pc>）</pc>路昌衡謝文瓘陸蘊黃寔姚祐樓異沈積中李伯宗汪澥何常葉祖洽時彥霍端友俞栗蔡薿</p>
 </div>
 <div>
 <p>沈銖<pc>，</pc>字子平<pc>，</pc>真州揚子人<pc>。</pc>父季長<pc>，</pc>王安石妹婿也<pc>。</pc>銖少從安石學<pc>，</pc>進士高第<pc>，</pc>至國子直講<pc>。</pc>季長領監事<pc>，</pc>改審官主簿<pc>，</pc>坐虞蕃事免歸<pc>。</pc>元祐置訴理所<pc>，</pc>被罪者爭自列<pc>，</pc>銖獨不言<pc>。</pc>
@@ -108,7 +110,7 @@
 <div>
 <p>陸蘊<pc>，</pc>字敦信<pc>，</pc>福州侯官人<pc>。</pc>少知名<pc>，</pc>登進士第<pc>，</pc>為太學<pc>《</pc>
 <title>春秋</title>
-<pc>》</pc>博士<pc>。</pc>經廢員省<pc>，</pc>改<date>國朝</date>會要所檢閱文字<pc>。</pc>
+<pc>》</pc>博士<pc>。</pc>經廢員省<pc>，</pc>改<date when="null">國朝</date>會要所檢閱文字<pc>。</pc>
 </p>
 </div>
 <div>
@@ -188,7 +190,9 @@
 <div>
 <p>李伯宗<pc>，</pc>字會之<pc>，</pc>河陽人<pc>。</pc>第進士<pc>，</pc>知內丘<pc>、</pc>鹹陽<pc>、</pc>太康縣<pc>。</pc>建言<pc>：</pc>
 <pc>“</pc>朝廷行方田均稅之法<pc>，</pc>令以豐歲推行<pc>。</pc>今州縣吏<pc>，</pc>苟簡懷異者指熟為災<pc>，</pc>而貪進幸賞者掩災 為熟<pc>，</pc>望深察其違戾<pc>，</pc>而置諸罰<pc>。</pc>
-<pc>”</pc>括縣壯丁為兵<pc>，</pc>得<num value="1000">千</num>人<pc>，</pc>上其名數與按閱之法<pc>。</pc>知樞密院蔡卞喜而薦之<pc>，</pc>提舉京畿保甲<pc>，</pc>使行其說<pc>，</pc>增籍<num value="20000">二萬</num>
+<pc>”</pc>括縣壯丁為兵<pc>，</pc>得<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>上其名數與按閱之法<pc>。</pc>知樞密院蔡卞喜而薦之<pc>，</pc>提舉京畿保甲<pc>，</pc>使行其說<pc>，</pc>增籍<num value="20000">二萬</num>
 <pc>。</pc>已而有訴者<pc>，</pc>陳 牒至<num value="870">八百七十</num>
 <pc>，</pc>左遷通判相州<pc>、</pc>提舉白波輦運<pc>，</pc>提點江<pc>、</pc>淮坑冶鑄錢<pc>，</pc>入為將作少監<pc>。</pc>
 </p>
@@ -373,7 +377,10 @@
 <num value="10">十</num>年</measure>至<term>宰相</term>
 <pc>，</pc>亦多忠亮雅厚<pc>，</pc>為時名臣<pc>。</pc>治平更<measure quantity="3" unit="years">
 <num value="3">三</num>歲</measure>之製<pc>，</pc>繼以王安石改新法<pc>，</pc>士習始變<pc>。</pc>哲<pc>、</pc>徽紹 述<pc>，</pc>尚王氏學<pc>，</pc>非是無以得高第<pc>。</pc>葉祖洽首迎合時相意<pc>，</pc>擢第<num value="1">一</num>
-<pc>，</pc>自是靡然<pc>，</pc>士風大壞<pc>，</pc>得人亦衰<pc>，</pc>而上之恩秩亦薄矣<pc>。</pc>熙寧而後<pc>，</pc>訖於宣和<pc>，</pc>首選<num value="18">十八</num>人<pc>，</pc>唯何 栗<pc>、</pc>馬涓與此<num value="5">五</num>人有傳<pc>，</pc>然時彥<pc>、</pc>端友齪齪<pc>，</pc>祖洽<pc>、</pc>俞栗<pc>、</pc>蔡薿憸邪小人<pc>。</pc>繇王氏之學不正<pc>，</pc>害人心術<pc>，</pc>橫潰爛漫<pc>，</pc>並邦家而覆之<pc>；</pc>如是其慘焉<pc>，</pc>此孟子所以必辯邪 說<pc>、</pc>正人心也<pc>。</pc>
+<pc>，</pc>自是靡然<pc>，</pc>士風大壞<pc>，</pc>得人亦衰<pc>，</pc>而上之恩秩亦薄矣<pc>。</pc>熙寧而後<pc>，</pc>訖於宣和<pc>，</pc>首選<measure quantity="18" unit="people">
+<num value="18">十八</num>人</measure>
+<pc>，</pc>唯何 栗<pc>、</pc>馬涓與此<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>有傳<pc>，</pc>然時彥<pc>、</pc>端友齪齪<pc>，</pc>祖洽<pc>、</pc>俞栗<pc>、</pc>蔡薿憸邪小人<pc>。</pc>繇王氏之學不正<pc>，</pc>害人心術<pc>，</pc>橫潰爛漫<pc>，</pc>並邦家而覆之<pc>；</pc>如是其慘焉<pc>，</pc>此孟子所以必辯邪 說<pc>、</pc>正人心也<pc>。</pc>
 </p>
 </div>
 </div>

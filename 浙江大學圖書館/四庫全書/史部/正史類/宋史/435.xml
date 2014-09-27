@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="435">
 <div>
-<p>◎儒林<num value="5">五</num>○範衝朱震胡安國<pc>（</pc>子寅宏寧<pc>）</pc>
+<p>
+<name key="null" type="null">◎儒林</name>
+<num value="5">五</num>○範衝朱震胡安國<pc>（</pc>子寅宏寧<pc>）</pc>
 </p>
 </div>
 <div>
@@ -115,7 +117,7 @@
 <pc>《</pc>
 <title>公羊傳</title>
 <pc>》</pc>曰<pc>：</pc>‘譏始不<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>也<pc>。</pc>’<date>國朝</date>景德<measure quantity="2" unit="years">
+<num value="3">三</num>年</measure>也<pc>。</pc>’<date when="null">國朝</date>景德<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>真宗居明德皇後喪<pc>，</pc>既易月而除服<pc>，</pc>明年遂享太廟<pc>，</pc>合祀天地於圜丘<pc>。</pc>當時未行<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>之喪<pc>，</pc>專行以日易月之製可也<pc>，</pc>在今日行之則非也<pc>。</pc>
@@ -183,7 +185,9 @@
 </div>
 <div>
 <p>提舉湖南學事<pc>，</pc>有詔舉遺逸<pc>，</pc>安國以永州布衣王繪<pc>、</pc>鄧璋應詔<pc>。</pc>
-<num value="2">二</num>人老不行<pc>，</pc>安國請命之官<pc>，</pc>以勸為學者<pc>。</pc>零陵簿稱<num value="2">二</num>人黨人範純仁客<pc>，</pc>而流人鄒浩所請托也<pc>。</pc>蔡京素惡安國與己異<pc>，</pc>得簿言<pc>，</pc>大喜<pc>，</pc>命湖南提刑置獄推治<pc>，</pc>又移湖北再鞫<pc>，</pc>卒無驗<pc>，</pc>安國竟除名<pc>。</pc>未幾<pc>，</pc>簿以他罪抵法<pc>，</pc>台臣直前事<pc>，</pc>複安國元官<pc>。</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>老不行<pc>，</pc>安國請命之官<pc>，</pc>以勸為學者<pc>。</pc>零陵簿稱<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>黨人範純仁客<pc>，</pc>而流人鄒浩所請托也<pc>。</pc>蔡京素惡安國與己異<pc>，</pc>得簿言<pc>，</pc>大喜<pc>，</pc>命湖南提刑置獄推治<pc>，</pc>又移湖北再鞫<pc>，</pc>卒無驗<pc>，</pc>安國竟除名<pc>。</pc>未幾<pc>，</pc>簿以他罪抵法<pc>，</pc>台臣直前事<pc>，</pc>複安國元官<pc>。</pc>
 </p>
 </div>
 <div>
@@ -225,7 +229,8 @@
 <div>
 <p>南仲既傾<term>宰相</term>吳敏<pc>、</pc>樞密使李綱<pc>，</pc>又謂許景衡<pc>、</pc>晁說之視大臣升黜為去就<pc>，</pc>懷奸徇私<pc>，</pc>並黜之<pc>。</pc>安國言<pc>：</pc>
 <pc>“</pc>
-<num value="2">二</num>人為去就<pc>，</pc>必有陳論<pc>。</pc>懷奸徇私<pc>，</pc>必有實跡<pc>。</pc>乞降付本省<pc>，</pc>載諸詞命<pc>。</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>為去就<pc>，</pc>必有陳論<pc>。</pc>懷奸徇私<pc>，</pc>必有實跡<pc>。</pc>乞降付本省<pc>，</pc>載諸詞命<pc>。</pc>
 <pc>”</pc>不報<pc>。</pc>
 </p>
 </div>
@@ -381,7 +386,9 @@
 <pc>”</pc>高宗稱善<pc>。</pc>尋除安國兼侍讀<pc>，</pc>專講<pc>《</pc>
 <title>春秋</title>
 <pc>》</pc>
-<pc>。</pc>時講官<num value="4">四</num>人<pc>，</pc>援例乞各專<num value="1">一</num>經<pc>。</pc>高宗曰<pc>：</pc>
+<pc>。</pc>時講官<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>援例乞各專<num value="1">一</num>經<pc>。</pc>高宗曰<pc>：</pc>
 <pc>“</pc>他人通經<pc>，</pc>豈胡安國比<pc>。</pc>
 <pc>”</pc>不許<pc>。</pc>
 </p>
@@ -498,7 +505,9 @@
 </div>
 <div>
 <p>自古中興之主所以能克複舊物者<pc>，</pc>莫不本於憤恥恨怒<pc>，</pc>不能報怨<pc>，</pc>終不苟已<pc>。</pc>未有乘衰微闕絕之後<pc>，</pc>固陋以為榮<pc>，</pc>苟且以為安<pc>，</pc>而能久長無禍者也<pc>。</pc>黃潛善與汪伯彥方以乳嫗護赤子之術待陛下<pc>，</pc>曰<pc>：</pc>
-<pc>“</pc>上皇之子<num value="30">三十</num>人<pc>，</pc>今所存惟聖體<pc>，</pc>不可不自重愛<pc>。</pc>
+<pc>“</pc>上皇之子<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>，</pc>今所存惟聖體<pc>，</pc>不可不自重愛<pc>。</pc>
 <pc>”</pc>曾不思宗廟則草莽湮之<pc>，</pc>陵闕則畚鍤驚之<pc>，</pc>堂堂中華戎馬生之<pc>，</pc>潛善<pc>、</pc>伯彥所以誤陛下<pc>、</pc>陷陵廟<pc>、</pc>蹙土宇<pc>、</pc>喪生靈者<pc>，</pc>可勝罪乎<pc>！</pc>本初嗣服<pc>，</pc>既不為迎<num value="2">二</num>聖之策<pc>，</pc>因循遠狩<pc>，</pc>又不為守中國之謀<pc>。</pc>以致於今德義不孚<pc>，</pc>號令不行<pc>，</pc>刑罰不威<pc>，</pc>爵賞不勸<pc>。</pc>若不更轍以救垂亡<pc>，</pc>則陛下永負孝悌之愆<pc>，</pc>常有父兄之責<pc>。</pc>人心<num value="1">一</num>去<pc>，</pc>天命難恃<pc>，</pc>雖欲羈棲山海<pc>，</pc>恐非為自全之計<pc>。</pc>
 </p>
 </div>
@@ -520,13 +529,17 @@
 <div>
 <p>君子小人<pc>，</pc>勢不兩立<pc>。</pc>仁宗皇帝在位<pc>，</pc>得君子最多<pc>。</pc>小人亦時見用<pc>，</pc>然罪者則斥<pc>；</pc>君子亦或見廢<pc>，</pc>然忠顯則收<pc>。</pc>故其成當世之功<pc>，</pc>貽後人之輔者<pc>，</pc>皆君子也<pc>。</pc>至王安石則不然<pc>，</pc>斥絕君子<pc>，</pc>
 <num value="1">一</num>去而不還<pc>；</pc>崇信小人<pc>，</pc>
-<num value="1">一</num>任則不改<pc>。</pc>故其敗當時之政<pc>，</pc>為後世之害者<pc>，</pc>皆小人也<pc>。</pc>仁宗皇帝所養之君子<pc>，</pc>既日遠而銷亡矣<pc>。</pc>安石所致之小人<pc>，</pc>方蕃息而未艾也<pc>。</pc>所以誤國破家<pc>，</pc>至毒至烈<pc>，</pc>以致<num value="2">二</num>聖屈辱<pc>，</pc>羿<pc>、</pc>莽擅朝<pc>，</pc>伏節死難者不過<num value="2">一二</num>人<pc>。</pc>此浮華輕薄之害<pc>，</pc>明主之所畏而深戒者也<pc>。</pc>
+<num value="1">一</num>任則不改<pc>。</pc>故其敗當時之政<pc>，</pc>為後世之害者<pc>，</pc>皆小人也<pc>。</pc>仁宗皇帝所養之君子<pc>，</pc>既日遠而銷亡矣<pc>。</pc>安石所致之小人<pc>，</pc>方蕃息而未艾也<pc>。</pc>所以誤國破家<pc>，</pc>至毒至烈<pc>，</pc>以致<num value="2">二</num>聖屈辱<pc>，</pc>羿<pc>、</pc>莽擅朝<pc>，</pc>伏節死難者不過<measure quantity="2" unit="people">
+<num value="2">一二</num>人</measure>
+<pc>。</pc>此浮華輕薄之害<pc>，</pc>明主之所畏而深戒者也<pc>。</pc>
 </p>
 </div>
 <div>
 <p>古之稱中興者曰<pc>：</pc>
 <pc>“</pc>撥亂世<pc>，</pc>反之正<pc>。</pc>
-<pc>”</pc>今之亂亦雲甚矣<pc>，</pc>其反正而興之<pc>，</pc>在陛下<pc>；</pc>其遂陵遲不振<pc>，</pc>亦在陛下<pc>。</pc>昔宗澤<num value="1">一</num>老從官耳<pc>，</pc>猶能推誠感動群賊<pc>，</pc>北連懷<pc>、</pc>衛<pc>，</pc>同迎<num value="2">二</num>聖<pc>，</pc>克期密應者<pc>，</pc>無慮數<num value="100000">十萬</num>人<pc>。</pc>何況陛下身為子弟<pc>，</pc>欲北向而有為<pc>，</pc>將見舉<num value="4">四</num>海為陛下用<pc>，</pc>期以<measure quantity="10" unit="years">
+<pc>”</pc>今之亂亦雲甚矣<pc>，</pc>其反正而興之<pc>，</pc>在陛下<pc>；</pc>其遂陵遲不振<pc>，</pc>亦在陛下<pc>。</pc>昔宗澤<num value="1">一</num>老從官耳<pc>，</pc>猶能推誠感動群賊<pc>，</pc>北連懷<pc>、</pc>衛<pc>，</pc>同迎<num value="2">二</num>聖<pc>，</pc>克期密應者<pc>，</pc>無慮數<measure quantity="100000" unit="people">
+<num value="100000">十萬</num>人</measure>
+<pc>。</pc>何況陛下身為子弟<pc>，</pc>欲北向而有為<pc>，</pc>將見舉<num value="4">四</num>海為陛下用<pc>，</pc>期以<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
 <pc>，</pc>必能掃除妖沴<pc>，</pc>遠迓父兄<pc>，</pc>稱宋中興<pc>。</pc>其與惕息遁藏<pc>，</pc>蹈危負恥如今日<pc>，</pc>豈不天地相絕哉<pc>！</pc>
 </p>
@@ -646,7 +659,9 @@
 </p>
 </div>
 <div>
-<p>若猶習於因循<pc>，</pc>憚於更變<pc>，</pc>亡<num value="3">三</num>綱之本性<pc>，</pc>昧神化之良能<pc>，</pc>上以利勢誘下<pc>，</pc>下以智術幹上<pc>。</pc>是非由此不公<pc>，</pc>名實由此不核<pc>，</pc>賞罰由此失當<pc>，</pc>亂臣賊<persName>子由</persName>此得誌<pc>，</pc>人紀由此不修<pc>，</pc>天下<num value="10000">萬</num>事倒行逆施<pc>，</pc>人欲肆而天理滅矣<pc>。</pc>將何以異於先朝<pc>，</pc>求救禍亂而致升平乎<pc>？</pc>
+<p>若猶習於因循<pc>，</pc>憚於更變<pc>，</pc>亡<num value="3">三</num>綱之本性<pc>，</pc>昧神化之良能<pc>，</pc>上以利勢誘下<pc>，</pc>下以智術幹上<pc>。</pc>是非由此不公<pc>，</pc>名實由此不核<pc>，</pc>賞罰由此失當<pc>，</pc>亂臣賊<name key="蘇轍" type="zi">
+<persName>子由</persName>
+</name>此得誌<pc>，</pc>人紀由此不修<pc>，</pc>天下<num value="10000">萬</num>事倒行逆施<pc>，</pc>人欲肆而天理滅矣<pc>。</pc>將何以異於先朝<pc>，</pc>求救禍亂而致升平乎<pc>？</pc>
 </p>
 </div>
 <div>

@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="438">
 <div>
-<p>◎儒林<num value="8">八</num>
+<p>
+<name key="null" type="null">◎儒林</name>
+<num value="8">八</num>
 </p>
 </div>
 <div>
@@ -593,7 +595,8 @@
 </p>
 </div>
 <div>
-<p>李心傳<pc>，</pc>字微之<pc>，</pc>宗正寺簿舜臣之子也<pc>。</pc>慶元元年薦於鄉<pc>，</pc>既下第<pc>，</pc>絕意不複應舉<pc>，</pc>閉戶著書<pc>。</pc>晚因崔與之<pc>、</pc>許奕<pc>、</pc>魏了翁等合前後<num value="23">二十三</num>人之薦<pc>，</pc>自製置司敦遣至闕下<pc>。</pc>為史館校勘<pc>，</pc>賜進士出身<pc>，</pc>專修<pc>《</pc>
+<p>李心傳<pc>，</pc>字微之<pc>，</pc>宗正寺簿舜臣之子也<pc>。</pc>慶元元年薦於鄉<pc>，</pc>既下第<pc>，</pc>絕意不複應舉<pc>，</pc>閉戶著書<pc>。</pc>晚因崔與之<pc>、</pc>許奕<pc>、</pc>魏了翁等合前後<measure quantity="23" unit="people">
+<num value="23">二十三</num>人</measure>之薦<pc>，</pc>自製置司敦遣至闕下<pc>。</pc>為史館校勘<pc>，</pc>賜進士出身<pc>，</pc>專修<pc>《</pc>
 <title>中興<num value="4">四</num>朝帝紀</title>
 <pc>》</pc>
 <pc>。</pc>甫成其<num value="3">三</num>
@@ -767,7 +770,9 @@
 <div>
 <p>
 <persName>王應麟</persName>
-<pc>，</pc>字<persName>伯厚</persName>
+<pc>，</pc>字<name key="王應麟" type="zi">
+<persName>伯厚</persName>
+</name>
 <pc>，</pc>慶元府人<pc>。</pc>
 <measure quantity="9" unit="years">
 <num value="9">九</num>歲</measure>通<pc>《</pc>
@@ -840,7 +845,9 @@
 </div>
 <div>
 <p>會賈似道拜平章事<pc>，</pc>葉夢鼎<pc>、</pc>江<num value="10000">萬</num>裏各求去<pc>，</pc>似道亦求去<pc>。</pc>應麟奏<pc>，</pc>孝宗朝闕相者亦逾年<pc>，</pc>帝亟取以諭之<pc>。</pc>似道聞應麟言<pc>，</pc>大惡之<pc>，</pc>語包恢曰<pc>：</pc>
-<pc>“</pc>我去朝士若王<persName>伯厚</persName>者多矣<pc>，</pc>但此人素著文學名<pc>，</pc>不欲使天下謂我棄士<pc>。</pc>彼盍思少自貶<pc>！</pc>
+<pc>“</pc>我去朝士若王<name key="王應麟" type="zi">
+<persName>伯厚</persName>
+</name>者多矣<pc>，</pc>但此人素著文學名<pc>，</pc>不欲使天下謂我棄士<pc>。</pc>彼盍思少自貶<pc>！</pc>
 <pc>”</pc>恢以告<pc>，</pc>應麟笑曰<pc>：</pc>
 <pc>“</pc>迕相之患小<pc>，</pc>負君之罪大<pc>。</pc>
 <pc>”</pc>遷起居舍人<pc>，</pc>兼權中書舍人<pc>。</pc>冬雷<pc>，</pc>應麟言<pc>：</pc>
@@ -1024,7 +1031,9 @@
 </p>
 </div>
 <div>
-<p>浙東提舉常平王華甫辟主管帳司文字<pc>。</pc>時錢庚孫守常<pc>，</pc>朱熠守平江<pc>，</pc>吳君擢守嘉興<pc>，</pc>皆倚嬖幸厲民<pc>。</pc>華甫病革<pc>，</pc>強起劾罷<num value="3">三</num>人<pc>，</pc>震讚之也<pc>。</pc>沿海製置司辟幹辦<pc>、</pc>提領浙西鹽事<pc>，</pc>不就<pc>。</pc>改辟提領鎮江轉般倉分司<pc>。</pc>公田法行<pc>，</pc>改提領官田所<pc>，</pc>言不便<pc>，</pc>不聽<pc>，</pc>複轉般倉職<pc>。</pc>
+<p>浙東提舉常平王華甫辟主管帳司文字<pc>。</pc>時錢庚孫守常<pc>，</pc>朱熠守平江<pc>，</pc>吳君擢守嘉興<pc>，</pc>皆倚嬖幸厲民<pc>。</pc>華甫病革<pc>，</pc>強起劾罷<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>震讚之也<pc>。</pc>沿海製置司辟幹辦<pc>、</pc>提領浙西鹽事<pc>，</pc>不就<pc>。</pc>改辟提領鎮江轉般倉分司<pc>。</pc>公田法行<pc>，</pc>改提領官田所<pc>，</pc>言不便<pc>，</pc>不聽<pc>，</pc>複轉般倉職<pc>。</pc>
 </p>
 </div>
 <div>

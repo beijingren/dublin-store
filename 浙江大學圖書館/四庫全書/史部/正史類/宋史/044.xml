@@ -24,8 +24,9 @@
 <body>
 <div type="chapter" n="44">
 <div>
-<p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<p>
+<name key="null" type="null">　　<num value="2">二</num>
+</name>年春<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -64,7 +65,8 @@
 <num value="25">戊子</num>
 <pc>，</pc>雪<pc>。</pc>詔蠲江<pc>、</pc>淮今年<num value="2">二</num>稅<pc>。</pc>
 <num value="26">己丑</num>
-<pc>，</pc>詔錄襄城功<pc>，</pc>高達帶行環衛官<pc>、</pc>遙郡團練使<pc>，</pc>職任依舊<pc>；</pc>王登行軍器監丞<pc>、</pc>制司參議官<pc>；</pc>程大元<pc>、</pc>李和以下將士<num value="6613">六千六百一十三</num>人補轉官資有差<pc>。</pc>
+<pc>，</pc>詔錄襄城功<pc>，</pc>高達帶行環衛官<pc>、</pc>遙郡團練使<pc>，</pc>職任依舊<pc>；</pc>王登行軍器監丞<pc>、</pc>制司參議官<pc>；</pc>程大元<pc>、</pc>李和以下將士<measure quantity="6613" unit="people">
+<num value="6613">六千六百一十三</num>人</measure>補轉官資有差<pc>。</pc>
 <num value="31">甲午</num>
 <pc>，</pc>城東海<pc>，</pc>賈似道以圖來上<pc>。</pc>
 </p>
@@ -101,7 +103,8 @@
 </quote>
 <pc>」</pc>詔蒲擇之暫權<num value="4">四</num>川制置司事<pc>。</pc>
 <num value="11">甲戌</num>
-<pc>，</pc>錄嘉定戰功<pc>。</pc>先是<pc>，</pc>大元兵圍城<num value="5">五</num>旬<pc>，</pc>帥守俞興<pc>、</pc>元用等夜開關力戰而圍解<pc>。</pc>詔俞興等<num value="16">十六</num>人各官<num value="5">五</num>轉<pc>，</pc>將士補轉有差<pc>。</pc>以包恢提點浙西刑獄<pc>，</pc>招捕荻浦鹽寇<pc>。</pc>
+<pc>，</pc>錄嘉定戰功<pc>。</pc>先是<pc>，</pc>大元兵圍城<num value="5">五</num>旬<pc>，</pc>帥守俞興<pc>、</pc>元用等夜開關力戰而圍解<pc>。</pc>詔俞興等<measure quantity="16" unit="people">
+<num value="16">十六</num>人</measure>各官<num value="5">五</num>轉<pc>，</pc>將士補轉有差<pc>。</pc>以包恢提點浙西刑獄<pc>，</pc>招捕荻浦鹽寇<pc>。</pc>
 <num value="12">乙亥</num>
 <pc>，</pc>台州海寇積年<pc>，</pc>民罹其害<pc>，</pc>路分董橚洎進士周自中等擒獲<pc>，</pc>詔橚官<num value="1">一</num>轉<pc>，</pc>餘推賞有差<pc>。</pc>
 <num value="19">壬午</num>
@@ -238,7 +241,8 @@
 <pc>，</pc>詔右<num value="1000">千</num>牛衛上將軍乃猷授蘄州防禦使<pc>，</pc>奉沂靖惠王祠事<pc>。</pc>兼給事中王野言<pc>：</pc>
 <pc>「</pc>
 <quote>國家與大元本無深仇<pc>，</pc>而兵連禍結<pc>，</pc>皆原於入洛之帥輕啟兵端<pc>。</pc>
-<num value="6">二三</num>狂妄如趙楷<pc>、</pc>全子才<pc>、</pc>劉子澄輩<pc>，</pc>輕而無謀<pc>，</pc>遂致只輪不返<pc>。</pc>全子才誕妄慘毒<pc>，</pc>今乃援劉子澄例自陳改正<pc>，</pc>乞寢<num value="2">二</num>人之命<pc>，</pc>罷其祠祿<pc>，</pc>以爲喪師誤國之戒<pc>。</pc>
+<num value="6">二三</num>狂妄如趙楷<pc>、</pc>全子才<pc>、</pc>劉子澄輩<pc>，</pc>輕而無謀<pc>，</pc>遂致只輪不返<pc>。</pc>全子才誕妄慘毒<pc>，</pc>今乃援劉子澄例自陳改正<pc>，</pc>乞寢<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>之命<pc>，</pc>罷其祠祿<pc>，</pc>以爲喪師誤國之戒<pc>。</pc>
 </quote>
 <pc>」</pc>從之<pc>。</pc>
 <num value="16">己卯</num>
@@ -432,7 +436,8 @@
 <num value="44">丁未</num>
 <pc>，</pc>太白晝見<pc>。</pc>詔申嚴老鼠隘防戍<pc>。</pc>襄<pc>、</pc>樊閫臣奏捷<pc>。</pc>
 <num value="51">甲寅</num>
-<pc>，</pc>賜禮部進士文天祥以下<num value="601">六百一</num>人及第<pc>、</pc>出身有差<pc>。</pc>
+<pc>，</pc>賜禮部進士文天祥以下<measure quantity="601" unit="people">
+<num value="601">六百一</num>人</measure>及第<pc>、</pc>出身有差<pc>。</pc>
 </p>
 </div>
 <div>
@@ -492,7 +497,9 @@
 </quote>
 <pc>」</pc>
 <num value="42">乙巳</num>
-<pc>，</pc>以監察御史吳衍<pc>、</pc>翁應弼劾太學武學生劉黻等<num value="8">八</num>人不率<pc>，</pc>詔拘管江西<pc>、</pc>湖南州軍<pc>，</pc>宗學生與亻匈等<num value="7">七</num>人並削籍<pc>，</pc>拘管外宗正司<pc>。</pc>
+<pc>，</pc>以監察御史吳衍<pc>、</pc>翁應弼劾太學武學生劉黻等<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>不率<pc>，</pc>詔拘管江西<pc>、</pc>湖南州軍<pc>，</pc>宗學生與亻匈等<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>並削籍<pc>，</pc>拘管外宗正司<pc>。</pc>
 <num value="50">癸丑</num>
 <pc>，</pc>以張磻同知樞密院事<pc>，</pc>丁大全端明殿學士<pc>、</pc>簽書樞密院事<pc>，</pc>馬天驥端明殿學士<pc>、</pc>同簽書樞密院事<pc>。</pc>詔戒群臣洗心飭行<pc>，</pc>毋縱於貨賄<pc>，</pc>其或不悛<pc>，</pc>舉行淳熙成法<pc>。</pc>又開國以來勳臣之裔<pc>，</pc>有能世濟其美而不世其祿者<pc>，</pc>所在州郡以聞<pc>。</pc>參知政事蔡抗輒擅去國<pc>，</pc>勉留不返<pc>，</pc>詔授職予祠<pc>，</pc>尋以林存言<pc>，</pc>寢其命<pc>。</pc>
 <measure quantity="12" unit="months">
@@ -855,7 +862,9 @@
 <num value="23">丙戌</num>
 <pc>，</pc>詔置橫山屯<pc>。</pc>
 <num value="24">丁亥</num>
-<pc>，</pc>向士璧不俟朝命進師歸州<pc>，</pc>捐貲<num value="1000000">百萬</num>以供軍費<pc>；</pc>馬光祖不待奏請招兵<num value="10000">萬</num>人<pc>。</pc>捐奉銀<num value="10000">萬</num>兩以募壯士<pc>，</pc>遂有房州之功<pc>。</pc>詔士璧<pc>、</pc>光祖各進<num value="1">一</num>秩<pc>。</pc>
+<pc>，</pc>向士璧不俟朝命進師歸州<pc>，</pc>捐貲<num value="1000000">百萬</num>以供軍費<pc>；</pc>馬光祖不待奏請招兵<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>。</pc>捐奉銀<num value="10000">萬</num>兩以募壯士<pc>，</pc>遂有房州之功<pc>。</pc>詔士璧<pc>、</pc>光祖各進<num value="1">一</num>秩<pc>。</pc>
 <num value="38">辛丑</num>
 <pc>，</pc>詔李曾伯城築關隘<pc>，</pc>訓練民兵峒丁<pc>，</pc>申嚴防遏<pc>。</pc>填星<pc>、</pc>太白<pc>、</pc>熒惑合於室<pc>。</pc>
 </p>
@@ -966,7 +975,8 @@
 <num value="2">乙丑</num>
 <pc>，</pc>行開慶通寶錢<pc>。</pc>
 <num value="8">辛未</num>
-<pc>，</pc>賜禮部進士周震炎以下<num value="442">四百四十二</num>人及第<pc>、</pc>出身有差<pc>。</pc>婺州大水<pc>，</pc>發義倉米振之<pc>。</pc>
+<pc>，</pc>賜禮部進士周震炎以下<measure quantity="442" unit="people">
+<num value="442">四百四十二</num>人</measure>及第<pc>、</pc>出身有差<pc>。</pc>婺州大水<pc>，</pc>發義倉米振之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1087,8 +1097,14 @@
 <pc>，</pc>詔趙葵授少保<pc>、</pc>觀文殿大學士<pc>、</pc>江東西宣撫使<pc>，</pc>進封益國公<pc>，</pc>其饒<pc>、</pc>信<pc>、</pc>袁<pc>、</pc>臨<pc>、</pc>撫<pc>、</pc>吉<pc>、</pc>隆興官軍民兵<pc>，</pc>並聽節制調遣<pc>，</pc>諮訪<pc>、</pc>罷行<pc>、</pc>黜陟皆得便宜行事<pc>。</pc>以緡錢<num value="5000000">五百萬</num>
 <pc>、</pc>銀<num value="50000">五萬</num>兩給其用<pc>。</pc>
 <num value="53">丙辰</num>
-<pc>，</pc>詔選精銳招信<pc>、</pc>泗州<num value="1000">千</num>人<pc>，</pc>
-<placeName>揚州</placeName>拱衛軍<num value="1000">千</num>人<pc>，</pc>安豐<pc>、</pc>濠州各<num value="500">千五百</num>人<pc>，</pc>赴京聽調遣<pc>。</pc>
+<pc>，</pc>詔選精銳招信<pc>、</pc>泗州<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>
+<placeName>揚州</placeName>拱衛軍<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>安豐<pc>、</pc>濠州各<measure quantity="500" unit="people">
+<num value="500">千五百</num>人</measure>
+<pc>，</pc>赴京聽調遣<pc>。</pc>
 <num value="57">庚申</num>
 <pc>，</pc>夏貴入見<pc>，</pc>帝撫勞甚至<pc>。</pc>閏<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>

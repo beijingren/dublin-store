@@ -23,10 +23,12 @@
 <text>
 <body>
 <div type="chapter" n="210">
+<name key="null" type="null">
 <div>
 <p>表第<num value="1">一</num>
 </p>
 </div>
+</name>
 <div>
 <p>　　○宰輔<num value="1">一</num>
 </p>
@@ -36,11 +38,19 @@
 <pc>，</pc>終靖康<num value="43">丙午</num>
 <pc>，</pc>凡<measure quantity="167" unit="years">
 <num value="167">一百六十七</num>年</measure>
-<pc>，</pc>居相位者<num value="72">七十二</num>人<pc>，</pc>位執政者<num value="238">二百三十八</num>人<pc>。</pc>後<num value="7">七</num>朝始建炎<num value="44">丁未</num>
+<pc>，</pc>居相位者<measure quantity="72" unit="people">
+<num value="72">七十二</num>人</measure>
+<pc>，</pc>位執政者<measure quantity="238" unit="people">
+<num value="238">二百三十八</num>人</measure>
+<pc>。</pc>後<num value="7">七</num>朝始建炎<num value="44">丁未</num>
 <pc>，</pc>終德祐<num value="13">丙子</num>
 <pc>，</pc>凡<measure quantity="149" unit="years">
 <num value="149">一百四十九</num>年</measure>
-<pc>，</pc>居相位者<num value="61">六十一</num>人<pc>，</pc>位執政者<num value="244">二百四十四</num>人<pc>。</pc>
+<pc>，</pc>居相位者<measure quantity="61" unit="people">
+<num value="61">六十一</num>人</measure>
+<pc>，</pc>位執政者<measure quantity="244" unit="people">
+<num value="244">二百四十四</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -75,7 +85,7 @@
 <pc>》</pc>各自為編<pc>，</pc>而年表未有成書<pc>。</pc>神宗時常命陳繹檢閱<num value="2">二</num>府除罷官職事<pc>，</pc>因為<pc>《</pc>
 <title>拜罷錄</title>
 <pc>》</pc>
-<pc>。</pc>元豐間<pc>，</pc>司馬光嘗敘<date>宋</date>興以來<num value="100">百</num>官公卿沿革除拜<pc>，</pc>作年表上之史館<pc>。</pc>自時而後<pc>，</pc>曾鞏<pc>、</pc>譚世勣<pc>、</pc>蔡幼學<pc>、</pc>李燾諸人皆嘗續為之<pc>。</pc>然表文簡嚴<pc>，</pc>世罕知好<pc>，</pc>故多淪落無傳<pc>。</pc>
+<pc>。</pc>元豐間<pc>，</pc>司馬光嘗敘<date when="null">宋</date>興以來<num value="100">百</num>官公卿沿革除拜<pc>，</pc>作年表上之史館<pc>。</pc>自時而後<pc>，</pc>曾鞏<pc>、</pc>譚世勣<pc>、</pc>蔡幼學<pc>、</pc>李燾諸人皆嘗續為之<pc>。</pc>然表文簡嚴<pc>，</pc>世罕知好<pc>，</pc>故多淪落無傳<pc>。</pc>
 </p>
 </div>
 <div>

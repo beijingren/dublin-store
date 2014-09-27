@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="186">
 <div>
-<p>◎食貨下<num value="8">八</num>○商稅市易均輸互市舶法</p>
+<p>
+<name key="null" type="null">◎食貨</name>下<num value="8">八</num>○商稅市易均輸互市舶法</p>
 </div>
 <div>
 <p>商稅凡州縣皆置務<pc>，</pc>關鎮亦或有之<pc>；</pc>大則專置官監臨<pc>，</pc>小則令<pc>、</pc>佐兼領<pc>；</pc>諸州仍令都監<pc>、</pc>監押同掌<pc>。</pc>行者齎貨<pc>，</pc>謂之<pc>“</pc>過稅<pc>”</pc>
@@ -39,7 +40,7 @@
 </div>
 <div>
 <p>自唐室藩鎮多便宜從事<pc>，</pc>擅其征利<pc>，</pc>以及<num value="5">五</num>季<pc>，</pc>諸國益務掊聚財貨以自贍<pc>，</pc>故征算尤繁<pc>。</pc>
-<date>宋</date>興<pc>，</pc>所下之國<pc>，</pc>必詔蠲省<pc>，</pc>屢敕官吏毋事煩苛<pc>、</pc>規羨餘以徼恩寵<pc>。</pc>大中祥符<measure quantity="6" unit="years">
+<date when="null">宋</date>興<pc>，</pc>所下之國<pc>，</pc>必詔蠲省<pc>，</pc>屢敕官吏毋事煩苛<pc>、</pc>規羨餘以徼恩寵<pc>。</pc>大中祥符<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>始免諸路州軍農器之稅<pc>。</pc>
 </p>
@@ -352,7 +353,9 @@
 <p>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>詔免行月納錢不及<num value="100">百</num>者皆免<pc>，</pc>凡除<num value="8654">八千六百五十四</num>人<pc>。</pc>
+<pc>，</pc>詔免行月納錢不及<num value="100">百</num>者皆免<pc>，</pc>凡除<measure quantity="8654" unit="people">
+<num value="8654">八千六百五十四</num>人</measure>
+<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>王居卿又言<pc>：</pc>
@@ -545,7 +548,8 @@
 </p>
 </div>
 <div>
-<p>雍熙中<pc>，</pc>遣內侍<num value="8">八</num>人齎敕書金帛<pc>，</pc>分<num value="4">四</num>路招致海南諸蕃<pc>。</pc>商人出海外蕃國販易者<pc>，</pc>令並詣兩浙司市舶司請給官券<pc>，</pc>違者沒入其寶貨<pc>。</pc>淳熙<measure quantity="2" unit="years">
+<p>雍熙中<pc>，</pc>遣內侍<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>齎敕書金帛<pc>，</pc>分<num value="4">四</num>路招致海南諸蕃<pc>。</pc>商人出海外蕃國販易者<pc>，</pc>令並詣兩浙司市舶司請給官券<pc>，</pc>違者沒入其寶貨<pc>。</pc>淳熙<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>詔廣州市舶<pc>，</pc>除榷貨外<pc>，</pc>他貨之良者止市其半<pc>。</pc>大抵海船至<pc>，</pc>
 <num value="10">十</num>先征其<num value="1">一</num>

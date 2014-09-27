@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="117">
 <div>
-<p>◎禮<num value="20">二十</num>
-<pc>（</pc>賓禮<num value="2">二</num>
+<p>
+<name key="null" type="null">◎禮二</name>十<pc>（</pc>賓禮<num value="2">二</num>
 <pc>）</pc>
 </p>
 </div>
@@ -34,7 +34,7 @@
 </div>
 <div>
 <p>入閣儀<pc>。</pc>唐製<pc>：</pc>天子日禦正衙以見群臣<pc>，</pc>必立仗<pc>。</pc>朔望薦食陵寢<pc>，</pc>不能臨前殿<pc>，</pc>則禦便殿<pc>，</pc>乃自正衙喚仗由宣政兩門而入<pc>，</pc>是謂東<pc>、</pc>西上閣門<pc>，</pc>群臣俟於正衙者因隨以入<pc>，</pc>故謂之入閣<pc>。</pc>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>以來<pc>，</pc>正衙既廢<pc>，</pc>而入閣亦希闊不講<pc>，</pc>宋複行之<pc>。</pc>
 </p>
 </div>
@@ -70,7 +70,9 @@
 <pc>“</pc>中書公事<pc>，</pc>臣等已具奏聞<pc>。</pc>
 <pc>”</pc>訖<pc>，</pc>乃退<pc>，</pc>揖殿出<pc>。</pc>次刑法官<pc>、</pc>待製官各奏事<pc>，</pc>並宣徽使答訖<pc>，</pc>乃出就班<pc>。</pc>次彈奏官<pc>、</pc>左右史出<pc>。</pc>閣內失儀者<pc>，</pc>彈糾如式<pc>。</pc>彈奏官失儀<pc>，</pc>起居郎糾之<pc>；</pc>起居郎失儀<pc>，</pc>閣門使糾之<pc>；</pc>閣門使失儀<pc>，</pc>宣徽使糾之<pc>。</pc>凡出者皆&lt;廉攴&gt;靴急趨揖殿<pc>。</pc>次中書<pc>、</pc>門下<pc>、</pc>學士就位<pc>，</pc>閣門使宣放仗<pc>，</pc>再拜<pc>，</pc>賜廊下食<pc>，</pc>又再拜<pc>。</pc>次閣門 使奏閣內無事<pc>，</pc>文武官出<pc>，</pc>殿上索扇<pc>，</pc>垂簾<pc>，</pc>輦還宮<pc>。</pc>其賜廊下食<pc>，</pc>自左右勤政門北東西兩廊<pc>，</pc>文東武西<pc>，</pc>以北為上立定<pc>；</pc>中丞至本位<pc>，</pc>麵南<num value="1">一</num>揖<pc>，</pc>乃就坐食<pc>；</pc>至台 吏<pc>，</pc>讚乃搢笏食<pc>，</pc>食訖複讚<pc>，</pc>食畢而罷<pc>。</pc>
 <measure quantity="5" unit="months">
-<num value="5">五</num>月</measure>朔<pc>，</pc>命有司增黃麾仗<num value="350">三百五十</num>人<pc>，</pc>令文武官隨中書<pc>、</pc>門下橫行起居<pc>，</pc>徙翰林學士位於參知政事後<pc>，</pc>與<term>節度使</term>分東西揖殿 出<pc>。</pc>真宗凡<num value="3">三</num>行之<pc>，</pc>景德以後<pc>，</pc>其禮不行<pc>。</pc>仁宗從知製誥李淑議<pc>，</pc>仍讀時令<pc>，</pc>詔禮官詳定儀注<pc>，</pc>以言者謂未合典禮而罷<pc>。</pc>
+<num value="5">五</num>月</measure>朔<pc>，</pc>命有司增黃麾仗<measure quantity="350" unit="people">
+<num value="350">三百五十</num>人</measure>
+<pc>，</pc>令文武官隨中書<pc>、</pc>門下橫行起居<pc>，</pc>徙翰林學士位於參知政事後<pc>，</pc>與<term>節度使</term>分東西揖殿 出<pc>。</pc>真宗凡<num value="3">三</num>行之<pc>，</pc>景德以後<pc>，</pc>其禮不行<pc>。</pc>仁宗從知製誥李淑議<pc>，</pc>仍讀時令<pc>，</pc>詔禮官詳定儀注<pc>，</pc>以言者謂未合典禮而罷<pc>。</pc>
 </p>
 </div>
 <div>
@@ -80,7 +82,7 @@
 <pc>“</pc>奉詔重修定閣門儀製內文德殿殿入閣儀<pc>，</pc>按今文德殿<pc>，</pc>唐宣政殿也<pc>；</pc>紫宸殿<pc>，</pc>唐紫宸殿也<pc>。</pc>然祖宗視朝<pc>，</pc>皆嚐禦文德入閣<pc>。</pc>唐製<pc>，</pc>常設仗衛於宣政殿<pc>，</pc>或遇上 坐紫宸<pc>，</pc>即喚仗入閣<pc>。</pc>如此<pc>，</pc>則當禦紫宸殿入閣<pc>，</pc>方合舊典<pc>。</pc>
 <pc>”</pc>翰林學士王珪等議<pc>：</pc>
 <pc>“</pc>按入閣者<pc>，</pc>乃唐舊日紫宸殿受常朝之儀也<pc>。</pc>唐紫宸與今同<pc>，</pc>宣政殿即今文德 殿<pc>。</pc>唐製<pc>，</pc>天子坐朝<pc>，</pc>必立仗於正衙<pc>。</pc>若止禦紫宸<pc>，</pc>即喚正衙仗自宣政殿東西閣門入<pc>，</pc>故為入閣<pc>。</pc>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>以來遂廢正衙立仗之製<pc>。</pc>今閣門所載入閣儀者<pc>，</pc>止是唐常朝之 儀<pc>，</pc>非盛禮也<pc>。</pc>
 <pc>”</pc>自是入閣之禮遂罷<pc>。</pc>
 </p>
@@ -259,7 +261,9 @@
 <num value="100">百</num>官班定<pc>，</pc>閣門授<term>宰臣</term>讀訖<pc>，</pc>傳告<pc>，</pc>
 <num value="100">百</num>僚皆拜舞稱<measure quantity="10000" unit="years">
 <num value="10000">萬</num>歲</measure>
-<pc>。</pc>真宗宣製<pc>，</pc>有司請用儀仗<num value="4000">四千</num>人<pc>，</pc>自承天殿設細仗導衛<pc>，</pc>近 臣起居訖<pc>，</pc>則分左右前導之<pc>。</pc>
+<pc>。</pc>真宗宣製<pc>，</pc>有司請用儀仗<measure quantity="4000" unit="people">
+<num value="4000">四千</num>人</measure>
+<pc>，</pc>自承天殿設細仗導衛<pc>，</pc>近 臣起居訖<pc>，</pc>則分左右前導之<pc>。</pc>
 </p>
 </div>
 <div>

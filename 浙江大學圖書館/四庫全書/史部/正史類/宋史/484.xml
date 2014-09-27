@@ -24,13 +24,15 @@
 <body>
 <div type="chapter" n="484">
 <div>
-<p>◎周<num value="3">三</num>臣○韓通李筠李重進</p>
+<p>
+<name key="null" type="null">◎周<num value="3">三</num>
+</name>臣○韓通李筠李重進</p>
 </div>
 <div>
 <p>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>史記</title>
 <pc>》</pc>有<pc>《</pc>
 <title>唐<num value="6">六</num>臣傳</title>
@@ -42,7 +44,8 @@
 <title>書</title>
 <pc>》</pc>
 <pc>，</pc>不改其舊稱焉<pc>。</pc>或曰<pc>：</pc>
-<num value="3">三</num>人者嚐臣唐<pc>、</pc>晉<pc>、</pc>漢矣<pc>。</pc>曰<pc>：</pc>智氏之豫讓非歟<pc>！</pc>作<pc>《</pc>
+<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>者嚐臣唐<pc>、</pc>晉<pc>、</pc>漢矣<pc>。</pc>曰<pc>：</pc>智氏之豫讓非歟<pc>！</pc>作<pc>《</pc>
 <title>周<num value="3">三</num>臣傳</title>
 <pc>》</pc>
 <pc>。</pc>
@@ -66,9 +69,12 @@
 <div>
 <p>世宗即位<pc>，</pc>以深<pc>、</pc>冀之間有胡蘆河<pc>，</pc>東西橫亙數<num value="100">百</num>裏<pc>，</pc>堤堨非峻<pc>，</pc>不能扼契丹奔突<pc>。</pc>顯德<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>命通與王彥超浚治之<pc>，</pc>功未就<pc>，</pc>契丹至<pc>，</pc>通出兵迎擊<persName>退之</persName>
+<pc>，</pc>命通與王彥超浚治之<pc>，</pc>功未就<pc>，</pc>契丹至<pc>，</pc>通出兵迎擊<name key="韓愈" type="zi">
+<persName>退之</persName>
+</name>
 <pc>，</pc>遂城李晏口為靜安軍<pc>，</pc>
-<num value="4">四</num>旬而完<pc>。</pc>又城束鹿及鼓城<pc>，</pc>並葺祁州<pc>。</pc>時大兵之後<pc>，</pc>遺骸布野<pc>，</pc>通悉收瘞為<num value="10000">萬</num>人塚<pc>。</pc>又城博野<pc>、</pc>安平<pc>，</pc>往來深<pc>、</pc>定間<pc>，</pc>夜宿古寺<pc>，</pc>晝披荊棘<pc>。</pc>在安平領<num value="100">百</num>餘騎督役<pc>，</pc>會契丹騎數<num value="100">百</num>奄至<pc>，</pc>通率麾下與戰<pc>，</pc>日暮大風雨<pc>，</pc>契丹解去<pc>，</pc>擒<num value="10">十</num>餘騎<pc>。</pc>又城<num value="8">百八</num>橋鎮及武強縣<pc>，</pc>皆旬日畢<pc>。</pc>歸朝<pc>，</pc>會攻秦<pc>、</pc>鳳<pc>，</pc>以通為西南麵行營馬步軍都<term>虞候</term>
+<num value="4">四</num>旬而完<pc>。</pc>又城束鹿及鼓城<pc>，</pc>並葺祁州<pc>。</pc>時大兵之後<pc>，</pc>遺骸布野<pc>，</pc>通悉收瘞為<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>塚<pc>。</pc>又城博野<pc>、</pc>安平<pc>，</pc>往來深<pc>、</pc>定間<pc>，</pc>夜宿古寺<pc>，</pc>晝披荊棘<pc>。</pc>在安平領<num value="100">百</num>餘騎督役<pc>，</pc>會契丹騎數<num value="100">百</num>奄至<pc>，</pc>通率麾下與戰<pc>，</pc>日暮大風雨<pc>，</pc>契丹解去<pc>，</pc>擒<num value="10">十</num>餘騎<pc>。</pc>又城<num value="8">百八</num>橋鎮及武強縣<pc>，</pc>皆旬日畢<pc>。</pc>歸朝<pc>，</pc>會攻秦<pc>、</pc>鳳<pc>，</pc>以通為西南麵行營馬步軍都<term>虞候</term>
 <pc>，</pc>入大散關<pc>，</pc>圍鳳州<pc>，</pc>分兵城固鎮<pc>，</pc>以斷蜀餉道<pc>。</pc>未幾<pc>，</pc>拔鳳州<pc>，</pc>以功授侍衛馬步軍都<term>虞候</term>
 <pc>。</pc>
 </p>
@@ -129,7 +135,11 @@
 </p>
 </div>
 <div>
-<p>世宗即位<pc>，</pc>並人入侵<pc>，</pc>其將張暉率先鋒自團柏穀入營梁侯驛<pc>，</pc>攻劫堡柵<pc>，</pc>所至焚略蕩盡<pc>，</pc>筠遣護軍穆令均率步騎<num value="2000">二千</num>拒之<pc>。</pc>令均營於太平驛<pc>，</pc>驛東南距潞<num value="80">八十</num>裏<pc>，</pc>失於偵邏<pc>，</pc>暉淩晨奄至<pc>，</pc>潞兵被甲介馬<pc>，</pc>暉見之佯退<pc>，</pc>潞兵追之<pc>，</pc>並伏遂發<pc>。</pc>令均且鬥且卻<pc>，</pc>步卒降並者數<num value="100">百</num>人<pc>，</pc>騎不複者<num value="100">百</num>人<pc>，</pc>餘眾還保潞<pc>。</pc>世宗親征沁州<pc>，</pc>降之<pc>，</pc>命筠率沁之行營兵赴太原<pc>，</pc>符彥卿戍忻口<pc>，</pc>拒契丹援兵<pc>。</pc>彥卿請益師<pc>，</pc>詔筠與張永德以<num value="3000">三千</num>騎益之<pc>，</pc>既至<pc>，</pc>以偏師繞契丹後<pc>，</pc>奮擊走之<pc>。</pc>師還<pc>，</pc>加兼侍中<pc>。</pc>
+<p>世宗即位<pc>，</pc>並人入侵<pc>，</pc>其將張暉率先鋒自團柏穀入營梁侯驛<pc>，</pc>攻劫堡柵<pc>，</pc>所至焚略蕩盡<pc>，</pc>筠遣護軍穆令均率步騎<num value="2000">二千</num>拒之<pc>。</pc>令均營於太平驛<pc>，</pc>驛東南距潞<num value="80">八十</num>裏<pc>，</pc>失於偵邏<pc>，</pc>暉淩晨奄至<pc>，</pc>潞兵被甲介馬<pc>，</pc>暉見之佯退<pc>，</pc>潞兵追之<pc>，</pc>並伏遂發<pc>。</pc>令均且鬥且卻<pc>，</pc>步卒降並者數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>騎不複者<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>餘眾還保潞<pc>。</pc>世宗親征沁州<pc>，</pc>降之<pc>，</pc>命筠率沁之行營兵赴太原<pc>，</pc>符彥卿戍忻口<pc>，</pc>拒契丹援兵<pc>。</pc>彥卿請益師<pc>，</pc>詔筠與張永德以<num value="3000">三千</num>騎益之<pc>，</pc>既至<pc>，</pc>以偏師繞契丹後<pc>，</pc>奮擊走之<pc>。</pc>師還<pc>，</pc>加兼侍中<pc>。</pc>
 </p>
 </div>
 <div>
@@ -148,7 +158,8 @@
 <pc>，</pc>筠自將入石會關<pc>，</pc>破並人<num value="6">六</num>砦<pc>。</pc>是冬<pc>，</pc>又破遼州長清砦<pc>，</pc>擒其磁州<term>刺史</term>李戴興以獻<pc>。</pc>俄又敗並人於境<pc>，</pc>斬<num value="300">三百</num>餘級<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>平遼州<pc>，</pc>獲<term>刺史</term>張丕旦等<num value="245">二百四十五</num>人以獻<pc>。</pc>筠在鎮擅用征賦<pc>，</pc>頗集亡命<pc>，</pc>嚐以私忿囚監軍使<pc>，</pc>世宗心不能堪<pc>，</pc>但詔責而已<pc>。</pc>恭帝即位<pc>，</pc>加檢校太尉<pc>。</pc>是秋<pc>，</pc>令裨將劉繼忠將兵與吐渾入並境<pc>，</pc>平賈家砦<pc>，</pc>斬<num value="100">百</num>餘級<pc>，</pc>獲牛羊而還<pc>。</pc>
+<pc>，</pc>平遼州<pc>，</pc>獲<term>刺史</term>張丕旦等<measure quantity="245" unit="people">
+<num value="245">二百四十五</num>人</measure>以獻<pc>。</pc>筠在鎮擅用征賦<pc>，</pc>頗集亡命<pc>，</pc>嚐以私忿囚監軍使<pc>，</pc>世宗心不能堪<pc>，</pc>但詔責而已<pc>。</pc>恭帝即位<pc>，</pc>加檢校太尉<pc>。</pc>是秋<pc>，</pc>令裨將劉繼忠將兵與吐渾入並境<pc>，</pc>平賈家砦<pc>，</pc>斬<num value="100">百</num>餘級<pc>，</pc>獲牛羊而還<pc>。</pc>
 </p>
 </div>
 <div>
@@ -237,7 +248,11 @@
 <div>
 <p>世宗親征淮南<pc>，</pc>命重進將兵先赴正陽<pc>。</pc>俄聞李穀攻壽春不克<pc>，</pc>退保正陽<pc>，</pc>促重進兵助之<pc>。</pc>吳人以穀退為懼<pc>，</pc>乃發兵<num value="30000">三萬</num>餘<pc>，</pc>旌旗輜重亙數<num value="100">百</num>裏<pc>；</pc>又發戰棹<num value="200">二百</num>艘以張斷橋之勢<pc>，</pc>列陣鼓噪而北<pc>，</pc>橫布拒馬以<num value="10000">萬</num>數<pc>，</pc>皆貫以利刃<pc>，</pc>維以鐵索<pc>；</pc>又刻木為戰形<pc>，</pc>立陣前<pc>，</pc>號<pc>“</pc>揵馬牌<pc>”</pc>
 <pc>，</pc>皮囊貯鐵蒺莉以布戰地<pc>。</pc>時周師未朝食<pc>，</pc>吳師奄至<pc>，</pc>周師望其陣皆笑之<pc>。</pc>宣祖領前軍與重進<pc>、</pc>韓令坤合勢擊之<pc>，</pc>
-<num value="1">一</num>鼓而敗<pc>，</pc>斬首<num value="10000">萬</num>餘級<pc>，</pc>追奔<num value="20">二十</num>餘裏<pc>，</pc>殺大將劉彥貞<pc>，</pc>擒裨將盛師朗數<num value="10">十</num>人<pc>，</pc>降<num value="3000">三千</num>人<pc>，</pc>獲戈甲<num value="300000">三十萬</num>
+<num value="1">一</num>鼓而敗<pc>，</pc>斬首<num value="10000">萬</num>餘級<pc>，</pc>追奔<num value="20">二十</num>餘裏<pc>，</pc>殺大將劉彥貞<pc>，</pc>擒裨將盛師朗數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>降<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>
+<pc>，</pc>獲戈甲<num value="300000">三十萬</num>
 <pc>。</pc>世宗大悅<pc>，</pc>詔書褒諭<pc>，</pc>即以重進代穀為行營招討使<pc>，</pc>賜襲衣<pc>、</pc>金帶<pc>、</pc>玉鞍<pc>、</pc>名馬<pc>。</pc>
 </p>
 </div>
@@ -277,7 +292,9 @@
 </p>
 </div>
 <div>
-<p>太祖即位<pc>，</pc>以韓令坤代為侍衛都指揮使<pc>，</pc>加重進中書令<pc>。</pc>既而移鎮青州<pc>，</pc>加開府階<pc>。</pc>重進與太祖俱事周室<pc>，</pc>分掌兵柄<pc>，</pc>常心憚太祖<pc>。</pc>太祖立<pc>，</pc>愈不自安<pc>，</pc>及聞移鎮<pc>，</pc>陰懷異誌<pc>。</pc>太祖知之<pc>，</pc>遣<num value="6">六</num>宅使陳思誨齎賜鐵券<pc>，</pc>以安其心<pc>。</pc>重進欲治裝隨思誨入朝<pc>，</pc>為左右所惑<pc>，</pc>猶豫不決<pc>。</pc>又自以周室近親<pc>，</pc>恐不得全<pc>，</pc>遂拘思誨<pc>，</pc>治城隍<pc>，</pc>繕兵甲<pc>，</pc>遣人求援李景<pc>，</pc>景懼而不納<pc>，</pc>聞之太祖<pc>。</pc>監軍安友規常為重進所忌<pc>，</pc>至是友規謀與親信數人斬關出<pc>，</pc>為眾所拒<pc>，</pc>逾城得脫<pc>。</pc>重進捕軍校不附者數<num value="10">十</num>人<pc>，</pc>盡殺之<pc>。</pc>
+<p>太祖即位<pc>，</pc>以韓令坤代為侍衛都指揮使<pc>，</pc>加重進中書令<pc>。</pc>既而移鎮青州<pc>，</pc>加開府階<pc>。</pc>重進與太祖俱事周室<pc>，</pc>分掌兵柄<pc>，</pc>常心憚太祖<pc>。</pc>太祖立<pc>，</pc>愈不自安<pc>，</pc>及聞移鎮<pc>，</pc>陰懷異誌<pc>。</pc>太祖知之<pc>，</pc>遣<num value="6">六</num>宅使陳思誨齎賜鐵券<pc>，</pc>以安其心<pc>。</pc>重進欲治裝隨思誨入朝<pc>，</pc>為左右所惑<pc>，</pc>猶豫不決<pc>。</pc>又自以周室近親<pc>，</pc>恐不得全<pc>，</pc>遂拘思誨<pc>，</pc>治城隍<pc>，</pc>繕兵甲<pc>，</pc>遣人求援李景<pc>，</pc>景懼而不納<pc>，</pc>聞之太祖<pc>。</pc>監軍安友規常為重進所忌<pc>，</pc>至是友規謀與親信數人斬關出<pc>，</pc>為眾所拒<pc>，</pc>逾城得脫<pc>。</pc>重進捕軍校不附者數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>盡殺之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -288,7 +305,9 @@
 <pc>”</pc>遂親征<pc>，</pc>次大儀鎮<pc>。</pc>石守信遣使馳奏<pc>，</pc>
 <placeName>揚州</placeName>破在旦夕<pc>，</pc>願車駕臨視<pc>。</pc>太祖徑至城下<pc>，</pc>即日拔之<pc>。</pc>初<pc>，</pc>城將陷<pc>，</pc>重進左右勸殺思誨<pc>，</pc>重進曰<pc>：</pc>
 <pc>“</pc>吾今舉族將赴火死<pc>，</pc>殺此何益<pc>。</pc>
-<pc>”</pc>即縱火自焚<pc>，</pc>思誨亦為其黨所害<pc>。</pc>太祖入駐城西南<pc>，</pc>閱逆黨數<num value="100">百</num>人<pc>，</pc>盡戮之<pc>。</pc>重進兄深州<term>刺史</term>重興<pc>，</pc>聞其叛<pc>，</pc>自殺<pc>。</pc>弟解州<term>刺史</term>重讚<pc>、</pc>子尚食使延福並戮於市<pc>。</pc>
+<pc>”</pc>即縱火自焚<pc>，</pc>思誨亦為其黨所害<pc>。</pc>太祖入駐城西南<pc>，</pc>閱逆黨數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>盡戮之<pc>。</pc>重進兄深州<term>刺史</term>重興<pc>，</pc>聞其叛<pc>，</pc>自殺<pc>。</pc>弟解州<term>刺史</term>重讚<pc>、</pc>子尚食使延福並戮於市<pc>。</pc>
 </p>
 </div>
 <div>

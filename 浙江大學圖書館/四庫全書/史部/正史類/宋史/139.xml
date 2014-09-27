@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="139">
 <div>
-<p>◎樂<num value="14">十四</num>
-<pc>（</pc>樂章<num value="8">八</num>
+<p>
+<name key="null" type="null">◎樂十</name>四<pc>（</pc>樂章<num value="8">八</num>
 <pc>）</pc>○恭上皇帝皇太後尊號下冊立皇後冊皇太子皇子冠鄉飲酒聞喜宴鹿鳴宴</p>
 </div>
 <div>
@@ -873,7 +873,8 @@
 </div>
 <div>
 <p>禮修樂舉<pc>，</pc>育德開榮<pc>。</pc>
-<num value="1">一</num>人元良<pc>，</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>元良<pc>，</pc>
 <num value="10000">萬</num>邦以寧<pc>。</pc>群臣稱賀<pc>，</pc>
 <pc>《</pc>
 <title>正安</title>

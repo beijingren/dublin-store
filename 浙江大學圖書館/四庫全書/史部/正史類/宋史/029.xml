@@ -24,8 +24,9 @@
 <body>
 <div type="chapter" n="29">
 <div>
-<p>　　<measure quantity="8" unit="years">
-<num value="8">八</num>年</measure>春<measure quantity="1" unit="month">
+<p>
+<name key="null" type="null">　　<num value="8">八</num>
+</name>年春<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -105,7 +106,9 @@
 <p>　　<measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <num value="47">庚戌</num>
-<pc>，</pc>詔鎮江府募橫江軍<num value="1000">千</num>人<pc>。</pc>竄內侍羅亶于海島<pc>。</pc>
+<pc>，</pc>詔鎮江府募橫江軍<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>。</pc>竄內侍羅亶于海島<pc>。</pc>
 <num value="37">庚子</num>
 <pc>，</pc>禁貧民不舉子<pc>，</pc>其不能育者給錢養之<pc>。</pc>
 <num value="39">壬寅</num>
@@ -129,7 +132,8 @@
 <pc>》</pc>
 <pc>。</pc>
 <num value="9">壬申</num>
-<pc>，</pc>賜禮部進士黃公度以下<num value="395">三百九十五</num>人及第<pc>、</pc>出身<pc>。</pc>王庶自淮南還入見<pc>。</pc>
+<pc>，</pc>賜禮部進士黃公度以下<measure quantity="395" unit="people">
+<num value="395">三百九十五</num>人</measure>及第<pc>、</pc>出身<pc>。</pc>王庶自淮南還入見<pc>。</pc>
 <num value="12">乙亥</num>
 <pc>，</pc>以中護軍統制張宗顏知廬州<pc>，</pc>命劉錡率兵移屯鎮江府<pc>。</pc>
 <num value="14">丁丑</num>
@@ -263,7 +267,8 @@
 <num value="31">甲午</num>
 <pc>，</pc>金宿州守臣趙榮來歸<pc>。</pc>
 <num value="33">丙申</num>
-<pc>，</pc>金主詔諭河南諸州以割地歸我之意<pc>。</pc>改發運經制司爲經制司<pc>，</pc>命戶部長貳<num value="1">一</num>人領使<pc>，</pc>仍置副或判官<pc>。</pc>
+<pc>，</pc>金主詔諭河南諸州以割地歸我之意<pc>。</pc>改發運經制司爲經制司<pc>，</pc>命戶部長貳<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>領使<pc>，</pc>仍置副或判官<pc>。</pc>
 <num value="35">戊戌</num>
 <pc>，</pc>以王倫爲東京留守<pc>，</pc>郭仲荀爲副<pc>，</pc>戶部侍郎梁汝嘉兼江<pc>、</pc>淮<pc>、</pc>荊<pc>、</pc>浙<pc>、</pc>閩<pc>、</pc>廣路經制使<pc>，</pc>司農卿霍蠡爲判官<pc>。</pc>
 <num value="36">己亥</num>
@@ -357,7 +362,8 @@
 <num value="48">辛亥</num>
 <pc>，</pc>夏國主乾順卒<pc>。</pc>
 <num value="49">壬子</num>
-<pc>，</pc>樓炤以東京見卒<num value="4400">四千四百</num>人爲忠銳<num value="3">三</num>將<pc>。</pc>
+<pc>，</pc>樓炤以東京見卒<measure quantity="4400" unit="people">
+<num value="4400">四千四百</num>人</measure>爲忠銳<num value="3">三</num>將<pc>。</pc>
 <num value="57">庚申</num>
 <pc>，</pc>盜入邵武軍<pc>。</pc>
 <num value="59">壬戌</num>
@@ -371,8 +377,11 @@
 <num value="12">乙亥</num>
 <pc>，</pc>以孟庾兼東京留守<pc>。</pc>王倫自東京赴金國議事<pc>。</pc>樓炤承制以楊政爲熙河經略使<pc>，</pc>吳璘爲秦鳳經略使<pc>，</pc>仍並聽<num value="4">四</num>川宣撫司節制<pc>；</pc>郭浩爲鄜延經略使<pc>、</pc>同節制陝西軍馬<pc>。</pc>
 <num value="13">丙子</num>
-<pc>，</pc>分宣撫司兵<num value="40000">四萬</num>人出屯熙<pc>、</pc>秦<pc>，</pc>
-<num value="6000">六千</num>人隸郭浩<pc>，</pc>留吳玠精兵<num value="20000">二萬</num>人屯興元府<pc>、</pc>興<pc>、</pc>洋<measure quantity="2" unit="prefectures">
+<pc>，</pc>分宣撫司兵<measure quantity="40000" unit="people">
+<num value="40000">四萬</num>人</measure>出屯熙<pc>、</pc>秦<pc>，</pc>
+<measure quantity="6000" unit="people">
+<num value="6000">六千</num>人</measure>隸郭浩<pc>，</pc>留吳玠精兵<measure quantity="20000" unit="people">
+<num value="20000">二萬</num>人</measure>屯興元府<pc>、</pc>興<pc>、</pc>洋<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>
 <pc>。</pc>
 <num value="15">戊寅</num>
@@ -385,7 +394,8 @@
 <num value="21">甲申</num>
 <pc>，</pc>以文臣爲新復諸縣令<pc>。</pc>
 <num value="23">丙戌</num>
-<pc>，</pc>東京耆老李茂松<pc>、</pc>寇璋等<num value="200">二百</num>人奉表稱賀<pc>，</pc>皆引見<pc>，</pc>補官遣還<pc>。</pc>復置都水南<pc>、</pc>北丞各<num value="1">一</num>員<pc>。</pc>
+<pc>，</pc>東京耆老李茂松<pc>、</pc>寇璋等<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>奉表稱賀<pc>，</pc>皆引見<pc>，</pc>補官遣還<pc>。</pc>復置都水南<pc>、</pc>北丞各<num value="1">一</num>員<pc>。</pc>
 <num value="24">丁亥</num>
 <pc>，</pc>金人拘王倫于中山<pc>。</pc>
 <num value="33">丙申</num>
@@ -440,9 +450,12 @@
 <p>　　冬<measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <num value="48">辛亥</num>
-<pc>，</pc>詔侍從官各舉所知<num value="2">二</num>人<pc>。</pc>王倫見金主于御林子<pc>，</pc>被拘于河間<pc>，</pc>遣其副藍公佐先歸<pc>。</pc>
+<pc>，</pc>詔侍從官各舉所知<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>王倫見金主于御林子<pc>，</pc>被拘于河間<pc>，</pc>遣其副藍公佐先歸<pc>。</pc>
 <num value="51">甲寅</num>
-<pc>，</pc>王樞入見<pc>，</pc>並其俘<num value="90">百九十</num>人皆縱遣還夏國<pc>。</pc>
+<pc>，</pc>王樞入見<pc>，</pc>並其俘<measure quantity="90" unit="people">
+<num value="90">百九十</num>人</measure>皆縱遣還夏國<pc>。</pc>
 <num value="56">己未</num>
 <pc>，</pc>蠲階<pc>、</pc>成<pc>、</pc>岷<pc>、</pc>鳳<measure quantity="4" unit="prefectures">
 <num value="4">四</num>州</measure>民稅之半<pc>。</pc>
@@ -500,7 +513,9 @@
 <num value="48">辛亥</num>
 <pc>，</pc>雨雹<pc>。</pc>以劉錡爲東京副留守<pc>，</pc>李顯忠南京副留守<pc>。</pc>
 <num value="49">壬子</num>
-<pc>，</pc>命兩宗正官各舉所知宗室<num value="2">二</num>人<pc>。</pc>
+<pc>，</pc>命兩宗正官各舉所知宗室<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <num value="50">癸丑</num>
 <pc>，</pc>展省試期<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>
@@ -541,7 +556,9 @@
 <pc>）</pc>
 <pc>，</pc>趙彬爲兵部侍郎<pc>。</pc>
 <num value="60">癸亥</num>
-<pc>，</pc>命部使者歲舉廉吏<num value="1">一</num>人<pc>。</pc>
+<pc>，</pc>命部使者歲舉廉吏<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 <num value="7">庚午</num>
 <pc>，</pc>復<num value="4">四</num>川諸州學官<pc>。</pc>
 <num value="9">壬申</num>
@@ -561,7 +578,8 @@
 <num value="26">己丑</num>
 <pc>，</pc>金人陷西京<pc>，</pc>留守李利用<pc>、</pc>副總管孫暉皆棄城走<pc>，</pc>鈐轄李興率兵拒戰<pc>，</pc>不克<pc>。</pc>
 <num value="28">辛卯</num>
-<pc>，</pc>胡世將自河池遣涇原經略使田晟以兵<num value="3000">三千</num>人迎敵金人<pc>。</pc>京<pc>、</pc>湖宣撫司忠義統領李寶敗金人于興仁府境上<pc>。</pc>
+<pc>，</pc>胡世將自河池遣涇原經略使田晟以兵<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>迎敵金人<pc>。</pc>京<pc>、</pc>湖宣撫司忠義統領李寶敗金人于興仁府境上<pc>。</pc>
 <num value="30">癸巳</num>
 <pc>，</pc>知亳州王彥先叛降于金<pc>。</pc>金人陷永興軍<pc>，</pc>趨鳳翔<pc>。</pc>
 <num value="34">丁酉</num>
@@ -622,7 +640,9 @@
 <num value="11">甲戌</num>
 <pc>，</pc>追孟庾<pc>、</pc>路允迪官<pc>，</pc>徙家屬遠郡<pc>。</pc>
 <num value="13">丙子</num>
-<pc>，</pc>詔<num value="3">三</num>衙管軍及觀察使已上<pc>，</pc>各舉智略勇猛<pc>、</pc>材堪將帥者<num value="2">二</num>人<pc>。</pc>金人犯涇州<pc>，</pc>守臣曲汲棄城去<pc>，</pc>經略使田晟率兵來救<pc>，</pc>金人敗走<pc>。</pc>
+<pc>，</pc>詔<num value="3">三</num>衙管軍及觀察使已上<pc>，</pc>各舉智略勇猛<pc>、</pc>材堪將帥者<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>金人犯涇州<pc>，</pc>守臣曲汲棄城去<pc>，</pc>經略使田晟率兵來救<pc>，</pc>金人敗走<pc>。</pc>
 <num value="21">甲申</num>
 <pc>，</pc>晟及金人再戰于涇州<pc>，</pc>敗之<pc>，</pc>金人引歸鳳翔<pc>。</pc>
 <num value="22">乙酉</num>
@@ -684,7 +704,8 @@
 <div>
 <p>　　<measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<num value="9">壬申</num>朔<pc>，</pc>以張<num value="9">九</num>成<pc>、</pc>喻樗<pc>、</pc>陳剛中<pc>、</pc>淩景夏<pc>、</pc>樊光遠<pc>、</pc>毛叔度<pc>、</pc>元盥等<num value="7">七</num>人嘗不主和議<pc>，</pc>皆降黜之<pc>。</pc>
+<num value="9">壬申</num>朔<pc>，</pc>以張<num value="9">九</num>成<pc>、</pc>喻樗<pc>、</pc>陳剛中<pc>、</pc>淩景夏<pc>、</pc>樊光遠<pc>、</pc>毛叔度<pc>、</pc>元盥等<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>嘗不主和議<pc>，</pc>皆降黜之<pc>。</pc>
 <num value="12">乙亥</num>
 <pc>，</pc>韓世忠圍淮陽軍<pc>，</pc>不克<pc>。</pc>
 <num value="17">庚辰</num>
@@ -943,7 +964,8 @@
 <num value="11">甲戌</num>
 <pc>，</pc>罷岳飛<pc>。</pc>
 <num value="12">乙亥</num>
-<pc>，</pc>命諸王后各推年長<num value="1">一</num>人權主祀事<pc>。</pc>
+<pc>，</pc>命諸王后各推年長<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>權主祀事<pc>。</pc>
 <num value="30">癸巳</num>
 <pc>，</pc>胡世將起復<pc>。</pc>
 </p>

@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="31">
 <div>
-<p>　　<measure quantity="23" unit="years">
-<num value="23">二十三</num>年</measure>春<measure quantity="1" unit="month">
+<p>
+<name key="null" type="null">　　二</name>十三年春<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -42,7 +42,8 @@
 <num value="60">癸亥</num>
 <pc>，</pc>幸玉津園<pc>，</pc>遂幸延祥觀<pc>。</pc>
 <num value="7">庚午</num>
-<pc>，</pc>臠虔州軍賊黃明等<num value="8">八</num>人於都市<pc>。</pc>
+<pc>，</pc>臠虔州軍賊黃明等<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>於都市<pc>。</pc>
 <num value="8">辛未</num>
 <pc>，</pc>改虔州為贛州<pc>。</pc>
 <num value="9">壬申</num>
@@ -206,7 +207,8 @@
 <num value="9">壬申</num>
 <pc>，</pc>楊再興復寇邊<pc>，</pc>前軍統制李道討平之<pc>，</pc>禽再興及其子正修<pc>、</pc>正拱<pc>，</pc>檻送行在<pc>。</pc>
 <num value="12">乙亥</num>
-<pc>，</pc>賜禮部進士張孝祥以下<num value="356">三百五十六</num>人及第<pc>、</pc>出身<pc>。</pc>
+<pc>，</pc>賜禮部進士張孝祥以下<measure quantity="356" unit="people">
+<num value="356">三百五十六</num>人</measure>及第<pc>、</pc>出身<pc>。</pc>
 <num value="17">庚辰</num>
 <pc>，</pc>秦檜以私憾捃摭知建康府王循友<pc>，</pc>詔大理鞫之<pc>。</pc>是春<pc>，</pc>始榷夔州路茶<pc>。</pc>
 </p>
@@ -464,7 +466,8 @@
 <num value="4">丁卯</num>
 <pc>，</pc>罷大理寺官旬白<pc>。</pc>
 <num value="7">庚午</num>
-<pc>，</pc>詔監司<pc>、</pc>郡守<pc>，</pc>事無巨細<pc>，</pc>皆須奏聞裁決<pc>，</pc>毋得止上尚書省<pc>。</pc>臣僚薦舉人才<pc>，</pc>必<num value="3">三</num>人以上同薦<pc>。</pc>封叔和州防禦使<pc>、</pc>右監門衛大將軍士俴為崇慶軍<term>節度使</term>
+<pc>，</pc>詔監司<pc>、</pc>郡守<pc>，</pc>事無巨細<pc>，</pc>皆須奏聞裁決<pc>，</pc>毋得止上尚書省<pc>。</pc>臣僚薦舉人才<pc>，</pc>必<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>以上同薦<pc>。</pc>封叔和州防禦使<pc>、</pc>右監門衛大將軍士俴為崇慶軍<term>節度使</term>
 <pc>、</pc>嗣濮王<pc>，</pc>福建路提刑令詪為利州觀察使<pc>、</pc>安定郡王<pc>。</pc>
 <num value="8">辛未</num>
 <pc>，</pc>知建康府王會及列郡守臣王晌<pc>、</pc>王鑄<pc>、</pc>鄭僑年<pc>、</pc>鄭震<pc>、</pc>方滋俱以諂附貪冒罷<pc>。</pc>真臘<pc>、</pc>羅斛國貢馴象<pc>。</pc>
@@ -481,9 +484,11 @@
 <num value="15">戊寅</num>
 <pc>，</pc>鄭億年責建武軍節度副使<pc>、</pc>南安軍安置<pc>。</pc>
 <num value="19">壬午</num>
-<pc>，</pc>詔監司<pc>、</pc>守臣禁羨余<pc>，</pc>罷權攝<pc>，</pc>戢苞苴<pc>，</pc>節宴飲<pc>。</pc>詔前後告訐者莫汲<pc>、</pc>汪召錫<pc>、</pc>陸升之等<num value="9">九</num>人除名<pc>，</pc>廣南諸州編管<pc>。</pc>
+<pc>，</pc>詔監司<pc>、</pc>守臣禁羨余<pc>，</pc>罷權攝<pc>，</pc>戢苞苴<pc>，</pc>節宴飲<pc>。</pc>詔前後告訐者莫汲<pc>、</pc>汪召錫<pc>、</pc>陸升之等<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>除名<pc>，</pc>廣南諸州編管<pc>。</pc>
 <num value="21">甲申</num>
-<pc>，</pc>召孟忠厚奉朝請<pc>。</pc>命胡寅<pc>、</pc>張<num value="9">九</num>成等<num value="28">二十八</num>人並令自便<pc>，</pc>仍復其官<pc>。</pc>
+<pc>，</pc>召孟忠厚奉朝請<pc>。</pc>命胡寅<pc>、</pc>張<num value="9">九</num>成等<measure quantity="28" unit="people">
+<num value="28">二十八</num>人</measure>並令自便<pc>，</pc>仍復其官<pc>。</pc>
 <num value="22">乙酉</num>
 <pc>，</pc>董德元罷<pc>。</pc>
 <num value="23">丙戌</num>
@@ -564,7 +569,9 @@
 <pc>」</pc>
 <num value="4">丁卯</num>
 <pc>，</pc>蠲閩<pc>、</pc>浙諸州歲供軍器所物料<num value="3">三</num>之<num value="1">一</num>
-<pc>，</pc>減諸州工匠<num value="1000">千</num>人<pc>。</pc>
+<pc>，</pc>減諸州工匠<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>。</pc>
 <num value="6">己巳</num>
 <pc>，</pc>募<num value="4">四</num>川民佃淮南<pc>、</pc>京西閒田<pc>，</pc>並邊復租稅<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
@@ -582,7 +589,9 @@
 <num value="27">庚寅</num>
 <pc>，</pc>遣陳誠之等賀金主尊號禮成<pc>。</pc>
 <num value="30">癸巳</num>
-<pc>，</pc>置武學官及弟子員<num value="100">百</num>人<pc>。</pc>
+<pc>，</pc>置武學官及弟子員<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>
 <num value="31">甲午</num>
 <pc>，</pc>禁州郡進祥瑞<pc>。</pc>
 <num value="35">戊戌</num>
@@ -646,7 +655,8 @@
 <p>　　<measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <num value="15">戊寅</num>
-<pc>，</pc>班元豐<pc>、</pc>崇甯學制于諸路<pc>。</pc>革正前舉登第奏塤<pc>、</pc>曹冠等<num value="9">九</num>人出身<pc>，</pc>以淮南提舉常平朱冠卿言<pc>，</pc>秦檜挾私廢法<pc>，</pc>塤等皆其子孫<pc>、</pc>親戚<pc>、</pc>門下憸人<pc>，</pc>於是有官應試者<pc>，</pc>所授階官易左為右<pc>，</pc>白身者駁放<pc>。</pc>佔用省額<pc>，</pc>復還後科<pc>。</pc>
+<pc>，</pc>班元豐<pc>、</pc>崇甯學制于諸路<pc>。</pc>革正前舉登第奏塤<pc>、</pc>曹冠等<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>出身<pc>，</pc>以淮南提舉常平朱冠卿言<pc>，</pc>秦檜挾私廢法<pc>，</pc>塤等皆其子孫<pc>、</pc>親戚<pc>、</pc>門下憸人<pc>，</pc>於是有官應試者<pc>，</pc>所授階官易左為右<pc>，</pc>白身者駁放<pc>。</pc>佔用省額<pc>，</pc>復還後科<pc>。</pc>
 <num value="17">庚辰</num>
 <pc>，</pc>裁州縣吏額<pc>。</pc>
 <num value="26">己丑</num>
@@ -742,7 +752,9 @@
 <num value="22">乙酉</num>
 <pc>，</pc>幸延祥觀<pc>。</pc>
 <num value="25">戊子</num>
-<pc>，</pc>命侍從各薦宗室京朝官才識<pc>、</pc>治行者<num value="2">二</num>人<pc>。</pc>
+<pc>，</pc>命侍從各薦宗室京朝官才識<pc>、</pc>治行者<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -769,7 +781,8 @@
 <num value="22">乙酉</num>
 <pc>，</pc>赤氣出紫微垣<pc>。</pc>
 <num value="23">丙戌</num>
-<pc>，</pc>賜禮部進士王<num value="10">十</num>朋以下<num value="426">四百二十六</num>人及第<pc>、</pc>出身<pc>。</pc>
+<pc>，</pc>賜禮部進士王<num value="10">十</num>朋以下<measure quantity="426" unit="people">
+<num value="426">四百二十六</num>人</measure>及第<pc>、</pc>出身<pc>。</pc>
 <num value="24">丁亥</num>
 <pc>，</pc>詔焚交阯所貢翠羽於通衢<pc>，</pc>仍禁宮人服用銷金翠羽<pc>。</pc>
 <num value="26">己丑</num>
@@ -901,7 +914,8 @@
 <num value="20">癸未</num>
 <pc>，</pc>遣戶部郎中莫濛等檢視淮南<pc>、</pc>浙西<pc>、</pc>江東沙田蘆場<pc>。</pc>
 <num value="21">甲申</num>
-<pc>，</pc>命台諫<pc>、</pc>侍從<num value="3">三</num>人以上公薦監司治狀<pc>。</pc>
+<pc>，</pc>命台諫<pc>、</pc>侍從<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>以上公薦監司治狀<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1013,7 +1027,9 @@
 <num value="11">甲戌</num>
 <pc>，</pc>詔以吏部<num value="7">七</num>司舊制與續降參訂異同<pc>，</pc>立為定法<pc>。</pc>
 <num value="14">丁丑</num>
-<pc>，</pc>置殿前司虎翼水軍<num value="1000">千</num>人<pc>。</pc>
+<pc>，</pc>置殿前司虎翼水軍<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>。</pc>
 <num value="17">庚辰</num>
 <pc>，</pc>以中書舍人王剛中為<num value="4">四</num>川安撫制置使<pc>。</pc>
 <num value="18">辛巳</num>
@@ -1101,7 +1117,9 @@
 <num value="13">丙子</num>
 <pc>，</pc>除州縣積欠錢<num value="3970000">三百九十七萬</num>緡有奇<pc>，</pc>及中下戶所欠入宮錢物<pc>。</pc>
 <num value="14">丁丑</num>
-<pc>，</pc>詔侍從<pc>、</pc>台諫<pc>、</pc>帥臣<pc>、</pc>監司歲舉可任將帥者<num value="2">二</num>人<pc>。</pc>限命官子孫制田減父祖之半<pc>，</pc>並其詭名寄產者<pc>，</pc>格外田畝同編戶科役<pc>。</pc>
+<pc>，</pc>詔侍從<pc>、</pc>台諫<pc>、</pc>帥臣<pc>、</pc>監司歲舉可任將帥者<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>限命官子孫制田減父祖之半<pc>，</pc>並其詭名寄產者<pc>，</pc>格外田畝同編戶科役<pc>。</pc>
 <num value="16">己卯</num>
 <pc>，</pc>除湖州<pc>、</pc>平江<pc>、</pc>紹興流民公私逋負<pc>。</pc>
 </p>
@@ -1127,7 +1145,8 @@
 <num value="5">五</num>月</measure>
 <num value="51">甲寅</num>朔<pc>，</pc>罷鬻福建閃生沙田<pc>。</pc>
 <num value="54">丁巳</num>
-<pc>，</pc>詔殿前司選統制官部兵<num value="1000">千</num>人戍江州<pc>，</pc>彈壓盜賊<pc>，</pc>每歲<num value="1">一</num>易<pc>。</pc>
+<pc>，</pc>詔殿前司選統制官部兵<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>戍江州<pc>，</pc>彈壓盜賊<pc>，</pc>每歲<num value="1">一</num>易<pc>。</pc>
 <num value="56">己未</num>
 <pc>，</pc>樁頓江<pc>、</pc>浙<num value="4">四</num>路折帛錢於<num value="3">三</num>總領所及浙西提刑司<pc>，</pc>以備軍用<pc>。</pc>
 <num value="58">辛酉</num>
@@ -1161,7 +1180,11 @@
 </div>
 <div>
 <p>　　閏月<num value="51">甲寅</num>
-<pc>，</pc>益荊南戍卒<num value="1000">千</num>人<pc>，</pc>守臣劉錡亦募效用<num value="3000">三千</num>人<pc>。</pc>
+<pc>，</pc>益荊南戍卒<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>守臣劉錡亦募效用<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>
+<pc>。</pc>
 <num value="54">丁巳</num>
 <pc>，</pc>命江<pc>、</pc>湖<pc>、</pc>浙西<num value="5">五</num>漕司增價糴米<num value="2200000">二百二十萬</num>石赴沿江<num value="10">十</num>郡<pc>，</pc>自荊至常州<pc>，</pc>以備振貸<pc>。</pc>
 <num value="55">戊午</num>
@@ -1276,7 +1299,9 @@
 <num value="39">壬寅</num>
 <pc>，</pc>募人墾淮南荒田<pc>。</pc>
 <num value="41">甲辰</num>
-<pc>，</pc>定禦輦院<num value="3">三</num>營兵額為<num value="900">九百</num>人<pc>。</pc>
+<pc>，</pc>定禦輦院<num value="3">三</num>營兵額為<measure quantity="900" unit="people">
+<num value="900">九百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1306,7 +1331,8 @@
 <num value="34">丁酉</num>
 <pc>，</pc>初置金州御前諸軍都統制<pc>，</pc>以知金州王彥為之<pc>。</pc>
 <num value="40">癸卯</num>
-<pc>，</pc>賜禮部進士梁克家以下<num value="412">四百一十二</num>人及第<pc>、</pc>出身<pc>。</pc>
+<pc>，</pc>賜禮部進士梁克家以下<measure quantity="412" unit="people">
+<num value="412">四百一十二</num>人</measure>及第<pc>、</pc>出身<pc>。</pc>
 <num value="41">甲辰</num>
 <pc>，</pc>置牧馬監于潮<pc>、</pc>惠<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>
@@ -1383,7 +1409,9 @@
 <num value="27">庚寅</num>
 <pc>，</pc>以帶禦器械李寶為浙西副總管<pc>，</pc>提督海船<pc>，</pc>駐平江<pc>。</pc>
 <num value="33">丙申</num>
-<pc>，</pc>命劉寶招制勝軍<num value="1000">千</num>人<pc>。</pc>
+<pc>，</pc>命劉寶招制勝軍<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>。</pc>
 <num value="34">丁酉</num>
 <pc>，</pc>罷內侍省<pc>。</pc>
 </p>

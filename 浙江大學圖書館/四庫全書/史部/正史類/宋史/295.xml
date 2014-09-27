@@ -24,12 +24,16 @@
 <body>
 <div type="chapter" n="295">
 <div>
-<p>○<persName>尹洙</persName>孫甫謝絳<pc>（</pc>子景溫<pc>）</pc>葉清臣楊察</p>
+<p>
+<name key="null" type="null">○<persName>尹洙</persName>
+</name>孫甫謝絳<pc>（</pc>子景溫<pc>）</pc>葉清臣楊察</p>
 </div>
 <div>
 <p>
 <persName>尹洙</persName>
-<pc>，</pc>字<persName>師魯</persName>
+<pc>，</pc>字<name key="尹洙" type="zi">
+<persName>師魯</persName>
+</name>
 <pc>，</pc>河南人<pc>。</pc>少與兄源俱以儒學知名<pc>。</pc>舉進士<pc>，</pc>調正平縣主簿<pc>。</pc>曆河南府戶曹參軍<pc>、</pc>安國軍節度推官<pc>、</pc>知光澤縣<pc>。</pc>舉書判拔萃<pc>，</pc>改山南東道節度掌書記<pc>、</pc>知伊陽縣<pc>，</pc>有能名<pc>。</pc>用大臣薦<pc>，</pc>召試<pc>，</pc>為館閣校勘<pc>，</pc>遷太子中允<pc>。</pc>會範仲淹貶<pc>，</pc>敕榜朝堂<pc>，</pc>戎<num value="100">百</num>官為朋黨<pc>。</pc>洙上奏曰<pc>：</pc>
 <pc>“</pc>仲淹忠亮有素<pc>，</pc>臣與之義兼師友<pc>，</pc>則是仲淹之黨也<pc>。</pc>今仲淹以朋黨被罪<pc>，</pc>臣不可苟免<pc>。</pc>
 <pc>”</pc>
@@ -93,7 +97,13 @@
 </p>
 </div>
 <div>
-<p>按唐府兵<pc>，</pc>上府<num value="200">千二百</num>人<pc>，</pc>中府<num value="1000">千</num>人<pc>，</pc>下府<num value="800">八百</num>人<pc>。</pc>為今之計<pc>，</pc>莫若籍丁民為兵<pc>，</pc>擬唐置府<pc>，</pc>頗損其數<pc>。</pc>又今邊鄙雖有鄉兵之製<pc>，</pc>然止極塞數郡<pc>，</pc>民籍寡少<pc>，</pc>不足備敵<pc>。</pc>料京兆西北數郡<pc>，</pc>上戶可<num value="10">十</num>餘<num value="10000">萬</num>
+<p>按唐府兵<pc>，</pc>上府<measure quantity="200" unit="people">
+<num value="200">千二百</num>人</measure>
+<pc>，</pc>中府<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>下府<measure quantity="800" unit="people">
+<num value="800">八百</num>人</measure>
+<pc>。</pc>為今之計<pc>，</pc>莫若籍丁民為兵<pc>，</pc>擬唐置府<pc>，</pc>頗損其數<pc>。</pc>又今邊鄙雖有鄉兵之製<pc>，</pc>然止極塞數郡<pc>，</pc>民籍寡少<pc>，</pc>不足備敵<pc>。</pc>料京兆西北數郡<pc>，</pc>上戶可<num value="10">十</num>餘<num value="10000">萬</num>
 <pc>，</pc>中家半之<pc>，</pc>當得兵<num value="420000">六七萬</num>
 <pc>。</pc>質其賦無他易<pc>，</pc>賦以帛名者不易以<num value="5">五</num>穀<pc>，</pc>畜馬者又蠲其雜徭<pc>。</pc>民幸於庇宗<pc>，</pc>樂然隸籍<pc>。</pc>農隙講事<pc>，</pc>登材武者為什長<pc>、</pc>隊正<pc>，</pc>盛秋旬閱<pc>，</pc>常若寇至<pc>。</pc>以關內<pc>、</pc>河東勁兵傅之<pc>，</pc>盡罷京師禁旅<pc>，</pc>慎簡守帥<pc>，</pc>分其統<pc>，</pc>專其任<pc>。</pc>分統則兵不重<pc>，</pc>專任則將益勵<pc>，</pc>堅其守備<pc>，</pc>習其形勢<pc>，</pc>積粟多<pc>，</pc>教士銳<pc>，</pc>使虜眾無隙可窺<pc>，</pc>不戰而懾<pc>。</pc>
 <pc>《</pc>
@@ -173,7 +183,8 @@
 </p>
 </div>
 <div>
-<p>未命令者<pc>，</pc>人主所以取信於下也<pc>。</pc>異時民間<pc>，</pc>朝廷降<num value="1">一</num>命令<pc>，</pc>皆竦視之<pc>；</pc>今則不然<pc>，</pc>相與竊語<pc>，</pc>以為不久當更<pc>，</pc>既而信然<pc>，</pc>此命令日輕於下也<pc>。</pc>命令輕<pc>，</pc>則朝廷不尊矣<pc>。</pc>又聞群臣有獻忠謀者<pc>，</pc>陛下始甚聽之<pc>，</pc>年複<num value="1">一</num>人沮之<pc>，</pc>則意移矣<pc>。</pc>忠言者以信之不能終<pc>，</pc>頗自詘其謀<pc>，</pc>以為無益<pc>，</pc>此命令數更之弊也<pc>。</pc>
+<p>未命令者<pc>，</pc>人主所以取信於下也<pc>。</pc>異時民間<pc>，</pc>朝廷降<num value="1">一</num>命令<pc>，</pc>皆竦視之<pc>；</pc>今則不然<pc>，</pc>相與竊語<pc>，</pc>以為不久當更<pc>，</pc>既而信然<pc>，</pc>此命令日輕於下也<pc>。</pc>命令輕<pc>，</pc>則朝廷不尊矣<pc>。</pc>又聞群臣有獻忠謀者<pc>，</pc>陛下始甚聽之<pc>，</pc>年複<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>沮之<pc>，</pc>則意移矣<pc>。</pc>忠言者以信之不能終<pc>，</pc>頗自詘其謀<pc>，</pc>以為無益<pc>，</pc>此命令數更之弊也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -205,7 +216,7 @@
 <p>洙內剛外和<pc>，</pc>博學有識度<pc>，</pc>尤深於<pc>《</pc>
 <title>春秋</title>
 <pc>》</pc>
-<pc>。</pc>自唐末曆<date>
+<pc>。</pc>自唐末曆<date when="null">
 <num value="5">五</num>代</date>
 <pc>，</pc>文格卑弱<pc>。</pc>至宋初<pc>，</pc>
 <persName>柳開</persName>始為古文<pc>，</pc>洙與<persName>穆修</persName>複振起之<pc>。</pc>其為文簡而有法<pc>，</pc>有集<measure quantity="27" unit="chapters">
@@ -327,7 +338,7 @@
 </div>
 <div>
 <p>絳以父任試秘書省校書郎<pc>，</pc>舉進士中甲科<pc>，</pc>授太常寺奉禮郎<pc>、</pc>知汝陰縣<pc>。</pc>善議論<pc>，</pc>喜談時事<pc>，</pc>嚐論<num value="4">四</num>民失業<pc>，</pc>累數<num value="1000">千</num>言<pc>。</pc>天禧中<pc>，</pc>上疏謂宋當以土德王天下<pc>。</pc>時大理寺丞董行父<pc>，</pc>請用天為統<pc>，</pc>以金為德<pc>。</pc>詔兩製議<pc>，</pc>皆言<pc>：</pc>
-<pc>“</pc>用土德<pc>，</pc>則當越唐上承於隋<pc>；</pc>用金德<pc>，</pc>則當越<date>
+<pc>“</pc>用土德<pc>，</pc>則當越唐上承於隋<pc>；</pc>用金德<pc>，</pc>則當越<date when="null">
 <num value="5">五</num>代</date>紹唐<pc>。</pc>而太祖實受終周室<pc>，</pc>豈可弗遵傳繼之序<pc>？</pc>
 <pc>”</pc>絳<pc>、</pc>行父議皆黜不用<pc>。</pc>
 </p>
@@ -436,7 +447,9 @@
 </p>
 </div>
 <div>
-<p>絳以文學知名<num value="1">一</num>時<pc>，</pc>為人修潔醞藉<pc>，</pc>所至大興學舍<pc>，</pc>嚐請諸郡立學<pc>。</pc>在河南修國子學<pc>，</pc>教諸生<pc>，</pc>自遠錠而至者數<num value="100">百</num>人<pc>。</pc>好施宗族<pc>，</pc>喜賓客<pc>，</pc>以故<pc>，</pc>卒之日<pc>，</pc>家無餘貲<pc>。</pc>有文集<measure quantity="50" unit="chapters">
+<p>絳以文學知名<num value="1">一</num>時<pc>，</pc>為人修潔醞藉<pc>，</pc>所至大興學舍<pc>，</pc>嚐請諸郡立學<pc>。</pc>在河南修國子學<pc>，</pc>教諸生<pc>，</pc>自遠錠而至者數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>好施宗族<pc>，</pc>喜賓客<pc>，</pc>以故<pc>，</pc>卒之日<pc>，</pc>家無餘貲<pc>。</pc>有文集<measure quantity="50" unit="chapters">
 <num value="50">五十</num>卷</measure>
 <pc>。</pc>子景初<pc>、</pc>景溫<pc>、</pc>景平<pc>、</pc>景回<pc>。</pc>景平好學<pc>，</pc>著詩書傳說數<num value="10">十</num>篇<pc>，</pc>終秘書丞<pc>。</pc>景回早卒<pc>。</pc>
 </p>
@@ -647,7 +660,7 @@
 </div>
 <div>
 <p>論曰<pc>：</pc>當仁宗在位時<pc>，</pc>
-<date>宋</date>興且<measure quantity="100" unit="years">
+<date when="null">宋</date>興且<measure quantity="100" unit="years">
 <num value="100">百</num>年</measure>
 <pc>，</pc>海內嘉靖<pc>，</pc>上下安佚<pc>。</pc>然法製日以玩弛<pc>，</pc>僥幸之弊多<pc>。</pc>自西陲用兵<pc>，</pc>關中困擾<pc>，</pc>天子憫勞元元<pc>，</pc>奮然欲用群材以更內外之治<pc>，</pc>於時俊傑輩出<pc>。</pc>
 <persName>尹洙</persName>崎嶇兵間<pc>，</pc>亦頗論天下之事<pc>。</pc>孫甫馳騁言路<pc>，</pc>鹹以文學<pc>、</pc>方正知名<pc>。</pc>絳文詞議論<pc>，</pc>尤為儒林所宗<pc>。</pc>朝廷方欲倚用之<pc>，</pc>不幸死矣<pc>。</pc>最後<pc>，</pc>清臣<pc>、</pc>察繇進士高等<pc>，</pc>不數年致位侍從<pc>，</pc>立朝謇謇<pc>，</pc>無所附麗<pc>，</pc>為<num value="1">一</num>時名臣<pc>。</pc>豈非出於上之所自擢<pc>，</pc>故奮勵不撓<pc>，</pc>以圖報稱哉<pc>？</pc>

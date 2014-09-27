@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="193">
 <div>
-<p>◎兵<num value="7">七</num>
+<p>
+<name key="null" type="null">◎兵<num value="7">七</num>
+</name>
 <pc>（</pc>召募之製<pc>）</pc>
 </p>
 </div>
@@ -53,7 +55,10 @@
 </p>
 </div>
 <div>
-<p>至和元年<pc>，</pc>河北<pc>、</pc>河東<pc>、</pc>陝西募就糧兵<pc>，</pc>騎以<num value="400">四百</num>人<pc>、</pc>步以<num value="500">五百</num>人為<num value="1">一</num>營<pc>。</pc>
+<p>至和元年<pc>，</pc>河北<pc>、</pc>河東<pc>、</pc>陝西募就糧兵<pc>，</pc>騎以<measure quantity="400" unit="people">
+<num value="400">四百</num>人</measure>
+<pc>、</pc>步以<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>為<num value="1">一</num>營<pc>。</pc>
 </p>
 </div>
 <div>
@@ -116,7 +121,8 @@
 <num value="3">三</num>年</measure>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
-<pc>，</pc>詔京西路於有糧草州軍招廂軍<pc>，</pc>共<num value="30000">三萬</num>人為額<pc>。</pc>
+<pc>，</pc>詔京西路於有糧草州軍招廂軍<pc>，</pc>共<measure quantity="30000" unit="people">
+<num value="30000">三萬</num>人</measure>為額<pc>。</pc>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <pc>，</pc>知定州滕甫乞下本路依舊製募弓箭社<pc>，</pc>以為邊備<pc>。</pc>從之<pc>。</pc>
@@ -129,7 +135,11 @@
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <pc>，</pc>樞密院言<pc>：</pc>
-<pc>“</pc>在京係役兵士<pc>，</pc>舊額<num value="18259">一萬八千二百五十九</num>人<pc>，</pc>見闕<num value="6392">六千三百九十二</num>人<pc>，</pc>若招揀得足<pc>，</pc>即不須外路勾抽<pc>，</pc>以免不習水土<pc>、</pc>凍餒道斃之患<pc>。</pc>欲於在京及府界<pc>、</pc>京東西<pc>、</pc>河北招少壯兵<pc>，</pc>止供在京功役<pc>，</pc>不許臣僚占差<pc>，</pc>不過期年<pc>，</pc>可使充足<pc>。</pc>卻對減在外招募之數<pc>，</pc>樁管所減糧賜上供<pc>，</pc>以給有司之用<pc>。</pc>
+<pc>“</pc>在京係役兵士<pc>，</pc>舊額<measure quantity="18259" unit="people">
+<num value="18259">一萬八千二百五十九</num>人</measure>
+<pc>，</pc>見闕<measure quantity="6392" unit="people">
+<num value="6392">六千三百九十二</num>人</measure>
+<pc>，</pc>若招揀得足<pc>，</pc>即不須外路勾抽<pc>，</pc>以免不習水土<pc>、</pc>凍餒道斃之患<pc>。</pc>欲於在京及府界<pc>、</pc>京東西<pc>、</pc>河北招少壯兵<pc>，</pc>止供在京功役<pc>，</pc>不許臣僚占差<pc>，</pc>不過期年<pc>，</pc>可使充足<pc>。</pc>卻對減在外招募之數<pc>，</pc>樁管所減糧賜上供<pc>，</pc>以給有司之用<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>
 </p>
 </div>
@@ -167,7 +177,10 @@
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <pc>，</pc>經製熙河路邊防財用司言<pc>：</pc>
-<pc>“</pc>岷州┒川<pc>、</pc>荔川<pc>、</pc>閭川砦<pc>，</pc>通遠軍熟羊砦<pc>，</pc>乞置牧養<num value="10">十</num>監<pc>，</pc>募兵為監牧指揮<pc>。</pc>其營田乞依官莊例<pc>，</pc>募永濟卒<num value="200">二百</num>人<pc>，</pc>其永濟卒通以<num value="1000">千</num>人為額<pc>。</pc>
+<pc>“</pc>岷州┒川<pc>、</pc>荔川<pc>、</pc>閭川砦<pc>，</pc>通遠軍熟羊砦<pc>，</pc>乞置牧養<num value="10">十</num>監<pc>，</pc>募兵為監牧指揮<pc>。</pc>其營田乞依官莊例<pc>，</pc>募永濟卒<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>其永濟卒通以<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>為額<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
@@ -198,7 +211,12 @@
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>在京奉錢<num value="700">七百</num>以下<pc>，</pc>選募馬步軍<num value="5000">萬五千</num>人<pc>；</pc>開封府界及本路共選募義兵保甲<num value="10000">萬</num>人<pc>；</pc>如涇原<num value="5000">五千</num>人不足<pc>，</pc>於秦鳳路選募<pc>。</pc>
+<pc>“</pc>在京奉錢<num value="700">七百</num>以下<pc>，</pc>選募馬步軍<measure quantity="5000" unit="people">
+<num value="5000">萬五千</num>人</measure>
+<pc>；</pc>開封府界及本路共選募義兵保甲<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>；</pc>如涇原<measure quantity="5000" unit="people">
+<num value="5000">五千</num>人</measure>不足<pc>，</pc>於秦鳳路選募<pc>。</pc>
 <pc>”</pc>
 </p>
 </div>
@@ -216,7 +234,9 @@
 <pc>。</pc>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<pc>，</pc>詔京城<num value="4">四</num>麵巡檢募士於<num value="4">四</num>門<pc>，</pc>取民年<num value="35">三十五</num>以下者<pc>。</pc>又詔河北立額步軍<pc>，</pc>各於逐指揮額外招<num value="100">百</num>人<pc>。</pc>
+<pc>，</pc>詔京城<num value="4">四</num>麵巡檢募士於<num value="4">四</num>門<pc>，</pc>取民年<num value="35">三十五</num>以下者<pc>。</pc>又詔河北立額步軍<pc>，</pc>各於逐指揮額外招<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -224,7 +244,8 @@
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>詔<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>內能募及<num value="100">百</num>人者<pc>，</pc>加秩<num value="1">一</num>等<pc>。</pc>
+<num value="1">一</num>歲</measure>內能募及<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>者<pc>，</pc>加秩<num value="1">一</num>等<pc>。</pc>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <pc>，</pc>河東路經略司請以<placeName>麟州</placeName>飛騎<pc>、</pc>府州威遠子弟<num value="25">二十五</num>以下剌為兵<pc>。</pc>
@@ -235,7 +256,9 @@
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>廣西都鈐轄司言<pc>：</pc>
-<pc>“</pc>本路土兵闕額數多<pc>，</pc>乞選使臣往福建<pc>、</pc>江南<pc>、</pc>廣東招簡投換兵<num value="4000">四千</num>人<pc>。</pc>
+<pc>“</pc>本路土兵闕額數多<pc>，</pc>乞選使臣往福建<pc>、</pc>江南<pc>、</pc>廣東招簡投換兵<measure quantity="4000" unit="people">
+<num value="4000">四千</num>人</measure>
+<pc>。</pc>
 <pc>”</pc>詔於江南<pc>、</pc>福建路委官招換<pc>。</pc>
 </p>
 </div>
@@ -246,7 +269,8 @@
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <pc>，</pc>河東路安撫使呂惠卿言<pc>：</pc>
-<pc>“</pc>河東敢勇以<num value="300">三百</num>人為額<pc>，</pc>請給微薄<pc>，</pc>應募者少<pc>。</pc>臣頃在鄜延路日<pc>，</pc>奏請增<num value="3">三</num>等請給<pc>，</pc>借支省馬給<num value="7">七</num>分草料<pc>，</pc>置營教習<pc>，</pc>自後應募者眾<pc>。</pc>願依陝西路已得指揮<pc>。</pc>
+<pc>“</pc>河東敢勇以<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>為額<pc>，</pc>請給微薄<pc>，</pc>應募者少<pc>。</pc>臣頃在鄜延路日<pc>，</pc>奏請增<num value="3">三</num>等請給<pc>，</pc>借支省馬給<num value="7">七</num>分草料<pc>，</pc>置營教習<pc>，</pc>自後應募者眾<pc>。</pc>願依陝西路已得指揮<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>
 </p>
 </div>
@@ -276,14 +300,17 @@
 <p>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>熙河蘭岷路都總管<pc>、</pc>提點熙河蘭岷等路漢蕃弓箭手司言<pc>，</pc>蘭州金城關欲招置步軍保捷<num value="4">四</num>指揮<pc>、</pc>馬軍蕃落<num value="1">一</num>指揮<pc>，</pc>從之<pc>。</pc>詔陝西路添置蕃落軍<num value="10">十</num>指揮<pc>，</pc>各以<num value="500">五百</num>人為額<pc>，</pc>於永興軍<pc>、</pc>河中<pc>、</pc>鳳翔<pc>、</pc>同<pc>、</pc>華州各置兩指揮<pc>，</pc>並隸住營州軍將下統製訓練<pc>，</pc>委逐路所屬都總管司選官招人<pc>。</pc>初<pc>，</pc>
+<pc>，</pc>熙河蘭岷路都總管<pc>、</pc>提點熙河蘭岷等路漢蕃弓箭手司言<pc>，</pc>蘭州金城關欲招置步軍保捷<num value="4">四</num>指揮<pc>、</pc>馬軍蕃落<num value="1">一</num>指揮<pc>，</pc>從之<pc>。</pc>詔陝西路添置蕃落軍<num value="10">十</num>指揮<pc>，</pc>各以<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>為額<pc>，</pc>於永興軍<pc>、</pc>河中<pc>、</pc>鳳翔<pc>、</pc>同<pc>、</pc>華州各置兩指揮<pc>，</pc>並隸住營州軍將下統製訓練<pc>，</pc>委逐路所屬都總管司選官招人<pc>。</pc>初<pc>，</pc>
 <num value="3">三</num>省<pc>、</pc>密院欲以牧地募民牧養馬<pc>，</pc>久而未集<pc>，</pc>曾布以謂不若增騎兵為簡便<pc>。</pc>兼土兵乃勁兵<pc>，</pc>又諸路出戍者已竭<pc>，</pc>及建此議<pc>，</pc>眾翕然皆以為允<pc>，</pc>帝亦樂從之<pc>。</pc>蓋牧租見存者<num value="7000000">七百萬</num>
 <pc>，</pc>歲額<num value="1700000">一百七十萬</num>
 <pc>，</pc>而<num value="10">十</num>指揮之費<num value="250000">二十五萬</num>而已<pc>，</pc>故可與募人養馬之法兼行也<pc>。</pc>
 </p>
 </div>
 <div>
-<p>徽宗崇寧元年<pc>，</pc>湖北都鈐轄舒亶奉旨相度召募施<pc>、</pc>黔州土丁<pc>，</pc>致討辰<pc>、</pc>沅山徭<pc>，</pc>每州無過<num value="700">七百</num>人<pc>。</pc>緣徭賊深在溪洞<pc>，</pc>險阻不通正軍故也<pc>。</pc>
+<p>徽宗崇寧元年<pc>，</pc>湖北都鈐轄舒亶奉旨相度召募施<pc>、</pc>黔州土丁<pc>，</pc>致討辰<pc>、</pc>沅山徭<pc>，</pc>每州無過<measure quantity="700" unit="people">
+<num value="700">七百</num>人</measure>
+<pc>。</pc>緣徭賊深在溪洞<pc>，</pc>險阻不通正軍故也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -311,7 +338,11 @@
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>近降指揮<pc>，</pc>在京<pc>、</pc>諸路招崇捷<pc>、</pc>崇武等指揮<num value="100000">十萬</num>人<pc>，</pc>又招效忠<pc>、</pc>蕃落指揮及額內不足人數<pc>，</pc>慮卒難敷額<pc>，</pc>可先招崇捷<pc>、</pc>崇武<num value="100000">十萬</num>人<pc>。</pc>候人數稍見次第<pc>，</pc>即具申取旨<pc>。</pc>
+<pc>“</pc>近降指揮<pc>，</pc>在京<pc>、</pc>諸路招崇捷<pc>、</pc>崇武等指揮<measure quantity="100000" unit="people">
+<num value="100000">十萬</num>人</measure>
+<pc>，</pc>又招效忠<pc>、</pc>蕃落指揮及額內不足人數<pc>，</pc>慮卒難敷額<pc>，</pc>可先招崇捷<pc>、</pc>崇武<measure quantity="100000" unit="people">
+<num value="100000">十萬</num>人</measure>
+<pc>。</pc>候人數稍見次第<pc>，</pc>即具申取旨<pc>。</pc>
 <pc>”</pc>
 </p>
 </div>
@@ -364,14 +395,19 @@
 <num value="1">正</num>月</num>
 </measure>
 <pc>，</pc>兩浙東路鈐轄司奏<pc>：</pc>
-<pc>“</pc>乞將溫<pc>、</pc>處<pc>、</pc>衢<pc>、</pc>婺州元管不係將禁軍<num value="6">六</num>指揮<pc>，</pc>更招置增為<num value="10">十</num>指揮<pc>，</pc>並以<num value="500">五百</num>人為額<pc>，</pc>凡<num value="5000">五千</num>人<pc>，</pc>庶成全將<pc>。</pc>及更於台州招置不係將禁軍<num value="1">一</num>指揮<pc>，</pc>以<num value="400">四百</num>人為額<pc>。</pc>
+<pc>“</pc>乞將溫<pc>、</pc>處<pc>、</pc>衢<pc>、</pc>婺州元管不係將禁軍<num value="6">六</num>指揮<pc>，</pc>更招置增為<num value="10">十</num>指揮<pc>，</pc>並以<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>為額<pc>，</pc>凡<measure quantity="5000" unit="people">
+<num value="5000">五千</num>人</measure>
+<pc>，</pc>庶成全將<pc>。</pc>及更於台州招置不係將禁軍<num value="1">一</num>指揮<pc>，</pc>以<measure quantity="400" unit="people">
+<num value="400">四百</num>人</measure>為額<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <pc>，</pc>臣僚言<pc>：</pc>
 <pc>“</pc>竊聞道路洶洶相怖<pc>，</pc>雲諸軍捉人刺涅以補闕額<pc>，</pc>率數人驅<num value="1">一</num>壯夫<pc>，</pc>且曳且毆<pc>，</pc>
 <num value="100">百</num>姓叫呼<pc>，</pc>或齧指求免<pc>。</pc>日者<pc>，</pc>金明池人大和會<pc>，</pc>忽遮門大索<pc>，</pc>但長身少年<pc>，</pc>牽之而去<pc>，</pc>雲‘充軍’<pc>。</pc>致賣蔬茹者不敢入城<pc>，</pc>行旅市人下逮奴隸<pc>，</pc>皆避藏恐懼<pc>，</pc>事駭見聞<pc>。</pc>今國家閑暇<pc>，</pc>必欲招填禁旅<pc>，</pc>當明示法令<pc>，</pc>賚以金帛<pc>，</pc>捐財<num value="1000000">百萬</num>
-<pc>，</pc>則<num value="100000">十萬</num>人應募矣<pc>。</pc>捉人於途<pc>，</pc>實虧國體<pc>，</pc>流聞<num value="4">四</num>方<pc>，</pc>傳播遠邇<pc>，</pc>殊為未便<pc>。</pc>伏望亟行禁止<pc>，</pc>以弭疑畏<pc>。</pc>
+<pc>，</pc>則<measure quantity="100000" unit="people">
+<num value="100000">十萬</num>人</measure>應募矣<pc>。</pc>捉人於途<pc>，</pc>實虧國體<pc>，</pc>流聞<num value="4">四</num>方<pc>，</pc>傳播遠邇<pc>，</pc>殊為未便<pc>。</pc>伏望亟行禁止<pc>，</pc>以弭疑畏<pc>。</pc>
 <pc>”</pc>時寶籙宮道士張繼滋因往尉氏<pc>，</pc>亦被刺涅<pc>，</pc>事聞<pc>，</pc>手詔提刑司根治<pc>。</pc>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
@@ -388,10 +424,14 @@
 </p>
 </div>
 <div>
-<p>欽宗即位<pc>，</pc>詔守令募州縣鄉村土豪為隊長<pc>，</pc>各自募其親識鄉裏以行<pc>。</pc>及<num value="50">五十</num>人以上先與進義副尉<pc>，</pc>
-<num value="300">三百</num>人以上與承信郎<pc>，</pc>募文武官習武勇者為統領<pc>。</pc>行日<pc>，</pc>所發州軍授以器甲<pc>，</pc>人給糧半月<pc>，</pc>地裏遠者<pc>，</pc>所至州縣接續批支<pc>。</pc>京畿輔郡兵馬製置使司言<pc>：</pc>
+<p>欽宗即位<pc>，</pc>詔守令募州縣鄉村土豪為隊長<pc>，</pc>各自募其親識鄉裏以行<pc>。</pc>及<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>以上先與進義副尉<pc>，</pc>
+<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>以上與承信郎<pc>，</pc>募文武官習武勇者為統領<pc>。</pc>行日<pc>，</pc>所發州軍授以器甲<pc>，</pc>人給糧半月<pc>，</pc>地裏遠者<pc>，</pc>所至州縣接續批支<pc>。</pc>京畿輔郡兵馬製置使司言<pc>：</pc>
 <pc>“</pc>諸路召募敢勇效用<pc>，</pc>每名先給錢<num value="3000">三千</num>
-<pc>，</pc>赴本司試驗給據訖<pc>，</pc>支散銀絹激賞<pc>。</pc>若監司<pc>、</pc>知通<pc>、</pc>令佐並應有官人<pc>，</pc>能召到敢勇效用事藝高強及<num value="200">二百</num>人以上者<pc>，</pc>乞與轉<num value="1">一</num>官<pc>，</pc>每加<num value="200">二百</num>人依此<pc>。</pc>或監司<pc>、</pc>郡守<pc>、</pc>州縣官以下應緣軍期事件<pc>，</pc>稍有稽緩<pc>，</pc>並依軍法<pc>。</pc>
+<pc>，</pc>赴本司試驗給據訖<pc>，</pc>支散銀絹激賞<pc>。</pc>若監司<pc>、</pc>知通<pc>、</pc>令佐並應有官人<pc>，</pc>能召到敢勇效用事藝高強及<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>以上者<pc>，</pc>乞與轉<num value="1">一</num>官<pc>，</pc>每加<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>依此<pc>。</pc>或監司<pc>、</pc>郡守<pc>、</pc>州縣官以下應緣軍期事件<pc>，</pc>稍有稽緩<pc>，</pc>並依軍法<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>
 </p>
 </div>
@@ -430,8 +470,11 @@
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <pc>，</pc>河北<pc>、</pc>河東路宣撫司奏<pc>：</pc>
-<pc>“</pc>河北諸州軍所管正兵絕少<pc>，</pc>又陝西遊手惰民願充軍者亦眾<pc>，</pc>祗緣招刺闕乏例物<pc>，</pc>是致軍額常闕<pc>。</pc>今若給<num value="1">一</num>色銀絹<pc>，</pc>折充例物犒設起發<pc>，</pc>召募人作義勇<pc>，</pc>止於右臂上刺字<pc>，</pc>依禁軍例物支衣糧料錢<pc>，</pc>陝西<num value="5">五</num>路共可得<num value="20000">二萬</num>人<pc>，</pc>比之淮<pc>、</pc>浙等路所得將兵<pc>，</pc>實可使喚<pc>。</pc>
-<pc>”</pc>從之<pc>，</pc>詔遣文武官各<num value="1">一</num>員前去陝西路募兵<num value="20000">二萬</num>人赴闕<pc>。</pc>遂命趙鼎特除開封府曹官<pc>，</pc>種湘差宣撫司準備將領<pc>，</pc>並充陝西路幹當公事<pc>，</pc>專<num value="1">一</num>募兵<pc>。</pc>是月<pc>，</pc>遣戶部員外郎陳師尹往福建路募槍杖手<pc>。</pc>都水使者陳求道言<pc>：</pc>
+<pc>“</pc>河北諸州軍所管正兵絕少<pc>，</pc>又陝西遊手惰民願充軍者亦眾<pc>，</pc>祗緣招刺闕乏例物<pc>，</pc>是致軍額常闕<pc>。</pc>今若給<num value="1">一</num>色銀絹<pc>，</pc>折充例物犒設起發<pc>，</pc>召募人作義勇<pc>，</pc>止於右臂上刺字<pc>，</pc>依禁軍例物支衣糧料錢<pc>，</pc>陝西<num value="5">五</num>路共可得<measure quantity="20000" unit="people">
+<num value="20000">二萬</num>人</measure>
+<pc>，</pc>比之淮<pc>、</pc>浙等路所得將兵<pc>，</pc>實可使喚<pc>。</pc>
+<pc>”</pc>從之<pc>，</pc>詔遣文武官各<num value="1">一</num>員前去陝西路募兵<measure quantity="20000" unit="people">
+<num value="20000">二萬</num>人</measure>赴闕<pc>。</pc>遂命趙鼎特除開封府曹官<pc>，</pc>種湘差宣撫司準備將領<pc>，</pc>並充陝西路幹當公事<pc>，</pc>專<num value="1">一</num>募兵<pc>。</pc>是月<pc>，</pc>遣戶部員外郎陳師尹往福建路募槍杖手<pc>。</pc>都水使者陳求道言<pc>：</pc>
 <pc>“</pc>朝廷差官往陝西招軍<pc>，</pc>適當歲豐<pc>，</pc>恐未易招填<pc>。</pc>若就委監司招募保甲<pc>，</pc>啖以例物<pc>，</pc>與免科差<pc>，</pc>以作其氣<pc>，</pc>可得勁兵<num value="50000">五萬</num>
 <pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>
@@ -464,7 +507,9 @@
 <pc>“</pc>陝西募土人充軍<pc>，</pc>多是市井烏合<pc>，</pc>不堪臨敵<pc>。</pc>今折彥實支陝西<num value="6">六</num>路銅錢各<num value="100000">十萬</num>緡<pc>，</pc>每名添錢<num value="10000">十千</num>
 <pc>，</pc>自可精擇少壯及等杖人<pc>，</pc>可得正軍<num value="10000">一萬</num>
 <pc>，</pc>
-<num value="6">六</num>路共得<num value="60000">六萬</num>人<pc>。</pc>
+<num value="6">六</num>路共得<measure quantity="60000" unit="people">
+<num value="60000">六萬</num>人</measure>
+<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>
 </p>
 </div>
@@ -484,9 +529,13 @@
 <p>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
-<pc>，</pc>京城<num value="4">四</num>壁共<num value="100000">十萬</num>人<pc>，</pc>黃人黃旗滿市<pc>。</pc>時應募者多庸匄<pc>，</pc>殊無鬥誌<pc>。</pc>閏<measure quantity="11" unit="months">
+<pc>，</pc>京城<num value="4">四</num>壁共<measure quantity="100000" unit="people">
+<num value="100000">十萬</num>人</measure>
+<pc>，</pc>黃人黃旗滿市<pc>。</pc>時應募者多庸匄<pc>，</pc>殊無鬥誌<pc>。</pc>閏<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
-<pc>，</pc>何用王健募奇兵<pc>，</pc>雖操瓢行乞之人<pc>，</pc>亦皆應募<pc>，</pc>倉卒未就紀律<pc>。</pc>奇兵亂<pc>，</pc>毆王健<pc>，</pc>殺使臣數<num value="10">十</num>人<pc>，</pc>內前大擾<pc>。</pc>王宗濋斬渠魁數人<pc>，</pc>乃定<pc>。</pc>及出戰<pc>，</pc>為鐵騎所衝<pc>，</pc>望風奔潰<pc>，</pc>殲焉<pc>。</pc>
+<pc>，</pc>何用王健募奇兵<pc>，</pc>雖操瓢行乞之人<pc>，</pc>亦皆應募<pc>，</pc>倉卒未就紀律<pc>。</pc>奇兵亂<pc>，</pc>毆王健<pc>，</pc>殺使臣數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>內前大擾<pc>。</pc>王宗濋斬渠魁數人<pc>，</pc>乃定<pc>。</pc>及出戰<pc>，</pc>為鐵騎所衝<pc>，</pc>望風奔潰<pc>，</pc>殲焉<pc>。</pc>
 </p>
 </div>
 <div>
@@ -604,11 +653,14 @@
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>樞密院言<pc>：</pc>
-<pc>“</pc>諸路及京畿逃亡軍數居多<pc>，</pc>雖赦敕立限許首<pc>，</pc>終懷畏避<pc>。</pc>若諸路專委知州<pc>、</pc>通判或職官<num value="1">一</num>員<pc>，</pc>京畿委知縣<pc>，</pc>若招誘累及<num value="300">三百</num>人以上<pc>，</pc>與減<measure quantity="1" unit="year">
+<pc>“</pc>諸路及京畿逃亡軍數居多<pc>，</pc>雖赦敕立限許首<pc>，</pc>終懷畏避<pc>。</pc>若諸路專委知州<pc>、</pc>通判或職官<num value="1">一</num>員<pc>，</pc>京畿委知縣<pc>，</pc>若招誘累及<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>以上<pc>，</pc>與減<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>磨勘<pc>，</pc>
-<num value="500">五百</num>人以上<measure quantity="1" unit="year">
+<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>以上<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>半<pc>，</pc>
-<num value="1000">千</num>人以上取旨推恩<pc>，</pc>於理為便<pc>。</pc>
+<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>以上取旨推恩<pc>，</pc>於理為便<pc>。</pc>
 <pc>”</pc>
 </p>
 </div>
@@ -635,7 +687,8 @@
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <pc>，</pc>開封少尹陳彥修言<pc>：</pc>
-<pc>“</pc>諸廂收到寒凍赤露共<num value="5700">五千七百</num>餘人<pc>，</pc>其間逃軍數多<pc>，</pc>合行措置<pc>。</pc>今欲依押送逃軍格<pc>，</pc>每<num value="20">二十</num>人各差使臣<num value="1">一</num>員付與係押送人<pc>，</pc>各踏逐穩便官屋安泊<pc>，</pc>依居養法關請錢米存養<pc>，</pc>候晴和<pc>，</pc>管押前去<pc>。</pc>所有沿路支破口券<pc>，</pc>並依本府押送逃軍法<pc>，</pc>請於合破口券等外<pc>，</pc>更量支盤纏<pc>。</pc>
+<pc>“</pc>諸廂收到寒凍赤露共<num value="5700">五千七百</num>餘人<pc>，</pc>其間逃軍數多<pc>，</pc>合行措置<pc>。</pc>今欲依押送逃軍格<pc>，</pc>每<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>各差使臣<num value="1">一</num>員付與係押送人<pc>，</pc>各踏逐穩便官屋安泊<pc>，</pc>依居養法關請錢米存養<pc>，</pc>候晴和<pc>，</pc>管押前去<pc>。</pc>所有沿路支破口券<pc>，</pc>並依本府押送逃軍法<pc>，</pc>請於合破口券等外<pc>，</pc>更量支盤纏<pc>。</pc>
 <pc>”</pc>詔<pc>：</pc>
 <pc>“</pc>每人支盤纏錢<num value="300">三百</num>
 <pc>，</pc>衲襖<num value="1">一</num>領<pc>，</pc>候<measure quantity="2" unit="months">
@@ -669,7 +722,8 @@
 <pc>“</pc>凡逃卒<pc>，</pc>冬祀大赦已有<measure quantity="100" unit="days">
 <num value="100">百</num>日</measure>首身免罪之文<pc>，</pc>緣內有元犯雖首身<pc>，</pc>於常法尚合移降移配者<pc>，</pc>即未敢赴官自陳<pc>。</pc>欲乞在京並京畿<pc>、</pc>京西<pc>、</pc>陝西<pc>、</pc>河東路逃軍<pc>，</pc>自今指揮到日<pc>，</pc>通未滿赦限共<measure quantity="100" unit="days">
 <num value="100">一百</num>日</measure>
-<pc>，</pc>許令首身免罪<pc>，</pc>依舊軍分職次收管<pc>。</pc>仍免本司本營問儅<pc>，</pc>及放免官逋<pc>。</pc>如本犯經冬祀赦後<pc>，</pc>猶有移降移配<pc>，</pc>特與原免<pc>。</pc>若限滿不首<pc>，</pc>則依常法科罪<pc>。</pc>凡逃軍係在京住營<pc>，</pc>依限於在京首身者<pc>，</pc>令所隸軍司當日押赴本營<pc>。</pc>若見出戍者<pc>，</pc>即破口券轉押赴本路駐泊州軍<pc>，</pc>並依前項指揮免罪<pc>，</pc>依舊收管<pc>。</pc>凡逃軍在外<pc>，</pc>依限首身者<pc>，</pc>並於所在日破米<num value="2">二</num>升<pc>，</pc>其縣<pc>、</pc>鎮<pc>、</pc>砦並限當日解本州軍<pc>，</pc>每<num value="20">二十</num>人作<num value="1">一</num>番<pc>，</pc>差職員管押<pc>，</pc>仍沿路給破口食<pc>，</pc>交付前路州軍<pc>，</pc>轉送住營去處<pc>。</pc>如見出戍<pc>，</pc>即轉駐泊州軍收管<pc>。</pc>凡首身軍人<pc>，</pc>並不許投換他軍<pc>。</pc>凡所在當職官<pc>，</pc>如能於限內用心招收逃軍<pc>，</pc>措置轉送住營或出戍處收管<pc>，</pc>候滿<pc>，</pc>在外委提刑司<pc>，</pc>在京委開封府取索到營<pc>、</pc>出戍處公文<pc>，</pc>驗人數<pc>，</pc>最優者申宣撫司取旨推恩<pc>。</pc>
+<pc>，</pc>許令首身免罪<pc>，</pc>依舊軍分職次收管<pc>。</pc>仍免本司本營問儅<pc>，</pc>及放免官逋<pc>。</pc>如本犯經冬祀赦後<pc>，</pc>猶有移降移配<pc>，</pc>特與原免<pc>。</pc>若限滿不首<pc>，</pc>則依常法科罪<pc>。</pc>凡逃軍係在京住營<pc>，</pc>依限於在京首身者<pc>，</pc>令所隸軍司當日押赴本營<pc>。</pc>若見出戍者<pc>，</pc>即破口券轉押赴本路駐泊州軍<pc>，</pc>並依前項指揮免罪<pc>，</pc>依舊收管<pc>。</pc>凡逃軍在外<pc>，</pc>依限首身者<pc>，</pc>並於所在日破米<num value="2">二</num>升<pc>，</pc>其縣<pc>、</pc>鎮<pc>、</pc>砦並限當日解本州軍<pc>，</pc>每<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>作<num value="1">一</num>番<pc>，</pc>差職員管押<pc>，</pc>仍沿路給破口食<pc>，</pc>交付前路州軍<pc>，</pc>轉送住營去處<pc>。</pc>如見出戍<pc>，</pc>即轉駐泊州軍收管<pc>。</pc>凡首身軍人<pc>，</pc>並不許投換他軍<pc>。</pc>凡所在當職官<pc>，</pc>如能於限內用心招收逃軍<pc>，</pc>措置轉送住營或出戍處收管<pc>，</pc>候滿<pc>，</pc>在外委提刑司<pc>，</pc>在京委開封府取索到營<pc>、</pc>出戍處公文<pc>，</pc>驗人數<pc>，</pc>最優者申宣撫司取旨推恩<pc>。</pc>
 <pc>”</pc>並從之<pc>。</pc>
 </p>
 </div>
@@ -786,7 +840,9 @@
 <div>
 <p>建炎初<pc>，</pc>招募多西北之人<pc>，</pc>其後令諸路州<pc>、</pc>軍<pc>、</pc>砦或<num value="3">三</num>衙招募<pc>，</pc>或選刺<num value="3">三</num>衙軍中子弟<pc>，</pc>或從諸郡選刺中軍子弟解發<pc>。</pc>複詔滄<pc>、</pc>濱及江<pc>、</pc>淮沿流州軍<pc>，</pc>募善沒水經時伏藏者<pc>，</pc>以<num value="5000">五千</num>為額<pc>。</pc>神武右軍統製張俊言<pc>：</pc>
 <pc>“</pc>牙軍多招集烏合之眾<pc>，</pc>擬上等改刺勝捷<pc>，</pc>次等刺振華<pc>、</pc>振武<pc>，</pc>庶得部分歸<num value="1">一</num>訓練為便<pc>。</pc>
-<pc>”</pc>詔兩浙<pc>、</pc>江東<pc>，</pc>除江陰軍<pc>，</pc>各募水軍<num value="200">二百</num>人<pc>。</pc>
+<pc>”</pc>詔兩浙<pc>、</pc>江東<pc>，</pc>除江陰軍<pc>，</pc>各募水軍<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -817,7 +873,9 @@
 <p>
 <measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
-<pc>，</pc>詔<num value="3">三</num>京路招撫處置使司招效用軍兵<num value="10000">萬</num>人<pc>，</pc>內招使臣<num value="2000">二千</num>員<pc>。</pc>
+<pc>，</pc>詔<num value="3">三</num>京路招撫處置使司招效用軍兵<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>，</pc>內招使臣<num value="2000">二千</num>員<pc>。</pc>
 </p>
 </div>
 <div>
@@ -828,7 +886,9 @@
 <pc>“</pc>汀<pc>、</pc>漳<pc>、</pc>泉<pc>、</pc>建<measure quantity="4" unit="prefectures">
 <num value="4">四</num>州</measure>
 <pc>，</pc>與廣東<pc>、</pc>江西接壤<pc>。</pc>比年寇盜剽劫居民<pc>，</pc>土豪備私錢集社戶<pc>，</pc>防捍有勞<pc>，</pc>有司不為上聞推恩<pc>，</pc>破家無所依歸<pc>，</pc>勢必從賊<pc>。</pc>官軍不習山險<pc>，</pc>且瘴癘侵加<pc>，</pc>不能窮追<pc>，</pc>管屬良民悉轉為盜<pc>。</pc>請委<measure quantity="4" unit="prefectures">
-<num value="4">四</num>州</measure>守臣<pc>，</pc>募此遊手無歸勇健之人<pc>，</pc>各收<num value="1000">千</num>人<pc>，</pc>仍以效用為名<pc>，</pc>足可備用<pc>，</pc>實永久利<pc>。</pc>
+<num value="4">四</num>州</measure>守臣<pc>，</pc>募此遊手無歸勇健之人<pc>，</pc>各收<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>仍以效用為名<pc>，</pc>足可備用<pc>，</pc>實永久利<pc>。</pc>
 <pc>”</pc>詔令張淵同措置<pc>。</pc>
 </p>
 </div>
@@ -837,7 +897,11 @@
 <measure quantity="24" unit="years">
 <num value="24">二十四</num>年</measure>
 <pc>，</pc>殿前都指揮使楊存中言<pc>：</pc>
-<pc>“</pc>舊製<pc>，</pc>在京所管捧日<pc>、</pc>天武<pc>、</pc>拱聖<pc>、</pc>驍騎<pc>、</pc>驍勝<pc>、</pc>寧朔<pc>、</pc>神騎<pc>、</pc>神勇<pc>、</pc>宣武<pc>、</pc>虎翼<pc>、</pc>廣勇諸指揮禁軍內<pc>，</pc>捧日<pc>、</pc>天武依條升揀扈衛諸班直<pc>，</pc>拱聖<pc>、</pc>神勇以下升揀捧日<pc>、</pc>天武<pc>，</pc>除逃亡有故<pc>，</pc>僅<num value="900">千九百</num>人<pc>。</pc>請於今年分定月內招<num value="1000">千</num>人<pc>。</pc>
+<pc>“</pc>舊製<pc>，</pc>在京所管捧日<pc>、</pc>天武<pc>、</pc>拱聖<pc>、</pc>驍騎<pc>、</pc>驍勝<pc>、</pc>寧朔<pc>、</pc>神騎<pc>、</pc>神勇<pc>、</pc>宣武<pc>、</pc>虎翼<pc>、</pc>廣勇諸指揮禁軍內<pc>，</pc>捧日<pc>、</pc>天武依條升揀扈衛諸班直<pc>，</pc>拱聖<pc>、</pc>神勇以下升揀捧日<pc>、</pc>天武<pc>，</pc>除逃亡有故<pc>，</pc>僅<measure quantity="900" unit="people">
+<num value="900">千九百</num>人</measure>
+<pc>。</pc>請於今年分定月內招<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>。</pc>
 <pc>”</pc>
 </p>
 </div>
@@ -846,7 +910,9 @@
 <measure quantity="27" unit="years">
 <num value="27">二十七</num>年</measure>
 <pc>，</pc>楊存中奉旨<pc>，</pc>
-<num value="3">三</num>衙所招效用兵令住招<pc>。</pc>今闕<num value="6726">六千七百二十六</num>人<pc>，</pc>若不招填<pc>，</pc>兵數日損<pc>。</pc>詔本司來年<measure quantity="1" unit="month">
+<num value="3">三</num>衙所招效用兵令住招<pc>。</pc>今闕<measure quantity="6726" unit="people">
+<num value="6726">六千七百二十六</num>人</measure>
+<pc>，</pc>若不招填<pc>，</pc>兵數日損<pc>。</pc>詔本司來年<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>為始<pc>，</pc>依舊招募<pc>。</pc>
@@ -857,7 +923,9 @@
 <pc>“</pc>本司在京日軍額<num value="39500">三萬九千五百</num>
 <pc>，</pc>今行在僅<num value="219">千二百一十九</num>
 <pc>。</pc>
-<pc>”</pc>詔招填<num value="781">千七百八十一</num>人<pc>，</pc>以<num value="3000">三千</num>為額<pc>，</pc>刺充神衛<pc>，</pc>虎翼<pc>，</pc>飛山<pc>、</pc>床子弩雄武等指揮<pc>。</pc>
+<pc>”</pc>詔招填<measure quantity="781" unit="people">
+<num value="781">千七百八十一</num>人</measure>
+<pc>，</pc>以<num value="3000">三千</num>為額<pc>，</pc>刺充神衛<pc>，</pc>虎翼<pc>，</pc>飛山<pc>、</pc>床子弩雄武等指揮<pc>。</pc>
 </p>
 </div>
 <div>
@@ -866,7 +934,9 @@
 <pc>，</pc>馬軍司王友直言<pc>：</pc>
 <pc>“</pc>見管戰馬<num value="2700">二千七百</num>餘<pc>，</pc>止有傔馬<num value="600">六百</num>餘人<pc>，</pc>請招傔兵<num value="500">千五百</num>
 <pc>，</pc>並充雄威<pc>。</pc>
-<pc>”</pc>詔招<num value="1000">千</num>人<pc>，</pc>刺<pc>“</pc>步傔<pc>”</pc>
+<pc>”</pc>詔招<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>刺<pc>“</pc>步傔<pc>”</pc>
 <num value="2">二</num>字<pc>。</pc>步軍司吳挺言<pc>：</pc>
 <pc>“</pc>步司<num value="5">五</num>軍<pc>，</pc>額<num value="25000">二萬五千</num>
 <pc>，</pc>見闕<num value="3600">三千六百</num>
@@ -880,13 +950,18 @@
 <pc>，</pc>殿前副都指揮郭鈞言<pc>：</pc>
 <pc>“</pc>淳熙<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>住招兵<pc>，</pc>今逾<num value="10">十</num>載<pc>，</pc>戰隊合用火分傔兵闕<pc>。</pc>
-<pc>”</pc>詔招<num value="1000">千</num>人<pc>。</pc>紹熙<measure quantity="2" unit="years">
+<pc>”</pc>詔招<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>。</pc>紹熙<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>詔步軍司招軍<num value="1000">千</num>人<pc>。</pc>
+<pc>，</pc>詔步軍司招軍<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
-<p>慶元元年<pc>，</pc>詔楚州招到<num value="261">二百六十一</num>人補弩手<pc>、</pc>效用<pc>。</pc>
+<p>慶元元年<pc>，</pc>詔楚州招到<measure quantity="261" unit="people">
+<num value="261">二百六十一</num>人</measure>補弩手<pc>、</pc>效用<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>詔給降度牒付金州都統<pc>，</pc>招填闕額並揀汰兵<pc>，</pc>照紹熙初年令<pc>，</pc>自<num value="5">五</num>尺<num value="4">四</num>寸至<num value="5">五</num>尺<num value="6">六</num>寸<num value="3">三</num>等招收<pc>。</pc>
@@ -898,23 +973,35 @@
 <num value="3">三</num>年</measure>
 <pc>，</pc>立額<num value="27000">二萬七千</num>
 <pc>，</pc>今<num value="25400">二萬五千四百</num>
-<pc>，</pc>差戍<pc>、</pc>官占實<num value="143">萬一百四十三</num>人<pc>，</pc>點閱所部<pc>，</pc>堪披帶人僅<num value="627">六百二十七</num>
+<pc>，</pc>差戍<pc>、</pc>官占實<measure quantity="143" unit="people">
+<num value="143">萬一百四十三</num>人</measure>
+<pc>，</pc>點閱所部<pc>，</pc>堪披帶人僅<num value="627">六百二十七</num>
 <pc>。</pc>請從本司酌紹興額招刺<pc>。</pc>
 <pc>”</pc>參知政事蔣芾言<pc>：</pc>
-<pc>“</pc>在內諸軍<pc>，</pc>每月逃亡不下<num value="400">四百</num>人<pc>，</pc>若權住招<measure quantity="1" unit="year">
+<pc>“</pc>在內諸軍<pc>，</pc>每月逃亡不下<measure quantity="400" unit="people">
+<num value="400">四百</num>人</measure>
+<pc>，</pc>若權住招<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>半<pc>，</pc>俟財用稍足招強壯<pc>，</pc>不惟省費<pc>，</pc>又得兵精<pc>。</pc>且南渡以來兵籍之數<pc>，</pc>紹興<measure quantity="12" unit="years">
 <num value="12">十二</num>年</measure>
 <num value="214500">二十一萬四千五百</num>餘人<pc>，</pc>
 <measure quantity="23" unit="years">
 <num value="23">二十三</num>年</measure>
-<num value="254540">二十五萬四千五百四十</num>人<pc>，</pc>
+<measure quantity="254540" unit="people">
+<num value="254540">二十五萬四千五百四十</num>人</measure>
+<pc>，</pc>
 <measure quantity="30" unit="years">
 <num value="30">三十</num>年</measure>
-<num value="318138">三十一萬八千一百三十八</num>人<pc>，</pc>乾道<measure quantity="3" unit="years">
+<measure quantity="318138" unit="people">
+<num value="318138">三十一萬八千一百三十八</num>人</measure>
+<pc>，</pc>乾道<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<num value="323301">三十二萬三千三百一</num>人<pc>，</pc>隻比<measure quantity="23" unit="years">
+<measure quantity="323301" unit="people">
+<num value="323301">三十二萬三千三百一</num>人</measure>
+<pc>，</pc>隻比<measure quantity="23" unit="years">
 <num value="23">二十三</num>年</measure>
-<pc>，</pc>已增<num value="69061">六萬九千六十一</num>人<pc>，</pc>如此何緣財用有餘<pc>？</pc>
+<pc>，</pc>已增<measure quantity="69061" unit="people">
+<num value="69061">六萬九千六十一</num>人</measure>
+<pc>，</pc>如此何緣財用有餘<pc>？</pc>
 <pc>”</pc>
 </p>
 </div>

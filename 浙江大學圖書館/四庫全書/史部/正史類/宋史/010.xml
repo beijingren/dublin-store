@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="10">
 <div>
-<p>　　明道元年春<measure quantity="2" unit="months">
+<p>
+<name key="null" type="null">　　明</name>道元年春<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="40">癸卯</num>
 <pc>，</pc>呂夷簡上<pc>《</pc>
@@ -386,7 +387,9 @@
 <num value="19">壬午</num>
 <pc>，</pc>免諸路災傷州軍今年夏稅<pc>。</pc>
 <num value="20">癸未</num>
-<pc>，</pc>詔解州畦戶逋鹽蠲其半<pc>。</pc>是月<pc>，</pc>賜禮部奏名進士<pc>、</pc>諸科及第出身<num value="783">七百八十三</num>人<pc>。</pc>
+<pc>，</pc>詔解州畦戶逋鹽蠲其半<pc>。</pc>是月<pc>，</pc>賜禮部奏名進士<pc>、</pc>諸科及第出身<measure quantity="783" unit="people">
+<num value="783">七百八十三</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -641,7 +644,7 @@
 <num value="31">甲午</num>
 <pc>，</pc>饗太廟<pc>、</pc>奉慈廟<pc>。</pc>
 <num value="32">乙未</num>
-<pc>，</pc>祀天地於圜丘<pc>，</pc>大赦<pc>。</pc>錄<date>
+<pc>，</pc>祀天地於圜丘<pc>，</pc>大赦<pc>。</pc>錄<date when="null">
 <num value="5">五</num>代</date>及諸國後<pc>。</pc>宗室任諸司使以下至殿直者<pc>，</pc>換西班官<pc>。</pc>
 <num value="100">百</num>官上尊號曰景祐體天法道欽文聰武聖神孝德皇帝<pc>。</pc>
 <num value="44">丁未</num>
@@ -858,7 +861,11 @@
 <p>　　<measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <num value="21">甲申</num>
-<pc>，</pc>並<pc>、</pc>代<pc>、</pc>忻州並言地震<pc>，</pc>吏民壓死者<num value="32306">三萬二千三百六</num>人<pc>，</pc>傷<num value="5600">五千六百</num>人<pc>，</pc>畜擾死者<num value="50000">五萬</num>余<pc>。</pc>遣使撫存其民<pc>，</pc>賜死傷之家錢有差<pc>。</pc>是歲<pc>，</pc>滑州民蠶成被<pc>，</pc>長<num value="2">二</num>丈<num value="5">五</num>尺<pc>。</pc>唃廝囉<pc>、</pc>龜茲<pc>、</pc>沙州來貢<pc>。</pc>
+<pc>，</pc>並<pc>、</pc>代<pc>、</pc>忻州並言地震<pc>，</pc>吏民壓死者<measure quantity="32306" unit="people">
+<num value="32306">三萬二千三百六</num>人</measure>
+<pc>，</pc>傷<measure quantity="5600" unit="people">
+<num value="5600">五千六百</num>人</measure>
+<pc>，</pc>畜擾死者<num value="50000">五萬</num>余<pc>。</pc>遣使撫存其民<pc>，</pc>賜死傷之家錢有差<pc>。</pc>是歲<pc>，</pc>滑州民蠶成被<pc>，</pc>長<num value="2">二</num>丈<num value="5">五</num>尺<pc>。</pc>唃廝囉<pc>、</pc>龜茲<pc>、</pc>沙州來貢<pc>。</pc>
 </p>
 </div>
 <div>
@@ -887,7 +894,9 @@
 <num value="35">戊戌</num>朔<pc>，</pc>王隨<pc>、</pc>陳堯佐<pc>、</pc>韓億<pc>、</pc>石中立罷<pc>，</pc>以張士遜為門下侍郎<pc>、</pc>同中書門下平章事<pc>、</pc>昭文館大學士<pc>，</pc>章得象同中書門下平章事<pc>、</pc>集賢殿大學士<pc>，</pc>王鬷<pc>、</pc>李若穀並參知政事<pc>，</pc>王博文<pc>、</pc>陳執中同知樞密院事<pc>。</pc>
 <num value="36">己亥</num>
 <pc>，</pc>發邵<pc>、</pc>澧<pc>、</pc>潭<measure quantity="3" unit="prefectures">
-<num value="3">三</num>州</measure>駐泊兵討安化州蠻<pc>。</pc>是月<pc>，</pc>賜禮部奏名進士<pc>、</pc>諸科及第出身<num value="724">七百二十四</num>人<pc>。</pc>
+<num value="3">三</num>州</measure>駐泊兵討安化州蠻<pc>。</pc>是月<pc>，</pc>賜禮部奏名進士<pc>、</pc>諸科及第出身<measure quantity="724" unit="people">
+<num value="724">七百二十四</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1013,7 +1022,9 @@
 <num value="60">癸亥</num>
 <pc>，</pc>授唃廝囉<num value="2">二</num>子瞎氈<pc>、</pc>磨氈角團練使<pc>。</pc>
 <num value="2">乙丑</num>
-<pc>，</pc>放宮女<num value="270">二百七十</num>人<pc>。</pc>
+<pc>，</pc>放宮女<measure quantity="270" unit="people">
+<num value="270">二百七十</num>人</measure>
+<pc>。</pc>
 <num value="9">壬申</num>
 <pc>，</pc>免昭州運糧死蠻寇者家徭<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
@@ -1028,7 +1039,9 @@
 <p>　　<measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <num value="30">癸巳</num>
-<pc>，</pc>詔近臣舉方略材武之士各<num value="2">二</num>人<pc>。</pc>
+<pc>，</pc>詔近臣舉方略材武之士各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <num value="36">己亥</num>
 <pc>，</pc>禁皇族及諸命婦<pc>、</pc>女冠<pc>、</pc>尼等非時入內<pc>。</pc>
 <num value="40">癸卯</num>
@@ -1274,7 +1287,9 @@
 <num value="32">乙未</num>
 <pc>，</pc>制銅符<pc>、</pc>木契<pc>、</pc>傳信牌<pc>。</pc>
 <num value="41">甲辰</num>
-<pc>，</pc>錄方略士<num value="61">六十一</num>人<pc>，</pc>授官有差<pc>。</pc>
+<pc>，</pc>錄方略士<measure quantity="61" unit="people">
+<num value="61">六十一</num>人</measure>
+<pc>，</pc>授官有差<pc>。</pc>
 </p>
 </div>
 <div>

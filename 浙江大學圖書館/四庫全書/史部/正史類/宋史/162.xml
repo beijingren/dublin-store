@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="162">
 <div>
-<p>宋史　　 卷<num value="162">一百六十二</num>‧志第<num value="115">一百一十五</num>　 職官<num value="2">二</num>
+<p>
+<name key="null" type="null">宋史　</name>　 卷<num value="162">一百六十二</num>‧志第<num value="115">一百一十五</num>　 職官<num value="2">二</num>
 </p>
 </div>
 <div>
@@ -41,7 +42,7 @@
 </div>
 <div>
 <p>宋初<pc>，</pc>循唐<pc>、</pc>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>之制<pc>，</pc>置樞密院<pc>，</pc>與中書對持文武<num value="2">二</num>柄<pc>，</pc>號為<pc>「</pc>
 <quote>
 <num value="2">二</num>府</quote>
@@ -59,7 +60,29 @@
 <div>
 <p>凡房<num value="10">十</num>有<num value="2">二</num>
 <pc>：</pc>曰北面房<pc>，</pc>掌行河北<pc>、</pc>河東路吏卒<pc>，</pc>北界邊防<pc>、</pc>國信事<pc>。</pc>曰河西房<pc>，</pc>掌行 陝西路<pc>、</pc>麟<pc>、</pc>府<pc>、</pc>豐<pc>、</pc>嵐<pc>、</pc>石<pc>、</pc>隰州<pc>、</pc>保德軍吏卒<pc>，</pc>西界邊防<pc>、</pc>蕃官<pc>。</pc>曰支差房<pc>，</pc>掌行 調發軍<pc>，</pc>湖北路邊防及京東<pc>、</pc>京西<pc>、</pc>江<pc>、</pc>淮<pc>、</pc>廣南東路吏卒<pc>，</pc>遷補殿侍<pc>，</pc>選親事官<pc>。</pc>曰 在京房<pc>，</pc>掌行殿前步軍司事<pc>，</pc>支移兵器<pc>，</pc>川陝路邊防及畿內<pc>、</pc>福建路吏卒<pc>，</pc>軍頭<pc>、</pc>皇城 司衛兵<pc>。</pc>曰教閱房<pc>，</pc>掌行中外校習<pc>，</pc>封樁闕額請給<pc>，</pc>催督驛遞及湖南路邊防<pc>。</pc>曰廣西房<pc>，</pc>掌行招軍捕盜賞罰<pc>，</pc>廣南西路邊防及兩浙路吏卒<pc>。</pc>而禁軍轉員<pc>，</pc>則各隨其房之所領兵 額治之<pc>。</pc>曰兵籍房<pc>，</pc>掌行諸路將官差發禁兵<pc>、</pc>選補衛軍文書<pc>。</pc>曰民兵房<pc>，</pc>掌行<num value="3">三</num>路保甲<pc>、</pc>弓箭手<pc>。</pc>曰吏房<pc>，</pc>掌行差將領武臣知州軍<pc>、</pc>路分都監以上及差內侍官文書<pc>。</pc>曰知雜房<pc>，</pc>掌行雜務<pc>。</pc>曰支馬房<pc>，</pc>掌行內外馬政並坊院監牧吏卒<pc>、</pc>牧馬<pc>、</pc>租課<pc>。</pc>曰小吏房<pc>，</pc>掌行 兩省內臣磨勘功過敘用<pc>，</pc>大使臣已上歷任事狀及校尉以上改轉遷遣<pc>。</pc>吏<num value="30">三十</num>有<num value="8">八</num>
-<pc>：</pc>逐房 副承旨<num value="3">三</num>人<pc>，</pc>主事<num value="5">五</num>人<pc>，</pc>守闕主事<num value="2">二</num>人<pc>，</pc>令史<num value="13">十三</num>人<pc>，</pc>書令史<num value="15">十五</num>人<pc>。</pc>元祐既創支馬<pc>、</pc>小吏<num value="2">二</num>房<pc>，</pc>增令史為<num value="14">十四</num>人<pc>，</pc>書令史<num value="19">十九</num>人<pc>，</pc>創正名貼房<num value="18">十八</num>人<pc>。</pc>大觀增逐房副承旨為<num value="5">五</num>人<pc>，</pc>創守闕書令史<num value="3">三</num>人<pc>，</pc>增正名<num value="28">二十八</num>人<pc>。</pc>
+<pc>：</pc>逐房 副承旨<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>主事<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>，</pc>守闕主事<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>令史<measure quantity="13" unit="people">
+<num value="13">十三</num>人</measure>
+<pc>，</pc>書令史<measure quantity="15" unit="people">
+<num value="15">十五</num>人</measure>
+<pc>。</pc>元祐既創支馬<pc>、</pc>小吏<num value="2">二</num>房<pc>，</pc>增令史為<measure quantity="14" unit="people">
+<num value="14">十四</num>人</measure>
+<pc>，</pc>書令史<measure quantity="19" unit="people">
+<num value="19">十九</num>人</measure>
+<pc>，</pc>創正名貼房<measure quantity="18" unit="people">
+<num value="18">十八</num>人</measure>
+<pc>。</pc>大觀增逐房副承旨為<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>，</pc>創守闕書令史<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>增正名<measure quantity="28" unit="people">
+<num value="28">二十八</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -78,8 +101,10 @@
 <term>諫議大夫</term>梁燾<pc>、</pc>司諫劉安世言<pc>：</pc>
 <pc>「</pc>
 <quote>
-<date>國朝</date>革<date>
-<num value="5">五</num>代</date>之弊<pc>，</pc>文<pc>、</pc>武<num value="2">二</num>柄<pc>，</pc>未嘗專付<num value="1">一</num>人<pc>，</pc>乞依故事命大臣兼領<pc>。</pc>
+<date when="null">國朝</date>革<date when="null">
+<num value="5">五</num>代</date>之弊<pc>，</pc>文<pc>、</pc>武<num value="2">二</num>柄<pc>，</pc>未嘗專付<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>乞依故事命大臣兼領<pc>。</pc>
 </quote>
 <pc>」</pc>靖康元年<pc>，</pc>知樞密院事李 綱言<pc>：</pc>
 <pc>「</pc>
@@ -105,7 +130,9 @@
 <pc>「</pc>
 <quote>祖宗不以兵柄歸有司<pc>，</pc>故專命官以統之<pc>，</pc>互相維制<pc>，</pc>何可廢也<pc>？</pc>
 </quote>
-<pc>」</pc>於是得不廢<pc>。</pc>帝又以樞密聯職輔弼<pc>，</pc>非出使之官<pc>，</pc>乃定置知院<pc>、</pc>同知院<num value="2">二</num>人<pc>，</pc>使<pc>、</pc>副悉罷<pc>。</pc>元祐初<pc>，</pc>復置簽書院事<pc>，</pc>仍以樞密直學士充<pc>。</pc>同簽書樞密院事<pc>，</pc>治平末<pc>，</pc>以殿前都<term>虞候</term>郭逵為 之<pc>，</pc>又以逵判渭州<pc>。</pc>帝初即位<pc>，</pc>中丞王陶<pc>、</pc>御史呂景等皆言之<pc>。</pc>逵歸<pc>，</pc>改除宣徽南院使<pc>、</pc>知鄆州<pc>，</pc>自是不復置<pc>。</pc>政和<measure quantity="6" unit="years">
+<pc>」</pc>於是得不廢<pc>。</pc>帝又以樞密聯職輔弼<pc>，</pc>非出使之官<pc>，</pc>乃定置知院<pc>、</pc>同知院<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>使<pc>、</pc>副悉罷<pc>。</pc>元祐初<pc>，</pc>復置簽書院事<pc>，</pc>仍以樞密直學士充<pc>。</pc>同簽書樞密院事<pc>，</pc>治平末<pc>，</pc>以殿前都<term>虞候</term>郭逵為 之<pc>，</pc>又以逵判渭州<pc>。</pc>帝初即位<pc>，</pc>中丞王陶<pc>、</pc>御史呂景等皆言之<pc>。</pc>逵歸<pc>，</pc>改除宣徽南院使<pc>、</pc>知鄆州<pc>，</pc>自是不復置<pc>。</pc>政和<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>以內侍童貫權簽書樞密院河西<pc>、</pc>北面房事<pc>。</pc>
 <measure quantity="7" unit="years">
@@ -214,7 +241,9 @@
 <num value="3">三</num>省<pc>、</pc>樞密院激賞庫　<num value="3">三</num>省<pc>、</pc>樞密院激賞酒庫</p>
 </div>
 <div>
-<p>監官各<num value="2">二</num>人<pc>。</pc>
+<p>監官各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <pc>（</pc>初以武臣<pc>，</pc>嘉泰末<pc>，</pc>始易以選人<pc>。</pc>
 <pc>）</pc>
 <num value="2">二</num>庫並因紹興用兵<pc>，</pc>創以備邊<pc>；</pc>後 兵罷<pc>，</pc>專以備堂<pc>、</pc>東兩廚應幹宰執支遣<pc>。</pc>若朝廷軍期急速錢物金帶<pc>，</pc>以備激犒<pc>；</pc>諸軍將 帥告命綾紙<pc>，</pc>以備科撥調遣等用<pc>。</pc>省<pc>、</pc>院<pc>、</pc>府吏胥之給<pc>，</pc>亦取具焉<pc>。</pc>
@@ -237,7 +266,7 @@
 <pc>，</pc>詔自今<term>宰相</term>兼知樞密院事<pc>，</pc>罷御營使<pc>。</pc>時臣僚言<pc>：</pc>
 <pc>「</pc>
 <quote>
-<term>宰相</term>之職<pc>，</pc>無所 不統<pc>。</pc>本朝沿<date>
+<term>宰相</term>之職<pc>，</pc>無所 不統<pc>。</pc>本朝沿<date when="null">
 <num value="5">五</num>代</date>之制<pc>，</pc>政事分為兩府<pc>，</pc>兵權付於樞密<pc>，</pc>比年又置御營使<pc>，</pc>是政出於<num value="3">三</num>也<pc>。</pc>請罷御營司<pc>，</pc>以兵權付之密院<pc>，</pc>而以<term>宰相</term>兼知<pc>，</pc>庶幾可以漸議兵政<pc>。</pc>
 </quote>
 <pc>」</pc>故罷使及官 屬<pc>，</pc>以其事歸密院<pc>，</pc>為機速房<pc>。</pc>至紹興<measure quantity="29" unit="years">
@@ -258,7 +287,13 @@
 <div>
 <p>紹興<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>詔置修政局<pc>，</pc>令<num value="100">百</num>官條具修車馬<pc>、</pc>備器械<pc>，</pc>命右相秦檜提舉<pc>，</pc>參知政事同領 之<pc>。</pc>其下有參詳官<num value="1">一</num>人<pc>，</pc>侍從為之<pc>，</pc>參議官<num value="2">二</num>人<pc>，</pc>檢討官<num value="4">四</num>人<pc>，</pc>卿郎為之<pc>；</pc>如講議司故 事<pc>。</pc>
+<pc>，</pc>詔置修政局<pc>，</pc>令<num value="100">百</num>官條具修車馬<pc>、</pc>備器械<pc>，</pc>命右相秦檜提舉<pc>，</pc>參知政事同領 之<pc>。</pc>其下有參詳官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>侍從為之<pc>，</pc>參議官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>檢討官<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>卿郎為之<pc>；</pc>如講議司故 事<pc>。</pc>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>而罷局<pc>。</pc>
 </p>
@@ -294,7 +329,8 @@
 <pc>」</pc>嘉泰<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>詔遵孝 宗典故<pc>，</pc>
-<term>宰相</term>兼國用使<pc>，</pc>參知政事同知國用事<pc>，</pc>仍於侍從<pc>、</pc>卿監中擇<num value="2">二</num>人充屬官<pc>。</pc>右丞 相陳自強兼國用使<pc>，</pc>參知政事兼知樞密院事費士寅<pc>、</pc>參知政事張嚴兼同知國用事<pc>。</pc>
+<term>宰相</term>兼國用使<pc>，</pc>參知政事同知國用事<pc>，</pc>仍於侍從<pc>、</pc>卿監中擇<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>充屬官<pc>。</pc>右丞 相陳自強兼國用使<pc>，</pc>參知政事兼知樞密院事費士寅<pc>、</pc>參知政事張嚴兼同知國用事<pc>。</pc>
 <pc>（</pc>以 兵部侍郎薛叔似兼參計官<pc>，</pc>太府卿陳景思同參計官<pc>。</pc>先是<pc>，</pc>臣僚言<pc>：</pc>
 <pc>「</pc>
 <quote>今日財計<pc>，</pc>非錢 穀不足可憂<pc>，</pc>而滲漏日滋之為可慮也<pc>。</pc>周家以塚宰制國用<pc>，</pc>而唐亦以<term>宰相</term>兼領度支<pc>，</pc>是 知財賦國家之大計<pc>，</pc>其出入之數有餘<pc>、</pc>不足<pc>，</pc>為大臣者皆所當知<pc>，</pc>庶可節以制度<pc>，</pc>關防 欺隱<pc>。</pc>宜略仿祖宗遺意<pc>，</pc>命大臣兼提領天下財賦<pc>。</pc>
@@ -335,8 +371,15 @@
 <p>宣徽院　宣徽南院使　北院使</p>
 </div>
 <div>
-<p>掌總領內諸司及<num value="3">三</num>班內侍之籍<pc>，</pc>郊祀<pc>、</pc>朝會<pc>、</pc>宴饗供帳之儀<pc>，</pc>應內外進奉<pc>，</pc>悉檢視其名 物<pc>。</pc>舊制<pc>，</pc>以檢校為使<pc>，</pc>或領節度及兩使留後<pc>，</pc>闕則樞密副使<num value="1">一</num>人兼領<num value="2">二</num>使<pc>，</pc>亦有兼樞 密副使<pc>、</pc>簽書樞密院者<pc>。</pc>南院資望比北院頗優<pc>，</pc>然皆通掌<pc>，</pc>止用南院印<pc>，</pc>
-<num value="2">二</num>使共院而各 設廳事<pc>。</pc>其吏史則有都勾押官<pc>、</pc>勾押官各<num value="1">一</num>人<pc>，</pc>前行<num value="3">三</num>人<pc>，</pc>後行<num value="12">十二</num>人<pc>，</pc>分掌<num value="4">四</num>案<pc>：</pc>
+<p>掌總領內諸司及<num value="3">三</num>班內侍之籍<pc>，</pc>郊祀<pc>、</pc>朝會<pc>、</pc>宴饗供帳之儀<pc>，</pc>應內外進奉<pc>，</pc>悉檢視其名 物<pc>。</pc>舊制<pc>，</pc>以檢校為使<pc>，</pc>或領節度及兩使留後<pc>，</pc>闕則樞密副使<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>兼領<num value="2">二</num>使<pc>，</pc>亦有兼樞 密副使<pc>、</pc>簽書樞密院者<pc>。</pc>南院資望比北院頗優<pc>，</pc>然皆通掌<pc>，</pc>止用南院印<pc>，</pc>
+<num value="2">二</num>使共院而各 設廳事<pc>。</pc>其吏史則有都勾押官<pc>、</pc>勾押官各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>前行<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>後行<measure quantity="12" unit="people">
+<num value="12">十二</num>人</measure>
+<pc>，</pc>分掌<num value="4">四</num>案<pc>：</pc>
 <num value="1">一</num>曰兵案<pc>，</pc>
 <num value="2">二</num>曰騎案<pc>，</pc>
 <pc>（</pc>主賜群臣新史<pc>，</pc>及掌諸司使至崇班<pc>、</pc>內侍供奉官<pc>、</pc>諸司工匠兵卒 之名籍<pc>，</pc>及<num value="3">三</num>班而下遷補<pc>、</pc>假故<pc>、</pc>鞫劾之事<pc>。</pc>
@@ -386,7 +429,7 @@
 </div>
 <div>
 <p>
-<num value="3">三</num>司之職<pc>，</pc>國初沿<date>
+<num value="3">三</num>司之職<pc>，</pc>國初沿<date when="null">
 <num value="5">五</num>代</date>之制<pc>，</pc>置使以總國計<pc>，</pc>應<num value="4">四</num>方貢賦之入<pc>，</pc>朝廷之預<pc>，</pc>
 <num value="1">一</num>歸<num value="3">三</num>司<pc>。</pc>通管鹽鐵<pc>、</pc>度支<pc>、</pc>戶部<pc>，</pc>號曰計省<pc>，</pc>位亞執政<pc>，</pc>目為計相<pc>。</pc>其恩數廩祿<pc>，</pc>與參<pc>、</pc>樞同<pc>。</pc>太平興國<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
@@ -406,7 +449,9 @@
 </div>
 <div>
 <p>
-<num value="1">一</num>人<pc>，</pc>以兩省<num value="5">五</num>品以上及知制誥<pc>、</pc>雜學士<pc>、</pc>學士充<pc>。</pc>亦有輔臣罷政出外<pc>，</pc>召還充使者<pc>。</pc>使闕<pc>，</pc>則有權使事<pc>；</pc>又闕<pc>，</pc>則有權發遣公事<pc>。</pc>掌邦國財用之大計<pc>，</pc>總鹽鐵<pc>、</pc>度支<pc>、</pc>戶部 之事<pc>，</pc>以經天下財賦而均其出入焉<pc>。</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>以兩省<num value="5">五</num>品以上及知制誥<pc>、</pc>雜學士<pc>、</pc>學士充<pc>。</pc>亦有輔臣罷政出外<pc>，</pc>召還充使者<pc>。</pc>使闕<pc>，</pc>則有權使事<pc>；</pc>又闕<pc>，</pc>則有權發遣公事<pc>。</pc>掌邦國財用之大計<pc>，</pc>總鹽鐵<pc>、</pc>度支<pc>、</pc>戶部 之事<pc>，</pc>以經天下財賦而均其出入焉<pc>。</pc>
 <pc>（</pc>凡奏事及大事悉置案<pc>，</pc>奏牒常事止署案<pc>。</pc>太平興 國初<pc>，</pc>以賈琰為<num value="3">三</num>司副使<pc>，</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
@@ -427,7 +472,9 @@
 <num value="3">三</num>部副使</p>
 </div>
 <div>
-<p>各<num value="1">一</num>人<pc>，</pc>通簽逐部之事<pc>。</pc>
+<p>各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>通簽逐部之事<pc>。</pc>
 <pc>（</pc>舊以員外郎以上充<pc>。</pc>端拱初<pc>，</pc>省<pc>。</pc>淳化<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>復置<pc>，</pc>又省<pc>。</pc>至 道初<pc>，</pc>又置<pc>。</pc>真宗即位<pc>，</pc>副使遷官<pc>，</pc>遂罷之<pc>。</pc>咸平<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>復置<pc>。</pc>
@@ -439,24 +486,44 @@
 <num value="3">三</num>部判官</p>
 </div>
 <div>
-<p>各<num value="3">三</num>人<pc>，</pc>分掌逐案之事<pc>。</pc>
-<pc>（</pc>舊以朝官充<pc>。</pc>國初承舊制<pc>，</pc>每部判官<num value="1">一</num>人<pc>。</pc>乾德<measure quantity="4" unit="years">
+<p>各<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>分掌逐案之事<pc>。</pc>
+<pc>（</pc>舊以朝官充<pc>。</pc>國初承舊制<pc>，</pc>每部判官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>乾德<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>
-<num value="3">三</num>部 各置推官<num value="1">一</num>人<pc>。</pc>太平興國<measure quantity="3" unit="years">
+<num value="3">三</num>部 各置推官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>太平興國<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>諸案置推官或巡官<pc>，</pc>以朝官充<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>
-<num value="3">三</num>司止置判官<num value="1">一</num>人<pc>、</pc>推官<num value="3">三</num>人<pc>。</pc>及分<num value="10">十</num>道<pc>，</pc>
-<num value="2">二</num>計各置判官<num value="1">一</num>人<pc>。</pc>
+<num value="3">三</num>司止置判官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>、</pc>推官<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>。</pc>及分<num value="10">十</num>道<pc>，</pc>
+<num value="2">二</num>計各置判官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>廢<num value="10">十</num>道<pc>，</pc>
-<num value="3">三</num>部各置判官<num value="2">二</num>人<pc>。</pc>
+<num value="3">三</num>部各置判官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>
-<num value="3">三</num>部各有孔目官<num value="1">一</num>人<pc>，</pc>都勾押官<num value="1">一</num>人<pc>，</pc>勾覆官<num value="4">四</num>人<pc>。</pc>
+<num value="3">三</num>部各有孔目官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>都勾押官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>勾覆官<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -499,7 +566,9 @@
 <num value="4">四</num>曰常平案<pc>，</pc>
 <pc>（</pc>掌諸州平糴<pc>。</pc>大 中祥符<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>置主吏<num value="7">七</num>人<pc>。</pc>
+<pc>，</pc>置主吏<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>。</pc>
 <pc>）</pc>
 <num value="5">五</num>曰發運案<pc>，</pc>
 <pc>（</pc>掌汴河廣濟蔡河漕運<pc>、</pc>橋樑<pc>、</pc>折斛<pc>，</pc>
@@ -539,12 +608,18 @@
 </div>
 <div>
 <p>
-<num value="3">三</num>部勾院判官各<num value="1">一</num>人<pc>，</pc>以朝官充<pc>。</pc>掌勾稽天下所申<num value="3">三</num>部金穀<num value="100">百</num>物出納帳籍<pc>，</pc>以察其差殊 而關防之<pc>。</pc>鹽鐵院<pc>、</pc>度支院<pc>、</pc>戶部院勾覆官各<num value="1">一</num>人<pc>。</pc>
+<num value="3">三</num>部勾院判官各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>以朝官充<pc>。</pc>掌勾稽天下所申<num value="3">三</num>部金穀<num value="100">百</num>物出納帳籍<pc>，</pc>以察其差殊 而關防之<pc>。</pc>鹽鐵院<pc>、</pc>度支院<pc>、</pc>戶部院勾覆官各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>都磨勘司<pc>，</pc>端拱<measure quantity="9" unit="years">
-<num value="9">九</num>年</measure>置<pc>。</pc>判司官<num value="1">一</num>人<pc>，</pc>以朝官充<pc>。</pc>掌覆勾<num value="3">三</num>部帳籍<pc>，</pc>以驗出入之數<pc>。</pc>
+<num value="9">九</num>年</measure>置<pc>。</pc>判司官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>以朝官充<pc>。</pc>掌覆勾<num value="3">三</num>部帳籍<pc>，</pc>以驗出入之數<pc>。</pc>
 </p>
 </div>
 <div>
@@ -568,7 +643,9 @@
 <pc>，</pc>
 <num value="3">三</num>部各置理欠<pc>，</pc>有勾簿司<pc>，</pc>景德<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>廢<pc>。</pc>
-<pc>）</pc>判司官<num value="1">一</num>人<pc>，</pc>以朝 官充<pc>。</pc>掌理在京及天下欠負官物之籍<pc>，</pc>皆立限以促之<pc>。</pc>
+<pc>）</pc>判司官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>以朝 官充<pc>。</pc>掌理在京及天下欠負官物之籍<pc>，</pc>皆立限以促之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -576,7 +653,9 @@
 </p>
 </div>
 <div>
-<p>開拆司<pc>，</pc>判司官<num value="1">一</num>人<pc>，</pc>以朝官充<pc>。</pc>掌受宣敕及諸州申牒之籍<pc>，</pc>發放以付<num value="3">三</num>部<pc>，</pc>兼掌發放<pc>、</pc>勾鑿<pc>、</pc>催驅<pc>、</pc>受事<pc>。</pc>
+<p>開拆司<pc>，</pc>判司官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>以朝官充<pc>。</pc>掌受宣敕及諸州申牒之籍<pc>，</pc>發放以付<num value="3">三</num>部<pc>，</pc>兼掌發放<pc>、</pc>勾鑿<pc>、</pc>催驅<pc>、</pc>受事<pc>。</pc>
 </p>
 </div>
 <div>
@@ -594,20 +673,28 @@
 </p>
 </div>
 <div>
-<p>衙司管轄官<num value="2">二</num>人<pc>，</pc>以判開拆司官及內侍都知<pc>、</pc>押班充<pc>。</pc>掌大將<pc>、</pc>軍將名籍<pc>，</pc>第其勞而均 其役使<pc>。</pc>
+<p>衙司管轄官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>以判開拆司官及內侍都知<pc>、</pc>押班充<pc>。</pc>掌大將<pc>、</pc>軍將名籍<pc>，</pc>第其勞而均 其役使<pc>。</pc>
 </p>
 </div>
 <div>
 <p>勾當公事官<num value="2">二</num>員<pc>，</pc>以朝官充<pc>。</pc>掌分左右廂檢計<pc>、</pc>定奪<pc>、</pc>點檢<pc>、</pc>覆驗<pc>、</pc>估剝之事<pc>。</pc>
-<num value="3">三</num>司推 勘公事<num value="1">一</num>人<pc>，</pc>以京朝官充<pc>。</pc>掌推劾諸部公事<pc>。</pc>
+<num value="3">三</num>司推 勘公事<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>以京朝官充<pc>。</pc>掌推劾諸部公事<pc>。</pc>
 </p>
 </div>
 <div>
-<p>勾當諸司<pc>、</pc>馬步軍糧料院官各<num value="1">一</num>人<pc>，</pc>以京朝官充<pc>。</pc>掌文武官諸司<pc>、</pc>諸軍給受奉料<pc>，</pc>批書 券曆<pc>，</pc>諸倉庫案驗而稟賦之<pc>。</pc>
+<p>勾當諸司<pc>、</pc>馬步軍糧料院官各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>以京朝官充<pc>。</pc>掌文武官諸司<pc>、</pc>諸軍給受奉料<pc>，</pc>批書 券曆<pc>，</pc>諸倉庫案驗而稟賦之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>勾當馬步軍專勾司官<num value="1">一</num>人<pc>，</pc>以京朝官充<pc>。</pc>
+<p>勾當馬步軍專勾司官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>以京朝官充<pc>。</pc>
 <pc>（</pc>舊以<num value="3">三</num>班<pc>。</pc>
 <pc>）</pc>掌諸軍兵馬逃亡收並之籍<pc>，</pc>諸 司庫務給受之數<pc>，</pc>審校其欺詐<pc>，</pc>批曆以送糧料院<pc>。</pc>
 </p>
@@ -651,7 +738,9 @@
 <num value="9">九</num>年</measure>
 <pc>，</pc>崔敦詩初以秘書省正字兼翰林權直<pc>。</pc>淳熙<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>敦詩再入院<pc>，</pc>議者以翰林乃應奉之所<pc>，</pc>非專掌制誥之地<pc>，</pc>更為學士院權直<pc>。</pc>後復稱翰林權直<pc>，</pc>然亦 互除不廢<pc>，</pc>權<pc>、</pc>正或至<num value="3">三</num>人<pc>。</pc>
+<pc>，</pc>敦詩再入院<pc>，</pc>議者以翰林乃應奉之所<pc>，</pc>非專掌制誥之地<pc>，</pc>更為學士院權直<pc>。</pc>後復稱翰林權直<pc>，</pc>然亦 互除不廢<pc>，</pc>權<pc>、</pc>正或至<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -704,7 +793,9 @@
 <num value="5">五</num>年</measure>
 <pc>，</pc>范沖以宗卿<pc>、</pc>朱震以秘少並兼<pc>，</pc>蓋殊命也<pc>。</pc>乾道<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>張栻始以吏部員外 郎兼<pc>。</pc>蓋中興後<pc>，</pc>庶官兼侍講者<pc>，</pc>惟此<num value="3">三</num>人<pc>。</pc>若紹興<measure quantity="25" unit="years">
+<pc>，</pc>張栻始以吏部員外 郎兼<pc>。</pc>蓋中興後<pc>，</pc>庶官兼侍講者<pc>，</pc>惟此<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>。</pc>若紹興<measure quantity="25" unit="years">
 <num value="25">二十五</num>年</measure>張扶以祭酒<pc>、</pc>隆興<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>王 佐以檢正<pc>、</pc>乾道<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>林憲以宗卿入經筵<pc>，</pc>亦兼侍講者<pc>。</pc>蓋扶本以言路兼說書就升其秩<pc>，</pc>佐時攝版曹<pc>，</pc>憲嘗為右史且有舊例<pc>，</pc>故稍優之<pc>。</pc>
@@ -714,7 +805,9 @@
 <p>臺諫兼侍講<pc>：</pc>慶曆<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>召御史中丞賈昌朝侍講邇英閤<pc>。</pc>故事<pc>，</pc>臺丞無在經筵者<pc>，</pc>仁宗 以昌朝長於講說<pc>，</pc>特召之<pc>。</pc>神宗用呂正獻<pc>，</pc>亦止命時赴講筵去學士職<pc>。</pc>中興後<pc>，</pc>王賓為 御史中丞<pc>，</pc>見請復開經筵<pc>，</pc>遂命兼講<pc>。</pc>自後<measure quantity="15" unit="years">
-<num value="15">十五</num>年</measure>間<pc>，</pc>繼之者惟王唐<pc>、</pc>徐俛<num value="2">二</num>人<pc>，</pc>皆出 上意<pc>。</pc>紹興<measure quantity="12" unit="years">
+<num value="15">十五</num>年</measure>間<pc>，</pc>繼之者惟王唐<pc>、</pc>徐俛<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>皆出 上意<pc>。</pc>紹興<measure quantity="12" unit="years">
 <num value="12">十二</num>年</measure>
 <pc>，</pc>則<num value="10000">萬</num>俟离<pc>、</pc>羅汝楫<pc>，</pc>紹興<measure quantity="25" unit="years">
 <num value="25">二十五</num>年</measure>
@@ -753,7 +846,9 @@
 </measure>
 <pc>，</pc>命賈昌朝<pc>、</pc>趙希言<pc>、</pc>王宗道<pc>、</pc>楊安國並為崇 政殿說書<pc>，</pc>日輪<num value="2">二</num>員祗候<pc>。</pc>初<pc>，</pc>侍講學士孫奭年老乞外<pc>，</pc>因薦昌朝等<pc>。</pc>至是<pc>，</pc>特置此職 以命之<pc>。</pc>慶曆<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>以趙師民預講官<pc>，</pc>復為崇政殿說書<pc>，</pc>不兼侍講<pc>。</pc>元祐間<pc>，</pc>程頤以布 衣為之<pc>。</pc>然范祖禹乃以著作佐郎兼侍講<pc>，</pc>司馬康又嘗以著作佐郎兼侍講<pc>，</pc>前此未有也<pc>。</pc>崇寧中<pc>，</pc>初除說書<num value="2">二</num>人<pc>，</pc>皆以隱逸起<pc>，</pc>蔡崇<pc>、</pc>呂瓘<pc>，</pc>仍遂其性<pc>，</pc>詔以士服隨班朝謁入侍<pc>。</pc>
+<pc>，</pc>以趙師民預講官<pc>，</pc>復為崇政殿說書<pc>，</pc>不兼侍講<pc>。</pc>元祐間<pc>，</pc>程頤以布 衣為之<pc>。</pc>然范祖禹乃以著作佐郎兼侍講<pc>，</pc>司馬康又嘗以著作佐郎兼侍講<pc>，</pc>前此未有也<pc>。</pc>崇寧中<pc>，</pc>初除說書<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>皆以隱逸起<pc>，</pc>蔡崇<pc>、</pc>呂瓘<pc>，</pc>仍遂其性<pc>，</pc>詔以士服隨班朝謁入侍<pc>。</pc>
 </p>
 </div>
 <div>
@@ -827,7 +922,11 @@
 <num value="4">四</num>年</measure>
 <pc>，</pc>王曾罷相<pc>，</pc>復除<pc>。</pc>
 <measure quantity="30" unit="years">
-<num value="30">三十</num>年</measure>間除<num value="3">三</num>人<pc>，</pc>皆前<term>宰相</term>也<pc>。</pc>宋庠罷參知政事<pc>，</pc>仁宗眷之厚<pc>，</pc>因加此職<pc>。</pc>自欽若後<pc>，</pc>非<term>宰相</term>而除者<pc>，</pc>惟庠<num value="1">一</num>人<pc>。</pc>康定<measure quantity="2" unit="years">
+<num value="30">三十</num>年</measure>間除<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>皆前<term>宰相</term>也<pc>。</pc>宋庠罷參知政事<pc>，</pc>仁宗眷之厚<pc>，</pc>因加此職<pc>。</pc>自欽若後<pc>，</pc>非<term>宰相</term>而除者<pc>，</pc>惟庠<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>康定<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>右正言梁適請遵先朝故事<pc>，</pc>定以員數<pc>。</pc>於是詔大學士置<num value="2">二</num>員<pc>，</pc>學士<num value="3">三</num>員<pc>。</pc>紹 興<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
@@ -905,7 +1004,9 @@
 <num value="8">八</num>年</measure>置待制<pc>。</pc>慶曆<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>又置學士<pc>、</pc>直學士<pc>。</pc>又有侍講<pc>。</pc>學士<pc>，</pc>慶曆<measure quantity="7" unit="years">
-<num value="7">七</num>年</measure>初置<pc>，</pc>在龍圖閣學士之下<pc>。</pc>學士罕以命人<pc>，</pc>迄仁 宗世<pc>，</pc>纔王贄<num value="1">一</num>人<pc>。</pc>秦堪自顯謨閣進直天章閤<pc>，</pc>以稱呼非便辭<pc>。</pc>詔改龍圖<pc>，</pc>自是天章不 為帶職<pc>。</pc>王曮直學士<pc>，</pc>慶曆<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>初置<pc>，</pc>在龍圖閣學士之下<pc>。</pc>學士罕以命人<pc>，</pc>迄仁 宗世<pc>，</pc>纔王贄<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>秦堪自顯謨閣進直天章閤<pc>，</pc>以稱呼非便辭<pc>。</pc>詔改龍圖<pc>，</pc>自是天章不 為帶職<pc>。</pc>王曮直學士<pc>，</pc>慶曆<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>初置天章閣直學士<pc>，</pc>在龍圖閣直學士之下<pc>。</pc>待制<pc>，</pc>天 聖<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>初置<pc>。</pc>寓直於秘閣<pc>，</pc>與龍圖遞宿<pc>，</pc>尋命范諷鞠詠充職<pc>。</pc>中興後<pc>，</pc>圖籍<pc>、</pc>符瑞<pc>、</pc>寶 玩之物<pc>，</pc>若國史<pc>、</pc>宗正寺所進屬籍<pc>，</pc>獨藏於天章閣<pc>，</pc>祖宗御容<pc>、</pc>潛邸旌節亦安奉焉<pc>。</pc>
@@ -1019,7 +1120,9 @@
 <p>東宮官　<term>太子太師</term>　太傅　太保　太子少師　少傅　少保</p>
 </div>
 <div>
-<p>國初<pc>，</pc>師傅不常設<pc>。</pc>仁宗升儲<pc>，</pc>置<num value="3">三</num>少各<num value="1">一</num>人<pc>。</pc>參政李昉兼掌賓客<pc>。</pc>及升首相<pc>，</pc>遂進少 傅<pc>，</pc>此<term>宰相</term>兼宮僚之始也<pc>。</pc>丁謂兼少師<pc>，</pc>馮拯兼少傅<pc>，</pc>曹利用兼少保<pc>，</pc>是時實為東宮官<pc>，</pc>餘多以前宰執為致仕官<pc>。</pc>若<term>太子太師</term>
+<p>國初<pc>，</pc>師傅不常設<pc>。</pc>仁宗升儲<pc>，</pc>置<num value="3">三</num>少各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>參政李昉兼掌賓客<pc>。</pc>及升首相<pc>，</pc>遂進少 傅<pc>，</pc>此<term>宰相</term>兼宮僚之始也<pc>。</pc>丁謂兼少師<pc>，</pc>馮拯兼少傅<pc>，</pc>曹利用兼少保<pc>，</pc>是時實為東宮官<pc>，</pc>餘多以前宰執為致仕官<pc>。</pc>若<term>太子太師</term>
 <pc>、</pc>太傅<pc>、</pc>太保<pc>，</pc>以待<term>宰相</term>官未至僕射者<pc>，</pc>及樞密 使致仕<pc>，</pc>亦隨本官高下除授<pc>。</pc>太子少師<pc>、</pc>少傅<pc>、</pc>少保<pc>，</pc>以待前執政<pc>，</pc>惟少師非經顧命不 除<pc>。</pc>若因遷轉<pc>，</pc>則遞進<num value="1">一</num>官<pc>，</pc>至太師即遷司空<pc>。</pc>天禧末<pc>，</pc>皇太子同聽政<pc>，</pc>乃以首相兼少 師<pc>。</pc>自後神宗<pc>、</pc>欽宗<pc>、</pc>孝宗<pc>、</pc>光宗在東宮<pc>，</pc>皆不置<pc>。</pc>開禧<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>史彌遠自詹事入樞府<pc>，</pc>乃進兼賓客<pc>。</pc>已而太子侍立<pc>，</pc>遂以丞相錢象祖兼太子少傅<pc>。</pc>明年<pc>，</pc>景獻太子立<pc>，</pc>象祖兼 少師<pc>，</pc>彌遠以右相兼少傅<pc>。</pc>未幾<pc>，</pc>彌遠丁內艱<pc>，</pc>像祖亦去位<pc>。</pc>又明年<pc>，</pc>彌遠起復<pc>，</pc>遂兼 進少師<pc>。</pc>景定元年<pc>，</pc>度宗升儲<pc>，</pc>以賈似道為少師<pc>。</pc>
@@ -1029,7 +1132,9 @@
 <p>太子賓客</p>
 </div>
 <div>
-<p>至道元年建儲<pc>，</pc>初置賓客<num value="2">二</num>人<pc>，</pc>以他官兼<pc>。</pc>天禧<measure quantity="4" unit="years">
+<p>至道元年建儲<pc>，</pc>初置賓客<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>以他官兼<pc>。</pc>天禧<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>參政任中正<pc>、</pc>樞副錢惟演<pc>、</pc>參政 王曾並兼太子賓客<pc>，</pc>執政兼東宮官始此<pc>。</pc>中興後不置<pc>。</pc>開禧<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
@@ -1040,7 +1145,13 @@
 <p>太子詹事</p>
 </div>
 <div>
-<p>仁宗升儲<pc>，</pc>置詹事<num value="2">二</num>人<pc>。</pc>神宗<pc>、</pc>欽宗升儲<pc>，</pc>並置<num value="2">二</num>人<pc>，</pc>皆以他官兼<pc>，</pc>登位後省<pc>。</pc>乾道元 年<pc>，</pc>莊文太子立<pc>，</pc>置詹事<num value="2">二</num>人<pc>。</pc>踰月<pc>，</pc>詔太子詹事遇東宮講讀日<pc>，</pc>並往陪侍<pc>。</pc>
+<p>仁宗升儲<pc>，</pc>置詹事<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>神宗<pc>、</pc>欽宗升儲<pc>，</pc>並置<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>皆以他官兼<pc>，</pc>登位後省<pc>。</pc>乾道元 年<pc>，</pc>莊文太子立<pc>，</pc>置詹事<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>踰月<pc>，</pc>詔太子詹事遇東宮講讀日<pc>，</pc>並往陪侍<pc>。</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>光 宗正儲位<pc>，</pc>以敷文閣直學士王<num value="10">十</num>朋<pc>、</pc>敷文閣待制陳良翰為太子詹事<pc>，</pc>不兼他官<pc>，</pc>非常制 也<pc>。</pc>景定元年<pc>，</pc>度宗升儲<pc>，</pc>以楊棟兼詹事<pc>。</pc>
@@ -1050,11 +1161,19 @@
 <p>太子左庶子　右庶子　左諭德　右諭德</p>
 </div>
 <div>
-<p>舊制不常設<pc>。</pc>儲闈之建<pc>，</pc>隨宜制官<pc>，</pc>以備僚寀<pc>，</pc>多以他官兼領<pc>。</pc>仁宗<pc>、</pc>神宗升儲<pc>，</pc>庶子<pc>、</pc>諭德各置<num value="2">二</num>人<pc>。</pc>欽宗升儲<pc>，</pc>置<num value="1">一</num>人<pc>。</pc>紹興<measure quantity="32" unit="years">
+<p>舊制不常設<pc>。</pc>儲闈之建<pc>，</pc>隨宜制官<pc>，</pc>以備僚寀<pc>，</pc>多以他官兼領<pc>。</pc>仁宗<pc>、</pc>神宗升儲<pc>，</pc>庶子<pc>、</pc>諭德各置<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>欽宗升儲<pc>，</pc>置<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>紹興<measure quantity="32" unit="years">
 <num value="32">三十二</num>年</measure>
-<pc>，</pc>孝宗以建王立為皇太子<pc>，</pc>置庶子<pc>、</pc>諭德各<num value="1">一</num>人<pc>，</pc>除右虛左<pc>。</pc>乾道元年及<measure quantity="7" unit="years">
+<pc>，</pc>孝宗以建王立為皇太子<pc>，</pc>置庶子<pc>、</pc>諭德各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>除右虛左<pc>。</pc>乾道元年及<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>各置<num value="1">一</num>人<pc>。</pc>開禧<measure quantity="3" unit="years">
+<pc>，</pc>各置<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>開禧<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>景獻太子立<pc>，</pc>初除 左虛右<pc>，</pc>明年<pc>，</pc>左右始並置<pc>。</pc>
 </p>
@@ -1063,7 +1182,9 @@
 <p>太子侍讀　侍講</p>
 </div>
 <div>
-<p>神宗升儲<pc>，</pc>始置各<num value="1">一</num>人<pc>。</pc>乾道<pc>、</pc>淳熙<pc>、</pc>開禧<pc>，</pc>各依故事並置<pc>。</pc>乾道<measure quantity="7" unit="years">
+<p>神宗升儲<pc>，</pc>始置各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>乾道<pc>、</pc>淳熙<pc>、</pc>開禧<pc>，</pc>各依故事並置<pc>。</pc>乾道<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>禮部太常寺言<pc>：</pc>
 <pc>「</pc>
@@ -1088,7 +1209,11 @@
 <p>太子中舍人　舍人</p>
 </div>
 <div>
-<p>至道<pc>、</pc>天禧各置<num value="1">一</num>人<pc>。</pc>神宗<pc>、</pc>欽宗升儲<pc>，</pc>並如舊置<pc>。</pc>嘉定初<pc>，</pc>除<num value="2">二</num>人<pc>。</pc>慶元以中舍人在 舍人上<pc>。</pc>
+<p>至道<pc>、</pc>天禧各置<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>神宗<pc>、</pc>欽宗升儲<pc>，</pc>並如舊置<pc>。</pc>嘉定初<pc>，</pc>除<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>慶元以中舍人在 舍人上<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1132,7 +1257,13 @@
 </div>
 <div>
 <p>
-<num value="2">二</num>人<pc>，</pc>以內臣兼<pc>；</pc>同主管左<pc>、</pc>右春坊事<num value="2">二</num>人<pc>，</pc>以武臣兼<pc>；</pc>承受官<num value="1">一</num>人<pc>，</pc>以內侍充<pc>。</pc>仁宗<pc>、</pc>神宗升儲<pc>，</pc>並置<pc>。</pc>中興後<pc>，</pc>置官並同<pc>。</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>以內臣兼<pc>；</pc>同主管左<pc>、</pc>右春坊事<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>以武臣兼<pc>；</pc>承受官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>以內侍充<pc>。</pc>仁宗<pc>、</pc>神宗升儲<pc>，</pc>並置<pc>。</pc>中興後<pc>，</pc>置官並同<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1167,7 +1298,13 @@
 <pc>」</pc>從之<pc>。</pc>選京朝官通經者充<pc>。</pc>其後又令王府記室<pc>、</pc>翊善<pc>、</pc>侍講分兼南北宅教授<pc>。</pc>大中祥符<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>又有侍教之名<pc>，</pc>自是南北院或有伴讀<pc>。</pc>
-<pc>）</pc>凡諸宮皆有教授<pc>，</pc>初無定員<pc>。</pc>是年<pc>，</pc>英宗以宗室自率府副率已上<num value="800">八百</num>餘人<pc>，</pc>奉朝請者<num value="400">四百</num>餘人<pc>，</pc>而教官纔<num value="6">六</num>員<pc>，</pc>乃詔增置教授官<pc>：</pc>凡皇族年<num value="30">三十</num>已上者<num value="13">百一十三</num>人<pc>，</pc>置講書<num value="4">四</num>員<pc>；</pc>年<num value="20">二十</num>以上者<num value="13">百十三</num>人<pc>，</pc>置講書<num value="4">四</num>員<pc>；</pc>年<num value="15">十五</num>已上者<num value="309">三百九</num>人<pc>，</pc>增置教授<num value="5">五</num>員<pc>；</pc>年<num value="14">十四</num>已下者<pc>，</pc>別置小學教授<num value="12">十二</num>員<pc>；</pc>并舊<num value="6">六</num>
+<pc>）</pc>凡諸宮皆有教授<pc>，</pc>初無定員<pc>。</pc>是年<pc>，</pc>英宗以宗室自率府副率已上<num value="800">八百</num>餘人<pc>，</pc>奉朝請者<num value="400">四百</num>餘人<pc>，</pc>而教官纔<num value="6">六</num>員<pc>，</pc>乃詔增置教授官<pc>：</pc>凡皇族年<num value="30">三十</num>已上者<measure quantity="13" unit="people">
+<num value="13">百一十三</num>人</measure>
+<pc>，</pc>置講書<num value="4">四</num>員<pc>；</pc>年<num value="20">二十</num>以上者<measure quantity="13" unit="people">
+<num value="13">百十三</num>人</measure>
+<pc>，</pc>置講書<num value="4">四</num>員<pc>；</pc>年<num value="15">十五</num>已上者<measure quantity="309" unit="people">
+<num value="309">三百九</num>人</measure>
+<pc>，</pc>增置教授<num value="5">五</num>員<pc>；</pc>年<num value="14">十四</num>已下者<pc>，</pc>別置小學教授<num value="12">十二</num>員<pc>；</pc>并舊<num value="6">六</num>
 <pc>，</pc>為<num value="27">二十七</num>員<pc>，</pc>以分教之<pc>。</pc>其子弟不率教<pc>，</pc>俾教授官<pc>、</pc>本位尊長具名申大宗正司<pc>，</pc>量行戒責<pc>。</pc>教授官不職<pc>，</pc>大宗正司密訪以聞<pc>。</pc>舊制<pc>，</pc>親賢宅置講書<pc>，</pc>紹興<measure quantity="12" unit="years">
 <num value="12">十二</num>年</measure>
 <pc>，</pc>改為府教授<pc>，</pc>掌教親賢宅南班宗子<pc>。</pc>淳熙<measure quantity="12" unit="years">

@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="30">
 <div>
-<p>　　<measure quantity="12" unit="years">
-<num value="12">十二</num>年</measure>春<measure quantity="1" unit="month">
+<p>
+<name key="null" type="null">　　十</name>二年春<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -70,7 +70,8 @@
 <num value="4">丁卯</num>
 <pc>，</pc>皇太后偕梓宮發<num value="5">五</num>國城<pc>，</pc>金遣完顏宗賢<pc>、</pc>劉祹護送梓宮<pc>，</pc>高居安護送皇太后<pc>。</pc>
 <num value="7">庚午</num>
-<pc>，</pc>賜禮部進士陳誠之以下<num value="254">二百五十四</num>人及第<pc>、</pc>出身<pc>。</pc>
+<pc>，</pc>賜禮部進士陳誠之以下<measure quantity="254" unit="people">
+<num value="254">二百五十四</num>人</measure>及第<pc>、</pc>出身<pc>。</pc>
 <num value="15">戊寅</num>
 <pc>，</pc>封韋淵平樂郡王<pc>。</pc>
 <num value="18">辛巳</num>
@@ -144,7 +145,8 @@
 <num value="42">乙巳</num>
 <pc>，</pc>加秦檜太師<pc>，</pc>封魏國公<pc>。</pc>
 <num value="43">丙午</num>
-<pc>，</pc>金使劉筈<pc>、</pc>完顏宗表等<num value="9">九</num>人入見<pc>。</pc>
+<pc>，</pc>金使劉筈<pc>、</pc>完顏宗表等<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>入見<pc>。</pc>
 <num value="45">戊申</num>
 <pc>，</pc>以王次翁等充金國報謝使<pc>。</pc>藏金國誓書於內侍省<pc>。</pc>
 <num value="48">辛亥</num>
@@ -202,7 +204,8 @@
 <num value="3">丙寅</num>
 <pc>，</pc>幸秦<pc>、</pc>魯國大長公主第臨奠<pc>，</pc>又幸劉光世第臨奠<pc>。</pc>
 <num value="7">庚午</num>
-<pc>，</pc>命太學弟子員以<num value="300">三百</num>人為額<pc>。</pc>
+<pc>，</pc>命太學弟子員以<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>為額<pc>。</pc>
 <num value="9">壬申</num>
 <pc>，</pc>秦檜上<pc>《</pc>
 <title>
@@ -211,7 +214,9 @@
 <pc>。</pc>
 <num value="10">癸酉</num>
 <pc>，</pc>以李顯忠為保信軍<term>節度使</term>
-<pc>、</pc>御前選鋒軍統制<pc>，</pc>王進為御前諸軍都統制<pc>。</pc>是歲<pc>，</pc>斷大辟<num value="24">二十四</num>人<pc>。</pc>
+<pc>、</pc>御前選鋒軍統制<pc>，</pc>王進為御前諸軍都統制<pc>。</pc>是歲<pc>，</pc>斷大辟<measure quantity="24" unit="people">
+<num value="24">二十四</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -344,7 +349,8 @@
 <pc>，</pc>遣鄭朴等使金賀正旦<pc>，</pc>王師心等賀金主生辰<pc>。</pc>鄭剛中獻黃金<num value="10000">萬</num>兩<pc>。</pc>
 <num value="38">辛丑</num>
 <pc>，</pc>復昌化<pc>、</pc>
-<num value="10000">萬</num>安<pc>、</pc>吉陽軍<pc>。</pc>知階州田晟將所部<num value="3000">三千</num>人赴行在<pc>。</pc>
+<num value="10000">萬</num>安<pc>、</pc>吉陽軍<pc>。</pc>知階州田晟將所部<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>赴行在<pc>。</pc>
 <num value="44">丁未</num>
 <pc>，</pc>以晟主管侍衛馬軍司公事<pc>，</pc>其眾隸焉<pc>。</pc>
 <num value="46">己酉</num>
@@ -543,7 +549,9 @@
 <num value="58">辛酉</num>
 <pc>，</pc>分利州為東<pc>、</pc>西路<pc>，</pc>以吳璘為利州西路安撫使<pc>，</pc>楊政利州東路安撫使<pc>。</pc>
 <num value="1">甲子</num>
-<pc>，</pc>命郡守終更入見<pc>，</pc>各舉所部縣令<num value="1">一</num>人<pc>。</pc>
+<pc>，</pc>命郡守終更入見<pc>，</pc>各舉所部縣令<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 <num value="9">壬申</num>
 <pc>，</pc>趙鼎移吉陽軍安置<pc>。</pc>
 <num value="10">癸酉</num>
@@ -612,7 +620,9 @@
 <p>　　<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="15">戊寅</num>
-<pc>，</pc>增太學弟子員<num value="100">百</num>人<pc>。</pc>
+<pc>，</pc>增太學弟子員<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>
 <num value="32">乙未</num>
 <pc>，</pc>詔州縣科折之數<pc>，</pc>第<num value="3">三</num>等戶毋或均配<pc>。</pc>
 <num value="36">己亥</num>
@@ -633,7 +643,8 @@
 <num value="15">戊寅</num>
 <pc>，</pc>彗星出東方<pc>。</pc>
 <num value="20">癸未</num>
-<pc>，</pc>避殿減膳<pc>，</pc>命監司<pc>、</pc>郡守條上便民事宜<pc>，</pc>提刑巡行決獄<pc>。</pc>賜禮部進士劉章以下<num value="300">三百</num>人及第<pc>、</pc>出身<pc>。</pc>
+<pc>，</pc>避殿減膳<pc>，</pc>命監司<pc>、</pc>郡守條上便民事宜<pc>，</pc>提刑巡行決獄<pc>。</pc>賜禮部進士劉章以下<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>及第<pc>、</pc>出身<pc>。</pc>
 <num value="24">丁亥</num>
 <pc>，</pc>以彗出<pc>，</pc>大赦<pc>。</pc>
 <num value="30">癸巳</num>
@@ -758,7 +769,9 @@
 <num value="1">正</num>月</num>
 </measure>
 <num value="25">戊子</num>
-<pc>，</pc>增太學外舍生額至<num value="1000">千</num>人<pc>。</pc>
+<pc>，</pc>增太學外舍生額至<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>。</pc>
 <num value="29">壬辰</num>
 <pc>，</pc>親饗先農於東郊<pc>，</pc>行籍田禮<pc>，</pc>執耒耜<num value="9">九</num>推<pc>，</pc>詔告郡縣<pc>。</pc>
 </p>
@@ -777,7 +790,9 @@
 <div>
 <p>　　<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
-<num value="7">庚午</num>朔<pc>，</pc>建武學<pc>，</pc>置弟子員<num value="100">百</num>人<pc>。</pc>
+<num value="7">庚午</num>朔<pc>，</pc>建武學<pc>，</pc>置弟子員<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>
 <num value="28">辛卯</num>
 <pc>，</pc>造秦檜家廟祭器<pc>。</pc>
 <num value="32">乙未</num>
@@ -1068,7 +1083,8 @@
 <num value="39">壬寅</num>
 <pc>，</pc>命熺恩禮視<term>宰臣</term>班次<pc>，</pc>亞右僕射<pc>。</pc>
 <num value="41">甲辰</num>
-<pc>，</pc>賜禮部進士王佐以下<num value="330">三百三十</num>人及第<pc>、</pc>出身<pc>。</pc>
+<pc>，</pc>賜禮部進士王佐以下<measure quantity="330" unit="people">
+<num value="330">三百三十</num>人</measure>及第<pc>、</pc>出身<pc>。</pc>
 <num value="53">丙辰</num>
 <pc>，</pc>加士夽開府儀同<num value="3">三</num>司<pc>。</pc>
 </p>
@@ -1268,7 +1284,8 @@
 <num value="56">己未</num>
 <pc>，</pc>詔無子女戶<pc>、</pc>得解舉人<pc>、</pc>太學生之獨居者並免役<pc>。</pc>
 <num value="6">己巳</num>
-<pc>，</pc>命<num value="4">四</num>川制置司歲募扈衛<num value="300">三百</num>人赴行在<pc>。</pc>
+<pc>，</pc>命<num value="4">四</num>川制置司歲募扈衛<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>赴行在<pc>。</pc>
 <num value="14">丁丑</num>
 <pc>，</pc>金遣完顏袞等來賀明年正旦<pc>。</pc>
 </p>
@@ -1318,7 +1335,8 @@
 <pc>，</pc>以秦熺為觀文殿大學士<pc>、</pc>
 <num value="10000">萬</num>壽觀使<pc>。</pc>
 <num value="33">丙申</num>
-<pc>，</pc>李孟堅獄具<pc>。</pc>詔李光遇赦永不檢舉<pc>，</pc>孟堅除名<pc>、</pc>峽州編管<pc>，</pc>胡寅<pc>、</pc>程瑀<pc>、</pc>潘良貴<pc>、</pc>張燾等<num value="8">八</num>人緣坐<pc>，</pc>黜降有差<pc>。</pc>
+<pc>，</pc>李孟堅獄具<pc>。</pc>詔李光遇赦永不檢舉<pc>，</pc>孟堅除名<pc>、</pc>峽州編管<pc>，</pc>胡寅<pc>、</pc>程瑀<pc>、</pc>潘良貴<pc>、</pc>張燾等<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>緣坐<pc>，</pc>黜降有差<pc>。</pc>
 <num value="35">戊戌</num>
 <pc>，</pc>詔改正經界法之厲民者<pc>。</pc>
 <num value="37">庚子</num>
@@ -1445,7 +1463,8 @@
 <num value="16">己卯</num>
 <pc>，</pc>禁<num value="3">三</num>衙掊克諸軍<pc>。</pc>
 <num value="24">丁亥</num>
-<pc>，</pc>賜禮部進士趙逵以下<num value="404">四百四</num>人及第<pc>、</pc>出身<pc>。</pc>
+<pc>，</pc>賜禮部進士趙逵以下<measure quantity="404" unit="people">
+<num value="404">四百四</num>人</measure>及第<pc>、</pc>出身<pc>。</pc>
 </p>
 </div>
 <div>

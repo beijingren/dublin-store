@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="204">
 <div>
-<p>◎藝文<num value="3">三</num>衛宏<pc>《</pc>
+<p>
+<name key="null" type="null">◎藝文</name>
+<num value="3">三</num>衛宏<pc>《</pc>
 <title>漢舊儀</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
@@ -303,7 +305,7 @@
 <num value="10">十</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>國朝</date>祀典</title>
+<date when="null">國朝</date>祀典</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -1402,7 +1404,9 @@
 <title>群牧司編</title>
 <pc>》</pc>
 <measure quantity="12" unit="chapters">
-<num value="12">十二</num>卷</measure>張<persName>稚圭</persName>
+<num value="12">十二</num>卷</measure>張<name key="韓琦" type="zi">
+<persName>稚圭</persName>
+</name>
 <pc>《</pc>
 <title>大宗正司條</title>
 <pc>》</pc>
@@ -2808,7 +2812,9 @@
 <pc>》</pc>
 <measure quantity="5" unit="chapters">
 <num value="5">五</num>卷</measure>孔平<pc>《</pc>
-<title>姓<persName>係</persName>氏族</title>
+<title>姓<name key="null" type="null">
+<persName>係</persName>
+</name>氏族</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -4265,7 +4271,7 @@
 <measure quantity="15" unit="chapters">
 <num value="15">十五</num>卷</measure>談鑰<pc>《</pc>
 <title>
-<date>吳</date>興誌</title>
+<date when="null">吳</date>興誌</title>
 <pc>》</pc>
 <measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>潘廷立<pc>《</pc>
@@ -4659,7 +4665,7 @@
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>左文質<pc>《</pc>
 <title>
-<date>吳</date>興統記</title>
+<date when="null">吳</date>興統記</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>孫穆<pc>《</pc>
@@ -4860,7 +4866,7 @@
 <num value="2">二</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>吳</date>興雜錄</title>
+<date when="null">吳</date>興雜錄</title>
 <pc>》</pc>
 <measure quantity="7" unit="chapters">
 <num value="7">七</num>卷</measure>
@@ -5582,7 +5588,7 @@
 <num value="15">十五</num>卷</measure>
 <pc>（</pc>或雲子貢所作<pc>）</pc>趙曄<pc>《</pc>
 <title>
-<date>吳越</date>春秋</title>
+<date when="null">吳越</date>春秋</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -5640,13 +5646,13 @@
 <p>
 <pc>《</pc>
 <title>
-<date>南唐</date>書</title>
+<date when="null">南唐</date>書</title>
 <pc>》</pc>
 <measure quantity="15" unit="chapters">
 <num value="15">十五</num>卷</measure>
 <pc>（</pc>不知作者<pc>）</pc>王顏<pc>《</pc>
 <title>
-<date>南唐</date>烈祖開基誌</title>
+<date when="null">南唐</date>烈祖開基誌</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>李昊<pc>《</pc>
@@ -5672,12 +5678,12 @@
 <num value="2">二</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>吳越</date>備史</title>
+<date when="null">吳越</date>備史</title>
 <pc>》</pc>
 <measure quantity="15" unit="chapters">
 <num value="15">十五</num>卷</measure>
 <pc>（</pc>
-<date>吳越</date>錢儼托名範<pc>、</pc>林禹撰<pc>）</pc>錢儼<pc>《</pc>
+<date when="null">吳越</date>錢儼托名範<pc>、</pc>林禹撰<pc>）</pc>錢儼<pc>《</pc>
 <title>備史遺事</title>
 <pc>》</pc>
 <measure quantity="5" unit="chapters">
@@ -5691,7 +5697,7 @@
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>董淳<pc>《</pc>
 <title>
-<date>後蜀</date>孟氏記事</title>
+<date when="null">後蜀</date>孟氏記事</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>徐鉉<pc>、</pc>湯悅<pc>《</pc>
@@ -5713,7 +5719,7 @@
 <measure quantity="5" unit="chapters">
 <num value="5">五</num>卷</measure>鄭文寶<pc>《</pc>
 <title>
-<date>南唐</date>近事集</title>
+<date when="null">南唐</date>近事集</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>又<pc>《</pc>

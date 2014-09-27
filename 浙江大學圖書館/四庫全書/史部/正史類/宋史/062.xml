@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="62">
 <div>
-<p>　　建隆<measure quantity="3" unit="years">
+<p>
+<name key="null" type="null">　　建</name>隆<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>春<pc>，</pc>延<pc>、</pc>寧<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>雪盈尺<pc>，</pc>溝洫復冰<pc>，</pc>草木不華<pc>。</pc>丹州雪<num value="2">二</num>尺<pc>。</pc>
 </p>
@@ -1294,12 +1295,16 @@
 <num value="7">七</num>年</measure>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
-<pc>，</pc>易州雷<pc>，</pc>震死耀武軍士<num value="8">八</num>人<pc>。</pc>
+<pc>，</pc>易州雷<pc>，</pc>震死耀武軍士<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>邛州延貴鎮震死民費貴及其子<num value="4">四</num>人<pc>。</pc>
+<pc>，</pc>邛州延貴鎮震死民費貴及其子<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1505,7 +1510,8 @@
 <pc>，</pc>雷<pc>。</pc>
 <measure quantity="16" unit="years">
 <num value="16">十六</num>年</measure>
-<pc>，</pc>溫州大雷電<pc>，</pc>震死<num value="6">六</num>人于龍翔寺<pc>。</pc>
+<pc>，</pc>溫州大雷電<pc>，</pc>震死<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>于龍翔寺<pc>。</pc>
 <measure quantity="18" unit="years">
 <num value="18">十八</num>年</measure>閏月<num value="11">甲戌</num>
 <pc>，</pc>雷<pc>。</pc>
@@ -1520,7 +1526,9 @@
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="8">辛未</num>
-<pc>，</pc>南安軍大雷電<pc>，</pc>大庾縣震死<num value="4">四</num>人<pc>。</pc>
+<pc>，</pc>南安軍大雷電<pc>，</pc>大庾縣震死<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>。</pc>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <num value="8">辛未</num>夜<pc>，</pc>震雷<pc>。</pc>
@@ -2985,7 +2993,9 @@
 <num value="25">二十五</num>年</measure>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
-<pc>，</pc>湖口縣赤龍橫水中如山<pc>，</pc>寒風怒濤<pc>，</pc>覆舟數<num value="10">十</num>艘<pc>，</pc>士卒溺者數<num value="10">十</num>人<pc>。</pc>
+<pc>，</pc>湖口縣赤龍橫水中如山<pc>，</pc>寒風怒濤<pc>，</pc>覆舟數<num value="10">十</num>艘<pc>，</pc>士卒溺者數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>。</pc>
 <measure quantity="30" unit="years">
 <num value="30">三十</num>年</measure>春<pc>，</pc>宜黃縣大蛇見於丞治<pc>，</pc>長<num value="2">二</num>丈<pc>。</pc>捕之縱數里外<pc>，</pc>俄復至者數<num value="4">四</num>
 <pc>。</pc>
@@ -3266,7 +3276,9 @@
 <div>
 <p>　　宣和<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>都城有賣青果男子<pc>，</pc>孕而生子<pc>，</pc>蓐母不能收<pc>，</pc>易<num value="7">七</num>人<pc>，</pc>始免而逃去<pc>。</pc>豐樂樓酒保朱氏子之妻<pc>，</pc>可<num value="40">四十</num>余<pc>，</pc>楚州人<pc>，</pc>忽生髭<pc>，</pc>長僅<num value="42">六七</num>寸<pc>，</pc>疏秀而美<pc>，</pc>宛然<num value="1">一</num>男子<pc>，</pc>特詔度爲女道士<pc>。</pc>
+<pc>，</pc>都城有賣青果男子<pc>，</pc>孕而生子<pc>，</pc>蓐母不能收<pc>，</pc>易<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>，</pc>始免而逃去<pc>。</pc>豐樂樓酒保朱氏子之妻<pc>，</pc>可<num value="40">四十</num>余<pc>，</pc>楚州人<pc>，</pc>忽生髭<pc>，</pc>長僅<num value="42">六七</num>寸<pc>，</pc>疏秀而美<pc>，</pc>宛然<num value="1">一</num>男子<pc>，</pc>特詔度爲女道士<pc>。</pc>
 </p>
 </div>
 <div>
@@ -3380,7 +3392,8 @@
 <div>
 <p>　　紹興元年<measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
-<pc>，</pc>浙西大疫<pc>，</pc>平江府以北<pc>，</pc>流屍無算<pc>。</pc>秋冬<pc>，</pc>紹興府連年大疫<pc>，</pc>官募人能服粥藥之勞者<pc>，</pc>活及<num value="100">百</num>人者度爲僧<pc>。</pc>
+<pc>，</pc>浙西大疫<pc>，</pc>平江府以北<pc>，</pc>流屍無算<pc>。</pc>秋冬<pc>，</pc>紹興府連年大疫<pc>，</pc>官募人能服粥藥之勞者<pc>，</pc>活及<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>者度爲僧<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <measure quantity="2" unit="months">
@@ -3425,7 +3438,9 @@
 </div>
 <div>
 <p>　　紹興<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<pc>，</pc>涪州疫死數<num value="1000">千</num>人<pc>。</pc>
+<num value="2">二</num>年</measure>春<pc>，</pc>涪州疫死數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>資<pc>、</pc>榮<measure quantity="2" unit="prefectures">
@@ -3455,7 +3470,8 @@
 </p>
 </div>
 <div>
-<p>　　嘉定元年夏<pc>，</pc>淮甸大疫<pc>，</pc>官募掩骼及<num value="200">二百</num>人者度爲僧<pc>。</pc>是歲<pc>，</pc>浙民亦疫<pc>。</pc>
+<p>　　嘉定元年夏<pc>，</pc>淮甸大疫<pc>，</pc>官募掩骼及<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>者度爲僧<pc>。</pc>是歲<pc>，</pc>浙民亦疫<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>夏<pc>，</pc>都民疫死甚衆<pc>。</pc>淮民流江南者饑與暑並<pc>，</pc>多疫死<pc>。</pc>
 <measure quantity="3" unit="years">

@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="32">
 <div>
-<p>　　<measure quantity="31" unit="years">
-<num value="31">三十一</num>年</measure>春<measure quantity="1" unit="month">
+<p>
+<name key="null" type="null">　　三</name>十一年春<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -72,7 +72,9 @@
 <num value="16">己卯</num>
 <pc>，</pc>官勳臣魏仁浦<pc>、</pc>馬知節<pc>、</pc>
 <persName>余靖</persName>
-<pc>、</pc>寇瑊諸孫各<num value="1">一</num>人<pc>。</pc>選文臣宗室主西<pc>、</pc>南外兩宗司<pc>。</pc>
+<pc>、</pc>寇瑊諸孫各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>選文臣宗室主西<pc>、</pc>南外兩宗司<pc>。</pc>
 <num value="17">庚辰</num>
 <pc>，</pc>禁兩淮抑民附種<pc>。</pc>以利州西路御前諸軍都統制吳拱知襄陽府<pc>，</pc>部兵<num value="3000">三千</num>戍之<pc>。</pc>
 <num value="19">壬午</num>
@@ -82,7 +84,9 @@
 <num value="27">庚寅</num>
 <pc>，</pc>以陳康伯為尚書左僕射<pc>，</pc>朱倬右僕射<pc>，</pc>並同中書門下平章事<pc>。</pc>
 <num value="28">辛卯</num>
-<pc>，</pc>復李光左中大夫<pc>，</pc>官其子孫<num value="2">二</num>人<pc>。</pc>
+<pc>，</pc>復李光左中大夫<pc>，</pc>官其子孫<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <num value="29">壬辰</num>
 <pc>，</pc>地震<pc>。</pc>
 <num value="37">庚子</num>
@@ -121,7 +125,8 @@
 <num value="32">乙未</num>
 <pc>，</pc>以吳璘為<num value="4">四</num>川宣撫使<pc>，</pc>仍命制置使王剛中同處置軍事<pc>。</pc>
 <num value="33">丙申</num>
-<pc>，</pc>命主管馬軍司成閔部兵<num value="30000">三萬</num>人戍鄂州<pc>。</pc>
+<pc>，</pc>命主管馬軍司成閔部兵<measure quantity="30000" unit="people">
+<num value="30000">三萬</num>人</measure>戍鄂州<pc>。</pc>
 <num value="37">庚子</num>
 <pc>，</pc>命兩浙<pc>、</pc>江<pc>、</pc>湖<pc>、</pc>福建諸州起禁軍弓弩手<pc>，</pc>部送明州<pc>、</pc>平江府<pc>、</pc>江<pc>、</pc>池<pc>、</pc>太平<measure quantity="3" unit="prefectures">
 <num value="3">三</num>州</measure>
@@ -137,7 +142,9 @@
 <pc>，</pc>劉錡乞即日移軍渡江<pc>，</pc>詔錡進發<pc>，</pc>騎兵屯<placeName>揚州</placeName>
 <pc>。</pc>
 <num value="44">丁未</num>
-<pc>，</pc>出宮女<num value="390">三百九十</num>人<pc>。</pc>蠲臨安府禁軍闕額錢<measure quantity="5" unit="years">
+<pc>，</pc>出宮女<measure quantity="390" unit="people">
+<num value="390">三百九十</num>人</measure>
+<pc>。</pc>蠲臨安府禁軍闕額錢<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>。</pc>
 <num value="22">乙酉</num>
@@ -271,7 +278,8 @@
 <num value="45">戊申</num>
 <pc>，</pc>王權聞金兵大至<pc>，</pc>自廬州引兵遁<pc>，</pc>屯昭關<pc>。</pc>
 <num value="46">己酉</num>
-<pc>，</pc>知均州武钜招納北界杜海等<num value="20000">二萬</num>人來歸<pc>。</pc>
+<pc>，</pc>知均州武钜招納北界杜海等<measure quantity="20000" unit="people">
+<num value="20000">二萬</num>人</measure>來歸<pc>。</pc>
 <num value="47">庚戌</num>
 <pc>，</pc>復置機速房<pc>。</pc>知廬州龔濤聞金兵將至<pc>，</pc>棄城走<pc>。</pc>
 <num value="48">辛亥</num>
@@ -316,7 +324,9 @@
 <num value="2">乙丑</num>
 <pc>，</pc>金人趨瓜州<pc>，</pc>劉錡遣統領員琦拒之于皂角林<pc>，</pc>大敗之<pc>，</pc>斬其統軍高景山<pc>。</pc>
 <num value="3">丙寅</num>
-<pc>，</pc>李寶遇金舟師於膠西縣陳家島<pc>，</pc>大敗之<pc>，</pc>斬完顏鄭家奴等<num value="5">五</num>人<pc>。</pc>劉錡還鎮江府<pc>。</pc>趙撙復蔡州<pc>，</pc>斬其總管楊寓<pc>。</pc>分禦營宿衛為<num value="5">五</num>軍<pc>。</pc>金人攻秦州<pc>，</pc>向起<pc>、</pc>吳挺擊卻之<pc>。</pc>
+<pc>，</pc>李寶遇金舟師於膠西縣陳家島<pc>，</pc>大敗之<pc>，</pc>斬完顏鄭家奴等<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>。</pc>劉錡還鎮江府<pc>。</pc>趙撙復蔡州<pc>，</pc>斬其總管楊寓<pc>。</pc>分禦營宿衛為<num value="5">五</num>軍<pc>。</pc>金人攻秦州<pc>，</pc>向起<pc>、</pc>吳挺擊卻之<pc>。</pc>
 <num value="4">丁卯</num>
 <pc>，</pc>葉義問至鎮江<pc>。</pc>詔起江<pc>、</pc>浙<pc>、</pc>福建諸州強丁赴江上諸軍<pc>。</pc>武钜復虢州盧氏縣<pc>，</pc>任天錫復朱陽縣<pc>。</pc>
 <num value="5">戊辰</num>

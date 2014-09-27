@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="188">
 <div>
-<p>　　熙寧以後之制</p>
+<p>
+<name key="null" type="null">　　熙</name>寧以後之制</p>
 </div>
 <div>
 <p>　　騎軍</p>
@@ -495,7 +496,11 @@
 </p>
 </div>
 <div>
-<p>　　侍衛司侍衛親軍馬步軍都指揮使<pc>、</pc>副都指揮使<pc>、</pc>都<term>虞候</term>各<num value="1">一</num>人<pc>。</pc>馬軍都指揮使<pc>、</pc>副都指揮使<pc>、</pc>都<term>虞候</term>各<num value="1">一</num>人<pc>，</pc>步軍亦如之<pc>。</pc>自馬步軍都<term>虞候</term>以上<pc>，</pc>其員全闕<pc>，</pc>即馬軍<pc>、</pc>步軍都指揮使等各兼領其務<pc>。</pc>馬步軍有龍衛<pc>、</pc>神衛左右<num value="4">四</num>廂都指揮使<pc>，</pc>龍衛<pc>、</pc>神衛左右廂各有都指揮使<pc>，</pc>每軍有都指揮使<pc>、</pc>都<term>虞候</term>
+<p>　　侍衛司侍衛親軍馬步軍都指揮使<pc>、</pc>副都指揮使<pc>、</pc>都<term>虞候</term>各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>馬軍都指揮使<pc>、</pc>副都指揮使<pc>、</pc>都<term>虞候</term>各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>步軍亦如之<pc>。</pc>自馬步軍都<term>虞候</term>以上<pc>，</pc>其員全闕<pc>，</pc>即馬軍<pc>、</pc>步軍都指揮使等各兼領其務<pc>。</pc>馬步軍有龍衛<pc>、</pc>神衛左右<num value="4">四</num>廂都指揮使<pc>，</pc>龍衛<pc>、</pc>神衛左右廂各有都指揮使<pc>，</pc>每軍有都指揮使<pc>、</pc>都<term>虞候</term>
 <pc>，</pc>每指揮有指揮使<pc>、</pc>副指揮使<pc>，</pc>余如殿前司之制<pc>。</pc>其所領騎步軍之額如左<pc>。</pc>
 </p>
 </div>
@@ -928,7 +933,9 @@
 <pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>涇原路以新砦所減蕃落隸在州蕃落<pc>，</pc>定額以<num value="32000">三萬二千</num>人<pc>。</pc>
+<pc>，</pc>涇原路以新砦所減蕃落隸在州蕃落<pc>，</pc>定額以<measure quantity="32000" unit="people">
+<num value="32000">三萬二千</num>人</measure>
+<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>隴州添置招馬軍蕃落<num value="1">一</num>
@@ -948,7 +955,8 @@
 <pc>。</pc>紹聖<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>詔<pc>：</pc>陝路增置馬軍<num value="10">十</num>
-<pc>，</pc>各<num value="500">五百</num>人爲額<pc>，</pc>於永興<pc>、</pc>河中<pc>、</pc>鳳翔<pc>、</pc>同<pc>、</pc>華各置<num value="2">二</num>
+<pc>，</pc>各<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>爲額<pc>，</pc>於永興<pc>、</pc>河中<pc>、</pc>鳳翔<pc>、</pc>同<pc>、</pc>華各置<num value="2">二</num>
 <pc>。</pc>元符元年<pc>，</pc>詔<pc>：</pc>涇原路新築西安州置馬軍<num value="1">一</num>
 <pc>，</pc>天都<pc>、</pc>臨羌砦各置馬軍<num value="1">一</num>
 <pc>。</pc>
@@ -997,9 +1005,13 @@
 <div>
 <p>　　崇捷崇寧<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>詔於京東<pc>、</pc>京西<pc>、</pc>河北<pc>、</pc>河東<pc>、</pc>開封府界創置馬步軍<num value="50000">五萬</num>人<pc>，</pc>計<num value="107">一百七</num>指揮<pc>。</pc>馬軍<num value="35">三十五</num>
+<pc>，</pc>詔於京東<pc>、</pc>京西<pc>、</pc>河北<pc>、</pc>河東<pc>、</pc>開封府界創置馬步軍<measure quantity="50000" unit="people">
+<num value="50000">五萬</num>人</measure>
+<pc>，</pc>計<num value="107">一百七</num>指揮<pc>。</pc>馬軍<num value="35">三十五</num>
 <pc>，</pc>步軍<num value="72">七十二</num>
-<pc>，</pc>合<num value="36000">三萬六千</num>人<pc>。</pc>馬軍以崇捷<pc>、</pc>崇銳爲名<pc>，</pc>步軍以崇武<pc>、</pc>崇威爲名<pc>。</pc>
+<pc>，</pc>合<measure quantity="36000" unit="people">
+<num value="36000">三萬六千</num>人</measure>
+<pc>。</pc>馬軍以崇捷<pc>、</pc>崇銳爲名<pc>，</pc>步軍以崇武<pc>、</pc>崇威爲名<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1602,7 +1614,8 @@
 <pc>。</pc>熙寧<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>衡增置<num value="1">一</num>
-<pc>，</pc>吉增置<num value="300">三百</num>人及置部軍雄略<num value="1">一</num>
+<pc>，</pc>吉增置<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>及置部軍雄略<num value="1">一</num>
 <pc>。</pc>崇甯<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>荊湖南路置<num value="4">四</num>
@@ -1665,9 +1678,12 @@
 <div>
 <p>　　敢勇元祐<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>詔河東<pc>、</pc>陝西路諸帥府募敢勇<pc>，</pc>以<num value="100">百</num>人爲額<pc>。</pc>宣和<measure quantity="4" unit="years">
+<pc>，</pc>詔河東<pc>、</pc>陝西路諸帥府募敢勇<pc>，</pc>以<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>爲額<pc>。</pc>宣和<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>詔越州招到敢勇<num value="300">三百</num>人<pc>，</pc>撥充兩浙提刑司捉殺差使<pc>。</pc>
+<pc>，</pc>詔越州招到敢勇<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>，</pc>撥充兩浙提刑司捉殺差使<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1678,13 +1694,16 @@
 <num value="3">三</num>年</measure>
 <pc>，</pc>詔添置廣固兵<num value="4">四</num>指揮<pc>，</pc>以備京城工役<pc>。</pc>政和<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>詔于<num value="4">四</num>指揮各增置<num value="500">五百</num>人入額<pc>，</pc>自今更勿差客軍<pc>。</pc>
+<pc>，</pc>詔于<num value="4">四</num>指揮各增置<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>入額<pc>，</pc>自今更勿差客軍<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　通濟政和<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>詔增置通濟兵士<num value="2000">二千</num>人<pc>，</pc>牽挽御前綱運<pc>。</pc>自崇武至此<num value="6">六</num>軍<pc>，</pc>中興後無<pc>。</pc>
+<pc>，</pc>詔增置通濟兵士<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>
+<pc>，</pc>牽挽御前綱運<pc>。</pc>自崇武至此<num value="6">六</num>軍<pc>，</pc>中興後無<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1702,7 +1721,8 @@
 </p>
 </div>
 <div>
-<p>　　振華<num value="500">五百</num>人爲<num value="1">一</num>軍<pc>。</pc>
+<p>　　振華<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>爲<num value="1">一</num>軍<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1741,9 +1761,13 @@
 </p>
 </div>
 <div>
-<p>　　備軍<num value="1960">一千九百六十</num>人<pc>。</pc>熙寧<measure quantity="2" unit="years">
+<p>　　備軍<measure quantity="1960" unit="people">
+<num value="1960">一千九百六十</num>人</measure>
+<pc>。</pc>熙寧<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>罷<num value="960">九百六十</num>人<pc>。</pc>
+<pc>，</pc>罷<measure quantity="960" unit="people">
+<num value="960">九百六十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1753,7 +1777,8 @@
 <p>　　親從官指揮<num value="4">四</num>
 <pc>。</pc>政和<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>創置第<num value="5">五</num>指揮<pc>，</pc>以<num value="700">七百</num>人爲額<pc>。</pc>
+<pc>，</pc>創置第<num value="5">五</num>指揮<pc>，</pc>以<measure quantity="700" unit="people">
+<num value="700">七百</num>人</measure>爲額<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1763,27 +1788,39 @@
 <pc>，</pc>守奉景靈宮<pc>。</pc>政和<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>西京大內官<num value="1">一</num>
-<pc>，</pc>以<num value="550">五百五十</num>人爲額<pc>。</pc>又增置內園司<num value="1">一</num>
-<pc>，</pc>以<num value="510">五百一十</num>人爲額<pc>。</pc>
+<pc>，</pc>以<measure quantity="550" unit="people">
+<num value="550">五百五十</num>人</measure>爲額<pc>。</pc>又增置內園司<num value="1">一</num>
+<pc>，</pc>以<measure quantity="510" unit="people">
+<num value="510">五百一十</num>人</measure>爲額<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　入內院子<num value="500">五百</num>人<pc>。</pc>中興後<pc>，</pc>
-<num value="200">二百</num>人<pc>。</pc>
+<p>　　入內院子<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>
+<pc>。</pc>中興後<pc>，</pc>
+<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　快行<pc>、</pc>長行中興後置<pc>，</pc>
-<num value="100">一百</num>人<pc>。</pc>
+<measure quantity="100" unit="people">
+<num value="100">一百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　司圊<num value="3">三</num>人<pc>。</pc>
+<p>　　司圊<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　曹司中興置<pc>，</pc>
-<num value="30">三十</num>人<pc>。</pc>
+<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1803,13 +1840,17 @@
 <pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
-<pc>，</pc>又詔增置馬軍<num value="13">十三</num>指揮<pc>，</pc>分爲京東<pc>、</pc>西兩路<pc>。</pc>又募教閱忠果<num value="10">十</num>指揮<pc>，</pc>在京西<pc>，</pc>額各<num value="500">五百</num>人<pc>，</pc>其<num value="6">六</num>在唐<pc>、</pc>鄧<pc>，</pc>其<num value="4">四</num>在蔡<pc>、</pc>汝<pc>。</pc>
+<pc>，</pc>又詔增置馬軍<num value="13">十三</num>指揮<pc>，</pc>分爲京東<pc>、</pc>西兩路<pc>。</pc>又募教閱忠果<num value="10">十</num>指揮<pc>，</pc>在京西<pc>，</pc>額各<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>
+<pc>，</pc>其<num value="6">六</num>在唐<pc>、</pc>鄧<pc>，</pc>其<num value="4">四</num>在蔡<pc>、</pc>汝<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　元豐<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>又增置土兵勇捷兩指揮于京西<pc>，</pc>額各<num value="400">四百</num>人<pc>，</pc>唐州方城爲右第<num value="11">十一</num>
+<pc>，</pc>又增置土兵勇捷兩指揮于京西<pc>，</pc>額各<measure quantity="400" unit="people">
+<num value="400">四百</num>人</measure>
+<pc>，</pc>唐州方城爲右第<num value="11">十一</num>
 <pc>，</pc>汝州襄城爲左第<num value="12">十二</num>
 <pc>。</pc>凡馬軍<num value="13">十三</num>指揮<pc>，</pc>忠果及土軍共<num value="12">十二</num>指揮<pc>。</pc>
 <measure quantity="4" unit="years">
@@ -1831,7 +1872,13 @@
 </p>
 </div>
 <div>
-<p>　　總天下爲<num value="92">九十二</num>將<pc>，</pc>而鄜延<num value="5">五</num>路又有漢蕃弓箭手<pc>，</pc>亦各附諸將而分隸焉<pc>。</pc>凡諸路將各置副<num value="1">一</num>人<pc>，</pc>東南兵<num value="3000">三千</num>人以下唯置單將<pc>。</pc>凡將<pc>、</pc>副皆選內殿崇班以上<pc>、</pc>嘗曆戰陳<pc>、</pc>親民者充<pc>，</pc>且詔監司奏舉<pc>。</pc>又各以所將兵多寡<pc>，</pc>置部將<pc>、</pc>隊將<pc>、</pc>押隊使臣各有差<pc>。</pc>又置訓練官次諸將佐<pc>。</pc>春秋都試<pc>，</pc>擇武力士<pc>，</pc>凡<num value="1000">千</num>人選<num value="10">十</num>人<pc>，</pc>皆以名聞<pc>，</pc>而待旨解發<pc>，</pc>其願留鄉里者勿強遣<pc>。</pc>此將兵之法也<pc>。</pc>
+<p>　　總天下爲<num value="92">九十二</num>將<pc>，</pc>而鄜延<num value="5">五</num>路又有漢蕃弓箭手<pc>，</pc>亦各附諸將而分隸焉<pc>。</pc>凡諸路將各置副<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>東南兵<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>以下唯置單將<pc>。</pc>凡將<pc>、</pc>副皆選內殿崇班以上<pc>、</pc>嘗曆戰陳<pc>、</pc>親民者充<pc>，</pc>且詔監司奏舉<pc>。</pc>又各以所將兵多寡<pc>，</pc>置部將<pc>、</pc>隊將<pc>、</pc>押隊使臣各有差<pc>。</pc>又置訓練官次諸將佐<pc>。</pc>春秋都試<pc>，</pc>擇武力士<pc>，</pc>凡<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>選<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>皆以名聞<pc>，</pc>而待旨解發<pc>，</pc>其願留鄉里者勿強遣<pc>。</pc>此將兵之法也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1848,7 +1895,9 @@
 <p>　　元祐元年<pc>，</pc>司馬光言<pc>：</pc>
 <pc>「</pc>
 <quote>近歲災傷<pc>，</pc>盜賊頗多<pc>，</pc>州郡全無武備<pc>。</pc>長吏侍衛單寡<pc>，</pc>禁旅盡屬將官<pc>，</pc>多與州郡爭衡<pc>，</pc>長吏勢力遠出其下<pc>。</pc>
-<num value="1">萬一</num>有李順<pc>、</pc>王倫<pc>、</pc>王均<pc>、</pc>王則之寇乘間竊發<pc>，</pc>攻陷郡縣<pc>，</pc>豈不爲朝廷憂<pc>！</pc>祖宗以來<pc>，</pc>諸軍少曾在營<pc>，</pc>常分番出戍<pc>。</pc>蓋欲使之勞筋骨<pc>，</pc>知艱難<pc>，</pc>輕去其家<pc>，</pc>習知山川險阻也<pc>。</pc>自置將以來<pc>，</pc>惟是全將起發<pc>，</pc>然後與將官偕行<pc>，</pc>其餘常在本營<pc>，</pc>飲食嬉游<pc>，</pc>養成驕惰<pc>，</pc>歲月滋久<pc>，</pc>不可復用<pc>。</pc>又每將下各有部隊將<pc>、</pc>訓練官等<num value="20">一二十</num>人<pc>，</pc>而諸州又自有總管<pc>、</pc>鈐轄<pc>、</pc>都監<pc>、</pc>監押<pc>，</pc>設官重復<pc>，</pc>虛破廩祿<pc>。</pc>知兵者皆知其非<pc>。</pc>臣愚<pc>，</pc>欲乞盡罷諸路將官<pc>，</pc>其禁軍各委本州長吏與總管<pc>、</pc>鈐轄<pc>、</pc>都監<pc>、</pc>監押等<pc>，</pc>如未置將已前<pc>，</pc>使州郡平居武備有餘<pc>，</pc>然後緩急可責以守死<pc>。</pc>
+<num value="1">萬一</num>有李順<pc>、</pc>王倫<pc>、</pc>王均<pc>、</pc>王則之寇乘間竊發<pc>，</pc>攻陷郡縣<pc>，</pc>豈不爲朝廷憂<pc>！</pc>祖宗以來<pc>，</pc>諸軍少曾在營<pc>，</pc>常分番出戍<pc>。</pc>蓋欲使之勞筋骨<pc>，</pc>知艱難<pc>，</pc>輕去其家<pc>，</pc>習知山川險阻也<pc>。</pc>自置將以來<pc>，</pc>惟是全將起發<pc>，</pc>然後與將官偕行<pc>，</pc>其餘常在本營<pc>，</pc>飲食嬉游<pc>，</pc>養成驕惰<pc>，</pc>歲月滋久<pc>，</pc>不可復用<pc>。</pc>又每將下各有部隊將<pc>、</pc>訓練官等<measure quantity="20" unit="people">
+<num value="20">一二十</num>人</measure>
+<pc>，</pc>而諸州又自有總管<pc>、</pc>鈐轄<pc>、</pc>都監<pc>、</pc>監押<pc>，</pc>設官重復<pc>，</pc>虛破廩祿<pc>。</pc>知兵者皆知其非<pc>。</pc>臣愚<pc>，</pc>欲乞盡罷諸路將官<pc>，</pc>其禁軍各委本州長吏與總管<pc>、</pc>鈐轄<pc>、</pc>都監<pc>、</pc>監押等<pc>，</pc>如未置將已前<pc>，</pc>使州郡平居武備有餘<pc>，</pc>然後緩急可責以守死<pc>。</pc>
 </quote>
 <pc>」</pc>
 </p>
@@ -1985,7 +2034,9 @@
 <p>　　興元都統司屯駐合州軍<pc>、</pc>沔州乾道<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>
-<num value="300">三百</num>人<pc>。</pc>
+<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1994,67 +2045,97 @@
 </div>
 <div>
 <p>　　明州水軍紹興置<pc>。</pc>乾道元年<pc>，</pc>
-<num value="2000">二千</num>人<pc>，</pc>分左<pc>、</pc>右兩將<pc>。</pc>
+<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>
+<pc>，</pc>分左<pc>、</pc>右兩將<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　福州荻蘆<pc>、</pc>延祥砦紹興置<pc>，</pc>
-<num value="50">百五十</num>人<pc>。</pc>乾道<measure quantity="7" unit="years">
-<num value="7">七</num>年</measure>添招<pc>。</pc>凡<num value="5000">五千</num>人<pc>。</pc>
+<measure quantity="50" unit="people">
+<num value="50">百五十</num>人</measure>
+<pc>。</pc>乾道<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>添招<pc>。</pc>凡<measure quantity="5000" unit="people">
+<num value="5000">五千</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　鎮江駐紮御前水軍乾道<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>招<num value="300">三百</num>人<pc>，</pc>淳熙<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>增招<num value="500">千五百</num>人<pc>。</pc>
+<pc>，</pc>招<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>，</pc>淳熙<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>增招<measure quantity="500" unit="people">
+<num value="500">千五百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　沿海水軍乾道<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>置<pc>，</pc>
-<num value="1000">一千</num>人<pc>。</pc>
+<measure quantity="1000" unit="people">
+<num value="1000">一千</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　潮州水軍乾道<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>置<pc>，</pc>
-<num value="200">二百</num>人<pc>。</pc>
+<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　江陰水軍乾道<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>置<pc>，</pc>
-<num value="300">三百</num>人<pc>。</pc>
+<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　廣東水軍乾道<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>增至<num value="2000">二千</num>人<pc>。</pc>
+<pc>，</pc>增至<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　平江許浦水軍乾道<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>
-<num value="7000">七千</num>人<pc>，</pc>淳熙<measure quantity="5" unit="years">
+<measure quantity="7000" unit="people">
+<num value="7000">七千</num>人</measure>
+<pc>，</pc>淳熙<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>增<num value="500">五百</num>人<pc>。</pc>
+<pc>，</pc>增<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　江州水軍淳熙<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>招<num value="1000">一千</num>人<pc>。</pc>
+<pc>，</pc>招<measure quantity="1000" unit="people">
+<num value="1000">一千</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　池州都統司水軍淳熙元年<num value="1000">千</num>人<pc>，</pc>嘉定中增至<num value="3000">三千</num>人<pc>。</pc>
+<p>　　池州都統司水軍淳熙元年<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>嘉定中增至<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　漳州水軍紹熙元年<pc>，</pc>漳<pc>、</pc>泉共<num value="600">六百</num>人<pc>。</pc>
+<p>　　漳州水軍紹熙元年<pc>，</pc>漳<pc>、</pc>泉共<measure quantity="600" unit="people">
+<num value="600">六百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2063,7 +2144,9 @@
 </div>
 <div>
 <p>　　殿前澉浦水軍開禧元年<pc>，</pc>
-<num value="1500">一千五百</num>人<pc>。</pc>
+<measure quantity="1500" unit="people">
+<num value="1500">一千五百</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2076,7 +2159,9 @@
 <p>　　太平州採石駐紮御前水軍嘉定<measure quantity="14" unit="years">
 <num value="14">十四</num>年</measure>
 <pc>，</pc>
-<num value="5000">五千</num>人<pc>。</pc>
+<measure quantity="5000" unit="people">
+<num value="5000">五千</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -2095,12 +2180,16 @@
 <div>
 <p>　　池州清溪雁汊控海水軍建炎<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>置<pc>，</pc>
-<num value="50">百五十</num>人<pc>。</pc>
+<measure quantity="50" unit="people">
+<num value="50">百五十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　兩淮水軍紹興元年置<pc>，</pc>
-<num value="2000">二千</num>人<pc>。</pc>隆興元年<pc>，</pc>詔諸州斷配海賊刺隸<pc>。</pc>
+<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>
+<pc>。</pc>隆興元年<pc>，</pc>詔諸州斷配海賊刺隸<pc>。</pc>
 </p>
 </div>
 </div>

@@ -23,12 +23,15 @@
 <text>
 <body>
 <div>
-<p>刑 法<num value="3">三</num>天下疑獄<pc>，</pc>讞有不能決<pc>，</pc>則下兩制與大臣若臺諫雜議<pc>，</pc>視其事之大小<pc>，</pc>無常法<pc>，</pc>而有司建請論駮者<pc>，</pc>亦時有焉<pc>。</pc>端拱初<pc>，</pc>廣安軍 民安崇緒隸禁兵<pc>，</pc>訴繼母馮與父知逸離<pc>，</pc>今奪資產與己子<pc>。</pc>大理當崇緒訟母<pc>，</pc>罪死<pc>。</pc>太宗疑之<pc>，</pc>判大理張佖固執前斷<pc>，</pc>遂下臺省雜議<pc>。</pc>徐鉉議曰<pc>：</pc>
+<p>
+<name key="null" type="null">刑 法</name>
+<num value="3">三</num>天下疑獄<pc>，</pc>讞有不能決<pc>，</pc>則下兩制與大臣若臺諫雜議<pc>，</pc>視其事之大小<pc>，</pc>無常法<pc>，</pc>而有司建請論駮者<pc>，</pc>亦時有焉<pc>。</pc>端拱初<pc>，</pc>廣安軍 民安崇緒隸禁兵<pc>，</pc>訴繼母馮與父知逸離<pc>，</pc>今奪資產與己子<pc>。</pc>大理當崇緒訟母<pc>，</pc>罪死<pc>。</pc>太宗疑之<pc>，</pc>判大理張佖固執前斷<pc>，</pc>遂下臺省雜議<pc>。</pc>徐鉉議曰<pc>：</pc>
 <pc>「</pc>
 <quote>今第明其母馮嘗離<pc>，</pc>即須歸宗<pc>，</pc>否即崇緒準法處死<pc>。</pc>今詳案內不曾離異<pc>，</pc>其證有<num value="4">四</num>
 <pc>。</pc>况不孝之 刑<pc>，</pc>教之大者<pc>，</pc>宜依 刑 部<pc>、</pc>大理寺斷<pc>。</pc>
 </quote>
-<pc>」</pc>右僕射李昉等<num value="43">四十三</num>人議曰<pc>：</pc>
+<pc>」</pc>右僕射李昉等<measure quantity="43" unit="people">
+<num value="43">四十三</num>人</measure>議曰<pc>：</pc>
 <pc>「</pc>
 <quote>法寺定斷為不當<pc>。</pc>若以<num value="5">五</num>母皆同<pc>，</pc>即阿蒲雖賤<pc>，</pc>乃崇緒親母<pc>，</pc>崇緒特以田業為馮強占<pc>，</pc>親母衣食不給<pc>，</pc>所以論訴<pc>。</pc>若從法寺斷死<pc>，</pc>則知逸何辜絕嗣<pc>，</pc>阿蒲何地托身<pc>？</pc>臣等議<pc>：</pc>田產並歸崇緒<pc>，</pc>馮合與蒲同居<pc>，</pc>供侍終身<pc>。</pc>如是<pc>，</pc>則子有父業可守<pc>，</pc>馮終身不至乏養<pc>。</pc>所犯並準赦原<pc>。</pc>
 </quote>
@@ -44,7 +47,8 @@
 <quote>因犯殺傷而自首<pc>，</pc>得免所因之罪<pc>，</pc>仍從故殺傷法</quote>
 <pc>」</pc>
 <pc>，</pc>以謀為所因<pc>，</pc>當用按問欲舉條減<num value="2">二</num>等<pc>。</pc>刑 部定如審 刑<pc>、</pc>大理<pc>。</pc>時遵方召判大理<pc>，</pc>御史臺劾遵<pc>，</pc>而遵不伏<pc>，</pc>請下兩制議<pc>。</pc>乃令翰林學士司馬光<pc>、</pc>王安石同議<pc>，</pc>
-<num value="2">二</num>人議不同<pc>，</pc>遂各為奏<pc>。</pc>光議是 刑 部<pc>，</pc>安石議是遵<pc>，</pc>詔從安石所議<pc>。</pc>而御史中丞滕甫猶請再選官定議<pc>，</pc>御史錢顗請罷遵大理<pc>，</pc>詔送翰林學士呂公著韓維<pc>、</pc>知制誥錢公輔重定<pc>。</pc>公著等議如安石<pc>，</pc>制曰<pc>「</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>議不同<pc>，</pc>遂各為奏<pc>。</pc>光議是 刑 部<pc>，</pc>安石議是遵<pc>，</pc>詔從安石所議<pc>。</pc>而御史中丞滕甫猶請再選官定議<pc>，</pc>御史錢顗請罷遵大理<pc>，</pc>詔送翰林學士呂公著韓維<pc>、</pc>知制誥錢公輔重定<pc>。</pc>公著等議如安石<pc>，</pc>制曰<pc>「</pc>
 <quote>可</quote>
 <pc>」</pc>
 <pc>。</pc>於是法官齊恢<pc>、</pc>王師元<pc>、</pc>蔡冠卿等皆論奏公著等所議為不當<pc>。</pc>又詔安石與法官集議<pc>，</pc>反覆論難<pc>。</pc>明年<measure quantity="2" unit="months">
@@ -84,7 +88,9 @@
 <num value="3">三</num>年</measure>
 <pc>，</pc>中書上 刑 名未安者<num value="5">五</num>
 <pc>：</pc>其<num value="1">一</num>
-<pc>，</pc>歲斷死 刑 幾<num value="2000">二千</num>人<pc>，</pc>比前代殊多<pc>。</pc>如強劫盜並有死法<pc>，</pc>其間情狀輕重<pc>，</pc>有絕相遠者<pc>，</pc>使皆抵死<pc>，</pc>良亦可哀<pc>。</pc>若為從情輕之人別立 刑<pc>，</pc>如前代斬右趾之比<pc>，</pc>足以止惡而除害<pc>。</pc>禁軍非在邊防屯戍而逃者<pc>，</pc>亦可更寬首限<pc>，</pc>以收其勇力之効<pc>。</pc>其<num value="2">二</num>
+<pc>，</pc>歲斷死 刑 幾<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>
+<pc>，</pc>比前代殊多<pc>。</pc>如強劫盜並有死法<pc>，</pc>其間情狀輕重<pc>，</pc>有絕相遠者<pc>，</pc>使皆抵死<pc>，</pc>良亦可哀<pc>。</pc>若為從情輕之人別立 刑<pc>，</pc>如前代斬右趾之比<pc>，</pc>足以止惡而除害<pc>。</pc>禁軍非在邊防屯戍而逃者<pc>，</pc>亦可更寬首限<pc>，</pc>以收其勇力之効<pc>。</pc>其<num value="2">二</num>
 <pc>，</pc>徒<pc>、</pc>流折杖之法<pc>，</pc>禁網加密<pc>，</pc>良民偶有抵冒<pc>，</pc>致傷肌體<pc>，</pc>為終身之辱<pc>；</pc>愚頑之徒<pc>，</pc>雖<num value="1">一</num>時創痛<pc>，</pc>而終無愧恥<pc>。</pc>若使情理輕者復古居作之法<pc>，</pc>遇赦第減月日<pc>，</pc>使良善者知改過自新<pc>，</pc>凶頑者有所拘繫<pc>。</pc>其<num value="3">三</num>
 <pc>，</pc>刺配之法<num value="200">二百</num>餘條<pc>，</pc>其間情理輕者<pc>，</pc>亦可復古徒流移鄉之法<pc>，</pc>俟其再犯<pc>，</pc>然後決刺充軍<pc>。</pc>其配隸並減就本處<pc>，</pc>或與近地<pc>。</pc>凶頑之徒<pc>，</pc>自從舊法<pc>。</pc>編管之人<pc>，</pc>亦迭送他所<pc>，</pc>量立役作時限<pc>，</pc>無得 鉗<pc>。</pc>其<num value="4">四</num>
 <pc>，</pc>令州縣考察士民<pc>，</pc>有能孝悌力田為眾所知者<pc>，</pc>給帖付身<pc>。</pc>偶有犯令<pc>，</pc>情輕可恕者<pc>，</pc>特議贖罰<pc>；</pc>其不悛者<pc>，</pc>科決<pc>。</pc>其<num value="5">五</num>
@@ -97,7 +103,7 @@
 <pc>」</pc>議既上<pc>，</pc>帝問可否於執政<pc>，</pc>王安石<pc>、</pc>馮京互有論辨<pc>，</pc>迄不果行<pc>。</pc>樞密使文彥博亦上言<pc>：</pc>
 <pc>「</pc>
 <quote>唐末<pc>、</pc>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>
 <pc>，</pc>用重典以救時弊<pc>，</pc>故法律之外<pc>，</pc>徒<pc>、</pc>流或加至於死<pc>。</pc>國家承平<measure quantity="100" unit="years">
 <num value="100">百</num>年</measure>
@@ -128,12 +134,14 @@
 <pc>「</pc>
 <quote>審 刑 院<pc>、</pc>刑 部奏斷妻謀殺案問自首<pc>，</pc>變從故殺法<pc>，</pc>舉輕明重<pc>，</pc>斷入惡逆斬 刑<pc>。</pc>竊詳律意<pc>，</pc>妻謀殺夫<pc>，</pc>已殺<pc>，</pc>合入惡逆<pc>，</pc>以按問自首<pc>，</pc>變從故殺法<pc>，</pc>宜用妻毆夫死法定罪<pc>。</pc>且<num value="10">十</num>惡條<pc>，</pc>謀與故鬥殺夫<pc>，</pc>方入惡逆<pc>，</pc>若謀而未殺<pc>，</pc>止當不睦<pc>。</pc>既用舉輕明重<pc>，</pc>宜從謀而未殺法<pc>，</pc>依敕當決重杖處死<pc>，</pc>恐不可入惡逆斬 刑<pc>。</pc>
 </quote>
-<pc>」</pc>下審 刑 院<pc>、</pc>刑 部參詳<pc>，</pc>如清議<pc>。</pc>邵武軍奏讞<pc>，</pc>婦與人姦<pc>，</pc>謀殺其夫<pc>，</pc>已而夫醉歸<pc>，</pc>姦者自殺之<pc>。</pc>法寺當婦謀殺為從<pc>，</pc>而 刑 部郎中杜紘議婦罪應死<pc>。</pc>又興元府奏讞<pc>，</pc>梁懷吉往視出妻之病<pc>，</pc>因寄粟<pc>，</pc>其子輒取食之<pc>，</pc>懷吉毆其子死<pc>。</pc>法寺以 盜粟論<pc>，</pc>而當懷吉雜犯死罪<pc>，</pc>引赦原<pc>。</pc>而紘議出妻受寄粟<pc>，</pc>而其子輒費用<pc>，</pc>不入捕法<pc>。</pc>議既上<pc>，</pc>御史臺論紘議不當<pc>，</pc>詔罰金<pc>，</pc>仍展年磨勘<pc>。</pc>而侍郎崔台符以下<num value="3">三</num>人無所可否<pc>，</pc>亦罰金<pc>。</pc>
+<pc>」</pc>下審 刑 院<pc>、</pc>刑 部參詳<pc>，</pc>如清議<pc>。</pc>邵武軍奏讞<pc>，</pc>婦與人姦<pc>，</pc>謀殺其夫<pc>，</pc>已而夫醉歸<pc>，</pc>姦者自殺之<pc>。</pc>法寺當婦謀殺為從<pc>，</pc>而 刑 部郎中杜紘議婦罪應死<pc>。</pc>又興元府奏讞<pc>，</pc>梁懷吉往視出妻之病<pc>，</pc>因寄粟<pc>，</pc>其子輒取食之<pc>，</pc>懷吉毆其子死<pc>。</pc>法寺以 盜粟論<pc>，</pc>而當懷吉雜犯死罪<pc>，</pc>引赦原<pc>。</pc>而紘議出妻受寄粟<pc>，</pc>而其子輒費用<pc>，</pc>不入捕法<pc>。</pc>議既上<pc>，</pc>御史臺論紘議不當<pc>，</pc>詔罰金<pc>，</pc>仍展年磨勘<pc>。</pc>而侍郎崔台符以下<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>無所可否<pc>，</pc>亦罰金<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>尚書省言<pc>：</pc>
 <pc>「</pc>
-<quote>諸獲盜<pc>，</pc>有已經殺人<pc>，</pc>及元犯強姦<pc>、</pc>強盜貨命斷配之人<pc>，</pc>再犯捕獲<pc>，</pc>有司例用知人欲告<pc>、</pc>或按問自首減免法<pc>。</pc>且律文自首減等斷遣者<pc>，</pc>為其情非巨<pc>，</pc>有改過自新之心<pc>。</pc>至於姦<pc>、</pc>盜<pc>，</pc>與餘犯不同<pc>，</pc>難以例減<pc>。</pc>請強盜已殺人<pc>，</pc>?強姦或元犯強盜貸命<pc>，</pc>若持杖<num value="3">三</num>人以上<pc>，</pc>知人欲告<pc>、</pc>按問欲舉而自首<pc>，</pc>及因人首告應減者<pc>，</pc>並不在減等例<pc>。</pc>
+<quote>諸獲盜<pc>，</pc>有已經殺人<pc>，</pc>及元犯強姦<pc>、</pc>強盜貨命斷配之人<pc>，</pc>再犯捕獲<pc>，</pc>有司例用知人欲告<pc>、</pc>或按問自首減免法<pc>。</pc>且律文自首減等斷遣者<pc>，</pc>為其情非巨<pc>，</pc>有改過自新之心<pc>。</pc>至於姦<pc>、</pc>盜<pc>，</pc>與餘犯不同<pc>，</pc>難以例減<pc>。</pc>請強盜已殺人<pc>，</pc>?強姦或元犯強盜貸命<pc>，</pc>若持杖<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>以上<pc>，</pc>知人欲告<pc>、</pc>按問欲舉而自首<pc>，</pc>及因人首告應減者<pc>，</pc>並不在減等例<pc>。</pc>
 </quote>
 <pc>」</pc>初<pc>，</pc>王安石與司馬光爭議按問自首法<pc>，</pc>卒從安石議<pc>。</pc>至是<pc>，</pc>光為相<pc>，</pc>復申前議改焉<pc>。</pc>乃詔<pc>：</pc>
 <pc>「</pc>
@@ -157,10 +165,14 @@
 <pc>」</pc>元祐元年<pc>，</pc>純仁又言<pc>：</pc>
 <pc>「</pc>
 <quote>前歲<num value="4">四</num>方奏讞<pc>，</pc>大辟凡<num value="264">二百六十四</num>
-<pc>，</pc>死者止<num value="25">二十五</num>人<pc>，</pc>所活垂及<num value="9">九</num>分<pc>。</pc>自去年改法<pc>，</pc>至今未及<measure quantity="100" unit="days">
+<pc>，</pc>死者止<measure quantity="25" unit="people">
+<num value="25">二十五</num>人</measure>
+<pc>，</pc>所活垂及<num value="9">九</num>分<pc>。</pc>自去年改法<pc>，</pc>至今未及<measure quantity="100" unit="days">
 <num value="100">百</num>日</measure>
 <pc>，</pc>所奏按凡<num value="154">一百五十四</num>
-<pc>，</pc>死者乃<num value="57">五十七</num>人<pc>，</pc>所活纔及<num value="6">六</num>分已上<pc>。</pc>臣固知未改法前全活數多<pc>，</pc>其間必有曲貸<pc>，</pc>然猶不失『罪疑惟輕』之仁<pc>；</pc>自改法後<pc>，</pc>所活數少<pc>，</pc>其間必有濫 刑<pc>，</pc>則深虧『寧失不經』之義<pc>。</pc>請自今<num value="4">四</num>方奏大辟按<pc>，</pc>並令 刑 部<pc>、</pc>大理寺再行審覆<pc>，</pc>略具所犯及元奏因依<pc>，</pc>令執政取旨裁斷<pc>，</pc>或所奏不當<pc>，</pc>亦原其罪<pc>。</pc>如此則無 濫之獄<pc>。</pc>
+<pc>，</pc>死者乃<measure quantity="57" unit="people">
+<num value="57">五十七</num>人</measure>
+<pc>，</pc>所活纔及<num value="6">六</num>分已上<pc>。</pc>臣固知未改法前全活數多<pc>，</pc>其間必有曲貸<pc>，</pc>然猶不失『罪疑惟輕』之仁<pc>；</pc>自改法後<pc>，</pc>所活數少<pc>，</pc>其間必有濫 刑<pc>，</pc>則深虧『寧失不經』之義<pc>。</pc>請自今<num value="4">四</num>方奏大辟按<pc>，</pc>並令 刑 部<pc>、</pc>大理寺再行審覆<pc>，</pc>略具所犯及元奏因依<pc>，</pc>令執政取旨裁斷<pc>，</pc>或所奏不當<pc>，</pc>亦原其罪<pc>。</pc>如此則無 濫之獄<pc>。</pc>
 </quote>
 <pc>」</pc>又因尚書省言<pc>，</pc>遠方奏讞<pc>，</pc>待報淹繫<pc>，</pc>始令川<pc>、</pc>廣<pc>、</pc>福建<pc>、</pc>荊南路罪人<pc>，</pc>情輕法重當奏斷者<pc>，</pc>申安撫或鈐轄司酌情決斷乃奏<pc>。</pc>門下侍郎韓維言<pc>：</pc>
 <pc>「</pc>
@@ -182,7 +194,9 @@
 <pc>」</pc>從之<pc>。</pc>紹興初<pc>，</pc>州縣盜起<pc>，</pc>道不通<pc>，</pc>詔應奏裁者<pc>，</pc>權減降斷遣以聞<pc>。</pc>既而奏讞者多得輕貸<pc>，</pc>官無失入之虞<pc>，</pc>而吏有鬻獄之利<pc>，</pc>往往不應奏者<pc>，</pc>率奏之<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>乃詔大辟應奏者<pc>，</pc>提 刑 司具因依繳奏<pc>。</pc>宣州民葉全<num value="2">二</num>盜檀偕窖錢<pc>，</pc>偕令佃人阮授<pc>、</pc>阮捷殺全<num value="2">二</num>等<num value="5">五</num>人<pc>，</pc>棄屍水中<pc>，</pc>有司以<pc>「</pc>
+<pc>，</pc>乃詔大辟應奏者<pc>，</pc>提 刑 司具因依繳奏<pc>。</pc>宣州民葉全<num value="2">二</num>盜檀偕窖錢<pc>，</pc>偕令佃人阮授<pc>、</pc>阮捷殺全<num value="2">二</num>等<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>，</pc>棄屍水中<pc>，</pc>有司以<pc>「</pc>
 <quote>屍不經驗</quote>
 <pc>」</pc>奏<pc>。</pc>侍御史辛炳言偕係故殺<pc>，</pc>眾證分明<pc>，</pc>以近降法<pc>，</pc>不應奏<pc>。</pc>諸獄不當奏而奏者雖不論罪<pc>，</pc>今宣州觀望<pc>，</pc>欲併罪之<pc>。</pc>帝曰<pc>：</pc>
 <pc>「</pc>
@@ -230,7 +244,7 @@
 <pc>「</pc>
 <quote>若此者<pc>，</pc>雖有其名<pc>，</pc>無復役使<pc>。</pc>遇祠祭<pc>，</pc>供水火<pc>，</pc>則有本司供 官<pc>。</pc>望令大理依格斷遣<pc>。</pc>
 </quote>
-<pc>」</pc>於是並送作坊役之<pc>。</pc>太宗以國初諸方割據<pc>，</pc>沿<date>
+<pc>」</pc>於是並送作坊役之<pc>。</pc>太宗以國初諸方割據<pc>，</pc>沿<date when="null">
 <num value="5">五</num>代</date>之制<pc>，</pc>罪人率配隸西北邊<pc>，</pc>多亡投塞外<pc>，</pc>誘羌為寇<pc>，</pc>乃詔<pc>：</pc>
 <pc>「</pc>
 <quote>當徒者<pc>，</pc>勿復隸秦州<pc>、</pc>靈武<pc>、</pc>通遠軍及緣邊諸郡<pc>。</pc>
@@ -298,9 +312,11 @@
 <num value="6">六</num>年</measure>
 <pc>，</pc>審 刑 院言<pc>：</pc>
 <pc>「</pc>
-<quote>登州沙門砦配隸<pc>，</pc>以<num value="200">二百</num>人為額<pc>，</pc>餘則移置海外<pc>，</pc>非禁姦之意<pc>。</pc>
+<quote>登州沙門砦配隸<pc>，</pc>以<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>為額<pc>，</pc>餘則移置海外<pc>，</pc>非禁姦之意<pc>。</pc>
 </quote>
-<pc>」</pc>詔以<num value="300">三百</num>人為額<pc>。</pc>廣南轉運司言<pc>：</pc>
+<pc>」</pc>詔以<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>為額<pc>。</pc>廣南轉運司言<pc>：</pc>
 <pc>「</pc>
 <quote>春州瘴癘之地<pc>，</pc>配隸至者<num value="10">十</num>死<num value="72">八九</num>
 <pc>，</pc>願停配罪人<pc>。</pc>
@@ -309,7 +325,9 @@
 <pc>「</pc>
 <quote>應配沙門島者<pc>，</pc>許配春州<pc>，</pc>餘勿配<pc>。</pc>
 </quote>
-<pc>」</pc>既而諸配隸除凶盜外<pc>，</pc>少壯者並寘河州<pc>，</pc>止<num value="500">五百</num>人<pc>。</pc>初<pc>，</pc>神宗以流人去鄉邑<pc>，</pc>疾死於道<pc>，</pc>而護送禁卒<pc>，</pc>往來勞費<pc>，</pc>用張誠<num value="1">一</num>之議<pc>，</pc>隨所在配諸軍重役<pc>。</pc>後中丞黃履等言<pc>，</pc>罷之<pc>。</pc>凡犯盜<pc>，</pc>刺環於耳後<pc>：</pc>徒<pc>、</pc>流<pc>，</pc>方<pc>；</pc>杖<pc>，</pc>圓<pc>；</pc>
+<pc>」</pc>既而諸配隸除凶盜外<pc>，</pc>少壯者並寘河州<pc>，</pc>止<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>
+<pc>。</pc>初<pc>，</pc>神宗以流人去鄉邑<pc>，</pc>疾死於道<pc>，</pc>而護送禁卒<pc>，</pc>往來勞費<pc>，</pc>用張誠<num value="1">一</num>之議<pc>，</pc>隨所在配諸軍重役<pc>。</pc>後中丞黃履等言<pc>，</pc>罷之<pc>。</pc>凡犯盜<pc>，</pc>刺環於耳後<pc>：</pc>徒<pc>、</pc>流<pc>，</pc>方<pc>；</pc>杖<pc>，</pc>圓<pc>；</pc>
 <num value="3">三</num>犯杖<pc>，</pc>移於面<pc>。</pc>徑不過<num value="5">五</num>分<pc>。</pc>元祐<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>刑 部言<pc>：</pc>
@@ -373,15 +391,26 @@
 <pc>「</pc>
 <quote>獄者<pc>，</pc>民命之所繫也<pc>。</pc>比聞有司歲考天下之奏<pc>，</pc>而多瘐死<pc>。</pc>深惟獄吏並緣為姦<pc>，</pc>檢視不明<pc>，</pc>使吾元元橫罹其害<pc>。</pc>書不云乎<pc>：</pc>『與其殺不辜<pc>，</pc>寧失不經<pc>。</pc>』其具為令<pc>：</pc>應諸州軍巡司院所禁罪人<pc>，</pc>
 <measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>在獄病死及<num value="2">二</num>人<pc>，</pc>
-<num value="5">五</num>縣以上州歲死<num value="3">三</num>人<pc>，</pc>開封府司<pc>、</pc>軍巡歲死<num value="7">七</num>人<pc>，</pc>推吏<pc>、</pc>獄卒皆杖<num value="60">六十</num>
-<pc>，</pc>增<num value="1">一</num>人則加<num value="1">一</num>等<pc>，</pc>罪止杖<num value="100">一百</num>
+<num value="1">一</num>歲</measure>在獄病死及<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>
+<num value="5">五</num>縣以上州歲死<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>開封府司<pc>、</pc>軍巡歲死<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>，</pc>推吏<pc>、</pc>獄卒皆杖<num value="60">六十</num>
+<pc>，</pc>增<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>則加<num value="1">一</num>等<pc>，</pc>罪止杖<num value="100">一百</num>
 <pc>。</pc>典獄官如推獄<pc>，</pc>經兩犯即坐從違制<pc>。</pc>提點 刑 獄歲終會死者之數上之<pc>，</pc>中書檢察<pc>。</pc>死者過多<pc>，</pc>官吏雖已行罰<pc>，</pc>當更黜責<pc>。</pc>
 </quote>
 <pc>」</pc>未幾<pc>，</pc>復詔<pc>：</pc>
 <pc>「</pc>
-<quote>失入死罪<pc>，</pc>已決<num value="3">三</num>人<pc>，</pc>正官除名編管<pc>，</pc>貳者除名<pc>，</pc>次貳者免官勒停<pc>，</pc>吏配隸<num value="1000">千</num>里<pc>。</pc>
-<num value="2">二</num>人以下<pc>，</pc>視此有差<pc>。</pc>不以赦降<pc>、</pc>去官原免<pc>。</pc>未決<pc>，</pc>則比類遞降<num value="1">一</num>等<pc>；</pc>赦降<pc>、</pc>去官<pc>，</pc>又減<num value="1">一</num>等<pc>。</pc>令審 刑 院<pc>、</pc>刑 部斷議官<pc>，</pc>歲終具嘗失入徒罪<num value="5">五</num>人以上<pc>，</pc>京朝官展磨勘年<pc>，</pc>幕職<pc>、</pc>州縣官展考<pc>，</pc>或不與任滿指射差遣<pc>，</pc>或罷<pc>，</pc>仍即斷絕支賜<pc>。</pc>
+<quote>失入死罪<pc>，</pc>已決<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>正官除名編管<pc>，</pc>貳者除名<pc>，</pc>次貳者免官勒停<pc>，</pc>吏配隸<num value="1000">千</num>里<pc>。</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>以下<pc>，</pc>視此有差<pc>。</pc>不以赦降<pc>、</pc>去官原免<pc>。</pc>未決<pc>，</pc>則比類遞降<num value="1">一</num>等<pc>；</pc>赦降<pc>、</pc>去官<pc>，</pc>又減<num value="1">一</num>等<pc>。</pc>令審 刑 院<pc>、</pc>刑 部斷議官<pc>，</pc>歲終具嘗失入徒罪<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>以上<pc>，</pc>京朝官展磨勘年<pc>，</pc>幕職<pc>、</pc>州縣官展考<pc>，</pc>或不與任滿指射差遣<pc>，</pc>或罷<pc>，</pc>仍即斷絕支賜<pc>。</pc>
 </quote>
 <pc>」</pc>以前法未備<pc>，</pc>故有是詔<pc>。</pc>又嘗詔<pc>：</pc>
 <pc>「</pc>
@@ -389,7 +418,17 @@
 </quote>
 <pc>」</pc>帝以國初廢大理獄非是<pc>，</pc>元豐元年詔曰<pc>：</pc>
 <pc>「</pc>
-<quote>大理有獄尚矣<pc>。</pc>今中都官有所劾治<pc>，</pc>皆寓繫開封諸獄<pc>，</pc>囚既猥多<pc>，</pc>難於隔訊<pc>，</pc>盛夏疾疫<pc>，</pc>傳致瘐死<pc>，</pc>或主者異見<pc>，</pc>歲時不決<pc>，</pc>朕甚愍焉<pc>。</pc>其復大理獄<pc>，</pc>置卿<num value="1">一</num>人<pc>，</pc>少卿<num value="2">二</num>人<pc>，</pc>丞<num value="4">四</num>人<pc>，</pc>專主鞫訊<pc>；</pc>檢法官<num value="2">二</num>人<pc>，</pc>主簿<num value="1">一</num>人<pc>。</pc>應<num value="3">三</num>司<pc>、</pc>諸寺監吏犯杖<pc>、</pc>笞不俟追究者<pc>，</pc>聽即決<pc>，</pc>餘悉送大理獄<pc>。</pc>其應奏者<pc>，</pc>並令 刑 部<pc>、</pc>審 刑 院詳斷<pc>。</pc>應天下奏按亦上之<pc>。</pc>
+<quote>大理有獄尚矣<pc>。</pc>今中都官有所劾治<pc>，</pc>皆寓繫開封諸獄<pc>，</pc>囚既猥多<pc>，</pc>難於隔訊<pc>，</pc>盛夏疾疫<pc>，</pc>傳致瘐死<pc>，</pc>或主者異見<pc>，</pc>歲時不決<pc>，</pc>朕甚愍焉<pc>。</pc>其復大理獄<pc>，</pc>置卿<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>少卿<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>丞<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>專主鞫訊<pc>；</pc>檢法官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>主簿<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>應<num value="3">三</num>司<pc>、</pc>諸寺監吏犯杖<pc>、</pc>笞不俟追究者<pc>，</pc>聽即決<pc>，</pc>餘悉送大理獄<pc>。</pc>其應奏者<pc>，</pc>並令 刑 部<pc>、</pc>審 刑 院詳斷<pc>。</pc>應天下奏按亦上之<pc>。</pc>
 </quote>
 <pc>」</pc>
 <measure quantity="5" unit="years">
@@ -414,7 +453,10 @@
 <num value="8">八</num>年</measure>
 <pc>，</pc>中書省言<pc>：</pc>
 <pc>「</pc>
-<quote>昨詔內外<pc>，</pc>歲終具諸獄囚死之數<pc>。</pc>而諸路所上<pc>，</pc>遂以禁繫<num value="20">二十</num>而死<num value="1">一</num>者不具<pc>，</pc>即是歲繫<num value="200">二百</num>人<pc>，</pc>許以<num value="10">十</num>人獄死<pc>，</pc>恐州縣弛意獄事<pc>，</pc>甚非欽恤之意<pc>。</pc>
+<quote>昨詔內外<pc>，</pc>歲終具諸獄囚死之數<pc>。</pc>而諸路所上<pc>，</pc>遂以禁繫<num value="20">二十</num>而死<num value="1">一</num>者不具<pc>，</pc>即是歲繫<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>許以<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>獄死<pc>，</pc>恐州縣弛意獄事<pc>，</pc>甚非欽恤之意<pc>。</pc>
 </quote>
 <pc>」</pc>詔 刑 部自今不許輒分禁繫之數<pc>。</pc>紹聖<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
@@ -425,7 +467,10 @@
 <pc>「</pc>
 <quote>分大理寺丞為左<pc>、</pc>右推<pc>，</pc>若有 異<pc>，</pc>自左移右<pc>。</pc>再變<pc>，</pc>即命官審問<pc>，</pc>或御史臺推究<pc>。</pc>不許開封府互勘及地分探報<pc>，</pc>庶革互送挾 之弊<pc>。</pc>徒已上罪<pc>，</pc>移御史臺<pc>。</pc>命官追攝者<pc>，</pc>悉依條<pc>。</pc>若探報涉虛<pc>、</pc>用情託者<pc>，</pc>並收坐以聞<pc>。</pc>
 </quote>
-<pc>」</pc>初<pc>，</pc>法寺斷獄<pc>，</pc>大辟失入有罰<pc>，</pc>失出不坐<pc>。</pc>至是<pc>，</pc>以失出死罪<num value="5">五</num>人比失入<num value="1">一</num>人<pc>，</pc>失出徒<pc>、</pc>流罪<num value="3">三</num>名<pc>，</pc>亦如之<pc>。</pc>著為令<pc>。</pc>元符<measure quantity="3" unit="years">
+<pc>」</pc>初<pc>，</pc>法寺斷獄<pc>，</pc>大辟失入有罰<pc>，</pc>失出不坐<pc>。</pc>至是<pc>，</pc>以失出死罪<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>比失入<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>失出徒<pc>、</pc>流罪<num value="3">三</num>名<pc>，</pc>亦如之<pc>。</pc>著為令<pc>。</pc>元符<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>刑 部言<pc>：</pc>
 <pc>「</pc>
@@ -439,7 +484,9 @@
 </quote>
 <pc>」</pc>詔令 刑 部立法<pc>：</pc>
 <pc>「</pc>
-<quote>諸入人徒<pc>、</pc>流之罪已結案<pc>，</pc>而錄問官吏能駮正<pc>，</pc>或因事而能推正者<pc>，</pc>累及<num value="7">七</num>人<pc>，</pc>比大辟<num value="1">一</num>名推賞<pc>。</pc>
+<quote>諸入人徒<pc>、</pc>流之罪已結案<pc>，</pc>而錄問官吏能駮正<pc>，</pc>或因事而能推正者<pc>，</pc>累及<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>，</pc>比大辟<num value="1">一</num>名推賞<pc>。</pc>
 </quote>
 <pc>」</pc>紹興<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
@@ -583,7 +630,7 @@
 <num value="1">一</num>赦<pc>，</pc>於古無有<pc>。</pc>景祐中<pc>，</pc>言者以為<pc>：</pc>
 <pc>「</pc>
 <quote>
-<num value="3">三</num>王歲祀圜丘<pc>，</pc>未嘗輒赦<pc>。</pc>自<date>唐</date>興兵以後<pc>，</pc>事天之禮不常行<pc>，</pc>因有大赦<pc>，</pc>以蕩亂獄<pc>。</pc>且有罪者寬之未必自新<pc>，</pc>被害者抑之未必無怨<pc>。</pc>不能自新<pc>，</pc>將復為惡<pc>，</pc>不能無怨<pc>，</pc>將悔為善<pc>。</pc>
+<num value="3">三</num>王歲祀圜丘<pc>，</pc>未嘗輒赦<pc>。</pc>自<date when="null">唐</date>興兵以後<pc>，</pc>事天之禮不常行<pc>，</pc>因有大赦<pc>，</pc>以蕩亂獄<pc>。</pc>且有罪者寬之未必自新<pc>，</pc>被害者抑之未必無怨<pc>。</pc>不能自新<pc>，</pc>將復為惡<pc>，</pc>不能無怨<pc>，</pc>將悔為善<pc>。</pc>
 <num value="1">一</num>赦而使民悔善長惡<pc>，</pc>政教之大患也<pc>。</pc>願罷<measure quantity="3" unit="years">
 <num value="3">三</num>歲</measure>
 <num value="1">一</num>赦<pc>，</pc>使良民懷惠<pc>，</pc>凶人知禁<pc>。</pc>或謂未可盡廢<pc>，</pc>即請命有司<pc>，</pc>前郊<measure quantity="3" unit="days">

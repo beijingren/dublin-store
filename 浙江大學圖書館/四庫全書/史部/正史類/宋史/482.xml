@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="482">
 <div>
-<p>◎世家<num value="5">五</num>○北漢劉氏</p>
+<p>
+<name key="null" type="null">◎世家</name>
+<num value="5">五</num>○北漢劉氏</p>
 </div>
 <div>
 <p>北漢劉繼元<pc>，</pc>並州太原人<pc>。</pc>祖崇<pc>，</pc>漢祖之弟<pc>，</pc>漢初為太原尹<pc>、</pc>北京留守<pc>。</pc>隱帝嗣位<pc>，</pc>周祖為樞密使<pc>，</pc>崇謂判官鄭珙曰<pc>：</pc>
@@ -79,15 +81,18 @@
 <pc>，</pc>太祖詔河東降人徙家於邢<pc>、</pc>洺<pc>，</pc>計口給粟<pc>。</pc>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
-<pc>，</pc>太原民<num value="470">四百七十</num>人降<pc>。</pc>
+<pc>，</pc>太原民<measure quantity="470" unit="people">
+<num value="470">四百七十</num>人</measure>降<pc>。</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
-<pc>，</pc>鈞捉生指揮使路貴等<num value="11">十一</num>人降<pc>，</pc>並補內殿直<pc>。</pc>
+<pc>，</pc>鈞捉生指揮使路貴等<measure quantity="11" unit="people">
+<num value="11">十一</num>人</measure>降<pc>，</pc>並補內殿直<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>邢州王全贇率師攻樂平<pc>，</pc>鈞拱衛指揮使王超<pc>、</pc>散指揮使元威<pc>、</pc>侯霸榮率所部<num value="800">千八百</num>人降全贇<pc>。</pc>未幾<pc>，</pc>鈞侍衛都指揮使蔚進<pc>、</pc>馬軍都指揮使郝貴超與契丹悉兵來救樂平<pc>，</pc>
+<pc>，</pc>邢州王全贇率師攻樂平<pc>，</pc>鈞拱衛指揮使王超<pc>、</pc>散指揮使元威<pc>、</pc>侯霸榮率所部<measure quantity="800" unit="people">
+<num value="800">千八百</num>人</measure>降全贇<pc>。</pc>未幾<pc>，</pc>鈞侍衛都指揮使蔚進<pc>、</pc>馬軍都指揮使郝貴超與契丹悉兵來救樂平<pc>，</pc>
 <num value="3">三</num>戰皆敗之<pc>。</pc>遂下其城<pc>，</pc>詔建為平晉軍<pc>，</pc>以降兵為效順軍<pc>，</pc>賜以錢帛<pc>，</pc>靜陽<num value="18">十八</num>砦遂相率來降<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
@@ -100,7 +105,8 @@
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <pc>，</pc>李繼勳與兵馬鈐轄康延沼<pc>、</pc>馬步軍都軍頭尹訓率兵攻遼州<pc>，</pc>鈞遣郝貴超來援<pc>，</pc>戰於城下<pc>，</pc>大敗<pc>。</pc>
-<term>刺史</term>杜延韜危蹙<pc>，</pc>與拱衛都指揮使冀進<pc>、</pc>兵馬都監侯美籍部兵<num value="3000">三千</num>降於繼勳<pc>，</pc>賜延韜等襲衣<pc>、</pc>銀帶<pc>、</pc>器幣<pc>、</pc>鞍勒馬<pc>，</pc>其降兵以效順<pc>、</pc>懷恩為名<pc>。</pc>是月<pc>，</pc>府州擒鈞衛州<term>刺史</term>楊璘以獻<pc>。</pc>又鈞耀州團練使周審玉等<num value="4">四</num>人降<pc>，</pc>賜審玉襲衣<pc>、</pc>金帶<pc>、</pc>絹<num value="1000">千</num>匹<pc>、</pc>銀<num value="500">五百</num>兩<pc>、</pc>鞍勒馬<pc>，</pc>仍賜名承晉<pc>，</pc>以為左<num value="1000">千</num>牛衛大將軍<pc>、</pc>領汾州團練使<pc>。</pc>
+<term>刺史</term>杜延韜危蹙<pc>，</pc>與拱衛都指揮使冀進<pc>、</pc>兵馬都監侯美籍部兵<num value="3000">三千</num>降於繼勳<pc>，</pc>賜延韜等襲衣<pc>、</pc>銀帶<pc>、</pc>器幣<pc>、</pc>鞍勒馬<pc>，</pc>其降兵以效順<pc>、</pc>懷恩為名<pc>。</pc>是月<pc>，</pc>府州擒鈞衛州<term>刺史</term>楊璘以獻<pc>。</pc>又鈞耀州團練使周審玉等<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>降<pc>，</pc>賜審玉襲衣<pc>、</pc>金帶<pc>、</pc>絹<num value="1000">千</num>匹<pc>、</pc>銀<num value="500">五百</num>兩<pc>、</pc>鞍勒馬<pc>，</pc>仍賜名承晉<pc>，</pc>以為左<num value="1000">千</num>牛衛大將軍<pc>、</pc>領汾州團練使<pc>。</pc>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <pc>，</pc>太祖遣馬軍都校劉光將兵戍潞<pc>，</pc>備鈞入侵<pc>。</pc>
@@ -118,13 +124,15 @@
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
-<pc>，</pc>偏成砦招收指揮使任恩等<num value="50">百五十</num>人降晉州<pc>。</pc>
+<pc>，</pc>偏成砦招收指揮使任恩等<measure quantity="50" unit="people">
+<num value="50">百五十</num>人</measure>降晉州<pc>。</pc>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <pc>，</pc>鎮州守將攻破鈞馬鞍山砦<pc>。</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
-<pc>，</pc>鈞烏玉砦主胡遇等<num value="39">百三十九</num>人降鎮州<pc>。</pc>
+<pc>，</pc>鈞烏玉砦主胡遇等<measure quantity="39" unit="people">
+<num value="39">百三十九</num>人</measure>降鎮州<pc>。</pc>
 </p>
 </div>
 <div>
@@ -160,7 +168,8 @@
 <p>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>太祖詔伐繼恩<pc>。</pc>以內客省使盧懷忠等<num value="22">二十二</num>人將禁兵赴潞州<pc>，</pc>昭義節度李繼勳為行營前軍都部署<pc>，</pc>侍衛步軍都指揮使黨進副之<pc>，</pc>宣徽南院使曹彬為都監<pc>；</pc>棣州防禦使何繼筠為前鋒部署<pc>，</pc>懷州防禦使康延沼為都監<pc>；</pc>建雄軍節度趙讚為汾州路部署<pc>，</pc>絳州防禦使司超副之<pc>，</pc>隰州<term>刺史</term>李謙溥為都監<pc>。</pc>
+<pc>，</pc>太祖詔伐繼恩<pc>。</pc>以內客省使盧懷忠等<measure quantity="22" unit="people">
+<num value="22">二十二</num>人</measure>將禁兵赴潞州<pc>，</pc>昭義節度李繼勳為行營前軍都部署<pc>，</pc>侍衛步軍都指揮使黨進副之<pc>，</pc>宣徽南院使曹彬為都監<pc>；</pc>棣州防禦使何繼筠為前鋒部署<pc>，</pc>懷州防禦使康延沼為都監<pc>；</pc>建雄軍節度趙讚為汾州路部署<pc>，</pc>絳州防禦使司超副之<pc>，</pc>隰州<term>刺史</term>李謙溥為都監<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>繼勳敗繼恩軍於洞渦河<pc>，</pc>其左勝軍使李瓊來降<pc>，</pc>賜襲衣<pc>、</pc>金帶<pc>、</pc>鞍勒馬<pc>。</pc>
@@ -257,7 +266,9 @@
 <pc>“</pc>越王<pc>、</pc>吳主獻地歸朝<pc>，</pc>或授以大藩<pc>，</pc>或列於上將<pc>，</pc>臣僚<pc>、</pc>子弟皆享官封<pc>。</pc>繼元但速降<pc>，</pc>必保終始富貴<pc>，</pc>安危兩途<pc>，</pc>爾宜自擇<pc>。</pc>
 <pc>”</pc>至是詔入<pc>，</pc>諸將銳攻不可遏<pc>，</pc>太宗臨之<pc>，</pc>恐城陷害民<pc>，</pc>麾眾少退<pc>。</pc>是夕<pc>，</pc>繼元遣其客省使李勳奉表請降<pc>，</pc>太宗賜勳襲衣<pc>、</pc>金帶<pc>、</pc>銀器<pc>、</pc>錦彩<pc>、</pc>銀鞍勒馬<pc>，</pc>複遣通事舍人薛文寶齎詔答之<pc>。</pc>夜漏未盡<pc>，</pc>太宗幸城北<pc>，</pc>張樂宴從臣於城台<pc>，</pc>繼元降<pc>。</pc>遲明<pc>，</pc>繼元率官屬縞衣紗帽待罪台下<pc>，</pc>詔釋之<pc>，</pc>賜襲衣<pc>、</pc>玉帶<pc>、</pc>金銀鞍勒馬<num value="3">三</num>匹<pc>、</pc>金器<num value="500">五百</num>兩<pc>、</pc>銀器<num value="5000">五千</num>兩<pc>、</pc>錦彩<num value="2000">二千</num>段<pc>，</pc>文武官各賜衣<pc>、</pc>金銀帶<pc>、</pc>器幣<pc>、</pc>鞍勒馬有差<pc>。</pc>召升台<pc>，</pc>繼元叩頭言<pc>：</pc>
 <pc>“</pc>臣聞車駕親征<pc>，</pc>即願束身歸罪<pc>，</pc>蓋亡命者懼死<pc>，</pc>逼臣不得降爾<pc>。</pc>
-<pc>”</pc>太宗籍軍中亡投繼元者數<num value="100">百</num>人<pc>，</pc>選其巨室者以從軍法<pc>，</pc>餘賜服及錢帛<pc>，</pc>分隸諸將<pc>。</pc>詔授繼元特進<pc>、</pc>檢校太師<pc>、</pc>右衛上將軍<pc>，</pc>封彭城郡公<pc>，</pc>館於行在所<pc>，</pc>給賜甚厚<pc>。</pc>其相李惲等授官有差<pc>，</pc>命中使康仁寶監之<pc>。</pc>繼元獻其宮妓<num value="100">百</num>餘<pc>，</pc>悉分賜立功將校<pc>。</pc>又令仁寶護繼元親屬<num value="100">百</num>餘赴京<pc>，</pc>所過續食<pc>，</pc>賜京城甲第<num value="1">一</num>區<pc>，</pc>歲時優加頒賚<pc>。</pc>
+<pc>”</pc>太宗籍軍中亡投繼元者數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>選其巨室者以從軍法<pc>，</pc>餘賜服及錢帛<pc>，</pc>分隸諸將<pc>。</pc>詔授繼元特進<pc>、</pc>檢校太師<pc>、</pc>右衛上將軍<pc>，</pc>封彭城郡公<pc>，</pc>館於行在所<pc>，</pc>給賜甚厚<pc>。</pc>其相李惲等授官有差<pc>，</pc>命中使康仁寶監之<pc>。</pc>繼元獻其宮妓<num value="100">百</num>餘<pc>，</pc>悉分賜立功將校<pc>。</pc>又令仁寶護繼元親屬<num value="100">百</num>餘赴京<pc>，</pc>所過續食<pc>，</pc>賜京城甲第<num value="1">一</num>區<pc>，</pc>歲時優加頒賚<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>加開府儀同<num value="3">三</num>司<pc>。</pc>雍熙<measure quantity="3" unit="years">

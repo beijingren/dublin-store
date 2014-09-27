@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="140">
 <div>
-<p>◎樂<num value="15">十五</num>
-<pc>（</pc>鼓吹上<pc>）</pc>
+<p>
+<name key="null" type="null">◎樂十</name>五<pc>（</pc>鼓吹上<pc>）</pc>
 </p>
 </div>
 <div>
@@ -55,9 +55,21 @@
 <p>宋初因之<pc>，</pc>車駕前後部用金鉦<pc>、</pc>節鼓<pc>、</pc>鼓<pc>、</pc>大鼓<pc>、</pc>小鼓<pc>、</pc>鐃鼓<pc>、</pc>羽葆鼓<pc>、</pc>中鳴<pc>、</pc>大橫吹<pc>、</pc>小橫吹<pc>、</pc>觱栗<pc>、</pc>桃皮觱栗<pc>、</pc>簫<pc>、</pc>笳<pc>、</pc>笛<pc>，</pc>歌<pc>《</pc>
 <title>導引</title>
 <pc>》</pc>
-<num value="1">一</num>曲<pc>。</pc>又皇太子及<num value="1">一</num>品至<num value="3">三</num>品<pc>，</pc>皆有本品鼓吹<pc>。</pc>凡大駕用<num value="1530">一千五百三十</num>人為<num value="5">五</num>引<pc>，</pc>司徒<num value="64">六十四</num>人<pc>，</pc>開封牧<pc>、</pc>太常卿<pc>、</pc>禦史大夫<pc>、</pc>兵部尚書各<num value="23">二十三</num>人<pc>。</pc>法駕<num value="3">三</num>分減<num value="1">一</num>
-<pc>，</pc>用<num value="761">七百六十一</num>人為<num value="2">二</num>引<pc>，</pc>開封牧<pc>、</pc>禦史大夫各<num value="16">一十六</num>人<pc>。</pc>小駕用<num value="816">八百一十六</num>人<pc>。</pc>太常鼓吹署樂工數少<pc>，</pc>每大禮<pc>，</pc>皆取之於諸軍<pc>。</pc>
-<num value="1">一</num>品已下喪葬則給之<pc>，</pc>亦取於諸軍<pc>。</pc>又大禮<pc>，</pc>車駕宿齋所止<pc>，</pc>夜設警場<pc>，</pc>用<num value="1275">一千二百七十五</num>人<pc>。</pc>奏嚴用金鉦<pc>、</pc>大角<pc>、</pc>大鼓<pc>，</pc>樂用大小橫吹<pc>、</pc>觱栗<pc>、</pc>簫<pc>、</pc>笳<pc>、</pc>笛<pc>，</pc>角手取於近畿諸州<pc>，</pc>樂工亦取於軍中<pc>，</pc>或追府縣樂工備數<pc>。</pc>歌<pc>《</pc>
+<num value="1">一</num>曲<pc>。</pc>又皇太子及<num value="1">一</num>品至<num value="3">三</num>品<pc>，</pc>皆有本品鼓吹<pc>。</pc>凡大駕用<measure quantity="1530" unit="people">
+<num value="1530">一千五百三十</num>人</measure>為<num value="5">五</num>引<pc>，</pc>司徒<measure quantity="64" unit="people">
+<num value="64">六十四</num>人</measure>
+<pc>，</pc>開封牧<pc>、</pc>太常卿<pc>、</pc>禦史大夫<pc>、</pc>兵部尚書各<measure quantity="23" unit="people">
+<num value="23">二十三</num>人</measure>
+<pc>。</pc>法駕<num value="3">三</num>分減<num value="1">一</num>
+<pc>，</pc>用<measure quantity="761" unit="people">
+<num value="761">七百六十一</num>人</measure>為<num value="2">二</num>引<pc>，</pc>開封牧<pc>、</pc>禦史大夫各<measure quantity="16" unit="people">
+<num value="16">一十六</num>人</measure>
+<pc>。</pc>小駕用<measure quantity="816" unit="people">
+<num value="816">八百一十六</num>人</measure>
+<pc>。</pc>太常鼓吹署樂工數少<pc>，</pc>每大禮<pc>，</pc>皆取之於諸軍<pc>。</pc>
+<num value="1">一</num>品已下喪葬則給之<pc>，</pc>亦取於諸軍<pc>。</pc>又大禮<pc>，</pc>車駕宿齋所止<pc>，</pc>夜設警場<pc>，</pc>用<measure quantity="1275" unit="people">
+<num value="1275">一千二百七十五</num>人</measure>
+<pc>。</pc>奏嚴用金鉦<pc>、</pc>大角<pc>、</pc>大鼓<pc>，</pc>樂用大小橫吹<pc>、</pc>觱栗<pc>、</pc>簫<pc>、</pc>笳<pc>、</pc>笛<pc>，</pc>角手取於近畿諸州<pc>，</pc>樂工亦取於軍中<pc>，</pc>或追府縣樂工備數<pc>。</pc>歌<pc>《</pc>
 <title>
 <measure quantity="6" unit="prefectures">
 <num value="6">六</num>州</measure>
@@ -77,7 +89,9 @@
 <pc>，</pc>親享太廟<pc>，</pc>登歌始作<pc>，</pc>聞廟外奏嚴<pc>，</pc>遂詔<pc>：</pc>行禮之次<pc>，</pc>權罷嚴警<pc>；</pc>禮畢<pc>，</pc>仍複故<pc>。</pc>
 <pc>）</pc>凡祀前<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
-<pc>，</pc>上禦青城門觀奏嚴<pc>。</pc>若車駕巡幸<pc>，</pc>則夜奏於行宮前<pc>，</pc>人數減於大禮<pc>，</pc>凡用<num value="880">八百八十</num>人<pc>。</pc>
+<pc>，</pc>上禦青城門觀奏嚴<pc>。</pc>若車駕巡幸<pc>，</pc>則夜奏於行宮前<pc>，</pc>人數減於大禮<pc>，</pc>凡用<measure quantity="880" unit="people">
+<num value="880">八百八十</num>人</measure>
+<pc>。</pc>
 <pc>（</pc>真宗崇奉聖祖<pc>，</pc>亦設儀衛<pc>，</pc>別作導引曲<pc>，</pc>今附之<pc>。</pc>
 <pc>）</pc>
 </p>
@@ -87,9 +101,21 @@
 <pc>《</pc>
 <title>兩朝誌</title>
 <pc>》</pc>雲<pc>：</pc>
-<pc>“</pc>大駕<num value="793">千七百九十三</num>人<pc>，</pc>法駕<num value="305">千三百五</num>人<pc>，</pc>小駕<num value="34">千三十四</num>人<pc>，</pc>
+<pc>“</pc>大駕<measure quantity="793" unit="people">
+<num value="793">千七百九十三</num>人</measure>
+<pc>，</pc>法駕<measure quantity="305" unit="people">
+<num value="305">千三百五</num>人</measure>
+<pc>，</pc>小駕<measure quantity="34" unit="people">
+<num value="34">千三十四</num>人</measure>
+<pc>，</pc>
 <pc>（</pc>人數多於前<pc>。</pc>
-<pc>）</pc>鑾駕<num value="925">九百二十五</num>人<pc>。</pc>迎奉祖宗禦容或神主祔廟<pc>，</pc>用小鑾駕<num value="325">三百二十五</num>人<pc>，</pc>上宗廟諡冊<num value="200">二百</num>人<pc>，</pc>其曲即隨時更製<pc>。</pc>
+<pc>）</pc>鑾駕<measure quantity="925" unit="people">
+<num value="925">九百二十五</num>人</measure>
+<pc>。</pc>迎奉祖宗禦容或神主祔廟<pc>，</pc>用小鑾駕<measure quantity="325" unit="people">
+<num value="325">三百二十五</num>人</measure>
+<pc>，</pc>上宗廟諡冊<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>其曲即隨時更製<pc>。</pc>
 <pc>”</pc>
 </p>
 </div>
@@ -246,14 +272,24 @@
 <pc>”</pc>有司請下軍器所造節鼓<num value="1">一</num>
 <pc>，</pc>奏嚴鼓<num value="120">一百二十</num>
 <pc>，</pc>鳴角亦如之<pc>，</pc>金鉦<num value="20">二十</num>有<num value="4">四</num>
-<pc>。</pc>太常前後部振作通用<num value="1857">一千八百五十七</num>人<pc>，</pc>而鼓吹益盛<pc>。</pc>
+<pc>。</pc>太常前後部振作通用<measure quantity="1857" unit="people">
+<num value="1857">一千八百五十七</num>人</measure>
+<pc>，</pc>而鼓吹益盛<pc>。</pc>
 </p>
 </div>
 <div>
 <p>孝宗隆興<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>兵部言<pc>：</pc>
-<pc>“</pc>奉明詔<pc>，</pc>大禮乘輿服禦<pc>，</pc>除玉輅<pc>、</pc>平輦等外<pc>，</pc>所用人數並從省約<pc>。</pc>內鼓吹合用<num value="841">八百四十一</num>人<pc>，</pc>止用<num value="588">五百八十八</num>人<pc>；</pc>警場合用<num value="275">二百七十五</num>人<pc>，</pc>止用<num value="130">一百三十</num>人<pc>。</pc>
+<pc>“</pc>奉明詔<pc>，</pc>大禮乘輿服禦<pc>，</pc>除玉輅<pc>、</pc>平輦等外<pc>，</pc>所用人數並從省約<pc>。</pc>內鼓吹合用<measure quantity="841" unit="people">
+<num value="841">八百四十一</num>人</measure>
+<pc>，</pc>止用<measure quantity="588" unit="people">
+<num value="588">五百八十八</num>人</measure>
+<pc>；</pc>警場合用<measure quantity="275" unit="people">
+<num value="275">二百七十五</num>人</measure>
+<pc>，</pc>止用<measure quantity="130" unit="people">
+<num value="130">一百三十</num>人</measure>
+<pc>。</pc>
 <pc>”</pc>淳熙中大閱<pc>，</pc>帝自祥曦殿戎服而出<pc>，</pc>皇太子<pc>、</pc>親王<pc>、</pc>執政以下並從<pc>，</pc>諸將皆介胄乘馬導駕<pc>，</pc>軍器分衛前後<pc>，</pc>奏隨軍鼓管大樂<pc>。</pc>上尋易金甲<pc>，</pc>乘馬升將台<pc>，</pc>殿帥舉黃旗<pc>，</pc>諸軍呼拜<pc>，</pc>奏發嚴<pc>，</pc>中軍鳴角<pc>。</pc>馬步簇隊<pc>，</pc>連<num value="3">三</num>鼓<pc>。</pc>至<num value="4">四</num>鼓<pc>，</pc>舉白旗<pc>，</pc>中軍鼓聲旗應<pc>，</pc>乃變方陣<pc>。</pc>別高<num value="1">一</num>鼓<pc>，</pc>馬步軍出陣<pc>。</pc>別高<num value="1">一</num>鼓<pc>，</pc>各歸部隊<pc>。</pc>
 <num value="5">五</num>鼓舉黃旗<pc>，</pc>變員陣<pc>。</pc>又鼓<pc>，</pc>舉赤旗<pc>，</pc>變銳陣<pc>；</pc>青旗變直陣<pc>。</pc>收鼓訖<pc>，</pc>
 <num value="1">一</num>金止<pc>，</pc>重鼓鳴角<pc>，</pc>簇隊放教<pc>。</pc>此其凡也<pc>。</pc>

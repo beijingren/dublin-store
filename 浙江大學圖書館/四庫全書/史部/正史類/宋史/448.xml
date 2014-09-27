@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="448">
 <div>
-<p>◎忠義<num value="3">三</num>
+<p>
+<name key="null" type="null">◎忠義</name>
+<num value="3">三</num>
 </p>
 </div>
 <div>
@@ -96,9 +98,12 @@
 <pc>“</pc>是棄城矣<pc>。</pc>然若屬俱死無益<pc>。</pc>
 <pc>”</pc>乃下令曰<pc>：</pc>
 <pc>“</pc>城中有材武願從軍者聽留<pc>，</pc>餘從便<pc>。</pc>
-<pc>”</pc>得敢死士<num value="400">四百</num>人<pc>。</pc>又令曰<pc>：</pc>
+<pc>”</pc>得敢死士<measure quantity="400" unit="people">
+<num value="400">四百</num>人</measure>
+<pc>。</pc>又令曰<pc>：</pc>
 <pc>“</pc>凡仕於此<pc>，</pc>其聽送其家<pc>，</pc>寅出午反<pc>，</pc>違者從軍法<pc>。</pc>
-<pc>”</pc>眾皆感服<pc>，</pc>無<num value="1">一</num>人失期<pc>。</pc>
+<pc>”</pc>眾皆感服<pc>，</pc>無<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>失期<pc>。</pc>
 </p>
 </div>
 <div>
@@ -267,7 +272,11 @@
 <div>
 <p>韓浩<pc>，</pc>丞相琦孫<pc>。</pc>以奉直大夫守濰州<pc>。</pc>建炎<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>金人攻城<pc>，</pc>浩率眾死守<pc>，</pc>城陷力戰死<pc>。</pc>通判朱庭傑身被數箭<pc>，</pc>亦死<pc>。</pc>權北海縣丞王允功<pc>、</pc>司理參軍王薦皆全家陷沒<pc>。</pc>浩特贈<num value="3">三</num>官<pc>，</pc>官其家<num value="3">三</num>人<pc>。</pc>庭傑<pc>、</pc>允功<pc>、</pc>薦各官其家<num value="1">一</num>人<pc>。</pc>
+<pc>，</pc>金人攻城<pc>，</pc>浩率眾死守<pc>，</pc>城陷力戰死<pc>。</pc>通判朱庭傑身被數箭<pc>，</pc>亦死<pc>。</pc>權北海縣丞王允功<pc>、</pc>司理參軍王薦皆全家陷沒<pc>。</pc>浩特贈<num value="3">三</num>官<pc>，</pc>官其家<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>。</pc>庭傑<pc>、</pc>允功<pc>、</pc>薦各官其家<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -278,7 +287,8 @@
 </div>
 <div>
 <p>歐陽珣字全美<pc>，</pc>吉州<placeName>廬陵</placeName>人<pc>。</pc>崇寧<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>進士<pc>。</pc>調忠州學教授<pc>、</pc>南安軍司錄<pc>，</pc>知鹽官縣<pc>。</pc>以薦上京師<pc>，</pc>遇國難<pc>，</pc>及出使<pc>，</pc>加將作監丞<pc>。</pc>金人犯京師<pc>，</pc>朝議割河北絳<pc>、</pc>磁<pc>、</pc>深<num value="3">三</num>鎮地講和<pc>。</pc>珣率其友<num value="9">九</num>人上書<pc>，</pc>極言祖宗之地尺寸不可以與人<pc>。</pc>及事急<pc>，</pc>會群臣議<pc>，</pc>珣複抗論當與力戰<pc>，</pc>戰敗而失其地<pc>，</pc>它日取之直<pc>；</pc>不戰而割其地<pc>，</pc>它日取之曲<pc>。</pc>時宰怒<pc>，</pc>欲殺珣<pc>，</pc>乃遣珣奉使割深州<pc>，</pc>珣至深州城下<pc>，</pc>慟哭謂城上人曰<pc>：</pc>
+<num value="5">五</num>年</measure>進士<pc>。</pc>調忠州學教授<pc>、</pc>南安軍司錄<pc>，</pc>知鹽官縣<pc>。</pc>以薦上京師<pc>，</pc>遇國難<pc>，</pc>及出使<pc>，</pc>加將作監丞<pc>。</pc>金人犯京師<pc>，</pc>朝議割河北絳<pc>、</pc>磁<pc>、</pc>深<num value="3">三</num>鎮地講和<pc>。</pc>珣率其友<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>上書<pc>，</pc>極言祖宗之地尺寸不可以與人<pc>。</pc>及事急<pc>，</pc>會群臣議<pc>，</pc>珣複抗論當與力戰<pc>，</pc>戰敗而失其地<pc>，</pc>它日取之直<pc>；</pc>不戰而割其地<pc>，</pc>它日取之曲<pc>。</pc>時宰怒<pc>，</pc>欲殺珣<pc>，</pc>乃遣珣奉使割深州<pc>，</pc>珣至深州城下<pc>，</pc>慟哭謂城上人曰<pc>：</pc>
 <pc>“</pc>朝廷為奸臣所誤至此<pc>，</pc>吾已辦<num value="1">一</num>死來矣<pc>，</pc>汝等宜勉為忠義報國<pc>。</pc>
 <pc>”</pc>金人怒<pc>，</pc>執送燕<pc>，</pc>焚死之<pc>。</pc>
 </p>
@@ -286,7 +296,9 @@
 <div>
 <p>張忠輔<pc>，</pc>宣和末為將<pc>，</pc>同崔中<pc>、</pc>折可與守崞縣<pc>。</pc>金人來攻<pc>，</pc>嬰城固守<pc>，</pc>率士卒以死拒敵<pc>。</pc>中度不可支<pc>，</pc>有<num value="2">二</num>心<pc>。</pc>忠輔宣言於眾曰<pc>：</pc>
 <pc>“</pc>必欲降<pc>，</pc>請先殺我<pc>。</pc>
-<pc>”</pc>中設伏紿約議事<pc>，</pc>斬忠輔首擲陴外以示金人<pc>。</pc>既開城門<pc>，</pc>可與不屈見殺<pc>。</pc>可與兄可求建炎中言於朝<pc>，</pc>官可與之子<num value="5">五</num>人<pc>，</pc>而忠輔不與<pc>，</pc>士論惜之<pc>。</pc>
+<pc>”</pc>中設伏紿約議事<pc>，</pc>斬忠輔首擲陴外以示金人<pc>。</pc>既開城門<pc>，</pc>可與不屈見殺<pc>。</pc>可與兄可求建炎中言於朝<pc>，</pc>官可與之子<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>，</pc>而忠輔不與<pc>，</pc>士論惜之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -367,7 +379,9 @@
 </p>
 </div>
 <div>
-<p>宋炎<pc>，</pc>陝縣人<pc>。</pc>蹶張命中<pc>，</pc>補秉義郎<pc>。</pc>先<pc>，</pc>金人圍城<pc>，</pc>炎射死數<num value="100">百</num>人<pc>。</pc>比再圍<pc>，</pc>炎以勁弩數<num value="100">百</num>
+<p>宋炎<pc>，</pc>陝縣人<pc>。</pc>蹶張命中<pc>，</pc>補秉義郎<pc>。</pc>先<pc>，</pc>金人圍城<pc>，</pc>炎射死數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>比再圍<pc>，</pc>炎以勁弩數<num value="100">百</num>
 <pc>，</pc>發毒矢殺<num value="1000">千</num>餘人<pc>。</pc>城陷<pc>，</pc>金人聲言求善射者貴之<pc>，</pc>炎不應<pc>，</pc>力戰死<pc>。</pc>
 </p>
 </div>
@@ -437,7 +451,9 @@
 <p>自金人犯中國<pc>，</pc>所下城率以虛聲脅降<pc>，</pc>惟太原堅守逾<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>濮州城破<pc>，</pc>殺傷大相當<pc>，</pc>皆為金人所憚<pc>。</pc>而立威名戰多<pc>，</pc>鹹出其上<pc>。</pc>訃聞<pc>，</pc>輟朝<pc>，</pc>贈奉國<term>節度使</term>
-<pc>、</pc>開府儀同<num value="3">三</num>司<pc>，</pc>官其子孫<num value="10">十</num>人<pc>，</pc>諡忠烈<pc>。</pc>明年<pc>，</pc>金人退<pc>，</pc>得立屍譙樓下<pc>，</pc>頰骨箭穴存焉<pc>。</pc>命官給葬事<pc>，</pc>後為立祠<pc>，</pc>名曰顯忠<pc>。</pc>
+<pc>、</pc>開府儀同<num value="3">三</num>司<pc>，</pc>官其子孫<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>諡忠烈<pc>。</pc>明年<pc>，</pc>金人退<pc>，</pc>得立屍譙樓下<pc>，</pc>頰骨箭穴存焉<pc>。</pc>命官給葬事<pc>，</pc>後為立祠<pc>，</pc>名曰顯忠<pc>。</pc>
 </p>
 </div>
 <div>
@@ -445,7 +461,9 @@
 <num value="3">三</num>年</measure>
 <pc>，</pc>金人自襲慶府引兵圍徐州<pc>，</pc>複與男倚同守城<pc>，</pc>率軍民力戰<pc>。</pc>外援不至<pc>，</pc>城陷<pc>，</pc>複堅坐聽事不去<pc>，</pc>謂粘罕曰<pc>：</pc>
 <pc>“</pc>死守者我也<pc>，</pc>監郡而次無預焉<pc>，</pc>願殺我而舍僚吏<num value="100">百</num>姓<pc>。</pc>
-<pc>”</pc>粘罕欲降之<pc>，</pc>複慢罵求死<pc>，</pc>闔門<num value="100">百</num>口皆被殺<pc>。</pc>巡檢楊彭年亦死焉<pc>。</pc>事聞<pc>，</pc>贈複資政殿學士<pc>，</pc>諡壯節<pc>，</pc>立廟楚州<pc>，</pc>號忠烈<pc>，</pc>官其家<num value="5">五</num>人<pc>。</pc>
+<pc>”</pc>粘罕欲降之<pc>，</pc>複慢罵求死<pc>，</pc>闔門<num value="100">百</num>口皆被殺<pc>。</pc>巡檢楊彭年亦死焉<pc>。</pc>事聞<pc>，</pc>贈複資政殿學士<pc>，</pc>諡壯節<pc>，</pc>立廟楚州<pc>，</pc>號忠烈<pc>，</pc>官其家<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -463,7 +481,9 @@
 <pc>”</pc>撒離曷怒詰之<pc>，</pc>忠植披襟大呼曰<pc>：</pc>
 <pc>“</pc>當速殺我<pc>。</pc>
 <pc>”</pc>遂遇害<pc>。</pc>世將上其事<pc>，</pc>贈奉國軍<term>節度使</term>
-<pc>、</pc>開府儀同<num value="3">三</num>司<pc>，</pc>官其家<num value="10">十</num>人<pc>。</pc>
+<pc>、</pc>開府儀同<num value="3">三</num>司<pc>，</pc>官其家<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -481,7 +501,8 @@
 </p>
 </div>
 <div>
-<p>李震<pc>，</pc>汴人也<pc>。</pc>靖康初<pc>，</pc>金人迫京師<pc>，</pc>震時為小校<pc>，</pc>率所部<num value="300">三百</num>人出戰<pc>，</pc>殺人馬<num value="700">七百</num>餘<pc>，</pc>已而被執<pc>。</pc>金人曰<pc>：</pc>
+<p>李震<pc>，</pc>汴人也<pc>。</pc>靖康初<pc>，</pc>金人迫京師<pc>，</pc>震時為小校<pc>，</pc>率所部<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>出戰<pc>，</pc>殺人馬<num value="700">七百</num>餘<pc>，</pc>已而被執<pc>。</pc>金人曰<pc>：</pc>
 <pc>“</pc>南朝皇帝安在<pc>？</pc>
 <pc>”</pc>震曰<pc>：</pc>
 <pc>“</pc>我官家非爾所當問<pc>。</pc>
@@ -489,7 +510,8 @@
 </p>
 </div>
 <div>
-<p>陳求道<pc>，</pc>字得之<pc>，</pc>鹹寧人<pc>。</pc>登進士第<pc>。</pc>靖康間判都水監<pc>。</pc>及朝議<num value="2">二</num>帝出郊請和<pc>，</pc>求道力爭之<pc>，</pc>不聽<pc>。</pc>欽宗知康王兵眾<pc>，</pc>求道請以元帥加之<pc>，</pc>齎蠟書者<num value="8">八</num>人皆遇害<pc>，</pc>惟求道所薦劉定致書而還<pc>。</pc>金人立張邦昌<pc>，</pc>下令在京官不朝者死<pc>，</pc>求道稱疾不往<pc>，</pc>嘔血累日<pc>。</pc>開封尹親以邦昌命召之<pc>，</pc>竟不能屈<pc>。</pc>求道以<num value="2">二</num>帝蒙塵<pc>，</pc>屢欲自殺<pc>，</pc>因救得免<pc>。</pc>
+<p>陳求道<pc>，</pc>字得之<pc>，</pc>鹹寧人<pc>。</pc>登進士第<pc>。</pc>靖康間判都水監<pc>。</pc>及朝議<num value="2">二</num>帝出郊請和<pc>，</pc>求道力爭之<pc>，</pc>不聽<pc>。</pc>欽宗知康王兵眾<pc>，</pc>求道請以元帥加之<pc>，</pc>齎蠟書者<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>皆遇害<pc>，</pc>惟求道所薦劉定致書而還<pc>。</pc>金人立張邦昌<pc>，</pc>下令在京官不朝者死<pc>，</pc>求道稱疾不往<pc>，</pc>嘔血累日<pc>。</pc>開封尹親以邦昌命召之<pc>，</pc>竟不能屈<pc>。</pc>求道以<num value="2">二</num>帝蒙塵<pc>，</pc>屢欲自殺<pc>，</pc>因救得免<pc>。</pc>
 </p>
 </div>
 <div>
@@ -499,7 +521,8 @@
 <num value="7">七</num>日</measure>河盡複故道<pc>。</pc>建炎<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>命為襄<pc>、</pc>鄧<pc>、</pc>隨<pc>、</pc>郢鎮撫<pc>，</pc>以奏兵食不給<pc>，</pc>待命未行<pc>。</pc>自鹹寧挈家就食嘉魚<pc>，</pc>值亂兵起<pc>，</pc>乃之蒲圻<pc>，</pc>寓龍堂僧寺<pc>。</pc>未久<pc>，</pc>招撫劉忠叛<pc>，</pc>
-<num value="1">一</num>夕數<num value="1000">千</num>人麇至<pc>，</pc>驅求道家還嘉魚<pc>。</pc>至茗山逆旅<pc>，</pc>具酒食奉求道為主<pc>，</pc>將南走湖湘<pc>。</pc>求道正色厲辭<pc>，</pc>賊怒<pc>，</pc>殺求道妻蔡及<num value="2">二</num>子符<pc>、</pc>佺<pc>，</pc>必欲從己<pc>。</pc>求道罵愈厲<pc>，</pc>賊斫其口拔出舌斷之<pc>。</pc>獨符子凱竄山穀得免<pc>。</pc>賊退<pc>，</pc>始得求道屍<pc>，</pc>瘞於興陂<pc>。</pc>
+<num value="1">一</num>夕數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>麇至<pc>，</pc>驅求道家還嘉魚<pc>。</pc>至茗山逆旅<pc>，</pc>具酒食奉求道為主<pc>，</pc>將南走湖湘<pc>。</pc>求道正色厲辭<pc>，</pc>賊怒<pc>，</pc>殺求道妻蔡及<num value="2">二</num>子符<pc>、</pc>佺<pc>，</pc>必欲從己<pc>。</pc>求道罵愈厲<pc>，</pc>賊斫其口拔出舌斷之<pc>。</pc>獨符子凱竄山穀得免<pc>。</pc>賊退<pc>，</pc>始得求道屍<pc>，</pc>瘞於興陂<pc>。</pc>
 </p>
 </div>
 </div>

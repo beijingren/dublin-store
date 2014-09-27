@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="120">
 <div>
-<p>　　群臣上表儀<pc>。</pc>
+<p>
+<name key="null" type="null">　　群</name>臣上表儀<pc>。</pc>
 <pc>《</pc>
 <title>通禮</title>
 <pc>》</pc>
@@ -145,7 +146,7 @@
 </div>
 <div>
 <p>　　天禧初<pc>，</pc>太保<pc>、</pc>平章事王旦為太尉<pc>。</pc>
-<date>國朝</date>以來<pc>，</pc>
+<date when="null">國朝</date>以來<pc>，</pc>
 <num value="3">三</num>公不兼<term>宰相</term>
 <pc>，</pc>無赴上儀<pc>。</pc>特詔有司詳定<pc>，</pc>就尚書省赴上<pc>，</pc>
 <num value="100">百</num>官班迎<pc>，</pc>
@@ -179,7 +180,7 @@
 <p>　　集賢校理趙良規言<pc>：</pc>
 <pc>「</pc>
 <quote>
-<date>國朝</date>故事<pc>，</pc>令敕儀制<pc>，</pc>別有學士<pc>、</pc>知制誥<pc>、</pc>待制<pc>、</pc>
+<date when="null">國朝</date>故事<pc>，</pc>令敕儀制<pc>，</pc>別有學士<pc>、</pc>知制誥<pc>、</pc>待制<pc>、</pc>
 <num value="3">三</num>司副使著位<pc>，</pc>視品與前朝異<pc>，</pc>固無在朝敘職<pc>、</pc>入省敘官之說<pc>。</pc>若全不論職<pc>，</pc>則後行員外郎兼學士<pc>，</pc>在朝立丞<pc>、</pc>郎上<pc>，</pc>入省居比<pc>、</pc>駕下<pc>；</pc>知制誥<pc>、</pc>待制入朝與侍郎同列<pc>，</pc>入省分廁散郎<pc>；</pc>員外郎任<num value="3">三</num>司副使<pc>、</pc>郎中任判官<pc>，</pc>在<num value="3">三</num>司為參佐<pc>，</pc>入本省為正員<pc>。</pc>所以舊來議事<pc>，</pc>集尚書省官<pc>，</pc>帶職者不赴<pc>。</pc>別詔<num value="3">三</num>省悉集<pc>，</pc>則及大小兩省<pc>；</pc>內朝官悉集<pc>，</pc>則及學士<pc>、</pc>待制<pc>、</pc>
 <num value="3">三</num>司副使<pc>；</pc>更集他官<pc>，</pc>則諸司<num value="3">三</num>品<pc>、</pc>武官<num value="2">二</num>品<pc>，</pc>各次本司長官<pc>。</pc>故事<pc>，</pc>尚書省官帶知制誥<pc>，</pc>中書省奏班簿<pc>，</pc>是於尚書省<pc>、</pc>禦史台了不著籍<pc>，</pc>故有絕曹之語<pc>。</pc>又凡定學士<pc>、</pc>舍人<pc>、</pc>兩省著位<pc>，</pc>除先後入外<pc>，</pc>若有升降<pc>，</pc>皆特稟朝旨<pc>，</pc>豈有在朝<pc>、</pc>入省迭為高下<pc>？</pc>
 </quote>
@@ -203,7 +204,8 @@
 <p>　　禮官吳育曰<pc>：</pc>
 <pc>「</pc>
 <quote>兩奏各有未安<pc>。</pc>尚書省制度雖崇<pc>，</pc>亦天子之有司<pc>，</pc>在朝廷既殊班列<pc>，</pc>入有司輒易尊卑<pc>，</pc>是以朝省為彼我<pc>、</pc>官職分<num value="2">二</num>事也<pc>。</pc>兩制近職<pc>，</pc>若有事議而雲絕班不赴<pc>，</pc>非所以求至當<pc>。</pc>且知制誥中書省奏班簿<pc>，</pc>是謂絕班<pc>。</pc>翰林學士亦知制誥<pc>，</pc>不絕班簿<pc>。</pc>此因循之制<pc>，</pc>非確據也<pc>。</pc>縱絕班有例<pc>，</pc>而絕官無聞<pc>，</pc>
-<num value="1">一</num>人命書<pc>，</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>命書<pc>，</pc>
 <num value="3">三</num>省連判<pc>，</pc>而都無所系<pc>，</pc>止為奉錢<pc>，</pc>豈命官之禮<pc>？</pc>今取典故中最明<num value="1">一</num>事<pc>，</pc>足以質定<pc>。</pc>祥符<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>僕射上事儀<pc>：</pc>絕班之官<pc>，</pc>別頭贊引<pc>，</pc>不與本省官同在迎班<pc>。</pc>請凡會議<pc>，</pc>省官帶近職者<pc>，</pc>別作<num value="1">一</num>行而坐<pc>，</pc>自為序列<pc>，</pc>非以相壓<pc>。</pc>若招兩制<pc>、</pc>台省<pc>、</pc>諸司<pc>、</pc>諸衛官畢集<pc>，</pc>則各從其類<pc>，</pc>自作<num value="1">一</num>行<pc>，</pc>書議如其位次<pc>。</pc>
 </quote>

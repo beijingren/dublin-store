@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="310">
 <div>
-<p>李迪字複古<pc>，</pc>其先趙郡人<pc>，</pc>後徙幽州<pc>。</pc>曾祖在欽<pc>，</pc>避<date>
+<p>
+<name key="null" type="null">李迪字</name>複古<pc>，</pc>其先趙郡人<pc>，</pc>後徙幽州<pc>。</pc>曾祖在欽<pc>，</pc>避<date when="null">
 <num value="5">五</num>代</date>亂<pc>，</pc>又徙家濮<pc>。</pc>迪深厚有器局<pc>，</pc>嘗攜其所為文見<persName>柳開</persName>
 <pc>，</pc>開奇之曰<pc>：</pc>
 <pc>“</pc>公輔材也<pc>。</pc>
@@ -127,14 +128,16 @@
 </p>
 </div>
 <div>
-<p>柬之字公明<pc>，</pc>曉<date>國朝</date>典故<pc>。</pc>獻文<pc>，</pc>召試<pc>，</pc>賜進士出身<pc>，</pc>為館閣校勘<pc>、</pc>宣化軍使<pc>。</pc>境上有廢河故道<pc>，</pc>官收行者稅<pc>，</pc>謂之<pc>“</pc>幹渡錢<pc>”</pc>
+<p>柬之字公明<pc>，</pc>曉<date when="null">國朝</date>典故<pc>。</pc>獻文<pc>，</pc>召試<pc>，</pc>賜進士出身<pc>，</pc>為館閣校勘<pc>、</pc>宣化軍使<pc>。</pc>境上有廢河故道<pc>，</pc>官收行者稅<pc>，</pc>謂之<pc>“</pc>幹渡錢<pc>”</pc>
 <pc>，</pc>奏除之<pc>。</pc>進直集賢院<pc>、</pc>判吏部南曹<pc>、</pc>開封府推官<pc>、</pc>鹽鐵判官<pc>，</pc>曆知邢漢廬州<pc>、</pc>鳳翔府<pc>，</pc>京東<pc>、</pc>陝西轉運使<pc>，</pc>擢侍御史知雜事<pc>。</pc>
 </p>
 </div>
 <div>
 <p>柬之自少受知於寇準<pc>，</pc>至是論準保護之功<pc>。</pc>仁宗惻然<pc>，</pc>即賜其碑曰<pc>“</pc>旌忠<pc>”</pc>
 <pc>。</pc>拜天章閣待制<pc>、</pc>河北都轉運使<pc>，</pc>加龍圖閣直學士<pc>。</pc>建言補蔭之門太廣<pc>，</pc>遂詔裁定<pc>，</pc>自<num value="2">二</num>府而下<pc>，</pc>通<measure quantity="3" unit="years">
-<num value="3">三</num>歲</measure>減入仕者<num value="1000">一千</num>人<pc>。</pc>知荊南<pc>、</pc>河陽<pc>、</pc>澶州<pc>，</pc>改集賢院學士<pc>，</pc>判西京留司御史台<pc>。</pc>
+<num value="3">三</num>歲</measure>減入仕者<measure quantity="1000" unit="people">
+<num value="1000">一千</num>人</measure>
+<pc>。</pc>知荊南<pc>、</pc>河陽<pc>、</pc>澶州<pc>，</pc>改集賢院學士<pc>，</pc>判西京留司御史台<pc>。</pc>
 </p>
 </div>
 <div>
@@ -243,7 +246,9 @@
 </p>
 </div>
 <div>
-<p>徙通判河南府<pc>。</pc>亡卒張海倚山嘯聚<pc>，</pc>白晝掠城市<pc>。</pc>及之督捕<pc>，</pc>單騎與海語<pc>，</pc>諭使歸命<pc>，</pc>當奏貸其死<pc>。</pc>海感動弛備<pc>，</pc>奏方上<pc>，</pc>而眾兵集<pc>，</pc>悉獲之<pc>。</pc>知信州<pc>，</pc>靈鷲山浮屠<pc>，</pc>犯法者眾<pc>，</pc>及之治其奸<pc>，</pc>流數<num value="10">十</num>人<pc>，</pc>乃自劾<pc>。</pc>朝廷嘉之<pc>，</pc>釋不問<pc>。</pc>入判刑部<pc>。</pc>嘗撰次唐史有益治體者<pc>，</pc>為<pc>《</pc>
+<p>徙通判河南府<pc>。</pc>亡卒張海倚山嘯聚<pc>，</pc>白晝掠城市<pc>。</pc>及之督捕<pc>，</pc>單騎與海語<pc>，</pc>諭使歸命<pc>，</pc>當奏貸其死<pc>。</pc>海感動弛備<pc>，</pc>奏方上<pc>，</pc>而眾兵集<pc>，</pc>悉獲之<pc>。</pc>知信州<pc>，</pc>靈鷲山浮屠<pc>，</pc>犯法者眾<pc>，</pc>及之治其奸<pc>，</pc>流數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>乃自劾<pc>。</pc>朝廷嘉之<pc>，</pc>釋不問<pc>。</pc>入判刑部<pc>。</pc>嘗撰次唐史有益治體者<pc>，</pc>為<pc>《</pc>
 <title>君臣龜鑑</title>
 <pc>》</pc>
 <measure quantity="80" unit="chapters">
@@ -299,8 +304,11 @@
 </p>
 </div>
 <div>
-<p>政和初<pc>，</pc>拜刑部侍郎<pc>，</pc>復改開封尹<pc>。</pc>奉宸庫吏呂壽盜金<pc>，</pc>係獄而逃<pc>。</pc>孝壽盡執守兵<pc>，</pc>論為故縱<pc>，</pc>非任事之吏與不上直者<pc>，</pc>亦以不即追掩繩之<pc>。</pc>凡配隸<num value="40">四十</num>人<pc>，</pc>陰賂杖者使加重<pc>，</pc>
-<num value="42">六七</num>人才出關而死<pc>。</pc>帝聞之<pc>，</pc>命悉還餘人<pc>。</pc>於是<term>諫議大夫</term>毛注論其殘忍苛虐<pc>，</pc>乞加譴<pc>，</pc>不聽<pc>。</pc>孝壽猶以獄空上表賀<pc>。</pc>
+<p>政和初<pc>，</pc>拜刑部侍郎<pc>，</pc>復改開封尹<pc>。</pc>奉宸庫吏呂壽盜金<pc>，</pc>係獄而逃<pc>。</pc>孝壽盡執守兵<pc>，</pc>論為故縱<pc>，</pc>非任事之吏與不上直者<pc>，</pc>亦以不即追掩繩之<pc>。</pc>凡配隸<measure quantity="40" unit="people">
+<num value="40">四十</num>人</measure>
+<pc>，</pc>陰賂杖者使加重<pc>，</pc>
+<measure quantity="42" unit="people">
+<num value="42">六七</num>人</measure>才出關而死<pc>。</pc>帝聞之<pc>，</pc>命悉還餘人<pc>。</pc>於是<term>諫議大夫</term>毛注論其殘忍苛虐<pc>，</pc>乞加譴<pc>，</pc>不聽<pc>。</pc>孝壽猶以獄空上表賀<pc>。</pc>
 </p>
 </div>
 <div>
@@ -309,7 +317,9 @@
 <pc>。</pc>
 <pc>”</pc>僕明日持詣府<pc>，</pc>告其主仿尹書判私用刑<pc>。</pc>孝壽即追至<pc>，</pc>備言本末<pc>，</pc>孝壽幡然曰<pc>：</pc>
 <pc>“</pc>所判正合我意<pc>。</pc>
-<pc>”</pc>如數與僕杖<pc>，</pc>而謝舉子<pc>。</pc>時都下數<num value="1000">千</num>人<pc>，</pc>無<num value="1">一</num>僕敢肆者<pc>，</pc>時以此稱之<pc>。</pc>明年<pc>，</pc>以疾<pc>，</pc>罷為龍圖閣學士<pc>、</pc>提舉醴泉觀<pc>。</pc>卒<pc>，</pc>贈正奉大夫<pc>。</pc>
+<pc>”</pc>如數與僕杖<pc>，</pc>而謝舉子<pc>。</pc>時都下數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>無<num value="1">一</num>僕敢肆者<pc>，</pc>時以此稱之<pc>。</pc>明年<pc>，</pc>以疾<pc>，</pc>罷為龍圖閣學士<pc>、</pc>提舉醴泉觀<pc>。</pc>卒<pc>，</pc>贈正奉大夫<pc>。</pc>
 </p>
 </div>
 <div>
@@ -387,7 +397,9 @@
 <p>曾方嚴持重<pc>，</pc>每進見<pc>，</pc>言利害事<pc>，</pc>審而中理<pc>；</pc>多所薦拔<pc>，</pc>尤惡僥幸<pc>。</pc>帝問曾曰<pc>：</pc>
 <pc>“</pc>比臣僚請對<pc>，</pc>多求進者<pc>。</pc>
 <pc>”</pc>曾對曰<pc>：</pc>
-<pc>“</pc>惟陛下抑奔競而崇恬靜<pc>，</pc>庶幾有難進易<persName>退之</persName>人矣<pc>。</pc>
+<pc>“</pc>惟陛下抑奔競而崇恬靜<pc>，</pc>庶幾有難進易<name key="韓愈" type="zi">
+<persName>退之</persName>
+</name>人矣<pc>。</pc>
 <pc>”</pc>曹利用惡曾班己上<pc>，</pc>嘗怏怏不悅<pc>，</pc>語在<pc>《</pc>
 <title>利用傳</title>
 <pc>》</pc>
@@ -428,7 +440,7 @@
 </p>
 </div>
 <div>
-<p>子融字熙仲<pc>。</pc>初以曾奏<pc>，</pc>為將作監主簿<pc>。</pc>祥符進士及第<pc>，</pc>累遷太常丞<pc>、</pc>同知禮院<pc>。</pc>獻所為文<pc>，</pc>召試<pc>，</pc>直集賢院<pc>。</pc>嘗論次<date>國朝</date>以來典禮因革<pc>，</pc>為<pc>《</pc>
+<p>子融字熙仲<pc>。</pc>初以曾奏<pc>，</pc>為將作監主簿<pc>。</pc>祥符進士及第<pc>，</pc>累遷太常丞<pc>、</pc>同知禮院<pc>。</pc>獻所為文<pc>，</pc>召試<pc>，</pc>直集賢院<pc>。</pc>嘗論次<date when="null">國朝</date>以來典禮因革<pc>，</pc>為<pc>《</pc>
 <title>禮閣新編</title>
 <pc>》</pc>上之<pc>。</pc>以其書藏太常<pc>。</pc>
 </p>
@@ -437,7 +449,7 @@
 <p>權<num value="3">三</num>司度支<pc>、</pc>鹽鐵判官<pc>。</pc>任布請鑄大錢<pc>，</pc>行之京城<pc>。</pc>
 <num value="3">三</num>司使程琳集官議<pc>，</pc>子融曰<pc>：</pc>
 <pc>“</pc>今軍營半在城外<pc>，</pc>獨行大錢城中<pc>，</pc>可乎<pc>？</pc>
-<pc>”</pc>事遂寢<pc>。</pc>權同糾察刑獄<pc>、</pc>知河陽<pc>。</pc>又集<date>
+<pc>”</pc>事遂寢<pc>。</pc>權同糾察刑獄<pc>、</pc>知河陽<pc>。</pc>又集<date when="null">
 <num value="5">五</num>代</date>事<pc>，</pc>為<pc>《</pc>
 <title>唐餘錄</title>
 <pc>》</pc>
@@ -510,7 +522,9 @@
 <div>
 <p>
 <persName>杜衍</persName>
-<pc>，</pc>字<persName>世昌</persName>
+<pc>，</pc>字<name key="杜衍" type="zi">
+<persName>世昌</persName>
+</name>
 <pc>，</pc>越州山陰人<pc>。</pc>父遂良<pc>，</pc>仕至尚書度支員外郎<pc>。</pc>衍總髪苦志厲操<pc>，</pc>尤篤於學<pc>。</pc>擢進士甲科<pc>，</pc>補<placeName>揚州</placeName>觀察推官<pc>，</pc>改秘書省著作佐郎<pc>、</pc>知平遙縣<pc>。</pc>使者薦之<pc>，</pc>通判晉州<pc>。</pc>
 </p>
 </div>
@@ -578,7 +592,8 @@
 <pc>“</pc>丁度因對求大用<pc>，</pc>請屬吏<pc>。</pc>
 <pc>”</pc>度知甫所奏誤<pc>，</pc>力求置對<pc>。</pc>衍以甫方奉使契丹<pc>，</pc>寢甫奏<pc>，</pc>度深銜之<pc>。</pc>及衍罷<pc>，</pc>度草製指衍朋比<pc>。</pc>時<persName>范仲淹</persName>
 <pc>、</pc>
-<persName>富弼</persName>欲更理天下事<pc>，</pc>與用事者不合<pc>，</pc>仲淹<pc>、</pc>弼既出宣撫<pc>，</pc>言者附會<pc>，</pc>益攻<num value="2">二</num>人之短<pc>。</pc>帝欲罷仲淹<pc>、</pc>弼政事<pc>，</pc>衍獨左右之<pc>，</pc>然衍平日議論<pc>，</pc>實非朋比也<pc>。</pc>以尚書左丞出知兗州<pc>。</pc>慶曆<measure quantity="7" unit="years">
+<persName>富弼</persName>欲更理天下事<pc>，</pc>與用事者不合<pc>，</pc>仲淹<pc>、</pc>弼既出宣撫<pc>，</pc>言者附會<pc>，</pc>益攻<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>之短<pc>。</pc>帝欲罷仲淹<pc>、</pc>弼政事<pc>，</pc>衍獨左右之<pc>，</pc>然衍平日議論<pc>，</pc>實非朋比也<pc>。</pc>以尚書左丞出知兗州<pc>。</pc>慶曆<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>衍甫<num value="70">七十</num>
 <pc>，</pc>上表請還印綬<pc>，</pc>乃以太子少師致仕<pc>。</pc>
@@ -605,7 +620,8 @@
 <p>論曰<pc>：</pc>李迪<pc>、</pc>王曾<pc>、</pc>張知白<pc>、</pc>
 <persName>杜衍</persName>
 <pc>，</pc>皆賢相也<pc>。</pc>
-<num value="4">四</num>人風烈<pc>，</pc>往往相似<pc>。</pc>方仁宗初立<pc>，</pc>章獻臨朝<pc>，</pc>頗挾其才<pc>，</pc>將有專制之患<pc>。</pc>迪<pc>、</pc>曾正色危言<pc>，</pc>能使宦官近習<pc>，</pc>不敢窺覦<pc>；</pc>而仁宗君德日就<pc>，</pc>章獻亦全令名<pc>，</pc>古人所謂社稷臣<pc>，</pc>於斯見之<pc>。</pc>知白<pc>、</pc>衍勁正清約<pc>，</pc>皆能靳惜名器<pc>，</pc>裁抑僥幸<pc>，</pc>凜然有大臣之概焉<pc>。</pc>宋之賢相<pc>，</pc>莫盛於真<pc>、</pc>仁之世<pc>，</pc>漢魏相<pc>，</pc>唐宋璟<pc>、</pc>楊綰<pc>，</pc>豈得專美哉<pc>！</pc>
+<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>風烈<pc>，</pc>往往相似<pc>。</pc>方仁宗初立<pc>，</pc>章獻臨朝<pc>，</pc>頗挾其才<pc>，</pc>將有專制之患<pc>。</pc>迪<pc>、</pc>曾正色危言<pc>，</pc>能使宦官近習<pc>，</pc>不敢窺覦<pc>；</pc>而仁宗君德日就<pc>，</pc>章獻亦全令名<pc>，</pc>古人所謂社稷臣<pc>，</pc>於斯見之<pc>。</pc>知白<pc>、</pc>衍勁正清約<pc>，</pc>皆能靳惜名器<pc>，</pc>裁抑僥幸<pc>，</pc>凜然有大臣之概焉<pc>。</pc>宋之賢相<pc>，</pc>莫盛於真<pc>、</pc>仁之世<pc>，</pc>漢魏相<pc>，</pc>唐宋璟<pc>、</pc>楊綰<pc>，</pc>豈得專美哉<pc>！</pc>
 </p>
 </div>
 </div>

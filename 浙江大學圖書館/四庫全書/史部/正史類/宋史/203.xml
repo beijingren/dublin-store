@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="203">
 <div>
-<p>◎藝文<num value="2">二</num>
+<p>
+<name key="null" type="null">◎藝文</name>
+<num value="2">二</num>
 </p>
 </div>
 <div>
@@ -86,7 +88,7 @@
 <measure quantity="30" unit="chapters">
 <num value="30">三十</num>卷</measure>陳壽<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="3">三</num>國</date>誌</title>
 <pc>》</pc>
 <measure quantity="65" unit="chapters">
@@ -195,14 +197,14 @@
 <div>
 <p>薛居正<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>史</title>
 <pc>》</pc>
 <measure quantity="150" unit="chapters">
 <num value="150">一百五十</num>卷</measure>
 <persName>歐陽修</persName>
 <pc>《</pc>
-<title>新<date>
+<title>新<date when="null">
 <num value="5">五</num>代</date>史</title>
 <pc>》</pc>
 <measure quantity="74" unit="chapters">
@@ -248,7 +250,7 @@
 <measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>又<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>史纂誤</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
@@ -379,7 +381,7 @@
 <measure quantity="5" unit="chapters">
 <num value="5">五</num>卷</measure>葛炳奎<pc>《</pc>
 <title>
-<date>國朝</date>名臣敘傳</title>
+<date when="null">國朝</date>名臣敘傳</title>
 <pc>》</pc>
 <measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>
@@ -392,7 +394,7 @@
 <pc>。</pc>
 <pc>（</pc>葛炳奎<pc>《</pc>
 <title>
-<date>國朝</date>名臣敘傳</title>
+<date when="null">國朝</date>名臣敘傳</title>
 <pc>》</pc>不著錄<num value="1">一</num>部<pc>，</pc>
 <measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>
@@ -487,7 +489,7 @@
 <measure quantity="100" unit="chapters">
 <num value="100">一百</num>卷</measure>丘悅<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="3">三</num>國</date>典略</title>
 <pc>》</pc>
 <measure quantity="20" unit="chapters">
@@ -721,7 +723,7 @@
 <pc>（</pc>並宋敏求撰<pc>）</pc>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>梁太祖實錄</title>
 <pc>》</pc>
 <measure quantity="30" unit="chapters">
@@ -729,7 +731,7 @@
 <pc>（</pc>張袞<pc>、</pc>郤象等撰<pc>）</pc>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>唐懿祖紀年錄</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
@@ -740,14 +742,14 @@
 <p>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>唐獻祖紀年錄</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>唐莊宗實錄</title>
 <pc>》</pc>
 <measure quantity="30" unit="chapters">
@@ -755,7 +757,7 @@
 <pc>（</pc>並趙鳳<pc>、</pc>張昭遠等撰<pc>）</pc>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>唐明宗實錄</title>
 <pc>》</pc>
 <measure quantity="30" unit="chapters">
@@ -767,7 +769,7 @@
 <p>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>唐湣帝實錄</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
@@ -775,7 +777,7 @@
 <pc>（</pc>張昭遠等撰<pc>）</pc>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>唐廢帝實錄</title>
 <pc>》</pc>
 <measure quantity="17" unit="chapters">
@@ -783,14 +785,14 @@
 <pc>（</pc>張昭等同撰<pc>）</pc>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>晉高祖實錄</title>
 <pc>》</pc>
 <measure quantity="30" unit="chapters">
 <num value="30">三十</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>晉少帝實錄</title>
 <pc>》</pc>
 <measure quantity="20" unit="chapters">
@@ -802,7 +804,7 @@
 <pc>（</pc>並竇貞固等撰<pc>）</pc>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>漢高祖實錄</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
@@ -810,14 +812,14 @@
 <pc>（</pc>蘇逢吉等撰<pc>）</pc>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>漢隱帝實錄</title>
 <pc>》</pc>
 <measure quantity="15" unit="chapters">
 <num value="15">十五</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>周太祖實錄</title>
 <pc>》</pc>
 <measure quantity="30" unit="chapters">
@@ -829,7 +831,7 @@
 <pc>（</pc>並張昭<pc>、</pc>尹拙<pc>、</pc>劉溫叟等撰<pc>）</pc>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>周世宗實錄</title>
 <pc>》</pc>
 <measure quantity="40" unit="chapters">
@@ -837,14 +839,14 @@
 <pc>（</pc>宋王溥等撰<pc>）</pc>
 <pc>《</pc>
 <title>
-<date>南唐</date>烈祖實錄</title>
+<date when="null">南唐</date>烈祖實錄</title>
 <pc>》</pc>
 <measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>
 <pc>（</pc>高遠撰<pc>）</pc>
 <pc>《</pc>
 <title>
-<date>後蜀</date>高祖實錄</title>
+<date when="null">後蜀</date>高祖實錄</title>
 <pc>》</pc>
 <measure quantity="30" unit="chapters">
 <num value="30">三十</num>卷</measure>
@@ -854,7 +856,7 @@
 <p>
 <pc>《</pc>
 <title>
-<date>後蜀</date>主實錄</title>
+<date when="null">後蜀</date>主實錄</title>
 <pc>》</pc>
 <measure quantity="40" unit="chapters">
 <num value="40">四十</num>卷</measure>
@@ -1022,7 +1024,7 @@
 <div>
 <p>範質<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>通錄</title>
 <pc>》</pc>
 <measure quantity="65" unit="chapters">
@@ -1055,7 +1057,7 @@
 <measure quantity="12" unit="chapters">
 <num value="12">十二</num>卷</measure>鄭向<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>開皇記</title>
 <pc>》</pc>
 <measure quantity="30" unit="chapters">
@@ -1079,7 +1081,7 @@
 <num value="2">二</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>春秋</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
@@ -1429,7 +1431,7 @@
 <measure quantity="10" unit="chapters">
 <num value="10">一十</num>卷</measure>呂中<pc>《</pc>
 <title>
-<date>國朝</date>治跡要略</title>
+<date when="null">國朝</date>治跡要略</title>
 <pc>》</pc>
 <measure quantity="14" unit="chapters">
 <num value="14">十四</num>卷</measure>
@@ -1467,12 +1469,12 @@
 <measure quantity="6" unit="chapters">
 <num value="6">六</num>卷</measure>趙曄<pc>《</pc>
 <title>
-<date>吳越</date>春秋</title>
+<date when="null">吳越</date>春秋</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>皇甫遵注<pc>《</pc>
 <title>
-<date>吳越</date>春秋</title>
+<date when="null">吳越</date>春秋</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -1646,7 +1648,7 @@
 <measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>張詢古<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>新說</title>
 <pc>》</pc>
 <measure quantity="2" unit="chapters">
@@ -1713,13 +1715,13 @@
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>王禹偁<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>史闕文</title>
 <pc>》</pc>
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>陶嶽<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>史補</title>
 <pc>》</pc>
 <measure quantity="5" unit="chapters">
@@ -1743,7 +1745,7 @@
 <measure quantity="60" unit="chapters">
 <num value="60">六十</num>卷</measure>孫衝<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>紀</title>
 <pc>》</pc>
 <measure quantity="77" unit="chapters">
@@ -1758,7 +1760,7 @@
 <div>
 <p>劉攽<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>春秋</title>
 <pc>》</pc>
 <num value="1">一</num>部<pc>（</pc>卷亡<pc>）</pc>劉恕<pc>《</pc>
@@ -2132,7 +2134,7 @@
 <pc>》</pc>
 <measure quantity="42" unit="chapters">
 <num value="42">四十二</num>卷</measure>李杞<pc>《</pc>
-<title>改修<date>
+<title>改修<date when="null">
 <num value="3">三</num>國</date>誌</title>
 <pc>》</pc>
 <measure quantity="67" unit="chapters">
@@ -2236,7 +2238,7 @@
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>宗諫<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="3">三</num>國</date>采要</title>
 <pc>》</pc>
 <measure quantity="6" unit="chapters">
@@ -2275,7 +2277,7 @@
 <measure quantity="30" unit="chapters">
 <num value="30">三十</num>卷</measure>又<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="3">三</num>國</date>
 <num value="6">六</num>朝攻守要論</title>
 <pc>》</pc>
@@ -2435,7 +2437,7 @@
 <num value="104">一百四</num>卷</measure>
 <pc>（</pc>不知作者<pc>）</pc>胡旦<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>史略</title>
 <pc>》</pc>
 <measure quantity="42" unit="chapters">
@@ -2477,7 +2479,7 @@
 <measure quantity="5" unit="chapters">
 <num value="5">五</num>卷</measure>師古<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="3">三</num>國</date>誌質疑</title>
 <pc>》</pc>
 <measure quantity="14" unit="chapters">
@@ -2524,7 +2526,7 @@
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>楊天惠<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="3">三</num>國</date>人物論</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
@@ -2589,14 +2591,14 @@
 <num value="7">七</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>纂要賦</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>國朝</date>撮要</title>
+<date when="null">國朝</date>撮要</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -2629,7 +2631,7 @@
 <p>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>
 <num value="3">三</num>衙將帥年表</title>
 <pc>》</pc>
@@ -2916,7 +2918,7 @@
 <p>
 <pc>（</pc>並不知作者<pc>）</pc>林勤<pc>《</pc>
 <title>
-<date>國朝</date>典要雜編</title>
+<date when="null">國朝</date>典要雜編</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>李大性<pc>《</pc>
@@ -3385,7 +3387,7 @@
 <measure quantity="5" unit="chapters">
 <num value="5">五</num>卷</measure>範鎮<pc>《</pc>
 <title>
-<date>國朝</date>事始</title>
+<date when="null">國朝</date>事始</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -3404,7 +3406,7 @@
 <num value="36">三十六</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>國朝</date>寶訓</title>
+<date when="null">國朝</date>寶訓</title>
 <pc>》</pc>
 <measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>
@@ -3988,7 +3990,7 @@
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>國朝</date>撮要</title>
+<date when="null">國朝</date>撮要</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -4429,7 +4431,7 @@
 <pc>）</pc>
 <pc>《</pc>
 <title>
-<date>國朝</date>傳記</title>
+<date when="null">國朝</date>傳記</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>
@@ -5193,7 +5195,7 @@
 <num value="1">一</num>卷</measure>
 <pc>（</pc>不知作者<pc>）</pc>洪適<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>登科記</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
@@ -5652,7 +5654,7 @@
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>國朝</date>名將行狀</title>
+<date when="null">國朝</date>名將行狀</title>
 <pc>》</pc>
 <measure quantity="4" unit="chapters">
 <num value="4">四</num>卷</measure>
@@ -6351,13 +6353,13 @@
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="3">三</num>國</date>史記</title>
 <pc>》</pc>
 <measure quantity="50" unit="chapters">
 <num value="50">五十</num>卷</measure>
 <pc>（</pc>並不知作者<pc>）</pc>高得相<pc>《</pc>
-<title>海東<date>
+<title>海東<date when="null">
 <num value="3">三</num>國</date>通曆</title>
 <pc>》</pc>
 <measure quantity="12" unit="chapters">

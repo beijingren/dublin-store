@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="440">
 <div>
-<p>◎文苑<num value="2">二</num>
+<p>
+<name key="null" type="null">◎文苑</name>
+<num value="2">二</num>
 </p>
 </div>
 <div>
@@ -58,7 +60,8 @@
 <div>
 <p>頔有清節<pc>，</pc>力學強記<pc>，</pc>手寫書<num value="1000">千</num>餘卷<pc>。</pc>彥卿待之甚厚<pc>，</pc>或過致優給<pc>，</pc>頔計口受費<pc>，</pc>餘皆不納<pc>。</pc>彥卿左右多肆貪虐<pc>，</pc>民不能堪<pc>，</pc>及彥卿罷鎮<pc>，</pc>其故時將吏<pc>、</pc>賓客皆心愧<pc>，</pc>無敢複遊魏者<pc>。</pc>惟頔清苦守法<pc>，</pc>魏人愛之<pc>。</pc>在魏<measure quantity="30" unit="years">
 <num value="30">三十</num>年</measure>
-<pc>，</pc>無<num value="1">一</num>人言其非者<pc>。</pc>所乘馬老<pc>，</pc>以糜飼之<pc>。</pc>仆夫年<num value="70">七十</num>
+<pc>，</pc>無<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>言其非者<pc>。</pc>所乘馬老<pc>，</pc>以糜飼之<pc>。</pc>仆夫年<num value="70">七十</num>
 <pc>，</pc>待之如初<pc>，</pc>時稱其長者<pc>。</pc>
 </p>
 </div>
@@ -67,7 +70,9 @@
 </p>
 </div>
 <div>
-<p>李度<pc>，</pc>河南<placeName>洛陽</placeName>人<pc>。</pc>周顯德中舉進士<pc>。</pc>度工於詩<pc>，</pc>有<pc>“</pc>醉輕浮世事<pc>，</pc>老重故鄉人<pc>”</pc>之句<pc>。</pc>時翰林學士申文炳知貢舉<pc>，</pc>樞密使王樸移書錄其句以薦之<pc>，</pc>文炳即擢度為第<num value="3">三</num>人<pc>。</pc>釋褐永寧縣主簿<pc>。</pc>
+<p>李度<pc>，</pc>河南<placeName>洛陽</placeName>人<pc>。</pc>周顯德中舉進士<pc>。</pc>度工於詩<pc>，</pc>有<pc>“</pc>醉輕浮世事<pc>，</pc>老重故鄉人<pc>”</pc>之句<pc>。</pc>時翰林學士申文炳知貢舉<pc>，</pc>樞密使王樸移書錄其句以薦之<pc>，</pc>文炳即擢度為第<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>。</pc>釋褐永寧縣主簿<pc>。</pc>
 </p>
 </div>
 <div>
@@ -107,7 +112,9 @@
 <pc>，</pc>釋褐秘書省校書郎<pc>。</pc>周廣順中<pc>，</pc>
 <term>宰相</term>範質奏充集賢校理<pc>，</pc>出為鄆州觀察支使<pc>，</pc>曆永興軍節度掌書記<pc>、</pc>伊陽令<pc>。</pc>顯德<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>詣闕進策<pc>，</pc>召試<pc>，</pc>複授猗氏令<pc>，</pc>遷蔡州防禦判官<pc>，</pc>複宰介休<pc>、</pc>魏縣<pc>。</pc>開寶中<pc>，</pc>趙普為相<pc>，</pc>擢為著作佐郎<pc>。</pc>時任此官<pc>，</pc>惟常與楊徽之<pc>、</pc>李若拙<pc>、</pc>趙鄰幾<num value="4">四</num>人<pc>，</pc>皆有名於時<pc>。</pc>常應舉時<pc>，</pc>著<pc>《</pc>
+<pc>，</pc>詣闕進策<pc>，</pc>召試<pc>，</pc>複授猗氏令<pc>，</pc>遷蔡州防禦判官<pc>，</pc>複宰介休<pc>、</pc>魏縣<pc>。</pc>開寶中<pc>，</pc>趙普為相<pc>，</pc>擢為著作佐郎<pc>。</pc>時任此官<pc>，</pc>惟常與楊徽之<pc>、</pc>李若拙<pc>、</pc>趙鄰幾<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>皆有名於時<pc>。</pc>常應舉時<pc>，</pc>著<pc>《</pc>
 <title>
 <num value="4">四</num>時成歲賦</title>
 <pc>》</pc>
@@ -163,14 +170,16 @@
 <div>
 <p>
 <persName>柳開</persName>
-<pc>，</pc>字<persName>仲塗</persName>
+<pc>，</pc>字<name key="柳開" type="zi">
+<persName>仲塗</persName>
+</name>
 <pc>，</pc>大名人<pc>。</pc>父承翰<pc>，</pc>乾德初監察禦史<pc>。</pc>開幼穎異<pc>，</pc>有膽勇<pc>。</pc>周顯德末<pc>，</pc>侍父任南樂<pc>，</pc>夜與家人立庭中<pc>，</pc>有盜入室<pc>，</pc>眾恐不敢動<pc>，</pc>開裁<num value="13">十三</num>
 <pc>，</pc>亟取劍逐之<pc>，</pc>盜逾垣出<pc>，</pc>開揮刃斷<num value="2">二</num>足指<pc>。</pc>
 </p>
 </div>
 <div>
 <p>既就學<pc>，</pc>喜討論經義<pc>。</pc>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>文格淺弱<pc>，</pc>慕<persName>韓愈</persName>
 <pc>、</pc>柳宗元為文<pc>，</pc>因名肩愈<pc>，</pc>字紹先<pc>。</pc>既而改名字<pc>，</pc>以為能開聖道之塗也<pc>。</pc>著書自號東郊野夫<pc>，</pc>又號補亡先生<pc>，</pc>作<num value="2">二</num>傳以見意<pc>。</pc>尚氣自任<pc>，</pc>不顧小節<pc>，</pc>所交皆<num value="1">一</num>時豪雋<pc>。</pc>範杲好古學<pc>，</pc>尤重開文<pc>，</pc>世稱為<pc>“</pc>柳<pc>、</pc>範<pc>”</pc>
 <pc>。</pc>王祐知大名<pc>，</pc>開以文贄大蒙賞激<pc>。</pc>楊昭儉<pc>、</pc>盧多遜並加延獎<pc>。</pc>開寶<measure quantity="6" unit="years">
@@ -193,14 +202,15 @@
 <pc>“</pc>臣受非常恩<pc>，</pc>未有以報<pc>，</pc>年裁<num value="40">四十</num>
 <pc>，</pc>膽力方壯<pc>。</pc>今契丹未滅<pc>，</pc>願陛下賜臣步騎數<num value="1000">千</num>
 <pc>，</pc>任以河北用兵之地<pc>，</pc>必能出生入死<pc>，</pc>為陛下複幽<pc>、</pc>薊<pc>，</pc>雖身沒戰場<pc>，</pc>臣之願也<pc>。</pc>
-<pc>”</pc>上以<date>
+<pc>”</pc>上以<date when="null">
 <num value="5">五</num>代</date>戰爭以來<pc>，</pc>自節鎮至<term>刺史</term>皆用武臣<pc>，</pc>多不曉政事<pc>，</pc>人受其弊<pc>。</pc>欲兼用文士<pc>，</pc>乃以侍禦史鄭宣<pc>、</pc>戶部員外郎趙載<pc>、</pc>司門員外郎劉墀並為如京使<pc>，</pc>左拾遺劉慶為西京作坊使<pc>，</pc>開為崇儀使<pc>、</pc>知寧邊軍<pc>。</pc>
 </p>
 </div>
 <div>
 <p>徙全州<pc>。</pc>全西溪洞有粟氏<pc>，</pc>聚族<num value="500">五百</num>餘人<pc>，</pc>常鈔劫民口糧畜<pc>，</pc>開為作衣帶巾帽<pc>，</pc>選牙吏勇辯者得<num value="3">三</num>輩<pc>，</pc>使入<pc>，</pc>諭之曰<pc>：</pc>
 <pc>“</pc>爾能歸我<pc>，</pc>即有厚賞<pc>，</pc>給田為屋處之<pc>；</pc>不然<pc>，</pc>發兵深入<pc>，</pc>滅爾類矣<pc>。</pc>
-<pc>”</pc>粟氏懼<pc>，</pc>留<num value="2">二</num>吏為質<pc>，</pc>率其酋<num value="4">四</num>人與<num value="1">一</num>吏偕來<pc>。</pc>開厚其犒賜<pc>，</pc>吏民爭以鼓吹飲之<pc>。</pc>居數日遣還<pc>，</pc>如期攜老幼悉至<pc>。</pc>開即賦其居業<pc>，</pc>作<pc>《</pc>
+<pc>”</pc>粟氏懼<pc>，</pc>留<num value="2">二</num>吏為質<pc>，</pc>率其酋<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>與<num value="1">一</num>吏偕來<pc>。</pc>開厚其犒賜<pc>，</pc>吏民爭以鼓吹飲之<pc>。</pc>居數日遣還<pc>，</pc>如期攜老幼悉至<pc>。</pc>開即賦其居業<pc>，</pc>作<pc>《</pc>
 <title>時鑒</title>
 <pc>》</pc>
 <num value="1">一</num>篇<pc>，</pc>刻石戒之<pc>。</pc>遣其酋入朝<pc>，</pc>授本州上佐<pc>。</pc>賜開錢<num value="300000">三十萬</num>
@@ -212,7 +222,8 @@
 <pc>。</pc>複舊官<pc>，</pc>知環州<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>移邠州<pc>。</pc>時調民輦送趨環<pc>、</pc>慶<pc>，</pc>己再運<pc>，</pc>民皆蕩析產業<pc>，</pc>轉運使複督後運<pc>，</pc>民數<num value="1000">千</num>人入州署號訴<pc>。</pc>開貽書轉運使曰<pc>：</pc>
+<pc>，</pc>移邠州<pc>。</pc>時調民輦送趨環<pc>、</pc>慶<pc>，</pc>己再運<pc>，</pc>民皆蕩析產業<pc>，</pc>轉運使複督後運<pc>，</pc>民數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>入州署號訴<pc>。</pc>開貽書轉運使曰<pc>：</pc>
 <pc>“</pc>開近離環州<pc>，</pc>知芻糧之數不增<pc>，</pc>大兵可支<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>今蠶農方作<pc>，</pc>再運半發<pc>，</pc>老幼疲弊<pc>，</pc>畜乘困竭<pc>，</pc>奈何又苦之<pc>？</pc>不罷<pc>，</pc>開即馳詣闕下<pc>，</pc>白於上前矣<pc>。</pc>
@@ -555,9 +566,11 @@
 <num value="1">一</num>字師皋<pc>，</pc>河南人<pc>。</pc>父重榮<pc>，</pc>晉成德軍節度<pc>，</pc>
 <pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>史</title>
-<pc>》</pc>有傳<pc>。</pc>德裕生於真定<pc>，</pc>未期<pc>，</pc>重榮舉兵敗<pc>，</pc>乳母抱逃水竇中<pc>。</pc>將出<pc>，</pc>為守兵所得<pc>，</pc>執以見軍校秦習<pc>，</pc>習與重榮有舊<pc>，</pc>因匿之<pc>。</pc>習先養石守瓊為子<pc>，</pc>及年壯無嗣<pc>，</pc>以德裕付瓊養之<pc>，</pc>因姓<persName>秦</persName>氏<pc>。</pc>習世兵家<pc>，</pc>以弓矢<pc>、</pc>狗馬為事<pc>。</pc>德裕孩提即喜筆硯<pc>，</pc>遇文字輒為誦讀聲<pc>，</pc>諸子不之齒<pc>，</pc>習獨異之<pc>。</pc>既成童<pc>，</pc>俾就學<pc>，</pc>遂博貫文史<pc>，</pc>精於<pc>《</pc>
+<pc>》</pc>有傳<pc>。</pc>德裕生於真定<pc>，</pc>未期<pc>，</pc>重榮舉兵敗<pc>，</pc>乳母抱逃水竇中<pc>。</pc>將出<pc>，</pc>為守兵所得<pc>，</pc>執以見軍校秦習<pc>，</pc>習與重榮有舊<pc>，</pc>因匿之<pc>。</pc>習先養石守瓊為子<pc>，</pc>及年壯無嗣<pc>，</pc>以德裕付瓊養之<pc>，</pc>因姓<name key="null" type="null">
+<persName>秦</persName>
+</name>氏<pc>。</pc>習世兵家<pc>，</pc>以弓矢<pc>、</pc>狗馬為事<pc>。</pc>德裕孩提即喜筆硯<pc>，</pc>遇文字輒為誦讀聲<pc>，</pc>諸子不之齒<pc>，</pc>習獨異之<pc>。</pc>既成童<pc>，</pc>俾就學<pc>，</pc>遂博貫文史<pc>，</pc>精於<pc>《</pc>
 <title>禮</title>
 <pc>》</pc>
 <pc>、</pc>

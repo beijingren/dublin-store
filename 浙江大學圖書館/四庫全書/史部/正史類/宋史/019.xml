@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="19">
 <div>
-<p>　　徽宗體神合道駿烈遜功聖文仁德憲慈顯孝皇帝<pc>，</pc>諱佶<pc>，</pc>神宗第<num value="11">十一</num>子也<pc>，</pc>母曰欽慈皇后陳氏<pc>。</pc>元豐<measure quantity="5" unit="years">
+<p>
+<name key="null" type="null">　　徽</name>宗體神合道駿烈遜功聖文仁德憲慈顯孝皇帝<pc>，</pc>諱佶<pc>，</pc>神宗第<num value="11">十一</num>子也<pc>，</pc>母曰欽慈皇后陳氏<pc>。</pc>元豐<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
@@ -128,7 +129,9 @@
 <num value="7">庚午</num>
 <pc>，</pc>遣韓治<pc>、</pc>曹譜告即位於遼<pc>。</pc>
 <num value="8">辛未</num>
-<pc>，</pc>詔追封祖宗諸子光濟等<num value="33">三十三</num>人為王<pc>，</pc>女<num value="48">四十八</num>人為公主<pc>。</pc>
+<pc>，</pc>詔追封祖宗諸子光濟等<measure quantity="33" unit="people">
+<num value="33">三十三</num>人</measure>為王<pc>，</pc>女<measure quantity="48" unit="people">
+<num value="48">四十八</num>人</measure>為公主<pc>。</pc>
 <num value="21">甲申</num>
 <pc>，</pc>以西蕃王隴拶為河西軍<term>節度使</term>
 <pc>，</pc>尋賜姓名曰趙懷德<pc>，</pc>邈川首領瞎征為懷遠軍<term>節度使</term>
@@ -168,7 +171,9 @@
 <num value="60">癸亥</num>
 <pc>，</pc>罷編類臣僚章疏局<pc>。</pc>
 <num value="2">乙丑</num>
-<pc>，</pc>賜禮部奏名進士及第<pc>、</pc>出身<num value="518">五百十八</num>人<pc>。</pc>
+<pc>，</pc>賜禮部奏名進士及第<pc>、</pc>出身<measure quantity="518" unit="people">
+<num value="518">五百十八</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -178,7 +183,8 @@
 <num value="13">丙子</num>
 <pc>，</pc>詔複廢後孟氏為元祐皇后<pc>。</pc>
 <num value="22">乙酉</num>
-<pc>，</pc>蔡卞罷<pc>。</pc>己醜<pc>，</pc>詔追複文彥博<pc>、</pc>王珪<pc>、</pc>司馬光<pc>、</pc>呂公著<pc>、</pc>呂大防<pc>、</pc>劉摯等<num value="33">三十三</num>人官<pc>。</pc>
+<pc>，</pc>蔡卞罷<pc>。</pc>己醜<pc>，</pc>詔追複文彥博<pc>、</pc>王珪<pc>、</pc>司馬光<pc>、</pc>呂公著<pc>、</pc>呂大防<pc>、</pc>劉摯等<measure quantity="33" unit="people">
+<num value="33">三十三</num>人</measure>官<pc>。</pc>
 <num value="28">辛卯</num>
 <pc>，</pc>還司馬光等致仕遺表恩<pc>。</pc>
 <num value="30">癸巳</num>
@@ -301,13 +307,15 @@
 <num value="41">甲辰</num>
 <pc>，</pc>詔修<pc>《</pc>
 <title>
-<date>國朝</date>會要</title>
+<date when="null">國朝</date>會要</title>
 <pc>》</pc>
 <pc>。</pc>
 <num value="45">戊申</num>
 <pc>，</pc>降德音于諸路<pc>：</pc>減囚罪<num value="1">一</num>等<pc>，</pc>流以下釋之<pc>。</pc>
 <num value="55">戊午</num>
-<pc>，</pc>遼人來賀正旦<pc>。</pc>是歲<pc>，</pc>出宮女<num value="69">六十九</num>人<pc>。</pc>
+<pc>，</pc>遼人來賀正旦<pc>。</pc>是歲<pc>，</pc>出宮女<measure quantity="69" unit="people">
+<num value="69">六十九</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -473,7 +481,9 @@
 <num value="35">戊戌</num>
 <pc>，</pc>詔<pc>：</pc>
 <pc>「</pc>
-<quote>士有懷抱道德<pc>、</pc>久沈下僚及學行兼備<pc>、</pc>可厲風俗者<pc>，</pc>待制以上各舉所知<num value="2">二</num>人<pc>。</pc>
+<quote>士有懷抱道德<pc>、</pc>久沈下僚及學行兼備<pc>、</pc>可厲風俗者<pc>，</pc>待制以上各舉所知<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 </quote>
 <pc>」</pc>奉議郎趙諗謀反<pc>，</pc>伏誅<pc>。</pc>
 <num value="37">庚子</num>
@@ -514,7 +524,9 @@
 <num value="7">庚午</num>
 <pc>，</pc>降複太子太保司馬光為正議大夫<pc>，</pc>太師文彥博為太子太保<pc>，</pc>餘各以差奪官<pc>。</pc>
 <num value="8">辛未</num>
-<pc>，</pc>詔待制以上舉能吏各<num value="2">二</num>人<pc>。</pc>
+<pc>，</pc>詔待制以上舉能吏各<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <num value="12">乙亥</num>
 <pc>，</pc>黜後苑內侍請以箔金飾宮殿者<pc>。</pc>
 <num value="13">丙子</num>
@@ -549,11 +561,15 @@
 <num value="59">壬戌</num>
 <pc>，</pc>曾布罷<pc>。</pc>
 <num value="1">甲子</num>
-<pc>，</pc>詔諸路州縣官有治績最著者<pc>，</pc>許監司<pc>、</pc>帥臣各舉<num value="1">一</num>人<pc>。</pc>
+<pc>，</pc>詔諸路州縣官有治績最著者<pc>，</pc>許監司<pc>、</pc>帥臣各舉<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 <num value="19">壬午</num>
 <pc>，</pc>追貶李清臣為武安軍節度副使<pc>。</pc>
 <num value="20">癸未</num>
-<pc>，</pc>詔監司<pc>、</pc>帥臣于本路小使臣以上及親民官內<pc>，</pc>有智謀勇果可備將帥者<pc>，</pc>各舉<num value="1">一</num>人<pc>。</pc>
+<pc>，</pc>詔監司<pc>、</pc>帥臣于本路小使臣以上及親民官內<pc>，</pc>有智謀勇果可備將帥者<pc>，</pc>各舉<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -589,7 +605,8 @@
 <num value="11">甲戌</num>
 <pc>，</pc>詔天下興學貢士<pc>，</pc>建外學于國南<pc>。</pc>
 <num value="13">丙子</num>
-<pc>，</pc>詔司馬光等<num value="21">二十一</num>人子弟毋得官京師<pc>。</pc>
+<pc>，</pc>詔司馬光等<measure quantity="21" unit="people">
+<num value="21">二十一</num>人</measure>子弟毋得官京師<pc>。</pc>
 <num value="16">己卯</num>
 <pc>，</pc>以趙挺之為尚書左丞<pc>，</pc>翰林學士張商英為尚書右丞<pc>。</pc>
 </p>
@@ -603,11 +620,18 @@
 <pc>，</pc>詔中書籍元符<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>臣僚章疏姓名為正上<pc>、</pc>正中<pc>、</pc>正下<num value="3">三</num>等<pc>，</pc>邪上<pc>、</pc>邪中<pc>、</pc>邪下<num value="3">三</num>等<pc>。</pc>
 <num value="34">丁酉</num>
-<pc>，</pc>治臣僚議複元祐皇后及謀廢元符皇后者罪<pc>，</pc>降韓忠彥<pc>、</pc>曾布官<pc>，</pc>追貶李清臣為雷州司戶參軍<pc>，</pc>黃履為祁州團練副使<pc>，</pc>竄曾肇以下<num value="17">十七</num>人<pc>。</pc>
+<pc>，</pc>治臣僚議複元祐皇后及謀廢元符皇后者罪<pc>，</pc>降韓忠彥<pc>、</pc>曾布官<pc>，</pc>追貶李清臣為雷州司戶參軍<pc>，</pc>黃履為祁州團練副使<pc>，</pc>竄曾肇以下<measure quantity="17" unit="people">
+<num value="17">十七</num>人</measure>
+<pc>。</pc>
 <num value="36">己亥</num>
-<pc>，</pc>籍元祐及元符末<term>宰相</term>文彥博等<pc>、</pc>侍從蘇軾等<pc>、</pc>余官秦觀等<pc>、</pc>內臣張士良等<pc>、</pc>武臣王獻可等凡<num value="100">百</num>有<num value="20">二十</num>人<pc>，</pc>禦書刻石端禮門<pc>。</pc>
+<pc>，</pc>籍元祐及元符末<term>宰相</term>文彥博等<pc>、</pc>侍從蘇軾等<pc>、</pc>余官秦觀等<pc>、</pc>內臣張士良等<pc>、</pc>武臣王獻可等凡<num value="100">百</num>有<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>禦書刻石端禮門<pc>。</pc>
 <num value="37">庚子</num>
-<pc>，</pc>以元符末上書人鐘世美以下<num value="41">四十一</num>人為正等<pc>，</pc>悉加旌擢<pc>；</pc>范柔中以下<num value="500">五百</num>余人為邪等<pc>，</pc>降責有差<pc>。</pc>時世美已卒<pc>，</pc>詔贈官<pc>，</pc>仍官其子<num value="1">一</num>人<pc>。</pc>
+<pc>，</pc>以元符末上書人鐘世美以下<measure quantity="41" unit="people">
+<num value="41">四十一</num>人</measure>為正等<pc>，</pc>悉加旌擢<pc>；</pc>范柔中以下<num value="500">五百</num>余人為邪等<pc>，</pc>降責有差<pc>。</pc>時世美已卒<pc>，</pc>詔贈官<pc>，</pc>仍官其子<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 <num value="39">壬寅</num>
 <pc>，</pc>貶曾布為武泰軍節度副使<pc>。</pc>
 <num value="41">甲辰</num>
@@ -627,7 +651,8 @@
 <num value="11">甲戌</num>
 <pc>，</pc>以禦史錢遹<pc>、</pc>石豫<pc>、</pc>左膚及輔臣蔡京<pc>、</pc>許將<pc>、</pc>溫益<pc>、</pc>趙挺之<pc>、</pc>張商英等言<pc>，</pc>罷元祐皇后之號<pc>，</pc>複居瑤華宮<pc>。</pc>
 <num value="13">丙子</num>
-<pc>，</pc>劉奉世等<num value="27">二十七</num>人坐元符末黨與變法<pc>，</pc>並罷祠祿<pc>。</pc>
+<pc>，</pc>劉奉世等<measure quantity="27" unit="people">
+<num value="27">二十七</num>人</measure>坐元符末黨與變法<pc>，</pc>並罷祠祿<pc>。</pc>
 <num value="15">戊寅</num>
 <pc>，</pc>以資政殿學士蔡卞知樞密院事<pc>。</pc>
 </p>
@@ -659,7 +684,9 @@
 <pc>「</pc>
 <quote>諸邪說詖行非先聖賢之書<pc>，</pc>及元祐學術政事<pc>，</pc>並勿施用<pc>。</pc>
 </quote>
-<pc>」</pc>是歲<pc>，</pc>京畿<pc>、</pc>京東<pc>、</pc>河北<pc>、</pc>淮南蝗<pc>。</pc>江<pc>、</pc>浙<pc>、</pc>熙河<pc>、</pc>漳<pc>、</pc>泉<pc>、</pc>潭<pc>、</pc>衡<pc>、</pc>郴州<pc>、</pc>興化軍旱<pc>。</pc>辰<pc>、</pc>沅州徭入寇<pc>。</pc>出宮女<num value="76">七十六</num>人<pc>。</pc>
+<pc>」</pc>是歲<pc>，</pc>京畿<pc>、</pc>京東<pc>、</pc>河北<pc>、</pc>淮南蝗<pc>。</pc>江<pc>、</pc>浙<pc>、</pc>熙河<pc>、</pc>漳<pc>、</pc>泉<pc>、</pc>潭<pc>、</pc>衡<pc>、</pc>郴州<pc>、</pc>興化軍旱<pc>。</pc>辰<pc>、</pc>沅州徭入寇<pc>。</pc>出宮女<measure quantity="76" unit="people">
+<num value="76">七十六</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -670,7 +697,8 @@
 </measure>
 <num value="18">辛巳</num>朔<pc>。</pc>
 <num value="22">乙酉</num>
-<pc>，</pc>竄任伯雨<pc>、</pc>陳瓘<pc>、</pc>龔<pc>、</pc>鄒浩于嶺南<pc>，</pc>馬涓等<num value="9">九</num>人分貶諸州<pc>。</pc>知荊南舒亶平辰<pc>、</pc>沅州徭賊<pc>，</pc>複誠<pc>、</pc>徽州<pc>，</pc>改誠州為靖州<pc>，</pc>徽州為蒔竹縣<pc>。</pc>
+<pc>，</pc>竄任伯雨<pc>、</pc>陳瓘<pc>、</pc>龔<pc>、</pc>鄒浩于嶺南<pc>，</pc>馬涓等<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>分貶諸州<pc>。</pc>知荊南舒亶平辰<pc>、</pc>沅州徭賊<pc>，</pc>複誠<pc>、</pc>徽州<pc>，</pc>改誠州為靖州<pc>，</pc>徽州為蒔竹縣<pc>。</pc>
 <num value="29">壬辰</num>
 <pc>，</pc>溫益卒<pc>。</pc>
 <num value="42">乙巳</num>
@@ -708,14 +736,18 @@
 <num value="24">丁亥</num>
 <pc>，</pc>禦集英殿策進士<pc>。</pc>
 <num value="40">癸卯</num>
-<pc>，</pc>賜禮部奏名進士及第<pc>、</pc>出身<num value="538">五百三十八</num>人<pc>，</pc>其嘗上書在正等者升甲<pc>，</pc>邪等者黜之<pc>。</pc>
+<pc>，</pc>賜禮部奏名進士及第<pc>、</pc>出身<measure quantity="538" unit="people">
+<num value="538">五百三十八</num>人</measure>
+<pc>，</pc>其嘗上書在正等者升甲<pc>，</pc>邪等者黜之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　夏<measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <num value="51">甲寅</num>
-<pc>，</pc>詔侍從官各舉所知<num value="2">二</num>人<pc>。</pc>
+<pc>，</pc>詔侍從官各舉所知<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 <num value="52">乙卯</num>
 <pc>，</pc>于闐入貢<pc>。</pc>
 <num value="4">丁卯</num>
@@ -850,7 +882,9 @@
 <p>　　<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="43">丙午</num>
-<pc>，</pc>以淑妃鄭氏為貴妃<pc>。</pc>以刊定元豐役法不當<pc>，</pc>黜錢遹以下<num value="9">九</num>人<pc>。</pc>
+<pc>，</pc>以淑妃鄭氏為貴妃<pc>。</pc>以刊定元豐役法不當<pc>，</pc>黜錢遹以下<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>
+<pc>。</pc>
 <num value="44">丁未</num>
 <pc>，</pc>置漏澤園<pc>。</pc>
 <num value="46">己酉</num>
@@ -917,7 +951,9 @@
 <num value="49">壬子</num>
 <pc>，</pc>置書<pc>、</pc>畫<pc>、</pc>算學<pc>。</pc>占城入貢<pc>。</pc>
 <num value="55">戊午</num>
-<pc>，</pc>詔重定元祐<pc>、</pc>元符黨人及上書邪等者合為<num value="1">一</num>籍<pc>，</pc>通<num value="309">三百九</num>人<pc>，</pc>刻石朝堂<pc>，</pc>餘並出籍<pc>，</pc>自今毋得複彈奏<pc>。</pc>
+<pc>，</pc>詔重定元祐<pc>、</pc>元符黨人及上書邪等者合為<num value="1">一</num>籍<pc>，</pc>通<measure quantity="309" unit="people">
+<num value="309">三百九</num>人</measure>
+<pc>，</pc>刻石朝堂<pc>，</pc>餘並出籍<pc>，</pc>自今毋得複彈奏<pc>。</pc>
 <num value="58">辛酉</num>
 <pc>，</pc>複置太醫局<pc>。</pc>
 <num value="60">癸亥</num>
@@ -986,7 +1022,9 @@
 <p>　　<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <num value="11">甲戌</num>
-<pc>，</pc>幸太學<pc>，</pc>官論定之士<num value="16">十六</num>人<pc>，</pc>遂幸辟雍<pc>，</pc>賜國子司業吳絪<pc>、</pc>蔣靜<num value="4">四</num>品服<pc>，</pc>學官推恩有差<pc>。</pc>
+<pc>，</pc>幸太學<pc>，</pc>官論定之士<measure quantity="16" unit="people">
+<num value="16">十六</num>人</measure>
+<pc>，</pc>遂幸辟雍<pc>，</pc>賜國子司業吳絪<pc>、</pc>蔣靜<num value="4">四</num>品服<pc>，</pc>學官推恩有差<pc>。</pc>
 <num value="23">丙戌</num>
 <pc>，</pc>封子杞為冀國公<pc>。</pc>
 <num value="24">丁亥</num>
@@ -1004,7 +1042,9 @@
 <num value="42">乙巳</num>
 <pc>，</pc>升通遠軍為鞏州<pc>。</pc>
 <num value="55">戊午</num>
-<pc>，</pc>賜陳王佖入朝不趨<pc>。</pc>是歲<pc>，</pc>諸路蝗<pc>。</pc>出宮女<num value="62">六十二</num>人<pc>。</pc>廣西黎洞楊晟免等內附<pc>。</pc>
+<pc>，</pc>賜陳王佖入朝不趨<pc>。</pc>是歲<pc>，</pc>諸路蝗<pc>。</pc>出宮女<measure quantity="62" unit="people">
+<num value="62">六十二</num>人</measure>
+<pc>。</pc>廣西黎洞楊晟免等內附<pc>。</pc>
 </p>
 </div>
 </div>

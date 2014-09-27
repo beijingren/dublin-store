@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="293">
 <div>
-<p>田錫<pc>，</pc>字表聖<pc>，</pc>嘉州洪雅人<pc>。</pc>幼聰悟<pc>，</pc>好讀書屬文<pc>。</pc>楊徽之宰峨眉<pc>，</pc>宋白宰玉津<pc>，</pc>皆厚遇之<pc>，</pc>為之延譽<pc>，</pc>繇是聲稱翕然<pc>。</pc>太平興國<measure quantity="3" unit="years">
+<p>
+<name key="null" type="null">田錫<pc>，</pc>
+</name>字表聖<pc>，</pc>嘉州洪雅人<pc>。</pc>幼聰悟<pc>，</pc>好讀書屬文<pc>。</pc>楊徽之宰峨眉<pc>，</pc>宋白宰玉津<pc>，</pc>皆厚遇之<pc>，</pc>為之延譽<pc>，</pc>繇是聲稱翕然<pc>。</pc>太平興國<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>進士高等<pc>，</pc>釋褐將作監丞<pc>、</pc>通判宣州<pc>。</pc>遷著作郎<pc>、</pc>京西北路轉運判官<pc>。</pc>改左拾遺<pc>、</pc>直史館<pc>，</pc>賜緋魚<pc>。</pc>錫好言時務<pc>，</pc>既居諫官<pc>，</pc>即上疏獻軍國要機者<num value="1">一</num>
 <pc>、</pc>朝廷大體者<num value="4">四</num>
@@ -180,7 +182,9 @@
 <pc>》</pc>曰<pc>：</pc>‘苟日新<pc>，</pc>日日新<pc>，</pc>又日新<pc>。</pc>’武王銘於幾杖曰<pc>：</pc>‘安不忘危<pc>，</pc>存不忘亡<pc>，</pc>熟惟<num value="2">二</num>者<pc>，</pc>後必無凶<pc>。</pc>’唐黃門侍郎趙智為高宗講<pc>《</pc>
 <title>孝經</title>
 <pc>》</pc>
-<pc>，</pc>舉其要切者言之曰<pc>：</pc>‘天子有爭臣<num value="7">七</num>人<pc>，</pc>雖無道不失其天下<pc>。</pc>’憲宗采<pc>《</pc>
+<pc>，</pc>舉其要切者言之曰<pc>：</pc>‘天子有爭臣<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>，</pc>雖無道不失其天下<pc>。</pc>’憲宗采<pc>《</pc>
 <title>史</title>
 <pc>》</pc>
 <pc>、</pc>
@@ -189,7 +193,7 @@
 <pc>》</pc>
 <pc>、</pc>
 <pc>《</pc>
-<date>
+<date when="null">
 <title>
 <num value="3">三</num>國</title>
 </date>
@@ -291,14 +295,26 @@
 <p>　<num value="2">二</num>曰減冗兵<pc>，</pc>並冗吏<pc>，</pc>使山澤之饒<pc>，</pc>稍流於下<pc>。</pc>當乾德<pc>、</pc>開寶之時<pc>，</pc>土地未廣<pc>，</pc>財賦未豐<pc>，</pc>然而擊河東<pc>，</pc>備北鄙<pc>，</pc>國用未足<pc>，</pc>兵威亦強<pc>，</pc>其義安在<pc>？</pc>由所蓄之兵銳而不眾<pc>，</pc>所用之將專而不疑故也<pc>。</pc>自後盡取東南數國<pc>，</pc>又平河東<pc>，</pc>土地財賦<pc>，</pc>可謂廣且豐矣<pc>，</pc>而兵威不振<pc>，</pc>國用轉急<pc>，</pc>其義安在<pc>？</pc>由所蓄之兵冗而不盡銳<pc>，</pc>所用之將眾而不自專故也<pc>。</pc>臣愚以為宜經製兵賦<pc>，</pc>如開寶中<pc>，</pc>則可高枕而治矣<pc>。</pc>且開寶中設官至少<pc>。</pc>臣本魯人<pc>，</pc>占籍濟上<pc>，</pc>未及第時<pc>，</pc>
 <measure quantity="1" unit="prefecture">
 <num value="1">一</num>州</measure>止有<term>刺史</term>
-<num value="1">一</num>人<pc>、</pc>司戶<num value="1">一</num>人<pc>，</pc>當時未嚐闕事<pc>。</pc>自後有團練推官<num value="1">一</num>人<pc>，</pc>太平興國中<pc>，</pc>增置通判<pc>、</pc>副使<pc>、</pc>判官<pc>、</pc>推官<pc>，</pc>而監酒<pc>、</pc>榷稅算又增<num value="4">四</num>員<pc>。</pc>曹官之外<pc>，</pc>更益司理<pc>。</pc>問其租稅<pc>，</pc>減於曩日也<pc>；</pc>問其人民<pc>，</pc>逃於昔時也<pc>。</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>、</pc>司戶<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>當時未嚐闕事<pc>。</pc>自後有團練推官<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>太平興國中<pc>，</pc>增置通判<pc>、</pc>副使<pc>、</pc>判官<pc>、</pc>推官<pc>，</pc>而監酒<pc>、</pc>榷稅算又增<num value="4">四</num>員<pc>。</pc>曹官之外<pc>，</pc>更益司理<pc>。</pc>問其租稅<pc>，</pc>減於曩日也<pc>；</pc>問其人民<pc>，</pc>逃於昔時也<pc>。</pc>
 <measure quantity="1" unit="prefecture">
 <num value="1">一</num>州</measure>既爾<pc>，</pc>天下可知<pc>。</pc>冗吏耗於上<pc>，</pc>冗兵耗於下<pc>，</pc>此所以盡取山澤之利<pc>，</pc>而不能足也<pc>。</pc>夫山澤之利<pc>，</pc>與民共之<pc>。</pc>自漢以來<pc>，</pc>取為國用<pc>，</pc>不可棄也<pc>；</pc>然亦不可盡也<pc>。</pc>隻如茶法從古無稅<pc>，</pc>唐元和中<pc>，</pc>以用兵齊<pc>、</pc>蔡<pc>，</pc>始稅茶<pc>。</pc>唐史稱是歲得錢<num value="400000">四十萬</num>貫<pc>，</pc>今則數<num value="1000000">百萬</num>矣<pc>，</pc>民何以堪<pc>？</pc>臣故曰減冗兵<pc>，</pc>並冗吏<pc>，</pc>使山澤之饒<pc>，</pc>稍流於下者此也<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　<num value="3">三</num>曰艱難選舉<pc>，</pc>使入官不濫<pc>。</pc>古者鄉舉里選<pc>，</pc>為官擇人<pc>，</pc>士君子學行修於家<pc>，</pc>然後薦之朝廷<pc>，</pc>曆代雖有沿革<pc>，</pc>未嚐遠去其道<pc>。</pc>隋<pc>、</pc>唐始有科試<pc>，</pc>太祖之世<pc>，</pc>每歲進士不過<num value="30">三十</num>人<pc>，</pc>經學<num value="50">五十</num>人<pc>。</pc>重以諸侯不得奏辟<pc>，</pc>士大夫罕有資蔭<pc>，</pc>故有終身不獲<num value="1">一</num>第<pc>，</pc>沒齒不獲<num value="1">一</num>官者<pc>。</pc>太宗毓德王藩<pc>，</pc>睹其如此<pc>。</pc>臨御之後<pc>，</pc>不求備以取人<pc>，</pc>舍短用長<pc>，</pc>拔<num value="10">十</num>得<num value="5">五</num>
-<pc>。</pc>在位將逾<num value="2">二</num>紀<pc>，</pc>登第殆近<num value="10000">萬</num>人<pc>，</pc>雖有俊傑之才<pc>，</pc>亦有容易而得<pc>。</pc>臣愚以為數<measure quantity="100" unit="years">
+<p>　<num value="3">三</num>曰艱難選舉<pc>，</pc>使入官不濫<pc>。</pc>古者鄉舉里選<pc>，</pc>為官擇人<pc>，</pc>士君子學行修於家<pc>，</pc>然後薦之朝廷<pc>，</pc>曆代雖有沿革<pc>，</pc>未嚐遠去其道<pc>。</pc>隋<pc>、</pc>唐始有科試<pc>，</pc>太祖之世<pc>，</pc>每歲進士不過<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>，</pc>經學<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>。</pc>重以諸侯不得奏辟<pc>，</pc>士大夫罕有資蔭<pc>，</pc>故有終身不獲<num value="1">一</num>第<pc>，</pc>沒齒不獲<num value="1">一</num>官者<pc>。</pc>太宗毓德王藩<pc>，</pc>睹其如此<pc>。</pc>臨御之後<pc>，</pc>不求備以取人<pc>，</pc>舍短用長<pc>，</pc>拔<num value="10">十</num>得<num value="5">五</num>
+<pc>。</pc>在位將逾<num value="2">二</num>紀<pc>，</pc>登第殆近<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>，</pc>雖有俊傑之才<pc>，</pc>亦有容易而得<pc>。</pc>臣愚以為數<measure quantity="100" unit="years">
 <num value="100">百</num>年</measure>之艱難<pc>，</pc>故先帝濟之以泛取<pc>，</pc>
 <num value="20">二十</num>載之霈澤<pc>，</pc>陛下宜糾之以舊章<pc>，</pc>望以舉場還有司<pc>，</pc>如故事<pc>。</pc>至於吏部銓官<pc>，</pc>亦非帝王躬親之事<pc>，</pc>自來<num value="5">五</num>品已下<pc>，</pc>謂之旨授官<pc>，</pc>今幕職<pc>、</pc>州縣而已<pc>，</pc>京官雖有選限<pc>，</pc>多不施行<pc>。</pc>臣愚以為宜以吏部還有司<pc>，</pc>依格敕注擬可也<pc>。</pc>
 </p>
@@ -352,7 +368,11 @@
 <pc>》</pc>曰<pc>“</pc>王公設險<pc>，</pc>以守其國<pc>”</pc>
 <pc>。</pc>自<num value="5">五</num>季亂離<pc>，</pc>各據城壘<pc>，</pc>豆分瓜剖<pc>，</pc>
 <num value="70">七十</num>餘年<pc>。</pc>太祖<pc>、</pc>太宗<pc>，</pc>削平僭偽<pc>，</pc>天下<num value="1">一</num>家<pc>。</pc>當時議者<pc>，</pc>乃令江淮諸郡毀城隍<pc>、</pc>收兵甲<pc>、</pc>徹武備者<pc>，</pc>
-<num value="20">二十</num>餘年<pc>。</pc>書生領州<pc>，</pc>大郡給<num value="20">二十</num>人<pc>，</pc>小郡減<num value="5">五</num>人<pc>，</pc>以充常從<pc>。</pc>號曰長吏<pc>，</pc>實同旅人<pc>；</pc>名為郡城<pc>，</pc>蕩若平地<pc>。</pc>雖則尊京師而抑郡縣<pc>，</pc>為強幹弱枝之術<pc>，</pc>亦匪得其中道也<pc>。</pc>臣比在<placeName>滁州</placeName>
+<num value="20">二十</num>餘年<pc>。</pc>書生領州<pc>，</pc>大郡給<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>小郡減<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>，</pc>以充常從<pc>。</pc>號曰長吏<pc>，</pc>實同旅人<pc>；</pc>名為郡城<pc>，</pc>蕩若平地<pc>。</pc>雖則尊京師而抑郡縣<pc>，</pc>為強幹弱枝之術<pc>，</pc>亦匪得其中道也<pc>。</pc>臣比在<placeName>滁州</placeName>
 <pc>，</pc>值發兵挽漕<pc>，</pc>關城無人守禦<pc>，</pc>止以白直代主開閉<pc>，</pc>城池頹圮<pc>，</pc>鎧仗不完<pc>。</pc>及徙維揚<pc>，</pc>稱為重鎮<pc>，</pc>乃與<placeName>滁州</placeName>無異<pc>。</pc>嘗出鎧甲<num value="30">三十</num>副<pc>，</pc>與巡警使臣<pc>，</pc>彀弩張弓<pc>，</pc>
 <num value="10">十</num>損<num value="20">四五</num>
 <pc>，</pc>蓋不敢擅有修治<pc>，</pc>上下因循<pc>，</pc>遂至於此<pc>。</pc>今黃州城雉器甲<pc>，</pc>復不及滁<pc>、</pc>揚<pc>。</pc>
@@ -360,7 +380,9 @@
 <pc>：</pc>城池墮圮<pc>，</pc>
 <num value="1">一</num>也<pc>；</pc>兵仗不完<pc>，</pc>
 <num value="2">二</num>也<pc>；</pc>軍不服習<pc>，</pc>
-<num value="3">三</num>也<pc>；</pc>濮賊之興<pc>，</pc>慢防可見<pc>。</pc>望陛下特紆宸斷<pc>，</pc>許江<pc>、</pc>淮諸郡<pc>，</pc>酌民戶眾寡<pc>，</pc>城池大小<pc>，</pc>並置守捉<pc>。</pc>軍士多不過<num value="500">五百</num>人<pc>，</pc>閱習弓劍<pc>，</pc>然後漸葺城壁<pc>，</pc>繕完甲胄<pc>，</pc>則郡國有禦侮之備<pc>，</pc>長吏免剽略之虞矣<pc>。</pc>
+<num value="3">三</num>也<pc>；</pc>濮賊之興<pc>，</pc>慢防可見<pc>。</pc>望陛下特紆宸斷<pc>，</pc>許江<pc>、</pc>淮諸郡<pc>，</pc>酌民戶眾寡<pc>，</pc>城池大小<pc>，</pc>並置守捉<pc>。</pc>軍士多不過<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>
+<pc>，</pc>閱習弓劍<pc>，</pc>然後漸葺城壁<pc>，</pc>繕完甲胄<pc>，</pc>則郡國有禦侮之備<pc>，</pc>長吏免剽略之虞矣<pc>。</pc>
 <pc>”</pc>疏奏<pc>，</pc>上嘉納之<pc>。</pc>
 </p>
 </div>
@@ -447,7 +469,8 @@
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>蜀士知向學<pc>，</pc>而不樂仕宦<pc>。</pc>詠察郡人張及<pc>、</pc>李畋<pc>、</pc>張逵者皆有學行<pc>，</pc>為鄉里所稱<pc>；</pc>遂敦勉就舉<pc>，</pc>而<num value="3">三</num>人者悉登科<pc>，</pc>士由是知勸<pc>。</pc>民有諜訴者<pc>，</pc>詠灼見情偽<pc>，</pc>立為判決<pc>，</pc>人皆厭服<pc>。</pc>好事者編集其辭<pc>，</pc>鏤板傳布<pc>。</pc>詠嘗曰<pc>：</pc>
+<p>初<pc>，</pc>蜀士知向學<pc>，</pc>而不樂仕宦<pc>。</pc>詠察郡人張及<pc>、</pc>李畋<pc>、</pc>張逵者皆有學行<pc>，</pc>為鄉里所稱<pc>；</pc>遂敦勉就舉<pc>，</pc>而<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>者悉登科<pc>，</pc>士由是知勸<pc>。</pc>民有諜訴者<pc>，</pc>詠灼見情偽<pc>，</pc>立為判決<pc>，</pc>人皆厭服<pc>。</pc>好事者編集其辭<pc>，</pc>鏤板傳布<pc>。</pc>詠嘗曰<pc>：</pc>
 <pc>“</pc>詢君子得君子<pc>，</pc>詢小人得小人<pc>，</pc>各就其黨詢之<pc>，</pc>則無不審矣<pc>。</pc>
 <pc>”</pc>其為政<pc>，</pc>恩威並用<pc>，</pc>蜀民畏而愛之<pc>。</pc>丁外艱<pc>，</pc>起復<pc>，</pc>改兵部郎中<pc>。</pc>會詔川<pc>、</pc>陝諸州參用銅鐵錢<pc>，</pc>每銅錢<num value="1">一</num>當鐵錢<num value="10">十</num>
 <pc>。</pc>詠上言<pc>：</pc>
@@ -463,7 +486,9 @@
 <pc>。</pc>咸平初<pc>，</pc>入拜給事中<pc>、</pc>戶部使<pc>，</pc>改御史中丞<pc>。</pc>承天節齊會<pc>，</pc>丞相大僚有酒失者<pc>，</pc>詠奏彈之<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>同知貢舉<pc>。</pc>是夏<pc>，</pc>以工部侍郎出知杭州<pc>。</pc>屬歲歉<pc>，</pc>民多私鬻鹽以自給<pc>，</pc>捕獲犯者數<num value="100">百</num>人<pc>，</pc>詠悉寬其罰而遣之<pc>。</pc>官屬請曰<pc>：</pc>
+<pc>，</pc>同知貢舉<pc>。</pc>是夏<pc>，</pc>以工部侍郎出知杭州<pc>。</pc>屬歲歉<pc>，</pc>民多私鬻鹽以自給<pc>，</pc>捕獲犯者數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>詠悉寬其罰而遣之<pc>。</pc>官屬請曰<pc>：</pc>
 <pc>“</pc>不痛繩之<pc>，</pc>恐無以禁<pc>。</pc>
 <pc>”</pc>詠曰<pc>：</pc>
 <pc>“</pc>錢塘<num value="100000">十萬</num>家<pc>，</pc>饑者<num value="72">八九</num>
@@ -534,7 +559,8 @@
 <pc>》</pc>云<pc>：</pc>
 <pc>“</pc>邦有道<pc>，</pc>危言危行<pc>。</pc>
 <pc>”</pc>
-<num value="3">三</num>人者<pc>，</pc>躬骨鯁蹇諤之節<pc>，</pc>蔚為名臣<pc>，</pc>所遇之時然也<pc>。</pc>禹偁製戎之策<pc>，</pc>厥後果符其言<pc>，</pc>而醇文奧學<pc>，</pc>為世宗仰<pc>。</pc>錫身沒之後<pc>，</pc>特降褒命<pc>，</pc>以賁直操<pc>，</pc>與夫容容嘿嘿<pc>，</pc>以持祿固位者異矣<pc>。</pc>詠所至以政績聞<pc>。</pc>天子嘗曰<pc>：</pc>
+<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>者<pc>，</pc>躬骨鯁蹇諤之節<pc>，</pc>蔚為名臣<pc>，</pc>所遇之時然也<pc>。</pc>禹偁製戎之策<pc>，</pc>厥後果符其言<pc>，</pc>而醇文奧學<pc>，</pc>為世宗仰<pc>。</pc>錫身沒之後<pc>，</pc>特降褒命<pc>，</pc>以賁直操<pc>，</pc>與夫容容嘿嘿<pc>，</pc>以持祿固位者異矣<pc>。</pc>詠所至以政績聞<pc>。</pc>天子嘗曰<pc>：</pc>
 <pc>“</pc>詠在蜀<pc>，</pc>吾無西顧之憂<pc>。</pc>
 <pc>”</pc>其被獎與如此<pc>。</pc>然皆肮髒自信<pc>，</pc>道不諧偶<pc>，</pc>故不極於用云<pc>。</pc>
 </p>

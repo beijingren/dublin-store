@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="433">
 <div>
-<p>◎儒林<num value="3">三</num>
+<p>
+<name key="null" type="null">◎儒林</name>
+<num value="3">三</num>
 </p>
 </div>
 <div>
@@ -158,7 +160,8 @@
 <div>
 <p>初<pc>，</pc>金既退師<pc>，</pc>鼎<pc>、</pc>浚相得歡甚<pc>。</pc>人知其將並相<pc>，</pc>樗獨言<pc>：</pc>
 <pc>“</pc>
-<num value="2">二</num>人宜且同在樞府<pc>，</pc>他日趙退則張繼之<pc>。</pc>立事任人<pc>，</pc>未甚相遠<pc>，</pc>則氣脈長<pc>。</pc>若同處相位<pc>，</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>宜且同在樞府<pc>，</pc>他日趙退則張繼之<pc>。</pc>立事任人<pc>，</pc>未甚相遠<pc>，</pc>則氣脈長<pc>。</pc>若同處相位<pc>，</pc>
 <num value="10000">萬</num>有<num value="1">一</num>不合<pc>，</pc>或當去位<pc>，</pc>則必更張<pc>，</pc>是賢者自相背戾矣<pc>。</pc>
 <pc>”</pc>後稍如其言<pc>。</pc>又嚐曰<pc>：</pc>
 <pc>“</pc>推車者遇艱險則相詬病<pc>，</pc>及車之止也<pc>，</pc>則欣然如初<pc>。</pc>士之於國家亦若是而已<pc>。</pc>
@@ -200,7 +203,11 @@
 </div>
 <div>
 <p>起知廣德軍<pc>，</pc>視水原為陂塘<num value="600">六百</num>餘所<pc>，</pc>民無旱憂<pc>。</pc>
-<num value="1">一</num>新學舍<pc>，</pc>因定從祀<pc>：</pc>自<num value="10">十</num>哲曾子而下<num value="70">七十</num>有<num value="1">一</num>人<pc>，</pc>又列先儒左丘明而下<num value="20">二十</num>有<num value="6">六</num>人<pc>。</pc>擢提點江東刑獄<pc>。</pc>知真州<pc>。</pc>州當兵衝<pc>，</pc>瘡痍未瘳<pc>。</pc>興祖始至<pc>，</pc>請複<measure quantity="1" unit="year">
+<num value="1">一</num>新學舍<pc>，</pc>因定從祀<pc>：</pc>自<num value="10">十</num>哲曾子而下<num value="70">七十</num>有<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>又列先儒左丘明而下<num value="20">二十</num>有<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>。</pc>擢提點江東刑獄<pc>。</pc>知真州<pc>。</pc>州當兵衝<pc>，</pc>瘡痍未瘳<pc>。</pc>興祖始至<pc>，</pc>請複<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>租<pc>，</pc>從之<pc>。</pc>明年再請<pc>，</pc>又從之<pc>。</pc>自是流民複業<pc>，</pc>墾辟荒田至<num value="70000">七萬</num>餘畝<pc>。</pc>
 </p>
 </div>
@@ -286,7 +293,9 @@
 <div>
 <p>閌又言建學之始<pc>，</pc>宜得老成以誘掖後進<pc>。</pc>乃薦全州文學師維藩<pc>，</pc>詔除國子錄<pc>。</pc>維藩<pc>，</pc>眉山人<pc>，</pc>精<pc>《</pc>
 <title>春秋</title>
-<pc>》</pc>學<pc>，</pc>林栗其高第也<pc>，</pc>故首薦之<pc>。</pc>新學成<pc>，</pc>閌奏補試者<num value="6000">六千</num>人<pc>，</pc>且乞臨雍<pc>，</pc>繼率諸生上表以請<pc>。</pc>於是帝幸太學<pc>，</pc>秦熺執經<pc>，</pc>閌講<pc>《</pc>
+<pc>》</pc>學<pc>，</pc>林栗其高第也<pc>，</pc>故首薦之<pc>。</pc>新學成<pc>，</pc>閌奏補試者<measure quantity="6000" unit="people">
+<num value="6000">六千</num>人</measure>
+<pc>，</pc>且乞臨雍<pc>，</pc>繼率諸生上表以請<pc>。</pc>於是帝幸太學<pc>，</pc>秦熺執經<pc>，</pc>閌講<pc>《</pc>
 <title>易<pc>•</pc>泰卦</title>
 <pc>》</pc>
 <pc>，</pc>賜<num value="3">三</num>品服<pc>。</pc>胡寅聞之<pc>，</pc>以書責閌曰<pc>：</pc>
@@ -311,7 +320,7 @@
 <div>
 <p>孝宗即位<pc>，</pc>遷著作佐郎<pc>。</pc>當是時<pc>，</pc>帝初政<pc>，</pc>銳意事功<pc>，</pc>命令<num value="4">四</num>出<pc>，</pc>貴近或預密議<pc>。</pc>會詔<num value="100">百</num>官言事<pc>，</pc>大昌奏曰<pc>：</pc>
 <pc>“</pc>漢石顯知元帝信己<pc>，</pc>先請夜開宮門之詔<pc>。</pc>他日<pc>，</pc>故夜還<pc>，</pc>稱詔啟關<pc>，</pc>或言矯製<pc>，</pc>帝笑以前詔示之<pc>。</pc>自是顯真矯製<pc>，</pc>人不複言<pc>。</pc>
-<date>國朝</date>命令必由<num value="3">三</num>省<pc>，</pc>防此弊也<pc>。</pc>請自今被禦前直降文書<pc>，</pc>皆申省審奏乃得行<pc>，</pc>以合祖宗之規<pc>，</pc>以防石顯之奸<pc>。</pc>
+<date when="null">國朝</date>命令必由<num value="3">三</num>省<pc>，</pc>防此弊也<pc>。</pc>請自今被禦前直降文書<pc>，</pc>皆申省審奏乃得行<pc>，</pc>以合祖宗之規<pc>，</pc>以防石顯之奸<pc>。</pc>
 <pc>”</pc>又言<pc>：</pc>
 <pc>“</pc>去歲完顏亮入寇<pc>，</pc>無<num value="1">一</num>士死守<pc>，</pc>而兵將至今策勳未已<pc>。</pc>惟李寶捷膠西<pc>，</pc>虞允文戰采石<pc>，</pc>實屠亮之階<pc>。</pc>今寶罷兵<pc>，</pc>允文守夔<pc>，</pc>此公論所謂不平也<pc>。</pc>
 <pc>”</pc>帝稱善<pc>，</pc>選為恭王府讚讀<pc>。</pc>遷國子司業兼權禮部侍郎<pc>、</pc>直學士院<pc>。</pc>帝問大昌曰<pc>：</pc>
@@ -444,7 +453,9 @@
 <num value="6">六</num>經</title>
 <pc>》</pc>
 <pc>，</pc>貫<num value="100">百</num>氏<pc>，</pc>言動必以禮<pc>，</pc>
-<num value="4">四</num>方來學者亡慮數<num value="100">百</num>人<pc>。</pc>南渡後<pc>，</pc>以伊<pc>、</pc>洛之學倡東南者<pc>，</pc>自光朝始<pc>。</pc>然未嚐著書<pc>，</pc>惟口授學者<pc>，</pc>使之心通理解<pc>。</pc>嚐曰<pc>：</pc>
+<num value="4">四</num>方來學者亡慮數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>南渡後<pc>，</pc>以伊<pc>、</pc>洛之學倡東南者<pc>，</pc>自光朝始<pc>。</pc>然未嚐著書<pc>，</pc>惟口授學者<pc>，</pc>使之心通理解<pc>。</pc>嚐曰<pc>：</pc>
 <pc>“</pc>道之全體<pc>，</pc>全乎太虛<pc>。</pc>
 <pc>《</pc>
 <title>
@@ -458,7 +469,8 @@
 <pc>，</pc>以進士及第<pc>。</pc>調袁州司戶參軍<pc>。</pc>乾道<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>龍大淵<pc>、</pc>
-<persName>曾覿</persName>以潛邸恩幸進<pc>，</pc>台諫<pc>、</pc>給舍論駁不行<pc>。</pc>張闡自外召為執政<pc>，</pc>銳欲去之<pc>，</pc>覺其不可拙<pc>，</pc>遂以老疾力辭不拜<pc>。</pc>而光朝及劉朔方以名儒薦對<pc>，</pc>頗及<num value="2">二</num>人罪<pc>，</pc>由是光朝改左承奉郎<pc>、</pc>知永福縣<pc>。</pc>而大臣論薦不已<pc>，</pc>召試館職<pc>，</pc>為秘書省正字兼國史編修<pc>、</pc>實錄檢討官<pc>，</pc>曆著作佐郎兼禮部郎官<pc>。</pc>
+<persName>曾覿</persName>以潛邸恩幸進<pc>，</pc>台諫<pc>、</pc>給舍論駁不行<pc>。</pc>張闡自外召為執政<pc>，</pc>銳欲去之<pc>，</pc>覺其不可拙<pc>，</pc>遂以老疾力辭不拜<pc>。</pc>而光朝及劉朔方以名儒薦對<pc>，</pc>頗及<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>罪<pc>，</pc>由是光朝改左承奉郎<pc>、</pc>知永福縣<pc>。</pc>而大臣論薦不已<pc>，</pc>召試館職<pc>，</pc>為秘書省正字兼國史編修<pc>、</pc>實錄檢討官<pc>，</pc>曆著作佐郎兼禮部郎官<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>進國子司業兼太子侍讀<pc>，</pc>史職如故<pc>。</pc>是時<pc>，</pc>張說再除簽書樞密院事<pc>，</pc>光朝不往賀<pc>，</pc>遂出為廣西提點刑獄<pc>，</pc>移廣東<pc>。</pc>
@@ -515,7 +527,7 @@
 <div>
 <p>臣竊聞論者或謂緩急<pc>，</pc>淮不可守<pc>，</pc>則棄淮而守江<pc>，</pc>是大不然<pc>。</pc>昔者吳與魏力爭而得合肥<pc>，</pc>然後吳始安<pc>。</pc>李煜失滁<pc>、</pc>揚<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>
-<pc>，</pc>自此<date>南唐</date>始蹙<pc>。</pc>今曰棄淮而保江<pc>，</pc>既無淮矣<pc>，</pc>江可得而保乎<pc>？</pc>臣所謂言有事於無事之時者<num value="3">三</num>也<pc>。</pc>
+<pc>，</pc>自此<date when="null">南唐</date>始蹙<pc>。</pc>今曰棄淮而保江<pc>，</pc>既無淮矣<pc>，</pc>江可得而保乎<pc>？</pc>臣所謂言有事於無事之時者<num value="3">三</num>也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -556,7 +568,8 @@
 </div>
 <div>
 <p>古者立國必有可畏<pc>，</pc>非畏其國也<pc>，</pc>畏其人也<pc>。</pc>故苻堅欲圖晉<pc>，</pc>而王猛以為不可<pc>，</pc>謂謝安<pc>、</pc>桓衝江左之望<pc>，</pc>是存晉者<pc>，</pc>
-<num value="2">二</num>人而已<pc>。</pc>異時名相如趙鼎<pc>、</pc>張浚<pc>，</pc>名將如嶽飛<pc>、</pc>韓世忠<pc>，</pc>此金人所憚也<pc>。</pc>近時劉珙可用則早死<pc>，</pc>張栻可用則沮死<pc>，</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>而已<pc>。</pc>異時名相如趙鼎<pc>、</pc>張浚<pc>，</pc>名將如嶽飛<pc>、</pc>韓世忠<pc>，</pc>此金人所憚也<pc>。</pc>近時劉珙可用則早死<pc>，</pc>張栻可用則沮死<pc>，</pc>
 <num value="1">萬一</num>有緩急<pc>，</pc>不知可以督諸軍者何人<pc>，</pc>可以當<num value="1">一</num>麵者何人<pc>，</pc>而金人之所素憚者又何人<pc>？</pc>而或者謂人之有才<pc>，</pc>用而後見<pc>。</pc>臣聞之<pc>《</pc>
 <title>記</title>
 <pc>》</pc>曰<pc>：</pc>
@@ -592,7 +605,8 @@
 <pc>“</pc>人才<pc>。</pc>
 <pc>”</pc>又問<pc>：</pc>
 <pc>“</pc>孰為才<pc>？</pc>
-<pc>”</pc>即疏朱熹<pc>、</pc>袁樞以下<num value="60">六十</num>人以獻<pc>，</pc>淮次第擢用之<pc>。</pc>曆樞密院檢詳<pc>，</pc>守右司郎中<pc>，</pc>遷左司郎中<pc>。</pc>
+<pc>”</pc>即疏朱熹<pc>、</pc>袁樞以下<measure quantity="60" unit="people">
+<num value="60">六十</num>人</measure>以獻<pc>，</pc>淮次第擢用之<pc>。</pc>曆樞密院檢詳<pc>，</pc>守右司郎中<pc>，</pc>遷左司郎中<pc>。</pc>
 </p>
 </div>
 <div>

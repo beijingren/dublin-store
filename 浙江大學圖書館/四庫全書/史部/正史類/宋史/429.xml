@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="429">
 <div>
-<p>　　朱熹<pc>，</pc>字元晦<pc>，</pc>
+<p>
+<name key="null" type="null">　　朱</name>熹<pc>，</pc>字元晦<pc>，</pc>
 <num value="1">一</num>字仲晦<pc>，</pc>徽州婺源人<pc>。</pc>父松字喬年<pc>，</pc>中進士第<pc>。</pc>胡世將<pc>、</pc>謝克家薦之<pc>，</pc>除秘書省正字<pc>。</pc>趙鼎都督川陝<pc>、</pc>荊<pc>、</pc>襄軍馬<pc>，</pc>招松為屬<pc>，</pc>辭<pc>。</pc>鼎再相<pc>，</pc>除校書郎<pc>，</pc>遷著作郎<pc>。</pc>以御史中丞常同薦<pc>，</pc>除度支員外郎<pc>，</pc>兼史館校勘<pc>，</pc>歷司勳<pc>、</pc>吏部郎<pc>。</pc>秦檜決策議和<pc>，</pc>松與同列上章<pc>，</pc>極言其不可<pc>。</pc>檜怒<pc>，</pc>風御史論松懷異自賢<pc>，</pc>出知<placeName>饒州</placeName>
 <pc>，</pc>未上<pc>，</pc>卒<pc>。</pc>
 </p>
@@ -121,7 +122,9 @@
 <p>　　今<term>宰相</term>
 <pc>、</pc>臺省<pc>、</pc>師傅<pc>、</pc>賓友<pc>、</pc>諫諍之臣皆失其職<pc>，</pc>而陛下所與親密謀議者<pc>，</pc>不過<num value="2">一二</num>近習之臣<pc>。</pc>上以蠱惑陛下之心志<pc>，</pc>使陛下不信先王之大道<pc>，</pc>而說於功利之卑說<pc>，</pc>不樂莊士之讜言<pc>，</pc>而安於私暬之鄙態<pc>。</pc>下則招集天下士大夫之嗜利無恥者<pc>，</pc>文武彙分<pc>，</pc>各入其門<pc>。</pc>所喜則陰為引援<pc>，</pc>擢置清顯<pc>。</pc>所惡則密行訾毀<pc>，</pc>公肆擠排<pc>。</pc>交通貨賂<pc>，</pc>所盜者皆陛下之財<pc>。</pc>命卿置將<pc>，</pc>所竊者皆陛下之柄<pc>。</pc>陛下所謂<term>宰相</term>
 <pc>、</pc>師傅<pc>、</pc>賓友<pc>、</pc>諫諍之臣<pc>，</pc>或反出入其門牆<pc>，</pc>承望其風旨<pc>；</pc>其幸能自立者<pc>，</pc>亦不過齪齪自守<pc>，</pc>而未嘗敢<num value="1">一</num>言以斥之<pc>；</pc>其甚畏公論者<pc>，</pc>乃能略警逐其徒黨之<num value="2">一二</num>
-<pc>，</pc>既不能深有所傷<pc>，</pc>而終亦不敢正言以搗其囊橐窟穴之所在<pc>。</pc>勢成威立<pc>，</pc>中外靡然向之<pc>，</pc>使陛下之號令黜陟不復出於朝廷<pc>，</pc>而出於<num value="2">一二</num>人之門<pc>，</pc>名為陛下獨斷<pc>，</pc>而實此<num value="2">一二</num>人者陰執其柄<pc>。</pc>
+<pc>，</pc>既不能深有所傷<pc>，</pc>而終亦不敢正言以搗其囊橐窟穴之所在<pc>。</pc>勢成威立<pc>，</pc>中外靡然向之<pc>，</pc>使陛下之號令黜陟不復出於朝廷<pc>，</pc>而出於<measure quantity="2" unit="people">
+<num value="2">一二</num>人</measure>之門<pc>，</pc>名為陛下獨斷<pc>，</pc>而實此<measure quantity="2" unit="people">
+<num value="2">一二</num>人</measure>者陰執其柄<pc>。</pc>
 </p>
 </div>
 <div>
@@ -229,7 +232,9 @@
 <title>西銘</title>
 <pc>》</pc>不合<pc>，</pc>劾熹<pc>：</pc>
 <pc>「</pc>
-<quote>本無學術<pc>，</pc>徒竊張載<pc>、</pc>程頤緒餘<pc>，</pc>謂之『道學』<pc>。</pc>所至輒攜門生數<num value="10">十</num>人<pc>，</pc>妄希孔<pc>、</pc>孟歷聘之風<pc>，</pc>邀索高價<pc>，</pc>不肯供職<pc>，</pc>其偽不可掩<pc>。</pc>
+<quote>本無學術<pc>，</pc>徒竊張載<pc>、</pc>程頤緒餘<pc>，</pc>謂之『道學』<pc>。</pc>所至輒攜門生數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>妄希孔<pc>、</pc>孟歷聘之風<pc>，</pc>邀索高價<pc>，</pc>不肯供職<pc>，</pc>其偽不可掩<pc>。</pc>
 </quote>
 <pc>」</pc>上曰<pc>：</pc>
 <pc>「</pc>
@@ -469,10 +474,14 @@
 <div>
 <p>　　始<pc>，</pc>熹少時<pc>，</pc>慨然有求道之志<pc>。</pc>父松病亟<pc>，</pc>嘗屬熹曰<pc>：</pc>
 <pc>「</pc>
-<quote>籍溪胡原仲<pc>、</pc>白水劉致中<pc>、</pc>屏山劉彥沖<num value="3">三</num>人<pc>，</pc>學有淵源<pc>，</pc>吾所敬畏<pc>，</pc>吾即死<pc>，</pc>汝往事之<pc>，</pc>而惟其言之聽<pc>。</pc>
+<quote>籍溪胡原仲<pc>、</pc>白水劉致中<pc>、</pc>屏山劉彥沖<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>學有淵源<pc>，</pc>吾所敬畏<pc>，</pc>吾即死<pc>，</pc>汝往事之<pc>，</pc>而惟其言之聽<pc>。</pc>
 </quote>
 <pc>」</pc>
-<num value="3">三</num>人<pc>，</pc>謂胡憲<pc>、</pc>劉勉之<pc>、</pc>劉子翬也<pc>。</pc>故熹之學既博求之經傳<pc>，</pc>複遍交當世有識之士<pc>。</pc>延平李侗老矣<pc>，</pc>嘗學于羅從彥<pc>，</pc>熹歸自同安<pc>，</pc>不遠數<num value="100">百</num>里<pc>，</pc>徒步往從之<pc>。</pc>
+<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>謂胡憲<pc>、</pc>劉勉之<pc>、</pc>劉子翬也<pc>。</pc>故熹之學既博求之經傳<pc>，</pc>複遍交當世有識之士<pc>。</pc>延平李侗老矣<pc>，</pc>嘗學于羅從彥<pc>，</pc>熹歸自同安<pc>，</pc>不遠數<num value="100">百</num>里<pc>，</pc>徒步往從之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -586,7 +595,8 @@
 </p>
 </div>
 <div>
-<p>　　理宗紹定末<pc>，</pc>秘書郎李心傳乞以司馬光<pc>、</pc>周敦頤<pc>、</pc>邵雍<pc>、</pc>張載<pc>、</pc>程顥<pc>、</pc>程頤<pc>、</pc>朱熹<num value="7">七</num>人列於從祀<pc>，</pc>不報<pc>。</pc>淳祐元年<measure quantity="1" unit="month">
+<p>　　理宗紹定末<pc>，</pc>秘書郎李心傳乞以司馬光<pc>、</pc>周敦頤<pc>、</pc>邵雍<pc>、</pc>張載<pc>、</pc>程顥<pc>、</pc>程頤<pc>、</pc>朱熹<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>列於從祀<pc>，</pc>不報<pc>。</pc>淳祐元年<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -598,7 +608,8 @@
 <p>　　黃幹曰<pc>：</pc>
 <pc>「</pc>
 <quote>道之正統待人而後傳<pc>，</pc>自周以來<pc>，</pc>任傳道之責者不過數人<pc>，</pc>而能使斯道章章較著者<pc>，</pc>
-<num value="2">一二</num>人而止耳<pc>。</pc>由孔子而後<pc>，</pc>曾子<pc>、</pc>子思繼其微<pc>，</pc>至孟子而始著<pc>。</pc>由孟子而後<pc>，</pc>周<pc>、</pc>程<pc>、</pc>張子繼其絕<pc>，</pc>至熹而始著<pc>。</pc>
+<measure quantity="2" unit="people">
+<num value="2">一二</num>人</measure>而止耳<pc>。</pc>由孔子而後<pc>，</pc>曾子<pc>、</pc>子思繼其微<pc>，</pc>至孟子而始著<pc>。</pc>由孟子而後<pc>，</pc>周<pc>、</pc>程<pc>、</pc>張子繼其絕<pc>，</pc>至熹而始著<pc>。</pc>
 </quote>
 <pc>」</pc>識者以為知言<pc>。</pc>
 </p>
@@ -734,7 +745,9 @@
 <div>
 <p>　　孝宗聞栻治行<pc>，</pc>詔特進秩<pc>，</pc>直寶文閣<pc>，</pc>因任<pc>。</pc>尋除秘閣修撰<pc>、</pc>荊湖北路轉運副使<pc>。</pc>改知江陵府<pc>，</pc>安撫本路<pc>。</pc>
 <measure quantity="1" unit="day">
-<num value="1">一</num>日</measure>去貪吏<num value="14">十四</num>人<pc>。</pc>湖北多盜<pc>，</pc>府縣往往縱釋以病良民<pc>，</pc>栻首劾大吏之縱賊者<pc>，</pc>捕斬奸民之舍賊者<pc>，</pc>令其黨得相捕告以除罪<pc>，</pc>群盜皆遁去<pc>。</pc>郡瀕邊屯<pc>，</pc>主將與帥守每不相下<pc>，</pc>栻以禮遇諸將<pc>，</pc>得其歡心<pc>，</pc>又加恤士伍<pc>，</pc>勉以忠義<pc>，</pc>隊長有功輒補官<pc>，</pc>士鹹感奮<pc>。</pc>並淮奸民出塞為盜者<pc>，</pc>捕得數人<pc>，</pc>有北方亡奴亦在盜中<pc>。</pc>
+<num value="1">一</num>日</measure>去貪吏<measure quantity="14" unit="people">
+<num value="14">十四</num>人</measure>
+<pc>。</pc>湖北多盜<pc>，</pc>府縣往往縱釋以病良民<pc>，</pc>栻首劾大吏之縱賊者<pc>，</pc>捕斬奸民之舍賊者<pc>，</pc>令其黨得相捕告以除罪<pc>，</pc>群盜皆遁去<pc>。</pc>郡瀕邊屯<pc>，</pc>主將與帥守每不相下<pc>，</pc>栻以禮遇諸將<pc>，</pc>得其歡心<pc>，</pc>又加恤士伍<pc>，</pc>勉以忠義<pc>，</pc>隊長有功輒補官<pc>，</pc>士鹹感奮<pc>。</pc>並淮奸民出塞為盜者<pc>，</pc>捕得數人<pc>，</pc>有北方亡奴亦在盜中<pc>。</pc>
 </p>
 </div>
 <div>

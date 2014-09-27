@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="59">
 <div>
-<p>　　元豐元年<measure quantity="1" unit="month">
+<p>
+<name key="null" type="null">　　元</name>豐元年<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -959,7 +960,7 @@
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <num value="56">己未</num>
-<pc>，</pc>星出天市垣<date>吳越</date>星西<pc>，</pc>如太白<pc>，</pc>急流至濁沒<pc>，</pc>赤黃<pc>，</pc>有尾跡<pc>，</pc>明燭地<pc>。</pc>
+<pc>，</pc>星出天市垣<date when="null">吳越</date>星西<pc>，</pc>如太白<pc>，</pc>急流至濁沒<pc>，</pc>赤黃<pc>，</pc>有尾跡<pc>，</pc>明燭地<pc>。</pc>
 <num value="14">丁丑</num>
 <pc>，</pc>透雲星出織女西南<pc>，</pc>如太白<pc>，</pc>急流至濁沒<pc>，</pc>青白<pc>，</pc>有尾跡<pc>，</pc>明燭地<pc>。</pc>
 <num value="19">壬午</num>
@@ -1142,7 +1143,7 @@
 <num value="33">丙申</num>
 <pc>，</pc>星出鉤陳東<pc>，</pc>如太白<pc>，</pc>西北慢流<pc>，</pc>至濁沒<pc>，</pc>青白<pc>。</pc>
 <num value="39">壬寅</num>
-<pc>，</pc>星出天市垣趙星西南<pc>，</pc>如太白<pc>，</pc>急流至<date>吳越</date>星沒<pc>，</pc>赤黃<pc>，</pc>有尾跡<pc>，</pc>明燭地<pc>。</pc>
+<pc>，</pc>星出天市垣趙星西南<pc>，</pc>如太白<pc>，</pc>急流至<date when="null">吳越</date>星沒<pc>，</pc>赤黃<pc>，</pc>有尾跡<pc>，</pc>明燭地<pc>。</pc>
 <num value="40">癸卯</num>
 <pc>，</pc>星出靈臺北<pc>，</pc>如太白<pc>，</pc>向西慢行<pc>，</pc>至軒轅沒<pc>，</pc>赤黃<pc>，</pc>有尾跡<pc>，</pc>明燭地<pc>。</pc>
 <measure quantity="5" unit="months">

@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="346">
 <div>
-<p>列傳第<num value="105">一百五</num>○陳次升 陳師錫 彭汝礪弟:汝霖 汝方 呂陶 張庭堅 龔   孫諤 陳軒 江公望 陳祐 常安民</p>
+<p>
+<name key="null" type="null">列傳第</name>
+<num value="105">一百五</num>○陳次升 陳師錫 彭汝礪弟:汝霖 汝方 呂陶 張庭堅 龔   孫諤 陳軒 江公望 陳祐 常安民</p>
 </div>
 <div>
 <p>　　陳次升<pc>，</pc>字當時<pc>，</pc>興化仙遊人<pc>。</pc>入太學<pc>，</pc>時學官始得王安石<pc>《</pc>
@@ -134,7 +136,7 @@
 <p>　　知臨安縣<pc>，</pc>為監察禦史<pc>。</pc>上言<pc>：</pc>
 <pc>「</pc>
 <quote>
-<date>宋</date>興<pc>，</pc>享國長久號稱太平者<pc>，</pc>莫如仁宗<pc>，</pc>切考致治之本<pc>，</pc>不過延直言<pc>，</pc>禦群下<pc>，</pc>進善退邪而已<pc>。</pc>明道中<pc>，</pc>親覽<num value="10000">萬</num>幾<pc>，</pc>見政事之多辟<pc>，</pc>輔佐之失職<pc>，</pc>自呂夷簡<pc>、</pc>張耆<pc>、</pc>夏竦<pc>、</pc>陳堯佐<pc>、</pc>范雍<pc>、</pc>晏殊等<pc>，</pc>
+<date when="null">宋</date>興<pc>，</pc>享國長久號稱太平者<pc>，</pc>莫如仁宗<pc>，</pc>切考致治之本<pc>，</pc>不過延直言<pc>，</pc>禦群下<pc>，</pc>進善退邪而已<pc>。</pc>明道中<pc>，</pc>親覽<num value="10000">萬</num>幾<pc>，</pc>見政事之多辟<pc>，</pc>輔佐之失職<pc>，</pc>自呂夷簡<pc>、</pc>張耆<pc>、</pc>夏竦<pc>、</pc>陳堯佐<pc>、</pc>范雍<pc>、</pc>晏殊等<pc>，</pc>
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>罷去<pc>。</pc>寶元初<pc>，</pc>冬雷地震<pc>，</pc>用諫官<persName>韓琦</persName>之言<pc>，</pc>王隨<pc>、</pc>陳堯佐<pc>、</pc>韓億<pc>、</pc>石中立同時見黜<pc>。</pc>其後<pc>，</pc>不次擢用<persName>杜衍</persName>
 <pc>、</pc>
@@ -175,7 +177,9 @@
 <div>
 <p>　　蔡京為翰林學士<pc>，</pc>師錫言<pc>：</pc>
 <pc>「</pc>
-<quote>京與弟卞同惡<pc>，</pc>迷國誤朝<pc>。</pc>而京好大喜功<pc>，</pc>銳於改作<pc>，</pc>日夜交結內侍<pc>、</pc>戚裏<pc>，</pc>以覬大用<pc>。</pc>若果用之<pc>，</pc>天下治亂自是而分<pc>，</pc>祖宗基業自是而隳矣<pc>。</pc>京援引死黨至數<num value="100">百</num>人<pc>，</pc>鄧洵武內行汙惡<pc>，</pc>搢紳不齒<pc>，</pc>豈可滓穢史筆<pc>？</pc>向宗回<pc>、</pc>宗良亦陰為京助<pc>。</pc>是皆國之深患<pc>，</pc>為陛下憂<pc>，</pc>為宗廟憂<pc>，</pc>為賢人君子憂<pc>。</pc>若出之於外<pc>，</pc>社稷之福也<pc>。</pc>
+<quote>京與弟卞同惡<pc>，</pc>迷國誤朝<pc>。</pc>而京好大喜功<pc>，</pc>銳於改作<pc>，</pc>日夜交結內侍<pc>、</pc>戚裏<pc>，</pc>以覬大用<pc>。</pc>若果用之<pc>，</pc>天下治亂自是而分<pc>，</pc>祖宗基業自是而隳矣<pc>。</pc>京援引死黨至數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>鄧洵武內行汙惡<pc>，</pc>搢紳不齒<pc>，</pc>豈可滓穢史筆<pc>？</pc>向宗回<pc>、</pc>宗良亦陰為京助<pc>。</pc>是皆國之深患<pc>，</pc>為陛下憂<pc>，</pc>為宗廟憂<pc>，</pc>為賢人君子憂<pc>。</pc>若出之於外<pc>，</pc>社稷之福也<pc>。</pc>
 </quote>
 <pc>」</pc>帝曰<pc>：</pc>
 <pc>「</pc>
@@ -354,7 +358,9 @@
 <p>　　方臘起睦之青溪<pc>，</pc>與衢接境<pc>。</pc>寇至<pc>，</pc>無兵可禦<pc>，</pc>眾望風奔潰<pc>。</pc>汝方獨與其僚段約介守孤城<pc>，</pc>
 <measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>而陷<pc>，</pc>罵賊以死<pc>，</pc>年<num value="66">六十六</num>
-<pc>。</pc>徽宗褒歎之<pc>，</pc>超贈龍圖閣直學士<pc>、</pc>通議大夫<pc>，</pc>諡曰忠毅<pc>，</pc>官其家<num value="7">七</num>人<pc>。</pc>
+<pc>。</pc>徽宗褒歎之<pc>，</pc>超贈龍圖閣直學士<pc>、</pc>通議大夫<pc>，</pc>諡曰忠毅<pc>，</pc>官其家<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -375,8 +381,10 @@
 </p>
 </div>
 <div>
-<p>　　中進士第<pc>，</pc>調銅梁令<pc>。</pc>民龐氏姊妹<num value="3">三</num>人冒隱幼弟田<pc>，</pc>弟壯<pc>，</pc>訴官不得直<pc>，</pc>貧至庸奴於人<pc>。</pc>及是又訴<pc>。</pc>陶<num value="1">一</num>問<pc>，</pc>
-<num value="3">三</num>人服罪<pc>，</pc>弟泣拜<pc>，</pc>願以田半作佛事以報<pc>。</pc>陶曉之曰<pc>：</pc>
+<p>　　中進士第<pc>，</pc>調銅梁令<pc>。</pc>民龐氏姊妹<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>冒隱幼弟田<pc>，</pc>弟壯<pc>，</pc>訴官不得直<pc>，</pc>貧至庸奴於人<pc>。</pc>及是又訴<pc>。</pc>陶<num value="1">一</num>問<pc>，</pc>
+<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>服罪<pc>，</pc>弟泣拜<pc>，</pc>願以田半作佛事以報<pc>。</pc>陶曉之曰<pc>：</pc>
 <pc>「</pc>
 <quote>
 <num value="3">三</num>姊皆汝同氣<pc>，</pc>方汝幼時<pc>，</pc>適為汝主之爾<pc>；</pc>不然<pc>，</pc>亦為他人所欺<pc>。</pc>與其捐半供佛<pc>，</pc>曷若遺姊<pc>，</pc>複為兄弟<pc>，</pc>顧不美乎<pc>？</pc>
@@ -412,7 +420,9 @@
 </quote>
 <pc>」</pc>宗閔怒<pc>，</pc>劾其沮敗新法<pc>，</pc>責監懷安商稅<pc>。</pc>或往吊之<pc>，</pc>陶曰<pc>：</pc>
 <pc>「</pc>
-<quote>吾欲假外郡之虛名<pc>，</pc>救蜀民<num value="1000000">百萬</num>之實禍<pc>。</pc>幸而言行<pc>，</pc>所濟多矣<pc>。</pc>敢有榮辱進<persName>退之</persName>念哉<pc>。</pc>
+<quote>吾欲假外郡之虛名<pc>，</pc>救蜀民<num value="1000000">百萬</num>之實禍<pc>。</pc>幸而言行<pc>，</pc>所濟多矣<pc>。</pc>敢有榮辱進<name key="韓愈" type="zi">
+<persName>退之</persName>
+</name>念哉<pc>。</pc>
 </quote>
 <pc>」</pc>起知廣安軍<pc>，</pc>召為司門郎中<pc>。</pc>
 </p>
@@ -516,13 +526,14 @@
 <pc>「</pc>
 <quote>昔日丁謂當國<pc>，</pc>號為恣睢<pc>，</pc>然不過陷<num value="1">一</num>寇准而已<pc>。</pc>及至於惇<pc>，</pc>而故老<pc>、</pc>元輔<pc>、</pc>侍從<pc>、</pc>台省之臣<pc>，</pc>凡天下之所謂賢者<pc>，</pc>
 <measure quantity="1" unit="day">
-<num value="1">一</num>日</measure>之間<pc>，</pc>佈滿嶺海<pc>，</pc>自有<date>宋</date>以來<pc>，</pc>未之聞也<pc>。</pc>當是時<pc>，</pc>惇之威勢震於海內<pc>，</pc>此陛下所親見<pc>。</pc>蓋其立造不根之語<pc>，</pc>文致悖逆之罪<pc>，</pc>是以人人危懼<pc>，</pc>莫能自保<pc>，</pc>俾其朽骨銜冤於地下<pc>，</pc>子孫禁錮於炎荒<pc>，</pc>忠臣義士<pc>，</pc>憤悶而不敢言<pc>，</pc>海內之人<pc>，</pc>得以歸怨先帝<pc>。</pc>其罪如此<pc>，</pc>尚何俟而不正典刑哉<pc>？</pc>卞事上不忠<pc>，</pc>懷奸深理<pc>，</pc>凡惇所為<pc>，</pc>皆卞發之<pc>，</pc>為力居多<pc>。</pc>望采之至公<pc>，</pc>昭示譴黜<pc>。</pc>
+<num value="1">一</num>日</measure>之間<pc>，</pc>佈滿嶺海<pc>，</pc>自有<date when="null">宋</date>以來<pc>，</pc>未之聞也<pc>。</pc>當是時<pc>，</pc>惇之威勢震於海內<pc>，</pc>此陛下所親見<pc>。</pc>蓋其立造不根之語<pc>，</pc>文致悖逆之罪<pc>，</pc>是以人人危懼<pc>，</pc>莫能自保<pc>，</pc>俾其朽骨銜冤於地下<pc>，</pc>子孫禁錮於炎荒<pc>，</pc>忠臣義士<pc>，</pc>憤悶而不敢言<pc>，</pc>海內之人<pc>，</pc>得以歸怨先帝<pc>。</pc>其罪如此<pc>，</pc>尚何俟而不正典刑哉<pc>？</pc>卞事上不忠<pc>，</pc>懷奸深理<pc>，</pc>凡惇所為<pc>，</pc>皆卞發之<pc>，</pc>為力居多<pc>。</pc>望采之至公<pc>，</pc>昭示譴黜<pc>。</pc>
 </quote>
 <pc>」</pc>又論<pc>：</pc>
 <pc>「</pc>
 <quote>蔡京治文及甫獄<pc>，</pc>本以償報私仇<pc>，</pc>始則上誣宣仁<pc>，</pc>終則歸咎先帝<pc>，</pc>必將族滅無辜<pc>，</pc>以逞其欲<pc>。</pc>臣料當時必有案牘章疏<pc>，</pc>可以見其鍛煉附會<pc>。</pc>如方天若之凶邪<pc>，</pc>而京收置門下<pc>，</pc>賴其傾險<pc>，</pc>以為腹心<pc>，</pc>立起犴獄<pc>，</pc>多斥善士<pc>，</pc>天下冤之<pc>，</pc>皆京與天若為之也<pc>。</pc>願考證其實<pc>，</pc>以正奸臣之罪<pc>。</pc>
 </quote>
-<pc>」</pc>於是<num value="3">三</num>人者皆去<pc>。</pc>
+<pc>」</pc>於是<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>者皆去<pc>。</pc>
 </p>
 </div>
 <div>
@@ -531,7 +542,9 @@
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>再贈右<term>諫議大夫</term>
-<pc>，</pc>官其後<num value="2">二</num>人<pc>。</pc>
+<pc>，</pc>官其後<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -566,7 +579,9 @@
 <pc>「</pc>
 <quote>士豈乏于世<pc>，</pc>顧陛下不知爾<pc>。</pc>
 </quote>
-<pc>」</pc>立疏可用者<num value="22">二十二</num>人<pc>。</pc>章惇惡其拂己<pc>，</pc>出知廣德軍<pc>，</pc>徙唐州<pc>，</pc>提點湖南刑獄<pc>。</pc>
+<pc>」</pc>立疏可用者<measure quantity="22" unit="people">
+<num value="22">二十二</num>人</measure>
+<pc>。</pc>章惇惡其拂己<pc>，</pc>出知廣德軍<pc>，</pc>徙唐州<pc>，</pc>提點湖南刑獄<pc>。</pc>
 </p>
 </div>
 <div>
@@ -605,7 +620,9 @@
 <div>
 <p>　　徽宗立<pc>，</pc>為兵部侍郎兼侍讀<pc>。</pc>論監司<pc>、</pc>守臣數易之弊<pc>，</pc>如江<pc>、</pc>淮發運使<pc>，</pc>
 <measure quantity="15" unit="years">
-<num value="15">十五</num>年</measure>間至更<num value="32">三十二</num>人<pc>，</pc>願稍久其任<pc>。</pc>又言<pc>：</pc>
+<num value="15">十五</num>年</measure>間至更<measure quantity="32" unit="people">
+<num value="32">三十二</num>人</measure>
+<pc>，</pc>願稍久其任<pc>。</pc>又言<pc>：</pc>
 <pc>「</pc>
 <quote>比更定役法<pc>，</pc>欲以寬民力<pc>，</pc>而有司生事<pc>，</pc>包切苟營贏羨<pc>。</pc>散青苗以抑兼併<pc>，</pc>拯難困<pc>，</pc>不當以散多予賞<pc>。</pc>
 </quote>
@@ -703,7 +720,10 @@
 <div>
 <p>　　是時<pc>，</pc>元豐用事之臣<pc>，</pc>雖去朝廷<pc>，</pc>然其黨分佈中外<pc>，</pc>起私說以搖時政<pc>。</pc>安民竊憂之<pc>，</pc>貽書呂公著曰<pc>：</pc>
 <pc>「</pc>
-<quote>善觀天下之勢<pc>，</pc>猶良醫之視疾<pc>，</pc>方安寧無事之時<pc>，</pc>語人曰<pc>：</pc>'其後必將有大憂'<pc>，</pc>則眾必駭笑<pc>。</pc>惟識微見幾之士<pc>，</pc>然後能逆知其漸<pc>。</pc>故不憂於可憂<pc>，</pc>而憂之於無足憂者<pc>，</pc>至憂也<pc>。</pc>今日天下之勢<pc>，</pc>可為大憂<pc>。</pc>雖登進忠良<pc>，</pc>而不能搜致海內之英才<pc>，</pc>使皆萃於朝<pc>，</pc>以勝小人<pc>，</pc>恐端人正士<pc>，</pc>未得安枕而臥也<pc>。</pc>故去小人不為難<pc>，</pc>而勝小人為難<pc>。</pc>陳蕃<pc>、</pc>竇武協心同力<pc>，</pc>選用名賢<pc>，</pc>天下想望太平<pc>，</pc>然卒死曹節之手<pc>，</pc>遂成黨錮之禍<pc>。</pc>張柬之<num value="5">五</num>王中興唐室<pc>，</pc>以謂慶流<num value="10000">萬</num>世<pc>，</pc>及武<num value="3">三</num>思<num value="1">一</num>得志<pc>，</pc>至於竄移淪沒<pc>。</pc>凡此者皆前世已然之禍也<pc>。</pc>今用賢如倚孤棟<pc>，</pc>拔士如轉巨石<pc>，</pc>雖有奇特瑰卓之才<pc>，</pc>不得<num value="1">一</num>行其志<pc>，</pc>甚可歎也<pc>。</pc>猛虎負嵎<pc>，</pc>莫之敢攖<pc>，</pc>而卒為人所勝者<pc>，</pc>人眾而虎寡也<pc>。</pc>故以<num value="10">十</num>人而制<num value="1">一</num>虎則人勝<pc>，</pc>以<num value="1">一</num>人而制<num value="10">十</num>虎則虎勝<pc>，</pc>奈何以數<num value="10">十</num>人而制<num value="1000">千</num>虎乎<pc>？</pc>今怨忿已積<pc>，</pc>
+<quote>善觀天下之勢<pc>，</pc>猶良醫之視疾<pc>，</pc>方安寧無事之時<pc>，</pc>語人曰<pc>：</pc>'其後必將有大憂'<pc>，</pc>則眾必駭笑<pc>。</pc>惟識微見幾之士<pc>，</pc>然後能逆知其漸<pc>。</pc>故不憂於可憂<pc>，</pc>而憂之於無足憂者<pc>，</pc>至憂也<pc>。</pc>今日天下之勢<pc>，</pc>可為大憂<pc>。</pc>雖登進忠良<pc>，</pc>而不能搜致海內之英才<pc>，</pc>使皆萃於朝<pc>，</pc>以勝小人<pc>，</pc>恐端人正士<pc>，</pc>未得安枕而臥也<pc>。</pc>故去小人不為難<pc>，</pc>而勝小人為難<pc>。</pc>陳蕃<pc>、</pc>竇武協心同力<pc>，</pc>選用名賢<pc>，</pc>天下想望太平<pc>，</pc>然卒死曹節之手<pc>，</pc>遂成黨錮之禍<pc>。</pc>張柬之<num value="5">五</num>王中興唐室<pc>，</pc>以謂慶流<num value="10000">萬</num>世<pc>，</pc>及武<num value="3">三</num>思<num value="1">一</num>得志<pc>，</pc>至於竄移淪沒<pc>。</pc>凡此者皆前世已然之禍也<pc>。</pc>今用賢如倚孤棟<pc>，</pc>拔士如轉巨石<pc>，</pc>雖有奇特瑰卓之才<pc>，</pc>不得<num value="1">一</num>行其志<pc>，</pc>甚可歎也<pc>。</pc>猛虎負嵎<pc>，</pc>莫之敢攖<pc>，</pc>而卒為人所勝者<pc>，</pc>人眾而虎寡也<pc>。</pc>故以<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>而制<num value="1">一</num>虎則人勝<pc>，</pc>以<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>而制<num value="10">十</num>虎則虎勝<pc>，</pc>奈何以數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>而制<num value="1000">千</num>虎乎<pc>？</pc>今怨忿已積<pc>，</pc>
 <num value="1">一</num>發其害必大<pc>，</pc>可不謂大憂乎<pc>。</pc>
 </quote>
 <pc>」</pc>及章惇作相<pc>，</pc>其言遂驗<pc>。</pc>
@@ -785,7 +805,9 @@
 </p>
 </div>
 <div>
-<p>　　論曰<pc>：</pc>次升從容<num value="1">一</num>言<pc>，</pc>止呂升卿之使嶺南<pc>，</pc>大有功于元祐諸臣<pc>。</pc>師錫謂蔡京若用<pc>，</pc>天下治亂自是而分<pc>，</pc>惜其言不行於當時<pc>，</pc>而徒有驗於其後<pc>。</pc>汝礪辨救蔡確<pc>，</pc>以直報怨<pc>。</pc>陶言榷茶為西南害<pc>，</pc>毅然觸蒲<pc>、</pc>李之鋒<pc>。</pc>庭堅論紹複未足以盡孝道<pc>。</pc>諤言世非乏士<pc>，</pc>患上不知<pc>，</pc>乃薦可用者<num value="20">二十</num>有<num value="2">二</num>人<pc>，</pc>號稱鯁直<pc>，</pc>裨益尤多<pc>。</pc>軒力陳青苗貽害<pc>，</pc>願以清淨為治<pc>。</pc>祐擊林希<pc>，</pc>且論惇<pc>、</pc>京<pc>、</pc>卞輩<pc>，</pc>斥死弗悔<pc>。</pc>公望謂神宗于元祐諸臣非有射鉤<pc>。</pc>
+<p>　　論曰<pc>：</pc>次升從容<num value="1">一</num>言<pc>，</pc>止呂升卿之使嶺南<pc>，</pc>大有功于元祐諸臣<pc>。</pc>師錫謂蔡京若用<pc>，</pc>天下治亂自是而分<pc>，</pc>惜其言不行於當時<pc>，</pc>而徒有驗於其後<pc>。</pc>汝礪辨救蔡確<pc>，</pc>以直報怨<pc>。</pc>陶言榷茶為西南害<pc>，</pc>毅然觸蒲<pc>、</pc>李之鋒<pc>。</pc>庭堅論紹複未足以盡孝道<pc>。</pc>諤言世非乏士<pc>，</pc>患上不知<pc>，</pc>乃薦可用者<num value="20">二十</num>有<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>號稱鯁直<pc>，</pc>裨益尤多<pc>。</pc>軒力陳青苗貽害<pc>，</pc>願以清淨為治<pc>。</pc>祐擊林希<pc>，</pc>且論惇<pc>、</pc>京<pc>、</pc>卞輩<pc>，</pc>斥死弗悔<pc>。</pc>公望謂神宗于元祐諸臣非有射鉤<pc>。</pc>
 </p>
 </div>
 </div>

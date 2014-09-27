@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="176">
 <div>
-<p>◎食貨上<num value="4">四</num>
+<p>
+<name key="null" type="null">◎食貨</name>上<num value="4">四</num>
 <pc>（</pc>屯田常平義倉<pc>）</pc>
 </p>
 </div>
@@ -40,7 +41,8 @@
 <pc>“</pc>閩地惟種水田<pc>，</pc>緣山導泉<pc>，</pc>倍費功力<pc>。</pc>今河北州軍多陂塘<pc>，</pc>引水溉田<pc>，</pc>省功易就<pc>，</pc>
 <measure quantity="3" unit="years">
 <num value="3">五三</num>年</measure>間<pc>，</pc>公私必大獲其利<pc>。</pc>
-<pc>”</pc>詔承矩按視還<pc>，</pc>奏如懋言<pc>。</pc>遂以承矩為製置河北沿邊屯田使<pc>，</pc>懋為大理寺丞充判官<pc>，</pc>發諸州鎮兵<num value="18000">一萬八千</num>人給其役<pc>。</pc>凡雄莫霸州<pc>、</pc>平戎順安等軍興堰<num value="600">六百</num>裏<pc>，</pc>置鬥門<pc>，</pc>引澱水灌溉<pc>。</pc>初年種稻<pc>，</pc>值霜不成<pc>。</pc>懋以晚稻<measure quantity="9" unit="months">
+<pc>”</pc>詔承矩按視還<pc>，</pc>奏如懋言<pc>。</pc>遂以承矩為製置河北沿邊屯田使<pc>，</pc>懋為大理寺丞充判官<pc>，</pc>發諸州鎮兵<measure quantity="18000" unit="people">
+<num value="18000">一萬八千</num>人</measure>給其役<pc>。</pc>凡雄莫霸州<pc>、</pc>平戎順安等軍興堰<num value="600">六百</num>裏<pc>，</pc>置鬥門<pc>，</pc>引澱水灌溉<pc>。</pc>初年種稻<pc>，</pc>值霜不成<pc>。</pc>懋以晚稻<measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>熟<pc>，</pc>河北霜早而地氣遲<pc>，</pc>江東早稻<measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>即熟<pc>，</pc>取其種課令種之<pc>，</pc>是歲<measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
@@ -49,7 +51,9 @@
 </div>
 <div>
 <p>度支判官陳堯叟等亦言<pc>：</pc>
-<pc>“</pc>漢<pc>、</pc>魏<pc>、</pc>晉<pc>、</pc>唐於陳<pc>、</pc>許<pc>、</pc>鄧<pc>、</pc>潁暨蔡<pc>、</pc>宿<pc>、</pc>亳至於壽春<pc>，</pc>用水利墾田<pc>，</pc>陳跡具在<pc>。</pc>議選官大開屯田<pc>，</pc>以通水利<pc>，</pc>發江<pc>、</pc>淮下軍散卒及募民充役<pc>。</pc>給官錢市牛<pc>、</pc>置耕具<pc>，</pc>導溝瀆<pc>，</pc>築防堰<pc>。</pc>每屯<num value="10">十</num>人<pc>，</pc>人給<num value="1">一</num>牛<pc>，</pc>治田<num value="50">五十</num>畝<pc>，</pc>雖古製<num value="1">一</num>夫<num value="100">百</num>畝<pc>，</pc>今且墾其半<pc>，</pc>俟久而古製可複也<pc>。</pc>畝約收<num value="3">三</num>斛<pc>，</pc>歲可收<num value="150000">十五萬</num>斛<pc>，</pc>
+<pc>“</pc>漢<pc>、</pc>魏<pc>、</pc>晉<pc>、</pc>唐於陳<pc>、</pc>許<pc>、</pc>鄧<pc>、</pc>潁暨蔡<pc>、</pc>宿<pc>、</pc>亳至於壽春<pc>，</pc>用水利墾田<pc>，</pc>陳跡具在<pc>。</pc>議選官大開屯田<pc>，</pc>以通水利<pc>，</pc>發江<pc>、</pc>淮下軍散卒及募民充役<pc>。</pc>給官錢市牛<pc>、</pc>置耕具<pc>，</pc>導溝瀆<pc>，</pc>築防堰<pc>。</pc>每屯<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>人給<num value="1">一</num>牛<pc>，</pc>治田<num value="50">五十</num>畝<pc>，</pc>雖古製<num value="1">一</num>夫<num value="100">百</num>畝<pc>，</pc>今且墾其半<pc>，</pc>俟久而古製可複也<pc>。</pc>畝約收<num value="3">三</num>斛<pc>，</pc>歲可收<num value="150000">十五萬</num>斛<pc>，</pc>
 <measure quantity="7" unit="prefectures">
 <num value="7">七</num>州</measure>之間置<num value="20">二十</num>屯<pc>，</pc>可得<num value="3000000">三百萬</num>斛<pc>，</pc>因而益之<pc>，</pc>數年可使倉廩充實<pc>，</pc>省江<pc>、</pc>淮漕運<pc>。</pc>民田未辟<pc>，</pc>官為種植<pc>，</pc>公田未墾<pc>，</pc>募民墾之<pc>，</pc>歲登所取<pc>，</pc>並如民間主客之例<pc>。</pc>傅子曰<pc>：</pc>‘陸田命懸於天<pc>，</pc>人力雖修<pc>，</pc>苟水旱不時<pc>，</pc>則<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>之功棄矣<pc>。</pc>水田之製由人力<pc>，</pc>人力苟修<pc>，</pc>則地利可盡<pc>。</pc>’且蟲災之害亦少於陸田<pc>，</pc>水田既修<pc>，</pc>其利兼倍<pc>。</pc>
@@ -59,7 +63,9 @@
 <div>
 <p>至鹹平中<pc>，</pc>大理寺丞王宗旦請募民耕<placeName>潁州</placeName>陂塘荒地凡<num value="500">千五百</num>頃<pc>。</pc>部民應募者<num value="300">三百</num>餘戶<pc>，</pc>詔令未出租稅<pc>，</pc>免其徭役<pc>。</pc>然無助於功利<pc>。</pc>而汝州舊有洛南務<pc>，</pc>內園兵人種稻<pc>，</pc>雍熙<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>罷<pc>，</pc>賦予民<pc>，</pc>至是複置<pc>，</pc>命京朝官專掌<pc>。</pc>募民戶<num value="200">二百</num>餘<pc>，</pc>自備耕牛<pc>，</pc>立團長<pc>，</pc>墾地<num value="600">六百</num>頃<pc>，</pc>導汝水溉灌<pc>，</pc>歲收<num value="23000">二萬三千</num>石<pc>。</pc>襄陽縣淳河<pc>，</pc>舊作堤截水入官渠<pc>，</pc>溉民田<num value="3000">三千</num>頃<pc>；</pc>宜城縣蠻河<pc>，</pc>溉田<num value="700">七百</num>頃<pc>；</pc>又有屯田<num value="300">三百</num>餘頃<pc>。</pc>知襄州耿望請於舊地兼括荒田<pc>，</pc>置營田上<pc>、</pc>中<pc>、</pc>下<num value="3">三</num>務<pc>，</pc>調夫<num value="500">五百</num>
-<pc>，</pc>築堤堰<pc>，</pc>仍集鄰州兵每務<num value="200">二百</num>人<pc>，</pc>荊湖市牛<num value="700">七百</num>分給之<pc>。</pc>是歲<pc>，</pc>種稻<num value="300">三百</num>餘頃<pc>。</pc>
+<pc>，</pc>築堤堰<pc>，</pc>仍集鄰州兵每務<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>荊湖市牛<num value="700">七百</num>分給之<pc>。</pc>是歲<pc>，</pc>種稻<num value="300">三百</num>餘頃<pc>。</pc>
 </p>
 </div>
 <div>
@@ -69,7 +75,10 @@
 <pc>，</pc>陝西轉運使劉綜亦言<pc>：</pc>
 <pc>“</pc>宜於古原州建鎮戎軍置屯田<pc>。</pc>今本軍<measure quantity="1" unit="year">
 <num value="1">一</num>歲</measure>給芻糧<num value="40">四十</num>餘<num value="10000">萬</num>石<pc>、</pc>束<pc>，</pc>約費茶鹽<num value="50">五十</num>餘<num value="10000">萬</num>
-<pc>，</pc>儻更令遠民輸送<pc>，</pc>其費益多<pc>。</pc>請於軍城<num value="4">四</num>麵立屯田務<pc>，</pc>開田<num value="500">五百</num>頃<pc>，</pc>置下軍<num value="2000">二千</num>人<pc>、</pc>牛<num value="800">八百</num>頭耕種之<pc>；</pc>又於軍城前後及北至木峽口<pc>，</pc>各置堡砦<pc>，</pc>分居其人<pc>，</pc>無寇則耕<pc>，</pc>寇來則戰<pc>。</pc>就命知軍為屯田製置使<pc>，</pc>自擇使臣充<num value="4">四</num>砦監押<pc>，</pc>每砦<num value="500">五百</num>人充屯戍<pc>。</pc>
+<pc>，</pc>儻更令遠民輸送<pc>，</pc>其費益多<pc>。</pc>請於軍城<num value="4">四</num>麵立屯田務<pc>，</pc>開田<num value="500">五百</num>頃<pc>，</pc>置下軍<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>
+<pc>、</pc>牛<num value="800">八百</num>頭耕種之<pc>；</pc>又於軍城前後及北至木峽口<pc>，</pc>各置堡砦<pc>，</pc>分居其人<pc>，</pc>無寇則耕<pc>，</pc>寇來則戰<pc>。</pc>就命知軍為屯田製置使<pc>，</pc>自擇使臣充<num value="4">四</num>砦監押<pc>，</pc>每砦<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>充屯戍<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>既而原<pc>、</pc>渭州亦開方田<pc>，</pc>戎人內屬者皆依之得安其居<pc>。</pc>
 </p>
 </div>
@@ -107,7 +116,8 @@
 <div>
 <p>其後陝西用兵<pc>，</pc>詔轉運司度隙地置營田以助邊計<pc>，</pc>又假同州沙苑監牧地為營田<pc>，</pc>而知永興軍範雍括諸郡牛頗煩擾<pc>，</pc>未幾遂罷<pc>。</pc>右正言田況言<pc>：</pc>
 <pc>“</pc>鎮戎<pc>、</pc>原<pc>、</pc>渭<pc>，</pc>地方數<num value="100">百</num>裏<pc>，</pc>舊皆民田<pc>，</pc>今無複農事<pc>，</pc>可即其地大興營田<pc>，</pc>以保捷兵不習戰者分耕<pc>，</pc>
-<num value="500">五百</num>人為<num value="1">一</num>堡<pc>，</pc>
+<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>為<num value="1">一</num>堡<pc>，</pc>
 <num value="3">三</num>兩堡置營田官<num value="1">一</num>領之<pc>，</pc>播種以時<pc>，</pc>農隙則習武事<pc>。</pc>
 <pc>”</pc>疏奏<pc>，</pc>不用<pc>。</pc>後乃命<num value="3">三</num>司戶部副使夏安期等議並邊置屯田<pc>，</pc>迄不能成<pc>。</pc>
 </p>
@@ -140,7 +150,10 @@
 <div>
 <p>時陝西曠土多未耕<pc>，</pc>屯戍不可撤<pc>，</pc>遠方有輸送之勤<pc>，</pc>知延州趙禼請募民耕以紓朝廷憂<pc>，</pc>詔下其事<pc>。</pc>經略安撫使郭逵言<pc>：</pc>
 <pc>“</pc>懷寧砦所得地<num value="100">百</num>裏<pc>，</pc>以募弓箭手<pc>，</pc>無閑田<pc>。</pc>
-<pc>”</pc>禼又言之<pc>，</pc>遂括地得<num value="5000">萬五千</num>餘頃<pc>，</pc>募漢蕃兵幾<num value="5000">五千</num>人<pc>，</pc>為<num value="8">八</num>指揮<pc>，</pc>詔遷禼官<pc>，</pc>賜金帛<pc>。</pc>而熙州王韶又請以河州蕃部近城川地招弓箭手<pc>，</pc>以山坡地招蕃兵弓箭手<pc>，</pc>每砦<num value="5">五</num>指揮<pc>，</pc>以<num value="250">二百五十</num>人為額<pc>，</pc>人給地<num value="1">一</num>頃<pc>，</pc>蕃官<num value="2">二</num>頃<pc>，</pc>大蕃官<num value="3">三</num>頃<pc>。</pc>熙河多良田<pc>，</pc>
+<pc>”</pc>禼又言之<pc>，</pc>遂括地得<num value="5000">萬五千</num>餘頃<pc>，</pc>募漢蕃兵幾<measure quantity="5000" unit="people">
+<num value="5000">五千</num>人</measure>
+<pc>，</pc>為<num value="8">八</num>指揮<pc>，</pc>詔遷禼官<pc>，</pc>賜金帛<pc>。</pc>而熙州王韶又請以河州蕃部近城川地招弓箭手<pc>，</pc>以山坡地招蕃兵弓箭手<pc>，</pc>每砦<num value="5">五</num>指揮<pc>，</pc>以<measure quantity="250" unit="people">
+<num value="250">二百五十</num>人</measure>為額<pc>，</pc>人給地<num value="1">一</num>頃<pc>，</pc>蕃官<num value="2">二</num>頃<pc>，</pc>大蕃官<num value="3">三</num>頃<pc>。</pc>熙河多良田<pc>，</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>詔委提點秦鳳路刑獄鄭民憲興營田<pc>，</pc>許奏辟官屬以集事<pc>。</pc>
@@ -217,8 +230,10 @@
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>德安府<pc>、</pc>複州<pc>、</pc>漢陽軍鎮撫使陳規放古屯田<pc>，</pc>凡軍士<pc>：</pc>相險隘<pc>，</pc>立堡砦<pc>，</pc>且守且耕<pc>，</pc>耕必給費<pc>，</pc>斂複給糧<pc>，</pc>依鋤田法<pc>，</pc>餘並入官<pc>。</pc>凡民<pc>：</pc>水田畝賦粳米<num value="1">一</num>鬥<pc>，</pc>陸田豆麥夏秋各<num value="5">五</num>升<pc>，</pc>滿<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>無欠<pc>，</pc>給為永業<pc>。</pc>兵民各處<num value="1">一</num>方<pc>，</pc>流民歸業浸眾<pc>，</pc>亦置堡砦屯聚之<pc>。</pc>凡屯田事<pc>，</pc>營田司兼之<pc>；</pc>營田事<pc>，</pc>府<pc>、</pc>縣兼之<pc>。</pc>廷臣因規奏推廣<pc>，</pc>謂<num value="1">一</num>夫授田<num value="100">百</num>畝<pc>，</pc>古製也<pc>，</pc>今荒田甚多<pc>，</pc>當聽<num value="100">百</num>姓請射<pc>。</pc>其有闕耕牛者<pc>，</pc>宜用人耕之法<pc>，</pc>以<num value="2">二</num>人曳<num value="1">一</num>犁<pc>。</pc>凡授田<pc>，</pc>
-<num value="5">五</num>人為甲<pc>，</pc>別給蔬地<num value="5">五</num>畝為廬舍場圃<pc>。</pc>兵屯以大使臣主之<pc>，</pc>民屯以縣令主之<pc>，</pc>以歲課多少為殿最<pc>。</pc>下諸鎮推行之<pc>。</pc>
+<num value="2">二</num>年</measure>無欠<pc>，</pc>給為永業<pc>。</pc>兵民各處<num value="1">一</num>方<pc>，</pc>流民歸業浸眾<pc>，</pc>亦置堡砦屯聚之<pc>。</pc>凡屯田事<pc>，</pc>營田司兼之<pc>；</pc>營田事<pc>，</pc>府<pc>、</pc>縣兼之<pc>。</pc>廷臣因規奏推廣<pc>，</pc>謂<num value="1">一</num>夫授田<num value="100">百</num>畝<pc>，</pc>古製也<pc>，</pc>今荒田甚多<pc>，</pc>當聽<num value="100">百</num>姓請射<pc>。</pc>其有闕耕牛者<pc>，</pc>宜用人耕之法<pc>，</pc>以<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>曳<num value="1">一</num>犁<pc>。</pc>凡授田<pc>，</pc>
+<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>為甲<pc>，</pc>別給蔬地<num value="5">五</num>畝為廬舍場圃<pc>。</pc>兵屯以大使臣主之<pc>，</pc>民屯以縣令主之<pc>，</pc>以歲課多少為殿最<pc>。</pc>下諸鎮推行之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -238,7 +253,8 @@
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>都督張浚奏改江<pc>、</pc>淮屯田為營田<pc>，</pc>凡官田逃田並拘籍<pc>，</pc>以<num value="5">五</num>頃為<num value="1">一</num>莊<pc>，</pc>募民承佃<pc>。</pc>其法<pc>：</pc>
-<num value="5">五</num>家為保<pc>，</pc>共佃<num value="1">一</num>莊<pc>，</pc>以<num value="1">一</num>人為長<pc>，</pc>每莊給牛<num value="5">五</num>具<pc>，</pc>耒耜及種副之<pc>，</pc>別給<num value="10">十</num>畝為蔬圃<pc>，</pc>貸錢<num value="70000">七十千</num>
+<num value="5">五</num>家為保<pc>，</pc>共佃<num value="1">一</num>莊<pc>，</pc>以<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>為長<pc>，</pc>每莊給牛<num value="5">五</num>具<pc>，</pc>耒耜及種副之<pc>，</pc>別給<num value="10">十</num>畝為蔬圃<pc>，</pc>貸錢<num value="70000">七十千</num>
 <pc>，</pc>分<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>償<pc>。</pc>命樊賓<pc>、</pc>王弗行之<pc>。</pc>尋命<num value="5">五</num>大將劉光世<pc>、</pc>韓世忠<pc>、</pc>張俊<pc>、</pc>嶽飛<pc>、</pc>吳玠及江淮<pc>、</pc>荊<pc>、</pc>襄<pc>、</pc>利路帥悉領營田使<pc>。</pc>遷賓司農少卿<pc>，</pc>提舉江<pc>、</pc>淮營田<pc>，</pc>置司建康<pc>，</pc>弗屯田員外郎副之<pc>。</pc>官給牛<pc>、</pc>種<pc>，</pc>撫存流移<pc>，</pc>
 <measure quantity="1" unit="year">
@@ -323,7 +339,8 @@
 <div>
 <p>端平元年<measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>以臣僚言<pc>，</pc>屯<num value="50000">五萬</num>人於淮之南北<pc>，</pc>且田且守<pc>，</pc>置屯田判官<num value="1">一</num>員經紀其事<pc>，</pc>暇則教以騎射<pc>。</pc>初弛田租<measure quantity="3" unit="years">
+<pc>，</pc>以臣僚言<pc>，</pc>屯<measure quantity="50000" unit="people">
+<num value="50000">五萬</num>人</measure>於淮之南北<pc>，</pc>且田且守<pc>，</pc>置屯田判官<num value="1">一</num>員經紀其事<pc>，</pc>暇則教以騎射<pc>。</pc>初弛田租<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>又<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>則取其半<pc>。</pc>
@@ -435,7 +452,8 @@
 <num value="100000">十萬</num>留<num value="10000">萬</num>石<pc>。</pc>田有餘<pc>，</pc>則鬻如舊<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>詔改隸司農寺<pc>，</pc>州選官<num value="2">二</num>人主出納<pc>，</pc>歲<measure quantity="10" unit="months">
+<pc>，</pc>詔改隸司農寺<pc>，</pc>州選官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>主出納<pc>，</pc>歲<measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>遣官驗視<pc>，</pc>應受米者書名於籍<pc>。</pc>自<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>始<pc>，</pc>
 <measure quantity="3" unit="days">
@@ -457,7 +475,9 @@
 <div>
 <p>既而條例司又言<pc>：</pc>
 <pc>“</pc>常平<pc>、</pc>廣惠倉條約<pc>，</pc>先行於河北<pc>、</pc>京東<pc>、</pc>淮南<num value="3">三</num>路<pc>，</pc>訪問民間多願支貸<pc>，</pc>乞遍下諸路轉運司施行<pc>，</pc>當議置提舉官<pc>。</pc>
-<pc>”</pc>時天下常平錢穀見在<num value="14000000">一千四百萬</num>貫石<pc>。</pc>詔諸路各置提舉官<num value="2">二</num>員<pc>，</pc>以朝官為之<pc>，</pc>管當<num value="1">一</num>員<pc>，</pc>京官為之<pc>，</pc>或共置<num value="2">二</num>員<pc>，</pc>開封府界<num value="1">一</num>員<pc>，</pc>凡<num value="41">四十一</num>人<pc>。</pc>
+<pc>”</pc>時天下常平錢穀見在<num value="14000000">一千四百萬</num>貫石<pc>。</pc>詔諸路各置提舉官<num value="2">二</num>員<pc>，</pc>以朝官為之<pc>，</pc>管當<num value="1">一</num>員<pc>，</pc>京官為之<pc>，</pc>或共置<num value="2">二</num>員<pc>，</pc>開封府界<num value="1">一</num>員<pc>，</pc>凡<measure quantity="41" unit="people">
+<num value="41">四十一</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -470,7 +490,8 @@
 <div>
 <p>會河北轉運司幹當公事王廣廉召議事<pc>，</pc>廣廉嚐奏乞度僧牒數<num value="1000">千</num>道為本錢<pc>，</pc>於陝西轉運司私行青苗法<pc>，</pc>春散秋斂<pc>，</pc>與安石意合<pc>。</pc>至是<pc>，</pc>請施行之河北<pc>，</pc>於是安石決意行之<pc>，</pc>而常平<pc>、</pc>廣惠倉之法遂變而為青苗矣<pc>。</pc>
 <persName>蘇轍</persName>以議不合罷<pc>。</pc>而諸路提舉官往往迎合安石之意<pc>，</pc>務以多散為功<pc>。</pc>富民不願取<pc>，</pc>貧者乃欲得之<pc>，</pc>即令隨戶等高下品配<pc>，</pc>又令貧富相兼<pc>，</pc>
-<num value="10">十</num>人為保首<pc>。</pc>王廣廉在河北<pc>，</pc>
+<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>為保首<pc>。</pc>王廣廉在河北<pc>，</pc>
 <num value="1">一</num>等戶給<num value="15000">十五千</num>
 <pc>，</pc>等而下之<pc>，</pc>至<num value="5">五</num>等猶給<num value="1000">一千</num>
 <pc>，</pc>民間喧然不以為便<pc>。</pc>廣廉入奏謂民皆歡呼感德<pc>，</pc>然言不便者甚眾<pc>。</pc>右正言李常<pc>、</pc>孫覺乞詔有司毋以強民<pc>。</pc>時提舉府界常平事侯叔獻屢督提點府界縣鎮呂景散錢<pc>，</pc>景以畿縣各有屯兵<pc>，</pc>歲入課利僅能贍給<pc>；</pc>又民戶嚐貸糧<num value="50">五十</num>餘<num value="10000">萬</num>石<pc>，</pc>尚悉以聞<pc>；</pc>今條例司又以買陝西鹽鈔錢<num value="500000">五十萬</num>緡為青苗錢給散<pc>，</pc>恐民力不堪<pc>。</pc>詔送條例司<pc>，</pc>召提舉司官至中書戒諭之<pc>。</pc>王安石言<pc>：</pc>
@@ -594,7 +615,8 @@
 <persName>韓琦</persName>
 <num value="3">三</num>朝<term>宰相</term>
 <pc>，</pc>不信<pc>，</pc>而信<num value="2">二</num>宦者乎<pc>？</pc>
-<pc>”</pc>先是<pc>，</pc>王安石陰結入內副都知張若水<pc>、</pc>押班藍元震<pc>，</pc>帝因使<num value="2">二</num>人潛察府界俵錢事<pc>，</pc>還言民皆情願<pc>，</pc>無抑配者<pc>，</pc>故帝益信之<pc>。</pc>初<pc>，</pc>群臣進讀邇英畢<pc>，</pc>帝問<pc>：</pc>
+<pc>”</pc>先是<pc>，</pc>王安石陰結入內副都知張若水<pc>、</pc>押班藍元震<pc>，</pc>帝因使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>潛察府界俵錢事<pc>，</pc>還言民皆情願<pc>，</pc>無抑配者<pc>，</pc>故帝益信之<pc>。</pc>初<pc>，</pc>群臣進讀邇英畢<pc>，</pc>帝問<pc>：</pc>
 <pc>“</pc>朝廷每更<num value="1">一</num>事<pc>，</pc>舉朝洶洶<pc>，</pc>何也<pc>？</pc>
 <pc>”</pc>司馬光曰<pc>：</pc>
 <pc>“</pc>青苗出息<pc>，</pc>平民為之<pc>，</pc>尚能以蠶食下戶至饑寒流離<pc>，</pc>況縣官法度之威乎<pc>？</pc>

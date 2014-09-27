@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="208">
 <div>
-<p>◎藝文<num value="7">七</num>集類<num value="4">四</num>
+<p>
+<name key="null" type="null">◎藝文</name>
+<num value="7">七</num>集類<num value="4">四</num>
 <pc>：</pc>
 <num value="1">一</num>曰楚辭類<pc>，</pc>
 <num value="2">二</num>曰別集類<pc>，</pc>
@@ -330,7 +332,9 @@
 <measure quantity="7" unit="chapters">
 <num value="7">七</num>卷</measure>
 <pc>《</pc>
-<title>孔<persName>稚圭</persName>集</title>
+<title>孔<name key="韓琦" type="zi">
+<persName>稚圭</persName>
+</name>集</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -3593,7 +3597,7 @@
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>錢鏐<pc>《</pc>
 <title>
-<date>吳越</date>石壁記</title>
+<date when="null">吳越</date>石壁記</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>孫光憲<pc>《</pc>
@@ -3939,7 +3943,9 @@
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>
 <pc>《</pc>
-<title>譚<persName>藏用</persName>詩</title>
+<title>譚<name key="高懷德" type="zi">
+<persName>藏用</persName>
+</name>詩</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -4285,7 +4291,7 @@
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>丁友亮<pc>《</pc>
 <title>
-<date>唐</date>興替論</title>
+<date when="null">唐</date>興替論</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>丘光庭<pc>《</pc>
@@ -5308,7 +5314,7 @@
 <num value="14">十四</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>吳越</date>掌書記集</title>
+<date when="null">吳越</date>掌書記集</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>熊皎<pc>《</pc>
@@ -5342,7 +5348,7 @@
 <num value="5">五</num>卷</measure>
 <pc>《</pc>
 <title>
-<date>南唐</date>李後主集</title>
+<date when="null">南唐</date>李後主集</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -7014,7 +7020,9 @@
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
-<title>許<persName>彥國</persName>詩</title>
+<title>許<name key="富弼" type="zi">
+<persName>彥國</persName>
+</name>詩</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>
@@ -8336,7 +8344,9 @@
 <measure quantity="11" unit="chapters">
 <num value="11">十一</num>卷</measure>
 <pc>《</pc>
-<title>顏<persName>師魯</persName>文集</title>
+<title>顏<name key="尹洙" type="zi">
+<persName>師魯</persName>
+</name>文集</title>
 <pc>》</pc>
 <measure quantity="44" unit="chapters">
 <num value="44">四十四</num>卷</measure>陳峴<pc>《</pc>
@@ -10328,7 +10338,9 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
-<pc>（</pc>許<persName>彥國</persName>母<pc>）</pc>楊吉<pc>《</pc>
+<pc>（</pc>許<name key="富弼" type="zi">
+<persName>彥國</persName>
+</name>母<pc>）</pc>楊吉<pc>《</pc>
 <title>登瀛集</title>
 <pc>》</pc>
 <measure quantity="5" unit="chapters">

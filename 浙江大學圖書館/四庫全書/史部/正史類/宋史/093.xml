@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="93">
 <div>
-<p>　　元祐<measure quantity="8" unit="years">
+<p>
+<name key="null" type="null">　　元</name>祐<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
@@ -224,7 +225,9 @@
 <num value="12">乙亥</num>
 <pc>，</pc>北外都水丞李偉言<pc>：</pc>
 <pc>「</pc>
-<quote>相度大小河門<pc>，</pc>乘此水勢衰弱<pc>，</pc>並先修閉<pc>，</pc>各立蛾眉埽鎮壓<pc>。</pc>乞次於河北<pc>、</pc>京東兩路差正夫<num value="30000">三萬</num>人<pc>，</pc>其他夫數<pc>，</pc>令修河官和雇<pc>。</pc>
+<quote>相度大小河門<pc>，</pc>乘此水勢衰弱<pc>，</pc>並先修閉<pc>，</pc>各立蛾眉埽鎮壓<pc>。</pc>乞次於河北<pc>、</pc>京東兩路差正夫<measure quantity="30000" unit="people">
+<num value="30000">三萬</num>人</measure>
+<pc>，</pc>其他夫數<pc>，</pc>令修河官和雇<pc>。</pc>
 </quote>
 <pc>」</pc>
 <measure quantity="3" unit="months">
@@ -616,7 +619,9 @@
 <pc>，</pc>溝河夫<num value="18000">一萬八千</num>
 <pc>。</pc>緣連年不稔<pc>，</pc>群盜劫掠<pc>，</pc>民力困弊<pc>，</pc>乞量數減放<pc>。</pc>
 </quote>
-<pc>」</pc>詔減<num value="8000">八千</num>人<pc>。</pc>
+<pc>」</pc>詔減<measure quantity="8000" unit="people">
+<num value="8000">八千</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -648,26 +653,31 @@
 <pc>「</pc>
 <quote>汴水溢壞開封大寧堤<pc>，</pc>浸民田<pc>，</pc>害稼<pc>。</pc>
 </quote>
-<pc>」</pc>詔發懷<pc>、</pc>孟丁夫<num value="3500">三千五百</num>人塞之<pc>。</pc>
+<pc>」</pc>詔發懷<pc>、</pc>孟丁夫<measure quantity="3500" unit="people">
+<num value="3500">三千五百</num>人</measure>塞之<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
-<pc>，</pc>發軍士<num value="1000">千</num>人復汴口<pc>。</pc>
+<pc>，</pc>發軍士<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>復汴口<pc>。</pc>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <pc>，</pc>宋州言<pc>：</pc>
 <pc>「</pc>
 <quote>寧陵縣河溢<pc>，</pc>堤決<pc>。</pc>
 </quote>
-<pc>」</pc>詔發宋<pc>、</pc>亳丁夫<num value="4500">四千五百</num>人<pc>，</pc>分遣使臣護役<pc>。</pc>
+<pc>」</pc>詔發宋<pc>、</pc>亳丁夫<measure quantity="4500" unit="people">
+<num value="4500">四千五百</num>人</measure>
+<pc>，</pc>分遣使臣護役<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>又決于宋城縣<pc>，</pc>以本州諸縣人夫<num value="3500">三千五百</num>人塞之<pc>。</pc>
+<pc>，</pc>又決于宋城縣<pc>，</pc>以本州諸縣人夫<measure quantity="3500" unit="people">
+<num value="3500">三千五百</num>人</measure>塞之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -682,7 +692,8 @@
 <quote>東京養甲兵數<num value="100000">十萬</num>
 <pc>，</pc>居人<num value="1000000">百萬</num>家<pc>，</pc>天下轉漕<pc>，</pc>仰給在此<num value="1">一</num>渠水<pc>，</pc>朕安得不顧<pc>。</pc>
 </quote>
-<pc>」</pc>車駕入泥淖中<pc>，</pc>行<num value="100">百</num>餘步<pc>，</pc>從臣震恐<pc>。</pc>殿前都指揮使戴興叩頭懇請回馭<pc>，</pc>遂捧輦出泥淖中<pc>。</pc>詔興督步卒數<num value="1000">千</num>塞之<pc>。</pc>日未旰<pc>，</pc>水勢遂定<pc>。</pc>帝始就次<pc>，</pc>太官進膳<pc>。</pc>親王近臣皆泥濘沾衣<pc>。</pc>知縣宋炎亡匿不敢出<pc>，</pc>特赦其罪<pc>。</pc>是月<pc>，</pc>汴又決于宋城縣<pc>，</pc>發近縣丁夫<num value="2000">二千</num>人塞之<pc>。</pc>
+<pc>」</pc>車駕入泥淖中<pc>，</pc>行<num value="100">百</num>餘步<pc>，</pc>從臣震恐<pc>。</pc>殿前都指揮使戴興叩頭懇請回馭<pc>，</pc>遂捧輦出泥淖中<pc>。</pc>詔興督步卒數<num value="1000">千</num>塞之<pc>。</pc>日未旰<pc>，</pc>水勢遂定<pc>。</pc>帝始就次<pc>，</pc>太官進膳<pc>。</pc>親王近臣皆泥濘沾衣<pc>。</pc>知縣宋炎亡匿不敢出<pc>，</pc>特赦其罪<pc>。</pc>是月<pc>，</pc>汴又決于宋城縣<pc>，</pc>發近縣丁夫<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>塞之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -754,7 +765,19 @@
 <pc>「</pc>
 <quote>吾初即位<pc>，</pc>不欲出虎符召郡國兵<pc>。</pc>
 </quote>
-<pc>」</pc>即知兵甲在外也<pc>。</pc>唯有南北軍<pc>、</pc>期門郎<pc>、</pc>羽林孤兒<pc>，</pc>以備天子扈從藩衛之用<pc>。</pc>唐承隋制<pc>，</pc>置<num value="12">十二</num>衛府兵<pc>，</pc>皆農夫也<pc>。</pc>及罷府兵<pc>，</pc>始置神武<pc>、</pc>神策為禁軍<pc>，</pc>不過<num value="3">三</num>數<num value="10000">萬</num>人<pc>，</pc>亦以備扈從藩衛而已<pc>，</pc>故祿山犯關<pc>，</pc>驅市人而戰<pc>；</pc>德宗蒙塵<pc>，</pc>扈駕<num value="400">四百</num>餘騎<pc>，</pc>兵甲皆在郡國<pc>。</pc>額軍存而可舉者<pc>，</pc>除河朔<num value="3">三</num>鎮外<pc>，</pc>太原<pc>、</pc>青社各<num value="100000">十萬</num>人<pc>，</pc>邠甯<pc>、</pc>宣武各<num value="60000">六萬</num>人<pc>，</pc>潞<pc>、</pc>徐<pc>、</pc>荊<pc>、</pc>揚各<num value="50000">五萬</num>人<pc>，</pc>襄<pc>、</pc>宣<pc>、</pc>壽<pc>、</pc>鎮海各<num value="20000">二萬</num>人<pc>，</pc>自餘觀察<pc>、</pc>團練據要害之地者<pc>，</pc>不下<num value="10000">萬</num>人<pc>。</pc>今天下甲卒數<num value="100000">十萬</num>眾<pc>，</pc>戰馬數<num value="100000">十萬</num>匹<pc>，</pc>並萃京師<pc>，</pc>悉集<num value="7">七</num>亡國之士民於輦下<pc>，</pc>比漢<pc>、</pc>唐京邑<pc>，</pc>民庶<num value="10">十</num>倍<pc>。</pc>甸服時有水旱<pc>，</pc>不至艱歉者<pc>，</pc>有惠民<pc>、</pc>金水<pc>、</pc>
+<pc>」</pc>即知兵甲在外也<pc>。</pc>唯有南北軍<pc>、</pc>期門郎<pc>、</pc>羽林孤兒<pc>，</pc>以備天子扈從藩衛之用<pc>。</pc>唐承隋制<pc>，</pc>置<num value="12">十二</num>衛府兵<pc>，</pc>皆農夫也<pc>。</pc>及罷府兵<pc>，</pc>始置神武<pc>、</pc>神策為禁軍<pc>，</pc>不過<num value="3">三</num>數<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>，</pc>亦以備扈從藩衛而已<pc>，</pc>故祿山犯關<pc>，</pc>驅市人而戰<pc>；</pc>德宗蒙塵<pc>，</pc>扈駕<num value="400">四百</num>餘騎<pc>，</pc>兵甲皆在郡國<pc>。</pc>額軍存而可舉者<pc>，</pc>除河朔<num value="3">三</num>鎮外<pc>，</pc>太原<pc>、</pc>青社各<measure quantity="100000" unit="people">
+<num value="100000">十萬</num>人</measure>
+<pc>，</pc>邠甯<pc>、</pc>宣武各<measure quantity="60000" unit="people">
+<num value="60000">六萬</num>人</measure>
+<pc>，</pc>潞<pc>、</pc>徐<pc>、</pc>荊<pc>、</pc>揚各<measure quantity="50000" unit="people">
+<num value="50000">五萬</num>人</measure>
+<pc>，</pc>襄<pc>、</pc>宣<pc>、</pc>壽<pc>、</pc>鎮海各<measure quantity="20000" unit="people">
+<num value="20000">二萬</num>人</measure>
+<pc>，</pc>自餘觀察<pc>、</pc>團練據要害之地者<pc>，</pc>不下<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>。</pc>今天下甲卒數<num value="100000">十萬</num>眾<pc>，</pc>戰馬數<num value="100000">十萬</num>匹<pc>，</pc>並萃京師<pc>，</pc>悉集<num value="7">七</num>亡國之士民於輦下<pc>，</pc>比漢<pc>、</pc>唐京邑<pc>，</pc>民庶<num value="10">十</num>倍<pc>。</pc>甸服時有水旱<pc>，</pc>不至艱歉者<pc>，</pc>有惠民<pc>、</pc>金水<pc>、</pc>
 <num value="5">五</num>丈<pc>、</pc>汴水等<num value="4">四</num>渠<pc>，</pc>派引脈分<pc>，</pc>鹹會天邑<pc>，</pc>舳艫相接<pc>，</pc>贍給公私<pc>。</pc>所以無匱乏<pc>，</pc>唯汴水橫亙中國<pc>，</pc>首承大河<pc>，</pc>漕引江<pc>、</pc>湖<pc>，</pc>利盡南海<pc>，</pc>半天下之財賦<pc>，</pc>並山澤之<num value="100">百</num>貨<pc>，</pc>悉由此路而進<pc>。</pc>然則禹力疏鑿以分水勢<pc>，</pc>煬帝開畎以奉巡遊<pc>，</pc>雖數湮廢<pc>，</pc>而通流不絕於<num value="100">百</num>代之下<pc>，</pc>終為國家之用者<pc>，</pc>其上天之意乎<pc>？</pc>
 </p>
 </div>

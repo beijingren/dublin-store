@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="195">
 <div>
-<p>◎兵<num value="9">九</num>○訓練之製</p>
+<p>
+<name key="null" type="null">◎兵<num value="9">九</num>
+</name>○訓練之製</p>
 </div>
 <div>
 <p>訓練之製禁軍月奉<num value="500">五百</num>以上<pc>，</pc>皆日習武技<pc>。</pc>
@@ -77,7 +79,9 @@
 <p>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>密詔益<pc>、</pc>利<pc>、</pc>梓<pc>、</pc>夔路鈐轄司<pc>，</pc>以弓弩習士卒<pc>，</pc>候民間觀聽浸熟<pc>，</pc>即便以短兵日教<num value="30">三十</num>人<pc>，</pc>
+<pc>，</pc>密詔益<pc>、</pc>利<pc>、</pc>梓<pc>、</pc>夔路鈐轄司<pc>，</pc>以弓弩習士卒<pc>，</pc>候民間觀聽浸熟<pc>，</pc>即便以短兵日教<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>，</pc>
 <measure quantity="10" unit="days">
 <num value="10">十</num>日</measure>
 <num value="1">一</num>易<pc>。</pc>知並州明鎬言<pc>：</pc>
@@ -91,7 +95,8 @@
 <num value="6">六</num>年</measure>
 <pc>，</pc>詔諸軍夏<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>毋教弓弩<pc>，</pc>止習短兵<pc>。</pc>又詔<pc>：</pc>
-<pc>“</pc>以春秋大教弓射<num value="1">一</num>石<num value="4">四</num>鬥<pc>、</pc>弩廣<num value="3">三</num>石<num value="8">八</num>鬥<pc>、</pc>槍刀手勝<num value="3">三</num>人者<pc>，</pc>立為武藝出眾格<pc>。</pc>中者<pc>，</pc>本營闕階級即以次補<pc>。</pc>
+<pc>“</pc>以春秋大教弓射<num value="1">一</num>石<num value="4">四</num>鬥<pc>、</pc>弩廣<num value="3">三</num>石<num value="8">八</num>鬥<pc>、</pc>槍刀手勝<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>者<pc>，</pc>立為武藝出眾格<pc>。</pc>中者<pc>，</pc>本營闕階級即以次補<pc>。</pc>
 <pc>”</pc>
 </p>
 </div>
@@ -133,14 +138,20 @@
 <pc>”</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
-<pc>，</pc>選置指使巡教諸軍<pc>，</pc>殿前司<num value="4">四</num>人<pc>，</pc>馬<pc>、</pc>步軍司各<num value="3">三</num>人<pc>。</pc>
+<pc>，</pc>選置指使巡教諸軍<pc>，</pc>殿前司<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>馬<pc>、</pc>步軍司各<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>帝親閱河東所教排手<pc>，</pc>進退輕捷<pc>，</pc>不畏矢石<pc>。</pc>遂詔殿前司<pc>，</pc>步軍指揮當出戍者<pc>，</pc>內擇槍刀手伉健者<num value="100">百</num>人<pc>，</pc>教如河東法<pc>，</pc>藝精者免役使<pc>，</pc>以優獎之<pc>。</pc>
+<pc>，</pc>帝親閱河東所教排手<pc>，</pc>進退輕捷<pc>，</pc>不畏矢石<pc>。</pc>遂詔殿前司<pc>，</pc>步軍指揮當出戍者<pc>，</pc>內擇槍刀手伉健者<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>教如河東法<pc>，</pc>藝精者免役使<pc>，</pc>以優獎之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -176,7 +187,8 @@
 <pc>“</pc>裁並軍營<pc>，</pc>凡省軍員<num value="4000">四千</num>餘人<pc>，</pc>此<num value="100000">十萬</num>軍之資也<pc>。</pc>儻訓練精勇<pc>，</pc>人得其用<pc>，</pc>不惟勝敵<pc>，</pc>亦以省財<pc>。</pc>
 <pc>”</pc>安石等曰<pc>：</pc>
 <pc>“</pc>陛下頻年選擇使臣<pc>，</pc>專務訓練<pc>，</pc>間禦便殿躬親試閱<pc>，</pc>賞罰既明<pc>，</pc>士卒皆奮<pc>。</pc>觀其技藝之精<pc>，</pc>
-<num value="1">一</num>人為數夫之敵<pc>，</pc>此實國家安危所係也<pc>。</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>為數夫之敵<pc>，</pc>此實國家安危所係也<pc>。</pc>
 <pc>”</pc>是時<pc>，</pc>帝初置內教法<pc>，</pc>旬<num value="1">一</num>禦便殿閱武<pc>，</pc>校程其能否而勸沮之<pc>，</pc>士無不爭勸者<pc>。</pc>
 </p>
 </div>
@@ -242,7 +254,11 @@
 <num value="12">十二</num>月</measure>
 <pc>，</pc>詔<pc>：</pc>
 <pc>“</pc>開封府界<pc>、</pc>京東西將兵<pc>，</pc>
-<num value="10">十</num>人以<num value="1">一</num>人習馬射<pc>，</pc>受教於中都所遣教頭<pc>。</pc>在京步軍諸營弓箭手<pc>，</pc>亦<num value="10">十</num>人以<num value="1">一</num>人習馬射<pc>，</pc>受教於教習馬軍所<pc>。</pc>藝成<pc>，</pc>則展轉分教於其軍<pc>。</pc>
+<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>以<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>習馬射<pc>，</pc>受教於中都所遣教頭<pc>。</pc>在京步軍諸營弓箭手<pc>，</pc>亦<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>以<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>習馬射<pc>，</pc>受教於教習馬軍所<pc>。</pc>藝成<pc>，</pc>則展轉分教於其軍<pc>。</pc>
 <pc>”</pc>
 </p>
 </div>
@@ -257,7 +273,9 @@
 <num value="5">五</num>月</measure>
 <pc>，</pc>得<num value="1">一</num>言其教習無狀<pc>，</pc>詔本將陳宗等具折<pc>。</pc>宗等引罪<pc>，</pc>帝責曰<pc>：</pc>
 <pc>“</pc>朝廷比以<num value="4">四</num>方驕悍為可虞<pc>，</pc>選置將臣分總禁旅<pc>，</pc>俾時訓肄<pc>，</pc>以待非常<pc>。</pc>至於部勒規模<pc>，</pc>悉經朕慮<pc>，</pc>前後告戒已極周詳<pc>。</pc>使宗等稍異木石<pc>，</pc>亦宜略知人意<pc>。</pc>屍祿日久<pc>，</pc>既頑且慵<pc>，</pc>苟遂矜寬<pc>，</pc>實難勵眾<pc>，</pc>可並勒停<pc>。</pc>
-<pc>”</pc>是月<pc>，</pc>詔殿前<pc>、</pc>步軍司兵各置都教頭掌隸教習之事<pc>，</pc>弩手<num value="5">五</num>營<pc>、</pc>弓箭手<num value="10">十</num>營<pc>、</pc>槍刀標排手<num value="5">五</num>營各選<num value="1">一</num>人武藝優者奏補<pc>。</pc>逐司各舉散直<num value="2">二</num>人為指使<pc>，</pc>罷巡教使臣<pc>。</pc>是日<pc>，</pc>詔河東<pc>、</pc>陝西諸路<pc>：</pc>
+<pc>”</pc>是月<pc>，</pc>詔殿前<pc>、</pc>步軍司兵各置都教頭掌隸教習之事<pc>，</pc>弩手<num value="5">五</num>營<pc>、</pc>弓箭手<num value="10">十</num>營<pc>、</pc>槍刀標排手<num value="5">五</num>營各選<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>武藝優者奏補<pc>。</pc>逐司各舉散直<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>為指使<pc>，</pc>罷巡教使臣<pc>。</pc>是日<pc>，</pc>詔河東<pc>、</pc>陝西諸路<pc>：</pc>
 <pc>“</pc>舊製<pc>，</pc>馬軍自<measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <measure quantity="1" unit="day">
@@ -349,7 +367,10 @@
 <p>紹聖元年<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <pc>，</pc>樞密院言<pc>：</pc>
-<pc>“</pc>禁軍春秋大教賞法<pc>，</pc>每<num value="1000">千</num>人增取<num value="210">二百一十</num>人<pc>，</pc>給賞有差<pc>。</pc>
+<pc>“</pc>禁軍春秋大教賞法<pc>，</pc>每<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>增取<measure quantity="210" unit="people">
+<num value="210">二百一十</num>人</measure>
+<pc>，</pc>給賞有差<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>
 </p>
 </div>
@@ -488,7 +509,9 @@
 <num value="5">五</num>陣之變<pc>，</pc>出於自然<pc>，</pc>非強為之<pc>。</pc>
 <pc>”</pc>
 <term>宰相</term>韓絳因請諸帥臣各具戰陣之法來上<pc>，</pc>取其所長<pc>，</pc>立以為法<pc>。</pc>從之<pc>。</pc>帝患諸將軍行無行陣之法<pc>，</pc>嚐曰<pc>：</pc>
-<pc>“</pc>李靖結<num value="3">三</num>人為隊必有意<pc>。</pc>星書<pc>，</pc>羽林皆以<num value="3">三</num>人為隊<pc>，</pc>靖深曉此<pc>，</pc>非無據也<pc>。</pc>
+<pc>“</pc>李靖結<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>為隊必有意<pc>。</pc>星書<pc>，</pc>羽林皆以<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>為隊<pc>，</pc>靖深曉此<pc>，</pc>非無據也<pc>。</pc>
 <pc>”</pc>乃令賈逵<pc>、</pc>郭固試之<pc>。</pc>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
@@ -523,12 +546,15 @@
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>詔諸路經略司<pc>，</pc>結隊並依李靖法<pc>，</pc>
-<num value="3">三</num>人為<num value="1">一</num>小隊<pc>，</pc>
-<num value="9">九</num>人為<num value="1">一</num>中隊<pc>，</pc>賞罰俟成序日取裁<pc>。</pc>其隊伍及器甲之數<pc>，</pc>依涇原路牙教法<pc>。</pc>
+<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>為<num value="1">一</num>小隊<pc>，</pc>
+<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>為<num value="1">一</num>中隊<pc>，</pc>賞罰俟成序日取裁<pc>。</pc>其隊伍及器甲之數<pc>，</pc>依涇原路牙教法<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>趙禼言<pc>：</pc>
-<pc>“</pc>欲自今大閱漢蕃陣隊<pc>，</pc>且以<num value="2500">萬二千五百</num>人為法<pc>，</pc>旌旗麾幟各隨方色<pc>。</pc>戰國時<pc>，</pc>大將之旗以龜為飾<pc>，</pc>蓋取前列先知之義<pc>。</pc>令中軍亦宜以龜為號<pc>。</pc>其<num value="8">八</num>隊旗<pc>，</pc>別繪天<pc>、</pc>地<pc>、</pc>風<pc>、</pc>雲<pc>、</pc>龍<pc>、</pc>虎<pc>、</pc>鳥<pc>、</pc>蛇<pc>。</pc>天<pc>、</pc>地則象其方園<pc>，</pc>風<pc>、</pc>雲則狀其飛揚<pc>，</pc>龍<pc>、</pc>虎則狀其猛厲<pc>，</pc>鳥<pc>、</pc>蛇則狀其翔盤之勢<pc>，</pc>以備大閱<pc>。</pc>
+<pc>“</pc>欲自今大閱漢蕃陣隊<pc>，</pc>且以<measure quantity="2500" unit="people">
+<num value="2500">萬二千五百</num>人</measure>為法<pc>，</pc>旌旗麾幟各隨方色<pc>。</pc>戰國時<pc>，</pc>大將之旗以龜為飾<pc>，</pc>蓋取前列先知之義<pc>。</pc>令中軍亦宜以龜為號<pc>。</pc>其<num value="8">八</num>隊旗<pc>，</pc>別繪天<pc>、</pc>地<pc>、</pc>風<pc>、</pc>雲<pc>、</pc>龍<pc>、</pc>虎<pc>、</pc>鳥<pc>、</pc>蛇<pc>。</pc>天<pc>、</pc>地則象其方園<pc>，</pc>風<pc>、</pc>雲則狀其飛揚<pc>，</pc>龍<pc>、</pc>虎則狀其猛厲<pc>，</pc>鳥<pc>、</pc>蛇則狀其翔盤之勢<pc>，</pc>以備大閱<pc>。</pc>
 <pc>”</pc>樞密院以為陣隊旗號若繪<num value="8">八</num>物<pc>，</pc>應士眾難辨<pc>，</pc>且其間亦有無形可繪者<pc>。</pc>遂詔止依方色<pc>，</pc>仍異其形製<pc>，</pc>令勿雜而已<pc>。</pc>
 </p>
 </div>
@@ -547,23 +573,41 @@
 </p>
 </div>
 <div>
-<p>置陣之法<pc>，</pc>以結隊為先<pc>。</pc>李靖以<num value="50">五十</num>人為<num value="1">一</num>隊<pc>，</pc>每<num value="3">三</num>人自相得者結為<num value="1">一</num>小隊<pc>，</pc>合<num value="3">三</num>小隊為<num value="1">一</num>中隊<pc>，</pc>合<num value="5">五</num>中隊為<num value="1">一</num>大隊<pc>，</pc>餘押官<pc>、</pc>隊頭<pc>、</pc>副隊頭<pc>、</pc>左右傔旗<num value="5">五</num>人即充<num value="50">五十</num>
+<p>置陣之法<pc>，</pc>以結隊為先<pc>。</pc>李靖以<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>為<num value="1">一</num>隊<pc>，</pc>每<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>自相得者結為<num value="1">一</num>小隊<pc>，</pc>合<num value="3">三</num>小隊為<num value="1">一</num>中隊<pc>，</pc>合<num value="5">五</num>中隊為<num value="1">一</num>大隊<pc>，</pc>餘押官<pc>、</pc>隊頭<pc>、</pc>副隊頭<pc>、</pc>左右傔旗<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>即充<num value="50">五十</num>
 <pc>，</pc>並相依附<pc>。</pc>今聖製<pc>：</pc>每<num value="1">一</num>大隊合<num value="5">五</num>中隊<pc>，</pc>
-<num value="50">五十</num>人為之<pc>；</pc>中隊合<num value="3">三</num>小隊<pc>，</pc>
-<num value="9">九</num>人為之<pc>；</pc>小隊合<num value="3">三</num>人為之<pc>，</pc>亦擇心意相得者<pc>。</pc>又選壯勇善槍者<num value="1">一</num>人為旗頭<pc>，</pc>令自擇如己藝<pc>、</pc>心相得者<num value="2">二</num>人為左右傔<pc>；</pc>次選勇悍者<num value="1">一</num>人為引戰<pc>；</pc>又選軍校<num value="1">一</num>人執刀在後<pc>，</pc>為擁隊<pc>。</pc>凡隊內<num value="1">一</num>人用命<pc>，</pc>
-<num value="2">二</num>人應援<pc>；</pc>小隊用命<pc>，</pc>中隊應援<pc>；</pc>中隊用命<pc>，</pc>大隊應援<pc>；</pc>大隊用命<pc>，</pc>小隊應援<pc>。</pc>如逗撓觀望不即赴救<pc>，</pc>致有陷失者<pc>，</pc>本隊委擁隊軍校<pc>，</pc>次隊委本轄隊將<pc>，</pc>審觀不救所由<pc>，</pc>斬之<pc>。</pc>其有不可救<pc>，</pc>或赴救不及<pc>，</pc>或身自受敵<pc>，</pc>體被重創<pc>，</pc>但非可救者<pc>，</pc>皆不坐<pc>。</pc>其說雖與古同<pc>，</pc>而用法尤為精密<pc>。</pc>此蓋陛下天錫勇智<pc>，</pc>不學而能也<pc>。</pc>
+<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>為之<pc>；</pc>中隊合<num value="3">三</num>小隊<pc>，</pc>
+<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>為之<pc>；</pc>小隊合<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>為之<pc>，</pc>亦擇心意相得者<pc>。</pc>又選壯勇善槍者<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>為旗頭<pc>，</pc>令自擇如己藝<pc>、</pc>心相得者<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>為左右傔<pc>；</pc>次選勇悍者<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>為引戰<pc>；</pc>又選軍校<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>執刀在後<pc>，</pc>為擁隊<pc>。</pc>凡隊內<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>用命<pc>，</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>應援<pc>；</pc>小隊用命<pc>，</pc>中隊應援<pc>；</pc>中隊用命<pc>，</pc>大隊應援<pc>；</pc>大隊用命<pc>，</pc>小隊應援<pc>。</pc>如逗撓觀望不即赴救<pc>，</pc>致有陷失者<pc>，</pc>本隊委擁隊軍校<pc>，</pc>次隊委本轄隊將<pc>，</pc>審觀不救所由<pc>，</pc>斬之<pc>。</pc>其有不可救<pc>，</pc>或赴救不及<pc>，</pc>或身自受敵<pc>，</pc>體被重創<pc>，</pc>但非可救者<pc>，</pc>皆不坐<pc>。</pc>其說雖與古同<pc>，</pc>而用法尤為精密<pc>。</pc>此蓋陛下天錫勇智<pc>，</pc>不學而能也<pc>。</pc>
 </p>
 </div>
 <div>
-<p>然議者謂<num value="45">四十五</num>人而<num value="1">一</num>長<pc>，</pc>不若<num value="5">五</num>人而<num value="1">一</num>長之密<pc>。</pc>且以<num value="5">五</num>人而<num value="1">一</num>長<pc>，</pc>即<num value="50">五十</num>人而<num value="10">十</num>長也<pc>，</pc>推之於<num value="1000000000">百千萬</num>
+<p>然議者謂<measure quantity="45" unit="people">
+<num value="45">四十五</num>人</measure>而<num value="1">一</num>長<pc>，</pc>不若<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>而<num value="1">一</num>長之密<pc>。</pc>且以<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>而<num value="1">一</num>長<pc>，</pc>即<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>而<num value="10">十</num>長也<pc>，</pc>推之於<num value="1000000000">百千萬</num>
 <pc>，</pc>則為長者多<pc>，</pc>而統製不<num value="1">一</num>也<pc>。</pc>至如周製<pc>：</pc>
-<num value="5">五</num>人為伍<pc>，</pc>屬之比長<pc>；</pc>
+<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>為伍<pc>，</pc>屬之比長<pc>；</pc>
 <num value="5">五</num>伍為兩<pc>，</pc>屬之閭胥<pc>；</pc>
 <num value="4">四</num>兩為卒<pc>，</pc>屬之族師<pc>；</pc>
 <num value="5">五</num>卒為旅<pc>，</pc>屬之黨正<pc>；</pc>
 <num value="5">五</num>旅為師<pc>，</pc>屬之州長<pc>；</pc>
 <num value="5">五</num>師為軍<pc>，</pc>屬之命卿<pc>。</pc>此猶今之軍製<pc>，</pc>
-<num value="100">百</num>人為都<pc>，</pc>
+<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>為都<pc>，</pc>
 <num value="5">五</num>都為營<pc>，</pc>
 <num value="5">五</num>營為軍<pc>，</pc>
 <num value="10">十</num>軍為廂<pc>。</pc>自廂都指揮使而下<pc>，</pc>各有節級<pc>，</pc>有員品<pc>，</pc>亦昔之比長<pc>、</pc>閭胥<pc>、</pc>族師<pc>、</pc>黨正之任也<pc>。</pc>
@@ -602,18 +646,27 @@
 <pc>》</pc>
 <pc>，</pc>離析訛舛<pc>。</pc>又官號物名與今稱謂不同<pc>，</pc>武人將佐多不能通其意<pc>。</pc>令樞密院檢詳官與王震<pc>、</pc>曾收<pc>、</pc>王白<pc>、</pc>郭逢原等校正<pc>，</pc>分類解釋<pc>，</pc>令今可行<pc>。</pc>
 <pc>”</pc>又命樞密院副都承旨張誠<num value="1">一</num>
-<pc>、</pc>入內押班李憲與震<pc>、</pc>逢原行視寬廣處<pc>，</pc>用馬步軍<num value="2800">二千八百</num>人教李靖營陣法<pc>。</pc>以步軍副都指揮使楊遂為都大提舉<pc>，</pc>誠<num value="1">一</num>
-<pc>、</pc>憲為同提舉<pc>，</pc>震<pc>、</pc>逢原參議公事<pc>，</pc>夏元象<pc>、</pc>臧景等為將副<pc>、</pc>部隊將<pc>、</pc>幹當公事<pc>，</pc>凡<num value="39">三十九</num>人<pc>。</pc>
+<pc>、</pc>入內押班李憲與震<pc>、</pc>逢原行視寬廣處<pc>，</pc>用馬步軍<measure quantity="2800" unit="people">
+<num value="2800">二千八百</num>人</measure>教李靖營陣法<pc>。</pc>以步軍副都指揮使楊遂為都大提舉<pc>，</pc>誠<num value="1">一</num>
+<pc>、</pc>憲為同提舉<pc>，</pc>震<pc>、</pc>逢原參議公事<pc>，</pc>夏元象<pc>、</pc>臧景等為將副<pc>、</pc>部隊將<pc>、</pc>幹當公事<pc>，</pc>凡<measure quantity="39" unit="people">
+<num value="39">三十九</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
-<p>誠<num value="1">一</num>等初用李靖<num value="6">六</num>花陣法<pc>，</pc>約受兵<num value="20000">二萬</num>人為率<pc>，</pc>為<num value="7">七</num>軍<pc>，</pc>內<term>虞候</term>軍各<num value="2800">二千八百</num>人<pc>，</pc>取戰兵<num value="900">千九百</num>人為<num value="76">七十六</num>隊<pc>，</pc>戰兵內每軍弩手<num value="300">三百</num>
+<p>誠<num value="1">一</num>等初用李靖<num value="6">六</num>花陣法<pc>，</pc>約受兵<measure quantity="20000" unit="people">
+<num value="20000">二萬</num>人</measure>為率<pc>，</pc>為<num value="7">七</num>軍<pc>，</pc>內<term>虞候</term>軍各<measure quantity="2800" unit="people">
+<num value="2800">二千八百</num>人</measure>
+<pc>，</pc>取戰兵<measure quantity="900" unit="people">
+<num value="900">千九百</num>人</measure>為<num value="76">七十六</num>隊<pc>，</pc>戰兵內每軍弩手<num value="300">三百</num>
 <pc>，</pc>弓手<num value="300">三百</num>
 <pc>，</pc>馬軍<num value="500">五百</num>
 <pc>，</pc>跳蕩<num value="400">四百</num>
 <pc>，</pc>奇兵<num value="400">四百</num>
 <pc>，</pc>輜重每軍<num value="900">九百</num>
-<pc>，</pc>是為<num value="2800">二千八百</num>人<pc>。</pc>帝諭近臣曰<pc>：</pc>
+<pc>，</pc>是為<measure quantity="2800" unit="people">
+<num value="2800">二千八百</num>人</measure>
+<pc>。</pc>帝諭近臣曰<pc>：</pc>
 </p>
 </div>
 <div>
@@ -700,7 +753,9 @@
 </div>
 <div>
 <p>高宗建炎元年<pc>，</pc>始頒樞密院教閱法<pc>，</pc>專習製禦摧鋒破敵之藝<pc>、</pc>全副執帶出入<pc>、</pc>短樁神臂弓<pc>、</pc>長柄刀<pc>、</pc>馬射穿甲<pc>、</pc>木挺<pc>。</pc>每歲擬春秋教閱法<pc>，</pc>立新格<pc>。</pc>神臂弓日給箭<num value="20">二十</num>
-<pc>，</pc>射親去垛<num value="20">百二十</num>步<pc>。</pc>刀長丈<num value="2">二</num>尺以上<pc>，</pc>氈皮裹之<pc>，</pc>引鬥<num value="52">五十二</num>次<pc>，</pc>不令刀頭至地<pc>。</pc>每營選<num value="20">二十</num>人閱習<pc>，</pc>經兩閱者<num value="50">五十</num>人為<num value="1">一</num>隊<pc>，</pc>教習分合<pc>，</pc>隨隊多少<pc>，</pc>分隸<num value="5">五</num>軍<pc>。</pc>每軍各置旗號<pc>，</pc>前軍緋旗<pc>，</pc>飛鳥為號<pc>；</pc>後軍皂旗<pc>，</pc>龜為號<pc>；</pc>左軍青旗<pc>，</pc>蛟為號<pc>；</pc>右軍白旗<pc>，</pc>虎為號<pc>；</pc>中軍黃旗<pc>，</pc>神人為號<pc>。</pc>又別以<num value="5">五</num>色物號製招旗<pc>、</pc>分旗<pc>。</pc>舉招旗<pc>，</pc>則<num value="5">五</num>軍以旗相應<pc>，</pc>合而成陣<pc>；</pc>舉分旗<pc>，</pc>則<num value="5">五</num>軍以旗相應<pc>，</pc>分而成隊<pc>。</pc>左右前卻<pc>，</pc>或分藏為伏<pc>，</pc>或分出為奇<pc>，</pc>皆舉旗為號<pc>。</pc>更鳴小金<pc>、</pc>應鼓<pc>，</pc>備瞻望不及者<pc>。</pc>豫約伏藏之所<pc>，</pc>緩鳴小金即止<pc>，</pc>急鳴應鼓即奇兵出陣趍戰<pc>，</pc>急鳴小金即伏兵出<pc>。</pc>其春秋大教推賞<pc>，</pc>依海行格法<pc>。</pc>
+<pc>，</pc>射親去垛<num value="20">百二十</num>步<pc>。</pc>刀長丈<num value="2">二</num>尺以上<pc>，</pc>氈皮裹之<pc>，</pc>引鬥<num value="52">五十二</num>次<pc>，</pc>不令刀頭至地<pc>。</pc>每營選<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>閱習<pc>，</pc>經兩閱者<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>為<num value="1">一</num>隊<pc>，</pc>教習分合<pc>，</pc>隨隊多少<pc>，</pc>分隸<num value="5">五</num>軍<pc>。</pc>每軍各置旗號<pc>，</pc>前軍緋旗<pc>，</pc>飛鳥為號<pc>；</pc>後軍皂旗<pc>，</pc>龜為號<pc>；</pc>左軍青旗<pc>，</pc>蛟為號<pc>；</pc>右軍白旗<pc>，</pc>虎為號<pc>；</pc>中軍黃旗<pc>，</pc>神人為號<pc>。</pc>又別以<num value="5">五</num>色物號製招旗<pc>、</pc>分旗<pc>。</pc>舉招旗<pc>，</pc>則<num value="5">五</num>軍以旗相應<pc>，</pc>合而成陣<pc>；</pc>舉分旗<pc>，</pc>則<num value="5">五</num>軍以旗相應<pc>，</pc>分而成隊<pc>。</pc>左右前卻<pc>，</pc>或分藏為伏<pc>，</pc>或分出為奇<pc>，</pc>皆舉旗為號<pc>。</pc>更鳴小金<pc>、</pc>應鼓<pc>，</pc>備瞻望不及者<pc>。</pc>豫約伏藏之所<pc>，</pc>緩鳴小金即止<pc>，</pc>急鳴應鼓即奇兵出陣趍戰<pc>，</pc>急鳴小金即伏兵出<pc>。</pc>其春秋大教推賞<pc>，</pc>依海行格法<pc>。</pc>
 </p>
 </div>
 <div>
@@ -804,7 +859,11 @@
 <num value="6">六</num>箭中垛為本等<pc>。</pc>弩手<pc>，</pc>帶甲<num value="100">百</num>步射<pc>，</pc>
 <num value="4">四</num>石力<pc>，</pc>箭<num value="12">十二</num>
 <pc>，</pc>
-<num value="5">五</num>箭中垛為本等<pc>。</pc>槍手<pc>，</pc>駐足舉手攛刺<pc>，</pc>以<num value="40">四十</num>攛為本等<pc>。</pc>主帥委統製<pc>、</pc>統領較其藝<pc>。</pc>本等外取升加多者<pc>，</pc>每軍<num value="5500">五千五百</num>人以上弓<pc>、</pc>弩<pc>、</pc>槍手各<num value="15">十五</num>人<pc>，</pc>詣主帥審實<pc>，</pc>上樞密院覆試<pc>。</pc>各擇優等<num value="2">二</num>人升轉兩秩<pc>，</pc>餘人給錢<num value="5">五</num>緡<pc>，</pc>俟將來再試<pc>。</pc>
+<num value="5">五</num>箭中垛為本等<pc>。</pc>槍手<pc>，</pc>駐足舉手攛刺<pc>，</pc>以<num value="40">四十</num>攛為本等<pc>。</pc>主帥委統製<pc>、</pc>統領較其藝<pc>。</pc>本等外取升加多者<pc>，</pc>每軍<measure quantity="5500" unit="people">
+<num value="5500">五千五百</num>人</measure>以上弓<pc>、</pc>弩<pc>、</pc>槍手各<measure quantity="15" unit="people">
+<num value="15">十五</num>人</measure>
+<pc>，</pc>詣主帥審實<pc>，</pc>上樞密院覆試<pc>。</pc>各擇優等<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>升轉兩秩<pc>，</pc>餘人給錢<num value="5">五</num>緡<pc>，</pc>俟將來再試<pc>。</pc>
 <pc>”</pc>
 </p>
 </div>
@@ -823,7 +882,9 @@
 <pc>，</pc>莫澤言<pc>：</pc>
 <pc>“</pc>州郡禁軍<pc>，</pc>平時則以防寇盜<pc>，</pc>有事則以備戎行<pc>，</pc>實錄於朝廷<pc>，</pc>非州郡可得私役<pc>。</pc>比年州郡軍政隳廢<pc>，</pc>吝於廩給<pc>，</pc>闕額恒多<pc>。</pc>郡官<pc>、</pc>主兵官有窠占<pc>，</pc>寓公有借事<pc>，</pc>存留者不什<num value="1">一</num>
 <pc>。</pc>當教閱時<pc>，</pc>鈐<pc>、</pc>總<pc>、</pc>路分雖號主兵<pc>，</pc>僅守虛籍<pc>，</pc>莫敢號召<pc>。</pc>入教之次<pc>，</pc>坐作進退殆同兒戲<pc>。</pc>守臣利虛券不招填<pc>，</pc>主兵受厚賂改年甲<pc>。</pc>且<num value="1">一</num>兵請給<pc>，</pc>歲不下<num value="100">百</num>緡<pc>，</pc>以小計之<pc>，</pc>
-<num value="1">一</num>郡占<num value="300">三百</num>人<pc>，</pc>是虛費<num value="30000">三萬</num>緡也<pc>。</pc>私役禁軍<pc>，</pc>素有常憲<pc>。</pc>守帥辟園池<pc>，</pc>建第宅<pc>，</pc>不給餐錢<pc>；</pc>寓公去城遼絕<pc>，</pc>類得借兵<pc>，</pc>擾害鄉閭<pc>。</pc>近而輔郡至有寓公占<num value="2000">四五百</num>兵者<pc>。</pc>良由兵官之權輕<pc>，</pc>而私占之禁弛也<pc>。</pc>乞嚴戒監司<pc>、</pc>守倅等<pc>，</pc>止許借廂軍<pc>，</pc>仍不得妨教閱<pc>，</pc>餘官雖廂軍亦勿借<pc>。</pc>
+<num value="1">一</num>郡占<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>，</pc>是虛費<num value="30000">三萬</num>緡也<pc>。</pc>私役禁軍<pc>，</pc>素有常憲<pc>。</pc>守帥辟園池<pc>，</pc>建第宅<pc>，</pc>不給餐錢<pc>；</pc>寓公去城遼絕<pc>，</pc>類得借兵<pc>，</pc>擾害鄉閭<pc>。</pc>近而輔郡至有寓公占<num value="2000">四五百</num>兵者<pc>。</pc>良由兵官之權輕<pc>，</pc>而私占之禁弛也<pc>。</pc>乞嚴戒監司<pc>、</pc>守倅等<pc>，</pc>止許借廂軍<pc>，</pc>仍不得妨教閱<pc>，</pc>餘官雖廂軍亦勿借<pc>。</pc>
 <pc>”</pc>
 </p>
 </div>

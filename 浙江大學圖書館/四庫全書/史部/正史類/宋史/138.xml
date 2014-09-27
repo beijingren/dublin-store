@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="138">
 <div>
-<p>◎樂<num value="13">十三</num>
-<pc>（</pc>樂章<num value="7">七</num>
+<p>
+<name key="null" type="null">◎樂十</name>三<pc>（</pc>樂章<num value="7">七</num>
 <pc>）</pc>○朝會禦樓肆赦恭上皇帝皇太後尊號上建隆乾德朝會樂章<num value="28">二十八</num>首皇帝升坐<pc>，</pc>
 <pc>《</pc>
 <title>隆安</title>
@@ -513,7 +513,8 @@
 </div>
 <div>
 <p>穆穆明明<pc>，</pc>於斯為盛<pc>。</pc>歸美報上<pc>，</pc>
-<num value="1">一</num>人有慶<pc>。</pc>明明天子<pc>，</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>有慶<pc>。</pc>明明天子<pc>，</pc>
 <num value="10000">萬</num>福來同<pc>。</pc>嘉賓式燕<pc>，</pc>曷不肅雍<pc>。</pc>燕以示慈<pc>。</pc>式禮莫愆<pc>。</pc>樂胥君子<pc>，</pc>容止可觀<pc>。</pc>酒<num value="1">一</num>行<pc>，</pc>文舞</p>
 </div>
 <div>
@@ -554,7 +555,8 @@
 </div>
 <div>
 <p>華纓就列<pc>，</pc>左衽來王<pc>。</pc>帝儀炳煥<pc>，</pc>大樂鏗鏘<pc>。</pc>禮成嶢闕<pc>，</pc>言旋未央<pc>。</pc>
-<num value="1">一</num>人有慶<pc>，</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>有慶<pc>，</pc>
 <num value="10000">萬</num>壽無疆<pc>。</pc>鹹平禦樓<num value="4">四</num>首<pc>《</pc>
 <title>采茨</title>
 <pc>》</pc>
@@ -801,7 +803,8 @@
 <div>
 <p>
 <num value="10000">萬</num>樂具舉<pc>，</pc>
-<num value="1">一</num>人肅雍<pc>。</pc>化由上始<pc>，</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>肅雍<pc>。</pc>化由上始<pc>，</pc>
 <num value="4">四</num>海來同<pc>。</pc>降坐<pc>，</pc>
 <pc>《</pc>
 <title>乾安</title>
@@ -1014,7 +1017,8 @@
 </div>
 <div>
 <p>丕顯文王<pc>，</pc>之德之純<pc>。</pc>亦有太姒<pc>，</pc>式揚徽音<pc>。</pc>維冊維寶<pc>，</pc>乃玉乃金<pc>。</pc>伊誰從之<pc>？</pc>
-<num value="1">一</num>人事親<pc>。</pc>太上皇後出閣升禦坐<pc>，</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>事親<pc>。</pc>太上皇後出閣升禦坐<pc>，</pc>
 <pc>《</pc>
 <title>坤安</title>
 <pc>》</pc>

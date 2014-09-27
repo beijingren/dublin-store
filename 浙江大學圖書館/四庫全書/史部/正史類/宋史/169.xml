@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="169">
 <div>
-<p>◎職官<num value="9">九</num>
+<p>
+<name key="null" type="null">◎職官</name>
+<num value="9">九</num>
 <pc>（</pc>敘遷之製<pc>）</pc>
 </p>
 </div>
@@ -42,7 +44,8 @@
 </p>
 </div>
 <div>
-<p>大理評事<pc>（</pc>有出身轉大理寺丞<pc>，</pc>第<num value="1">一</num>人及第轉著作佐郎<pc>；</pc>無出身轉諸寺<pc>、</pc>監丞<pc>。</pc>內帶館職同有出身<pc>。</pc>後族<pc>、</pc>兩府之家<pc>，</pc>審刑院詳議<pc>，</pc>刑部詳覆<pc>、</pc>詳斷<pc>、</pc>檢法<pc>、</pc>法直官<pc>，</pc>轉光錄寺丞<pc>。</pc>
+<p>大理評事<pc>（</pc>有出身轉大理寺丞<pc>，</pc>第<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>及第轉著作佐郎<pc>；</pc>無出身轉諸寺<pc>、</pc>監丞<pc>。</pc>內帶館職同有出身<pc>。</pc>後族<pc>、</pc>兩府之家<pc>，</pc>審刑院詳議<pc>，</pc>刑部詳覆<pc>、</pc>詳斷<pc>、</pc>檢法<pc>、</pc>法直官<pc>，</pc>轉光錄寺丞<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -56,7 +59,8 @@
 </p>
 </div>
 <div>
-<p>著作佐郎有出身轉秘書丞<pc>，</pc>內第<num value="1">一</num>人及第太常丞<pc>；</pc>無出身轉太子左讚善大夫<pc>。</pc>內帶館職同有出身<pc>。</pc>特旨轉秘書郎<pc>、</pc>著作郎<pc>、</pc>宗正丞<pc>。</pc>
+<p>著作佐郎有出身轉秘書丞<pc>，</pc>內第<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>及第太常丞<pc>；</pc>無出身轉太子左讚善大夫<pc>。</pc>內帶館職同有出身<pc>。</pc>特旨轉秘書郎<pc>、</pc>著作郎<pc>、</pc>宗正丞<pc>。</pc>
 </p>
 </div>
 <div>
@@ -233,7 +237,7 @@
 <num value="3">三</num>年</measure>
 <pc>，</pc>翰林學士賈黯奏<pc>：</pc>
 <pc>“</pc>近者皇子封拜<pc>，</pc>並除檢校太傅<pc>。</pc>臣按官儀<pc>，</pc>自後魏以來<pc>，</pc>以太師<pc>、</pc>太傅<pc>、</pc>太保為<num value="3">三</num>師<pc>，</pc>太尉<pc>、</pc>司徒<pc>、</pc>司空為<num value="3">三</num>公<pc>，</pc>
-<date>國朝</date>因之<pc>。</pc>
+<date when="null">國朝</date>因之<pc>。</pc>
 <pc>《</pc>
 <title>
 <num value="6">六</num>典</title>
@@ -372,7 +376,15 @@
 <pc>”</pc>舊無定員<pc>，</pc>慶曆<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>詔<pc>：</pc>
 <pc>“</pc>客省<pc>、</pc>引進<pc>、</pc>
-<num value="4">四</num>方館使各<num value="1">一</num>人<pc>，</pc>東<pc>、</pc>西上閤門使共<num value="4">四</num>人<pc>，</pc>閤門<pc>、</pc>引進<pc>、</pc>客省副使共<num value="6">六</num>人<pc>，</pc>閤門通事舍人<num value="8">八</num>人<pc>。</pc>
+<num value="4">四</num>方館使各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>東<pc>、</pc>西上閤門使共<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>閤門<pc>、</pc>引進<pc>、</pc>客省副使共<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>閤門通事舍人<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>。</pc>
 <pc>”</pc>治平<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>樞密院奏<pc>：</pc>
@@ -381,7 +393,8 @@
 <num value="10">十</num>年</measure>者<pc>，</pc>與遷官<pc>，</pc>至節度觀察留後止<pc>。</pc>又客省<pc>、</pc>引進<pc>、</pc>
 <num value="4">四</num>方館舊置使<num value="3">三</num>員<pc>，</pc>東<pc>、</pc>西上閤門舊置使<num value="4">四</num>員<pc>，</pc>今並增為<num value="6">六</num>員<pc>。</pc>閤門<pc>、</pc>引進<pc>、</pc>客省<pc>，</pc>舊製副使<num value="6">六</num>員<pc>，</pc>今並增為<num value="8">八</num>員<pc>。</pc>閤門舊通事舍人<num value="8">八</num>員<pc>，</pc>今增為<num value="10">十</num>員<pc>。</pc>凡所增置<pc>，</pc>須見任官當遷及有闕乃補<pc>。</pc>其皇城使改官及<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>如曾曆邊任<pc>、</pc>有本路監司總管<num value="5">五</num>人已上共薦者<pc>，</pc>欲除遙郡<term>刺史</term>至遙郡防禦使止<pc>。</pc>
+<pc>，</pc>如曾曆邊任<pc>、</pc>有本路監司總管<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>已上共薦者<pc>，</pc>欲除遙郡<term>刺史</term>至遙郡防禦使止<pc>。</pc>
 <pc>”</pc>詔<pc>：</pc>
 <pc>“</pc>自今皇城<pc>、</pc>宮苑副使當磨勘者<pc>，</pc>各於本班使額自下升<num value="5">五</num>資改諸司使<pc>。</pc>其自左藏庫副使已上因酬獎及非次改官者<pc>，</pc>聽如舊<pc>。</pc>餘皆從樞密院之請<pc>。</pc>
 <pc>”</pc>初<pc>，</pc>英宗謂執政曰<pc>：</pc>
@@ -437,7 +450,7 @@
 <div>
 <p>內臣自皇城使特恩遷轉例<pc>（</pc>合該磨勘<pc>，</pc>並臨時用例<pc>，</pc>取旨改轉<pc>。</pc>
 <pc>）</pc>皇城使<pc>（</pc>轉昭宣使<pc>。</pc>
-<date>國朝</date>亦有外官為昭宣使者<pc>。</pc>
+<date when="null">國朝</date>亦有外官為昭宣使者<pc>。</pc>
 <pc>）</pc>昭宣使<pc>（</pc>轉宣政使<pc>。</pc>
 <pc>）</pc>
 </p>
@@ -673,7 +686,10 @@
 </p>
 </div>
 <div>
-<p>判<pc>、</pc>司<pc>、</pc>簿<pc>、</pc>尉有出身兩任<num value="4">四</num>考<pc>，</pc>無出身兩任<num value="5">五</num>考<pc>，</pc>攝官出判<pc>、</pc>司<num value="3">三</num>任<num value="7">七</num>考<pc>，</pc>並入錄事參軍<pc>。</pc>但有舉主<num value="4">四</num>人或有合使舉主<num value="2">二</num>人<pc>，</pc>並許通注縣令<pc>，</pc>流外出身<num value="4">四</num>任<num value="10">十</num>考<pc>，</pc>入錄事參軍<pc>。</pc>內係驅使官<pc>、</pc>沿堂<num value="5">五</num>院人<pc>，</pc>隻注大郡判<pc>、</pc>司<pc>，</pc>大縣簿<pc>、</pc>尉<pc>。</pc>進納出身<num value="3">三</num>任<num value="7">七</num>考<pc>，</pc>曾省試下第<num value="2">二</num>任<num value="5">五</num>考<pc>，</pc>入下州令<pc>、</pc>錄<pc>，</pc>仍差監當<pc>。</pc>
+<p>判<pc>、</pc>司<pc>、</pc>簿<pc>、</pc>尉有出身兩任<num value="4">四</num>考<pc>，</pc>無出身兩任<num value="5">五</num>考<pc>，</pc>攝官出判<pc>、</pc>司<num value="3">三</num>任<num value="7">七</num>考<pc>，</pc>並入錄事參軍<pc>。</pc>但有舉主<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>或有合使舉主<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>並許通注縣令<pc>，</pc>流外出身<num value="4">四</num>任<num value="10">十</num>考<pc>，</pc>入錄事參軍<pc>。</pc>內係驅使官<pc>、</pc>沿堂<num value="5">五</num>院人<pc>，</pc>隻注大郡判<pc>、</pc>司<pc>，</pc>大縣簿<pc>、</pc>尉<pc>。</pc>進納出身<num value="3">三</num>任<num value="7">七</num>考<pc>，</pc>曾省試下第<num value="2">二</num>任<num value="5">五</num>考<pc>，</pc>入下州令<pc>、</pc>錄<pc>，</pc>仍差監當<pc>。</pc>
 </p>
 </div>
 <div>
@@ -698,31 +714,49 @@
 </p>
 </div>
 <div>
-<p>舉職官<pc>，</pc>有出身<num value="4">四</num>考<pc>、</pc>有舉主<num value="3">三</num>人<pc>，</pc>移初等職官<pc>，</pc>仍差知縣<pc>。</pc>有出身<num value="4">四</num>考<pc>、</pc>無出身<num value="6">六</num>考注初等職官<pc>。</pc>有出身<num value="6">六</num>考<pc>、</pc>無出身<num value="7">七</num>考注兩使職官<pc>。</pc>
+<p>舉職官<pc>，</pc>有出身<num value="4">四</num>考<pc>、</pc>有舉主<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>移初等職官<pc>，</pc>仍差知縣<pc>。</pc>有出身<num value="4">四</num>考<pc>、</pc>無出身<num value="6">六</num>考注初等職官<pc>。</pc>有出身<num value="6">六</num>考<pc>、</pc>無出身<num value="7">七</num>考注兩使職官<pc>。</pc>
 </p>
 </div>
 <div>
-<p>舉縣令<pc>，</pc>有出身<num value="3">三</num>考<pc>、</pc>無出身<num value="4">四</num>考<pc>，</pc>攝官出身<num value="6">六</num>考<pc>、</pc>有舉主<num value="3">三</num>人<pc>，</pc>進納出身<num value="6">六</num>考<pc>、</pc>有舉主<num value="4">四</num>人<pc>，</pc>流外出身<num value="3">三</num>任<num value="7">七</num>考<pc>、</pc>有舉主<num value="6">六</num>人<pc>，</pc>並移縣令<pc>。</pc>內流外人入錄事參軍<pc>。</pc>
+<p>舉縣令<pc>，</pc>有出身<num value="3">三</num>考<pc>、</pc>無出身<num value="4">四</num>考<pc>，</pc>攝官出身<num value="6">六</num>考<pc>、</pc>有舉主<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>進納出身<num value="6">六</num>考<pc>、</pc>有舉主<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>流外出身<num value="3">三</num>任<num value="7">七</num>考<pc>、</pc>有舉主<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>
+<pc>，</pc>並移縣令<pc>。</pc>內流外人入錄事參軍<pc>。</pc>
 </p>
 </div>
 <div>
-<p>令<pc>、</pc>錄係舉人入<pc>，</pc>任內有京官舉主<num value="2">二</num>人<pc>，</pc>循兩使職官<pc>、</pc>知縣<pc>。</pc>
+<p>令<pc>、</pc>錄係舉人入<pc>，</pc>任內有京官舉主<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>循兩使職官<pc>、</pc>知縣<pc>。</pc>
 </p>
 </div>
 <div>
-<p>初等職官<pc>、</pc>知縣係舉人入<pc>，</pc>任內有京官職舉主<num value="2">二</num>人<pc>，</pc>循兩使職官<pc>，</pc>如願知縣者聽<pc>。</pc>磨勘<pc>：</pc>
+<p>初等職官<pc>、</pc>知縣係舉人入<pc>，</pc>任內有京官職舉主<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>循兩使職官<pc>，</pc>如願知縣者聽<pc>。</pc>磨勘<pc>：</pc>
 </p>
 </div>
 <div>
-<p>判<pc>、</pc>司<pc>、</pc>簿<pc>、</pc>尉<num value="7">七</num>考<pc>，</pc>知令<pc>、</pc>錄<pc>、</pc>職官<num value="6">六</num>考<pc>，</pc>有京官舉主<num value="5">五</num>人<pc>，</pc>內<num value="1">一</num>員轉運使<pc>、</pc>副或提刑<pc>，</pc>並磨勘引見<pc>，</pc>轉合入京朝官<pc>。</pc>
+<p>判<pc>、</pc>司<pc>、</pc>簿<pc>、</pc>尉<num value="7">七</num>考<pc>，</pc>知令<pc>、</pc>錄<pc>、</pc>職官<num value="6">六</num>考<pc>，</pc>有京官舉主<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>，</pc>內<num value="1">一</num>員轉運使<pc>、</pc>副或提刑<pc>，</pc>並磨勘引見<pc>，</pc>轉合入京朝官<pc>。</pc>
 </p>
 </div>
 <div>
-<p>兩使職官<pc>、</pc>知縣係舉人入<pc>，</pc>並因舉循入<pc>，</pc>任內有京官舉主<num value="2">二</num>人<pc>，</pc>磨勘引見<pc>，</pc>轉合入京官<pc>。</pc>
+<p>兩使職官<pc>、</pc>知縣係舉人入<pc>，</pc>並因舉循入<pc>，</pc>任內有京官舉主<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>磨勘引見<pc>，</pc>轉合入京官<pc>。</pc>
 </p>
 </div>
 <div>
-<p>令<pc>、</pc>錄流外出身<pc>，</pc>係舉人入<pc>，</pc>任內有班行舉主<num value="3">三</num>人<pc>，</pc>磨勘引見<pc>，</pc>改換班行<pc>。</pc>差攝<pc>：</pc>長史<pc>、</pc>文學兩舉進士<num value="3">三</num>舉諸科特恩與攝官</p>
+<p>令<pc>、</pc>錄流外出身<pc>，</pc>係舉人入<pc>，</pc>任內有班行舉主<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>磨勘引見<pc>，</pc>改換班行<pc>。</pc>差攝<pc>：</pc>長史<pc>、</pc>文學兩舉進士<num value="3">三</num>舉諸科特恩與攝官</p>
 </div>
 <div>
 <p>已上<pc>，</pc>廣南東路長史<pc>、</pc>文學與舉人<pc>，</pc>中半差攝<pc>；</pc>西路長史<pc>、</pc>文學<num value="7">七</num>分<pc>，</pc>舉人<num value="2">二</num>分<pc>，</pc>特恩攝官<num value="1">一</num>分<pc>。</pc>試補<pc>：</pc>
@@ -755,7 +789,8 @@
 <p>門下省<pc>（</pc>白院令史<num value="7">七</num>選<pc>，</pc>畫頭<pc>、</pc>書院<pc>、</pc>甲庫令史讚者<num value="8">八</num>選<pc>，</pc>並補正名後理<pc>；</pc>驅使官<num value="9">九</num>選<pc>，</pc>授勒留官後理<pc>：</pc>並出簿<pc>、</pc>尉<pc>。</pc>
 <pc>）</pc>中書省<pc>（</pc>白院令史<num value="7">七</num>選<pc>，</pc>甲庫令史<num value="8">八</num>選<pc>，</pc>並補正名後理<pc>；</pc>驅使官<num value="9">九</num>選<pc>，</pc>授勒留後理<pc>，</pc>並出簿<pc>、</pc>尉<pc>。</pc>學士院錄事補正名後理<pc>，</pc>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>出奉職<pc>。</pc>孔目官遇大禮<pc>，</pc>從上出<num value="1">一</num>名<pc>，</pc>不遇大禮<num value="7">七</num>選<pc>；</pc>驅使官遇大禮<pc>，</pc>從上<num value="3">三</num>人並出簿<pc>、</pc>尉<pc>，</pc>不遇恩<num value="10">十</num>選<pc>，</pc>並授勒留官後理<pc>。</pc>
+<num value="3">三</num>年</measure>出奉職<pc>。</pc>孔目官遇大禮<pc>，</pc>從上出<num value="1">一</num>名<pc>，</pc>不遇大禮<num value="7">七</num>選<pc>；</pc>驅使官遇大禮<pc>，</pc>從上<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>並出簿<pc>、</pc>尉<pc>，</pc>不遇恩<num value="10">十</num>選<pc>，</pc>並授勒留官後理<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -775,8 +810,12 @@
 <num value="3">三</num>司<pc>（</pc>
 <num value="3">三</num>部都孔目官<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>出西頭供奉官<pc>；</pc>前<pc>、</pc>後行入仕<measure quantity="30" unit="years">
-<num value="30">三十</num>年</measure>已上<pc>，</pc>遇大禮<pc>，</pc>從上各出<num value="2">二</num>人<pc>，</pc>前行出奉職<pc>，</pc>後行出借職<pc>；</pc>子司勾覆<pc>、</pc>開拆官<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>出左<pc>、</pc>右班殿直<pc>，</pc>前<pc>、</pc>後行出<num value="2">二</num>人<pc>。</pc>同<num value="3">三</num>部衙司都押衙<measure quantity="3" unit="years">
+<num value="30">三十</num>年</measure>已上<pc>，</pc>遇大禮<pc>，</pc>從上各出<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>前行出奉職<pc>，</pc>後行出借職<pc>；</pc>子司勾覆<pc>、</pc>開拆官<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>出左<pc>、</pc>右班殿直<pc>，</pc>前<pc>、</pc>後行出<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>同<num value="3">三</num>部衙司都押衙<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>出奉職<pc>，</pc>衙佐<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>出借職<pc>；</pc>通引官行首司<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>出奉職<pc>：</pc>並補正名後理<pc>。</pc>
@@ -790,7 +829,8 @@
 <num value="6">六</num>年</measure>
 <pc>、</pc>通引官左番行首<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>的出奉職<pc>，</pc>並補正名後理<pc>。</pc>支計官<pc>、</pc>勾覆官<pc>、</pc>開拆官<pc>、</pc>接押官出奉職<pc>，</pc>諸司行首前行出借職<pc>，</pc>並遇大禮<pc>，</pc>以入仕及<measure quantity="30" unit="years">
-<num value="30">三十</num>年</measure>已上者<num value="3">三</num>人出職<pc>。</pc>
+<num value="30">三十</num>年</measure>已上者<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>出職<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -939,7 +979,8 @@
 <div>
 <p>進奏院<pc>（</pc>進奏官補正名後理<pc>，</pc>
 <measure quantity="15" unit="years">
-<num value="15">十五</num>年</measure>遇大禮<pc>，</pc>無過犯<pc>，</pc>從上<num value="5">五</num>人出職<pc>。</pc>有過犯經洗雪<pc>，</pc>曾經決責<pc>，</pc>出借職<pc>。</pc>人數無定限<pc>。</pc>
+<num value="15">十五</num>年</measure>遇大禮<pc>，</pc>無過犯<pc>，</pc>從上<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>出職<pc>。</pc>有過犯經洗雪<pc>，</pc>曾經決責<pc>，</pc>出借職<pc>。</pc>人數無定限<pc>。</pc>
 <pc>）</pc>禦廚<pc>（</pc>勾押官補正名後理<pc>，</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>出職<pc>。</pc>
@@ -1024,7 +1065,8 @@
 <num value="3">三</num>年</measure>
 <pc>、</pc>差使及<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>方許試換<pc>。</pc>已上並召京朝官或使臣<num value="2">二</num>人委保<pc>。</pc>其文臣待製<pc>、</pc>武臣觀察使已上原換官<pc>，</pc>取旨<pc>。</pc>
+<pc>，</pc>方許試換<pc>。</pc>已上並召京朝官或使臣<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>委保<pc>。</pc>其文臣待製<pc>、</pc>武臣觀察使已上原換官<pc>，</pc>取旨<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1199,7 +1241,7 @@
 <p>
 <pc>《</pc>
 <title>元豐寄祿格</title>
-<pc>》</pc>以階易官<pc>，</pc>雜取唐及<date>國朝</date>舊製<pc>，</pc>自開府儀同<num value="3">三</num>司至將仕郎<pc>，</pc>定為<num value="24">二十四</num>階<pc>，</pc>崇寧初<pc>，</pc>因刑部尚書鄧洵武請<pc>，</pc>又換選人<num value="7">七</num>階<pc>。</pc>大觀初又增宣奉<pc>、</pc>正奉<pc>、</pc>中奉<pc>、</pc>奉直等階<pc>。</pc>政和末<pc>，</pc>又改從政<pc>、</pc>修職<pc>、</pc>迪功<pc>，</pc>而寄祿之格始備<pc>。</pc>自開府至迪功凡<num value="37">三十七</num>階<pc>。</pc>
+<pc>》</pc>以階易官<pc>，</pc>雜取唐及<date when="null">國朝</date>舊製<pc>，</pc>自開府儀同<num value="3">三</num>司至將仕郎<pc>，</pc>定為<num value="24">二十四</num>階<pc>，</pc>崇寧初<pc>，</pc>因刑部尚書鄧洵武請<pc>，</pc>又換選人<num value="7">七</num>階<pc>。</pc>大觀初又增宣奉<pc>、</pc>正奉<pc>、</pc>中奉<pc>、</pc>奉直等階<pc>。</pc>政和末<pc>，</pc>又改從政<pc>、</pc>修職<pc>、</pc>迪功<pc>，</pc>而寄祿之格始備<pc>。</pc>自開府至迪功凡<num value="37">三十七</num>階<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1256,7 +1298,7 @@
 </div>
 <div>
 <p>
-<date>國朝</date>武選<pc>，</pc>自內客省至閤門使<pc>、</pc>副為橫班<pc>，</pc>自皇城至供備庫使為諸司正使<pc>，</pc>副為諸司副使<pc>，</pc>自內殿承製至<num value="3">三</num>班借職為使臣<pc>，</pc>元豐未及更<pc>，</pc>政和<measure quantity="2" unit="years">
+<date when="null">國朝</date>武選<pc>，</pc>自內客省至閤門使<pc>、</pc>副為橫班<pc>，</pc>自皇城至供備庫使為諸司正使<pc>，</pc>副為諸司副使<pc>，</pc>自內殿承製至<num value="3">三</num>班借職為使臣<pc>，</pc>元豐未及更<pc>，</pc>政和<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>乃詔易以新名<pc>，</pc>正使為大夫<pc>，</pc>副使為郎<pc>，</pc>橫班<num value="12">十二</num>階使<pc>、</pc>副亦然<pc>。</pc>
 <measure quantity="6" unit="years">
@@ -1500,7 +1542,7 @@
 </div>
 <div>
 <p>右並政和新置<pc>。</pc>內通侍大夫舊為內客省使<pc>，</pc>
-<date>國朝</date>未嚐除人<pc>，</pc>自易武階<pc>，</pc>不遷通侍沿初意也<pc>。</pc>轉至中侍<pc>，</pc>無磨勘<pc>，</pc>特旨除<pc>。</pc>武功大夫武德大夫</p>
+<date when="null">國朝</date>未嚐除人<pc>，</pc>自易武階<pc>，</pc>不遷通侍沿初意也<pc>。</pc>轉至中侍<pc>，</pc>無磨勘<pc>，</pc>特旨除<pc>。</pc>武功大夫武德大夫</p>
 </div>
 <div>
 <p>武顯大夫武節大夫武略大夫武經大夫</p>

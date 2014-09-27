@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="479">
 <div>
-<p>◎世家<num value="2">二</num>○西蜀孟氏</p>
+<p>
+<name key="null" type="null">◎世家</name>
+<num value="2">二</num>○西蜀孟氏</p>
 </div>
 <div>
 <p>西蜀孟昶<pc>，</pc>初名仁讚<pc>，</pc>及僭位改焉<pc>。</pc>其先邢州龍岡人<pc>。</pc>父知祥<pc>，</pc>事後唐武皇<pc>，</pc>武皇以弟之子妻之<pc>，</pc>是為瓊華長公主<pc>。</pc>同光初<pc>，</pc>知祥為太原尹<pc>、</pc>知留守事<pc>。</pc>
@@ -40,10 +42,12 @@
 <num value="5">五</num>年</measure>
 <pc>，</pc>閔帝立<pc>，</pc>乃稱帝於蜀<pc>，</pc>改元明德<pc>，</pc>時清泰元年也<pc>。</pc>事具<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>史</title>
 <pc>》</pc>
-<pc>。</pc>昶母<persName>李</persName>氏<pc>，</pc>本莊宗嬪禦<pc>，</pc>以賜知祥<pc>，</pc>天祐<measure quantity="16" unit="years">
+<pc>。</pc>昶母<name key="null" type="maternal">
+<persName>李</persName>
+</name>氏<pc>，</pc>本莊宗嬪禦<pc>，</pc>以賜知祥<pc>，</pc>天祐<measure quantity="16" unit="years">
 <num value="16">十六</num>年</measure>
 <num value="16">己卯</num>
 <measure quantity="11" unit="months">
@@ -59,7 +63,9 @@
 <pc>，</pc>止稱明德年號<pc>，</pc>委政於趙季良<pc>、</pc>張知業<pc>、</pc>李仁罕等<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>尊其母<persName>李</persName>氏為皇太後<pc>。</pc>
+<pc>，</pc>尊其母<name key="null" type="maternal">
+<persName>李</persName>
+</name>氏為皇太後<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>改元廣政<pc>。</pc>後以事誅仁罕<pc>、</pc>知業<pc>，</pc>乃親政事<pc>。</pc>
@@ -73,7 +79,9 @@
 </p>
 </div>
 <div>
-<p>立其子玄喆為太子<pc>，</pc>用王昭遠<pc>、</pc>伊審征<pc>、</pc>韓保正<pc>、</pc>趙崇韜等分掌機要<pc>，</pc>總內外兵柄<pc>。</pc>母<persName>李</persName>氏謂昶曰<pc>：</pc>
+<p>立其子玄喆為太子<pc>，</pc>用王昭遠<pc>、</pc>伊審征<pc>、</pc>韓保正<pc>、</pc>趙崇韜等分掌機要<pc>，</pc>總內外兵柄<pc>。</pc>母<name key="null" type="maternal">
+<persName>李</persName>
+</name>氏謂昶曰<pc>：</pc>
 <pc>“</pc>吾嚐見莊宗跨河與梁軍戰<pc>，</pc>又見爾父在並州捍契丹及入蜀定兩川<pc>，</pc>當時主兵者非有功不授<pc>，</pc>故士卒畏服<pc>。</pc>如昭遠者<pc>，</pc>出於微賤<pc>，</pc>但自爾就學之年<pc>，</pc>給事左右<pc>；</pc>又保正等皆世祿之子<pc>，</pc>素不知兵<pc>，</pc>
 <num value="1">一</num>旦邊疆警急<pc>，</pc>此輩有何智略以禦敵<pc>？</pc>高彥儔是爾父故人<pc>，</pc>秉心忠實<pc>，</pc>多所經練<pc>，</pc>此可委任<pc>。</pc>
 <pc>”</pc>昶不能遵用其言<pc>。</pc>
@@ -87,7 +95,10 @@
 <pc>”</pc>先是<pc>，</pc>太祖已有西伐意而未發<pc>，</pc>及覽書<pc>，</pc>喜曰<pc>：</pc>
 <pc>“</pc>吾用師有名矣<pc>。</pc>
 <pc>”</pc>即命忠武軍節度<persName>王全斌</persName>充鳳州路行營前軍兵馬都部署<pc>，</pc>武信軍節度<pc>、</pc>侍衛步軍都指揮使崔彥進充副都部署<pc>，</pc>樞密副使王仁贍充都監<pc>，</pc>龍捷右廂都指揮使史延德充馬軍都指揮使<pc>，</pc>虎捷右廂都指揮使張<num value="10000">萬</num>友充步軍都指揮使<pc>，</pc>隴州防禦使張凝充先鋒都指揮使<pc>，</pc>左神武大將軍王繼濤充濠砦使<pc>，</pc>內染院使康延澤充馬軍都監<pc>，</pc>翰林副使張煦充步軍都監<pc>，</pc>供奉官田仁朗充濠砦都監<pc>，</pc>殿直鄭粲充先鋒都監<pc>，</pc>步軍都軍頭向韜充先鋒都軍頭<pc>，</pc>寧江軍節度<pc>、</pc>侍衛馬步軍都指揮使劉廷讓充歸州路行營前軍兵馬副都部署<pc>，</pc>內客省使<pc>、</pc>樞密承旨曹彬充都監<pc>，</pc>客省使武懷節充戰棹部署<pc>，</pc>龍捷左廂都指揮使李進卿充步軍都指揮使<pc>，</pc>前階州<term>刺史</term>高彥暉充先鋒都指揮使<pc>，</pc>右衛將軍白廷誨充濠砦使<pc>，</pc>禦廚副使朱光緒充馬軍都監<pc>，</pc>儀鸞副使折彥贇充步軍都監<pc>，</pc>
-<num value="8">八</num>作副使王令岩充先鋒都監<pc>，</pc>供奉官郝守濬充濠砦都監<pc>，</pc>馬步軍都軍頭楊光美充戰棹左右廂都指揮使<pc>，</pc>供奉官藥守節充戰棹左廂都監<pc>，</pc>殿直劉漢卿充戰棹右廂都監<pc>，</pc>率禁兵<num value="30000">三萬</num>人<pc>、</pc>諸州兵<num value="20000">二萬</num>人分路討之<pc>。</pc>詔令孫遇等指畫江山曲折之狀<pc>，</pc>及兵砦戍守之處道裏遠近<pc>，</pc>俾畫工圖之<pc>，</pc>以授全斌等<pc>。</pc>因謂曰<pc>：</pc>
+<num value="8">八</num>作副使王令岩充先鋒都監<pc>，</pc>供奉官郝守濬充濠砦都監<pc>，</pc>馬步軍都軍頭楊光美充戰棹左右廂都指揮使<pc>，</pc>供奉官藥守節充戰棹左廂都監<pc>，</pc>殿直劉漢卿充戰棹右廂都監<pc>，</pc>率禁兵<measure quantity="30000" unit="people">
+<num value="30000">三萬</num>人</measure>
+<pc>、</pc>諸州兵<measure quantity="20000" unit="people">
+<num value="20000">二萬</num>人</measure>分路討之<pc>。</pc>詔令孫遇等指畫江山曲折之狀<pc>，</pc>及兵砦戍守之處道裏遠近<pc>，</pc>俾畫工圖之<pc>，</pc>以授全斌等<pc>。</pc>因謂曰<pc>：</pc>
 <pc>“</pc>西川可取否<pc>？</pc>
 <pc>”</pc>全斌等對曰<pc>：</pc>
 <pc>“</pc>臣等仗天威<pc>，</pc>遵廟算<pc>，</pc>刻日可定<pc>。</pc>
@@ -189,7 +200,9 @@
 <p>昶數日卒<pc>，</pc>年<num value="47">四十七</num>
 <pc>。</pc>太祖廢朝<measure quantity="5" unit="days">
 <num value="5">五</num>日</measure>
-<pc>，</pc>素服發哀於大明殿<pc>。</pc>賜尚書令<pc>，</pc>追封楚王<pc>，</pc>諡恭孝<pc>，</pc>賻布帛<num value="1000">千</num>匹<pc>，</pc>葬事官給<pc>。</pc>後數日<pc>，</pc>其母<persName>李</persName>氏亦卒<pc>。</pc>初<pc>，</pc>李氏隨昶至京師<pc>，</pc>太祖數命肩輿入宮<pc>，</pc>謂之曰<pc>：</pc>
+<pc>，</pc>素服發哀於大明殿<pc>。</pc>賜尚書令<pc>，</pc>追封楚王<pc>，</pc>諡恭孝<pc>，</pc>賻布帛<num value="1000">千</num>匹<pc>，</pc>葬事官給<pc>。</pc>後數日<pc>，</pc>其母<name key="null" type="maternal">
+<persName>李</persName>
+</name>氏亦卒<pc>。</pc>初<pc>，</pc>李氏隨昶至京師<pc>，</pc>太祖數命肩輿入宮<pc>，</pc>謂之曰<pc>：</pc>
 <pc>“</pc>母善自愛<pc>，</pc>無戚戚懷鄉土<pc>，</pc>異日當送母歸<pc>。</pc>
 <pc>”</pc>李氏曰<pc>：</pc>
 <pc>“</pc>使妾安往<pc>？</pc>
@@ -202,7 +215,8 @@
 <pc>”</pc>因厚加賜賚<pc>。</pc>及昶卒<pc>，</pc>不哭<pc>，</pc>以酒酹地曰<pc>：</pc>
 <pc>“</pc>汝不能死社稷<pc>，</pc>貪生以至今日<pc>。</pc>吾所以忍死者<pc>，</pc>以汝在爾<pc>。</pc>今汝既死<pc>，</pc>吾何生焉<pc>！</pc>
 <pc>”</pc>因不食<pc>，</pc>數日卒<pc>。</pc>太祖聞而傷之<pc>，</pc>賻贈加等<pc>。</pc>令鴻臚卿範禹偁護喪事<pc>，</pc>與昶俱葬<placeName>洛陽</placeName>
-<pc>，</pc>詔發奉義甲士<num value="1000">千</num>人護送<pc>。</pc>
+<pc>，</pc>詔發奉義甲士<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>護送<pc>。</pc>
 </p>
 </div>
 <div>
@@ -291,7 +305,9 @@
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>玄喆在貝州<pc>，</pc>凡民輸稅者皆令出商算<pc>，</pc>規其餘羨<pc>，</pc>以備留使之用<pc>，</pc>人頗苦之<pc>。</pc>景德中<pc>，</pc>都官員外郎孔揆使河北<pc>，</pc>表論其事<pc>，</pc>詔除之<pc>。</pc>有子<num value="15">十五</num>人<pc>：</pc>隆記<pc>、</pc>隆詁<pc>、</pc>隆說<pc>、</pc>隆詮<pc>，</pc>並進士及第<pc>。</pc>
+<p>初<pc>，</pc>玄喆在貝州<pc>，</pc>凡民輸稅者皆令出商算<pc>，</pc>規其餘羨<pc>，</pc>以備留使之用<pc>，</pc>人頗苦之<pc>。</pc>景德中<pc>，</pc>都官員外郎孔揆使河北<pc>，</pc>表論其事<pc>，</pc>詔除之<pc>。</pc>有子<measure quantity="15" unit="people">
+<num value="15">十五</num>人</measure>
+<pc>：</pc>隆記<pc>、</pc>隆詁<pc>、</pc>隆說<pc>、</pc>隆詮<pc>，</pc>並進士及第<pc>。</pc>
 </p>
 </div>
 <div>
@@ -457,7 +473,8 @@
 <pc>。</pc>乾德中<pc>，</pc>諸將伐蜀<pc>，</pc>分兵由峽路入<pc>，</pc>將壓其境<pc>。</pc>景昭率官吏以牛酒犒宋師<pc>，</pc>迎入城<pc>。</pc>太祖聞之<pc>，</pc>甚悅<pc>。</pc>蜀平<pc>，</pc>即授永州<term>刺史</term>
 <pc>。</pc>秩滿入朝<pc>，</pc>改右<num value="1000">千</num>牛衛將軍<pc>。</pc>開寶<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>卒<pc>。</pc>昶之入朝也<pc>，</pc>為左羽林將軍<pc>、</pc>景昭弟處瑭等<num value="4">四</num>人隨行<pc>，</pc>卒於道<pc>。</pc>太祖憫之<pc>，</pc>以其男補供奉官殿直<pc>。</pc>
+<pc>，</pc>卒<pc>。</pc>昶之入朝也<pc>，</pc>為左羽林將軍<pc>、</pc>景昭弟處瑭等<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>隨行<pc>，</pc>卒於道<pc>。</pc>太祖憫之<pc>，</pc>以其男補供奉官殿直<pc>。</pc>
 </p>
 </div>
 <div>
@@ -492,7 +509,9 @@
 <p>
 <persName>王全斌</persName>之下劍關也<pc>，</pc>昶遣廷珪與其太子玄喆將兵來拒宋師<pc>，</pc>至綿<pc>、</pc>漢與全斌遇<pc>，</pc>狼狽而還<pc>。</pc>玄喆與廷珪謀<pc>，</pc>所經州縣盡焚其儲蓄<pc>。</pc>及全斌等入成都<pc>，</pc>行營都監王仁贍案籍詰所在軍須<pc>，</pc>廷珪懼<pc>，</pc>以告馬軍都監康延澤<pc>。</pc>延澤曰<pc>：</pc>
 <pc>“</pc>王公誌在聲色<pc>，</pc>苟得其所欲<pc>，</pc>則置而不問矣<pc>。</pc>
-<pc>”</pc>廷珪素儉約<pc>，</pc>不畜妓樂<pc>，</pc>遂求於姻戚家<pc>，</pc>得女妓<num value="4">四</num>人<pc>，</pc>複假貸金帛直數<num value="1000000">百萬</num>以遺仁贍<pc>，</pc>繇是獲免<pc>。</pc>歸闕<pc>，</pc>為右<num value="1000">千</num>牛衛上將軍<pc>。</pc>乾德<measure quantity="5" unit="years">
+<pc>”</pc>廷珪素儉約<pc>，</pc>不畜妓樂<pc>，</pc>遂求於姻戚家<pc>，</pc>得女妓<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>，</pc>複假貸金帛直數<num value="1000000">百萬</num>以遺仁贍<pc>，</pc>繇是獲免<pc>。</pc>歸闕<pc>，</pc>為右<num value="1000">千</num>牛衛上將軍<pc>。</pc>乾德<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>卒<pc>。</pc>
 </p>
@@ -522,7 +541,7 @@
 <p>昶立<pc>，</pc>領漢州<term>刺史</term>
 <pc>，</pc>遷兵部侍郎<pc>，</pc>出知武德軍府<pc>，</pc>加承旨<pc>。</pc>昶嚐欲命昊<num value="2">二</num>子官<pc>，</pc>昊固讓<pc>，</pc>且言<pc>：</pc>
 <pc>“</pc>遂州判官石欽若<pc>、</pc>蘇涯<pc>，</pc>前蜀時<pc>，</pc>同在劉知俊幕下<pc>，</pc>願回授欽若等子<pc>。</pc>
-<pc>”</pc>昶嘉歎<pc>，</pc>許之<pc>，</pc>仍授昊<num value="2">二</num>子官<pc>。</pc>俄加尚書左丞<pc>，</pc>拜門下侍郎兼戶部尚書<pc>、</pc>同平章事<pc>、</pc>監修國史<pc>。</pc>因請置史官<pc>，</pc>乃以給事中郭廷鈞<pc>、</pc>職方員外郎趙<date>元</date>
+<pc>”</pc>昶嘉歎<pc>，</pc>許之<pc>，</pc>仍授昊<num value="2">二</num>子官<pc>。</pc>俄加尚書左丞<pc>，</pc>拜門下侍郎兼戶部尚書<pc>、</pc>同平章事<pc>、</pc>監修國史<pc>。</pc>因請置史官<pc>，</pc>乃以給事中郭廷鈞<pc>、</pc>職方員外郎趙<date when="null">元</date>
 <persName>拱為修</persName>撰<pc>，</pc>雙流令崔崇構<pc>、</pc>成都主簿王中孚為直館<pc>。</pc>
 </p>
 </div>
@@ -566,7 +585,9 @@
 <p>昊前後仕蜀<measure quantity="50" unit="years">
 <num value="50">五十</num>年</measure>
 <pc>。</pc>昶之世<pc>，</pc>位兼將相<pc>，</pc>秉利權<pc>，</pc>資貨歲入钜<num value="10000">萬</num>
-<pc>，</pc>奢侈尤甚<pc>，</pc>後堂妓妾曳羅綺數<num value="100">百</num>人<pc>。</pc>昶與江南李景通好<pc>，</pc>遣其臣趙季劄至江南<pc>，</pc>購得李紳武宗朝入相製書<pc>，</pc>還以遺昊<pc>。</pc>昊結彩樓置其中<pc>，</pc>盡召成都聲妓<pc>，</pc>昊朝服前迎歸私第<pc>，</pc>大會賓客宴飲<pc>，</pc>所費無算<pc>。</pc>以帛<num value="2000">二千</num>匹謝季劄<pc>。</pc>
+<pc>，</pc>奢侈尤甚<pc>，</pc>後堂妓妾曳羅綺數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>昶與江南李景通好<pc>，</pc>遣其臣趙季劄至江南<pc>，</pc>購得李紳武宗朝入相製書<pc>，</pc>還以遺昊<pc>。</pc>昊結彩樓置其中<pc>，</pc>盡召成都聲妓<pc>，</pc>昊朝服前迎歸私第<pc>，</pc>大會賓客宴飲<pc>，</pc>所費無算<pc>。</pc>以帛<num value="2000">二千</num>匹謝季劄<pc>。</pc>
 </p>
 </div>
 <div>

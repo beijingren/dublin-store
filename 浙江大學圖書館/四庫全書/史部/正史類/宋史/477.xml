@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="477">
 <div>
-<p>◎叛臣下○李全下</p>
+<p>
+<name key="null" type="null">◎叛臣</name>下○李全下</p>
 </div>
 <div>
 <p>寶慶<measure quantity="3" unit="years">
@@ -68,7 +69,8 @@
 </div>
 <div>
 <p>慶福在山陽<pc>，</pc>自知己為厲階<pc>，</pc>懷不自安<pc>，</pc>欲圖福以自贖<pc>。</pc>福知之<pc>，</pc>亦謀去慶福<pc>。</pc>
-<num value="2">二</num>人互相猜貳<pc>，</pc>不相見<pc>。</pc>福偽病旬餘<pc>，</pc>諸將問疾<pc>，</pc>慶福不往<pc>。</pc>張甫者<pc>，</pc>素厚慶福<pc>，</pc>懼福疑己<pc>，</pc>乃勸慶福往<pc>。</pc>後慶福約甫同往<pc>，</pc>乃寢<pc>，</pc>遙見福臥不解衣<pc>，</pc>心恐<pc>，</pc>不得已至床前<pc>，</pc>見床頭鞘刀<pc>，</pc>慶福口問疾而手按鞘<pc>，</pc>懼福先發<pc>。</pc>福疑慶福就刀見害<pc>，</pc>乃躍起拔刀傷慶福<pc>，</pc>慶福徒手不支<pc>，</pc>甫救之<pc>。</pc>左右群起殺慶福及甫<pc>。</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>互相猜貳<pc>，</pc>不相見<pc>。</pc>福偽病旬餘<pc>，</pc>諸將問疾<pc>，</pc>慶福不往<pc>。</pc>張甫者<pc>，</pc>素厚慶福<pc>，</pc>懼福疑己<pc>，</pc>乃勸慶福往<pc>。</pc>後慶福約甫同往<pc>，</pc>乃寢<pc>，</pc>遙見福臥不解衣<pc>，</pc>心恐<pc>，</pc>不得已至床前<pc>，</pc>見床頭鞘刀<pc>，</pc>慶福口問疾而手按鞘<pc>，</pc>懼福先發<pc>。</pc>福疑慶福就刀見害<pc>，</pc>乃躍起拔刀傷慶福<pc>，</pc>慶福徒手不支<pc>，</pc>甫救之<pc>。</pc>左右群起殺慶福及甫<pc>。</pc>
 </p>
 </div>
 <div>
@@ -97,14 +99,22 @@
 <pc>”</pc>王義深亦嚐遭全屈辱<pc>，</pc>且謂<pc>：</pc>
 <pc>“</pc>我本賈帥帳前人<pc>，</pc>與彭安撫舉義不成而歸<pc>。</pc>
 <pc>”</pc>
-<num value="5">五</num>人相謂曰<pc>：</pc>
+<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>相謂曰<pc>：</pc>
 <pc>“</pc>朝廷不降錢糧<pc>，</pc>為有反者未除耳<pc>！</pc>
-<pc>”</pc>乃共議殺福及楊氏以獻<pc>，</pc>於是眾帥兵趨楊氏家<pc>。</pc>福出<pc>，</pc>德手刃之<pc>，</pc>相屠者數<num value="100">百</num>人<pc>。</pc>有郭統製者<pc>，</pc>殺全次子<pc>。</pc>通殺<num value="1">一</num>婦人<pc>，</pc>以為楊氏<pc>，</pc>函其首並福首馳獻於紹雲<pc>。</pc>紹雲驛送京師<pc>，</pc>傾朝甚喜<pc>。</pc>檄彭忄乇<pc>、</pc>張惠<pc>、</pc>範成進<pc>、</pc>時青並兵往楚州<pc>，</pc>便宜盡戮餘黨<pc>。</pc>未幾<pc>，</pc>傳楊氏故無恙<pc>，</pc>婦人頭乃全次妻劉氏也<pc>。</pc>
+<pc>”</pc>乃共議殺福及楊氏以獻<pc>，</pc>於是眾帥兵趨楊氏家<pc>。</pc>福出<pc>，</pc>德手刃之<pc>，</pc>相屠者數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>有郭統製者<pc>，</pc>殺全次子<pc>。</pc>通殺<num value="1">一</num>婦人<pc>，</pc>以為楊氏<pc>，</pc>函其首並福首馳獻於紹雲<pc>。</pc>紹雲驛送京師<pc>，</pc>傾朝甚喜<pc>。</pc>檄彭忄乇<pc>、</pc>張惠<pc>、</pc>範成進<pc>、</pc>時青並兵往楚州<pc>，</pc>便宜盡戮餘黨<pc>。</pc>未幾<pc>，</pc>傳楊氏故無恙<pc>，</pc>婦人頭乃全次妻劉氏也<pc>。</pc>
 </p>
 </div>
 <div>
-<p>忄乇輕儇<pc>，</pc>每供<num value="4">四</num>總管弄戲<pc>，</pc>得檄不敢自決<pc>，</pc>力遜<pc>。</pc>惠<pc>、</pc>成進<num value="2">二</num>人即提兵入楚城<pc>，</pc>與林等<num value="5">五</num>人歡宴<pc>，</pc>議分北軍為<num value="5">五</num>
-<pc>，</pc>使<num value="5">五</num>人分掌之<pc>，</pc>每軍無過<num value="1000">千</num>人<pc>，</pc>
+<p>忄乇輕儇<pc>，</pc>每供<num value="4">四</num>總管弄戲<pc>，</pc>得檄不敢自決<pc>，</pc>力遜<pc>。</pc>惠<pc>、</pc>成進<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>即提兵入楚城<pc>，</pc>與林等<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>歡宴<pc>，</pc>議分北軍為<num value="5">五</num>
+<pc>，</pc>使<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>分掌之<pc>，</pc>每軍無過<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>
 <num value="1">一</num>屯南渡門<pc>，</pc>
 <num value="1">一</num>屯平河橋<pc>，</pc>
 <num value="1">一</num>屯北神鎮<pc>，</pc>城中城西各<num value="1">一</num>
@@ -113,17 +123,21 @@
 </div>
 <div>
 <p>惠<pc>、</pc>成進既歸<pc>，</pc>錢糧缺乏<pc>，</pc>密約降金<pc>，</pc>盧鼓槌許之<pc>。</pc>時鎮江軍及<placeName>滁州</placeName>虎兒軍在盱眙者尚眾<pc>，</pc>
-<num value="2">二</num>人紿忄乇曰<pc>：</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>紿忄乇曰<pc>：</pc>
 <pc>“</pc>南北軍易致激變<pc>，</pc>宜令軍人出入無得帶刃<pc>。</pc>
 <pc>”</pc>又勸早發虎兒軍折洗<pc>，</pc>忄乇從之<pc>。</pc>
-<num value="2">二</num>人每宴忄乇<pc>，</pc>必遍迨皂隸<pc>，</pc>忄乇皆不悟<pc>，</pc>方感其拒夏全之功<pc>，</pc>轉兩軍官資<pc>。</pc>
-<num value="2">二</num>人同戲下合辭曰<pc>：</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>每宴忄乇<pc>，</pc>必遍迨皂隸<pc>，</pc>忄乇皆不悟<pc>，</pc>方感其拒夏全之功<pc>，</pc>轉兩軍官資<pc>。</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>同戲下合辭曰<pc>：</pc>
 <pc>“</pc>不願得官<pc>，</pc>欲得錢糧<pc>。</pc>
 <pc>”</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <num value="58">辛酉</num>
-<pc>，</pc>惠<pc>、</pc>成進燕忄乇<pc>，</pc>忄乇左右知有謀<pc>，</pc>多不往<pc>，</pc>忄乇往如平時<pc>。</pc>酒半<pc>，</pc>縛忄乇<pc>，</pc>忄乇從者無寸鐵<pc>，</pc>且醉<pc>，</pc>皆就縛<pc>。</pc>即日渡淮輸款<pc>，</pc>以盱眙附盧鼓槌於泗州<pc>。</pc>金兵至<pc>，</pc>開門接之<pc>，</pc>諸軍不戰皆降<pc>。</pc>於是塞南門<pc>，</pc>開北門<pc>，</pc>導淮水以通泗之東西域焉<pc>。</pc>盧鼓槌與惠釋憾連姻<pc>，</pc>金官惠有加<pc>，</pc>俾專製河南<pc>，</pc>以拒大元<pc>。</pc>自是金人窺淮東益急<pc>，</pc>朝廷調京湖製置司兵<num value="10000">萬</num>人屯青平山以備全<pc>。</pc>
+<pc>，</pc>惠<pc>、</pc>成進燕忄乇<pc>，</pc>忄乇左右知有謀<pc>，</pc>多不往<pc>，</pc>忄乇往如平時<pc>。</pc>酒半<pc>，</pc>縛忄乇<pc>，</pc>忄乇從者無寸鐵<pc>，</pc>且醉<pc>，</pc>皆就縛<pc>。</pc>即日渡淮輸款<pc>，</pc>以盱眙附盧鼓槌於泗州<pc>。</pc>金兵至<pc>，</pc>開門接之<pc>，</pc>諸軍不戰皆降<pc>。</pc>於是塞南門<pc>，</pc>開北門<pc>，</pc>導淮水以通泗之東西域焉<pc>。</pc>盧鼓槌與惠釋憾連姻<pc>，</pc>金官惠有加<pc>，</pc>俾專製河南<pc>，</pc>以拒大元<pc>。</pc>自是金人窺淮東益急<pc>，</pc>朝廷調京湖製置司兵<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>屯青平山以備全<pc>。</pc>
 </p>
 </div>
 <div>
@@ -133,10 +147,12 @@
 <num value="53">丙辰</num>
 <pc>，</pc>全與大元張宣差並通事數人至楚州<pc>，</pc>服大元衣冠<pc>，</pc>文移紀<num value="1">甲子</num>而無號<pc>。</pc>義深走金<pc>，</pc>安用殺林<pc>、</pc>德自贖<pc>。</pc>
 <num value="54">丁巳</num>
-<pc>，</pc>全邀青及張國明於淮陰<pc>，</pc>國明辭疾<pc>，</pc>青父子同至<pc>。</pc>全推殺其子者郭統製斬之<pc>，</pc>又收田成瑤<pc>、</pc>田之昂<pc>、</pc>李英等<num value="8">八</num>人下獄<pc>，</pc>雲<pc>：</pc>
+<pc>，</pc>全邀青及張國明於淮陰<pc>，</pc>國明辭疾<pc>，</pc>青父子同至<pc>。</pc>全推殺其子者郭統製斬之<pc>，</pc>又收田成瑤<pc>、</pc>田之昂<pc>、</pc>李英等<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>下獄<pc>，</pc>雲<pc>：</pc>
 <pc>“</pc>非朝廷殺我妻子<pc>，</pc>吾惟問汝<pc>。</pc>
 <pc>”</pc>李英<pc>，</pc>全腹心<pc>，</pc>狡而密<pc>，</pc>與李平皆山東胥吏<pc>。</pc>全之乍逆乍順<pc>，</pc>
-<num value="2">二</num>人所教也<pc>。</pc>平又數致全書至廟堂<pc>，</pc>以覘朝廷<pc>。</pc>青繳所授檄於全曰<pc>：</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>所教也<pc>。</pc>平又數致全書至廟堂<pc>，</pc>以覘朝廷<pc>。</pc>青繳所授檄於全曰<pc>：</pc>
 <pc>“</pc>我素推尊相公<pc>，</pc>豈肯為此<pc>！</pc>
 <pc>”</pc>全亦惡青反覆<pc>。</pc>
 <num value="58">辛酉</num>
@@ -233,7 +249,8 @@
 </p>
 </div>
 <div>
-<p>全造舟益急<pc>，</pc>至發塚取煔板<pc>，</pc>煉鐵錢為釘鞠<pc>，</pc>熬人脂搗油灰<pc>，</pc>列炬繼晷<pc>，</pc>招沿海亡命為水手<pc>。</pc>又紿敬夫以大元為詞<pc>，</pc>邀增<num value="5000">五千</num>人錢糧<pc>，</pc>求誓書鐵券<pc>。</pc>朝廷猶遣餉不絕<pc>。</pc>全得米<pc>，</pc>即自轉輸淮海入鹽城以贍其眾<pc>。</pc>他軍士見者曰<pc>：</pc>
+<p>全造舟益急<pc>，</pc>至發塚取煔板<pc>，</pc>煉鐵錢為釘鞠<pc>，</pc>熬人脂搗油灰<pc>，</pc>列炬繼晷<pc>，</pc>招沿海亡命為水手<pc>。</pc>又紿敬夫以大元為詞<pc>，</pc>邀增<measure quantity="5000" unit="people">
+<num value="5000">五千</num>人</measure>錢糧<pc>，</pc>求誓書鐵券<pc>。</pc>朝廷猶遣餉不絕<pc>。</pc>全得米<pc>，</pc>即自轉輸淮海入鹽城以贍其眾<pc>。</pc>他軍士見者曰<pc>：</pc>
 <pc>“</pc>朝廷惟恐賊不飽<pc>，</pc>我曹何力殺賊<pc>！</pc>
 <pc>”</pc>射陽湖人至有<pc>“</pc>養北賊戕淮民<pc>”</pc>之語<pc>，</pc>聞者太息<pc>。</pc>
 </p>
@@ -251,7 +268,8 @@
 <p>時彌遠多在告<pc>，</pc>執政無可否<pc>，</pc>舉朝率謂<pc>：</pc>
 <pc>“</pc>大丞相老於經綸<pc>，</pc>豈不善處<pc>？</pc>
 <pc>”</pc>獨參知政事鄭清之深憂之<pc>，</pc>密與樞密袁韶<pc>、</pc>尚書範楷議<pc>，</pc>
-<num value="2">二</num>人所見合<pc>。</pc>清之乃約韶見帝<pc>，</pc>韶曆言全狀<pc>，</pc>帝有憂色<pc>。</pc>清之即力讚討全<pc>，</pc>帝意決<pc>。</pc>清之退<pc>，</pc>以帝意告彌遠<pc>，</pc>彌遠意亦決<pc>。</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>所見合<pc>。</pc>清之乃約韶見帝<pc>，</pc>韶曆言全狀<pc>，</pc>帝有憂色<pc>。</pc>清之即力讚討全<pc>，</pc>帝意決<pc>。</pc>清之退<pc>，</pc>以帝意告彌遠<pc>，</pc>彌遠意亦決<pc>。</pc>
 <num value="42">乙巳</num>
 <pc>，</pc>金字牌進善湘煥章閣學士<pc>、</pc>江淮製置大使<pc>，</pc>範直徽猷閣<pc>、</pc>知<placeName>揚州</placeName>
 <pc>、</pc>淮東安撫副使<pc>，</pc>葵直寶章閣<pc>、</pc>淮東提點刑獄兼知<placeName>滁州</placeName>
@@ -283,11 +301,14 @@
 <num value="49">壬子</num>
 <pc>，</pc>全兵突至灣頭<pc>，</pc>敬夫恐<pc>，</pc>欲走<pc>，</pc>副都統丁勝劫閽者止之<pc>。</pc>全攻城南門<pc>，</pc>都統趙勝自堡砦提勁弩赴大城注射<pc>，</pc>全稍退<pc>。</pc>全遣劉全奄至堡砦西城下<pc>，</pc>欲奪之以瞰大城<pc>。</pc>先是<pc>，</pc>趙勝屯西城<pc>，</pc>見濠淺<pc>，</pc>每曰<pc>：</pc>
 <pc>“</pc>設有寇至<pc>，</pc>未圍大城<pc>，</pc>先襲堡砦<pc>，</pc>何可不備<pc>？</pc>
-<pc>”</pc>盛暑中督軍浚濠<pc>，</pc>人皆苦之<pc>，</pc>翟朝宗亦以為笑<pc>。</pc>既浚<pc>，</pc>勝決新塘水注焉<pc>。</pc>及是<pc>，</pc>劉全不能進<pc>，</pc>勝又浚市河<pc>，</pc>人尤謂不急<pc>。</pc>全至<pc>，</pc>勝開水門納賈舟<num value="1000">千</num>餘艘<pc>，</pc>活者數<num value="1000">千</num>人<pc>，</pc>糧貨不與焉<pc>。</pc>
+<pc>”</pc>盛暑中督軍浚濠<pc>，</pc>人皆苦之<pc>，</pc>翟朝宗亦以為笑<pc>。</pc>既浚<pc>，</pc>勝決新塘水注焉<pc>。</pc>及是<pc>，</pc>劉全不能進<pc>，</pc>勝又浚市河<pc>，</pc>人尤謂不急<pc>。</pc>全至<pc>，</pc>勝開水門納賈舟<num value="1000">千</num>餘艘<pc>，</pc>活者數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>糧貨不與焉<pc>。</pc>
 </p>
 </div>
 <div>
-<p>時朝廷雖下詔討全<pc>，</pc>而猶有內圖戰守<pc>、</pc>外用調停之說<pc>。</pc>是日<pc>，</pc>敬夫得彌遠書<pc>，</pc>許增<num value="5000">萬五千</num>人糧<pc>，</pc>勸全歸楚州<pc>。</pc>敬夫亟遣劉易即全壘授全<pc>。</pc>全笑曰<pc>：</pc>
+<p>時朝廷雖下詔討全<pc>，</pc>而猶有內圖戰守<pc>、</pc>外用調停之說<pc>。</pc>是日<pc>，</pc>敬夫得彌遠書<pc>，</pc>許增<measure quantity="5000" unit="people">
+<num value="5000">萬五千</num>人</measure>糧<pc>，</pc>勸全歸楚州<pc>。</pc>敬夫亟遣劉易即全壘授全<pc>。</pc>全笑曰<pc>：</pc>
 <pc>“</pc>丞相勸我歸<pc>，</pc>丁都統與我戰<pc>，</pc>非相紿耶<pc>？</pc>
 <pc>”</pc>擲書不受<pc>，</pc>惟留省劄<pc>。</pc>敬夫始知全紿己<pc>，</pc>亟發牌印迓範<pc>。</pc>癸醜<pc>，</pc>全塞泰州城濠<pc>。</pc>於邦傑<pc>、</pc>宗雄武通全<pc>，</pc>戒守者無得發矢<pc>，</pc>俟薄城而蹙之<pc>，</pc>全得距堙<pc>。</pc>宋濟恐<pc>，</pc>令縣尉某如全壘<pc>，</pc>全以增糧省檄示之<pc>，</pc>尉複出<pc>，</pc>獻錢<num value="2000000">二百萬</num>以降<pc>。</pc>
 <num value="52">乙卯</num>
@@ -315,7 +336,8 @@
 <num value="7">庚午</num>
 <pc>，</pc>全晨率步騎<num value="5000">五千</num>餘攻堡塞西門<pc>，</pc>趙勝出兵<pc>，</pc>戰不利<pc>，</pc>範<pc>、</pc>葵以兵益之<pc>。</pc>全兵亦增<pc>，</pc>葵擊卻之<pc>。</pc>
 <num value="8">辛未</num>
-<pc>，</pc>賊引兵<num value="30000">三萬</num>沿州城東向西門<pc>，</pc>李虎<pc>、</pc>趙必勝<pc>、</pc>張璡<pc>、</pc>崔福力戰<pc>，</pc>自巳至申<pc>，</pc>全乃沿東門以歸<pc>，</pc>丁勝<pc>、</pc>王鑒<pc>、</pc>於俊擊走之<pc>。</pc>襄兵<num value="10000">萬</num>人至真州上壩<pc>，</pc>統製張達<pc>、</pc>監軍張大連不設備<pc>，</pc>魚貫而行<pc>。</pc>全哨馬帥田<num value="4">四</num>擊之為數截<pc>，</pc>殲者<num value="5000">五千</num>
+<pc>，</pc>賊引兵<num value="30000">三萬</num>沿州城東向西門<pc>，</pc>李虎<pc>、</pc>趙必勝<pc>、</pc>張璡<pc>、</pc>崔福力戰<pc>，</pc>自巳至申<pc>，</pc>全乃沿東門以歸<pc>，</pc>丁勝<pc>、</pc>王鑒<pc>、</pc>於俊擊走之<pc>。</pc>襄兵<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>至真州上壩<pc>，</pc>統製張達<pc>、</pc>監軍張大連不設備<pc>，</pc>魚貫而行<pc>。</pc>全哨馬帥田<num value="4">四</num>擊之為數截<pc>，</pc>殲者<num value="5000">五千</num>
 <pc>，</pc>達<pc>、</pc>大連死之<pc>；</pc>淮西援兵至<pc>，</pc>亦遇全統領桑青力戰<pc>，</pc>城中俱不知也<pc>。</pc>襄兵敗<pc>，</pc>全凶焰益振<pc>，</pc>每曰<pc>：</pc>
 <pc>“</pc>我不要淮上州縣<pc>，</pc>渡江浮海<pc>，</pc>徑至蘇<pc>、</pc>杭<pc>，</pc>孰能當我<pc>！</pc>
 <pc>”</pc>
@@ -354,7 +376,9 @@
 <num value="32">乙未</num>
 <pc>，</pc>李虎出南門<pc>，</pc>楊義出東門<pc>，</pc>王鑒出西門<pc>，</pc>崔福出北門<pc>，</pc>各徑扼賊圍<pc>，</pc>開土城數處<pc>，</pc>範<pc>、</pc>葵提兵策應<pc>，</pc>全步騎數<num value="1000">千</num>出戰<pc>，</pc>諸軍奮擊<pc>，</pc>俘馘甚眾<pc>。</pc>夜<pc>，</pc>賊複合所開城<pc>。</pc>
 <num value="34">丁酉</num>
-<pc>，</pc>趙勝遣統製陸昌<pc>、</pc>孫舉立橋堡砦於北門<pc>，</pc>賊步騎分道來戰<pc>，</pc>勝擊<persName>退之</persName>
+<pc>，</pc>趙勝遣統製陸昌<pc>、</pc>孫舉立橋堡砦於北門<pc>，</pc>賊步騎分道來戰<pc>，</pc>勝擊<name key="韓愈" type="zi">
+<persName>退之</persName>
+</name>
 <pc>。</pc>範陳於西門<pc>，</pc>賊閉壘不出<pc>。</pc>葵曰<pc>：</pc>
 <pc>“</pc>賊俟我收兵而出爾<pc>。</pc>
 <pc>”</pc>乃伏騎破垣門<pc>，</pc>收步卒誘之<pc>。</pc>賊兵數<num value="1000">千</num>果趨濠側<pc>，</pc>虎力戰<pc>，</pc>城上矢石雨注<pc>，</pc>賊退<pc>。</pc>有頃<pc>，</pc>賊別隊自東北馳至<pc>，</pc>範<pc>、</pc>葵揮步騎夾浮橋<pc>、</pc>吊橋並出<pc>，</pc>為<num value="3">三</num>迭陳以待之<pc>，</pc>自巳至未<pc>，</pc>賊與大戰<pc>；</pc>別遣虎<pc>、</pc>顯廣<pc>、</pc>必勝<pc>、</pc>義以馬步<num value="500">五百</num>出賊背<pc>，</pc>而葵帥輕兵橫衝之<pc>，</pc>
@@ -406,7 +430,8 @@
 <div>
 <p>
 <num value="41">甲辰</num>
-<pc>，</pc>賊軍全椒人周海請降<pc>，</pc>報全已殺<pc>，</pc>餘黨議潰去<pc>。</pc>未幾<pc>，</pc>聞安用歎恨飲泣<pc>，</pc>初議推<num value="1">一</num>人為首<pc>，</pc>以竟其逆<pc>，</pc>莫肯相下<pc>，</pc>欲還淮安奉楊氏主之<pc>。</pc>範夜上捷書製置司<pc>，</pc>議翼日追賊<pc>。</pc>
+<pc>，</pc>賊軍全椒人周海請降<pc>，</pc>報全已殺<pc>，</pc>餘黨議潰去<pc>。</pc>未幾<pc>，</pc>聞安用歎恨飲泣<pc>，</pc>初議推<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>為首<pc>，</pc>以竟其逆<pc>，</pc>莫肯相下<pc>，</pc>欲還淮安奉楊氏主之<pc>。</pc>範夜上捷書製置司<pc>，</pc>議翼日追賊<pc>。</pc>
 <num value="42">乙巳</num>早<pc>，</pc>安用引<num value="500">五百</num>騎徑南門趨灣頭<pc>，</pc>範伏弩射之<pc>，</pc>賊呼曰<pc>：</pc>
 <pc>“</pc>爾襄陽援兵已敗走<pc>，</pc>汝知之乎<pc>？</pc>
 <pc>”</pc>城中應曰<pc>：</pc>
@@ -427,7 +452,9 @@
 <pc>，</pc>善湘來犒師<pc>。</pc>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
-<pc>，</pc>命胡穎部所獲賊酋<num value="20">二十</num>人獻俘於朝<pc>，</pc>且定奇功<num value="20">二十</num>有<num value="9">九</num>人及其餘<pc>，</pc>促行賞<pc>；</pc>又遣趙楷往稟廟算<pc>。</pc>
+<pc>，</pc>命胡穎部所獲賊酋<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>獻俘於朝<pc>，</pc>且定奇功<num value="20">二十</num>有<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>及其餘<pc>，</pc>促行賞<pc>；</pc>又遣趙楷往稟廟算<pc>。</pc>
 </p>
 </div>
 <div>
@@ -435,7 +462,9 @@
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="27">庚寅</num>
-<pc>，</pc>祃祭<pc>，</pc>有梟鳴於牙<pc>，</pc>占之吉<pc>，</pc>別遣全子才率王旻等將<num value="5000">萬五千</num>人<pc>，</pc>與於玠掎角取鹽城<pc>。</pc>
+<pc>，</pc>祃祭<pc>，</pc>有梟鳴於牙<pc>，</pc>占之吉<pc>，</pc>別遣全子才率王旻等將<measure quantity="5000" unit="people">
+<num value="5000">萬五千</num>人</measure>
+<pc>，</pc>與於玠掎角取鹽城<pc>。</pc>
 <num value="30">癸巳</num>
 <pc>，</pc>步騎<num value="100000">十萬</num>發<placeName>揚州</placeName>
 <pc>，</pc>留勝權守<pc>。</pc>
@@ -468,7 +497,9 @@
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <num value="23">丙戌</num>朔<pc>，</pc>天大霧<pc>，</pc>官兵攻上城<pc>，</pc>賊守者尚臥<pc>，</pc>倉皇起鬥<pc>。</pc>官軍互踏肩為梯<pc>，</pc>前者或墜<pc>，</pc>後者繼至<pc>，</pc>自醜至未<pc>，</pc>
-<num value="5">五</num>城俱破<pc>，</pc>斬首數<num value="1000">千</num>級<pc>，</pc>生擒數<num value="100">百</num>人<pc>。</pc>兵士有故隸楚州左右軍者<pc>，</pc>家屬數為賊虐<pc>，</pc>至是泄憤<pc>，</pc>無老幼皆殺之<pc>，</pc>燒砦柵<num value="10000">萬</num>餘家<pc>，</pc>腥焰蔽天<pc>。</pc>餘寇爭橋入大城<pc>，</pc>重濠皆滿<pc>。</pc>淮北賊歸赴援<pc>，</pc>舟師又剿擊<pc>，</pc>焚其水柵<pc>，</pc>夷<num value="5">五</num>城餘址<pc>，</pc>賊始懼<pc>。</pc>
+<num value="5">五</num>城俱破<pc>，</pc>斬首數<num value="1000">千</num>級<pc>，</pc>生擒數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>兵士有故隸楚州左右軍者<pc>，</pc>家屬數為賊虐<pc>，</pc>至是泄憤<pc>，</pc>無老幼皆殺之<pc>，</pc>燒砦柵<num value="10000">萬</num>餘家<pc>，</pc>腥焰蔽天<pc>。</pc>餘寇爭橋入大城<pc>，</pc>重濠皆滿<pc>。</pc>淮北賊歸赴援<pc>，</pc>舟師又剿擊<pc>，</pc>焚其水柵<pc>，</pc>夷<num value="5">五</num>城餘址<pc>，</pc>賊始懼<pc>。</pc>
 <num value="36">己亥</num>
 <pc>，</pc>子才率趙必勝<pc>、</pc>王旻軍移砦西門<pc>，</pc>道遇賊大戰<pc>，</pc>至夜不解<pc>。</pc>子才為銳陣左右救<pc>，</pc>乃勝<pc>。</pc>
 </p>
@@ -505,7 +536,8 @@
 </p>
 </div>
 <div>
-<p>全之寇泰州<pc>，</pc>官屬<num value="10">十</num>有<num value="9">九</num>人皆迎降<pc>，</pc>獨教授高夢月不汙<pc>，</pc>詔贈<num value="3">三</num>官<pc>。</pc>
+<p>全之寇泰州<pc>，</pc>官屬<num value="10">十</num>有<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>皆迎降<pc>，</pc>獨教授高夢月不汙<pc>，</pc>詔贈<num value="3">三</num>官<pc>。</pc>
 </p>
 </div>
 <div>

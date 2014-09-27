@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="99">
 <div>
-<p>　　南郊壇制<pc>。</pc>梁及後唐郊壇皆在<placeName>洛陽</placeName>
+<p>
+<name key="null" type="null">　　南</name>郊壇制<pc>。</pc>梁及後唐郊壇皆在<placeName>洛陽</placeName>
 <pc>。</pc>宋初始作壇于東都南薰門外<pc>，</pc>
 <num value="4">四</num>成<pc>、</pc>
 <num value="12">十二</num>陛<pc>、</pc>
@@ -40,7 +41,7 @@
 <pc>《</pc>
 <title>周官</title>
 <pc>》</pc>外祀皆有兆域<pc>，</pc>後世因之<pc>，</pc>稍增其制<pc>。</pc>
-<date>國朝</date>郊壇率循唐舊<pc>，</pc>雖儀注具載圜丘<num value="3">三</num>壝<pc>，</pc>每壝<num value="25">二十五</num>步<pc>，</pc>而有司乃以青繩代內壝<pc>，</pc>誠不足以等神位<pc>、</pc>序祀事<pc>、</pc>嚴內外之限也<pc>。</pc>伏請除去青繩<pc>，</pc>為<num value="3">三</num>壝之制<pc>。</pc>
+<date when="null">國朝</date>郊壇率循唐舊<pc>，</pc>雖儀注具載圜丘<num value="3">三</num>壝<pc>，</pc>每壝<num value="25">二十五</num>步<pc>，</pc>而有司乃以青繩代內壝<pc>，</pc>誠不足以等神位<pc>、</pc>序祀事<pc>、</pc>嚴內外之限也<pc>。</pc>伏請除去青繩<pc>，</pc>為<num value="3">三</num>壝之制<pc>。</pc>
 </quote>
 <pc>」</pc>從之<pc>。</pc>
 </p>
@@ -82,7 +83,7 @@
 <pc>，</pc>太常寺言<pc>：</pc>
 <pc>「</pc>
 <quote>
-<date>國朝</date>圓壇在國之東南<pc>，</pc>壇側建青城齋宮<pc>，</pc>以備郊宿<pc>。</pc>今宜於臨安府行宮東南修建<pc>。</pc>
+<date when="null">國朝</date>圓壇在國之東南<pc>，</pc>壇側建青城齋宮<pc>，</pc>以備郊宿<pc>。</pc>今宜於臨安府行宮東南修建<pc>。</pc>
 </quote>
 <pc>」</pc>於是<pc>，</pc>遂詔臨安府及殿前司修建圓壇<pc>，</pc>第<num value="1">一</num>成縱廣<num value="7">七</num>丈<pc>，</pc>第<num value="2">二</num>成縱廣<num value="12">一十二</num>丈<pc>，</pc>第<num value="3">三</num>成縱廣<num value="17">一十七</num>丈<pc>，</pc>第<num value="4">四</num>成縱廣<num value="22">二十二</num>丈<pc>。</pc>
 <num value="12">一十二</num>陛<pc>，</pc>每陛<num value="72">七十二</num>級<pc>，</pc>每成<num value="12">一十二</num>綴<pc>。</pc>
@@ -211,7 +212,8 @@
 <num value="4">四</num>年</measure>
 <pc>，</pc>判太常禮院孫奭言<pc>：</pc>
 <pc>「</pc>
-<quote>准禮<pc>，</pc>冬至祀圜丘<pc>，</pc>有司攝事<pc>，</pc>以天神<num value="690">六百九十</num>位從祀<pc>。</pc>今惟有<num value="5">五</num>方上帝及<num value="5">五</num>人神<num value="17">十七</num>位<pc>，</pc>天皇大帝以下並不設位<pc>。</pc>且太昊<pc>、</pc>勾芒<pc>，</pc>惟孟夏雩祀<pc>、</pc>季秋大享及之<pc>，</pc>今乃祀於冬至<pc>，</pc>恐未協宜<pc>。</pc>
+<quote>准禮<pc>，</pc>冬至祀圜丘<pc>，</pc>有司攝事<pc>，</pc>以天神<num value="690">六百九十</num>位從祀<pc>。</pc>今惟有<num value="5">五</num>方上帝及<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>神<num value="17">十七</num>位<pc>，</pc>天皇大帝以下並不設位<pc>。</pc>且太昊<pc>、</pc>勾芒<pc>，</pc>惟孟夏雩祀<pc>、</pc>季秋大享及之<pc>，</pc>今乃祀於冬至<pc>，</pc>恐未協宜<pc>。</pc>
 </quote>
 <pc>」</pc>翰林學士晁迥等言<pc>：</pc>
 <pc>「</pc>
@@ -222,7 +224,8 @@
 <num value="5">五</num>方帝<pc>、</pc>日月<pc>、</pc>
 <num value="5">五</num>星<pc>、</pc>中官<pc>、</pc>外官<pc>、</pc>眾星總<num value="687">六百八十七</num>位<pc>；</pc>雩祀<pc>、</pc>大享<pc>，</pc>昊天<pc>、</pc>配帝<pc>、</pc>
 <num value="5">五</num>天帝<pc>、</pc>
-<num value="5">五</num>人帝<pc>、</pc>
+<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>帝<pc>、</pc>
 <num value="5">五</num>官總<num value="17">十七</num>位<pc>；</pc>方丘<pc>，</pc>祭皇地祇<pc>、</pc>配帝<pc>、</pc>神州<pc>、</pc>嶽鎮<pc>、</pc>海瀆<num value="71">七十一</num>位<pc>。</pc>今司天監所設圜丘<pc>、</pc>雩祀<pc>、</pc>明堂<pc>、</pc>方丘並<num value="70">七十</num>位<pc>，</pc>即是方丘有嶽<pc>、</pc>瀆從祀<pc>，</pc>圜丘無星辰<pc>，</pc>而反以人帝從祀<pc>。</pc>望如奭請<pc>，</pc>以<pc>《</pc>
 <title>通禮</title>
 <pc>》</pc>及神位為定<pc>，</pc>其有增益者如後敕<pc>。</pc>
@@ -247,7 +250,7 @@
 </p>
 </div>
 <div>
-<p>　　太祖乾德元年<pc>，</pc>始有事於南郊<pc>。</pc>自<date>
+<p>　　太祖乾德元年<pc>，</pc>始有事於南郊<pc>。</pc>自<date when="null">
 <num value="5">五</num>代</date>以來<pc>，</pc>喪亂相繼<pc>，</pc>典章制度<pc>，</pc>多所散逸<pc>。</pc>至是<pc>，</pc>詔有司講求遺逸<pc>，</pc>遵行典故<pc>，</pc>以副寅恭之意<pc>。</pc>是歲<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <measure quantity="16" unit="days">
@@ -388,7 +391,9 @@
 <num value="1">一</num>享<pc>，</pc>不敢憚勞也<pc>。</pc>
 </quote>
 <pc>」</pc>
-<num value="3">三</num>獻終<pc>，</pc>增禮生<num value="7">七</num>人<pc>，</pc>各引本室太祝升殿<pc>，</pc>徹豆<pc>。</pc>
+<num value="3">三</num>獻終<pc>，</pc>增禮生<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>，</pc>各引本室太祝升殿<pc>，</pc>徹豆<pc>。</pc>
 <measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>
 <pc>，</pc>又齋長春殿<pc>，</pc>謝玉清昭應宮<pc>。</pc>禮畢<pc>，</pc>賀皇太后<pc>，</pc>比籍田<pc>，</pc>勞酒儀<pc>，</pc>略如元會<pc>。</pc>其恭謝雲<pc>：</pc>

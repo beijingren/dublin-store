@@ -24,8 +24,10 @@
 <body>
 <div type="chapter" n="313">
 <div>
-<p>　　<persName>富弼</persName>
-<pc>，</pc>字<persName>彥國</persName>
+<p>
+<name key="null" type="null">　　富</name>弼<pc>，</pc>字<name key="富弼" type="zi">
+<persName>彥國</persName>
+</name>
 <pc>，</pc>河南人<pc>。</pc>初<pc>，</pc>母韓有娠<pc>，</pc>夢旌旗鶴雁降其庭<pc>，</pc>雲有天赦<pc>，</pc>已而生弼<pc>。</pc>少篤學<pc>，</pc>有大度<pc>，</pc>
 <persName>范仲淹</persName>見而奇之<pc>，</pc>曰<pc>：</pc>
 <pc>「</pc>
@@ -56,7 +58,8 @@
 <pc>「</pc>
 <quote>用守贇既為天下笑<pc>，</pc>今益以守忠<pc>，</pc>殆與唐監軍無異<pc>。</pc>守勤<pc>、</pc>德和覆車之轍<pc>，</pc>可復蹈乎<pc>！</pc>
 </quote>
-<pc>」</pc>詔罷守忠<pc>。</pc>又請令<term>宰相</term>兼領樞密院<pc>。</pc>時西夏首領<num value="2">二</num>人來降<pc>，</pc>位補借奉職<pc>。</pc>弼言當厚賞以勸來者<pc>。</pc>事下中書<pc>，</pc>
+<pc>」</pc>詔罷守忠<pc>。</pc>又請令<term>宰相</term>兼領樞密院<pc>。</pc>時西夏首領<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>來降<pc>，</pc>位補借奉職<pc>。</pc>弼言當厚賞以勸來者<pc>。</pc>事下中書<pc>，</pc>
 <term>宰相</term>初不知也<pc>。</pc>弼嘆曰<pc>：</pc>
 <pc>「</pc>
 <quote>此豈小事<pc>，</pc>而<term>宰相</term>不知邪<pc>！</pc>
@@ -233,7 +236,9 @@
 <pc>，</pc>輒遣人持酒肉飯糗慰藉<pc>，</pc>出於至誠<pc>，</pc>人人為儘力<pc>。</pc>山林陂澤之利可資以生者<pc>，</pc>聽流民擅取<pc>。</pc>死者為大冢葬之<pc>，</pc>目曰<pc>「</pc>
 <quote>叢冢</quote>
 <pc>」</pc>
-<pc>。</pc>明年<pc>，</pc>麥大熟<pc>，</pc>民各以遠近受糧歸<pc>，</pc>凡活<num value="50">五十</num>余<num value="10000">萬</num>人<pc>，</pc>募為兵者<num value="10000">萬</num>計<pc>。</pc>帝聞之<pc>，</pc>遣使褒勞<pc>，</pc>拜禮部侍郎<pc>。</pc>弼曰<pc>：</pc>
+<pc>。</pc>明年<pc>，</pc>麥大熟<pc>，</pc>民各以遠近受糧歸<pc>，</pc>凡活<num value="50">五十</num>余<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>，</pc>募為兵者<num value="10000">萬</num>計<pc>。</pc>帝聞之<pc>，</pc>遣使褒勞<pc>，</pc>拜禮部侍郎<pc>。</pc>弼曰<pc>：</pc>
 <pc>「</pc>
 <quote>此守臣職也<pc>。</pc>
 </quote>
@@ -449,8 +454,11 @@
 </p>
 </div>
 <div>
-<p>　　先是<pc>，</pc>弼用朝士李仲昌策<pc>，</pc>自澶州商胡河穿<num value="6">六</num>漯渠<pc>，</pc>入橫壠故道<pc>。</pc>北京留守賈昌朝素惡弼<pc>，</pc>陰約內侍武繼隆<pc>，</pc>令司天官<num value="2">二</num>人俟執政聚時<pc>，</pc>於殿庭抗言國家不當穿河於北方<pc>，</pc>致上體不安<pc>。</pc>彥博知其意有所在<pc>，</pc>然未有以制之<pc>，</pc>後數日<pc>，</pc>
-<num value="2">二</num>人又上言<pc>，</pc>請皇后同聽政<pc>，</pc>亦繼隆所教也<pc>。</pc>史志聰以其狀白執政<pc>。</pc>彥博視而懷之<pc>，</pc>不以示同列<pc>，</pc>而有喜色<pc>，</pc>徐召<num value="2">二</num>人詰之曰<pc>：</pc>
+<p>　　先是<pc>，</pc>弼用朝士李仲昌策<pc>，</pc>自澶州商胡河穿<num value="6">六</num>漯渠<pc>，</pc>入橫壠故道<pc>。</pc>北京留守賈昌朝素惡弼<pc>，</pc>陰約內侍武繼隆<pc>，</pc>令司天官<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>俟執政聚時<pc>，</pc>於殿庭抗言國家不當穿河於北方<pc>，</pc>致上體不安<pc>。</pc>彥博知其意有所在<pc>，</pc>然未有以制之<pc>，</pc>後數日<pc>，</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>又上言<pc>，</pc>請皇后同聽政<pc>，</pc>亦繼隆所教也<pc>。</pc>史志聰以其狀白執政<pc>。</pc>彥博視而懷之<pc>，</pc>不以示同列<pc>，</pc>而有喜色<pc>，</pc>徐召<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>詰之曰<pc>：</pc>
 <pc>「</pc>
 <quote>汝今日有所言乎<pc>？</pc>
 </quote>
@@ -463,12 +471,14 @@
 <quote>天文變異<pc>，</pc>汝職所當言也<pc>。</pc>何得輒預國家大事<pc>？</pc>汝罪當族<pc>！</pc>
 </quote>
 <pc>」</pc>
-<num value="2">二</num>人懼<pc>，</pc>色變<pc>。</pc>彥博曰<pc>：</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>懼<pc>，</pc>色變<pc>。</pc>彥博曰<pc>：</pc>
 <pc>「</pc>
 <quote>觀汝直狂愚耳<pc>，</pc>未忍治汝罪<pc>，</pc>自今無得復然<pc>。</pc>
 </quote>
 <pc>」</pc>
-<num value="2">二</num>人退<pc>，</pc>乃出狀示同列<pc>。</pc>同列皆憤怒曰<pc>：</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>退<pc>，</pc>乃出狀示同列<pc>。</pc>同列皆憤怒曰<pc>：</pc>
 <pc>「</pc>
 <quote>奴敢爾僭言<pc>，</pc>何不斬之<pc>？</pc>
 </quote>
@@ -480,12 +490,14 @@
 <pc>「</pc>
 <quote>善<pc>。</pc>
 </quote>
-<pc>」</pc>既而議遣司天官定<num value="6">六</num>漯方位<pc>，</pc>復使<num value="2">二</num>人往<pc>。</pc>繼隆白請留之<pc>，</pc>彥博曰<pc>：</pc>
+<pc>」</pc>既而議遣司天官定<num value="6">六</num>漯方位<pc>，</pc>復使<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>往<pc>。</pc>繼隆白請留之<pc>，</pc>彥博曰<pc>：</pc>
 <pc>「</pc>
 <quote>彼本不敢妄言<pc>，</pc>有教之者耳<pc>。</pc>
 </quote>
 <pc>」</pc>繼隆默不敢對<pc>。</pc>
-<num value="2">二</num>人至<num value="6">六</num>漯<pc>，</pc>恐治前罪<pc>，</pc>更言<num value="6">六</num>漯在東北<pc>，</pc>非正北也<pc>。</pc>帝疾愈<pc>，</pc>彥博等始歸第<pc>。</pc>當是時<pc>，</pc>京師業業<pc>，</pc>賴彥博<pc>、</pc>弼持重<pc>，</pc>眾心以安<pc>。</pc>沆密白帝曰<pc>：</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>至<num value="6">六</num>漯<pc>，</pc>恐治前罪<pc>，</pc>更言<num value="6">六</num>漯在東北<pc>，</pc>非正北也<pc>。</pc>帝疾愈<pc>，</pc>彥博等始歸第<pc>。</pc>當是時<pc>，</pc>京師業業<pc>，</pc>賴彥博<pc>、</pc>弼持重<pc>，</pc>眾心以安<pc>。</pc>沆密白帝曰<pc>：</pc>
 <pc>「</pc>
 <quote>陛下違豫時<pc>，</pc>彥博擅斬告反者<pc>。</pc>
 </quote>
@@ -525,7 +537,7 @@
 <pc>」</pc>彥博曰<pc>：</pc>
 <pc>「</pc>
 <quote>
-<date>國朝</date>樞密使<pc>，</pc>無位<term>宰相</term>上者<pc>，</pc>獨曹利用嘗在王曾<pc>、</pc>張知白上<pc>。</pc>臣忝知禮義<pc>，</pc>不敢效利用所為<pc>，</pc>以紊朝著<pc>。</pc>
+<date when="null">國朝</date>樞密使<pc>，</pc>無位<term>宰相</term>上者<pc>，</pc>獨曹利用嘗在王曾<pc>、</pc>張知白上<pc>。</pc>臣忝知禮義<pc>，</pc>不敢效利用所為<pc>，</pc>以紊朝著<pc>。</pc>
 </quote>
 <pc>」</pc>固辭乃止<pc>。</pc>夏人犯大順<pc>，</pc>慶帥李復圭以陳圖方略授鈐轄李信等<pc>，</pc>趣使出戰<pc>。</pc>及敗<pc>，</pc>乃妄奏信罪<pc>。</pc>彥博暴其非<pc>，</pc>
 <term>宰相</term>王安石曲誅信等<pc>，</pc>秦人冤之<pc>。</pc>慶州兵亂<pc>，</pc>彥博言於帝曰<pc>：</pc>
@@ -612,7 +624,9 @@
 </div>
 <div>
 <p>　　彥博雖窮貴極富<pc>，</pc>而平居接物謙下<pc>，</pc>尊德樂善<pc>，</pc>如恐不及<pc>。</pc>其在洛也<pc>，</pc>洛人邵雍<pc>、</pc>程灝兄弟皆以道自重<pc>，</pc>賓接之如布衣交<pc>。</pc>與<persName>富弼</persName>
-<pc>、</pc>司馬光等<num value="13">十三</num>人<pc>，</pc>用白居易<num value="9">九</num>老會故事<pc>，</pc>置酒賦詩相樂<pc>，</pc>序齒不序官<pc>，</pc>為堂<pc>，</pc>繪像其中<pc>，</pc>謂之<pc>「</pc>
+<pc>、</pc>司馬光等<measure quantity="13" unit="people">
+<num value="13">十三</num>人</measure>
+<pc>，</pc>用白居易<num value="9">九</num>老會故事<pc>，</pc>置酒賦詩相樂<pc>，</pc>序齒不序官<pc>，</pc>為堂<pc>，</pc>繪像其中<pc>，</pc>謂之<pc>「</pc>
 <quote>
 <placeName>洛陽</placeName>耆英會</quote>
 <pc>」</pc>

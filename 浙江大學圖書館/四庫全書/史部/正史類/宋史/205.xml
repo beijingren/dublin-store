@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="205">
 <div>
-<p>◎藝文<num value="4">四</num>
+<p>
+<name key="null" type="null">◎藝文</name>
+<num value="4">四</num>
 </p>
 </div>
 <div>
@@ -5272,7 +5274,7 @@
 <div>
 <p>賈昌朝<pc>《</pc>
 <title>
-<date>國朝</date>時令集解</title>
+<date when="null">國朝</date>時令集解</title>
 <pc>》</pc>
 <measure quantity="12" unit="chapters">
 <num value="12">十二</num>卷</measure>宋綬<pc>《</pc>
@@ -6129,7 +6131,9 @@
 <title>致理書</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
-<num value="10">十</num>卷</measure>盧<persName>藏用</persName>
+<num value="10">十</num>卷</measure>盧<name key="高懷德" type="zi">
+<persName>藏用</persName>
+</name>
 <pc>《</pc>
 <title>子書要略</title>
 <pc>》</pc>
@@ -6179,7 +6183,7 @@
 <pc>》</pc>
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>
-<date>南唐</date>後主李煜<pc>《</pc>
+<date when="null">南唐</date>後主李煜<pc>《</pc>
 <title>雜說</title>
 <pc>》</pc>
 <measure quantity="2" unit="chapters">

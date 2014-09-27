@@ -24,8 +24,9 @@
 <body>
 <div type="chapter" n="5">
 <div>
-<p>　　<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
+<p>
+<name key="null" type="null">　　<num value="2">二</num>
+</name>年春<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -312,7 +313,9 @@
 <pc>，</pc>契丹敗劉廷讓軍於君子館<pc>，</pc>執先鋒將賀令圖<pc>，</pc>高陽關部署楊重進死之<pc>。</pc>
 <num value="49">壬子</num>
 <pc>，</pc>建房州為保康軍<pc>，</pc>以右衛上將軍劉繼元為<term>節度使</term>
-<pc>。</pc>代州副部署盧漢贇敗契丹於土鐙堡<pc>，</pc>斬獲甚眾<pc>，</pc>殺監軍舍利<num value="2">二</num>人<pc>。</pc>
+<pc>。</pc>代州副部署盧漢贇敗契丹於土鐙堡<pc>，</pc>斬獲甚眾<pc>，</pc>殺監軍舍利<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -506,7 +509,9 @@
 <num value="58">辛酉</num>
 <pc>，</pc>置秘閤於崇文院<pc>。</pc>
 <num value="8">辛未</num>
-<pc>，</pc>感德軍<term>節度使</term>李繼捧賜姓<persName>趙</persName>氏<pc>，</pc>名保忠<pc>。</pc>
+<pc>，</pc>感德軍<term>節度使</term>李繼捧賜姓<name key="null" type="null">
+<persName>趙</persName>
+</name>氏<pc>，</pc>名保忠<pc>。</pc>
 <num value="9">壬申</num>
 <pc>，</pc>以保忠為定難軍<term>節度使</term>
 <pc>。</pc>
@@ -1007,7 +1012,8 @@
 <num value="38">辛丑</num>
 <pc>，</pc>親試諸科舉人<pc>。</pc>
 <num value="55">戊午</num>
-<pc>，</pc>以高麗賓貢進士<num value="40">四十</num>人並為秘書省秘書郎<pc>，</pc>遣還<pc>。</pc>
+<pc>，</pc>以高麗賓貢進士<measure quantity="40" unit="people">
+<num value="40">四十</num>人</measure>並為秘書省秘書郎<pc>，</pc>遣還<pc>。</pc>
 <num value="57">庚申</num>
 <pc>，</pc>帝幸金明池觀水戲<pc>，</pc>縱京城觀者<pc>，</pc>賜高年白金器皿<pc>。</pc>
 </p>
@@ -1027,11 +1033,13 @@
 <num value="31">甲午</num>朔<pc>，</pc>御文德殿<pc>，</pc>
 <num value="100">百</num>官入閤<pc>。</pc>
 <num value="39">壬寅</num>
-<pc>，</pc>詔御史府所斷徒罪以上獄具<pc>，</pc>令尚書丞郎<pc>、</pc>兩省給舍<num value="1">一</num>人慮問<pc>。</pc>
+<pc>，</pc>詔御史府所斷徒罪以上獄具<pc>，</pc>令尚書丞郎<pc>、</pc>兩省給舍<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>慮問<pc>。</pc>
 <num value="44">丁未</num>
 <pc>，</pc>戶部郎中田錫<pc>、</pc>通判殿中丞郭渭坐稽留刑獄<pc>，</pc>並責州團練副使<pc>，</pc>不簽署州事<pc>。</pc>
 <num value="45">戊申</num>
-<pc>，</pc>詔太醫署良醫視京城病者<pc>，</pc>賜錢<num value="500000">五十萬</num>具藥<pc>，</pc>中黃門<num value="1">一</num>人按視之<pc>。</pc>
+<pc>，</pc>詔太醫署良醫視京城病者<pc>，</pc>賜錢<num value="500000">五十萬</num>具藥<pc>，</pc>中黃門<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>按視之<pc>。</pc>
 <num value="46">己酉</num>
 <pc>，</pc>以旱遣使分行諸路決獄<pc>。</pc>是夕<pc>，</pc>雨<pc>。</pc>
 <num value="48">辛亥</num>
@@ -1146,7 +1154,8 @@
 <num value="59">壬戌</num>
 <pc>，</pc>召賜京城高年帛<pc>，</pc>
 <measure quantity="100" unit="years">
-<num value="100">百</num>歲</measure>者<num value="1">一</num>人加賜塗金帶<pc>。</pc>是日<pc>，</pc>雨雪<pc>，</pc>大寒<pc>，</pc>再遣中使賜孤老貧窮人<num value="1000">千</num>錢<pc>、</pc>米炭<pc>。</pc>置昭宣使<pc>。</pc>
+<num value="100">百</num>歲</measure>者<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>加賜塗金帶<pc>。</pc>是日<pc>，</pc>雨雪<pc>，</pc>大寒<pc>，</pc>再遣中使賜孤老貧窮人<num value="1000">千</num>錢<pc>、</pc>米炭<pc>。</pc>置昭宣使<pc>。</pc>
 <num value="60">癸亥</num>
 <pc>，</pc>廢沿江榷貨<num value="8">八</num>務<pc>。</pc>
 <num value="2">乙丑</num>
@@ -1216,7 +1225,9 @@
 <num value="42">乙巳</num>
 <pc>，</pc>以給事中封駁隸銀台<pc>、</pc>通進司<pc>。</pc>
 <num value="43">丙午</num>
-<pc>，</pc>命侍從舉任才堪<num value="5000">五千</num>戶以上縣令者<num value="2">二</num>人<pc>。</pc>自<measure quantity="7" unit="months">
+<pc>，</pc>命侍從舉任才堪<num value="5000">五千</num>戶以上縣令者<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>自<measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>雨<pc>，</pc>至是不止<pc>。</pc>是月<pc>，</pc>河水溢<pc>，</pc>壞澶州<pc>；</pc>江溢<pc>，</pc>陷涪州<pc>。</pc>詔溺死者給斂具<pc>，</pc>澶人<num value="1000">千</num>錢<pc>，</pc>涪人鐵錢<num value="3000">三千</num>
 <pc>，</pc>仍發廩以振<pc>。</pc>
 </p>
@@ -1357,7 +1368,8 @@
 <num value="1">一</num>年</measure>
 <pc>。</pc>
 <num value="13">丙子</num>
-<pc>，</pc>磔李順黨<num value="8">八</num>人于鳳翔市<pc>。</pc>
+<pc>，</pc>磔李順黨<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>于鳳翔市<pc>。</pc>
 <num value="17">庚辰</num>
 <pc>，</pc>初伏<pc>，</pc>帝親書綾扇賜近臣<pc>。</pc>
 </p>
@@ -1489,7 +1501,9 @@
 <num value="58">辛酉</num>
 <pc>，</pc>上御乾元門觀燈<pc>。</pc>
 <num value="60">癸亥</num>
-<pc>，</pc>契丹大將韓德威誘党項勒浪<pc>、</pc>嵬族自振武犯邊<pc>，</pc>永安<term>節度使</term>折御卿邀擊<pc>，</pc>敗之于子河汊<pc>，</pc>勒浪等乘亂反擊德威<pc>，</pc>遂殺其將突厥大尉<pc>、</pc>司徒<pc>、</pc>舍利等<pc>，</pc>獲吐渾首領<num value="1">一</num>人<pc>，</pc>德威僅以身免<pc>。</pc>
+<pc>，</pc>契丹大將韓德威誘党項勒浪<pc>、</pc>嵬族自振武犯邊<pc>，</pc>永安<term>節度使</term>折御卿邀擊<pc>，</pc>敗之于子河汊<pc>，</pc>勒浪等乘亂反擊德威<pc>，</pc>遂殺其將突厥大尉<pc>、</pc>司徒<pc>、</pc>舍利等<pc>，</pc>獲吐渾首領<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>德威僅以身免<pc>。</pc>
 <num value="5">戊辰</num>
 <pc>，</pc>以翰林學士錢若水為右<term>諫議大夫</term>
 <pc>、</pc>同知樞密院事<pc>，</pc>樞密副使劉昌言罷為給事中<pc>。</pc>以宣祖舊第作洞真宮成<pc>。</pc>
@@ -1528,7 +1542,9 @@
 <num value="21">甲申</num>
 <pc>，</pc>以宣徽北院使<pc>、</pc>同知樞密院事趙鎔知樞密院事<pc>。</pc>
 <num value="22">乙酉</num>
-<pc>，</pc>契丹犯雄州<pc>，</pc>知州何承矩擊敗之<pc>，</pc>斬其鐵林大將<num value="1">一</num>人<pc>。</pc>
+<pc>，</pc>契丹犯雄州<pc>，</pc>知州何承矩擊敗之<pc>，</pc>斬其鐵林大將<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>
 <num value="38">辛丑</num>
 <pc>，</pc>遣使分決諸路刑獄<pc>，</pc>劫賊止誅首惡<pc>，</pc>降流罪以下<num value="1">一</num>等<pc>。</pc>
 <num value="39">壬寅</num>
@@ -1700,7 +1716,9 @@
 <pc>，</pc>右僕射宋琪薨<pc>。</pc>詔川峽諸州民家先藏兵器者<pc>，</pc>限<measure quantity="100" unit="days">
 <num value="100">百</num>日</measure>悉送官<pc>，</pc>匿不以聞者斬<pc>。</pc>
 <num value="16">己卯</num>
-<pc>，</pc>夏州<pc>、</pc>延州行營言破李繼遷於烏白池<pc>，</pc>獲未幕軍主<pc>、</pc>吃囉指揮使等<num value="27">二十七</num>人<pc>，</pc>繼遷遁<pc>。</pc>
+<pc>，</pc>夏州<pc>、</pc>延州行營言破李繼遷於烏白池<pc>，</pc>獲未幕軍主<pc>、</pc>吃囉指揮使等<measure quantity="27" unit="people">
+<num value="27">二十七</num>人</measure>
+<pc>，</pc>繼遷遁<pc>。</pc>
 <num value="21">甲申</num>
 <pc>，</pc>會州觀察使<pc>、</pc>環慶副都部署田紹斌貶右監門衛率府副率<pc>、</pc>虢州安置<pc>。</pc>
 <num value="23">丙戌</num>

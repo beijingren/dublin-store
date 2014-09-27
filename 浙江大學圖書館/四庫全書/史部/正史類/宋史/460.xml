@@ -23,11 +23,15 @@
 <text>
 <body>
 <div type="chapter" n="460">
+<name key="null" type="null">
 <div>
 <p>◎列女</p>
 </div>
+</name>
 <div>
-<p>朱娥張氏彭列女郝節娥朱氏崔氏趙氏丁氏項氏王氏<num value="2">二</num>婦徐氏榮氏何氏董氏譚氏劉氏張氏師氏陳堂前節婦廖氏劉當可母<persName>曾</persName>氏婦王袤妻塗端友妻詹氏女劉生妻謝泌妻謝枋得妻王貞婦趙淮妾譚氏婦吳中孚妻呂仲洙女林老女童氏女韓氏女王氏婦劉仝子妻<pc>（</pc>毛惜惜附<pc>）</pc>
+<p>朱娥張氏彭列女郝節娥朱氏崔氏趙氏丁氏項氏王氏<num value="2">二</num>婦徐氏榮氏何氏董氏譚氏劉氏張氏師氏陳堂前節婦廖氏劉當可母<name key="null" type="maternal">
+<persName>曾</persName>
+</name>氏婦王袤妻塗端友妻詹氏女劉生妻謝泌妻謝枋得妻王貞婦趙淮妾譚氏婦吳中孚妻呂仲洙女林老女童氏女韓氏女王氏婦劉仝子妻<pc>（</pc>毛惜惜附<pc>）</pc>
 </p>
 </div>
 <div>
@@ -219,7 +223,9 @@
 </p>
 </div>
 <div>
-<p>張氏<pc>，</pc>羅江士人女<pc>。</pc>其母<persName>楊</persName>氏寡居<pc>。</pc>
+<p>張氏<pc>，</pc>羅江士人女<pc>。</pc>其母<name key="null" type="maternal">
+<persName>楊</persName>
+</name>氏寡居<pc>。</pc>
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
 <pc>，</pc>親黨有婚會<pc>，</pc>母女偕往<pc>，</pc>其典庫雍乙者從行<pc>。</pc>既就坐<pc>，</pc>乙先歸<pc>。</pc>會罷<pc>，</pc>楊氏歸<pc>，</pc>則乙死於庫<pc>，</pc>莫知殺者主名<pc>。</pc>提點成都府路刑獄張文饒疑楊有私<pc>，</pc>懼為人知<pc>，</pc>殺乙以滅口<pc>，</pc>遂命石泉軍劾治<pc>。</pc>楊言與女同榻<pc>，</pc>實無他<pc>。</pc>遂逮其女<pc>，</pc>考掠無實<pc>。</pc>吏乃掘地為坑<pc>，</pc>縛母於其內<pc>，</pc>旁列熾火<pc>，</pc>間以水沃之<pc>，</pc>絕而複蘇者屢<pc>，</pc>辭終不服<pc>。</pc>
@@ -267,17 +273,25 @@
 <div>
 <p>初<pc>，</pc>堂前歸陳<pc>，</pc>夫之妹尚幼<pc>，</pc>堂前教育之<pc>，</pc>及笄<pc>，</pc>以厚禮嫁遣<pc>。</pc>舅姑亡<pc>，</pc>妹求分財產<pc>，</pc>堂前盡遺室中所有<pc>，</pc>無靳色<pc>。</pc>不<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>妹所得財為夫所罄<pc>，</pc>乃歸悔<pc>。</pc>堂前為買田置屋<pc>，</pc>撫育諸甥無異己子<pc>。</pc>親屬有貧窶不能自存者<pc>，</pc>收養婚嫁至<num value="120">三四十</num>人<pc>，</pc>自後宗族無慮<num value="100">百</num>數<pc>。</pc>裏有故家甘氏<pc>，</pc>貧而質其季女於酒家<pc>，</pc>堂前出金贖之<pc>，</pc>俾有所歸<pc>。</pc>子孫遵其遺訓<pc>，</pc>
+<pc>，</pc>妹所得財為夫所罄<pc>，</pc>乃歸悔<pc>。</pc>堂前為買田置屋<pc>，</pc>撫育諸甥無異己子<pc>。</pc>親屬有貧窶不能自存者<pc>，</pc>收養婚嫁至<measure quantity="120" unit="people">
+<num value="120">三四十</num>人</measure>
+<pc>，</pc>自後宗族無慮<num value="100">百</num>數<pc>。</pc>裏有故家甘氏<pc>，</pc>貧而質其季女於酒家<pc>，</pc>堂前出金贖之<pc>，</pc>俾有所歸<pc>。</pc>子孫遵其遺訓<pc>，</pc>
 <num value="5">五</num>世同居<pc>，</pc>並以孝友儒業著聞<pc>。</pc>乾道<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
 <pc>，</pc>詔旌表其門閭雲<pc>。</pc>
 </p>
 </div>
 <div>
-<p>廖氏<pc>，</pc>臨江軍貢士歐陽<persName>希文</persName>之妻也<pc>。</pc>紹興<measure quantity="3" unit="years">
+<p>廖氏<pc>，</pc>臨江軍貢士歐陽<name key="范仲淹" type="zi">
+<persName>希文</persName>
+</name>之妻也<pc>。</pc>紹興<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>春<pc>，</pc>盜起建昌<pc>，</pc>號<pc>“</pc>白氈笠<pc>”</pc>
 <pc>，</pc>過臨江<pc>，</pc>
-<persName>希文</persName>與妻共挾其母傅走山中<pc>，</pc>為賊所追<pc>。</pc>廖以身蔽姑<pc>，</pc>使<persName>希文</persName>負之逃<pc>。</pc>賊執廖氏<pc>，</pc>廖正色叱之<pc>。</pc>賊知不可屈<pc>，</pc>揮刃斷其耳與臂<pc>，</pc>廖猶謂賊曰<pc>：</pc>
+<name key="范仲淹" type="zi">
+<persName>希文</persName>
+</name>與妻共挾其母傅走山中<pc>，</pc>為賊所追<pc>。</pc>廖以身蔽姑<pc>，</pc>使<name key="范仲淹" type="zi">
+<persName>希文</persName>
+</name>負之逃<pc>。</pc>賊執廖氏<pc>，</pc>廖正色叱之<pc>。</pc>賊知不可屈<pc>，</pc>揮刃斷其耳與臂<pc>，</pc>廖猶謂賊曰<pc>：</pc>
 <pc>“</pc>爾輩叛逆至此<pc>，</pc>我即死<pc>，</pc>爾輩亦不久屠戮<pc>。</pc>
 <pc>”</pc>語絕而仆<pc>。</pc>鄉人義而葬之<pc>，</pc>號<pc>“</pc>廖節婦墓<pc>”</pc>
 <pc>。</pc>
@@ -292,7 +306,9 @@
 <num value="3">三</num>年</measure>
 <pc>，</pc>就養興元<pc>。</pc>大元兵破蜀<pc>，</pc>提刑龐授檄當可詣行司議事<pc>。</pc>當可捧檄白母<pc>，</pc>王氏毅然勉之曰<pc>：</pc>
 <pc>“</pc>汝食君祿<pc>，</pc>豈可辭難<pc>。</pc>
-<pc>”</pc>當可行<pc>，</pc>大元軍屠興元<pc>，</pc>王氏義不辱<pc>，</pc>大罵投江而死<pc>。</pc>其婦杜氏及婢仆<num value="5">五</num>人<pc>，</pc>鹹及於難<pc>。</pc>當可聞變<pc>，</pc>奔赴江滸<pc>，</pc>得母喪以歸<pc>。</pc>詔贈和義郡太夫人<pc>。</pc>
+<pc>”</pc>當可行<pc>，</pc>大元軍屠興元<pc>，</pc>王氏義不辱<pc>，</pc>大罵投江而死<pc>。</pc>其婦杜氏及婢仆<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>，</pc>鹹及於難<pc>。</pc>當可聞變<pc>，</pc>奔赴江滸<pc>，</pc>得母喪以歸<pc>。</pc>詔贈和義郡太夫人<pc>。</pc>
 </p>
 </div>
 <div>
@@ -303,10 +319,13 @@
 <p>
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
-<pc>，</pc>賊遣數<num value="10">十</num>人來索婦女金帛<pc>，</pc>晏召其田丁諭曰<pc>：</pc>
+<pc>，</pc>賊遣數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>來索婦女金帛<pc>，</pc>晏召其田丁諭曰<pc>：</pc>
 <pc>“</pc>汝曹衣食我家<pc>，</pc>賊求婦女<pc>，</pc>意實在我<pc>。</pc>汝念主母<pc>，</pc>各當用命<pc>，</pc>不勝即殺我<pc>。</pc>
 <pc>”</pc>因解首飾悉與田丁<pc>，</pc>田丁感激思奮<pc>。</pc>晏自捶鼓<pc>，</pc>使諸婢鳴金<pc>，</pc>以作其勇<pc>。</pc>賊複退敗<pc>。</pc>鄰鄉知其可依<pc>，</pc>挈家依黃牛山避難者甚眾<pc>。</pc>有不能自給者<pc>，</pc>晏悉以家糧助之<pc>。</pc>於是聚眾日廣<pc>，</pc>複與倫<pc>、</pc>
-<num value="10000">萬</num>全共措置<pc>，</pc>析黃牛山為<num value="5">五</num>砦<pc>，</pc>選少壯為義丁<pc>，</pc>有急則互相應援以為犄角<pc>，</pc>賊屢攻弗克<pc>。</pc>所活老幼數<num value="10000">萬</num>人<pc>。</pc>
+<num value="10000">萬</num>全共措置<pc>，</pc>析黃牛山為<num value="5">五</num>砦<pc>，</pc>選少壯為義丁<pc>，</pc>有急則互相應援以為犄角<pc>，</pc>賊屢攻弗克<pc>。</pc>所活老幼數<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -391,7 +410,9 @@
 </p>
 </div>
 <div>
-<p>枋得母<persName>桂</persName>氏尤賢達<pc>，</pc>自枋得逋播<pc>，</pc>婦與孫幽遠方<pc>，</pc>處之泰然<pc>，</pc>無<num value="1">一</num>怨語<pc>。</pc>人問之<pc>，</pc>曰<pc>：</pc>
+<p>枋得母<name key="null" type="maternal">
+<persName>桂</persName>
+</name>氏尤賢達<pc>，</pc>自枋得逋播<pc>，</pc>婦與孫幽遠方<pc>，</pc>處之泰然<pc>，</pc>無<num value="1">一</num>怨語<pc>。</pc>人問之<pc>，</pc>曰<pc>：</pc>
 <pc>“</pc>義所當然也<pc>。</pc>
 <pc>”</pc>人稱為賢母雲<pc>。</pc>
 </p>

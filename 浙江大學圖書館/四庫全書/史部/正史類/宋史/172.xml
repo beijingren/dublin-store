@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="172">
 <div>
-<p>◎職官<num value="12">十二</num>
+<p>
+<name key="null" type="null">◎職官</name>
+<num value="12">十二</num>
 <pc>（</pc>奉祿製下<pc>）</pc>○增給公用錢給券職田增給</p>
 </div>
 <div>
@@ -318,7 +320,10 @@
 <div>
 <p>大中祥符<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>詔外任官不得挈家屬赴任者<pc>，</pc>許分添給錢贍本家<pc>。</pc>添給羊<pc>，</pc>凡外任給羊有<num value="20">二十</num>口至<num value="2">二</num>口<pc>，</pc>凡<num value="6">六</num>等<pc>。</pc>給米<pc>，</pc>有<num value="20">二十</num>石至<num value="2">二</num>石<pc>，</pc>凡<num value="7">七</num>等<pc>。</pc>給麵<pc>，</pc>有<num value="30">三十</num>石至<num value="2">二</num>石<pc>，</pc>凡<num value="7">七</num>等<pc>。</pc>傔從<pc>，</pc>有<num value="20">二十</num>人至<num value="2">二</num>人<pc>，</pc>凡<num value="7">七</num>等<pc>。</pc>馬<pc>，</pc>有<num value="10">十</num>匹至<num value="1">一</num>匹<pc>，</pc>凡<num value="6">六</num>等<pc>。</pc>舊誌數不同<pc>。</pc>今從<pc>《</pc>
+<pc>，</pc>詔外任官不得挈家屬赴任者<pc>，</pc>許分添給錢贍本家<pc>。</pc>添給羊<pc>，</pc>凡外任給羊有<num value="20">二十</num>口至<num value="2">二</num>口<pc>，</pc>凡<num value="6">六</num>等<pc>。</pc>給米<pc>，</pc>有<num value="20">二十</num>石至<num value="2">二</num>石<pc>，</pc>凡<num value="7">七</num>等<pc>。</pc>給麵<pc>，</pc>有<num value="30">三十</num>石至<num value="2">二</num>石<pc>，</pc>凡<num value="7">七</num>等<pc>。</pc>傔從<pc>，</pc>有<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>至<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>凡<num value="7">七</num>等<pc>。</pc>馬<pc>，</pc>有<num value="10">十</num>匹至<num value="1">一</num>匹<pc>，</pc>凡<num value="6">六</num>等<pc>。</pc>舊誌數不同<pc>。</pc>今從<pc>《</pc>
 <title>
 <num value="4">四</num>朝誌</title>
 <pc>》</pc>
@@ -426,11 +431,17 @@
 <p>通侍大夫<pc>。</pc>
 <pc>（</pc>在中散大夫之下<pc>。</pc>料錢<num value="50">五十</num>貫<pc>，</pc>祿粟<num value="25">二十五</num>石<pc>。</pc>春絹<num value="7">七</num>匹<pc>，</pc>冬絹<num value="10">十</num>匹<pc>，</pc>綿<num value="30">三十</num>兩<pc>。</pc>
 <pc>）</pc>傔<pc>（</pc>
-<num value="20">二十</num>人<pc>，</pc>馬<num value="3">三</num>匹<pc>。</pc>
+<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>馬<num value="3">三</num>匹<pc>。</pc>
 <pc>）</pc>正侍大夫<pc>，</pc>宣正大夫<pc>，</pc>履正大夫<pc>，</pc>協忠大夫<pc>，</pc>中侍大夫<pc>。</pc>
-<pc>（</pc>以上在中散大夫之下<pc>。</pc>料錢各<num value="37">三十七</num>貫<pc>，</pc>祿粟<num value="25">二十五</num>石<pc>，</pc>春絹<num value="7">七</num>匹<pc>，</pc>冬絹<num value="10">十</num>匹<pc>，</pc>綿<num value="30">三十</num>兩<pc>，</pc>傔<num value="20">二十</num>人<pc>，</pc>馬<num value="3">三</num>匹<pc>。</pc>
+<pc>（</pc>以上在中散大夫之下<pc>。</pc>料錢各<num value="37">三十七</num>貫<pc>，</pc>祿粟<num value="25">二十五</num>石<pc>，</pc>春絹<num value="7">七</num>匹<pc>，</pc>冬絹<num value="10">十</num>匹<pc>，</pc>綿<num value="30">三十</num>兩<pc>，</pc>傔<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>馬<num value="3">三</num>匹<pc>。</pc>
 <pc>）</pc>中亮大夫<pc>。</pc>
-<pc>（</pc>在中散大夫之下<pc>。</pc>料錢<num value="37">三十七</num>貫<pc>，</pc>祿粟<num value="25">二十五</num>石<pc>，</pc>春絹<num value="7">七</num>匹<pc>，</pc>冬絹<num value="10">十</num>匹<pc>，</pc>綿<num value="30">三十</num>兩<pc>，</pc>傔<num value="20">二十</num>人<pc>，</pc>馬<num value="3">三</num>匹<pc>。</pc>
+<pc>（</pc>在中散大夫之下<pc>。</pc>料錢<num value="37">三十七</num>貫<pc>，</pc>祿粟<num value="25">二十五</num>石<pc>，</pc>春絹<num value="7">七</num>匹<pc>，</pc>冬絹<num value="10">十</num>匹<pc>，</pc>綿<num value="30">三十</num>兩<pc>，</pc>傔<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>馬<num value="3">三</num>匹<pc>。</pc>
 <pc>）</pc>中衛大夫<pc>，</pc>翊衛大夫<pc>，</pc>親衛大夫<pc>，</pc>
 <pc>（</pc>在中散大夫之下<pc>，</pc>防禦使之上<pc>。</pc>
 <pc>）</pc>拱衛大夫<pc>，</pc>左武大夫<pc>，</pc>右武大夫<pc>。</pc>
@@ -789,29 +800,65 @@
 <pc>，</pc>
 <num value="100">一百</num>石<pc>，</pc>紹興<pc>：</pc>
 <num value="3">三</num>公<pc>，</pc>侍中<pc>，</pc>中書<pc>、</pc>尚書令<pc>，</pc>左<pc>、</pc>右仆射同平章事<pc>，</pc>並為<term>宰相</term>
-<pc>。</pc>隨身<num value="70">七十</num>人<pc>。</pc>知樞密院事<pc>，</pc>參知政事<pc>，</pc>樞密副使<pc>，</pc>同知樞密院事<pc>，</pc>
-<num value="100">一百</num>石<pc>，</pc>隨身<num value="50">五十</num>人<pc>。</pc>太師<pc>、</pc>太傅<pc>，</pc>太保<pc>，</pc>少師<pc>，</pc>少傅<pc>，</pc>少保<pc>，</pc>
-<num value="100">一百</num>石<pc>，</pc>舊製<num value="50">百五十</num>石<pc>。</pc>隨身<num value="100">一百</num>人<pc>。</pc>太尉<pc>，</pc>
-<num value="100">一百</num>石<pc>，</pc>隨身<num value="50">五十</num>人<pc>。</pc>
+<pc>。</pc>隨身<measure quantity="70" unit="people">
+<num value="70">七十</num>人</measure>
+<pc>。</pc>知樞密院事<pc>，</pc>參知政事<pc>，</pc>樞密副使<pc>，</pc>同知樞密院事<pc>，</pc>
+<num value="100">一百</num>石<pc>，</pc>隨身<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>。</pc>太師<pc>、</pc>太傅<pc>，</pc>太保<pc>，</pc>少師<pc>，</pc>少傅<pc>，</pc>少保<pc>，</pc>
+<num value="100">一百</num>石<pc>，</pc>舊製<num value="50">百五十</num>石<pc>。</pc>隨身<measure quantity="100" unit="people">
+<num value="100">一百</num>人</measure>
+<pc>。</pc>太尉<pc>，</pc>
+<num value="100">一百</num>石<pc>，</pc>隨身<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>。</pc>
 <term>節度使</term>
-<pc>，</pc>祿粟已具奉祿類<pc>。</pc>元隨<num value="50">五十</num>人<pc>，</pc>承宣使<pc>，</pc>元隨<num value="50">五十</num>人<pc>。</pc>觀察使<pc>，</pc>防禦使<pc>，</pc>元隨<num value="30">三十</num>人<pc>。</pc>團練使<pc>，</pc>已上並具奉祿類<pc>。</pc>元隨<num value="30">三十</num>人<pc>。</pc>諸州<term>刺史</term>
-<pc>，</pc>同上<pc>。</pc>元隨<num value="20">二十</num>人<pc>，</pc>通侍大夫<pc>，</pc>正侍大夫<pc>，</pc>宣正大夫<pc>，</pc>履正<pc>、</pc>協忠<pc>、</pc>中侍<pc>、</pc>中亮大夫<pc>，</pc>祿粟<pc>、</pc>傔人並具奉祿類<pc>。</pc>捧日<pc>、</pc>天武左右廂都旨揮使遙郡團練使<pc>，</pc>
-<num value="50">五十</num>石<pc>，</pc>傔<num value="10">十</num>人<pc>。</pc>
+<pc>，</pc>祿粟已具奉祿類<pc>。</pc>元隨<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>，</pc>承宣使<pc>，</pc>元隨<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>。</pc>觀察使<pc>，</pc>防禦使<pc>，</pc>元隨<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>。</pc>團練使<pc>，</pc>已上並具奉祿類<pc>。</pc>元隨<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>。</pc>諸州<term>刺史</term>
+<pc>，</pc>同上<pc>。</pc>元隨<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>通侍大夫<pc>，</pc>正侍大夫<pc>，</pc>宣正大夫<pc>，</pc>履正<pc>、</pc>協忠<pc>、</pc>中侍<pc>、</pc>中亮大夫<pc>，</pc>祿粟<pc>、</pc>傔人並具奉祿類<pc>。</pc>捧日<pc>、</pc>天武左右廂都旨揮使遙郡團練使<pc>，</pc>
+<num value="50">五十</num>石<pc>，</pc>傔<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>。</pc>
 <pc>（</pc>龍<pc>、</pc>神衛右廂都指揮使帶遙郡團練使同<pc>。</pc>
 <pc>）</pc>殿前諸班直都<term>虞候</term>
 <pc>，</pc>諸軍都指揮使遙郡<term>刺史</term>
 <pc>，</pc>
-<num value="25">二十五</num>石<pc>，</pc>傔<num value="5">五</num>人<pc>。</pc>
+<num value="25">二十五</num>石<pc>，</pc>傔<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>。</pc>
 <pc>（</pc>龍<pc>、</pc>神衛諸軍都指揮使帶遙郡<term>刺史</term>同<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
-<p>諸學士添支米已附於前<pc>，</pc>今載<pc>：</pc>觀文殿大學士<pc>，</pc>傔<num value="20">二十</num>人<pc>。</pc>觀文殿學士<pc>，</pc>資政<pc>、</pc>保和殿大學士<pc>，</pc>傔<num value="10">十</num>人<pc>。</pc>資政<pc>、</pc>保和殿學士<pc>，</pc>龍圖<pc>、</pc>天章<pc>、</pc>寶文<pc>、</pc>顯謨<pc>、</pc>徽猷<pc>、</pc>敷文閣學士<pc>，</pc>傔<num value="7">七</num>人<pc>。</pc>樞密都承旨<pc>，</pc>傔<num value="10">十</num>人<pc>；</pc>副都承旨<pc>、</pc>諸房副承旨<pc>，</pc>
-<num value="7">七</num>人<pc>。</pc>其餘京畿守令<pc>、</pc>幕職曹官<pc>，</pc>自<num value="10">十</num>石<pc>、</pc>
+<p>諸學士添支米已附於前<pc>，</pc>今載<pc>：</pc>觀文殿大學士<pc>，</pc>傔<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>。</pc>觀文殿學士<pc>，</pc>資政<pc>、</pc>保和殿大學士<pc>，</pc>傔<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>。</pc>資政<pc>、</pc>保和殿學士<pc>，</pc>龍圖<pc>、</pc>天章<pc>、</pc>寶文<pc>、</pc>顯謨<pc>、</pc>徽猷<pc>、</pc>敷文閣學士<pc>，</pc>傔<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>。</pc>樞密都承旨<pc>，</pc>傔<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>；</pc>副都承旨<pc>、</pc>諸房副承旨<pc>，</pc>
+<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>。</pc>其餘京畿守令<pc>、</pc>幕職曹官<pc>，</pc>自<num value="10">十</num>石<pc>、</pc>
 <num value="7">七</num>石<pc>、</pc>
-<num value="5">五</num>石至於<num value="2">二</num>石各有等<pc>。</pc>中書堂後官提點<num value="5">五</num>房公事<pc>，</pc>逐房副承旨<pc>，</pc>自<num value="7">七</num>人<pc>、</pc>
-<num value="5">五</num>人至於<num value="1">一</num>人各有數<pc>。</pc>因仍前製<pc>，</pc>舊史已書<pc>。</pc>凡任<term>宰相</term>
+<num value="5">五</num>石至於<num value="2">二</num>石各有等<pc>。</pc>中書堂後官提點<num value="5">五</num>房公事<pc>，</pc>逐房副承旨<pc>，</pc>自<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>、</pc>
+<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>至於<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>各有數<pc>。</pc>因仍前製<pc>，</pc>舊史已書<pc>。</pc>凡任<term>宰相</term>
 <pc>、</pc>執政有隨身<pc>，</pc>太尉至<term>刺史</term>有元隨<pc>，</pc>餘止傔人<pc>。</pc>
 </p>
 </div>
@@ -906,7 +953,7 @@
 </div>
 <div>
 <p>周自卿以下有圭田不稅<pc>，</pc>晉有芻田<pc>，</pc>後魏宰人之官有公田<pc>，</pc>北齊<num value="1">一</num>品以下公田有差<pc>，</pc>唐製內外官各給職田<pc>，</pc>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>以來遂廢<pc>。</pc>鹹平中<pc>，</pc>令館閣檢校故事<pc>。</pc>申定其製<pc>，</pc>以官莊及遠年逃亡田充<pc>。</pc>悉免租稅<pc>，</pc>佃戶以浮客充<pc>，</pc>所得課租均分<pc>，</pc>如鄉原例<pc>。</pc>州縣長吏給<num value="10">十</num>之<num value="5">五</num>
 <pc>。</pc>自餘差給<pc>。</pc>其兩京<pc>、</pc>大藩府<num value="40">四十</num>頃<pc>，</pc>次藩鎮<num value="35">三十五</num>頃<pc>，</pc>防禦<pc>、</pc>團練州<num value="30">三十</num>頃<pc>，</pc>中<pc>、</pc>上<term>刺史</term>州<num value="20">二十</num>頃<pc>，</pc>下州及軍<pc>、</pc>監<num value="15">十五</num>頃<pc>，</pc>邊遠小州<pc>、</pc>上縣<num value="10">十</num>頃<pc>，</pc>中縣<num value="8">八</num>頃<pc>，</pc>下縣<num value="7">七</num>頃<pc>，</pc>轉運使<pc>、</pc>副<num value="10">十</num>頃<pc>，</pc>兵馬都監押<pc>、</pc>砦主<pc>、</pc>厘務官<pc>、</pc>錄事參軍<pc>、</pc>判司等<pc>，</pc>比通判<pc>、</pc>幕職之數而均給之<pc>。</pc>
 </p>

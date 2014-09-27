@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="72">
 <div>
-<p>周天分<pc>：</pc>
+<p>
+<name key="null" type="null">周天分</name>
+<pc>：</pc>
 <num value="3868065">三百八十六萬八千六十五</num>
 <pc>、</pc>秒<num value="2">二</num>
 <pc>。</pc>
@@ -533,7 +535,9 @@
 <num value="1">一</num>日</measure>
 <pc>，</pc>朔或當定<pc>，</pc>有食應見者<pc>，</pc>其朔不進<pc>。</pc>弦<pc>、</pc>望定小餘不滿日出分<pc>，</pc>退<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
-<pc>，</pc>其望定小余雖滿此數<pc>，</pc>若有交食虧初起在日出已前者<pc>，</pc>亦如之<pc>。</pc>有月行<num value="9">九</num>道遲疾<pc>，</pc>曆有<num value="3">三</num>大<num value="2">二</num>小<pc>；</pc>若行盈縮累增損之<pc>，</pc>則有<num value="4">四</num>大<num value="3">三</num>小<pc>，</pc>理數然也<pc>，</pc>若俯循常儀<pc>，</pc>當察加時早晚<pc>，</pc>隨其所近而進<persName>退之</persName>
+<pc>，</pc>其望定小余雖滿此數<pc>，</pc>若有交食虧初起在日出已前者<pc>，</pc>亦如之<pc>。</pc>有月行<num value="9">九</num>道遲疾<pc>，</pc>曆有<num value="3">三</num>大<num value="2">二</num>小<pc>；</pc>若行盈縮累增損之<pc>，</pc>則有<num value="4">四</num>大<num value="3">三</num>小<pc>，</pc>理數然也<pc>，</pc>若俯循常儀<pc>，</pc>當察加時早晚<pc>，</pc>隨其所近而進<name key="韓愈" type="zi">
+<persName>退之</persName>
+</name>
 <pc>，</pc>不過<num value="3">三</num>大<num value="2">二</num>小<pc>。</pc>若正朔有加交<pc>，</pc>時虧在晦<pc>、</pc>
 <num value="2">二</num>正見者<pc>，</pc>消息前後<num value="1">一</num>兩月<pc>，</pc>以定大小<pc>。</pc>
 </p>
@@ -671,7 +675,9 @@
 </p>
 </div>
 <div>
-<p>求天正定朔<time when="24:00">夜半</time>入轉<pc>：</pc>因天正經朔<time when="24:00">夜半</time>入轉<pc>，</pc>若定朔大餘有進退者<pc>，</pc>亦進<persName>退之</persName>
+<p>求天正定朔<time when="24:00">夜半</time>入轉<pc>：</pc>因天正經朔<time when="24:00">夜半</time>入轉<pc>，</pc>若定朔大餘有進退者<pc>，</pc>亦進<name key="韓愈" type="zi">
+<persName>退之</persName>
+</name>
 <pc>，</pc>不則因經而定<pc>，</pc>即所求年天正定朔晨前<time when="24:00">夜半</time>入轉及其餘<pc>；</pc>以樞法退除為約分及秒<pc>，</pc>皆<num value="100">一百</num>為母<pc>。</pc>
 </p>
 </div>

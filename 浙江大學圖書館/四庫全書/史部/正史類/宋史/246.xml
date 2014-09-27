@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="246">
 <div>
-<p>◎宗室<num value="3">三</num>
+<p>
+<name key="null" type="null">◎宗室</name>
+<num value="3">三</num>
 </p>
 </div>
 <div>
@@ -90,7 +92,9 @@
 </p>
 </div>
 <div>
-<p>子<num value="9">九</num>人<pc>：</pc>孝哲<pc>，</pc>右驍衛將軍<pc>，</pc>早亡<pc>；</pc>孝奕<pc>，</pc>彰化軍節度觀察留後<pc>，</pc>贈司空<pc>、</pc>平原郡王<pc>；</pc>孝參<pc>，</pc>奉國軍<term>節度使</term>
+<p>子<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>
+<pc>：</pc>孝哲<pc>，</pc>右驍衛將軍<pc>，</pc>早亡<pc>；</pc>孝奕<pc>，</pc>彰化軍節度觀察留後<pc>，</pc>贈司空<pc>、</pc>平原郡王<pc>；</pc>孝參<pc>，</pc>奉國軍<term>節度使</term>
 <pc>，</pc>改寧武<pc>、</pc>武勝<pc>，</pc>封豫章郡王<pc>；</pc>孝永<pc>，</pc>邢州觀察使<pc>，</pc>贈司空<pc>、</pc>廣陵郡王<pc>；</pc>孝詒<pc>、</pc>孝騭<pc>、</pc>孝悅<pc>、</pc>孝穎<pc>、</pc>孝願<pc>，</pc>皆至<term>節度使</term>
 <pc>。</pc>
 </p>
@@ -141,7 +145,8 @@
 <div>
 <p>左司諫江公望上疏<pc>，</pc>以為<pc>：</pc>
 <pc>“</pc>親隙不可開<pc>，</pc>開則言可離貳<pc>；</pc>疑跡不可顯<pc>，</pc>顯則事難磨滅<pc>。</pc>陛下之得天下也<pc>，</pc>章惇嚐持異議<pc>，</pc>已有 隙跡矣<pc>。</pc>蔡王出於無心<pc>，</pc>年尚幼小<pc>，</pc>未達禍亂之萌<pc>，</pc>恬不以為恤<pc>。</pc>陛下<num value="1">一</num>切包容<pc>，</pc>已開之隙複塗<pc>，</pc>已顯之跡複泯矣<pc>。</pc>恩意渥縟<pc>，</pc>歡然不失兄弟之情<pc>。</pc>若以曖昧無根之 語<pc>，</pc>加諸至親骨肉之間<pc>，</pc>則有魏文‘相煎太急’之譏<pc>，</pc>而忘大舜親愛之道<pc>，</pc>豈治世之美事邪<pc>。</pc>臣願陛下密詔有司<pc>，</pc>凡無根之言勿形案牘<pc>，</pc>倘有瑕可指<pc>，</pc>
-<num value="1">一</num>人胸次<pc>，</pc>則 終身不忘<pc>，</pc>跡不可泯<pc>，</pc>隙不可塗<pc>，</pc>則骨肉離矣<pc>。</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>胸次<pc>，</pc>則 終身不忘<pc>，</pc>跡不可泯<pc>，</pc>隙不可塗<pc>，</pc>則骨肉離矣<pc>。</pc>
 <num value="1">一</num>有浸淫旁及蔡王之語<pc>，</pc>不識陛下將何以處之<pc>，</pc>陛下何顏見神考於太廟乎<pc>？</pc>
 <pc>”</pc>疏入<pc>，</pc>公望罷知淮陽軍<pc>。</pc>徽宗雖出公 望<pc>，</pc>然頗思其言<pc>，</pc>止治其左右<pc>。</pc>
 </p>
@@ -247,7 +252,9 @@
 </p>
 </div>
 <div>
-<p>有遺女<num value="1">一</num>人<pc>，</pc>高宗朝封樂平縣主<pc>，</pc>出適杜安石<pc>，</pc>命大宗正司主婚<pc>。</pc>
+<p>有遺女<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>高宗朝封樂平縣主<pc>，</pc>出適杜安石<pc>，</pc>命大宗正司主婚<pc>。</pc>
 </p>
 </div>
 <div>
@@ -294,7 +301,8 @@
 <p>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>上幸青城<pc>，</pc>命密院同知孫傅兼太子少傅<pc>，</pc>吏部侍郎謝克家兼太子賓客<pc>，</pc>輔太子監國<pc>，</pc>稱製行事<pc>。</pc>未幾<pc>，</pc>金人請<num value="2">二</num>帝諭太子出城<pc>。</pc>統製吳革力請留<pc>，</pc>欲以所募士微 服衛太子潰圍以出<pc>。</pc>傅不許<pc>，</pc>乃謀匿民間<pc>，</pc>別求狀類太子者並宦者<num value="2">二</num>人殺之<pc>，</pc>送金人<pc>，</pc>紿以宦者竊太子欲投獻<pc>，</pc>都人爭之<pc>，</pc>並傷太子<pc>。</pc>遲疑不決者<measure quantity="5" unit="days">
+<pc>，</pc>上幸青城<pc>，</pc>命密院同知孫傅兼太子少傅<pc>，</pc>吏部侍郎謝克家兼太子賓客<pc>，</pc>輔太子監國<pc>，</pc>稱製行事<pc>。</pc>未幾<pc>，</pc>金人請<num value="2">二</num>帝諭太子出城<pc>。</pc>統製吳革力請留<pc>，</pc>欲以所募士微 服衛太子潰圍以出<pc>。</pc>傅不許<pc>，</pc>乃謀匿民間<pc>，</pc>別求狀類太子者並宦者<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>殺之<pc>，</pc>送金人<pc>，</pc>紿以宦者竊太子欲投獻<pc>，</pc>都人爭之<pc>，</pc>並傷太子<pc>。</pc>遲疑不決者<measure quantity="5" unit="days">
 <num value="5">五</num>日</measure>
 <pc>。</pc>吳幵<pc>、</pc>莫儔 督脅甚急<pc>，</pc>範瓊恐變生<pc>，</pc>以危言讋衛士<pc>，</pc>遂擁太子與皇後共車以出<pc>。</pc>
 <num value="100">百</num>官軍吏奔隨號哭<pc>，</pc>太學諸生擁拜車前<pc>，</pc>太子呼雲<pc>：</pc>
@@ -355,7 +363,9 @@
 </p>
 </div>
 <div>
-<p>子<num value="4">四</num>人<pc>：</pc>師淳曆忠州團練使<pc>、</pc>永州防禦使<pc>，</pc>師灝<pc>、</pc>師淪<pc>、</pc>師路並補武翼大夫<pc>。</pc>孫希楙<pc>，</pc>特補保義郎<pc>。</pc>
+<p>子<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<pc>：</pc>師淳曆忠州團練使<pc>、</pc>永州防禦使<pc>，</pc>師灝<pc>、</pc>師淪<pc>、</pc>師路並補武翼大夫<pc>。</pc>孫希楙<pc>，</pc>特補保義郎<pc>。</pc>
 </p>
 </div>
 <div>
@@ -436,7 +446,11 @@
 </p>
 </div>
 <div>
-<p>子<num value="2">二</num>人<pc>。</pc>攄早卒<pc>。</pc>抦生於明州<pc>，</pc>母<persName>卜</persName>氏<pc>，</pc>信安郡夫人<pc>，</pc>王薨<pc>，</pc>還居行在<pc>。</pc>抦性早慧<pc>，</pc>帝愛之<pc>，</pc>將內禪<pc>，</pc>升耀州觀察使<pc>，</pc>封嘉國公<pc>。</pc>慶元間<pc>，</pc>封<date>吳</date>興郡王<pc>，</pc>領昭慶軍<term>節度使</term>
+<p>子<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>攄早卒<pc>。</pc>抦生於明州<pc>，</pc>母<name key="null" type="maternal">
+<persName>卜</persName>
+</name>氏<pc>，</pc>信安郡夫人<pc>，</pc>王薨<pc>，</pc>還居行在<pc>。</pc>抦性早慧<pc>，</pc>帝愛之<pc>，</pc>將內禪<pc>，</pc>升耀州觀察使<pc>，</pc>封嘉國公<pc>。</pc>慶元間<pc>，</pc>封<date when="null">吳</date>興郡王<pc>，</pc>領昭慶軍<term>節度使</term>
 <pc>。</pc>開禧<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>薨<pc>，</pc>贈太保<pc>，</pc>封沂王<pc>，</pc>諡靖惠<pc>。</pc>
 </p>
@@ -527,7 +541,8 @@
 <p>竑跂足以需宣召<pc>，</pc>久而不至<pc>。</pc>彌遠在禁中<pc>，</pc>遣快行宣皇子<pc>，</pc>令之曰<pc>：</pc>
 <pc>“</pc>今所宣是沂靖惠王府皇子<pc>，</pc>非<measure quantity="10000" unit="years">
 <num value="10000">萬</num>歲</measure>巷皇子<pc>，</pc>苟誤<pc>，</pc>則汝曹皆處斬<pc>。</pc>
-<pc>”</pc>竑不能自己<pc>，</pc>屬目牆壁間<pc>，</pc>見快行過其府而不入<pc>，</pc>疑焉<pc>。</pc>己而擁<num value="1">一</num>人徑過<pc>，</pc>天已暝<pc>，</pc>不知其為誰<pc>，</pc>甚惑<pc>。</pc>
+<pc>”</pc>竑不能自己<pc>，</pc>屬目牆壁間<pc>，</pc>見快行過其府而不入<pc>，</pc>疑焉<pc>。</pc>己而擁<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>徑過<pc>，</pc>天已暝<pc>，</pc>不知其為誰<pc>，</pc>甚惑<pc>。</pc>
 </p>
 </div>
 <div>
@@ -535,7 +550,8 @@
 <pc>“</pc>今日之事<pc>，</pc>我豈當仍在此班<pc>？</pc>
 <pc>”</pc>震紿之曰<pc>：</pc>
 <pc>“</pc>未宣製以前當在此<pc>，</pc>宣製後乃即位耳<pc>。</pc>
-<pc>”</pc>竑以為然<pc>。</pc>未幾<pc>，</pc>遙見燭影中<num value="1">一</num>人已在 禦坐<pc>，</pc>宣製畢<pc>，</pc>閣門讚呼<pc>，</pc>
+<pc>”</pc>竑以為然<pc>。</pc>未幾<pc>，</pc>遙見燭影中<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>已在 禦坐<pc>，</pc>宣製畢<pc>，</pc>閣門讚呼<pc>，</pc>
 <num value="100">百</num>官拜舞<pc>，</pc>賀新皇帝即位<pc>。</pc>竑不肯拜<pc>，</pc>震捽其首下拜<pc>。</pc>皇後矯遺詔<pc>：</pc>竑開府儀同<num value="3">三</num>司<pc>，</pc>進封濟陽郡王<pc>，</pc>判寧國府<pc>。</pc>帝因加竑少保<pc>，</pc>進封濟 王<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>丁醜<pc>，</pc>以竑充醴泉觀使<pc>，</pc>令就賜第<pc>。</pc>
@@ -552,7 +568,8 @@
 <pc>”</pc>眾許諾<pc>。</pc>遂發軍資庫金帛<pc>、</pc>會子犒軍<pc>，</pc>命守臣謝周卿率官屬入賀<pc>，</pc>偽為李全榜揭於門<pc>，</pc>數彌遠廢立 罪<pc>，</pc>雲<pc>：</pc>
 <pc>“</pc>今領精兵<num value="200000">二十萬</num>
 <pc>，</pc>水陸進討<pc>。</pc>
-<pc>”</pc>比明視之<pc>，</pc>皆太湖漁人及巡尉兵卒<pc>，</pc>不滿<num value="100">百</num>人耳<pc>。</pc>竑知其謀不成<pc>，</pc>率州兵討之<pc>。</pc>遣王元春告於朝<pc>，</pc>彌遠命殿司將彭任討 之<pc>，</pc>至則事平<pc>。</pc>彌遠令客秦天錫托召醫治竑疾<pc>，</pc>竑本無疾<pc>。</pc>
+<pc>”</pc>比明視之<pc>，</pc>皆太湖漁人及巡尉兵卒<pc>，</pc>不滿<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>耳<pc>。</pc>竑知其謀不成<pc>，</pc>率州兵討之<pc>。</pc>遣王元春告於朝<pc>，</pc>彌遠命殿司將彭任討 之<pc>，</pc>至則事平<pc>。</pc>彌遠令客秦天錫托召醫治竑疾<pc>，</pc>竑本無疾<pc>。</pc>
 <num value="23">丙戌</num>
 <pc>，</pc>天錫詣竑<pc>，</pc>諭旨逼竑縊於州治<pc>。</pc>
 </p>

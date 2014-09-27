@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="181">
 <div>
-<p>◎食貨下<num value="3">三</num>○會子鹽上</p>
+<p>
+<name key="null" type="null">◎食貨</name>下<num value="3">三</num>○會子鹽上</p>
 </div>
 <div>
 <p>會子<pc>、</pc>交子之法<pc>，</pc>蓋有取於唐之飛錢<pc>。</pc>真宗時<pc>，</pc>張詠鎮蜀<pc>，</pc>患蜀人鐵錢重<pc>，</pc>不便貿易<pc>，</pc>設質劑之法<pc>，</pc>
@@ -71,7 +72,8 @@
 <pc>，</pc>故更張之<pc>。</pc>以<num value="43">四十三</num>界引準書放數<pc>，</pc>仍用舊印行之<pc>，</pc>使人不疑擾<pc>，</pc>自後並更為錢引<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>而陝西<pc>、</pc>河東皆以舊錢引入成都換易<pc>，</pc>故<num value="4">四</num>川有壅遏之弊<pc>，</pc>河<pc>、</pc>陝有道途之艱<pc>，</pc>豪家因得以損直斂取<pc>。</pc>乃詔永興軍更置務納換陝西<pc>、</pc>河東引<pc>，</pc>仍遣文臣<num value="2">二</num>人監之<pc>。</pc>
+<pc>，</pc>而陝西<pc>、</pc>河東皆以舊錢引入成都換易<pc>，</pc>故<num value="4">四</num>川有壅遏之弊<pc>，</pc>河<pc>、</pc>陝有道途之艱<pc>，</pc>豪家因得以損直斂取<pc>。</pc>乃詔永興軍更置務納換陝西<pc>、</pc>河東引<pc>，</pc>仍遣文臣<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>監之<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>知威州張持奏<pc>：</pc>
@@ -421,7 +423,9 @@
 </p>
 </div>
 <div>
-<p>引池為鹽<pc>，</pc>曰解州解縣<pc>、</pc>安邑兩池<pc>。</pc>墾地為畦<pc>，</pc>引池水沃之<pc>，</pc>謂之種鹽<pc>，</pc>水耗則鹽成<pc>。</pc>籍民戶為畦夫<pc>，</pc>官廩給之<pc>，</pc>複其家<pc>。</pc>募巡邏之兵<num value="100">百</num>人<pc>，</pc>目為護寶都<pc>。</pc>歲<measure quantity="2" unit="months">
+<p>引池為鹽<pc>，</pc>曰解州解縣<pc>、</pc>安邑兩池<pc>。</pc>墾地為畦<pc>，</pc>引池水沃之<pc>，</pc>謂之種鹽<pc>，</pc>水耗則鹽成<pc>。</pc>籍民戶為畦夫<pc>，</pc>官廩給之<pc>，</pc>複其家<pc>。</pc>募巡邏之兵<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>目為護寶都<pc>。</pc>歲<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>墾畦<pc>，</pc>
@@ -452,7 +456,7 @@
 </div>
 <div>
 <p>先是<pc>，</pc>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>時鹽法太峻<pc>。</pc>建隆<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>始定官鹽闌入法<pc>，</pc>禁地貿易至<num value="10">十</num>斤<pc>、</pc>煮堿鹽至<num value="3">三</num>斤者乃坐死<pc>，</pc>民所受蠶鹽以入城市<num value="30">三十</num>斤以上者<pc>，</pc>上請<pc>。</pc>
@@ -472,7 +476,9 @@
 </div>
 <div>
 <p>天聖以來<pc>，</pc>兩池畦戶總<num value="380">三百八十</num>
-<pc>，</pc>以本州及旁州之民為之<pc>，</pc>戶歲出夫<num value="2">二</num>人<pc>，</pc>人給米日<num value="2">二</num>升<pc>，</pc>歲給戶錢<num value="40000">四萬</num>
+<pc>，</pc>以本州及旁州之民為之<pc>，</pc>戶歲出夫<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>人給米日<num value="2">二</num>升<pc>，</pc>歲給戶錢<num value="40000">四萬</num>
 <pc>。</pc>為鹽歲<num value="526429">百五十二萬六千四百二十九</num>石<pc>，</pc>石<num value="50">五十</num>斤<pc>，</pc>以席計<pc>，</pc>為<num value="655120">六十五萬五千一百二十</num>席<pc>，</pc>席<num value="16">百一十六</num>斤<pc>。</pc>禁榷之地<pc>，</pc>皆官役鄉戶衙前及民夫<pc>，</pc>謂之帖頭<pc>，</pc>水陸漕運<pc>。</pc>而通商州軍並邊秦<pc>、</pc>延<pc>、</pc>環<pc>、</pc>慶<pc>、</pc>渭<pc>、</pc>原<pc>、</pc>保安<pc>、</pc>鎮戎<pc>、</pc>德順<pc>，</pc>又募人入中芻粟<pc>，</pc>以鹽償之<pc>。</pc>
 </p>
 </div>

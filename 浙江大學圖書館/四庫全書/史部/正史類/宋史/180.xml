@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="180">
 <div>
-<p>◎食貨下<num value="2">二</num>
+<p>
+<name key="null" type="null">◎食貨</name>下<num value="2">二</num>
 <pc>（</pc>錢幣<pc>）</pc>錢幣</p>
 </div>
 <div>
@@ -32,7 +33,7 @@
 <pc>、</pc>折<num value="3">三</num>
 <pc>、</pc>當<num value="5">五</num>
 <pc>、</pc>折<num value="10">十</num>
-<pc>，</pc>則隨時立製<pc>。</pc>行之久者<pc>，</pc>唯小平錢<pc>。</pc>夾錫錢最後出<pc>，</pc>宋之錢法至是而壞<pc>。</pc>蓋自<date>
+<pc>，</pc>則隨時立製<pc>。</pc>行之久者<pc>，</pc>唯小平錢<pc>。</pc>夾錫錢最後出<pc>，</pc>宋之錢法至是而壞<pc>。</pc>蓋自<date when="null">
 <num value="5">五</num>代</date>以來<pc>，</pc>相承用唐舊錢<pc>，</pc>其別鑄者殊鮮<pc>。</pc>太祖初鑄錢<pc>，</pc>文曰<pc>“</pc>宋通元寶<pc>”</pc>
 <pc>。</pc>凡諸州輕小惡錢及鐵鑞錢悉禁之<pc>，</pc>詔到限<measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>送官<pc>，</pc>限滿不送官者罪有差<pc>，</pc>其私鑄者皆棄市<pc>。</pc>銅錢闌出江南<pc>、</pc>塞外及南蕃諸國<pc>，</pc>差定其法<pc>，</pc>至<num value="2">二</num>貫者徒<measure quantity="1" unit="year">
@@ -68,7 +69,7 @@
 </div>
 <div>
 <p>平廣南<pc>、</pc>江南<pc>，</pc>亦聽權用舊錢<pc>，</pc>如川蜀法<pc>。</pc>初<pc>，</pc>
-<date>南唐</date>李氏鑄錢<pc>，</pc>
+<date when="null">南唐</date>李氏鑄錢<pc>，</pc>
 <num value="1">一</num>工為錢<num value="500">千五百</num>
 <pc>，</pc>得<num value="300000">三十萬</num>貫<pc>。</pc>太宗即位<pc>，</pc>詔升州置監鑄錢<pc>，</pc>令轉運使按行所部<pc>，</pc>凡山川之出銅者悉禁民采<pc>，</pc>並以給官鑄焉<pc>。</pc>太平興國<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
@@ -89,7 +90,7 @@
 </p>
 </div>
 <div>
-<p>舊<placeName>饒州</placeName>永平監歲鑄錢<num value="60000">六萬</num>貫<pc>，</pc>平江南<pc>，</pc>增為<num value="70000">七萬</num>貫<pc>，</pc>而銅<pc>、</pc>鉛<pc>、</pc>錫常不給<pc>。</pc>轉運使張齊賢訪求得<date>南唐</date>承旨丁釗<pc>，</pc>能知饒<pc>、</pc>信等州山穀產銅<pc>、</pc>鉛<pc>、</pc>錫<pc>，</pc>乃便宜調民采取<pc>；</pc>且詢舊鑄法<pc>，</pc>惟永平用唐開元錢料最善<pc>，</pc>即詣闕麵陳<pc>。</pc>
+<p>舊<placeName>饒州</placeName>永平監歲鑄錢<num value="60000">六萬</num>貫<pc>，</pc>平江南<pc>，</pc>增為<num value="70000">七萬</num>貫<pc>，</pc>而銅<pc>、</pc>鉛<pc>、</pc>錫常不給<pc>。</pc>轉運使張齊賢訪求得<date when="null">南唐</date>承旨丁釗<pc>，</pc>能知饒<pc>、</pc>信等州山穀產銅<pc>、</pc>鉛<pc>、</pc>錫<pc>，</pc>乃便宜調民采取<pc>；</pc>且詢舊鑄法<pc>，</pc>惟永平用唐開元錢料最善<pc>，</pc>即詣闕麵陳<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>詔增市鉛<pc>、</pc>錫<pc>、</pc>炭價<pc>，</pc>於是得銅<num value="810000">八十一萬</num>斤<pc>、</pc>鉛<num value="360000">三十六萬</num>斤<pc>、</pc>錫<num value="160000">十六萬</num>斤<pc>，</pc>歲鑄錢<num value="300000">三十萬</num>貫<pc>。</pc>補釗殿前承旨<pc>，</pc>領<measure quantity="3" unit="prefectures">
@@ -479,7 +480,9 @@
 <div>
 <p>自當<num value="10">十</num>錢行<pc>，</pc>抵冒者多<pc>。</pc>大觀<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>星變<pc>，</pc>赦天下<pc>。</pc>凡以私錢得罪<pc>，</pc>有司上名數<pc>，</pc>亡慮<num value="10">十</num>餘<num value="10000">萬</num>人<pc>。</pc>蔡京罔上毒民<pc>，</pc>可謂烈矣<pc>。</pc>時禦府之用日廣<pc>，</pc>東南錢額不敷<pc>，</pc>宣和以後尤甚<pc>。</pc>乃令饒<pc>、</pc>贛錢監鑄小平錢<pc>，</pc>每緡用鐵<num value="3">三</num>兩<pc>，</pc>而倍損其銅<pc>，</pc>稍損其鉛<pc>。</pc>繼又令江<pc>、</pc>池<pc>、</pc>饒錢監<pc>，</pc>盡以小平錢改鑄當<num value="2">二</num>錢<pc>，</pc>以紓用度<pc>，</pc>然有司猶數告之<pc>。</pc>靖康元年<pc>，</pc>罷政和敕陝西路用銅錢斷徒<measure quantity="2" unit="years">
+<pc>，</pc>星變<pc>，</pc>赦天下<pc>。</pc>凡以私錢得罪<pc>，</pc>有司上名數<pc>，</pc>亡慮<num value="10">十</num>餘<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>。</pc>蔡京罔上毒民<pc>，</pc>可謂烈矣<pc>。</pc>時禦府之用日廣<pc>，</pc>東南錢額不敷<pc>，</pc>宣和以後尤甚<pc>。</pc>乃令饒<pc>、</pc>贛錢監鑄小平錢<pc>，</pc>每緡用鐵<num value="3">三</num>兩<pc>，</pc>而倍損其銅<pc>，</pc>稍損其鉛<pc>。</pc>繼又令江<pc>、</pc>池<pc>、</pc>饒錢監<pc>，</pc>盡以小平錢改鑄當<num value="2">二</num>錢<pc>，</pc>以紓用度<pc>，</pc>然有司猶數告之<pc>。</pc>靖康元年<pc>，</pc>罷政和敕陝西路用銅錢斷徒<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>配<num value="1000">千</num>裏法<pc>。</pc>
 </p>
 </div>

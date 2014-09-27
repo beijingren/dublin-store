@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="469">
 <div>
-<p>◎宦者<num value="4">四</num>
+<p>
+<name key="null" type="null">◎宦者</name>
+<num value="4">四</num>
 </p>
 </div>
 <div>
@@ -53,13 +55,16 @@
 </div>
 <div>
 <p>藍珪<pc>、</pc>康履<pc>，</pc>初皆為康王府都監<pc>、</pc>入內東頭供奉官<pc>，</pc>嚐從康王使金人行營<pc>。</pc>及開元帥府<pc>，</pc>並主管機宜文字<pc>。</pc>朝廷遣人趣師入援<pc>，</pc>履等請王留相州<pc>，</pc>王叱之而行<pc>。</pc>既 即位<pc>，</pc>
-<num value="2">二</num>人俱恃恩用事<pc>，</pc>履尤妄作威福<pc>，</pc>大將如劉光世等多曲意事之<pc>。</pc>帝知之<pc>，</pc>詔內侍不許與統兵官相見<pc>，</pc>違者停官編隸<pc>。</pc>履終無所忌憚<pc>，</pc>與內侍曾擇淩忽諸將<pc>，</pc>或 踞坐洗足<pc>，</pc>立諸將於左右<pc>，</pc>聲喏甚至馬前<pc>，</pc>故疾之者眾<pc>。</pc>俄遷內侍省押班<pc>、</pc>金州觀察使<pc>。</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>俱恃恩用事<pc>，</pc>履尤妄作威福<pc>，</pc>大將如劉光世等多曲意事之<pc>。</pc>帝知之<pc>，</pc>詔內侍不許與統兵官相見<pc>，</pc>違者停官編隸<pc>。</pc>履終無所忌憚<pc>，</pc>與內侍曾擇淩忽諸將<pc>，</pc>或 踞坐洗足<pc>，</pc>立諸將於左右<pc>，</pc>聲喏甚至馬前<pc>，</pc>故疾之者眾<pc>。</pc>俄遷內侍省押班<pc>、</pc>金州觀察使<pc>。</pc>
 </p>
 </div>
 <div>
 <p>帝在<placeName>揚州</placeName>
 <pc>，</pc>金兵卒至<pc>，</pc>帝馳馬出門<pc>，</pc>
-<num value="100">百</num>官不戒備<pc>，</pc>從行者惟履 等<num value="30">五六</num>人<pc>。</pc>自是履等益自衒<pc>，</pc>愈有輕外朝心<pc>。</pc>及幸浙<pc>，</pc>道吳江<pc>，</pc>其黨競以射鴨為樂<pc>。</pc>比至杭州<pc>，</pc>江下觀潮<pc>，</pc>中官供帳<pc>，</pc>赫然遮道<pc>。</pc>統製苗傅等切齒曰<pc>：</pc>
+<num value="100">百</num>官不戒備<pc>，</pc>從行者惟履 等<measure quantity="30" unit="people">
+<num value="30">五六</num>人</measure>
+<pc>。</pc>自是履等益自衒<pc>，</pc>愈有輕外朝心<pc>。</pc>及幸浙<pc>，</pc>道吳江<pc>，</pc>其黨競以射鴨為樂<pc>。</pc>比至杭州<pc>，</pc>江下觀潮<pc>，</pc>中官供帳<pc>，</pc>赫然遮道<pc>。</pc>統製苗傅等切齒曰<pc>：</pc>
 <pc>“</pc>此輩使天子 至此<pc>，</pc>猶敢爾邪<pc>？</pc>
 <pc>”</pc>傅幕客王世修亦疾中官恣橫<pc>，</pc>以告武功大夫劉正彥<pc>，</pc>正彥曰<pc>：</pc>
 <pc>“</pc>會當共除之<pc>。</pc>
@@ -79,7 +84,8 @@
 <pc>“</pc>陛下何惜<num value="1">一</num>康履<pc>，</pc>不以慰<num value="3">三</num>軍<pc>？</pc>
 <pc>”</pc>帝不得 已<pc>，</pc>遣人執履至<pc>，</pc>履望帝呼曰<pc>：</pc>
 <pc>“</pc>大家何獨殺臣<pc>？</pc>
-<pc>”</pc>遂以付傅<pc>，</pc>即腰斬之<pc>。</pc>梟其首<pc>。</pc>帝幸睿聖宮<pc>，</pc>傅等留內侍<num value="15">十五</num>人奉左右<pc>。</pc>尋捕珪<pc>、</pc>擇等<pc>，</pc>皆編置遠州<pc>；</pc>擇<pc>，</pc>昭 州<pc>，</pc>行<num value="1">一</num>程<pc>，</pc>追還斬之<pc>。</pc>
+<pc>”</pc>遂以付傅<pc>，</pc>即腰斬之<pc>。</pc>梟其首<pc>。</pc>帝幸睿聖宮<pc>，</pc>傅等留內侍<measure quantity="15" unit="people">
+<num value="15">十五</num>人</measure>奉左右<pc>。</pc>尋捕珪<pc>、</pc>擇等<pc>，</pc>皆編置遠州<pc>；</pc>擇<pc>，</pc>昭 州<pc>，</pc>行<num value="1">一</num>程<pc>，</pc>追還斬之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -131,7 +137,9 @@
 </div>
 <div>
 <p>金兵將至<pc>，</pc>遣使來<pc>，</pc>出慢言以相懼<pc>。</pc>去為陰沮用兵<pc>，</pc>進幸蜀之計<pc>，</pc>
-<term>宰相</term>陳康伯力非之<pc>，</pc>帝悟而止<pc>。</pc>侍禦史杜莘老乞斬去為<pc>，</pc>以作士氣<pc>。</pc>先是<pc>，</pc>去為取禦馬院西兵<num value="200">二百</num>人<pc>，</pc>髡其頂發<pc>，</pc>都人駭之<pc>，</pc>莘老複劾其罪<pc>。</pc>帝不得已<pc>，</pc>令去為致仕<pc>，</pc>莘老亦出補外<pc>。</pc>
+<term>宰相</term>陳康伯力非之<pc>，</pc>帝悟而止<pc>。</pc>侍禦史杜莘老乞斬去為<pc>，</pc>以作士氣<pc>。</pc>先是<pc>，</pc>去為取禦馬院西兵<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>髡其頂發<pc>，</pc>都人駭之<pc>，</pc>莘老複劾其罪<pc>。</pc>帝不得已<pc>，</pc>令去為致仕<pc>，</pc>莘老亦出補外<pc>。</pc>
 </p>
 </div>
 <div>
@@ -149,7 +157,8 @@
 <div>
 <p>光宗即位<pc>，</pc>複召還<pc>。</pc>紹熙<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>自拱衛大夫<pc>、</pc>永州防禦使除入內內侍省押班<pc>。</pc>帝以疾不朝重華宮<pc>，</pc>源與內侍楊 舜卿<pc>、</pc>林億年數有間言<pc>。</pc>寧宗即位<pc>，</pc>命<num value="3">三</num>人俱事光宗於泰安宮<pc>。</pc>禦史章穎論其離間君親<pc>，</pc>乞行誅竄<pc>，</pc>以慰壽皇在天之靈<pc>。</pc>詔罷源等官<pc>，</pc>源撫州<pc>、</pc>億年常州居住<pc>，</pc>舜卿 任便居住<pc>。</pc>慶元<measure quantity="2" unit="years">
+<pc>，</pc>自拱衛大夫<pc>、</pc>永州防禦使除入內內侍省押班<pc>。</pc>帝以疾不朝重華宮<pc>，</pc>源與內侍楊 舜卿<pc>、</pc>林億年數有間言<pc>。</pc>寧宗即位<pc>，</pc>命<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>俱事光宗於泰安宮<pc>。</pc>禦史章穎論其離間君親<pc>，</pc>乞行誅竄<pc>，</pc>以慰壽皇在天之靈<pc>。</pc>詔罷源等官<pc>，</pc>源撫州<pc>、</pc>億年常州居住<pc>，</pc>舜卿 任便居住<pc>。</pc>慶元<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>以生皇子恩<pc>，</pc>源<pc>、</pc>億年許自便<pc>，</pc>舜卿與內祠<pc>。</pc>給事中汪義端駁之<pc>，</pc>乃移源婺州<pc>，</pc>億年湖州<pc>。</pc>義端再駁舜卿內祠<pc>，</pc>反坐外補<pc>，</pc>其後源等卒聽自 便<pc>。</pc>億年養娼女以別業<pc>，</pc>源在貶所與妓濫<pc>，</pc>俱以淫媟聞<pc>，</pc>人疑其非宦者雲<pc>。</pc>
 </p>

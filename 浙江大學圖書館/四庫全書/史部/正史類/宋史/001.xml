@@ -23,12 +23,16 @@
 <text>
 <body>
 <div type="chapter" n="1">
+<name key="null" type="null">
 <div>
 <p>太祖<num value="1">一</num>
 </p>
 </div>
+</name>
 <div>
-<p>　　太祖啟運立極英武睿文神德聖功至明大孝皇帝<pc>，</pc>諱匡胤<pc>，</pc>姓<persName>趙</persName>氏<pc>，</pc>涿郡人也<pc>。</pc>高祖朓<pc>，</pc>是為僖祖<pc>，</pc>仕唐歷永清<pc>、</pc>文安<pc>、</pc>幽都令<pc>。</pc>朓生珽<pc>，</pc>是為順祖<pc>，</pc>歷藩鎮從事<pc>，</pc>累官兼御史中丞<pc>。</pc>珽生敬<pc>，</pc>是為翼祖<pc>，</pc>歷營<pc>、</pc>薊<pc>、</pc>涿<measure quantity="3" unit="prefectures">
+<p>　　太祖啟運立極英武睿文神德聖功至明大孝皇帝<pc>，</pc>諱匡胤<pc>，</pc>姓<name key="null" type="null">
+<persName>趙</persName>
+</name>氏<pc>，</pc>涿郡人也<pc>。</pc>高祖朓<pc>，</pc>是為僖祖<pc>，</pc>仕唐歷永清<pc>、</pc>文安<pc>、</pc>幽都令<pc>。</pc>朓生珽<pc>，</pc>是為順祖<pc>，</pc>歷藩鎮從事<pc>，</pc>累官兼御史中丞<pc>。</pc>珽生敬<pc>，</pc>是為翼祖<pc>，</pc>歷營<pc>、</pc>薊<pc>、</pc>涿<measure quantity="3" unit="prefectures">
 <num value="3">三</num>州</measure>
 <term>刺史</term>
 <pc>。</pc>敬生弘殷<pc>，</pc>是為宣祖<pc>。</pc>周顯德中<pc>，</pc>宣祖貴<pc>，</pc>贈敬左驍騎衛上將軍<pc>。</pc>
@@ -44,7 +48,9 @@
 </p>
 </div>
 <div>
-<p>　　太祖<pc>，</pc>宣祖仲子也<pc>，</pc>母<persName>杜</persName>氏<pc>。</pc>後唐天成<measure quantity="2" unit="years">
+<p>　　太祖<pc>，</pc>宣祖仲子也<pc>，</pc>母<name key="null" type="maternal">
+<persName>杜</persName>
+</name>氏<pc>。</pc>後唐天成<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>生於<placeName>洛陽</placeName>夾馬營<pc>，</pc>赤光繞室<pc>，</pc>異香經宿不散<pc>，</pc>體有金色<pc>，</pc>
 <measure quantity="3" unit="days">
@@ -69,7 +75,7 @@
 <div>
 <p>　　<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>春<pc>，</pc>從征淮南<pc>，</pc>首敗<num value="10000">萬</num>眾於渦口<pc>，</pc>斬兵馬都監何延錫等<pc>。</pc>
-<date>南唐</date>節度皇甫暉<pc>、</pc>姚鳳眾號<num value="150000">十五萬</num>
+<date when="null">南唐</date>節度皇甫暉<pc>、</pc>姚鳳眾號<num value="150000">十五萬</num>
 <pc>，</pc>塞清流關<pc>，</pc>擊走之<pc>。</pc>追至城下<pc>，</pc>暉曰<pc>：</pc>
 <pc>「</pc>
 <quote>人各為其主<pc>，</pc>願成列以決勝負<pc>。</pc>
@@ -80,7 +86,7 @@
 </quote>
 <pc>」</pc>詰旦<pc>，</pc>乃得入<pc>。</pc>韓令坤平<placeName>揚州</placeName>
 <pc>，</pc>
-<date>南唐</date>來援<pc>，</pc>令坤議退<pc>，</pc>世宗命太祖率兵<num value="2000">二千</num>趨<num value="6">六</num>合<pc>。</pc>太祖下令曰<pc>：</pc>
+<date when="null">南唐</date>來援<pc>，</pc>令坤議退<pc>，</pc>世宗命太祖率兵<num value="2000">二千</num>趨<num value="6">六</num>合<pc>。</pc>太祖下令曰<pc>：</pc>
 <pc>「</pc>
 <quote>
 <placeName>揚州</placeName>兵敢有過<num value="6">六</num>合者<pc>，</pc>斷其足<pc>。</pc>
@@ -91,8 +97,8 @@
 </div>
 <div>
 <p>　　<measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<pc>，</pc>從征壽春<pc>，</pc>拔連珠砦<pc>，</pc>遂下壽州<pc>。</pc>還<pc>，</pc>拜義成軍節度<pc>、</pc>檢校太保<pc>，</pc>仍殿前都指揮使<pc>。</pc>冬<pc>，</pc>從征濠<pc>、</pc>泗<pc>，</pc>為前鋒<pc>。</pc>時<date>南唐</date>砦于<num value="18">十八</num>裏灘<pc>，</pc>世宗方議以橐駝濟師<pc>，</pc>而太祖獨躍馬截流先渡<pc>，</pc>麾下騎隨之<pc>，</pc>遂破其砦<pc>。</pc>因其戰艦乘勝攻泗州<pc>，</pc>下之<pc>。</pc>
-<date>南唐</date>屯清口<pc>，</pc>太祖從世宗翼淮東下<pc>，</pc>夜追至山陽<pc>，</pc>俘唐<term>節度使</term>陳承詔以獻<pc>，</pc>遂拔楚州<pc>。</pc>進破唐人于迎鑾江口<pc>，</pc>直抵南岸<pc>，</pc>焚其營柵<pc>，</pc>又破之于瓜步<pc>，</pc>淮南平<pc>。</pc>唐主畏太祖威名<pc>，</pc>用間於世宗<pc>，</pc>遣使遺太祖書<pc>，</pc>饋白金<num value="3000">三千</num>兩<pc>，</pc>太祖悉輸之內府<pc>，</pc>間乃不行<pc>。</pc>
+<num value="4">四</num>年</measure>春<pc>，</pc>從征壽春<pc>，</pc>拔連珠砦<pc>，</pc>遂下壽州<pc>。</pc>還<pc>，</pc>拜義成軍節度<pc>、</pc>檢校太保<pc>，</pc>仍殿前都指揮使<pc>。</pc>冬<pc>，</pc>從征濠<pc>、</pc>泗<pc>，</pc>為前鋒<pc>。</pc>時<date when="null">南唐</date>砦于<num value="18">十八</num>裏灘<pc>，</pc>世宗方議以橐駝濟師<pc>，</pc>而太祖獨躍馬截流先渡<pc>，</pc>麾下騎隨之<pc>，</pc>遂破其砦<pc>。</pc>因其戰艦乘勝攻泗州<pc>，</pc>下之<pc>。</pc>
+<date when="null">南唐</date>屯清口<pc>，</pc>太祖從世宗翼淮東下<pc>，</pc>夜追至山陽<pc>，</pc>俘唐<term>節度使</term>陳承詔以獻<pc>，</pc>遂拔楚州<pc>。</pc>進破唐人于迎鑾江口<pc>，</pc>直抵南岸<pc>，</pc>焚其營柵<pc>，</pc>又破之于瓜步<pc>，</pc>淮南平<pc>。</pc>唐主畏太祖威名<pc>，</pc>用間於世宗<pc>，</pc>遣使遺太祖書<pc>，</pc>饋白金<num value="3000">三千</num>兩<pc>，</pc>太祖悉輸之內府<pc>，</pc>間乃不行<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>改忠武軍<term>節度使</term>
@@ -155,7 +161,7 @@
 <num value="43">丙午</num>
 <pc>，</pc>詔諭諸鎮將帥<pc>。</pc>
 <num value="45">戊申</num>
-<pc>，</pc>賜書<date>南唐</date>
+<pc>，</pc>賜書<date when="null">南唐</date>
 <pc>。</pc>贈韓通中書令<pc>，</pc>命以禮收葬<pc>。</pc>
 <num value="46">己酉</num>
 <pc>，</pc>遣官告祭天地社稷<pc>。</pc>復安州<pc>、</pc>華州<pc>、</pc>兗州為節度<pc>。</pc>
@@ -175,7 +181,7 @@
 <pc>，</pc>賜<term>宰相</term>
 <pc>、</pc>樞密<pc>、</pc>諸軍校襲衣<pc>、</pc>犀玉帶<pc>、</pc>鞍馬有差<pc>。</pc>
 <num value="50">癸丑</num>
-<pc>，</pc>放<date>南唐</date>降將周成等歸國<pc>。</pc>
+<pc>，</pc>放<date when="null">南唐</date>降將周成等歸國<pc>。</pc>
 <num value="52">乙卯</num>
 <pc>，</pc>遣使分振諸州<pc>。</pc>
 <num value="54">丁巳</num>
@@ -212,8 +218,8 @@
 <pc>，</pc>改天下郡縣之犯御名<pc>、</pc>廟諱者<pc>。</pc>
 <num value="53">丙辰</num>
 <pc>，</pc>
-<date>南唐</date>主李景<pc>、</pc>
-<date>吳越</date>王錢俶遣使以御服<pc>、</pc>錦綺<pc>、</pc>金帛來賀<pc>。</pc>宿州火<pc>，</pc>遣使恤災<pc>。</pc>
+<date when="null">南唐</date>主李景<pc>、</pc>
+<date when="null">吳越</date>王錢俶遣使以御服<pc>、</pc>錦綺<pc>、</pc>金帛來賀<pc>。</pc>宿州火<pc>，</pc>遣使恤災<pc>。</pc>
 <num value="59">壬戌</num>
 <pc>，</pc>定國運以火德王<pc>，</pc>色尚赤<pc>，</pc>臘用戌<pc>。</pc>
 <num value="60">癸亥</num>
@@ -256,7 +262,9 @@
 <pc>，</pc>發京師<pc>。</pc>
 <num value="4">丁卯</num>
 <pc>，</pc>石守信<pc>、</pc>
-<persName>高懷德</persName>破筠眾于澤州<pc>，</pc>禽偽節度范守圖<pc>，</pc>殺北漢援兵之降者數<num value="1000">千</num>人<pc>，</pc>筠遁入澤州<pc>。</pc>
+<persName>高懷德</persName>破筠眾于澤州<pc>，</pc>禽偽節度范守圖<pc>，</pc>殺北漢援兵之降者數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>筠遁入澤州<pc>。</pc>
 <num value="5">戊辰</num>
 <pc>，</pc>王師圍之<pc>。</pc>
 </p>
@@ -293,10 +301,10 @@
 <pc>，</pc>遣工部侍郎艾穎拜嵩<pc>、</pc>慶陵<pc>。</pc>
 <num value="2">乙丑</num>
 <pc>，</pc>
-<date>南唐</date>進白金<pc>，</pc>賀平澤<pc>、</pc>潞<pc>。</pc>
+<date when="null">南唐</date>進白金<pc>，</pc>賀平澤<pc>、</pc>潞<pc>。</pc>
 <num value="4">丁卯</num>
 <pc>，</pc>
-<date>南唐</date>進乘輿御服物<pc>。</pc>
+<date when="null">南唐</date>進乘輿御服物<pc>。</pc>
 </p>
 </div>
 <div>
@@ -319,7 +327,7 @@
 <pc>，</pc>立琅琊郡夫人王氏為皇后<pc>。</pc>
 <num value="25">戊子</num>
 <pc>，</pc>
-<date>南唐</date>進賀平澤潞金銀器<pc>、</pc>羅綺以<num value="1000">千</num>計<pc>。</pc>
+<date when="null">南唐</date>進賀平澤潞金銀器<pc>、</pc>羅綺以<num value="1000">千</num>計<pc>。</pc>
 </p>
 </div>
 <div>
@@ -351,7 +359,8 @@
 <num value="19">壬午</num>
 <pc>，</pc>河決厭次<pc>。</pc>
 <num value="22">乙酉</num>
-<pc>，</pc>晉州兵馬鈐轄荊罕儒襲北漢汾州<pc>，</pc>死之<pc>；</pc>龍捷指揮石進<num value="29">二十九</num>人坐不救棄市<pc>。</pc>
+<pc>，</pc>晉州兵馬鈐轄荊罕儒襲北漢汾州<pc>，</pc>死之<pc>；</pc>龍捷指揮石進<measure quantity="29" unit="people">
+<num value="29">二十九</num>人</measure>坐不救棄市<pc>。</pc>
 <num value="24">丁亥</num>
 <pc>，</pc>詔親征<placeName>揚州</placeName>
 <pc>，</pc>以都<term>虞候</term>光義為大內都部署<pc>，</pc>樞密使吳廷祚權上都留守<pc>。</pc>
@@ -369,7 +378,7 @@
 <num value="45">戊申</num>
 <pc>，</pc>誅重進黨<pc>，</pc>
 <placeName>揚州</placeName>平<pc>。</pc>命諸軍習戰艦于迎鑾<pc>，</pc>
-<date>南唐</date>主懼甚<pc>。</pc>其臣杜著<pc>、</pc>薛良因詭跡來奔<pc>，</pc>帝疾其不忠<pc>，</pc>斬著下蜀市<pc>，</pc>配良廬州牙校<pc>。</pc>
+<date when="null">南唐</date>主懼甚<pc>。</pc>其臣杜著<pc>、</pc>薛良因詭跡來奔<pc>，</pc>帝疾其不忠<pc>，</pc>斬著下蜀市<pc>，</pc>配良廬州牙校<pc>。</pc>
 <num value="46">己酉</num>
 <pc>，</pc>振<placeName>揚州</placeName>城中民人米<num value="1">一</num>斛<pc>，</pc>
 <measure quantity="10" unit="years">
@@ -380,7 +389,7 @@
 <pc>。</pc>
 <num value="52">乙卯</num>
 <pc>，</pc>
-<date>南唐</date>主遣使來犒師<pc>。</pc>
+<date when="null">南唐</date>主遣使來犒師<pc>。</pc>
 <num value="57">庚申</num>
 <pc>，</pc>遣其子從鎰來朝<pc>。</pc>
 </p>
@@ -434,12 +443,14 @@
 <num value="9">壬申</num>
 <pc>，</pc>疏<num value="5">五</num>丈河<pc>。</pc>
 <num value="10">癸酉</num>
-<pc>，</pc>有司奏進士合格者<num value="11">十一</num>人<pc>。</pc>荊南高保勖進黃金什器<pc>。</pc>
+<pc>，</pc>有司奏進士合格者<measure quantity="11" unit="people">
+<num value="11">十一</num>人</measure>
+<pc>。</pc>荊南高保勖進黃金什器<pc>。</pc>
 <num value="11">甲戌</num>
 <pc>，</pc>幸城南<pc>，</pc>觀修水匱<pc>。</pc>
 <num value="14">丁丑</num>
 <pc>，</pc>
-<date>南唐</date>進長春節御衣<pc>、</pc>金帶及金銀器<pc>。</pc>
+<date when="null">南唐</date>進長春節御衣<pc>、</pc>金帶及金銀器<pc>。</pc>
 <num value="16">己卯</num>
 <pc>，</pc>賜天雄軍節度符彥卿粟<pc>。</pc>禁春夏捕魚射鳥<pc>。</pc>
 <num value="26">己丑</num>
@@ -450,7 +461,11 @@
 <p>　　<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="33">丙申</num>
-<pc>，</pc>內酒坊火<pc>，</pc>酒工死者<num value="30">三十</num>餘人<pc>，</pc>乘火為盜者<num value="50">五十</num>人<pc>，</pc>擒斬<num value="38">三十八</num>人<pc>，</pc>餘以<term>宰臣</term>諫獲免<pc>。</pc>酒坊使左承規<pc>、</pc>副使田處巖以酒工為盜<pc>，</pc>坐棄市<pc>。</pc>
+<pc>，</pc>內酒坊火<pc>，</pc>酒工死者<num value="30">三十</num>餘人<pc>，</pc>乘火為盜者<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>，</pc>擒斬<measure quantity="38" unit="people">
+<num value="38">三十八</num>人</measure>
+<pc>，</pc>餘以<term>宰臣</term>諫獲免<pc>。</pc>酒坊使左承規<pc>、</pc>副使田處巖以酒工為盜<pc>，</pc>坐棄市<pc>。</pc>
 </p>
 </div>
 <div>
@@ -462,7 +477,7 @@
 <pc>」</pc>
 <num value="29">壬辰</num>
 <pc>，</pc>
-<date>南唐</date>進謝賜生辰金器<pc>、</pc>羅綺<pc>。</pc>
+<date when="null">南唐</date>進謝賜生辰金器<pc>、</pc>羅綺<pc>。</pc>
 <num value="14">丁丑</num>
 <pc>，</pc>金<pc>、</pc>商<pc>、</pc>房<measure quantity="3" unit="prefectures">
 <num value="3">三</num>州</measure>饑<pc>，</pc>振之<pc>。</pc>
@@ -537,7 +552,7 @@
 <pc>，</pc>詔諸大辟送所屬州軍決判<pc>。</pc>
 <num value="41">甲辰</num>
 <pc>，</pc>
-<date>南唐</date>主李景死<pc>，</pc>子煜嗣<pc>，</pc>遣使請追尊帝號<pc>，</pc>從之<pc>。</pc>
+<date when="null">南唐</date>主李景死<pc>，</pc>子煜嗣<pc>，</pc>遣使請追尊帝號<pc>，</pc>從之<pc>。</pc>
 <num value="46">己酉</num>
 <pc>，</pc>執易定<term>節度使</term>
 <pc>、</pc>同平章事孫行友<pc>，</pc>削官勒歸私第<pc>。</pc>
@@ -551,11 +566,11 @@
 <p>　　<measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <num value="59">壬戌</num>朔<pc>，</pc>不御殿<pc>。</pc>
-<date>南唐</date>遣使來進金銀<pc>、</pc>繒彩<pc>。</pc>
+<date when="null">南唐</date>遣使來進金銀<pc>、</pc>繒彩<pc>。</pc>
 <num value="1">甲子</num>
 <pc>，</pc>契丹解利來降<pc>。</pc>荊南<term>節度使</term>高保勖遣其弟保寅來朝<pc>。</pc>
 <num value="25">戊子</num>
-<pc>，</pc>遣使<date>南唐</date>賻祭<pc>。</pc>
+<pc>，</pc>遣使<date when="null">南唐</date>賻祭<pc>。</pc>
 </p>
 </div>
 <div>
@@ -563,9 +578,9 @@
 <num value="10">十</num>月</measure>
 <num value="30">癸巳</num>
 <pc>，</pc>
-<date>南唐</date>遣其臣韓熙載<pc>、</pc>田霖來會皇太后葬<pc>。</pc>
+<date when="null">南唐</date>遣其臣韓熙載<pc>、</pc>田霖來會皇太后葬<pc>。</pc>
 <num value="33">丙申</num>
-<pc>，</pc>遣樞密承旨王仁贍賜<date>南唐</date>禮物<pc>。</pc>
+<pc>，</pc>遣樞密承旨王仁贍賜<date when="null">南唐</date>禮物<pc>。</pc>
 <num value="35">戊戌</num>
 <pc>，</pc>禁邊民盜塞外馬<pc>。</pc>
 <num value="38">辛丑</num>
@@ -598,9 +613,9 @@
 <num value="47">庚戌</num>
 <pc>，</pc>畋于近郊<pc>。</pc>
 <num value="50">癸丑</num>
-<pc>，</pc>遣使賜<date>南唐</date>
+<pc>，</pc>遣使賜<date when="null">南唐</date>
 <pc>、</pc>
-<date>吳越</date>馬<pc>、</pc>羊<pc>、</pc>橐駝有差<pc>。</pc>
+<date when="null">吳越</date>馬<pc>、</pc>羊<pc>、</pc>橐駝有差<pc>。</pc>
 </p>
 </div>
 <div>
@@ -628,7 +643,9 @@
 <num value="53">丙辰</num>
 <pc>，</pc>複幸國子監<pc>，</pc>遂如迎春苑宴從官<pc>。</pc>
 <num value="27">庚寅</num>
-<pc>，</pc>詔文班官舉堪為賓佐<pc>、</pc>令錄者各<num value="1">一</num>人<pc>，</pc>不當者比事連坐<pc>。</pc>
+<pc>，</pc>詔文班官舉堪為賓佐<pc>、</pc>令錄者各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>不當者比事連坐<pc>。</pc>
 <num value="31">甲午</num>
 <pc>，</pc>詔自今<num value="100">百</num>官朝對<pc>，</pc>須陳時政利病<pc>，</pc>無以觸諱為懼<pc>。</pc>
 <num value="32">乙未</num>
@@ -659,7 +676,7 @@
 <num value="6">己巳</num>
 <pc>，</pc>大雨<pc>。</pc>詔申律文諭郡國<pc>，</pc>犯大辟者刑部審覆<pc>。</pc>
 <num value="12">乙亥</num>
-<pc>，</pc>遣使賜<date>南唐</date>主生辰禮物<pc>。</pc>
+<pc>，</pc>遣使賜<date when="null">南唐</date>主生辰禮物<pc>。</pc>
 <num value="14">丁丑</num>
 <pc>，</pc>女直國遣使來獻<pc>。</pc>
 <num value="24">丁亥</num>
@@ -726,10 +743,11 @@
 <num value="7">七</num>月</measure>
 <num value="57">庚申</num>
 <pc>，</pc>
-<date>南唐</date>遣其臣翟如璧謝賜生辰禮<pc>，</pc>貢金銀<pc>、</pc>錦綺<num value="10000000">千萬</num>
+<date when="null">南唐</date>遣其臣翟如璧謝賜生辰禮<pc>，</pc>貢金銀<pc>、</pc>錦綺<num value="10000000">千萬</num>
 <pc>。</pc>
 <num value="59">壬戌</num>
-<pc>，</pc>放<date>南唐</date>降卒弱者數<num value="1000">千</num>人歸國<pc>。</pc>
+<pc>，</pc>放<date when="null">南唐</date>降卒弱者數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>歸國<pc>。</pc>
 <num value="2">乙丑</num>
 <pc>，</pc>免舒州菰蒲新稅<pc>。</pc>
 <num value="4">丁卯</num>
@@ -737,7 +755,8 @@
 <num value="16">己卯</num>
 <pc>，</pc>北漢捉生指揮使路貴等來降<pc>。</pc>
 <num value="18">辛巳</num>
-<pc>，</pc>遣從臣<num value="10">十</num>人檢河北旱<pc>。</pc>
+<pc>，</pc>遣從臣<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>檢河北旱<pc>。</pc>
 <num value="20">癸未</num>
 <pc>，</pc>兗<pc>、</pc>濟<pc>、</pc>德<pc>、</pc>磁<pc>、</pc>洺<measure quantity="5" unit="prefectures">
 <num value="5">五</num>州</measure>蝝<pc>。</pc>
@@ -747,7 +766,8 @@
 <p>　　<measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <num value="30">癸巳</num>
-<pc>，</pc>蔡河務綱官王訓等<num value="4">四</num>人坐以糠土雜軍糧<pc>，</pc>磔於市<pc>。</pc>
+<pc>，</pc>蔡河務綱官王訓等<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>坐以糠土雜軍糧<pc>，</pc>磔於市<pc>。</pc>
 <num value="32">乙未</num>
 <pc>，</pc>用知制誥高錫言<pc>，</pc>諸行賂獲薦者許告訐<pc>，</pc>奴婢鄰親能告者賞<pc>。</pc>詔注諸道司法參軍皆以律疏試判<pc>。</pc>詔尚書吏部舉書判拔萃科<pc>。</pc>
 </p>
@@ -784,14 +804,14 @@
 <pc>，</pc>禁奉使請托<pc>。</pc>縣令考課以戶口增減為黜陟<pc>。</pc>
 <num value="3">丙寅</num>
 <pc>，</pc>
-<date>南唐</date>遣其臣顧彝來朝<pc>。</pc>
+<date when="null">南唐</date>遣其臣顧彝來朝<pc>。</pc>
 <num value="13">丙子</num>
 <pc>，</pc>
 <num value="3">三</num>佛齊國遣使李麗林等來獻<pc>，</pc>高麗國遣李興祐等來朝<pc>。</pc>
 <num value="16">己卯</num>
 <pc>，</pc>畋於近郊<pc>。</pc>
 <num value="19">壬午</num>
-<pc>，</pc>賜<date>南唐</date>建隆<measure quantity="4" unit="years">
+<pc>，</pc>賜<date when="null">南唐</date>建隆<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>曆<pc>。</pc>
 </p>
 </div>
@@ -824,8 +844,8 @@
 <num value="54">丁巳</num>
 <pc>，</pc>修畿內河隄<pc>。</pc>
 <num value="56">己未</num>
-<pc>，</pc>遣使賜<date>南唐</date>
-<date>吳越</date>馬<pc>、</pc>橐駝<pc>、</pc>羊有差<pc>。</pc>
+<pc>，</pc>遣使賜<date when="null">南唐</date>
+<date when="null">吳越</date>馬<pc>、</pc>橐駝<pc>、</pc>羊有差<pc>。</pc>
 <num value="57">庚申</num>
 <pc>，</pc>遣山南東道<term>節度使</term>慕容延釗率<measure quantity="10" unit="prefectures">
 <num value="10">十</num>州</measure>兵以討張文表<pc>。</pc>
@@ -950,7 +970,8 @@
 <num value="7">七</num>月</measure>
 <num value="48">辛亥</num>朔<pc>，</pc>定州縣所置雜職<pc>、</pc>承符<pc>、</pc>廳子等名數<pc>。</pc>
 <num value="51">甲寅</num>
-<pc>，</pc>以湖湘歿王事靳彥朗男承勳等<num value="30">三十</num>人補殿直<pc>。</pc>
+<pc>，</pc>以湖湘歿王事靳彥朗男承勳等<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>補殿直<pc>。</pc>
 <num value="53">丙辰</num>
 <pc>，</pc>幸新池<pc>，</pc>賜役夫錢<pc>，</pc>遂幸玉津園<pc>。</pc>
 <num value="54">丁巳</num>
@@ -985,7 +1006,8 @@
 <pc>，</pc>
 <persName>王全斌</persName>攻北漢樂平縣<pc>，</pc>降之<pc>。</pc>
 <num value="28">辛卯</num>
-<pc>，</pc>以樂平縣為平晉軍<pc>，</pc>降卒<num value="800">千八百</num>人為效順軍<pc>，</pc>人賜錢帛<pc>。</pc>
+<pc>，</pc>以樂平縣為平晉軍<pc>，</pc>降卒<measure quantity="800" unit="people">
+<num value="800">千八百</num>人</measure>為效順軍<pc>，</pc>人賜錢帛<pc>。</pc>
 <num value="29">壬辰</num>
 <pc>，</pc>詔<num value="9">九</num>經舉人下第者再試<pc>。</pc>
 <num value="30">癸巳</num>
@@ -1013,7 +1035,7 @@
 <num value="5">戊辰</num>
 <pc>，</pc>女直國遣使獻海東青名鷹<pc>。</pc>
 <num value="13">丙子</num>
-<pc>，</pc>禁朝臣公薦貢舉人<pc>。</pc>賜<date>南唐</date>羊<num value="10000">萬</num>口<pc>。</pc>磔汪端於朗州<pc>。</pc>
+<pc>，</pc>禁朝臣公薦貢舉人<pc>。</pc>賜<date when="null">南唐</date>羊<num value="10000">萬</num>口<pc>。</pc>磔汪端於朗州<pc>。</pc>
 <num value="15">戊寅</num>
 <pc>，</pc>北漢引契丹兵攻平晉<pc>，</pc>遣洺州防禦使郭進等救之<pc>。</pc>
 </p>
@@ -1027,7 +1049,7 @@
 <pc>，</pc>畋近郊<pc>。</pc>
 <num value="44">丁未</num>
 <pc>，</pc>
-<date>吳越</date>國王進郊祀禮金銀<pc>、</pc>珠器<pc>、</pc>犀象<pc>、</pc>香藥皆<num value="10000">萬</num>計<pc>。</pc>
+<date when="null">吳越</date>國王進郊祀禮金銀<pc>、</pc>珠器<pc>、</pc>犀象<pc>、</pc>香藥皆<num value="10000">萬</num>計<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1040,7 +1062,7 @@
 <num value="100">百</num>官奉玉冊上尊號曰應天廣運仁聖文武至德皇帝<pc>。</pc>
 <num value="3">丙寅</num>
 <pc>，</pc>
-<date>南唐</date>進賀南郊<pc>、</pc>尊號銀絹<num value="10000">萬</num>計<pc>。</pc>
+<date when="null">南唐</date>進賀南郊<pc>、</pc>尊號銀絹<num value="10000">萬</num>計<pc>。</pc>
 <num value="4">丁卯</num>
 <pc>，</pc>賜近臣襲衣<pc>、</pc>金帶<pc>、</pc>器幣<pc>、</pc>鞍馬有差<pc>。</pc>
 <num value="12">乙亥</num>
@@ -1063,11 +1085,13 @@
 <pc>，</pc>泉州陳洪進遣使貢白金<num value="1000">千</num>兩<pc>，</pc>乳香<pc>、</pc>茶藥皆<num value="10000">萬</num>計<pc>。</pc>
 <num value="6">己巳</num>
 <pc>，</pc>
-<date>南唐</date>主上表乞呼名<pc>，</pc>詔不允<pc>。</pc>
+<date when="null">南唐</date>主上表乞呼名<pc>，</pc>詔不允<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　閏月<num value="46">己酉</num>朔<pc>，</pc>校醫官<pc>，</pc>黜其藝不精者<num value="22">二十二</num>人<pc>。</pc>
+<p>　　閏月<num value="46">己酉</num>朔<pc>，</pc>校醫官<pc>，</pc>黜其藝不精者<measure quantity="22" unit="people">
+<num value="22">二十二</num>人</measure>
+<pc>。</pc>
 <num value="51">甲寅</num>
 <pc>，</pc>命近臣祈雪<pc>。</pc>
 <num value="4">丁卯</num>
@@ -1109,12 +1133,14 @@
 <num value="50">癸丑</num>
 <pc>，</pc>遣使振陝州饑<pc>。</pc>導潩水入京<pc>。</pc>
 <num value="54">丁巳</num>
-<pc>，</pc>治安陵<pc>，</pc>隧壞<pc>，</pc>役兵壓死者<num value="200">二百</num>人<pc>，</pc>命有司瘞恤<pc>。</pc>
+<pc>，</pc>治安陵<pc>，</pc>隧壞<pc>，</pc>役兵壓死者<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>命有司瘞恤<pc>。</pc>
 <num value="7">庚午</num>
 <pc>，</pc>府州俘北漢衛州<term>刺史</term>楊璘來獻<pc>。</pc>
 <num value="11">甲戌</num>
 <pc>，</pc>
-<date>南唐</date>進改葬安陵銀綾絹各<num value="10000">萬</num>計<pc>。</pc>浚汴河<pc>。</pc>
+<date when="null">南唐</date>進改葬安陵銀綾絹各<num value="10000">萬</num>計<pc>。</pc>浚汴河<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1178,7 +1204,9 @@
 <num value="18">辛巳</num>
 <pc>，</pc>幸玉津園<pc>。</pc>還幸新池<pc>，</pc>觀習水戰<pc>。</pc>
 <num value="28">辛卯</num>
-<pc>，</pc>詔翰林學士陶穀<pc>、</pc>竇儀舉堪為藩郡通判者各<num value="1">一</num>人<pc>，</pc>不當者連坐<pc>。</pc>
+<pc>，</pc>詔翰林學士陶穀<pc>、</pc>竇儀舉堪為藩郡通判者各<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>不當者連坐<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1218,7 +1246,9 @@
 <p>　　<measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <num value="42">乙巳</num>
-<pc>，</pc>釋廣南郴州都監陳琄等<num value="200">二百</num>人<pc>。</pc>
+<pc>，</pc>釋廣南郴州都監陳琄等<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>。</pc>
 <num value="45">戊申</num>
 <pc>，</pc>劉光義拔夔州<pc>，</pc>蜀節度高彥儔自焚<pc>。</pc>
 <num value="54">丁巳</num>
@@ -1227,8 +1257,10 @@
 <pc>，</pc>
 <persName>王全斌</persName>克<num value="10000">萬</num>仞<pc>、</pc>燕子<num value="2">二</num>砦<pc>，</pc>下興州<pc>，</pc>連拔石圌等<num value="20">二十</num>餘砦<pc>。</pc>
 <num value="1">甲子</num>
-<pc>，</pc>光義拔巫山等砦<pc>，</pc>斬蜀將南光海等<num value="8000">八千</num>級<pc>，</pc>禽其戰櫂都指揮袁德宏等<num value="200">千二百</num>人<pc>。</pc>全斌先鋒史進德敗蜀人於<num value="3">三</num>泉砦<pc>，</pc>禽其<term>節度使</term>韓保正<pc>、</pc>李進等<pc>。</pc>
-<date>南唐</date>進銀<num value="20000">二萬</num>兩<pc>、</pc>金銀器皿數<num value="100">百</num>事<pc>。</pc>
+<pc>，</pc>光義拔巫山等砦<pc>，</pc>斬蜀將南光海等<num value="8000">八千</num>級<pc>，</pc>禽其戰櫂都指揮袁德宏等<measure quantity="200" unit="people">
+<num value="200">千二百</num>人</measure>
+<pc>。</pc>全斌先鋒史進德敗蜀人於<num value="3">三</num>泉砦<pc>，</pc>禽其<term>節度使</term>韓保正<pc>、</pc>李進等<pc>。</pc>
+<date when="null">南唐</date>進銀<num value="20000">二萬</num>兩<pc>、</pc>金銀器皿數<num value="100">百</num>事<pc>。</pc>
 <num value="7">庚午</num>
 <pc>，</pc>詔招復山林聚匿<pc>。</pc>
 <num value="8">辛未</num>

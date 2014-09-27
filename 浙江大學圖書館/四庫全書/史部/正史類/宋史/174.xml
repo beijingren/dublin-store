@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="174">
 <div>
-<p>◎食貨上<num value="2">二</num>
+<p>
+<name key="null" type="null">◎食貨</name>上<num value="2">二</num>
 <pc>（</pc>方田賦稅<pc>）</pc>
 </p>
 </div>
@@ -54,7 +55,11 @@
 <num value="7">七</num>年</measure>
 <pc>，</pc>京東<measure quantity="17" unit="prefectures">
 <num value="17">十七</num>州</measure>選官<num value="4">四</num>員<pc>，</pc>各主其方<pc>，</pc>分行郡縣<pc>，</pc>以<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>為任<pc>。</pc>每方差大甲頭<num value="2">二</num>人<pc>、</pc>小甲頭<num value="3">三</num>人<pc>，</pc>同集方戶<pc>，</pc>令各認步畝<pc>，</pc>方田官驗地色<pc>，</pc>更勒甲頭<pc>、</pc>方戶同定<pc>。</pc>諸路及開封府界秋田災傷<num value="3">三</num>分以上縣權罷<pc>，</pc>餘候農隙<pc>。</pc>河北西路提舉司乞通<num value="1">一</num>縣災傷不及<num value="1">一</num>分勿罷<pc>。</pc>
+<num value="3">三</num>年</measure>為任<pc>。</pc>每方差大甲頭<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>、</pc>小甲頭<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>同集方戶<pc>，</pc>令各認步畝<pc>，</pc>方田官驗地色<pc>，</pc>更勒甲頭<pc>、</pc>方戶同定<pc>。</pc>諸路及開封府界秋田災傷<num value="3">三</num>分以上縣權罷<pc>，</pc>餘候農隙<pc>。</pc>河北西路提舉司乞通<num value="1">一</num>縣災傷不及<num value="1">一</num>分勿罷<pc>。</pc>
 </p>
 </div>
 <div>
@@ -125,7 +130,7 @@
 <num value="6">六</num>月</measure>
 <pc>，</pc>秋輸毋過<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
-<pc>，</pc>遣使分道按率<pc>。</pc>其弊也<pc>，</pc>先期而苛斂<pc>，</pc>增額而繁征<pc>，</pc>至於<date>
+<pc>，</pc>遣使分道按率<pc>。</pc>其弊也<pc>，</pc>先期而苛斂<pc>，</pc>增額而繁征<pc>，</pc>至於<date when="null">
 <num value="5">五</num>代</date>極矣<pc>。</pc>
 </p>
 </div>
@@ -173,7 +178,7 @@
 </div>
 <div>
 <p>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>以來<pc>，</pc>常檢視見墾田以定歲租<pc>。</pc>吏緣為奸<pc>，</pc>稅不均適<pc>，</pc>繇是<num value="100">百</num>姓失業<pc>，</pc>田多荒蕪<pc>。</pc>太祖即位<pc>，</pc>詔許民辟土<pc>，</pc>州縣毋得檢括<pc>，</pc>止以見佃為額<pc>。</pc>選官分蒞京畿倉瘐<pc>，</pc>及詣諸道<pc>，</pc>受民租調<pc>，</pc>有增羨者輒得罪<pc>，</pc>多入民租者或至棄市<pc>。</pc>
 </p>
 </div>
@@ -319,7 +324,7 @@
 </p>
 </div>
 <div>
-<p>自<date>唐</date>以來<pc>，</pc>民計田輸賦外<pc>，</pc>增取他物<pc>，</pc>複折為賦<pc>，</pc>謂之<pc>“</pc>雜變<pc>”</pc>
+<p>自<date when="null">唐</date>以來<pc>，</pc>民計田輸賦外<pc>，</pc>增取他物<pc>，</pc>複折為賦<pc>，</pc>謂之<pc>“</pc>雜變<pc>”</pc>
 <pc>，</pc>亦謂之<pc>“</pc>沿納<pc>”</pc>
 <pc>。</pc>而名品煩細<pc>，</pc>其類不<num value="1">一</num>
 <pc>。</pc>官司歲附帳籍<pc>，</pc>並緣侵優<pc>，</pc>民以為患<pc>。</pc>明道中<pc>，</pc>帝躬耕籍田<pc>，</pc>因詔<num value="3">三</num>司以類並合<pc>。</pc>於是悉除諸名品<pc>，</pc>並為<num value="1">一</num>物<pc>，</pc>夏秋歲入<pc>，</pc>第分粗細<num value="2">二</num>色<pc>，</pc>
@@ -339,7 +344,8 @@
 <pc>”</pc>既而諫官王素言<pc>：</pc>
 <pc>“</pc>天下田賦輕重不等<pc>，</pc>請均定<pc>。</pc>
 <pc>”</pc>而<persName>歐陽修</persName>亦言<pc>：</pc>
-<pc>“</pc>秘書丞孫琳嚐往洺州肥鄉縣<pc>，</pc>與大理寺丞郭諮以<num value="1000">千</num>步方田法括定民田<pc>，</pc>願詔<num value="2">二</num>人得任之<pc>。</pc>
+<pc>“</pc>秘書丞孫琳嚐往洺州肥鄉縣<pc>，</pc>與大理寺丞郭諮以<num value="1000">千</num>步方田法括定民田<pc>，</pc>願詔<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>得任之<pc>。</pc>
 <pc>”</pc>
 <num value="3">三</num>司亦以為然<pc>，</pc>且請於亳<pc>、</pc>壽<pc>、</pc>蔡<pc>、</pc>汝<measure quantity="4" unit="prefectures">
 <num value="4">四</num>州</measure>擇庀不均者均之<pc>。</pc>於是遣諮蔡州<pc>。</pc>諮首括<num value="1">一</num>縣<pc>，</pc>得田<num value="26930">二萬六千九百三十</num>餘頃<pc>，</pc>均其賦於民<pc>。</pc>既而諮言州縣多逃田<pc>，</pc>未可盡括<pc>，</pc>朝廷亦重勞人<pc>，</pc>遂罷<pc>。</pc>
@@ -606,7 +612,9 @@
 <num value="13">十三</num>年</measure>
 <pc>，</pc>淮東宣撫使韓世忠請以賜田及私產自昔未輸之稅並歸之官<pc>，</pc>詔獎諭而可之<pc>。</pc>初<pc>，</pc>神武右軍統製張俊乞蠲所置產凡和買<pc>、</pc>科敷<pc>，</pc>詔特從之<pc>。</pc>後<pc>，</pc>
 <num value="3">三</num>省言<pc>：</pc>
-<pc>“</pc>國家兵革未息<pc>，</pc>用度至廣<pc>，</pc>陛下哀憫元元<pc>，</pc>俾士大夫及勳戚之家與編戶等敷<pc>，</pc>蓋欲寬民力<pc>，</pc>均有無<pc>。</pc>今俊獨得免<pc>，</pc>則當均在餘戶<pc>，</pc>是使民為俊代輸也<pc>。</pc>方今大將不止俊<num value="1">一</num>人<pc>，</pc>使各援例求免<pc>，</pc>何以拒之<pc>？</pc>望收還前詔<pc>。</pc>
+<pc>“</pc>國家兵革未息<pc>，</pc>用度至廣<pc>，</pc>陛下哀憫元元<pc>，</pc>俾士大夫及勳戚之家與編戶等敷<pc>，</pc>蓋欲寬民力<pc>，</pc>均有無<pc>。</pc>今俊獨得免<pc>，</pc>則當均在餘戶<pc>，</pc>是使民為俊代輸也<pc>。</pc>方今大將不止俊<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>使各援例求免<pc>，</pc>何以拒之<pc>？</pc>望收還前詔<pc>。</pc>
 <pc>”</pc>詔從之<pc>。</pc>越數年間<pc>，</pc>俊複乞免歲輸和買絹<pc>，</pc>
 <num value="3">三</num>省擬歲賜俊絹<num value="5000">五千</num>匹<pc>，</pc>庶免起例<pc>。</pc>上以示俊<pc>，</pc>因諭之曰<pc>：</pc>
 <pc>“</pc>朕固不惜<pc>，</pc>但恐公議不可<pc>。</pc>
@@ -629,7 +637,7 @@
 <measure quantity="23" unit="years">
 <num value="23">二十三</num>年</measure>
 <pc>，</pc>知池州黃子遊言<pc>：</pc>
-<pc>“</pc>青陽縣苗<num value="56">七八</num>倍於諸縣<pc>，</pc>因<date>南唐</date>嚐以縣為宋齊丘食邑<pc>，</pc>畝輸<num value="3">三</num>鬥<pc>，</pc>後遂為額<pc>。</pc>
+<pc>“</pc>青陽縣苗<num value="56">七八</num>倍於諸縣<pc>，</pc>因<date when="null">南唐</date>嚐以縣為宋齊丘食邑<pc>，</pc>畝輸<num value="3">三</num>鬥<pc>，</pc>後遂為額<pc>。</pc>
 <pc>”</pc>詔減苗稅<num value="2">二</num>分有半<pc>，</pc>租米<num value="2">二</num>分<pc>。</pc>是時<pc>，</pc>兩浙州縣合輸綿<pc>、</pc>綢<pc>、</pc>稅絹<pc>、</pc>茶絹<pc>、</pc>雜錢<pc>、</pc>米<num value="6">六</num>色<pc>，</pc>皆以市價折錢<pc>，</pc>卻別科米麥<pc>，</pc>有畝輸<num value="20">四五</num>鬥者<pc>。</pc>京西括田<pc>，</pc>租加於舊<pc>。</pc>湖南有土戶錢<pc>、</pc>折絁錢<pc>、</pc>醋息錢<pc>、</pc>曲引錢<pc>，</pc>名色不<num value="1">一</num>
 <pc>。</pc>荊南戶口<num value="100000">十萬</num>
 <pc>，</pc>寇亂以來<pc>，</pc>幾無人跡<pc>。</pc>議者希朝廷意<pc>，</pc>謂流民已複<pc>，</pc>可使歲輸<num value="12">十二</num>

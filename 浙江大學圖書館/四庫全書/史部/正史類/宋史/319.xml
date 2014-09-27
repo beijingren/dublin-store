@@ -25,8 +25,12 @@
 <div type="chapter" n="319">
 <div>
 <p>
+<name key="null" type="null">
 <persName>歐陽修</persName>
-<pc>，</pc>字<persName>永叔</persName>
+</name>
+<pc>，</pc>字<name key="歐陽修" type="zi">
+<persName>永叔</persName>
+</name>
 <pc>，</pc>
 <placeName>廬陵</placeName>人<pc>。</pc>
 <measure quantity="4" unit="years">
@@ -37,14 +41,14 @@
 </div>
 <div>
 <p>
-<date>宋</date>興且<measure quantity="100" unit="years">
+<date when="null">宋</date>興且<measure quantity="100" unit="years">
 <num value="100">百</num>年</measure>
 <pc>，</pc>而文章體裁<pc>，</pc>猶仍<num value="5">五</num>季余習<pc>。</pc>鎪刻駢偶<pc>，</pc>淟涊弗振<pc>，</pc>士因陋守舊<pc>，</pc>論卑氣弱<pc>。</pc>
 <persName>蘇舜元</persName>
 <pc>、</pc>舜欽<pc>、</pc>
 <persName>柳開</persName>
 <pc>、</pc>
-<persName>穆修</persName>輩<pc>，</pc>咸有意作而張之<pc>，</pc>而力不足<pc>。</pc>修游隨<pc>，</pc>得<date>唐</date>
+<persName>穆修</persName>輩<pc>，</pc>咸有意作而張之<pc>，</pc>而力不足<pc>。</pc>修游隨<pc>，</pc>得<date when="null">唐</date>
 <persName>韓愈</persName>遺稿於廢書簏中<pc>，</pc>讀而心慕焉<pc>。</pc>苦志探賾<pc>，</pc>至忘寢食<pc>，</pc>必欲並轡絕馳而追與之並<pc>。</pc>
 </p>
 </div>
@@ -117,7 +121,10 @@
 <pc>「</pc>
 <quote>第言之<pc>，</pc>毋以中外為間<pc>。</pc>
 </quote>
-<pc>」</pc>賊平<pc>，</pc>大將李昭亮<pc>、</pc>通判馮博文私納婦女<pc>，</pc>修捕博文系獄<pc>，</pc>昭亮懼<pc>，</pc>立出所納婦<pc>。</pc>兵之始亂也<pc>，</pc>招以不死<pc>，</pc>既而皆殺之<pc>，</pc>脅從<num value="2000">二千</num>人<pc>，</pc>分隸諸郡<pc>。</pc>
+<pc>」</pc>賊平<pc>，</pc>大將<persName>李昭亮</persName>
+<pc>、</pc>通判馮博文私納婦女<pc>，</pc>修捕博文系獄<pc>，</pc>昭亮懼<pc>，</pc>立出所納婦<pc>。</pc>兵之始亂也<pc>，</pc>招以不死<pc>，</pc>既而皆殺之<pc>，</pc>脅從<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>
+<pc>，</pc>分隸諸郡<pc>。</pc>
 <persName>富弼</persName>為宣撫使<pc>，</pc>恐後生變<pc>，</pc>將使同日誅之<pc>，</pc>與修遇於<placeName>內黃</placeName>
 <pc>，</pc>
 <time when="24:00">夜半</time>
@@ -140,7 +147,9 @@
 <persName>范仲淹</persName>
 <pc>、</pc>
 <persName>富弼</persName>
-<pc>，</pc>天下皆知其有可用之賢<pc>，</pc>而不聞其有可罷之罪<pc>，</pc>自古小人讒害忠賢<pc>，</pc>其說不遠<pc>。</pc>欲廣陷良善<pc>，</pc>不過指為朋黨<pc>，</pc>欲動搖大臣<pc>，</pc>必須誣以顓權<pc>，</pc>其故何也<pc>？</pc>去<num value="1">一</num>善人<pc>，</pc>而眾善人尚在<pc>，</pc>則未為小人之利<pc>；</pc>欲盡去之<pc>，</pc>則善人少過<pc>，</pc>難為<num value="1">一一</num>求瑕<pc>，</pc>唯指以為黨<pc>，</pc>則可<num value="1">一</num>時盡逐<pc>，</pc>至如自古大臣<pc>，</pc>已被主知而蒙信任<pc>，</pc>則難以他事動搖<pc>，</pc>唯有顓權是上之所惡<pc>，</pc>必須此說<pc>，</pc>方可傾之<pc>。</pc>正士在朝<pc>，</pc>群邪所忌<pc>，</pc>謀臣不用<pc>，</pc>敵國之福也<pc>。</pc>今此<num value="4">四</num>人<num value="1">一</num>旦罷去<pc>，</pc>而使群邪相賀於內<pc>，</pc>
+<pc>，</pc>天下皆知其有可用之賢<pc>，</pc>而不聞其有可罷之罪<pc>，</pc>自古小人讒害忠賢<pc>，</pc>其說不遠<pc>。</pc>欲廣陷良善<pc>，</pc>不過指為朋黨<pc>，</pc>欲動搖大臣<pc>，</pc>必須誣以顓權<pc>，</pc>其故何也<pc>？</pc>去<num value="1">一</num>善人<pc>，</pc>而眾善人尚在<pc>，</pc>則未為小人之利<pc>；</pc>欲盡去之<pc>，</pc>則善人少過<pc>，</pc>難為<num value="1">一一</num>求瑕<pc>，</pc>唯指以為黨<pc>，</pc>則可<num value="1">一</num>時盡逐<pc>，</pc>至如自古大臣<pc>，</pc>已被主知而蒙信任<pc>，</pc>則難以他事動搖<pc>，</pc>唯有顓權是上之所惡<pc>，</pc>必須此說<pc>，</pc>方可傾之<pc>。</pc>正士在朝<pc>，</pc>群邪所忌<pc>，</pc>謀臣不用<pc>，</pc>敵國之福也<pc>。</pc>今此<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>
+<num value="1">一</num>旦罷去<pc>，</pc>而使群邪相賀於內<pc>，</pc>
 <num value="4">四</num>夷相賀於外<pc>，</pc>臣為朝廷惜之<pc>。</pc>
 </quote>
 <pc>」</pc>於是邪党益忌修<pc>，</pc>因其孤甥張氏獄傅致以罪<pc>，</pc>左遷知制誥<pc>、</pc>知<placeName>滁州</placeName>
@@ -153,7 +162,8 @@
 <num value="12">十二</num>年</measure>矣<pc>。</pc>帝見其發白<pc>，</pc>問勞甚至<pc>。</pc>小人畏修復用<pc>，</pc>有詐為修奏<pc>，</pc>乞澄汰內侍為奸利者<pc>。</pc>其群皆怨怒<pc>，</pc>譖之<pc>，</pc>出知同州<pc>，</pc>帝納吳充言而止<pc>。</pc>遷翰林學士<pc>，</pc>俾修<pc>《</pc>
 <title>唐書</title>
 <pc>》</pc>
-<pc>。</pc>奉使契丹<pc>，</pc>其主命貴臣<num value="4">四</num>人押宴<pc>，</pc>曰<pc>：</pc>
+<pc>。</pc>奉使契丹<pc>，</pc>其主命貴臣<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>押宴<pc>，</pc>曰<pc>：</pc>
 <pc>「</pc>
 <quote>此非常制<pc>，</pc>以卿名重故爾<pc>。</pc>
 </quote>
@@ -215,7 +225,8 @@
 <pc>」</pc>太后意稍和<pc>，</pc>修復曰<pc>：</pc>
 <pc>「</pc>
 <quote>仁宗在位久<pc>，</pc>德澤在人<pc>。</pc>故<measure quantity="1" unit="day">
-<num value="1">一</num>日</measure>晏駕<pc>，</pc>天下奉戴嗣君<pc>，</pc>無<num value="1">一</num>人敢異同者<pc>。</pc>今太后<num value="1">一</num>婦人<pc>，</pc>臣等<num value="30">五六</num>書生耳<pc>，</pc>非仁宗遺意<pc>，</pc>天下誰肯聽從<pc>。</pc>
+<num value="1">一</num>日</measure>晏駕<pc>，</pc>天下奉戴嗣君<pc>，</pc>無<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>敢異同者<pc>。</pc>今太后<num value="1">一</num>婦人<pc>，</pc>臣等<num value="30">五六</num>書生耳<pc>，</pc>非仁宗遺意<pc>，</pc>天下誰肯聽從<pc>。</pc>
 </quote>
 <pc>」</pc>太后默然<pc>，</pc>久之而罷<pc>。</pc>
 </p>
@@ -275,7 +286,7 @@
 <title>唐書</title>
 <pc>》</pc>紀<pc>、</pc>志<pc>、</pc>表<pc>，</pc>自撰<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>史記</title>
 <pc>》</pc>
 <pc>，</pc>法嚴詞約<pc>，</pc>多取<pc>《</pc>
@@ -320,8 +331,8 @@
 <div>
 <p>論曰<pc>：</pc>
 <pc>「</pc>
-<num value="3">三</num>代而降<pc>，</pc>薄乎秦<pc>、</pc>漢<pc>，</pc>文章雖與時盛衰<pc>，</pc>而藹如其言<pc>，</pc>曄如其光<pc>，</pc>皦如其音<pc>，</pc>蓋均有先王之遺烈<pc>。</pc>涉晉<pc>、</pc>魏而弊<pc>，</pc>至<date>唐</date>
-<persName>韓愈</persName>氏振起之<pc>。</pc>唐之文<pc>，</pc>涉<num value="5">五</num>季而弊<pc>，</pc>至<date>宋</date>
+<num value="3">三</num>代而降<pc>，</pc>薄乎秦<pc>、</pc>漢<pc>，</pc>文章雖與時盛衰<pc>，</pc>而藹如其言<pc>，</pc>曄如其光<pc>，</pc>皦如其音<pc>，</pc>蓋均有先王之遺烈<pc>。</pc>涉晉<pc>、</pc>魏而弊<pc>，</pc>至<date when="null">唐</date>
+<persName>韓愈</persName>氏振起之<pc>。</pc>唐之文<pc>，</pc>涉<num value="5">五</num>季而弊<pc>，</pc>至<date when="null">宋</date>
 <persName>歐陽修</persName>又振起之<pc>。</pc>挽<num value="100">百</num>川之頹波<pc>，</pc>息<num value="1000">千</num>古之邪說<pc>，</pc>使斯文之正氣<pc>，</pc>可以羽翼大道<pc>，</pc>扶持人心<pc>，</pc>此兩人之力也<pc>。</pc>愈不獲用<pc>，</pc>修用矣<pc>，</pc>亦弗克究其所為<pc>，</pc>可為世道惜也哉<pc>！</pc>
 </p>
 </div>
@@ -479,7 +490,9 @@
 <pc>「</pc>
 <quote>我死<pc>，</pc>子孫以此蒸嘗我<pc>。</pc>
 </quote>
-<pc>」</pc>朝廷每有禮樂之事<pc>，</pc>必就其家以取決焉<pc>。</pc>為文尤贍敏<pc>。</pc>掌外制時<pc>，</pc>將下直<pc>，</pc>會追封王<pc>、</pc>主<num value="9">九</num>人<pc>，</pc>立馬卻坐<pc>，</pc>頃之<pc>，</pc>
+<pc>」</pc>朝廷每有禮樂之事<pc>，</pc>必就其家以取決焉<pc>。</pc>為文尤贍敏<pc>。</pc>掌外制時<pc>，</pc>將下直<pc>，</pc>會追封王<pc>、</pc>主<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>
+<pc>，</pc>立馬卻坐<pc>，</pc>頃之<pc>，</pc>
 <num value="9">九</num>製成<pc>。</pc>
 <persName>歐陽修</persName>每於書有疑<pc>，</pc>折簡來問<pc>，</pc>對其使揮筆<pc>，</pc>答之不停手<pc>，</pc>修服其博<pc>。</pc>長於<pc>《</pc>
 <title>春秋</title>
@@ -623,13 +636,16 @@
 <p>知齊州<pc>，</pc>其治以疾奸急盜為本<pc>。</pc>曲堤周氏擁貲雄裏中<pc>，</pc>子高橫縱<pc>，</pc>賊良民<pc>，</pc>汙婦女<pc>，</pc>服器上僭<pc>，</pc>力能動權豪<pc>，</pc>州縣吏莫敢詰<pc>，</pc>鞏取置於法<pc>。</pc>章邱民聚黨村落間<pc>，</pc>號<pc>「</pc>
 <quote>霸王社</quote>
 <pc>」</pc>
-<pc>，</pc>椎剽奪囚<pc>，</pc>無不如志<pc>。</pc>鞏配<num value="31">三十一</num>人<pc>，</pc>又屬民為保伍<pc>，</pc>使幾察其出入<pc>，</pc>有盜則鳴鼓相援<pc>，</pc>每發輒得盜<pc>。</pc>有葛友者<pc>，</pc>名在捕中<pc>，</pc>
+<pc>，</pc>椎剽奪囚<pc>，</pc>無不如志<pc>。</pc>鞏配<measure quantity="31" unit="people">
+<num value="31">三十一</num>人</measure>
+<pc>，</pc>又屬民為保伍<pc>，</pc>使幾察其出入<pc>，</pc>有盜則鳴鼓相援<pc>，</pc>每發輒得盜<pc>。</pc>有葛友者<pc>，</pc>名在捕中<pc>，</pc>
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
 <pc>，</pc>自出首<pc>。</pc>鞏飲食冠裳之<pc>，</pc>假以騎從<pc>，</pc>輦所購金帛隨之<pc>，</pc>誇徇<num value="4">四</num>境<pc>。</pc>盜聞<pc>，</pc>多出自首<pc>。</pc>鞏外視章顯<pc>，</pc>實欲攜貳其徒<pc>，</pc>使之不能複合也<pc>。</pc>自是外戶不閉<pc>。</pc>河北發民浚河<pc>，</pc>調及它路<pc>，</pc>齊當給夫<num value="20000">二萬</num>
 <pc>。</pc>縣初按籍<num value="3">三</num>丁出夫<num value="1">一</num>
 <pc>，</pc>鞏括其隱漏<pc>，</pc>至於<num value="9">九</num>而取<num value="1">一</num>
-<pc>，</pc>省費數倍<pc>。</pc>又弛無名渡錢<pc>，</pc>為橋以濟往來<pc>。</pc>徙傳舍<pc>，</pc>自長清抵博州<pc>，</pc>以達于魏<pc>，</pc>凡省<num value="6">六</num>驛<pc>，</pc>人皆以為利<pc>。</pc>徙襄州<pc>、</pc>洪州<pc>。</pc>會江西歲大疫<pc>，</pc>鞏命縣鎮亭傳<pc>，</pc>悉儲藥待求<pc>，</pc>軍民不能自養者<pc>，</pc>來食息官舍<pc>，</pc>資其食飲衣衾之具<pc>，</pc>分醫視診<pc>，</pc>書其全失<pc>、</pc>多寡為殿最<pc>。</pc>師征安南<pc>，</pc>所過州為<num value="10000">萬</num>人備<pc>。</pc>他吏暴誅亟斂<pc>，</pc>民不堪<pc>。</pc>鞏先期區處猝集<pc>，</pc>師去<pc>，</pc>市里不知<pc>。</pc>加直龍圖閣<pc>、</pc>知福州<pc>。</pc>南劍將樂盜廖恩既赦罪出降<pc>，</pc>余眾潰複合<pc>，</pc>陰相結附<pc>，</pc>旁連數州<pc>，</pc>尤桀者呼之不至<pc>，</pc>居人懾恐<pc>。</pc>鞏以計羅致之<pc>，</pc>繼自歸者<num value="200">二百</num>輩<pc>。</pc>福多佛寺<pc>，</pc>僧利其富饒<pc>，</pc>爭欲為主守<pc>，</pc>賕請公行<pc>。</pc>鞏俾其徒相推擇<pc>，</pc>識諸籍<pc>，</pc>以次補之<pc>。</pc>授帖於府庭<pc>，</pc>卻其私謝<pc>，</pc>以絕左右徼求之弊<pc>。</pc>福州無職田<pc>，</pc>歲鬻園蔬收其直<pc>，</pc>自入常<num value="1200000">三四十萬</num>
+<pc>，</pc>省費數倍<pc>。</pc>又弛無名渡錢<pc>，</pc>為橋以濟往來<pc>。</pc>徙傳舍<pc>，</pc>自長清抵博州<pc>，</pc>以達于魏<pc>，</pc>凡省<num value="6">六</num>驛<pc>，</pc>人皆以為利<pc>。</pc>徙襄州<pc>、</pc>洪州<pc>。</pc>會江西歲大疫<pc>，</pc>鞏命縣鎮亭傳<pc>，</pc>悉儲藥待求<pc>，</pc>軍民不能自養者<pc>，</pc>來食息官舍<pc>，</pc>資其食飲衣衾之具<pc>，</pc>分醫視診<pc>，</pc>書其全失<pc>、</pc>多寡為殿最<pc>。</pc>師征安南<pc>，</pc>所過州為<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>備<pc>。</pc>他吏暴誅亟斂<pc>，</pc>民不堪<pc>。</pc>鞏先期區處猝集<pc>，</pc>師去<pc>，</pc>市里不知<pc>。</pc>加直龍圖閣<pc>、</pc>知福州<pc>。</pc>南劍將樂盜廖恩既赦罪出降<pc>，</pc>余眾潰複合<pc>，</pc>陰相結附<pc>，</pc>旁連數州<pc>，</pc>尤桀者呼之不至<pc>，</pc>居人懾恐<pc>。</pc>鞏以計羅致之<pc>，</pc>繼自歸者<num value="200">二百</num>輩<pc>。</pc>福多佛寺<pc>，</pc>僧利其富饒<pc>，</pc>爭欲為主守<pc>，</pc>賕請公行<pc>。</pc>鞏俾其徒相推擇<pc>，</pc>識諸籍<pc>，</pc>以次補之<pc>。</pc>授帖於府庭<pc>，</pc>卻其私謝<pc>，</pc>以絕左右徼求之弊<pc>。</pc>福州無職田<pc>，</pc>歲鬻園蔬收其直<pc>，</pc>自入常<num value="1200000">三四十萬</num>
 <pc>。</pc>鞏曰<pc>：</pc>
 <pc>「</pc>
 <quote>太守與民爭利<pc>，</pc>可乎<pc>？</pc>
@@ -764,7 +780,7 @@
 <quote>陛下思建皇極<pc>，</pc>以消弭朋黨<pc>，</pc>須先分別君子小人<pc>，</pc>賞善罰惡<pc>，</pc>不可偏廢<pc>。</pc>
 </quote>
 <pc>」</pc>開說備至<pc>。</pc>已而詔從中出<pc>。</pc>布之拜相<pc>，</pc>肇適當制<pc>，</pc>
-<date>國朝</date>學士弟草兄制<pc>，</pc>唯韓維與肇<pc>，</pc>為衣冠榮<pc>。</pc>建中靖國元年<pc>，</pc>太史奏日又當食<measure quantity="4" unit="months">
+<date when="null">國朝</date>學士弟草兄制<pc>，</pc>唯韓維與肇<pc>，</pc>為衣冠榮<pc>。</pc>建中靖國元年<pc>，</pc>太史奏日又當食<measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <pc>。</pc>肇請對言<pc>：</pc>
 <pc>「</pc>
@@ -790,7 +806,9 @@
 <pc>「</pc>
 <quote>兄方得君<pc>，</pc>當引用善人<pc>，</pc>翊正道<pc>，</pc>以杜惇<pc>、</pc>卞複起之萌<pc>。</pc>而數月以來<pc>，</pc>所謂端人起士<pc>，</pc>繼跡去朝<pc>，</pc>所進以為輔佐<pc>、</pc>侍從<pc>、</pc>台諫<pc>，</pc>往往皆前日事惇<pc>、</pc>卞者<pc>。</pc>
 <num value="1">一</num>旦勢異今日<pc>，</pc>必首引之以為固位計<pc>，</pc>思之可為慟哭<pc>。</pc>比來主意已移<pc>，</pc>小人道長<pc>。</pc>進則必論元祐人於帝前<pc>，</pc>退則盡排元祐者于要路<pc>。</pc>異時惇<pc>、</pc>卞縱未至<pc>，</pc>
-<num value="1">一</num>蔡京足以兼<num value="2">二</num>人<pc>，</pc>可不深慮<pc>。</pc>
+<num value="1">一</num>蔡京足以兼<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>，</pc>可不深慮<pc>。</pc>
 </quote>
 <pc>」</pc>布不能從<pc>。</pc>未幾<pc>，</pc>京得政<pc>，</pc>布與肇俱不免<pc>。</pc>
 </p>

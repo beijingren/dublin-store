@@ -24,8 +24,9 @@
 <body>
 <div type="chapter" n="28">
 <div>
-<p>　　<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>春<measure quantity="1" unit="month">
+<p>
+<name key="null" type="null">　　<num value="5">五</num>
+</name>年春<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -36,7 +37,8 @@
 <pc>，</pc>進廬<pc>、</pc>泰<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>守禦官屬各<num value="1">一</num>官<pc>。</pc>
 <num value="46">己酉</num>
-<pc>，</pc>詔前宰執呂頤浩等<num value="19">十九</num>人及行在職事官各條上攻戰備禦措置綏懷之策<pc>。</pc>免淮南官吏去職之罪<pc>，</pc>仍令還任<pc>。</pc>承州水砦統領仲諒復入楚州<pc>。</pc>
+<pc>，</pc>詔前宰執呂頤浩等<measure quantity="19" unit="people">
+<num value="19">十九</num>人</measure>及行在職事官各條上攻戰備禦措置綏懷之策<pc>。</pc>免淮南官吏去職之罪<pc>，</pc>仍令還任<pc>。</pc>承州水砦統領仲諒復入楚州<pc>。</pc>
 <num value="47">庚戌</num>
 <pc>，</pc>張俊遣統領楊忠閔<pc>、</pc>王進夾擊金人於淮南岸<pc>，</pc>敗之<pc>，</pc>降其將程師回<pc>、</pc>張延壽<pc>。</pc>
 <num value="48">辛亥</num>
@@ -294,7 +296,8 @@
 <num value="9">九</num>月</measure>
 <num value="8">辛未</num>朔<pc>，</pc>罷總制司所增收頭子等諸色錢<pc>。</pc>
 <num value="12">乙亥</num>
-<pc>，</pc>賜禮部進士汪洋以下<num value="220">二百二十</num>人及第<pc>、</pc>出身<pc>。</pc>唱名始遵故典<pc>，</pc>令館職侍立殿上<pc>。</pc>
+<pc>，</pc>賜禮部進士汪洋以下<measure quantity="220" unit="people">
+<num value="220">二百二十</num>人</measure>及第<pc>、</pc>出身<pc>。</pc>唱名始遵故典<pc>，</pc>令館職侍立殿上<pc>。</pc>
 <num value="19">壬午</num>
 <pc>，</pc>加岳飛檢校少保<pc>。</pc>偽齊兵寇固始縣<pc>，</pc>統領華旺拒戰<pc>，</pc>卻之<pc>，</pc>尋復光州<pc>。</pc>
 <num value="21">甲申</num>
@@ -305,7 +308,8 @@
 <pc>》</pc>
 <pc>。</pc>
 <num value="29">壬辰</num>
-<pc>，</pc>詔元符上書邪等範柔中等<num value="27">二十七</num>人各官<num value="1">一</num>子<pc>。</pc>以解潛部兵<num value="3000">三千</num>隸馬軍司<pc>。</pc>
+<pc>，</pc>詔元符上書邪等範柔中等<measure quantity="27" unit="people">
+<num value="27">二十七</num>人</measure>各官<num value="1">一</num>子<pc>。</pc>以解潛部兵<num value="3000">三千</num>隸馬軍司<pc>。</pc>
 <num value="31">甲午</num>
 <pc>，</pc>周<num value="10">十</num>隆復叛<pc>，</pc>犯汀州<pc>。</pc>
 <num value="35">戊戌</num>
@@ -320,7 +324,9 @@
 <num value="52">乙卯</num>
 <pc>，</pc>以席益為<num value="4">四</num>川制置大使<pc>，</pc>位宣撫副使上<pc>，</pc>州軍兵馬並隸大使司<pc>，</pc>邊防重事仍令宣撫司處置<pc>。</pc>李綱為江西制置大使<pc>，</pc>呂頤浩為湖南制置大使<pc>。</pc>
 <num value="55">戊午</num>
-<pc>，</pc>詔川<pc>、</pc>陝類試合格第<num value="1">一</num>人依殿試第<num value="3">三</num>人例推恩<pc>，</pc>餘並同賜進士出身<pc>，</pc>特奏名進士命宣撫選官試時務策<pc>。</pc>澧州賊雷德進降<pc>。</pc>
+<pc>，</pc>詔川<pc>、</pc>陝類試合格第<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>依殿試第<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>例推恩<pc>，</pc>餘並同賜進士出身<pc>，</pc>特奏名進士命宣撫選官試時務策<pc>。</pc>澧州賊雷德進降<pc>。</pc>
 <num value="2">乙丑</num>
 <pc>，</pc>偽齊兵寇漣水軍<pc>，</pc>韓世忠遣統制呼延通等逆擊<pc>，</pc>敗之<pc>。</pc>
 </p>
@@ -338,7 +344,9 @@
 <num value="18">辛巳</num>
 <pc>，</pc>復置淮南提舉鹽事官<pc>。</pc>
 <num value="19">壬午</num>
-<pc>，</pc>出宮女<num value="30">三十</num>人<pc>。</pc>
+<pc>，</pc>出宮女<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>。</pc>
 <num value="21">甲申</num>
 <pc>，</pc>權減宰執及行在官吏奉<pc>。</pc>
 <num value="22">乙酉</num>
@@ -426,7 +434,8 @@
 <num value="53">丙辰</num>
 <pc>，</pc>韓世忠圍淮陽軍<pc>。</pc>復置諸路市易務<pc>。</pc>
 <num value="55">戊午</num>
-<pc>，</pc>命楊沂中以兵<num value="10000">萬</num>人聽都督行府調遣<pc>。</pc>
+<pc>，</pc>命楊沂中以兵<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>聽都督行府調遣<pc>。</pc>
 <num value="56">己未</num>
 <pc>，</pc>遣戶部侍郎劉甯止如鎮江府<pc>，</pc>總領<num value="3">三</num>宣撫司錢糧<pc>。</pc>
 <num value="58">辛酉</num>
@@ -440,7 +449,9 @@
 <div>
 <p>　　<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
-<num value="5">戊辰</num>朔<pc>，</pc>初收官告綾紙錢<pc>。</pc>名金<pc>、</pc>均<pc>、</pc>房州民兵曰保勝<pc>，</pc>又命招刺<num value="3000">三千</num>人<pc>，</pc>賜名必勝軍<pc>。</pc>
+<num value="5">戊辰</num>朔<pc>，</pc>初收官告綾紙錢<pc>。</pc>名金<pc>、</pc>均<pc>、</pc>房州民兵曰保勝<pc>，</pc>又命招刺<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>
+<pc>，</pc>賜名必勝軍<pc>。</pc>
 <num value="6">己巳</num>
 <pc>，</pc>以韓世忠為京東<pc>、</pc>淮東路宣撫處置使<pc>，</pc>岳飛為京西<pc>、</pc>湖北路宣撫副使<pc>。</pc>
 <num value="8">辛未</num>
@@ -468,7 +479,9 @@
 <num value="47">庚戌</num>
 <pc>，</pc>始訓諸宗子名<pc>。</pc>
 <num value="51">甲寅</num>
-<pc>，</pc>賞淮陽功<pc>，</pc>呼延通等進官有差<pc>，</pc>餘受賞者凡<num value="7000">萬七千</num>人<pc>。</pc>劉光世遣副統制王師晟<pc>、</pc>酈瓊襲偽齊兵于劉龍城<pc>，</pc>破之<pc>，</pc>禽其統制華知剛<pc>。</pc>
+<pc>，</pc>賞淮陽功<pc>，</pc>呼延通等進官有差<pc>，</pc>餘受賞者凡<measure quantity="7000" unit="people">
+<num value="7000">萬七千</num>人</measure>
+<pc>。</pc>劉光世遣副統制王師晟<pc>、</pc>酈瓊襲偽齊兵于劉龍城<pc>，</pc>破之<pc>，</pc>禽其統制華知剛<pc>。</pc>
 <num value="56">己未</num>
 <pc>，</pc>命福建安撫司發水軍討海賊鄭慶<pc>。</pc>
 <num value="58">辛酉</num>
@@ -603,7 +616,8 @@
 <num value="41">甲辰</num>
 <pc>，</pc>又詔浚督將士僇力破賊<pc>，</pc>皆未達<pc>。</pc>劉猊犯定遠縣<pc>，</pc>沂中進戰<pc>，</pc>大敗之於藕塘<pc>，</pc>猊挺身遁<pc>，</pc>麟在順昌聞之<pc>，</pc>拔砦去<pc>。</pc>劉光世遣王德及沂中追麟<pc>，</pc>至南壽春而還<pc>。</pc>孔彥舟亦解光州圍而去<pc>。</pc>
 <num value="45">戊申</num>
-<pc>，</pc>命解潛遣兵<num value="1000">千</num>人守青龍港口<pc>。</pc>
+<pc>，</pc>命解潛遣兵<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>守青龍港口<pc>。</pc>
 <num value="50">癸丑</num>
 <pc>，</pc>張俊<pc>、</pc>楊沂中引兵攻壽春府<pc>，</pc>不克而還<pc>。</pc>
 <num value="52">乙卯</num>
@@ -648,7 +662,8 @@
 <num value="56">己未</num>
 <pc>，</pc>命辰<pc>、</pc>沅<pc>、</pc>靖<pc>、</pc>澧<measure quantity="4" unit="prefectures">
 <num value="4">四</num>州</measure>以閒田募刀弩手<pc>，</pc>
-<num value="3500">三千五百</num>人為額<pc>。</pc>右司諫陳公輔乞禁程氏學<pc>。</pc>詔<pc>：</pc>
+<measure quantity="3500" unit="people">
+<num value="3500">三千五百</num>人</measure>為額<pc>。</pc>右司諫陳公輔乞禁程氏學<pc>。</pc>詔<pc>：</pc>
 <pc>「</pc>
 <quote>士大夫之學宜以孔<pc>、</pc>孟為師<pc>，</pc>庶幾言行相稱<pc>，</pc>可濟時用<pc>。</pc>
 </quote>
@@ -755,7 +770,9 @@
 <num value="22">乙酉</num>
 <pc>，</pc>賜光世第于建康府<pc>。</pc>
 <num value="24">丁亥</num>
-<pc>，</pc>命虔<pc>、</pc>吉<pc>、</pc>南安軍諸縣各募土兵<num value="100">百</num>人<pc>，</pc>責知縣訓練<pc>，</pc>防禦盜賊<pc>。</pc>是春<pc>，</pc>廣西大饑<pc>，</pc>李實變為桃<pc>。</pc>
+<pc>，</pc>命虔<pc>、</pc>吉<pc>、</pc>南安軍諸縣各募土兵<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>責知縣訓練<pc>，</pc>防禦盜賊<pc>。</pc>是春<pc>，</pc>廣西大饑<pc>，</pc>李實變為桃<pc>。</pc>
 </p>
 </div>
 <div>
@@ -791,7 +808,9 @@
 <num value="21">甲申</num>
 <pc>，</pc>初試樞密院都督府效士<pc>。</pc>
 <num value="22">乙酉</num>
-<pc>，</pc>命侍從官通舉材堪知縣者<num value="20">二十</num>人<pc>。</pc>
+<pc>，</pc>命侍從官通舉材堪知縣者<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>。</pc>
 <num value="23">丙戌</num>
 <pc>，</pc>偽齊陷隨州<pc>。</pc>
 <num value="26">己丑</num>
@@ -824,7 +843,9 @@
 <p>　　秋<measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <num value="5">戊辰</num>
-<pc>，</pc>詔侍從各舉可任監司<pc>、</pc>郡守者<num value="2">一二</num>人<pc>。</pc>
+<pc>，</pc>詔侍從各舉可任監司<pc>、</pc>郡守者<measure quantity="2" unit="people">
+<num value="2">一二</num>人</measure>
+<pc>。</pc>
 <num value="10">癸酉</num>
 <pc>，</pc>以旱<pc>，</pc>禱於天地<pc>、</pc>宗廟<pc>、</pc>社稷<pc>。</pc>
 <num value="11">甲戌</num>
@@ -848,7 +869,8 @@
 <num value="32">乙未</num>
 <pc>，</pc>以張俊為淮西宣撫使<pc>，</pc>駐盱眙<pc>；</pc>楊沂中為淮西制置使<pc>，</pc>主管侍衛馬軍司劉錡副之<pc>，</pc>並駐廬州<pc>。</pc>命酈瓊率兵赴行在<pc>。</pc>
 <num value="35">戊戌</num>
-<pc>，</pc>瓊叛<pc>，</pc>殺中軍統制張景等<pc>，</pc>執呂祉及趙康直<pc>、</pc>趙不群<pc>，</pc>以兵<num value="40000">四萬</num>人奔劉豫<pc>。</pc>
+<pc>，</pc>瓊叛<pc>，</pc>殺中軍統制張景等<pc>，</pc>執呂祉及趙康直<pc>、</pc>趙不群<pc>，</pc>以兵<measure quantity="40000" unit="people">
+<num value="40000">四萬</num>人</measure>奔劉豫<pc>。</pc>
 <num value="38">辛丑</num>
 <pc>，</pc>手詔赦廬州屯駐行營左護軍<pc>。</pc>
 <num value="39">壬寅</num>

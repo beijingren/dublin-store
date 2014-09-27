@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="132">
 <div>
-<p>◎樂<num value="7">七</num>
+<p>
+<name key="null" type="null">◎樂<num value="7">七</num>
+</name>
 <pc>（</pc>樂章<num value="1">一</num>
 <pc>）</pc>○郊祀祈穀雩祀<num value="5">五</num>方帝感生帝建隆郊祀<num value="8">八</num>曲</p>
 </div>
@@ -493,7 +495,8 @@
 </div>
 <div>
 <p>錫我純嘏<pc>，</pc>我應受之<pc>。</pc>
-<num value="1">一</num>人有慶<pc>，</pc>燕及群黎<pc>。</pc>還位<pc>，</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>有慶<pc>，</pc>燕及群黎<pc>。</pc>還位<pc>，</pc>
 <pc>《</pc>
 <title>乾安</title>
 <pc>》</pc>帝出於震<pc>，</pc>孝奏上儀<pc>。</pc>燔燎膻薌<pc>，</pc>神徠燕矣<pc>。</pc>肅若舊典<pc>，</pc>罔或不祗<pc>。</pc>既右饗之<pc>，</pc>翕受蕃厘<pc>。</pc>
@@ -895,7 +898,8 @@
 <pc>《</pc>
 <title>高安</title>
 <pc>》</pc>隆冬戒序<pc>，</pc>歲曆順成<pc>。</pc>
-<num value="1">一</num>人有慶<pc>，</pc>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>有慶<pc>，</pc>
 <num value="10000">萬</num>物由庚<pc>。</pc>有旨斯酒<pc>，</pc>有碩斯牲<pc>。</pc>報功崇德<pc>，</pc>正直聰明<pc>。</pc>奠玉幣<pc>、</pc>酌獻<pc>，</pc>
 <pc>《</pc>
 <title>嘉安</title>

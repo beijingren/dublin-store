@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="290">
 <div>
-<p>曹利用<pc>，</pc>字用之<pc>，</pc>趙州寧晉人<pc>。</pc>父諫<pc>，</pc>擢明經第<pc>，</pc>仕至右補闕<pc>，</pc>以武略改崇儀使<pc>。</pc>利用少喜談辯<pc>，</pc>慷慨有志操<pc>。</pc>諫卒<pc>，</pc>補殿前承旨<pc>，</pc>改右班殿直<pc>，</pc>遷為鄜延路走馬承受公事<pc>。</pc>
+<p>
+<name key="null" type="null">曹利用</name>
+<pc>，</pc>字用之<pc>，</pc>趙州寧晉人<pc>。</pc>父諫<pc>，</pc>擢明經第<pc>，</pc>仕至右補闕<pc>，</pc>以武略改崇儀使<pc>。</pc>利用少喜談辯<pc>，</pc>慷慨有志操<pc>。</pc>諫卒<pc>，</pc>補殿前承旨<pc>，</pc>改右班殿直<pc>，</pc>遷為鄜延路走馬承受公事<pc>。</pc>
 </p>
 </div>
 <div>
@@ -177,7 +179,9 @@
 </p>
 </div>
 <div>
-<p>子<num value="24">二十四</num>人<pc>。</pc>得<num value="1">一</num>
+<p>子<measure quantity="24" unit="people">
+<num value="24">二十四</num>人</measure>
+<pc>。</pc>得<num value="1">一</num>
 <pc>，</pc>慶曆中守貝州<pc>，</pc>妖人王則作亂<pc>，</pc>不能死<pc>，</pc>又與之草禮儀<pc>，</pc>伏誅<pc>；</pc>可<num value="1">一</num>
 <pc>，</pc>坐與群婢賊殺其妻<pc>，</pc>棄市<pc>；</pc>利<num value="1">一</num>
 <pc>，</pc>團練使<pc>；</pc>誠<num value="1">一</num>
@@ -279,7 +283,9 @@
 </p>
 </div>
 <div>
-<p>守贇字<persName>子美</persName>
+<p>守贇字<name key="蘇舜欽" type="zi">
+<persName>子美</persName>
+</name>
 <pc>。</pc>初<pc>，</pc>守恩給事襄王邸<pc>，</pc>王問其兄弟<pc>，</pc>守恩言守贇<measure quantity="4" unit="years">
 <num value="4">四</num>歲</measure>而孤<pc>，</pc>日侍王邸<pc>，</pc>不得時撫養<pc>，</pc>心輒念之<pc>。</pc>王為動容<pc>，</pc>即日召入宮<pc>，</pc>而憐其幼<pc>，</pc>聽就外舍<pc>。</pc>後<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
@@ -361,7 +367,9 @@
 <persName>范仲淹</persName>曰<pc>：</pc>
 <pc>“</pc>此良將材也<pc>。</pc>
 <pc>”</pc>
-<num value="2">二</num>人<num value="1">一</num>見奇之<pc>，</pc>待遇甚厚<pc>。</pc>仲淹以<pc>《</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<num value="1">一</num>見奇之<pc>，</pc>待遇甚厚<pc>。</pc>仲淹以<pc>《</pc>
 <title>左氏春秋</title>
 <pc>》</pc>授之曰<pc>：</pc>
 <pc>“</pc>將不知古今<pc>，</pc>匹夫勇爾<pc>。</pc>
@@ -395,14 +403,18 @@
 <div>
 <p>先是<pc>，</pc>蔣偕<pc>、</pc>張忠皆輕敵敗死<pc>，</pc>軍聲大沮<pc>。</pc>青戒諸將毋妄與賊鬥<pc>，</pc>聽吾所為<pc>。</pc>廣西鈐轄陳曙乘青未至<pc>，</pc>輒以步卒<num value="8000">八千</num>犯賊<pc>，</pc>潰於昆侖關<pc>，</pc>殿直袁用等皆遁<pc>。</pc>青曰<pc>：</pc>
 <pc>“</pc>令之不齊<pc>，</pc>兵所以敗<pc>。</pc>
-<pc>”</pc>晨會諸將堂上<pc>，</pc>揖曙起<pc>，</pc>並召用等<num value="30">三十</num>人<pc>，</pc>按以敗亡狀<pc>，</pc>驅出軍門斬之<pc>。</pc>沔<pc>、</pc>靖相顧愕眙<pc>，</pc>諸將股慄<pc>。</pc>
+<pc>”</pc>晨會諸將堂上<pc>，</pc>揖曙起<pc>，</pc>並召用等<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>，</pc>按以敗亡狀<pc>，</pc>驅出軍門斬之<pc>。</pc>沔<pc>、</pc>靖相顧愕眙<pc>，</pc>諸將股慄<pc>。</pc>
 </p>
 </div>
 <div>
 <p>已而頓甲<pc>，</pc>令軍中休<measure quantity="10" unit="days">
 <num value="10">十</num>日</measure>
 <pc>。</pc>覘者還<pc>，</pc>以為軍未即進<pc>。</pc>青明日乃整軍騎<pc>，</pc>
-<num value="1">一</num>晝夜絕昆侖關<pc>，</pc>出歸仁鋪為陣<pc>。</pc>賊既失險<pc>，</pc>悉出逆戰<pc>。</pc>前鋒孫節搏賊死山下<pc>，</pc>賊氣銳甚<pc>，</pc>沔等懼失色<pc>。</pc>青執白旗麾騎兵<pc>，</pc>縱左右翼<pc>，</pc>出賊不意<pc>，</pc>大敗之<pc>，</pc>追奔<num value="50">五十</num>里<pc>，</pc>斬首數<num value="1000">千</num>級<pc>，</pc>其黨黃師宓<pc>、</pc>儂建中智中及偽官屬死者<num value="57">五十七</num>人<pc>，</pc>生擒賊<num value="500">五百</num>餘人<pc>，</pc>智高夜縱火燒城遁去<pc>。</pc>遲明<pc>，</pc>青按兵入城<pc>，</pc>獲金帛钜<num value="10000">萬</num>
+<num value="1">一</num>晝夜絕昆侖關<pc>，</pc>出歸仁鋪為陣<pc>。</pc>賊既失險<pc>，</pc>悉出逆戰<pc>。</pc>前鋒孫節搏賊死山下<pc>，</pc>賊氣銳甚<pc>，</pc>沔等懼失色<pc>。</pc>青執白旗麾騎兵<pc>，</pc>縱左右翼<pc>，</pc>出賊不意<pc>，</pc>大敗之<pc>，</pc>追奔<num value="50">五十</num>里<pc>，</pc>斬首數<num value="1000">千</num>級<pc>，</pc>其黨黃師宓<pc>、</pc>儂建中智中及偽官屬死者<measure quantity="57" unit="people">
+<num value="57">五十七</num>人</measure>
+<pc>，</pc>生擒賊<num value="500">五百</num>餘人<pc>，</pc>智高夜縱火燒城遁去<pc>。</pc>遲明<pc>，</pc>青按兵入城<pc>，</pc>獲金帛钜<num value="10000">萬</num>
 <pc>、</pc>雜畜數<num value="1000">千</num>
 <pc>，</pc>招復老壯<num value="7200">七千二百</num>嘗為賊所俘脅者<pc>，</pc>慰遣之<pc>。</pc>梟黃師宓等邕州城下<pc>，</pc>斂屍築京觀於城北隅<pc>。</pc>時賊屍有衣金龍衣者<pc>，</pc>眾謂智高已死<pc>，</pc>欲以上聞<pc>。</pc>青曰<pc>：</pc>
 <pc>“</pc>安知非詐邪<pc>？</pc>寧失智高<pc>，</pc>不敢誣朝廷以貪功也<pc>。</pc>
@@ -421,7 +433,8 @@
 </div>
 <div>
 <p>始<pc>，</pc>交阯願出兵助討智高<pc>，</pc>
-<persName>余靖</persName>言其可信<pc>，</pc>具<num value="10000">萬</num>人糧於邕<pc>、</pc>欽待之<pc>。</pc>詔以緡錢<num value="30000">三萬</num>賜交阯為兵費<pc>，</pc>許賊平厚賞之<pc>。</pc>青既至<pc>，</pc>檄<persName>余靖</persName>無通使假兵<pc>，</pc>即上奏曰<pc>：</pc>
+<persName>余靖</persName>言其可信<pc>，</pc>具<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>糧於邕<pc>、</pc>欽待之<pc>。</pc>詔以緡錢<num value="30000">三萬</num>賜交阯為兵費<pc>，</pc>許賊平厚賞之<pc>。</pc>青既至<pc>，</pc>檄<persName>余靖</persName>無通使假兵<pc>，</pc>即上奏曰<pc>：</pc>
 <pc>“</pc>李德政聲言將步兵<num value="50000">五萬</num>
 <pc>、</pc>騎<num value="1000">一千</num>赴援<pc>，</pc>非其情實<pc>。</pc>且假兵於外以除內寇<pc>，</pc>非我利也<pc>。</pc>以<num value="1">一</num>智高而橫蹂<num value="2">二</num>廣<pc>，</pc>力不能討<pc>，</pc>乃假兵蠻夷<pc>，</pc>蠻夷貪得忘義<pc>，</pc>因而啟亂<pc>，</pc>何以禦之<pc>？</pc>請罷交阯助兵<pc>。</pc>
 <pc>”</pc>從之<pc>。</pc>賊平<pc>，</pc>人服其有遠略<pc>。</pc>
@@ -452,7 +465,9 @@
 </p>
 </div>
 <div>
-<p>諒祚攻大順城<pc>，</pc>玉以兵<num value="3000">三千</num>夜擊之<pc>，</pc>驚潰而去<pc>。</pc>累遷昭州防禦使<pc>，</pc>徙涇原<pc>。</pc>熙寧中<pc>，</pc>慶州卒叛<pc>，</pc>玉襲逐於石門<pc>，</pc>卒窮蹙請降<pc>，</pc>玉斬<num value="200">二百</num>人<pc>，</pc>坐奪職<pc>，</pc>降為陵州團練使<pc>，</pc>居數月<pc>，</pc>復之<pc>。</pc>
+<p>諒祚攻大順城<pc>，</pc>玉以兵<num value="3000">三千</num>夜擊之<pc>，</pc>驚潰而去<pc>。</pc>累遷昭州防禦使<pc>，</pc>徙涇原<pc>。</pc>熙寧中<pc>，</pc>慶州卒叛<pc>，</pc>玉襲逐於石門<pc>，</pc>卒窮蹙請降<pc>，</pc>玉斬<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>坐奪職<pc>，</pc>降為陵州團練使<pc>，</pc>居數月<pc>，</pc>復之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -461,11 +476,17 @@
 </p>
 </div>
 <div>
-<p>孫節<pc>，</pc>開封人<pc>。</pc>少隸軍籍<pc>，</pc>以才勇補右侍禁<pc>。</pc>與狄青同在延州<pc>，</pc>數攻破敵砦有功<pc>，</pc>累遷西京左藏庫副使<pc>。</pc>及青討智高<pc>，</pc>辟隸麾下<pc>。</pc>至歸仁鋪<pc>，</pc>節為前鋒<pc>，</pc>直前搏戰<pc>，</pc>賊銳甚<pc>，</pc>節鏖山下<pc>，</pc>俄中槍而沒<pc>。</pc>特贈忠武軍節度留後<pc>，</pc>封其妻為仁壽郡君<pc>，</pc>官其子<num value="2">二</num>人<pc>、</pc>從子<num value="3">三</num>人<pc>，</pc>給諸司副使俸<pc>，</pc>終其喪<pc>。</pc>
+<p>孫節<pc>，</pc>開封人<pc>。</pc>少隸軍籍<pc>，</pc>以才勇補右侍禁<pc>。</pc>與狄青同在延州<pc>，</pc>數攻破敵砦有功<pc>，</pc>累遷西京左藏庫副使<pc>。</pc>及青討智高<pc>，</pc>辟隸麾下<pc>。</pc>至歸仁鋪<pc>，</pc>節為前鋒<pc>，</pc>直前搏戰<pc>，</pc>賊銳甚<pc>，</pc>節鏖山下<pc>，</pc>俄中槍而沒<pc>。</pc>特贈忠武軍節度留後<pc>，</pc>封其妻為仁壽郡君<pc>，</pc>官其子<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>、</pc>從子<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>給諸司副使俸<pc>，</pc>終其喪<pc>。</pc>
 </p>
 </div>
 <div>
-<p>郭逵<pc>，</pc>字仲通<pc>，</pc>其先自邢徙洛<pc>。</pc>康定中<pc>，</pc>兄遵死於敵<pc>，</pc>錄逵為<num value="3">三</num>班奉職<pc>，</pc>隸陝西<persName>范仲淹</persName>麾下<pc>。</pc>仲淹勉以問學<pc>。</pc>延安清剛社募兵誤殺熟羌<pc>，</pc>將論死<pc>，</pc>逵請而免之<pc>，</pc>活壯士<num value="13">十三</num>人<pc>。</pc>方議取靈武<pc>，</pc>逵曰<pc>：</pc>
+<p>郭逵<pc>，</pc>字仲通<pc>，</pc>其先自邢徙洛<pc>。</pc>康定中<pc>，</pc>兄遵死於敵<pc>，</pc>錄逵為<num value="3">三</num>班奉職<pc>，</pc>隸陝西<persName>范仲淹</persName>麾下<pc>。</pc>仲淹勉以問學<pc>。</pc>延安清剛社募兵誤殺熟羌<pc>，</pc>將論死<pc>，</pc>逵請而免之<pc>，</pc>活壯士<measure quantity="13" unit="people">
+<num value="13">十三</num>人</measure>
+<pc>。</pc>方議取靈武<pc>，</pc>逵曰<pc>：</pc>
 <pc>“</pc>地遠而食不繼<pc>，</pc>城大而兵不多<pc>，</pc>未見其利<pc>。</pc>
 <pc>”</pc>未幾<pc>，</pc>涇原任福以全軍沒<pc>，</pc>人服其先見<pc>。</pc>
 </p>
@@ -527,7 +548,8 @@
 <pc>“</pc>必執李崇貴<pc>、</pc>韓道喜來<pc>。</pc>
 <pc>”</pc>夏人言<pc>：</pc>
 <pc>“</pc>殺之矣<pc>。</pc>
-<pc>”</pc>逵命以<num value="2">二</num>人狀貌物色詰問虜<pc>，</pc>情得<pc>，</pc>乃執獻之<pc>。</pc>加檢校太尉<pc>、</pc>雄武軍留後<pc>。</pc>
+<pc>”</pc>逵命以<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>狀貌物色詰問虜<pc>，</pc>情得<pc>，</pc>乃執獻之<pc>。</pc>加檢校太尉<pc>、</pc>雄武軍留後<pc>。</pc>
 </p>
 </div>
 <div>
@@ -537,7 +559,9 @@
 </p>
 </div>
 <div>
-<p>交阯李乾德陷邕管<pc>，</pc>召為安南行營經略招討使兼荊湖<pc>、</pc>廣南宣撫使<pc>，</pc>請鄜延<pc>、</pc>河東舊吏士自隨<pc>。</pc>將行<pc>，</pc>宴於便殿<pc>，</pc>賜中軍旗章劍甲以示寵<pc>。</pc>次長沙<pc>，</pc>先遣將複邕<pc>、</pc>廉<pc>；</pc>至廣西<pc>，</pc>討拔廣源州<pc>，</pc>降守將劉應紀<pc>；</pc>又拔決裏隘<pc>，</pc>乘勝取桄榔<pc>、</pc>門州<pc>，</pc>大戰富良江<pc>，</pc>斬偽王子洪真<pc>。</pc>乾德窮蹙<pc>，</pc>奉表歸命<pc>。</pc>時兵夫<num value="300000">三十萬</num>人<pc>，</pc>冒暑涉瘴地<pc>，</pc>死者過半<pc>。</pc>至是<pc>，</pc>與賊隔<num value="1">一</num>水不得進<pc>，</pc>乃班師<pc>。</pc>坐貶左衛將軍<pc>，</pc>西京安置<pc>，</pc>屏處<measure quantity="10" unit="years">
+<p>交阯李乾德陷邕管<pc>，</pc>召為安南行營經略招討使兼荊湖<pc>、</pc>廣南宣撫使<pc>，</pc>請鄜延<pc>、</pc>河東舊吏士自隨<pc>。</pc>將行<pc>，</pc>宴於便殿<pc>，</pc>賜中軍旗章劍甲以示寵<pc>。</pc>次長沙<pc>，</pc>先遣將複邕<pc>、</pc>廉<pc>；</pc>至廣西<pc>，</pc>討拔廣源州<pc>，</pc>降守將劉應紀<pc>；</pc>又拔決裏隘<pc>，</pc>乘勝取桄榔<pc>、</pc>門州<pc>，</pc>大戰富良江<pc>，</pc>斬偽王子洪真<pc>。</pc>乾德窮蹙<pc>，</pc>奉表歸命<pc>。</pc>時兵夫<measure quantity="300000" unit="people">
+<num value="300000">三十萬</num>人</measure>
+<pc>，</pc>冒暑涉瘴地<pc>，</pc>死者過半<pc>。</pc>至是<pc>，</pc>與賊隔<num value="1">一</num>水不得進<pc>，</pc>乃班師<pc>。</pc>坐貶左衛將軍<pc>，</pc>西京安置<pc>，</pc>屏處<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
 <pc>。</pc>哲宗立<pc>，</pc>複左屯衛大將軍致仕<pc>。</pc>起知潞州<pc>，</pc>進廣州觀察使<pc>、</pc>知河中<pc>。</pc>辭歸洛<pc>，</pc>改左武衛上將軍<pc>、</pc>提舉崇福宮<pc>，</pc>卒<pc>。</pc>輟視朝<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
@@ -548,7 +572,9 @@
 <div>
 <p>逵忼慨喜兵學<pc>，</pc>神宗嚐訪<num value="8">八</num>陣遺法<pc>，</pc>對曰<pc>：</pc>
 <pc>“</pc>兵無常形<pc>，</pc>是特奇正相生之<num value="1">一</num>法爾<pc>。</pc>
-<pc>”</pc>因為帝論其詳<pc>。</pc>在延安<pc>，</pc>使以教兵<pc>，</pc>久不就<pc>。</pc>逵擇諸校習金鼓屯營者<num value="64">六十四</num>人<pc>，</pc>使人教<num value="1">一</num>隊<pc>，</pc>頃刻而成<pc>。</pc>尤善用偏裨<pc>，</pc>每至所部<pc>，</pc>令人自言所能<pc>，</pc>暇日閱按之<pc>，</pc>故臨陣皆盡其技<pc>。</pc>
+<pc>”</pc>因為帝論其詳<pc>。</pc>在延安<pc>，</pc>使以教兵<pc>，</pc>久不就<pc>。</pc>逵擇諸校習金鼓屯營者<measure quantity="64" unit="people">
+<num value="64">六十四</num>人</measure>
+<pc>，</pc>使人教<num value="1">一</num>隊<pc>，</pc>頃刻而成<pc>。</pc>尤善用偏裨<pc>，</pc>每至所部<pc>，</pc>令人自言所能<pc>，</pc>暇日閱按之<pc>，</pc>故臨陣皆盡其技<pc>。</pc>
 </p>
 </div>
 <div>

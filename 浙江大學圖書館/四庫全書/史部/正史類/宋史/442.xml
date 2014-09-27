@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="442">
 <div>
-<p>◎文苑<num value="4">四</num>
+<p>
+<name key="null" type="null">◎文苑</name>
+<num value="4">四</num>
 </p>
 </div>
 <div>
@@ -33,7 +35,9 @@
 <div>
 <p>
 <persName>穆修</persName>
-<pc>，</pc>字<persName>伯長</persName>
+<pc>，</pc>字<name key="穆修" type="zi">
+<persName>伯長</persName>
+</name>
 <pc>，</pc>鄆州人<pc>。</pc>幼嗜學<pc>，</pc>不事章句<pc>。</pc>真宗東封<pc>，</pc>詔舉齊<pc>、</pc>魯經行之士<pc>，</pc>修預選<pc>，</pc>賜進士出身<pc>，</pc>調泰州司理參軍<pc>。</pc>負才<pc>，</pc>與眾齟齬<pc>，</pc>通判忌之<pc>，</pc>使人誣告其罪<pc>，</pc>貶池州<pc>。</pc>中道亡至京師<pc>，</pc>叩登聞鼓訴冤<pc>，</pc>不報<pc>。</pc>居貶所歲餘<pc>，</pc>遇赦得釋<pc>，</pc>迎母居京師<pc>，</pc>間出遊匄以給養<pc>。</pc>久之<pc>，</pc>補<placeName>潁州</placeName>文學參軍<pc>，</pc>徙蔡州<pc>。</pc>明道中<pc>，</pc>卒<pc>。</pc>
 </p>
 </div>
@@ -52,7 +56,7 @@
 </p>
 </div>
 <div>
-<p>自<date>
+<p>自<date when="null">
 <num value="5">五</num>代</date>文敝<pc>，</pc>國初<pc>，</pc>
 <persName>柳開</persName>始為古文<pc>。</pc>其後<pc>，</pc>楊億<pc>、</pc>劉筠尚聲偶之辭<pc>，</pc>天下學者靡然從之<pc>。</pc>修於是時獨以古文稱<pc>，</pc>
 <persName>蘇舜欽</persName>兄弟多從之遊<pc>。</pc>修雖窮死<pc>，</pc>然<num value="1">一</num>時士大夫稱能文者必曰穆參軍<pc>。</pc>
@@ -83,7 +87,8 @@
 </div>
 <div>
 <p>延年喜劇飲<pc>，</pc>嚐與劉潛造王氏酒樓對飲<pc>，</pc>終日不交<num value="1">一</num>言<pc>。</pc>王氏怪其飲多<pc>，</pc>以為非常人<pc>，</pc>益奉美酒肴果<pc>，</pc>
-<num value="2">二</num>人飲啖自若<pc>，</pc>至夕無酒色<pc>，</pc>相揖而去<pc>。</pc>明日<pc>，</pc>都下傳王氏酒樓有<num value="2">二</num>仙來飲<pc>，</pc>已乃知劉<pc>、</pc>石也<pc>。</pc>延年雖酣放<pc>，</pc>若不可攖以世務<pc>，</pc>然與人論天下事<pc>，</pc>是非無不當<pc>。</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>飲啖自若<pc>，</pc>至夕無酒色<pc>，</pc>相揖而去<pc>。</pc>明日<pc>，</pc>都下傳王氏酒樓有<num value="2">二</num>仙來飲<pc>，</pc>已乃知劉<pc>、</pc>石也<pc>。</pc>延年雖酣放<pc>，</pc>若不可攖以世務<pc>，</pc>然與人論天下事<pc>，</pc>是非無不當<pc>。</pc>
 </p>
 </div>
 <div>
@@ -139,7 +144,9 @@
 <div>
 <p>
 <persName>蘇舜欽</persName>
-<pc>，</pc>字<persName>子美</persName>
+<pc>，</pc>字<name key="蘇舜欽" type="zi">
+<persName>子美</persName>
+</name>
 <pc>，</pc>參知政事易簡之孫<pc>。</pc>父耆<pc>，</pc>有才名<pc>，</pc>嚐為工部郎中<pc>、</pc>直集賢院<pc>。</pc>舜欽少慷慨有大誌<pc>，</pc>狀貌怪偉<pc>。</pc>當天聖中<pc>，</pc>學者為文多病偶對<pc>，</pc>獨舜欽與河南<persName>穆修</persName>好為古文<pc>、</pc>歌詩<pc>，</pc>
 <num value="1">一</num>時豪俊多從之遊<pc>。</pc>
 </p>
@@ -242,7 +249,8 @@
 </div>
 <div>
 <p>其<num value="2">二</num>曰擇賢<pc>。</pc>夫明主勞於求賢而逸於任使<pc>，</pc>然盈庭之士不須盡擇<pc>，</pc>在擇<num value="2">一二</num>輔臣及禦史<pc>、</pc>諫官而已<pc>。</pc>陛下用人尚未慎擇<pc>。</pc>昨王隨自吏部侍郎遷門下侍郎平章事<pc>，</pc>超越<num value="10">十</num>資<pc>，</pc>複為上相<pc>。</pc>此乃非常之恩<pc>，</pc>必待非常之才<pc>，</pc>而隨虛庸邪諂<pc>，</pc>非輔相之器<pc>，</pc>降麻之後<pc>，</pc>物論沸騰<pc>。</pc>故疾纏其身<pc>，</pc>災仍於國<pc>，</pc>此亦天意愛惜我朝<pc>，</pc>陛下鑒之哉<pc>！</pc>且石中立頃在朝行<pc>，</pc>以詼諧自任<pc>，</pc>士人或有宴集<pc>，</pc>必置席間<pc>，</pc>聽其語言<pc>，</pc>以資笑噱<pc>。</pc>今處之近輔<pc>，</pc>不聞嘉謀<pc>，</pc>物望甚輕<pc>，</pc>人情所忽<pc>，</pc>使災害屢降而朝廷不尊<pc>，</pc>蓋近臣多非才者<pc>。</pc>陛下左右尚如此<pc>，</pc>天下官吏可知也<pc>。</pc>實恐遠人輕笑中國<pc>，</pc>宜即行罷免<pc>，</pc>別選賢才<pc>。</pc>又張觀為禦史中丞<pc>，</pc>高若訥為司諫<pc>，</pc>
-<num value="2">二</num>人者皆登高第<pc>，</pc>頗以文詞進<pc>，</pc>而溫和軟懦<pc>，</pc>無剛鯁敢言之氣<pc>。</pc>斯皆執政引拔建置<pc>，</pc>欲其慎默<pc>，</pc>不敢舉揚其私<pc>，</pc>時有所言<pc>，</pc>則必暗相關說<pc>，</pc>旁人窺之<pc>，</pc>甚可笑也<pc>。</pc>故禦史<pc>、</pc>諫官之任<pc>，</pc>臣欲陛下親擇之<pc>，</pc>不令出執政門下<pc>。</pc>台諫官既得其人<pc>，</pc>則近臣不敢為過<pc>，</pc>乃馭下之策也<pc>。</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>者皆登高第<pc>，</pc>頗以文詞進<pc>，</pc>而溫和軟懦<pc>，</pc>無剛鯁敢言之氣<pc>。</pc>斯皆執政引拔建置<pc>，</pc>欲其慎默<pc>，</pc>不敢舉揚其私<pc>，</pc>時有所言<pc>，</pc>則必暗相關說<pc>，</pc>旁人窺之<pc>，</pc>甚可笑也<pc>。</pc>故禦史<pc>、</pc>諫官之任<pc>，</pc>臣欲陛下親擇之<pc>，</pc>不令出執政門下<pc>。</pc>台諫官既得其人<pc>，</pc>則近臣不敢為過<pc>，</pc>乃馭下之策也<pc>。</pc>
 </p>
 </div>
 <div>

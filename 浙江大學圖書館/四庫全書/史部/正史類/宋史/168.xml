@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="168">
 <div>
-<p>◎職官<num value="8">八</num>
+<p>
+<name key="null" type="null">◎職官</name>
+<num value="8">八</num>
 <pc>（</pc>合班之製<pc>）</pc>○建隆以後合班之製</p>
 </div>
 <div>
@@ -32,7 +34,7 @@
 <pc>。</pc>
 <pc>）</pc>親王<pc>、</pc>樞宏使<pc>、</pc>留守<pc>、</pc>節度<pc>、</pc>京尹兼中書令<pc>、</pc>侍中<pc>、</pc>同中書門下平章事<pc>（</pc>已上並為使相<pc>。</pc>
 <pc>）</pc>尚書令太師太尉太傅太保司徒司空<pc>（</pc>舊儀<pc>，</pc>太師<pc>、</pc>太傅<pc>、</pc>太保為<num value="3">三</num>師<pc>。</pc>太尉<pc>、</pc>司徒<pc>、</pc>司空為<num value="3">三</num>公<pc>。</pc>太尉在太保下<pc>。</pc>
-<date>國朝</date>以來<pc>，</pc>自太傅除太尉<pc>，</pc>今依此次序<pc>。</pc>其<num value="3">三</num>師<pc>、</pc>
+<date when="null">國朝</date>以來<pc>，</pc>自太傅除太尉<pc>，</pc>今依此次序<pc>。</pc>其<num value="3">三</num>師<pc>、</pc>
 <num value="3">三</num>公之稱如舊儀製<pc>。</pc>
 <pc>）</pc>樞密使知樞密院事參知政事<pc>（</pc>舊在樞密使下<pc>。</pc>
 <pc>）</pc>樞密副使<pc>（</pc>舊在知院之上<pc>。</pc>
@@ -308,7 +310,7 @@
 <num value="5">五</num>官正<num value="5">五</num>品上<pc>，</pc>副正正<num value="6">六</num>品<pc>，</pc>靈台郎正<num value="7">七</num>品下<pc>，</pc>保章正從<num value="7">七</num>品上<pc>，</pc>挈壺正<num value="8">八</num>品上<pc>，</pc>
 <num value="5">五</num>官監候正<num value="8">八</num>品下<pc>，</pc>司曆從<num value="8">八</num>品上<pc>，</pc>司辰正<num value="9">九</num>品上<pc>。</pc>又置國子<pc>、</pc>
 <num value="5">五</num>經博士為正<num value="5">五</num>品上<pc>，</pc>左<pc>、</pc>右金吾衛上將軍為從<num value="2">二</num>品<pc>，</pc>左<pc>、</pc>右龍武<pc>、</pc>神武軍大將軍為正<num value="3">三</num>品<pc>，</pc>將軍為從<num value="3">三</num>品<pc>。</pc>又置內侍監為正<num value="3">三</num>品<pc>，</pc>少監從<num value="4">四</num>品<pc>，</pc>改諸州府學博士為文學<pc>，</pc>在參軍上<pc>。</pc>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>複置尚書令為<num value="1">一</num>品<pc>，</pc>升右丞為正<num value="4">四</num>品上<pc>，</pc>降諫議在給事之下<pc>。</pc>
 </p>
 </div>
@@ -552,7 +554,9 @@
 <pc>“</pc>羊頭<pc>”</pc>
 <pc>，</pc>形於嘲詠<pc>，</pc>
 <pc>“</pc>鬥量車載<pc>”</pc>
-<pc>，</pc>播厥風謠<pc>，</pc>國體所先<pc>，</pc>尤須慎重<pc>。</pc>竊睹班簿<pc>，</pc>員外郎及<num value="300">三百</num>餘人<pc>，</pc>郎中亦及<num value="100">百</num>數<pc>，</pc>自餘太常國子博士<pc>、</pc>殿中丞<pc>、</pc>舍人<pc>、</pc>洗馬<pc>，</pc>俱不下數<num value="100">百</num>人<pc>，</pc>率為常參<pc>，</pc>皆著引籍<pc>，</pc>不知職業之所守<pc>，</pc>多由恩澤而序遷<pc>。</pc>欲乞按唐製<pc>，</pc>應<num value="9">九</num>品以上官並定員數<pc>。</pc>
+<pc>，</pc>播厥風謠<pc>，</pc>國體所先<pc>，</pc>尤須慎重<pc>。</pc>竊睹班簿<pc>，</pc>員外郎及<num value="300">三百</num>餘人<pc>，</pc>郎中亦及<num value="100">百</num>數<pc>，</pc>自餘太常國子博士<pc>、</pc>殿中丞<pc>、</pc>舍人<pc>、</pc>洗馬<pc>，</pc>俱不下數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>率為常參<pc>，</pc>皆著引籍<pc>，</pc>不知職業之所守<pc>，</pc>多由恩澤而序遷<pc>。</pc>欲乞按唐製<pc>，</pc>應<num value="9">九</num>品以上官並定員數<pc>。</pc>
 </p>
 </div>
 <div>
@@ -566,13 +570,14 @@
 <div>
 <p>又睹唐製內外官奉錢之外<pc>，</pc>有祿米<pc>、</pc>職田<pc>，</pc>又給防閤<pc>、</pc>庶仆<pc>、</pc>親事<pc>、</pc>帳內<pc>、</pc>執衣<pc>、</pc>白直<pc>、</pc>門夫<pc>，</pc>各以官品差定其數<pc>，</pc>歲收其課以資於家<pc>。</pc>本司又有公廨田<pc>、</pc>食本錢<pc>，</pc>以給公用<pc>。</pc>自唐末離亂<pc>，</pc>國用不充<pc>，</pc>
 <num value="100">百</num>官奉錢並減其半<pc>，</pc>自餘別給<num value="1">一</num>切權停<pc>。</pc>今君官於半奉之中已是除陌<pc>，</pc>又於半奉<num value="3">三</num>分之內<pc>，</pc>其<num value="2">二</num>以他物給之<pc>，</pc>鬻於市廛<num value="10">十</num>裁得其<num value="2">一二</num>
-<pc>，</pc>曾餬口之不及<pc>，</pc>豈代耕之足雲<pc>？</pc>昔漢宣帝下詔雲<pc>“</pc>吏能勤事而奉祿薄<pc>，</pc>欲其無侵漁<num value="100">百</num>姓難矣<pc>。</pc>遂加吏奉<pc>，</pc>著於策書<pc>。</pc>竊見今之結發登朝<pc>，</pc>陳力就列<pc>，</pc>其奉也不能致<num value="9">九</num>人之飽<pc>，</pc>不及周之上農<pc>；</pc>其祿也未嚐有<num value="100">百</num>石之入<pc>，</pc>不及漢之小吏<pc>。</pc>若乃左<pc>、</pc>右仆射<pc>，</pc>
+<pc>，</pc>曾餬口之不及<pc>，</pc>豈代耕之足雲<pc>？</pc>昔漢宣帝下詔雲<pc>“</pc>吏能勤事而奉祿薄<pc>，</pc>欲其無侵漁<num value="100">百</num>姓難矣<pc>。</pc>遂加吏奉<pc>，</pc>著於策書<pc>。</pc>竊見今之結發登朝<pc>，</pc>陳力就列<pc>，</pc>其奉也不能致<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>之飽<pc>，</pc>不及周之上農<pc>；</pc>其祿也未嚐有<num value="100">百</num>石之入<pc>，</pc>不及漢之小吏<pc>。</pc>若乃左<pc>、</pc>右仆射<pc>，</pc>
 <num value="100">百</num>僚之師長<pc>，</pc>位莫崇焉<pc>，</pc>月奉所入<pc>，</pc>不及軍中<num value="1000">千</num>夫之帥<pc>，</pc>豈稽古之意哉<pc>？</pc>欲乞今後<num value="100">百</num>官奉祿雜給<pc>，</pc>並循舊製<pc>，</pc>既豐其稍入<pc>，</pc>可責以廉隅<pc>。</pc>官且限以常員<pc>，</pc>理當減於舊費<pc>，</pc>乃唐<pc>、</pc>虞之製也<pc>。</pc>
 </p>
 </div>
 <div>
 <p>凡預品官<pc>，</pc>各設資考<pc>，</pc>課其殿最<pc>，</pc>歸於有司<pc>，</pc>或曆階以升<pc>，</pc>或越次而補<pc>。</pc>
-<date>國朝</date>多以郊祀覃慶而稍遷官<pc>，</pc>考功之黜陟不行<pc>，</pc>士流之清濁無辨<pc>。</pc>陛下深鑒其弊<pc>，</pc>始務惟新<pc>。</pc>昨有事於明禋<pc>，</pc>但篇加於階爵<pc>；</pc>雖矯前失<pc>，</pc>未振舊規<pc>。</pc>並乞依舊內外官各立考限<pc>，</pc>複令考功修舉其職<pc>，</pc>每歲置使考校<pc>，</pc>以表盡公<pc>，</pc>資秩改遷<pc>，</pc>賞罰懲勸<pc>，</pc>
+<date when="null">國朝</date>多以郊祀覃慶而稍遷官<pc>，</pc>考功之黜陟不行<pc>，</pc>士流之清濁無辨<pc>。</pc>陛下深鑒其弊<pc>，</pc>始務惟新<pc>。</pc>昨有事於明禋<pc>，</pc>但篇加於階爵<pc>；</pc>雖矯前失<pc>，</pc>未振舊規<pc>。</pc>並乞依舊內外官各立考限<pc>，</pc>複令考功修舉其職<pc>，</pc>每歲置使考校<pc>，</pc>以表盡公<pc>，</pc>資秩改遷<pc>，</pc>賞罰懲勸<pc>，</pc>
 <num value="1">一</num>遵典故<pc>，</pc>以振滯淹<pc>。</pc>
 </p>
 </div>
@@ -581,7 +586,8 @@
 </p>
 </div>
 <div>
-<p>又官勳之設<pc>，</pc>名品實繁<pc>，</pc>今朝散<pc>、</pc>銀青<pc>，</pc>猶闕命服<pc>，</pc>護軍<pc>、</pc>柱國<pc>，</pc>全是虛名<pc>，</pc>欲乞自今常參官<pc>，</pc>勳<pc>、</pc>散俱至<num value="5">五</num>品者許封贈<pc>，</pc>官<pc>、</pc>勳俱至<num value="3">三</num>品者許立戟<pc>。</pc>又<num value="5">五</num>等之爵<pc>，</pc>施於賢才<pc>，</pc>雖有啟封之稱<pc>，</pc>曾無胙土之實<pc>。</pc>苴茅建社<pc>，</pc>固不可以遽行<pc>，</pc>翼子詒孫<pc>，</pc>亦足稽於舊典<pc>。</pc>內外官封至伯<pc>、</pc>子<pc>、</pc>男者<pc>，</pc>許蔭子<pc>；</pc>至公<pc>、</pc>侯者<pc>，</pc>許蔭孫<pc>；</pc>封國公者許嫡子<pc>、</pc>嫡孫<num value="1">一</num>人襲封<pc>。</pc>
+<p>又官勳之設<pc>，</pc>名品實繁<pc>，</pc>今朝散<pc>、</pc>銀青<pc>，</pc>猶闕命服<pc>，</pc>護軍<pc>、</pc>柱國<pc>，</pc>全是虛名<pc>，</pc>欲乞自今常參官<pc>，</pc>勳<pc>、</pc>散俱至<num value="5">五</num>品者許封贈<pc>，</pc>官<pc>、</pc>勳俱至<num value="3">三</num>品者許立戟<pc>。</pc>又<num value="5">五</num>等之爵<pc>，</pc>施於賢才<pc>，</pc>雖有啟封之稱<pc>，</pc>曾無胙土之實<pc>。</pc>苴茅建社<pc>，</pc>固不可以遽行<pc>，</pc>翼子詒孫<pc>，</pc>亦足稽於舊典<pc>。</pc>內外官封至伯<pc>、</pc>子<pc>、</pc>男者<pc>，</pc>許蔭子<pc>；</pc>至公<pc>、</pc>侯者<pc>，</pc>許蔭孫<pc>；</pc>封國公者許嫡子<pc>、</pc>嫡孫<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>襲封<pc>。</pc>
 </p>
 </div>
 <div>
@@ -665,7 +671,9 @@
 </div>
 <div>
 <p>太宗時<pc>，</pc>郊祀行慶<pc>，</pc>群官率多進改<pc>。</pc>真宗初<pc>，</pc>右司諫孫何上言曰<pc>：</pc>
-<pc>“</pc>伏見國家撫有多方<pc>，</pc>並建眾職<pc>。</pc>外則郡將<pc>、</pc>通守<pc>，</pc>朝士代行<pc>；</pc>關征<pc>、</pc>榷酤<pc>，</pc>使者兼掌<pc>；</pc>下至幕府職掾之微<pc>，</pc>或自朝廷選補而授<pc>。</pc>用人既廣<pc>，</pc>推擇難精<pc>。</pc>貢部上名<pc>，</pc>動逾<num value="1000">千</num>計<pc>；</pc>門資入仕<pc>，</pc>亦及<num value="100">百</num>人<pc>。</pc>稍著職勞<pc>，</pc>即升京秩<pc>；</pc>將命而出<pc>，</pc>冗長尤多<pc>。</pc>每躬祀圓丘<pc>，</pc>誕敷霈澤<pc>，</pc>無賢不肖<pc>，</pc>並許敘遷<pc>。</pc>至使評事<pc>、</pc>寺丞<pc>，</pc>才數載而通閨籍<pc>；</pc>讚善<pc>、</pc>洗馬<pc>，</pc>不<measure quantity="10" unit="years">
+<pc>“</pc>伏見國家撫有多方<pc>，</pc>並建眾職<pc>。</pc>外則郡將<pc>、</pc>通守<pc>，</pc>朝士代行<pc>；</pc>關征<pc>、</pc>榷酤<pc>，</pc>使者兼掌<pc>；</pc>下至幕府職掾之微<pc>，</pc>或自朝廷選補而授<pc>。</pc>用人既廣<pc>，</pc>推擇難精<pc>。</pc>貢部上名<pc>，</pc>動逾<num value="1000">千</num>計<pc>；</pc>門資入仕<pc>，</pc>亦及<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>稍著職勞<pc>，</pc>即升京秩<pc>；</pc>將命而出<pc>，</pc>冗長尤多<pc>。</pc>每躬祀圓丘<pc>，</pc>誕敷霈澤<pc>，</pc>無賢不肖<pc>，</pc>並許敘遷<pc>。</pc>至使評事<pc>、</pc>寺丞<pc>，</pc>才數載而通閨籍<pc>；</pc>讚善<pc>、</pc>洗馬<pc>，</pc>不<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>而登台郎<pc>。</pc>竊計今之班簿<pc>，</pc>台<pc>、</pc>省<pc>、</pc>宮<pc>、</pc>寺凡<num value="800">八百</num>員<pc>，</pc>玉石混淆<pc>，</pc>名品猥濫<pc>。</pc>異夫<pc>《</pc>
 <title>虞書</title>
 <pc>》</pc>考績<pc>、</pc>

@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="439">
 <div>
-<p>◎文苑<num value="1">一</num>
+<p>
+<name key="null" type="null">◎文苑</name>
+<num value="1">一</num>
 </p>
 </div>
 <div>
@@ -76,7 +78,9 @@
 <pc>》</pc>
 <measure quantity="1000" unit="chapters">
 <num value="1000">一千</num>卷</measure>
-<pc>。</pc>端拱初<pc>，</pc>加禮部侍郎<pc>，</pc>又知貢舉<pc>。</pc>白凡<num value="3">三</num>掌貢士<pc>，</pc>頗致譏議<pc>，</pc>然所得士如蘇易簡<pc>、</pc>王禹偁<pc>、</pc>胡宿<pc>、</pc>李宗諤輩<pc>，</pc>皆其人也<pc>。</pc>是時<pc>，</pc>命複舊製<pc>，</pc>專委有司<pc>，</pc>白所取<num value="28">二十八</num>人<pc>，</pc>罷退既眾<pc>，</pc>群議囂然<pc>。</pc>太宗遽召已黜者臨軒覆試<pc>，</pc>連放馬國祥<pc>、</pc>葉齊等<num value="800">八百</num>餘人焉<pc>。</pc>
+<pc>。</pc>端拱初<pc>，</pc>加禮部侍郎<pc>，</pc>又知貢舉<pc>。</pc>白凡<num value="3">三</num>掌貢士<pc>，</pc>頗致譏議<pc>，</pc>然所得士如蘇易簡<pc>、</pc>王禹偁<pc>、</pc>胡宿<pc>、</pc>李宗諤輩<pc>，</pc>皆其人也<pc>。</pc>是時<pc>，</pc>命複舊製<pc>，</pc>專委有司<pc>，</pc>白所取<measure quantity="28" unit="people">
+<num value="28">二十八</num>人</measure>
+<pc>，</pc>罷退既眾<pc>，</pc>群議囂然<pc>。</pc>太宗遽召已黜者臨軒覆試<pc>，</pc>連放馬國祥<pc>、</pc>葉齊等<num value="800">八百</num>餘人焉<pc>。</pc>
 </p>
 </div>
 <div>
@@ -192,7 +196,7 @@
 <num value="5">五</num>鳳樓賦</title>
 <pc>》</pc>
 <pc>，</pc>人多傳誦之<pc>。</pc>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>以來<pc>，</pc>文體卑弱<pc>，</pc>周翰與高錫<pc>、</pc>
 <persName>柳開</persName>
 <pc>、</pc>範杲習尚淳古<pc>，</pc>齊名友善<pc>，</pc>當時有<pc>“</pc>高<pc>、</pc>梁<pc>、</pc>柳<pc>、</pc>範<pc>”</pc>之稱<pc>。</pc>初<pc>，</pc>太祖嚐識彥溫於軍中<pc>，</pc>石守信亦與彥溫舊故<pc>。</pc>
@@ -217,7 +221,10 @@
 </p>
 </div>
 <div>
-<p>太平興國中<pc>，</pc>知蘇州<pc>。</pc>周翰善音律<pc>，</pc>喜蒱博<pc>，</pc>惟以飲戲為務<pc>。</pc>州有伶官錢氏<pc>，</pc>家數<num value="100">百</num>人<pc>，</pc>日令<num value="100">百</num>人供妓<pc>，</pc>每出<pc>，</pc>必以殽具自隨<pc>。</pc>郡務不治<pc>，</pc>以本官分司西京<pc>。</pc>逾月<pc>，</pc>授左讚善大夫<pc>，</pc>仍分司<pc>。</pc>俄除楚州團練副使<pc>。</pc>雍熙中<pc>，</pc>
+<p>太平興國中<pc>，</pc>知蘇州<pc>。</pc>周翰善音律<pc>，</pc>喜蒱博<pc>，</pc>惟以飲戲為務<pc>。</pc>州有伶官錢氏<pc>，</pc>家數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>日令<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>供妓<pc>，</pc>每出<pc>，</pc>必以殽具自隨<pc>。</pc>郡務不治<pc>，</pc>以本官分司西京<pc>。</pc>逾月<pc>，</pc>授左讚善大夫<pc>，</pc>仍分司<pc>。</pc>俄除楚州團練副使<pc>。</pc>雍熙中<pc>，</pc>
 <term>宰相</term>李昉以其名聞<pc>，</pc>召為右補闕<pc>，</pc>賜緋魚<pc>，</pc>使江<pc>、</pc>淮提點茶鹽<pc>。</pc>
 </p>
 </div>
@@ -324,7 +331,8 @@
 </p>
 </div>
 <div>
-<p>李昉知州事<pc>，</pc>暇日多召語<pc>，</pc>且以文為贄<pc>，</pc>昉深所嗟賞<pc>。</pc>曆宜城令<pc>。</pc>開寶中<pc>，</pc>拜太子洗馬<pc>、</pc>知蓬州<pc>，</pc>徙廣安軍<pc>。</pc>會渠州妖賊李仙眾<num value="10000">萬</num>人劫掠軍界<pc>，</pc>昂設策禽之<pc>。</pc>自餘果<pc>、</pc>合<pc>、</pc>渝<pc>、</pc>涪<measure quantity="4" unit="prefectures">
+<p>李昉知州事<pc>，</pc>暇日多召語<pc>，</pc>且以文為贄<pc>，</pc>昉深所嗟賞<pc>。</pc>曆宜城令<pc>。</pc>開寶中<pc>，</pc>拜太子洗馬<pc>、</pc>知蓬州<pc>，</pc>徙廣安軍<pc>。</pc>會渠州妖賊李仙眾<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>劫掠軍界<pc>，</pc>昂設策禽之<pc>。</pc>自餘果<pc>、</pc>合<pc>、</pc>渝<pc>、</pc>涪<measure quantity="4" unit="prefectures">
 <num value="4">四</num>州</measure>民連結為妖者<pc>，</pc>置不問<pc>，</pc>蜀民遂安<pc>。</pc>
 <term>宰相</term>薛居正稱其能<pc>，</pc>遷殿中丞<pc>、</pc>知泗州<pc>。</pc>
 </p>

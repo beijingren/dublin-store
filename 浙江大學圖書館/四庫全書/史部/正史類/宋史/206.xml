@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="206">
 <div>
-<p>◎藝文<num value="5">五</num>
+<p>
+<name key="null" type="null">◎藝文</name>
+<num value="5">五</num>
 <pc>《</pc>
 <title>燕丹子</title>
 <pc>》</pc>
@@ -113,7 +115,7 @@
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>張說<pc>《</pc>
 <title>
-<date>
+<date when="null">
 <num value="5">五</num>代</date>新說</title>
 <pc>》</pc>
 <measure quantity="2" unit="chapters">
@@ -125,7 +127,9 @@
 </p>
 </div>
 <div>
-<p>陸<persName>藏用</persName>
+<p>陸<name key="高懷德" type="zi">
+<persName>藏用</persName>
+</name>
 <pc>《</pc>
 <title>神告錄</title>
 <pc>》</pc>
@@ -486,7 +490,7 @@
 <p>
 <pc>《</pc>
 <title>
-<date>吳越</date>會粹</title>
+<date when="null">吳越</date>會粹</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>

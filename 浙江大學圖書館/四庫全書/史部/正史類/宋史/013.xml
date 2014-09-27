@@ -24,7 +24,8 @@
 <body>
 <div type="chapter" n="13">
 <div>
-<p>　　英宗體乾應曆隆功盛德憲文肅武睿聖宣孝皇帝<pc>，</pc>諱曙<pc>，</pc>濮安懿王允讓第<num value="13">十三</num>子<pc>，</pc>母曰仙游縣君任氏<pc>。</pc>明道元年<measure quantity="1" unit="month">
+<p>
+<name key="null" type="null">　　英</name>宗體乾應曆隆功盛德憲文肅武睿聖宣孝皇帝<pc>，</pc>諱曙<pc>，</pc>濮安懿王允讓第<num value="13">十三</num>子<pc>，</pc>母曰仙游縣君任氏<pc>。</pc>明道元年<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -204,7 +205,9 @@
 <p>　　夏<measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <num value="20">癸未</num>
-<pc>，</pc>放宮女<num value="35">百三十五</num>人<pc>。</pc>
+<pc>，</pc>放宮女<measure quantity="35" unit="people">
+<num value="35">百三十五</num>人</measure>
+<pc>。</pc>
 <num value="31">甲午</num>
 <pc>，</pc>祈雨于相國天清寺<pc>、</pc>醴泉觀<pc>。</pc>賜諸軍錢有差<pc>。</pc>
 </p>
@@ -261,7 +264,9 @@
 <num value="51">甲寅</num>
 <pc>，</pc>太白入太微垣<pc>。</pc>
 <num value="52">乙卯</num>
-<pc>，</pc>遣兵部員外郎呂誨等<num value="4">四</num>人充賀契丹太后生辰<pc>、</pc>正旦使<pc>，</pc>刑部郎中章岷等<num value="4">四</num>人充賀契丹主生辰<pc>、</pc>正旦使<pc>。</pc>
+<pc>，</pc>遣兵部員外郎呂誨等<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>充賀契丹太后生辰<pc>、</pc>正旦使<pc>，</pc>刑部郎中章岷等<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>充賀契丹主生辰<pc>、</pc>正旦使<pc>。</pc>
 <num value="53">丙辰</num>
 <pc>，</pc>內侍都知任守忠坐不法<pc>，</pc>貶保信軍節度副使<pc>、</pc>蘄州安置<pc>。</pc>
 <num value="54">丁巳</num>
@@ -282,7 +287,9 @@
 <p>　　冬<measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <num value="33">丙申</num>
-<pc>，</pc>詔中外近臣<pc>、</pc>監司舉治行素著可備升擢者<num value="2">二</num>人<pc>。</pc>
+<pc>，</pc>詔中外近臣<pc>、</pc>監司舉治行素著可備升擢者<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -290,7 +297,9 @@
 <num value="11">十一</num>月</measure>
 <num value="12">乙亥</num>
 <pc>，</pc>科陝西戶<num value="3">三</num>丁之<num value="1">一</num>
-<pc>，</pc>刺以爲義勇軍<pc>，</pc>凡<num value="138465">十三萬八千四百六十五</num>人<pc>，</pc>各賜錢<num value="2000">二千</num>
+<pc>，</pc>刺以爲義勇軍<pc>，</pc>凡<measure quantity="138465" unit="people">
+<num value="138465">十三萬八千四百六十五</num>人</measure>
+<pc>，</pc>各賜錢<num value="2000">二千</num>
 <pc>。</pc>諫官司馬光累上疏諫之<pc>，</pc>不允<pc>。</pc>
 <num value="15">戊寅</num>
 <pc>，</pc>復內侍養子令<pc>。</pc>
@@ -315,7 +324,9 @@
 <num value="41">甲辰</num>
 <pc>，</pc>大風<pc>，</pc>晝冥<pc>。</pc>
 <num value="44">丁未</num>
-<pc>，</pc>錄囚<pc>。</pc>是月<pc>，</pc>賜禮部奏名進士<pc>、</pc>明經諸科及第出身<num value="361">三百六十一</num>人<pc>。</pc>
+<pc>，</pc>錄囚<pc>。</pc>是月<pc>，</pc>賜禮部奏名進士<pc>、</pc>明經諸科及第出身<measure quantity="361" unit="people">
+<num value="361">三百六十一</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -372,7 +383,9 @@
 <num value="3">丙寅</num>
 <pc>，</pc>詔減乘輿服御<pc>。</pc>
 <num value="13">丙子</num>
-<pc>，</pc>放宮女<num value="80">百八十</num>人<pc>。</pc>
+<pc>，</pc>放宮女<measure quantity="80" unit="people">
+<num value="80">百八十</num>人</measure>
+<pc>。</pc>
 <num value="14">丁丑</num>
 <pc>，</pc>太白晝見<pc>。</pc>
 <num value="16">己卯</num>
@@ -387,7 +400,9 @@
 <num value="27">庚寅</num>
 <pc>，</pc>京師大雨<pc>，</pc>水<pc>。</pc>
 <num value="30">癸巳</num>
-<pc>，</pc>賜被水諸軍米<pc>，</pc>遣官視軍民水死者<num value="580">千五百八十</num>人<pc>，</pc>賜其家緡錢<pc>，</pc>葬祭其無主者<pc>。</pc>
+<pc>，</pc>賜被水諸軍米<pc>，</pc>遣官視軍民水死者<measure quantity="580" unit="people">
+<num value="580">千五百八十</num>人</measure>
+<pc>，</pc>賜其家緡錢<pc>，</pc>葬祭其無主者<pc>。</pc>
 <num value="32">乙未</num>
 <pc>，</pc>以雨災<pc>，</pc>詔責躬乞言<pc>。</pc>初<pc>，</pc>學士草詔曰<pc>：</pc>
 <pc>「</pc>
@@ -459,7 +474,9 @@
 <num value="10">癸酉</num>
 <pc>，</pc>契丹改國號爲遼<pc>。</pc>
 <num value="16">己卯</num>
-<pc>，</pc>溫州火<pc>，</pc>燒民屋<num value="4000">萬四千</num>間<pc>，</pc>死者<num value="5000">五千</num>人<pc>。</pc>
+<pc>，</pc>溫州火<pc>，</pc>燒民屋<num value="4000">萬四千</num>間<pc>，</pc>死者<measure quantity="5000" unit="people">
+<num value="5000">五千</num>人</measure>
+<pc>。</pc>
 <num value="14">丁丑</num>
 <pc>，</pc>皇太后下書中書門下<pc>：</pc>
 <pc>「</pc>
@@ -561,7 +578,9 @@
 <num value="1">一</num>貢舉<pc>。</pc>
 <num value="31">甲午</num>
 <pc>，</pc>詔<term>宰臣</term>
-<pc>、</pc>參知政事舉才行士可試館職者各<num value="5">五</num>人<pc>。</pc>
+<pc>、</pc>參知政事舉才行士可試館職者各<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>

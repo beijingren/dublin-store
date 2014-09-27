@@ -24,7 +24,9 @@
 <body>
 <div type="chapter" n="375">
 <div>
-<p>鄧肅<pc>，</pc>字志宏<pc>，</pc>南劍沙縣人<pc>。</pc>少警敏能文<pc>，</pc>美風儀<pc>，</pc>善談論<pc>。</pc>李綱見而奇之<pc>，</pc>相倡和<pc>，</pc>為忘年交<pc>。</pc>居父喪<pc>，</pc>哀毀逾禮<pc>，</pc>芝產其廬<pc>。</pc>入太學<pc>，</pc>所與游皆天下名士<pc>。</pc>時東南貢花石綱<pc>，</pc>肅作詩<num value="11">十一</num>章<pc>，</pc>言守令搜求擾民<pc>，</pc>用事者見之<pc>，</pc>屏出學<pc>。</pc>
+<p>
+<name key="null" type="null">鄧肅<pc>，</pc>
+</name>字志宏<pc>，</pc>南劍沙縣人<pc>。</pc>少警敏能文<pc>，</pc>美風儀<pc>，</pc>善談論<pc>。</pc>李綱見而奇之<pc>，</pc>相倡和<pc>，</pc>為忘年交<pc>。</pc>居父喪<pc>，</pc>哀毀逾禮<pc>，</pc>芝產其廬<pc>。</pc>入太學<pc>，</pc>所與游皆天下名士<pc>。</pc>時東南貢花石綱<pc>，</pc>肅作詩<num value="11">十一</num>章<pc>，</pc>言守令搜求擾民<pc>，</pc>用事者見之<pc>，</pc>屏出學<pc>。</pc>
 </p>
 </div>
 <div>
@@ -34,7 +36,9 @@
 </div>
 <div>
 <p>先是<pc>，</pc>朝廷賜金國帛<num value="10000000">一千萬</num>
-<pc>，</pc>肅在其營<pc>，</pc>密覘<pc>，</pc>均與將士之數<pc>，</pc>大約不過<num value="80000">八萬</num>人<pc>，</pc>至是為上言之<pc>，</pc>且言<pc>：</pc>
+<pc>，</pc>肅在其營<pc>，</pc>密覘<pc>，</pc>均與將士之數<pc>，</pc>大約不過<measure quantity="80000" unit="people">
+<num value="80000">八萬</num>人</measure>
+<pc>，</pc>至是為上言之<pc>，</pc>且言<pc>：</pc>
 <pc>“</pc>金人不足畏<pc>，</pc>但其信賞必罰<pc>，</pc>不假文字<pc>，</pc>故人各用命<pc>。</pc>朝廷則不然<pc>，</pc>有同時立功而功又相等者<pc>，</pc>或已轉數官<pc>，</pc>或尚為布衣<pc>，</pc>輕重上下<pc>，</pc>只在吏手<pc>。</pc>賞既不明<pc>，</pc>誰肯自勸<pc>？</pc>欲望專立功賞<num value="1">一</num>司<pc>，</pc>使凡立功者得以自陳<pc>。</pc>若功狀已明而賞不行<pc>，</pc>或功同而賞有輕重先後者<pc>，</pc>並置之法<pc>。</pc>
 <pc>”</pc>上從之<pc>。</pc>
 </p>
@@ -116,9 +120,13 @@
 <p>戰陣之利<num value="5">五</num>
 <pc>，</pc>曰出輕兵<pc>、</pc>務遠略<pc>、</pc>儲將帥<pc>、</pc>責成功<pc>、</pc>重賞格<pc>，</pc>大略謂<pc>：</pc>
 <pc>“</pc>關陝為進取之地<pc>，</pc>淮南為保固之地<pc>。</pc>關陝雖利於進取<pc>，</pc>然不用師於京東以牽制其勢<pc>，</pc>則彼得<num value="1">一</num>力以拒我<pc>。</pc>今大將統兵者數人<pc>，</pc>皆所恃以為根本<pc>，</pc>
-<num value="1">萬一</num>失利<pc>，</pc>將不可複用<pc>。</pc>偏裨中如牛皋<pc>、</pc>王進<pc>、</pc>楊珪<pc>、</pc>史康民皆京東土人<pc>，</pc>知地險易<pc>，</pc>可各配以部曲<num value="15000">三五千</num>人<pc>，</pc>或出淮陽<pc>，</pc>或出徐<pc>、</pc>泗<pc>，</pc>彼將奔命之不暇<pc>，</pc>此不動而分陝西重兵之<num value="1">一</num>端也<pc>。</pc>關陝今雖有<num value="2">二</num>宣撫<pc>，</pc>其體尚輕<pc>，</pc>非遣大臣不可<pc>。</pc>呂頤浩氣節高亮<pc>，</pc>李綱識量宏遠<pc>，</pc>威名素著<pc>，</pc>願擇其<num value="1">一</num>而用之<pc>，</pc>必有以報陛下<pc>。</pc>
+<num value="1">萬一</num>失利<pc>，</pc>將不可複用<pc>。</pc>偏裨中如牛皋<pc>、</pc>王進<pc>、</pc>楊珪<pc>、</pc>史康民皆京東土人<pc>，</pc>知地險易<pc>，</pc>可各配以部曲<measure quantity="15000" unit="people">
+<num value="15000">三五千</num>人</measure>
+<pc>，</pc>或出淮陽<pc>，</pc>或出徐<pc>、</pc>泗<pc>，</pc>彼將奔命之不暇<pc>，</pc>此不動而分陝西重兵之<num value="1">一</num>端也<pc>。</pc>關陝今雖有<num value="2">二</num>宣撫<pc>，</pc>其體尚輕<pc>，</pc>非遣大臣不可<pc>。</pc>呂頤浩氣節高亮<pc>，</pc>李綱識量宏遠<pc>，</pc>威名素著<pc>，</pc>願擇其<num value="1">一</num>而用之<pc>，</pc>必有以報陛下<pc>。</pc>
 <pc>”</pc>又言<pc>：</pc>
-<pc>“</pc>陛下即位之初<pc>，</pc>韓世忠<pc>、</pc>劉光世<pc>、</pc>張俊威名隱然為大將<pc>，</pc>今又有吳玠<pc>、</pc>嶽飛者出矣<pc>。</pc>願詔大將<pc>，</pc>于所部舉智謀忠勇可以馭眾統師各兩<num value="3">三</num>人<pc>，</pc>朝廷籍記<pc>。</pc>遇有事宜<pc>，</pc>使當<num value="1">一</num>隊<pc>，</pc>毋隸大將<pc>，</pc>則諸人競奮才智<pc>，</pc>皆飛<pc>、</pc>玠之儔矣<pc>。</pc>大將爵位已崇<pc>，</pc>難相統<num value="1">一</num>
+<pc>“</pc>陛下即位之初<pc>，</pc>韓世忠<pc>、</pc>劉光世<pc>、</pc>張俊威名隱然為大將<pc>，</pc>今又有吳玠<pc>、</pc>嶽飛者出矣<pc>。</pc>願詔大將<pc>，</pc>于所部舉智謀忠勇可以馭眾統師各兩<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>朝廷籍記<pc>。</pc>遇有事宜<pc>，</pc>使當<num value="1">一</num>隊<pc>，</pc>毋隸大將<pc>，</pc>則諸人競奮才智<pc>，</pc>皆飛<pc>、</pc>玠之儔矣<pc>。</pc>大將爵位已崇<pc>，</pc>難相統<num value="1">一</num>
 <pc>，</pc>自今用兵<pc>，</pc>第可授以成算<pc>，</pc>使自為戰而已<pc>，</pc>慎勿遣重臣臨之<pc>，</pc>以輕其權而分其功<pc>。</pc>今卻敵退師之後<pc>，</pc>必論功行賞<pc>，</pc>願因此詔有司預定賞格<pc>，</pc>謂如得城邑及近上首領之類<pc>，</pc>自<num value="1">一</num>命至<term>節度使</term>
 <pc>，</pc>皆差次使足相當<pc>。</pc>
 <pc>”</pc>
@@ -137,7 +145,11 @@
 <div>
 <p>所謂措畫之方有<num value="5">五</num>
 <pc>，</pc>曰親大閱<pc>、</pc>補禁衛<pc>、</pc>講軍制<pc>、</pc>訂使事<pc>、</pc>降敕榜<pc>，</pc>大略謂<pc>：</pc>
-<pc>“</pc>因秋冬之交<pc>，</pc>辟廣場<pc>，</pc>會諸將<pc>，</pc>取士卒才藝絕特者而爵賞之<pc>。</pc>建炎以來<pc>，</pc>禁衛單寡<pc>，</pc>乃藉<num value="5">五</num>軍以為重<pc>，</pc>臣常寒心<pc>。</pc>願擇忠實嚴重之將以為殿帥<pc>，</pc>稍補禁衛之闕<pc>，</pc>使隱然自成<num value="1">一</num>軍<pc>，</pc>則其馭諸將也<pc>，</pc>若臂之使指矣<pc>。</pc>今諸郡廂禁冗占私役者<pc>，</pc>大郡<num value="6000">二三千</num>人<pc>，</pc>小郡亦數<num value="100">百</num>人<pc>。</pc>臣願講求<pc>，</pc>除郡守兵將官自禁軍給事外<pc>，</pc>餘兼從衣糧使自僦人以役<pc>。</pc>大抵殺廂軍<num value="3">三</num>分之<num value="2">二</num>
+<pc>“</pc>因秋冬之交<pc>，</pc>辟廣場<pc>，</pc>會諸將<pc>，</pc>取士卒才藝絕特者而爵賞之<pc>。</pc>建炎以來<pc>，</pc>禁衛單寡<pc>，</pc>乃藉<num value="5">五</num>軍以為重<pc>，</pc>臣常寒心<pc>。</pc>願擇忠實嚴重之將以為殿帥<pc>，</pc>稍補禁衛之闕<pc>，</pc>使隱然自成<num value="1">一</num>軍<pc>，</pc>則其馭諸將也<pc>，</pc>若臂之使指矣<pc>。</pc>今諸郡廂禁冗占私役者<pc>，</pc>大郡<measure quantity="6000" unit="people">
+<num value="6000">二三千</num>人</measure>
+<pc>，</pc>小郡亦數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>。</pc>臣願講求<pc>，</pc>除郡守兵將官自禁軍給事外<pc>，</pc>餘兼從衣糧使自僦人以役<pc>。</pc>大抵殺廂軍<num value="3">三</num>分之<num value="2">二</num>
 <pc>，</pc>而以其衣糧之數盡募禁軍<pc>。</pc>金人自用兵以來<pc>，</pc>未嘗不以和好為言<pc>，</pc>此決不可恃<pc>。</pc>然<num value="2">二</num>聖在彼<pc>，</pc>不可遂已<pc>，</pc>姑以餘力行之耳<pc>。</pc>臣謂宜專命<num value="1">一</num>官<pc>，</pc>如古所謂行人者<pc>，</pc>或止左右司領之<pc>，</pc>當遣使人<pc>，</pc>舉成法而授之<pc>，</pc>庶免臨時斟酌之勞<pc>，</pc>而朝廷得以專意治兵矣<pc>。</pc>劉豫僭叛<pc>，</pc>理必滅之<pc>，</pc>謂宜降敕榜<pc>，</pc>明著豫僭逆之罪<pc>，</pc>曉諭江北士民<pc>，</pc>此亦兵家所謂伐謀伐交者<pc>。</pc>
 <pc>”</pc>
 </p>
@@ -197,7 +209,7 @@
 <div>
 <p>未幾<pc>，</pc>移蹕錢塘<pc>，</pc>再除中書舍人<pc>，</pc>奏曰<pc>：</pc>
 <pc>“</pc>去歲郊禮前日食<pc>，</pc>而日官不以聞<pc>，</pc>廷臣不以告<pc>，</pc>使陛下所以應天者未至<pc>，</pc>故逆臣敢萌不軌者<pc>，</pc>無先事之戒也<pc>。</pc>陛下即位<pc>，</pc>行再歲矣<pc>，</pc>側怛愛民之政徒為空言<pc>，</pc>而<num value="100">百</num>姓不被其恩<pc>；</pc>哀痛責躬之詔不著事實<pc>，</pc>
-<num value="4">四</num>方不以為信<pc>。</pc>忠佞並馳<pc>，</pc>而多士解體<pc>；</pc>刑賞失當<pc>，</pc>而<num value="3">三</num>軍沮氣<pc>。</pc>臣願陛下取建炎初<date>元</date>以來所下詔書<pc>，</pc>所舉政事<pc>，</pc>熟思審度<pc>，</pc>得無<num value="2">一二</num>不類臣言者乎<pc>？</pc>望參稽得失而罷行之<pc>。</pc>
+<num value="4">四</num>方不以為信<pc>。</pc>忠佞並馳<pc>，</pc>而多士解體<pc>；</pc>刑賞失當<pc>，</pc>而<num value="3">三</num>軍沮氣<pc>。</pc>臣願陛下取建炎初<date when="null">元</date>以來所下詔書<pc>，</pc>所舉政事<pc>，</pc>熟思審度<pc>，</pc>得無<num value="2">一二</num>不類臣言者乎<pc>？</pc>望參稽得失而罷行之<pc>。</pc>
 <pc>”</pc>上再<num value="3">三</num>褒諭<pc>，</pc>稱其有諫臣風<pc>。</pc>除左<term>諫議大夫</term>
 <pc>。</pc>旬日間<pc>，</pc>封章屢上<pc>，</pc>遂擢翰林學士<pc>。</pc>翌日<pc>，</pc>除端明殿學士<pc>、</pc>同簽書樞密院事<pc>。</pc>
 </p>
@@ -324,7 +336,9 @@
 <num value="1">一</num>軍駐於淮東<pc>，</pc>
 <num value="1">一</num>軍駐於淮西<pc>，</pc>
 <num value="1">一</num>軍駐鄂<pc>、</pc>岳或荊南<pc>，</pc>擇要害之處以處之<pc>。</pc>使北至關輔<pc>，</pc>西抵川<pc>、</pc>陝<pc>，</pc>血脈相通<pc>，</pc>號令相聞<pc>，</pc>有唇齒輔車之勢<pc>，</pc>則自江而南可奠枕而臥也<pc>。</pc>然今之大將皆握重兵<pc>，</pc>貴極富溢<pc>，</pc>前無祿利之望<pc>，</pc>退無誅罰之憂<pc>，</pc>故朝廷之勢日削<pc>，</pc>兵將之權日重<pc>。</pc>而又為大將者<pc>，</pc>
-<num value="1">萬一</num>有稱病而賜罷<pc>，</pc>或卒然不諱<pc>，</pc>則所統之眾將安屬耶<pc>？</pc>臣謂宜拔擢麾下之將<pc>，</pc>使為統制<pc>，</pc>每將不過<num value="5000">五千</num>人<pc>，</pc>棋布<num value="4">四</num>路<pc>，</pc>朝廷號令徑達其軍<pc>，</pc>分合使令悉由朝廷<pc>，</pc>可以有為也<pc>。</pc>
+<num value="1">萬一</num>有稱病而賜罷<pc>，</pc>或卒然不諱<pc>，</pc>則所統之眾將安屬耶<pc>？</pc>臣謂宜拔擢麾下之將<pc>，</pc>使為統制<pc>，</pc>每將不過<measure quantity="5000" unit="people">
+<num value="5000">五千</num>人</measure>
+<pc>，</pc>棋布<num value="4">四</num>路<pc>，</pc>朝廷號令徑達其軍<pc>，</pc>分合使令悉由朝廷<pc>，</pc>可以有為也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -446,7 +460,8 @@
 </p>
 </div>
 <div>
-<p>除同知樞密院事<pc>。</pc>侍御史沈與求論直柔附會辛道宗<pc>、</pc>永宗兄弟得進<pc>，</pc>並論其所薦右司諫韓璜<pc>。</pc>先是<pc>，</pc>直柔嘗短呂頤浩於上前<pc>，</pc>頤浩與秦檜皆忌之<pc>，</pc>由是<num value="2">二</num>人俱罷<pc>，</pc>礌責監潯州酒稅<pc>，</pc>而直柔以本官提舉洞霄宮<pc>。</pc>
+<p>除同知樞密院事<pc>。</pc>侍御史沈與求論直柔附會辛道宗<pc>、</pc>永宗兄弟得進<pc>，</pc>並論其所薦右司諫韓璜<pc>。</pc>先是<pc>，</pc>直柔嘗短呂頤浩於上前<pc>，</pc>頤浩與秦檜皆忌之<pc>，</pc>由是<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>俱罷<pc>，</pc>礌責監潯州酒稅<pc>，</pc>而直柔以本官提舉洞霄宮<pc>。</pc>
 </p>
 </div>
 <div>
