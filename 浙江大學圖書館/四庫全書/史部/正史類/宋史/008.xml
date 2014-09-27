@@ -176,7 +176,9 @@
 <p>　　<measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <num value="43">丙午</num>
-<pc>，</pc>太白晝見<pc>。</pc>亳州<num value="2">二</num>龍見禹祠<pc>。</pc>德存卒<pc>。</pc>
+<pc>，</pc>太白晝見<pc>。</pc>
+<placeName>亳州</placeName>
+<num value="2">二</num>龍見禹祠<pc>。</pc>德存卒<pc>。</pc>
 <num value="3">丙寅</num>
 <pc>，</pc>遣使安撫江<pc>、</pc>淮南水災<pc>，</pc>許便宜從事<pc>。</pc>詔授交<pc>、</pc>甘等州<pc>、</pc>大食<pc>、</pc>蒲端<pc>、</pc>
 <num value="3">三</num>麻蘭<pc>、</pc>勿巡國奉使官<pc>。</pc>
@@ -555,7 +557,8 @@
 <num value="40">癸卯</num>
 <pc>，</pc>詔天下勿稅農器<pc>。</pc>
 <num value="46">己酉</num>
-<pc>，</pc>亳州官吏父老<measure quantity="3300" unit="people">
+<pc>，</pc>
+<placeName>亳州</placeName>官吏父老<measure quantity="3300" unit="people">
 <num value="3300">三千三百</num>人</measure>詣闕請謁太清宮<pc>。</pc>
 </p>
 </div>
@@ -563,7 +566,7 @@
 <p>　　<measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <num value="57">庚申</num>
-<pc>，</pc>詔來春親謁亳州太清宮<pc>。</pc>
+<pc>，</pc>詔來春親謁<placeName>亳州</placeName>太清宮<pc>。</pc>
 <num value="58">辛酉</num>
 <pc>，</pc>以丁謂為奉祀經度制置使<pc>。</pc>
 <num value="3">丙寅</num>
@@ -587,7 +590,8 @@
 <num value="58">辛酉</num>
 <pc>，</pc>元德皇后祔廟<pc>。</pc>
 <num value="1">甲子</num>
-<pc>，</pc>亳州太清宮枯檜再生<pc>。</pc>真源縣菽麥再實<pc>。</pc>
+<pc>，</pc>
+<placeName>亳州</placeName>太清宮枯檜再生<pc>。</pc>真源縣菽麥再實<pc>。</pc>
 <num value="10">癸酉</num>
 <pc>，</pc>謁玉清昭應宮<pc>。</pc>
 <num value="16">己卯</num>
@@ -610,7 +614,7 @@
 <pc>》</pc>
 <pc>、</pc>諸史<pc>。</pc>
 <num value="51">甲寅</num>
-<pc>，</pc>判亳州丁謂獻芝草<num value="37000">三萬七千</num>本<pc>。</pc>
+<pc>，</pc>判<placeName>亳州</placeName>丁謂獻芝草<num value="37000">三萬七千</num>本<pc>。</pc>
 <num value="52">乙卯</num>
 <pc>，</pc>龜茲遣使來貢<pc>。</pc>
 <measure quantity="12" unit="months">
@@ -639,12 +643,12 @@
 <num value="39">壬寅</num>
 <pc>，</pc>車駕奉天書發京師<pc>。</pc>
 <num value="43">丙午</num>
-<pc>，</pc>次奉元宮<pc>。</pc>判亳州丁謂獻白鹿<num value="1">一</num>
+<pc>，</pc>次奉元宮<pc>。</pc>判<placeName>亳州</placeName>丁謂獻白鹿<num value="1">一</num>
 <pc>，</pc>芝<num value="95000">九萬五千</num>本<pc>。</pc>
 <num value="45">戊申</num>
 <pc>，</pc>王旦上混元上德皇帝冊寶<pc>。</pc>
 <num value="46">己酉</num>
-<pc>，</pc>朝謁太清宮<pc>。</pc>天書升輅<pc>，</pc>雨雪倏霽<pc>，</pc>法駕繼進<pc>，</pc>佳氣彌望<pc>。</pc>是夜<pc>，</pc>月重輪<pc>，</pc>幸先天觀<pc>、</pc>廣靈洞霄宮<pc>。</pc>曲赦亳州及車駕所經流以下罪<pc>。</pc>升亳州為集慶軍節度<pc>，</pc>減歲賦<num value="10">十</num>之<num value="2">二</num>
+<pc>，</pc>朝謁太清宮<pc>。</pc>天書升輅<pc>，</pc>雨雪倏霽<pc>，</pc>法駕繼進<pc>，</pc>佳氣彌望<pc>。</pc>是夜<pc>，</pc>月重輪<pc>，</pc>幸先天觀<pc>、</pc>廣靈洞霄宮<pc>。</pc>曲赦<placeName>亳州</placeName>及車駕所經流以下罪<pc>。</pc>升<placeName>亳州</placeName>為集慶軍節度<pc>，</pc>減歲賦<num value="10">十</num>之<num value="2">二</num>
 <pc>。</pc>改奉元宮為明道宮<pc>。</pc>太史言含譽星見<pc>。</pc>
 <num value="47">庚戌</num>
 <pc>，</pc>禦均慶樓<pc>，</pc>賜酺<measure quantity="3" unit="days">
@@ -666,7 +670,8 @@
 <num value="57">庚申</num>
 <pc>，</pc>夏州趙德明遣使詣行闕朝貢<pc>。</pc>
 <num value="58">辛酉</num>
-<pc>，</pc>至自亳州<pc>。</pc>
+<pc>，</pc>至自<placeName>亳州</placeName>
+<pc>。</pc>
 <num value="3">丙寅</num>
 <pc>，</pc>詔天地壇非執事輒臨者斬<pc>。</pc>
 <num value="8">辛未</num>
