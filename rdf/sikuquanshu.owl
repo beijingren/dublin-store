@@ -182,6 +182,13 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ObjectPropertyAssertion(:hao :歐陽修 :六一居士)
 	ObjectPropertyAssertion(:shihao :歐陽修 :文忠)
 
+	ClassAssertion(:Person :張方平)
+	DataPropertyAssertion(:birthYear :張方平 "1007"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :張方平 "1091"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :張方平 :安道)
+	ObjectPropertyAssertion(:hao :張方平 :樂全居士)
+	ObjectPropertyAssertion(:birthPlace :張方平 :宋城)
+
 	ClassAssertion(:Person :蘇舜欽)
 	DataPropertyAssertion(:birthYear :蘇舜欽 "1008"^^xsd:gYear)
 	DataPropertyAssertion(:deathYear :蘇舜欽 "1048"^^xsd:gYear)
@@ -389,6 +396,10 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Nianhao :治平)
 	DataPropertyAssertion(:beginYear :治平 "1064"^^xsd:gYear)
 	DataPropertyAssertion(:endYear :治平 "1067"^^xsd:gYear)
+
+	ClassAssertion(:Nianhao :大觀)
+	DataPropertyAssertion(:beginYear :大觀 "1107"^^xsd:gYear)
+	DataPropertyAssertion(:endYear :大觀 "1110"^^xsd:gYear)
 
 	ClassAssertion(:Nianhao :乾道)
 	DataPropertyAssertion(:beginYear :治平 "1165"^^xsd:gYear)
