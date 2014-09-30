@@ -187,7 +187,7 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	DataPropertyAssertion(:deathYear :張方平 "1091"^^xsd:gYear)
 	ObjectPropertyAssertion(:zi :張方平 :安道)
 	ObjectPropertyAssertion(:hao :張方平 :樂全居士)
-	ObjectPropertyAssertion(:birthPlace :張方平 :宋城)
+	ObjectPropertyAssertion(:birthPlace :張方平 :南京)
 
 	ClassAssertion(:Person :蘇舜欽)
 	DataPropertyAssertion(:birthYear :蘇舜欽 "1008"^^xsd:gYear)
@@ -200,6 +200,15 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	DataPropertyAssertion(:deathYear :韓琦 "1075"^^xsd:gYear)
 	ObjectPropertyAssertion(:zi :韓琦 :稚圭)
 	ObjectPropertyAssertion(:birthPlace :韓琦 :安陽)
+
+	ClassAssertion(:Person :蘇軾)
+	DataPropertyAssertion(:birthYear :蘇軾 "1037"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :蘇軾 "1101"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :蘇軾 :子瞻)
+	ObjectPropertyAssertion(:zi :蘇軾 :和仲)
+	ObjectPropertyAssertion(:hao :蘇軾 :東坡居士)
+	ObjectPropertyAssertion(:shihao :蘇軾 :文忠公)
+	ObjectPropertyAssertion(:birthPlace :蘇軾 :眉山)
 
 	ClassAssertion(:Person :蘇轍)
 	DataPropertyAssertion(:birthYear :蘇轍 "1039"^^xsd:gYear)
@@ -238,11 +247,19 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 
 	ClassAssertion(:Xian :廬陵)
 	ClassAssertion(:Xian :內黃)
+
 	ClassAssertion(:Zhou :饒州)
 	ClassAssertion(:Zhou :潁州)
 	ClassAssertion(:Zhou :揚州)
 	ClassAssertion(:Zhou :滁州)
 	ClassAssertion(:Zhou :麟州)
+	ClassAssertion(:Zhou :保州)
+	ClassAssertion(:Zhou :眉州)
+	ClassAssertion(:Zhou :秦州)
+	ClassAssertion(:Zhou :鄆州)
+	ClassAssertion(:Zhou :襄州)
+	ClassAssertion(:Zhou :蔡州)
+	ClassAssertion(:Zhou :鄜州)
 
 	ClassAssertion(:SexagenaryCycle :甲子)
 	ClassAssertion(:SexagenaryCycle :乙丑)
@@ -389,6 +406,14 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	DataPropertyAssertion(:beginYear :天成 "926"^^xsd:gYear)
 	DataPropertyAssertion(:endYear :天成 "930"^^xsd:gYear)
 
+	ClassAssertion(:Nianhao :雍熙)
+	DataPropertyAssertion(:beginYear :雍熙 "984"^^xsd:gYear)
+	DataPropertyAssertion(:endYear :雍熙 "987"^^xsd:gYear)
+
+	ClassAssertion(:Nianhao :淳化)
+	DataPropertyAssertion(:beginYear :淳化 "990"^^xsd:gYear)
+	DataPropertyAssertion(:endYear :淳化 "994"^^xsd:gYear)
+
 	ClassAssertion(:Nianhao :慶曆)
 	DataPropertyAssertion(:beginYear :慶曆 "1041"^^xsd:gYear)
 	DataPropertyAssertion(:endYear :慶曆 "1048"^^xsd:gYear)
@@ -419,4 +444,5 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:OfficialTitle :虞候)
 	ClassAssertion(:OfficialTitle :諫議大夫)
 	ClassAssertion(:OfficialTitle :防禦使)
+	ClassAssertion(:OfficialTitle :中書舍人)
 )
