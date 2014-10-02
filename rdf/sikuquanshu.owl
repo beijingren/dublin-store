@@ -16,6 +16,7 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	Declaration(Class(:Nianhao))
 	Declaration(Class(:Term))
 	Declaration(Class(:Dynasty))
+	Declaration(Class(:Glyph))
 
 	SubClassOf(:Person owl:Thing)
 	SubClassOf(:Place owl:Thing)
@@ -26,6 +27,7 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	SubClassOf(:Zhou :Place)
 	SubClassOf(:OfficialTitle :Term)
 	SubClassOf(:Dynasty owl:Thing)
+	SubClassOf(:Glyph owl:Thing)
 
 	Declaration(ObjectProperty(:zi))
 	Declaration(ObjectProperty(:hao))
@@ -35,6 +37,9 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	Declaration(ObjectProperty(:hasChild))
 	Declaration(ObjectProperty(:hasWife))
 
+	Declaration(DataProperty(:rime))
+
+	
 	Declaration(NamedIndividual(:曹操))
 	ClassAssertion(:Person :曹操)
 	ObjectPropertyAssertion(:zi :曹操 :孟德)
@@ -248,6 +253,13 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ObjectPropertyAssertion(:zi :陳升之 :腸叔)
 	ObjectPropertyAssertion(:birthPlace :陳升之 :建陽)
 
+	ClassAssertion(:Person :司馬光)
+	DataPropertyAssertion(:birthYear :司馬光 "1019"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :司馬光 "1089"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :司馬光 :君實)
+	ObjectPropertyAssertion(:hao :司馬光 :迂叟)
+	ObjectPropertyAssertion(:birthPlace :司馬光 :涑水鄉)
+
 	ClassAssertion(:Person :蘇軾)
 	DataPropertyAssertion(:birthYear :蘇軾 "1037"^^xsd:gYear)
 	DataPropertyAssertion(:deathYear :蘇軾 "1101"^^xsd:gYear)
@@ -452,6 +464,8 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Zhou :滑州)
 	ClassAssertion(:Zhou :甘州)
 	ClassAssertion(:Zhou :鄆州)
+	ClassAssertion(:Zhou :鄧州)
+	ClassAssertion(:Zhou :岳州)
 
 
 	ClassAssertion(:Fu :鳳翔府)
@@ -692,6 +706,10 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	DataPropertyAssertion(:beginYear :紹聖 "1094"^^xsd:gYear)
 	DataPropertyAssertion(:endYear :紹聖 "1098"^^xsd:gYear)
 
+	ClassAssertion(:Nianhao :崇甯)
+	DataPropertyAssertion(:beginYear :崇甯 "1102"^^xsd:gYear)
+	DataPropertyAssertion(:endYear :崇甯 "1106"^^xsd:gYear)
+
 	ClassAssertion(:Nianhao :大觀)
 	DataPropertyAssertion(:beginYear :大觀 "1107"^^xsd:gYear)
 	DataPropertyAssertion(:endYear :大觀 "1110"^^xsd:gYear)
@@ -759,4 +777,8 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:OfficialTitle :安撫使)
 	ClassAssertion(:OfficialTitle :觀察使)
 	ClassAssertion(:OfficialTitle :太常博士)
+
+	ClassAssertion(:Glyph :同)
+
+	DataPropertyAssertion(:rime :同 "東"^^xsd:string)
 )
