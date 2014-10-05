@@ -25,10 +25,14 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	SubClassOf(:City :Settlement)
 	SubClassOf(:Xian :Place)
 	SubClassOf(:Zhou :Place)
+	SubClassOf(:Fu :Place)
+	SubClassOf(:Lu :Place)
+	SubClassOf(:Jun :Place)
+	SubClassOf(:Garden :Place)
+	SubClassOf(:Park :Place)
 	SubClassOf(:OfficialTitle :Term)
 	SubClassOf(:Dynasty owl:Thing)
 	SubClassOf(:Glyph owl:Thing)
-	SubClassOf(:Garden :Place)
 	SubClassOf(:GovernmentAgency owl:Thing)
 
 	Declaration(ObjectProperty(:zi))
@@ -127,6 +131,12 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	DataPropertyAssertion(:deathYear :高懷德 "982"^^xsd:gYear)
 	ObjectPropertyAssertion(:zi :高懷德 :藏用)
 	ObjectPropertyAssertion(:birthPlace :高懷德 :常山)
+
+	ClassAssertion(:Person :王嗣宗)
+	DataPropertyAssertion(:birthYear :王嗣宗 "944"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :王嗣宗 "1025"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :王嗣宗 :希阮)
+	ObjectPropertyAssertion(:birthPlace :王嗣宗 :汾州)
 
 	ClassAssertion(:Person :柳開)
 	DataPropertyAssertion(:birthYear :柳開 "948"^^xsd:gYear)
@@ -287,6 +297,12 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ObjectPropertyAssertion(:zi :王珪 :禹玉)
 	ObjectPropertyAssertion(:birthPlace :王珪 :華陽)
 
+	ClassAssertion(:Person :李清臣)
+	DataPropertyAssertion(:birthYear :李清臣 "1032"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :李清臣 "1102"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :李清臣 :邦直)
+	ObjectPropertyAssertion(:birthPlace :李清臣 :魏)
+
 	ClassAssertion(:Person :蘇軾)
 	DataPropertyAssertion(:birthYear :蘇軾 "1037"^^xsd:gYear)
 	DataPropertyAssertion(:deathYear :蘇軾 "1101"^^xsd:gYear)
@@ -384,6 +400,22 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Person :馮繼業)
 	ClassAssertion(:Person :張美)
 	ClassAssertion(:Person :劉廷讓)
+	ClassAssertion(:Person :劉昂)
+	ClassAssertion(:Person :田辯)
+	ClassAssertion(:Person :陸坦)
+	ClassAssertion(:Person :王延範)
+	ClassAssertion(:Person :郭渭)
+	ClassAssertion(:Person :王昭遠)
+	ClassAssertion(:Person :柴禹錫)
+	ClassAssertion(:Person :李順)
+	ClassAssertion(:Person :盧斌)
+	ClassAssertion(:Person :辛仲甫)
+	ClassAssertion(:Person :黎桓)
+	ClassAssertion(:Person :王沔)
+	ClassAssertion(:Person :張宏)
+	ClassAssertion(:Person :鄧潤甫)
+	ClassAssertion(:Person :梁燾)
+	ClassAssertion(:Person :劉奉世)
 
 
 
@@ -398,7 +430,13 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Xian :河陽縣)
 	ClassAssertion(:Xian :鄭縣)
 	ClassAssertion(:Xian :鄞縣)
+	ClassAssertion(:Xian :溫縣)
 	ClassAssertion(:Xian :曲阜縣)
+	ClassAssertion(:Xian :頓丘縣)
+	ClassAssertion(:Xian :戎城縣)
+	ClassAssertion(:Xian :白馬縣)
+	ClassAssertion(:Xian :福津縣)
+
 
 	ClassAssertion(:Zhou :並州)
 	ClassAssertion(:Zhou :亳州)
@@ -567,6 +605,23 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Zhou :涿州)
 	ClassAssertion(:Zhou :洺州)
 	ClassAssertion(:Zhou :富州)
+	ClassAssertion(:Zhou :階州)
+	ClassAssertion(:Zhou :交州)
+	ClassAssertion(:Zhou :雲州)
+	ClassAssertion(:Zhou :朔州)
+	ClassAssertion(:Zhou :涪州)
+	ClassAssertion(:Zhou :開州)
+	ClassAssertion(:Zhou :夔州)
+	ClassAssertion(:Zhou :房州)
+	ClassAssertion(:Zhou :許州)
+	ClassAssertion(:Zhou :寰州)
+	ClassAssertion(:Zhou :鼎州)
+	ClassAssertion(:Zhou :化州)
+	ClassAssertion(:Zhou :新州)
+	ClassAssertion(:Zhou :瓊州)
+	ClassAssertion(:Zhou :石州)
+	ClassAssertion(:Zhou :祁州)
+
 
 
 	ClassAssertion(:Fu :鳳翔府)
@@ -579,6 +634,11 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Fu :太原府)
 	ClassAssertion(:Fu :真定府)
 	ClassAssertion(:Fu :成都府)
+	ClassAssertion(:Fu :興元府)
+	ClassAssertion(:Fu :西涼府)
+	ClassAssertion(:Fu :成都府)
+	ClassAssertion(:Fu :興元府)
+	ClassAssertion(:Fu :真定府)
 
 	ClassAssertion(:Lu :秦鳳路)
 	ClassAssertion(:Lu :環慶路)
@@ -588,6 +648,9 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Lu :涇原路)
 	ClassAssertion(:Lu :鄜延路)
 
+	ClassAssertion(:Jun :忠武軍)
+	ClassAssertion(:Jun :建寧軍)
+
 	ClassAssertion(:Garden :玉津園)
 	ClassAssertion(:Garden :金鳳園)
 	ClassAssertion(:Garden :北園)
@@ -595,9 +658,17 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Park :宜春苑)
 	ClassAssertion(:Park :迎春苑)
 
+	ClassAssertion(:Country :闍婆國)
+	ClassAssertion(:Country :占城國)
+	ClassAssertion(:Country :高麗國)
+
 	ClassAssertion(:GovernmentAgency :國子監)
 	ClassAssertion(:GovernmentAgency :兵部)
 	ClassAssertion(:GovernmentAgency :禮部)
+	ClassAssertion(:GovernmentAgency :戶部)
+	ClassAssertion(:GovernmentAgency :吏部)
+	ClassAssertion(:GovernmentAgency :工部)
+	ClassAssertion(:GovernmentAgency :翰林)
 
 
 	ClassAssertion(:SexagenaryCycle :甲子)
@@ -936,6 +1007,19 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:OfficialTitle :都監)
 	ClassAssertion(:OfficialTitle :同平章事)
 	ClassAssertion(:OfficialTitle :太子少保)
+	ClassAssertion(:OfficialTitle :觀察判官)
+	ClassAssertion(:OfficialTitle :節度副使)
+	ClassAssertion(:OfficialTitle :員外郎)
+	ClassAssertion(:OfficialTitle :殿中丞)
+	ClassAssertion(:OfficialTitle :右僕射)
+	ClassAssertion(:OfficialTitle :尚書)
+	ClassAssertion(:OfficialTitle :門下平章事)
+	ClassAssertion(:OfficialTitle :平章事)
+	ClassAssertion(:OfficialTitle :右武衛大將軍)
+	ClassAssertion(:OfficialTitle :檢校太師)
+	ClassAssertion(:OfficialTitle :御史中丞)
+	ClassAssertion(:OfficialTitle :參知政事)
+	ClassAssertion(:OfficialTitle :別駕)
 
 	ClassAssertion(:Glyph :同)
 
