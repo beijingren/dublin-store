@@ -28,6 +28,8 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	SubClassOf(:OfficialTitle :Term)
 	SubClassOf(:Dynasty owl:Thing)
 	SubClassOf(:Glyph owl:Thing)
+	SubClassOf(:Garden :Place)
+	SubClassOf(:GovernmentAgency owl:Thing)
 
 	Declaration(ObjectProperty(:zi))
 	Declaration(ObjectProperty(:hao))
@@ -109,6 +111,12 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	DataPropertyAssertion(:deathYear :張令鐸 "970"^^xsd:gYear)
 	ObjectPropertyAssertion(:birthPlace :張令鐸 :棣州)
 
+	ClassAssertion(:Person :慕容延釗)
+	DataPropertyAssertion(:birthYear :慕容延釗 "913"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :慕容延釗 "963"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :慕容延釗 :化龍)
+	ObjectPropertyAssertion(:birthPlace :慕容延釗 :太原)
+
 	ClassAssertion(:Person :孟昶)
 	DataPropertyAssertion(:birthYear :孟昶 "919"^^xsd:gYear)
 	DataPropertyAssertion(:deathYear :孟昶 "965"^^xsd:gYear)
@@ -141,6 +149,13 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	DataPropertyAssertion(:deathYear :韓國華 "1011"^^xsd:gYear)
 	ObjectPropertyAssertion(:zi :韓國華 :光弼)
 	ObjectPropertyAssertion(:birthPlace :韓國華 :相州)
+
+	ClassAssertion(:Person :錢若水)
+	DataPropertyAssertion(:birthYear :錢若水 "960"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :錢若水 "1003"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :錢若水 :淡成)
+	ObjectPropertyAssertion(:zi :錢若水 :長卿)
+	ObjectPropertyAssertion(:birthPlace :錢若水 :新安)
 
 	ClassAssertion(:Person :李繼遷)
 	DataPropertyAssertion(:birthYear :李繼遷 "963"^^xsd:gYear)
@@ -349,6 +364,27 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Person :唐坰)
 	ClassAssertion(:Person :王安禮)
 	ClassAssertion(:Person :王安國)
+	ClassAssertion(:Person :王承衍)
+	ClassAssertion(:Person :石保吉)
+	ClassAssertion(:Person :魏咸信)
+	ClassAssertion(:Person :曹彬)
+	ClassAssertion(:Person :楊瓊)
+	ClassAssertion(:Person :趙保吉)
+	ClassAssertion(:Person :韓令坤)
+	ClassAssertion(:Person :石守信)
+	ClassAssertion(:Person :吳廷祚)
+	ClassAssertion(:Person :趙普)
+	ClassAssertion(:Person :潘美)
+	ClassAssertion(:Person :曹翰)
+	ClassAssertion(:Person :曹彬)
+	ClassAssertion(:Person :孫震)
+	ClassAssertion(:Person :沈義倫)
+	ClassAssertion(:Person :向拱)
+	ClassAssertion(:Person :張永德)
+	ClassAssertion(:Person :馮繼業)
+	ClassAssertion(:Person :張美)
+	ClassAssertion(:Person :劉廷讓)
+
 
 
 	ClassAssertion(:City :洛陽)
@@ -362,6 +398,7 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Xian :河陽縣)
 	ClassAssertion(:Xian :鄭縣)
 	ClassAssertion(:Xian :鄞縣)
+	ClassAssertion(:Xian :曲阜縣)
 
 	ClassAssertion(:Zhou :並州)
 	ClassAssertion(:Zhou :亳州)
@@ -525,6 +562,11 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Zhou :賀州)
 	ClassAssertion(:Zhou :密州)
 	ClassAssertion(:Zhou :恩州)
+	ClassAssertion(:Zhou :瀛州)
+	ClassAssertion(:Zhou :薊州)
+	ClassAssertion(:Zhou :涿州)
+	ClassAssertion(:Zhou :洺州)
+	ClassAssertion(:Zhou :富州)
 
 
 	ClassAssertion(:Fu :鳳翔府)
@@ -546,6 +588,16 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Lu :涇原路)
 	ClassAssertion(:Lu :鄜延路)
 
+	ClassAssertion(:Garden :玉津園)
+	ClassAssertion(:Garden :金鳳園)
+	ClassAssertion(:Garden :北園)
+
+	ClassAssertion(:Park :宜春苑)
+	ClassAssertion(:Park :迎春苑)
+
+	ClassAssertion(:GovernmentAgency :國子監)
+	ClassAssertion(:GovernmentAgency :兵部)
+	ClassAssertion(:GovernmentAgency :禮部)
 
 
 	ClassAssertion(:SexagenaryCycle :甲子)
@@ -696,6 +748,10 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Nianhao :天成)
 	DataPropertyAssertion(:beginYear :天成 "926"^^xsd:gYear)
 	DataPropertyAssertion(:endYear :天成 "930"^^xsd:gYear)
+
+	ClassAssertion(:Nianhao :廣順)
+	DataPropertyAssertion(:beginYear :廣順 "951"^^xsd:gYear)
+	DataPropertyAssertion(:endYear :廣順 "953"^^xsd:gYear)
 
 	ClassAssertion(:Nianhao :建隆)
 	DataPropertyAssertion(:beginYear :建隆 "960"^^xsd:gYear)
@@ -873,6 +929,13 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:OfficialTitle :都巡檢使)
 	ClassAssertion(:OfficialTitle :兵馬都監)
 	ClassAssertion(:OfficialTitle :駐泊都監)
+	ClassAssertion(:OfficialTitle :駙馬都尉)
+	ClassAssertion(:OfficialTitle :副指揮)
+	ClassAssertion(:OfficialTitle :樞密副使)
+	ClassAssertion(:OfficialTitle :都指揮使)
+	ClassAssertion(:OfficialTitle :都監)
+	ClassAssertion(:OfficialTitle :同平章事)
+	ClassAssertion(:OfficialTitle :太子少保)
 
 	ClassAssertion(:Glyph :同)
 
