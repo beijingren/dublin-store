@@ -24,15 +24,18 @@
 <body>
 <div type="chapter" n="389">
 <div>
-<p>
-<name key="null" type="null">　　尤</name>袤<pc>，</pc>字延之<pc>，</pc>常州無錫人<pc>。</pc>少穎異<pc>，</pc>蔣偕<pc>、</pc>施坰呼為奇童<pc>。</pc>入太學<pc>，</pc>以詞賦冠多士<pc>，</pc>尋冠南宮<pc>。</pc>紹興<measure quantity="18" unit="years">
+<p>　　<persName>尤袤</persName>
+<pc>，</pc>字<name key="尤袤" type="zi">延之</name>
+<pc>，</pc>
+<placeName>常州</placeName>無錫人<pc>。</pc>少穎異<pc>，</pc>蔣偕<pc>、</pc>施坰呼為奇童<pc>。</pc>入太學<pc>，</pc>以詞賦冠多士<pc>，</pc>尋冠南宮<pc>。</pc>紹興<measure quantity="18" unit="years">
 <num value="18">十八</num>年</measure>
 <pc>，</pc>擢進士第<pc>。</pc>嘗為泰興令<pc>，</pc>問民疾苦<pc>，</pc>皆曰<pc>：</pc>
 <pc>「</pc>
 <quote>邵伯鎮置頓<pc>，</pc>為金使經行也<pc>，</pc>使率不受而空厲民<pc>。</pc>漕司輸槁秸<pc>，</pc>致<num value="1">一</num>束數<num value="10">十</num>金<pc>。</pc>
 <num value="2">二</num>弊久莫之去<pc>。</pc>
 </quote>
-<pc>」</pc>乃力請台閫奏免之<pc>。</pc>縣舊有外城<pc>，</pc>屢殘於寇<pc>，</pc>頹毀甚<pc>，</pc>袤即修築<pc>。</pc>已而金渝盟<pc>，</pc>陷<placeName>揚州</placeName>
+<pc>」</pc>乃力請台閫奏免之<pc>。</pc>縣舊有外城<pc>，</pc>屢殘於寇<pc>，</pc>頹毀甚<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>即修築<pc>。</pc>已而金渝盟<pc>，</pc>陷<placeName>揚州</placeName>
 <pc>，</pc>獨泰興以有城得全<pc>。</pc>後因事至舊治<pc>，</pc>吏民羅拜曰<pc>：</pc>
 <pc>「</pc>
 <quote>此吾父母也<pc>。</pc>
@@ -47,7 +50,8 @@
 <pc>「</pc>
 <quote>當予不求者<pc>。</pc>
 </quote>
-<pc>」</pc>遂除袤<pc>。</pc>虞允文以史事過<num value="3">三</num>館<pc>，</pc>問誰可為秘書丞者<pc>，</pc>僉以袤對<pc>，</pc>亟授之<pc>。</pc>張栻曰<pc>：</pc>
+<pc>」</pc>遂除<name key="尤袤" type="givenName">袤</name>
+<pc>。</pc>虞允文以史事過<num value="3">三</num>館<pc>，</pc>問誰可為<term>秘書丞</term>者<pc>，</pc>僉以<name key="尤袤" type="givenName">袤</name>對<pc>，</pc>亟授之<pc>。</pc>張栻曰<pc>：</pc>
 <pc>「</pc>
 <quote>真秘書也<pc>。</pc>
 </quote>
@@ -57,24 +61,32 @@
 <div>
 <p>　　先是<pc>，</pc>張栻說自閣門入西府<pc>，</pc>士論鼎沸<pc>，</pc>從臣因執奏而去者數<measure quantity="10" unit="people">
 <num value="10">十</num>人</measure>
-<pc>，</pc>袤率<num value="3">三</num>館上書諫<pc>，</pc>且不往見<pc>。</pc>後說留身密奏<pc>，</pc>於是梁克家罷相<pc>，</pc>袤與秘書少監陳騤各與郡<pc>。</pc>袤得台州<pc>，</pc>州<num value="5">五</num>縣<pc>，</pc>有丁無產者輸<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>丁稅<pc>，</pc>凡<num value="10000">萬</num>有<num value="3000">三千</num>家<pc>。</pc>前守趙汝愚修郡城工才什<num value="3">三</num>
-<pc>，</pc>屬袤成之<pc>。</pc>袤按行前築<pc>，</pc>殊鹵莽<pc>，</pc>亟命更築<pc>，</pc>加高厚<pc>，</pc>數月而畢<pc>。</pc>明年大水<pc>，</pc>更築之<pc>，</pc>墉正直水沖<pc>，</pc>城賴以不沒<pc>。</pc>
+<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>率<num value="3">三</num>館上書諫<pc>，</pc>且不往見<pc>。</pc>後說留身密奏<pc>，</pc>於是梁克家罷相<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>與秘書少監陳騤各與郡<pc>。</pc>
+<name key="尤袤" type="givenName">袤</name>得<placeName>台州</placeName>
+<pc>，</pc>州<num value="5">五</num>縣<pc>，</pc>有丁無產者輸<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>丁稅<pc>，</pc>凡<num value="10000">萬</num>有<measure quantity="3000" unit="households">
+<num value="3000">三千</num>家</measure>
+<pc>。</pc>前守趙汝愚修郡城工才什<num value="3">三</num>
+<pc>，</pc>屬<name key="尤袤" type="givenName">袤</name>成之<pc>。</pc>
+<name key="尤袤" type="givenName">袤</name>按行前築<pc>，</pc>殊鹵莽<pc>，</pc>亟命更築<pc>，</pc>加高厚<pc>，</pc>數月而畢<pc>。</pc>明年大水<pc>，</pc>更築之<pc>，</pc>墉正直水沖<pc>，</pc>城賴以不沒<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　會有毀袤者<pc>，</pc>上疑之<pc>，</pc>使人密察<pc>，</pc>民誦其善政不絕口<pc>，</pc>乃錄其<pc>《</pc>
+<p>　　會有毀<name key="尤袤" type="givenName">袤</name>者<pc>，</pc>上疑之<pc>，</pc>使人密察<pc>，</pc>民誦其善政不絕口<pc>，</pc>乃錄其<pc>《</pc>
 <title>東湖</title>
 <pc>》</pc>
 <num value="4">四</num>詩歸奏<pc>。</pc>上讀而歎賞<pc>，</pc>遂以文字受知<pc>。</pc>除淮東提舉常平<pc>，</pc>改江東<pc>。</pc>江東旱<pc>，</pc>單車行部<pc>，</pc>核<num value="1">一</num>路常平米<pc>，</pc>通融有無<pc>，</pc>以之振貸<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　朱熹知南康<pc>，</pc>講荒政<pc>，</pc>下<num value="5">五</num>等戶租<num value="5">五</num>鬥以下悉蠲之<pc>，</pc>袤推行于諸郡<pc>，</pc>民無流殍<pc>。</pc>進直秘閣<pc>，</pc>遷江西漕兼知隆興府<pc>。</pc>屢請祠<pc>，</pc>進直敷文閣<pc>，</pc>改江東提刑<pc>。</pc>
+<p>　　朱熹知南康<pc>，</pc>講荒政<pc>，</pc>下<num value="5">五</num>等戶租<num value="5">五</num>鬥以下悉蠲之<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>推行于諸郡<pc>，</pc>民無流殍<pc>。</pc>進直秘閣<pc>，</pc>遷江西漕兼知隆興府<pc>。</pc>屢請祠<pc>，</pc>進直敷文閣<pc>，</pc>改江東提刑<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　梁克家薦袤及鄭僑以言事去國<pc>，</pc>久於外<pc>，</pc>當召<pc>，</pc>上可之<pc>。</pc>召對<pc>，</pc>言<pc>：</pc>
+<p>　　梁克家薦<name key="尤袤" type="givenName">袤</name>及鄭僑以言事去國<pc>，</pc>久於外<pc>，</pc>當召<pc>，</pc>上可之<pc>。</pc>召對<pc>，</pc>言<pc>：</pc>
 <pc>「</pc>
 <quote>水旱之備惟常平<pc>、</pc>義倉<pc>，</pc>願預飭有司隨市價禁科抑<pc>，</pc>則人自樂輸<pc>，</pc>必易集事<pc>。</pc>
 </quote>
@@ -82,7 +94,8 @@
 </p>
 </div>
 <div>
-<p>　　夏旱<pc>，</pc>詔求闕失<pc>，</pc>袤上封事<pc>，</pc>大略言<pc>：</pc>
+<p>　　夏旱<pc>，</pc>詔求闕失<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>上封事<pc>，</pc>大略言<pc>：</pc>
 <pc>「</pc>
 <quote>天地之氣<pc>，</pc>宣通則和<pc>，</pc>壅遏則乖<pc>；</pc>人心舒暢則悅<pc>，</pc>抑鬱則憤<pc>。</pc>催科峻急而農民怨<pc>；</pc>關征苛察而商旅怨<pc>；</pc>差注留滯<pc>，</pc>而士大夫有失職之怨<pc>；</pc>廩給朘削<pc>，</pc>而士卒有不足之怨<pc>；</pc>奏讞不時報<pc>，</pc>
 <num value="100">百</num>久系囚者怨<pc>；</pc>幽枉不獲伸<pc>，</pc>而負累者怨<pc>；</pc>強暴殺人<pc>，</pc>多特貸命<pc>，</pc>使已死者怨<pc>；</pc>有司買納<pc>，</pc>不即酬價<pc>，</pc>負販者怨<pc>。</pc>人心抑鬱所以感傷天和者<pc>，</pc>豈特<num value="1">一</num>事而已<pc>。</pc>方今救荒之策<pc>，</pc>莫急於勸分<pc>，</pc>輸納既多<pc>，</pc>朝廷吝於推賞<pc>。</pc>乞詔有司檢舉行之<pc>。</pc>
@@ -93,31 +106,36 @@
 <div>
 <p>　　高宗崩前<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
-<pc>，</pc>除太常少卿<pc>。</pc>自南渡來<pc>，</pc>恤禮散失<pc>，</pc>事出倉卒<pc>，</pc>上下罔措<pc>，</pc>每有討論<pc>，</pc>悉付之袤<pc>，</pc>斟酌損益<pc>，</pc>便於今而不戾于古<pc>。</pc>
+<pc>，</pc>除太常少卿<pc>。</pc>自南渡來<pc>，</pc>恤禮散失<pc>，</pc>事出倉卒<pc>，</pc>上下罔措<pc>，</pc>每有討論<pc>，</pc>悉付之<name key="尤袤" type="givenName">袤</name>
+<pc>，</pc>斟酌損益<pc>，</pc>便於今而不戾于古<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　當定廟號<pc>，</pc>袤與禮官定號<pc>「</pc>
+<p>　　當定廟號<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>與禮官定號<pc>「</pc>
 <quote>高宗</quote>
 <pc>」</pc>
 <pc>，</pc>洪邁獨請號<pc>「</pc>
 <quote>世祖</quote>
 <pc>」</pc>
-<pc>。</pc>袤率禮官顏<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>
+<pc>。</pc>
+<name key="尤袤" type="givenName">袤</name>率禮官顏<persName>
+<name key="尹洙" type="zi">師魯</name>
+</persName>
 <pc>、</pc>鄭僑奏曰<pc>：</pc>
 <pc>「</pc>
 <quote>宗廟之制<pc>，</pc>祖有功<pc>，</pc>宗有德<pc>。</pc>藝祖規創大業<pc>，</pc>為宋太祖<pc>，</pc>太宗混<num value="1">一</num>區夏<pc>，</pc>為宋太宗<pc>，</pc>自真宗至欽宗<pc>，</pc>聖聖相傳<pc>，</pc>廟制<num value="1">一</num>定<pc>，</pc>
 <num value="10000">萬</num>世不易<pc>。</pc>在禮<pc>，</pc>子為父屈<pc>，</pc>示有尊也<pc>。</pc>太上親為徽宗子<pc>，</pc>子為祖而父為宗<pc>，</pc>失昭穆之序<pc>。</pc>議者不過以漢光武為比<pc>，</pc>光武以長沙王后<pc>，</pc>布衣崛起<pc>，</pc>不與哀<pc>、</pc>平相繼<pc>，</pc>其稱無嫌<pc>。</pc>太上中興<pc>，</pc>雖同光武<pc>，</pc>然實繼徽宗正統<pc>，</pc>以子繼父<pc>，</pc>非光武比<pc>。</pc>將來祔廟在徽宗下而稱祖<pc>，</pc>恐在天之靈有所不安<pc>。</pc>
 </quote>
-<pc>」</pc>詔群臣集議<pc>，</pc>袤復上議如初<pc>，</pc>邁論遂屈<pc>。</pc>詔從禮官議<pc>。</pc>眾論紛然<pc>。</pc>會禮部<pc>、</pc>太常寺亦同主<pc>「</pc>
+<pc>」</pc>詔群臣集議<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>復上議如初<pc>，</pc>邁論遂屈<pc>。</pc>詔從禮官議<pc>。</pc>眾論紛然<pc>。</pc>會禮部<pc>、</pc>太常寺亦同主<pc>「</pc>
 <quote>高宗</quote>
 <pc>」</pc>
 <pc>，</pc>謂本朝創業中興<pc>，</pc>皆在商丘<pc>，</pc>取<pc>「</pc>
 <quote>商高宗</quote>
 <pc>」</pc>
-<pc>，</pc>實為有證<pc>。</pc>始詔從初議<pc>。</pc>建議事堂<pc>，</pc>令皇太子參決庶務<pc>。</pc>袤時兼侍讀<pc>，</pc>乃獻書<pc>，</pc>以為<pc>：</pc>
+<pc>，</pc>實為有證<pc>。</pc>始詔從初議<pc>。</pc>建議事堂<pc>，</pc>令皇太子參決庶務<pc>。</pc>
+<name key="尤袤" type="givenName">袤</name>時兼侍讀<pc>，</pc>乃獻書<pc>，</pc>以為<pc>：</pc>
 <pc>「</pc>
 <quote>儲副之位<pc>，</pc>止於侍膳問安<pc>，</pc>不交外事<pc>；</pc>撫軍監國<pc>，</pc>自漢至今<pc>，</pc>多出權宜<pc>。</pc>乞便懇辭以彰殿下之令德<pc>。</pc>
 </quote>
@@ -125,34 +143,39 @@
 </p>
 </div>
 <div>
-<p>　　台臣乞定喪制<pc>，</pc>袤奏<pc>：</pc>
+<p>　　台臣乞定喪制<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>奏<pc>：</pc>
 <pc>「</pc>
 <quote>釋老之教<pc>，</pc>矯誣褻瀆<pc>，</pc>非所以嚴宮禁<pc>、</pc>崇幾筵<pc>，</pc>宜<num value="1">一</num>切禁止<pc>。</pc>
 </quote>
-<pc>」</pc>靈駕將發引<pc>，</pc>忽定配享之議<pc>，</pc>洪邁請用呂頤浩<pc>、</pc>韓世忠<pc>、</pc>趙鼎<pc>、</pc>張俊<pc>。</pc>袤言<pc>：</pc>
+<pc>」</pc>靈駕將發引<pc>，</pc>忽定配享之議<pc>，</pc>洪邁請用呂頤浩<pc>、</pc>韓世忠<pc>、</pc>趙鼎<pc>、</pc>張俊<pc>。</pc>
+<name key="尤袤" type="givenName">袤</name>言<pc>：</pc>
 <pc>「</pc>
 <quote>祖宗典故<pc>，</pc>既祔然後議配享<pc>，</pc>今忽定於靈駕發引<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>前<pc>，</pc>不集眾論<pc>，</pc>懼無以厭伏勳臣子孫之心<pc>。</pc>宜反覆熟議<pc>，</pc>以俟論定<pc>。</pc>
 </quote>
 <pc>」</pc>奏入<pc>，</pc>詔未預議官詳議以聞<pc>，</pc>繼寢之<pc>，</pc>卒用<measure quantity="4" unit="people">
-<num value="4">四</num>人</measure>者<pc>。</pc>時楊<num value="10000">萬</num>里亦謂張浚當配食<pc>，</pc>爭之不從<pc>，</pc>補外<pc>。</pc>進袤權禮部侍郎兼同修國史侍講<pc>，</pc>又兼直學士院<pc>。</pc>力辭<pc>，</pc>上聽免直院<pc>。</pc>
+<num value="4">四</num>人</measure>者<pc>。</pc>時楊<measure quantity="10000" unit="LIs">
+<num value="10000">萬</num>里</measure>亦謂張浚當配食<pc>，</pc>爭之不從<pc>，</pc>補外<pc>。</pc>進<name key="尤袤" type="givenName">袤</name>權禮部侍郎兼同修國史侍講<pc>，</pc>又兼直學士院<pc>。</pc>力辭<pc>，</pc>上聽免直院<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　淳熙<measure quantity="14" unit="years">
 <num value="14">十四</num>年</measure>
-<pc>，</pc>將有事於明堂<pc>，</pc>詔議升配<pc>，</pc>袤主紹興孫近<pc>、</pc>陳公輔之說<pc>，</pc>謂<pc>：</pc>
+<pc>，</pc>將有事於明堂<pc>，</pc>詔議升配<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>主紹興孫近<pc>、</pc>陳公輔之說<pc>，</pc>謂<pc>：</pc>
 <pc>「</pc>
 <quote>方在幾筵<pc>，</pc>不可配帝<pc>，</pc>且曆舉郊歲在喪服中者凡<num value="4">四</num>
-<pc>，</pc>惟元祐明堂用呂大防請<pc>，</pc>升配神考<pc>，</pc>時去大祥止<num value="100">百</num>餘日<pc>，</pc>且祖宗悉用以日易月之制<pc>，</pc>故升侑無嫌<pc>。</pc>今陛下行<measure quantity="3" unit="years">
+<pc>，</pc>惟<date notBefore="1086" notAfter="1094">元祐</date>明堂用呂大防請<pc>，</pc>升配神考<pc>，</pc>時去大祥止<num value="100">百</num>餘日<pc>，</pc>且祖宗悉用以日易月之制<pc>，</pc>故升侑無嫌<pc>。</pc>今陛下行<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>之喪<pc>，</pc>高宗雖已祔廟<pc>，</pc>
-<num value="100">百</num>官猶未吉服<pc>，</pc>詎可近違紹興而遠法元祐升侑之禮<pc>？</pc>請俟喪畢議之<pc>。</pc>
+<num value="100">百</num>官猶未吉服<pc>，</pc>詎可近違紹興而遠法<date notBefore="1086" notAfter="1094">元祐</date>升侑之禮<pc>？</pc>請俟喪畢議之<pc>。</pc>
 </quote>
 <pc>」</pc>詔可<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　孝宗嘗論人才<pc>，</pc>袤奏曰<pc>：</pc>
+<p>　　孝宗嘗論人才<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>奏曰<pc>：</pc>
 <pc>「</pc>
 <quote>近召趙汝愚<pc>，</pc>中外皆喜<pc>，</pc>如王蘭亦望收召<pc>。</pc>
 </quote>
@@ -168,18 +191,21 @@
 </quote>
 <pc>」</pc>次日語宰執曰<pc>：</pc>
 <pc>「</pc>
-<quote>尤袤甚好<pc>，</pc>前此無<measure quantity="1" unit="people">
+<quote>尤<name key="尤袤" type="givenName">袤</name>甚好<pc>，</pc>前此無<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>言之<pc>，</pc>何也<pc>？</pc>
 </quote>
-<pc>」</pc>兼權中書舍人<pc>，</pc>復詔兼直學士院<pc>，</pc>力辭<pc>，</pc>且薦陸遊自代<pc>，</pc>上不許<pc>。</pc>時內禪議已定<pc>，</pc>猶未論大臣也<pc>。</pc>是日諭袤曰<pc>：</pc>
+<pc>」</pc>兼權<term>中書舍人</term>
+<pc>，</pc>復詔兼直學士院<pc>，</pc>力辭<pc>，</pc>且薦陸遊自代<pc>，</pc>上不許<pc>。</pc>時內禪議已定<pc>，</pc>猶未論大臣也<pc>。</pc>是日諭<name key="尤袤" type="givenName">袤</name>曰<pc>：</pc>
 <pc>「</pc>
 <quote>旦夕制冊甚多<pc>，</pc>非卿孰能為者<pc>，</pc>故處卿以文字之職<pc>。</pc>
 </quote>
-<pc>」</pc>袤乃拜命<pc>，</pc>內禪<num value="1">一</num>時制冊<pc>，</pc>人服其雅正<pc>。</pc>
+<pc>」</pc>
+<name key="尤袤" type="givenName">袤</name>乃拜命<pc>，</pc>內禪<num value="1">一</num>時制冊<pc>，</pc>人服其雅正<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　光宗即位<pc>，</pc>甫兩旬<pc>，</pc>開講筵<pc>，</pc>袤奏<pc>：</pc>
+<p>　　光宗即位<pc>，</pc>甫兩旬<pc>，</pc>開講筵<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>奏<pc>：</pc>
 <pc>「</pc>
 <quote>願謹初戒始<pc>，</pc>孜孜興念<pc>。</pc>
 </quote>
@@ -198,12 +224,14 @@
 </p>
 </div>
 <div>
-<p>　　紹熙元年<pc>，</pc>起知婺州<pc>，</pc>改太平州<pc>，</pc>除煥章閣待制<pc>，</pc>召除給事中<pc>。</pc>既就職<pc>，</pc>即昌言曰<pc>：</pc>
+<p>　　紹熙元年<pc>，</pc>起知婺州<pc>，</pc>改太<placeName>平州</placeName>
+<pc>，</pc>除煥章閣待制<pc>，</pc>召除給事中<pc>。</pc>既就職<pc>，</pc>即昌言曰<pc>：</pc>
 <pc>「</pc>
 <quote>老矣<pc>，</pc>無所補報<pc>。</pc>凡貴近營求內除小礙法制者<pc>，</pc>雖特旨令書請<pc>，</pc>有去而已<pc>，</pc>必不奉詔<pc>。</pc>
 </quote>
 <pc>」</pc>甫數日<pc>，</pc>中貴<measure quantity="4" unit="people">
-<num value="4">四</num>人</measure>希賞<pc>，</pc>欲自正使轉橫行<pc>，</pc>袤繳奏者<num value="3">三</num>
+<num value="4">四</num>人</measure>希賞<pc>，</pc>欲自正使轉橫行<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>繳奏者<num value="3">三</num>
 <pc>，</pc>竟格不下<pc>。</pc>
 </p>
 </div>
@@ -220,11 +248,15 @@
 </p>
 </div>
 <div>
-<p>　　韓侂胄以武功大夫<pc>、</pc>和州防禦使用應辦賞直轉橫行<pc>，</pc>袤繳奏<pc>，</pc>謂<pc>：</pc>
+<p>　　韓侂胄以武功大夫<pc>、</pc>
+<placeName>和州</placeName>
+<term>防禦使</term>用應辦賞直轉橫行<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>繳奏<pc>，</pc>謂<pc>：</pc>
 <pc>「</pc>
 <quote>正使有止法<pc>，</pc>可回授不可直轉<pc>。</pc>侂胄勳賢之後<pc>，</pc>不宜首壞國法<pc>，</pc>開攀援之門<pc>。</pc>
 </quote>
-<pc>」</pc>奏入<pc>，</pc>手詔令書行<pc>，</pc>袤復奏<pc>：</pc>
+<pc>」</pc>奏入<pc>，</pc>手詔令書行<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>復奏<pc>：</pc>
 <pc>「</pc>
 <quote>侂胄<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>間已轉<measure quantity="27" unit="years">
@@ -236,7 +268,8 @@
 </div>
 <div>
 <p>　　上以疾<pc>，</pc>
-<num value="1">一</num>再不省重華宮<pc>，</pc>袤上封事曰<pc>：</pc>
+<num value="1">一</num>再不省重華宮<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>上封事曰<pc>：</pc>
 <pc>「</pc>
 <quote>壽皇事高宗曆<measure quantity="28" unit="years">
 <num value="28">二十八</num>年</measure>如<measure quantity="1" unit="day">
@@ -248,18 +281,22 @@
 </p>
 </div>
 <div>
-<p>　　侍御史林大中以論事左遷<pc>，</pc>袤率左史樓鑰論奏<pc>，</pc>疏入<pc>，</pc>不報<pc>，</pc>皆封駁不書黃<pc>。</pc>耶律適嘿復以手除詔承宣使<pc>，</pc>
-<num value="1">一</num>再繳奏<pc>，</pc>輒奉內批<pc>，</pc>特與書行<pc>。</pc>袤言<pc>：</pc>
+<p>　　<term>侍御史</term>林大中以論事左遷<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>率左史樓鑰論奏<pc>，</pc>疏入<pc>，</pc>不報<pc>，</pc>皆封駁不書黃<pc>。</pc>耶律適嘿復以手除詔承宣使<pc>，</pc>
+<num value="1">一</num>再繳奏<pc>，</pc>輒奉內批<pc>，</pc>特與書行<pc>。</pc>
+<name key="尤袤" type="givenName">袤</name>言<pc>：</pc>
 <pc>「</pc>
 <quote>天下者祖宗之天下<pc>，</pc>爵祿者祖宗之爵祿<pc>，</pc>壽皇以祖宗之天下傳陛下<pc>，</pc>安可私用祖宗爵祿而加於公議不允之人哉<pc>？</pc>
 </quote>
-<pc>」</pc>疏入<pc>，</pc>上震怒<pc>，</pc>裂去後奏<pc>，</pc>付前<num value="2">二</num>奏出<pc>。</pc>袤以後奏不報<pc>，</pc>使吏收閣<pc>，</pc>命遂不行<pc>。</pc>
+<pc>」</pc>疏入<pc>，</pc>上震怒<pc>，</pc>裂去後奏<pc>，</pc>付前<num value="2">二</num>奏出<pc>。</pc>
+<name key="尤袤" type="givenName">袤</name>以後奏不報<pc>，</pc>使吏收閣<pc>，</pc>命遂不行<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　中宮謁家廟<pc>，</pc>官吏推賞者<num value="70">百七十</num>有<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>
-<pc>，</pc>袤力言其濫<pc>，</pc>乞痛裁節<pc>，</pc>上從之<pc>。</pc>嘗因登對<pc>，</pc>專論廢法用例之弊<pc>，</pc>至是復申言之<pc>。</pc>除禮部尚書<pc>。</pc>駕當詣重華宮<pc>，</pc>復以疾不出<pc>，</pc>率同列奏言<pc>：</pc>
+<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>力言其濫<pc>，</pc>乞痛裁節<pc>，</pc>上從之<pc>。</pc>嘗因登對<pc>，</pc>專論廢法用例之弊<pc>，</pc>至是復申言之<pc>。</pc>除禮部尚書<pc>。</pc>駕當詣重華宮<pc>，</pc>復以疾不出<pc>，</pc>率同列奏言<pc>：</pc>
 <pc>「</pc>
 <quote>壽皇有免到宮之命<pc>，</pc>願力請而往<pc>，</pc>庶幾可以慰釋群疑<pc>，</pc>增光孝治<pc>。</pc>
 </quote>
@@ -280,12 +317,14 @@
 </p>
 </div>
 <div>
-<p>　　時上已屬疾<pc>，</pc>國事多舛<pc>，</pc>袤積憂成疾<pc>，</pc>請告<pc>，</pc>不報<pc>。</pc>疾篤乞致仕<pc>，</pc>又不服<pc>，</pc>遂卒<pc>，</pc>年<num value="70">七十</num>
+<p>　　時上已屬疾<pc>，</pc>國事多舛<pc>，</pc>
+<name key="尤袤" type="givenName">袤</name>積憂成疾<pc>，</pc>請告<pc>，</pc>不報<pc>。</pc>疾篤乞致仕<pc>，</pc>又不服<pc>，</pc>遂卒<pc>，</pc>年<num value="70">七十</num>
 <pc>。</pc>遺奏大略勸上以孝事兩宮<pc>，</pc>以勤康庶政<pc>，</pc>察邪佞<pc>，</pc>護善類<pc>。</pc>又口占遺書別政府<pc>。</pc>明年<pc>，</pc>轉正奉大夫致仕<pc>。</pc>贈金紫光祿大夫<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　袤少從喻樗<pc>、</pc>汪應辰遊<pc>。</pc>樗學于楊時<pc>，</pc>時<pc>，</pc>程頤高弟也<pc>。</pc>方乾道<pc>、</pc>淳熙間<pc>，</pc>程氏學稍振<pc>，</pc>忌之者目為道學<pc>，</pc>將攻之<pc>。</pc>袤在掖垣<pc>，</pc>首言<pc>：</pc>
+<p>　　<name key="尤袤" type="givenName">袤</name>少從喻樗<pc>、</pc>汪應辰遊<pc>。</pc>樗學于楊時<pc>，</pc>時<pc>，</pc>程頤高弟也<pc>。</pc>方乾道<pc>、</pc>淳熙間<pc>，</pc>程氏學稍振<pc>，</pc>忌之者目為道學<pc>，</pc>將攻之<pc>。</pc>
+<name key="尤袤" type="givenName">袤</name>在掖垣<pc>，</pc>首言<pc>：</pc>
 <pc>「</pc>
 <quote>夫道學者<pc>，</pc>堯<pc>、</pc>舜所以帝<pc>，</pc>禹<pc>、</pc>湯<pc>、</pc>武所以王<pc>，</pc>周公<pc>、</pc>孔<pc>、</pc>孟所以設教<pc>。</pc>近立此名<pc>，</pc>詆訾士君子<pc>，</pc>故臨財不苟得所謂廉介<pc>，</pc>安貧守分所謂恬退<pc>，</pc>擇言顧行所謂踐履<pc>，</pc>行己有恥所謂名節<pc>，</pc>皆目之為道學<pc>。</pc>此名<num value="1">一</num>立<pc>，</pc>賢人君子欲自見於世<pc>，</pc>
 <num value="1">一</num>舉足且入其中<pc>，</pc>俱無得免<pc>，</pc>此豈盛世所宜有<pc>？</pc>願徇名必責其實<pc>，</pc>聽言必觀其行<pc>，</pc>人才庶不壞於疑似<pc>。</pc>
@@ -294,7 +333,8 @@
 <pc>「</pc>
 <quote>道學豈不美之名<pc>，</pc>正恐假託為奸<pc>，</pc>使真偽相亂爾<pc>。</pc>待付出戒敕之<pc>。</pc>
 </quote>
-<pc>」</pc>袤死數年<pc>，</pc>侂胄擅國<pc>，</pc>於是禁錮道學<pc>，</pc>賢士大夫皆受其禍<pc>，</pc>識者以袤為知言<pc>。</pc>
+<pc>」</pc>
+<name key="尤袤" type="givenName">袤</name>死數年<pc>，</pc>侂胄擅國<pc>，</pc>於是禁錮道學<pc>，</pc>賢士大夫皆受其禍<pc>，</pc>識者以<name key="尤袤" type="givenName">袤</name>為知言<pc>。</pc>
 </p>
 </div>
 <div>
@@ -317,26 +357,34 @@
 </p>
 </div>
 <div>
-<p>　　謝諤<pc>，</pc>字昌國<pc>，</pc>臨江軍新喻人<pc>。</pc>幼敏惠<pc>，</pc>日記<num value="1000">千</num>言<pc>，</pc>為文立成<pc>。</pc>紹興<measure quantity="27" unit="years">
+<p>　　<persName>謝諤</persName>
+<pc>，</pc>字<name key="謝諤" type="zi">昌國</name>
+<pc>，</pc>臨江軍新喻人<pc>。</pc>幼敏惠<pc>，</pc>日記<num value="1000">千</num>言<pc>，</pc>為文立成<pc>。</pc>紹興<measure quantity="27" unit="years">
 <num value="27">二十七</num>年</measure>
-<pc>，</pc>中進士第<pc>，</pc>調峽州夷陵縣主簿<pc>，</pc>未上<pc>，</pc>撫之樂安多盜<pc>，</pc>監司檄諤攝尉<pc>，</pc>條<num value="20">二十</num>策<pc>，</pc>大要使其徒相糾而以信賞隨之<pc>，</pc>群盜果解散<pc>。</pc>金渝盟<pc>，</pc>諸軍往來境上<pc>，</pc>選行縣事<pc>，</pc>有治辦聲<pc>。</pc>
+<pc>，</pc>中進士第<pc>，</pc>調峽州夷陵縣主簿<pc>，</pc>未上<pc>，</pc>撫之樂安多盜<pc>，</pc>監司檄<name key="謝諤" type="givenName">諤</name>攝尉<pc>，</pc>條<num value="20">二十</num>策<pc>，</pc>大要使其徒相糾而以信賞隨之<pc>，</pc>群盜果解散<pc>。</pc>金渝盟<pc>，</pc>諸軍往來境上<pc>，</pc>選行縣事<pc>，</pc>有治辦聲<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　改吉州錄事參軍<pc>。</pc>囚死者舊瘞以鞂<pc>，</pc>往往暴骨<pc>。</pc>諤白郡<pc>，</pc>取船官棄材以棺斂之<pc>。</pc>郡民陳氏僮竊其篋以逃<pc>，</pc>有匿之者<pc>。</pc>陳于官<pc>，</pc>詞過其實<pc>，</pc>反為匿僮者所誣<pc>。</pc>帥龔茂良怒<pc>，</pc>欲坐以罪<pc>，</pc>諤為書白茂良<pc>，</pc>陳氏獲免<pc>，</pc>茂良亦以是知之<pc>。</pc>
+<p>　　改吉州錄事參軍<pc>。</pc>囚死者舊瘞以鞂<pc>，</pc>往往暴骨<pc>。</pc>
+<name key="謝諤" type="givenName">諤</name>白郡<pc>，</pc>取船官棄材以棺斂之<pc>。</pc>郡民陳氏僮竊其篋以逃<pc>，</pc>有匿之者<pc>。</pc>陳于官<pc>，</pc>詞過其實<pc>，</pc>反為匿僮者所誣<pc>。</pc>帥龔茂良怒<pc>，</pc>欲坐以罪<pc>，</pc>
+<name key="謝諤" type="givenName">諤</name>為書白茂良<pc>，</pc>陳氏獲免<pc>，</pc>茂良亦以是知之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　歲大侵<pc>，</pc>饑民<num value="10000">萬</num>余求廩<pc>，</pc>官吏罔措<pc>。</pc>諤植<num value="5">五</num>色旗<pc>，</pc>分部給糶<pc>，</pc>頃刻而定<pc>。</pc>知袁州分宜縣<pc>。</pc>縣積負於郡數<num value="100000">十萬</num>
-<pc>，</pc>歲常賦外<pc>，</pc>又征緡錢<num value="20000">二萬</num>餘<pc>，</pc>諤乃疏其弊于諸監司<pc>，</pc>請免之<pc>。</pc>以母憂去<pc>。</pc>尋丁父憂<pc>，</pc>服闋<pc>，</pc>除幹辦行在諸司糧料院<pc>。</pc>遷國子監簿<pc>，</pc>尋擢監察御史<pc>。</pc>奏減袁州分宜<pc>、</pc>秀州華亭月樁錢<pc>。</pc>
+<p>　　歲大侵<pc>，</pc>饑民<num value="10000">萬</num>余求廩<pc>，</pc>官吏罔措<pc>。</pc>
+<name key="謝諤" type="givenName">諤</name>植<num value="5">五</num>色旗<pc>，</pc>分部給糶<pc>，</pc>頃刻而定<pc>。</pc>知袁州分宜縣<pc>。</pc>縣積負於郡數<num value="100000">十萬</num>
+<pc>，</pc>歲常賦外<pc>，</pc>又征緡錢<num value="20000">二萬</num>餘<pc>，</pc>
+<name key="謝諤" type="givenName">諤</name>乃疏其弊于諸監司<pc>，</pc>請免之<pc>。</pc>以母憂去<pc>。</pc>尋丁父憂<pc>，</pc>服闋<pc>，</pc>除幹辦行在諸司糧料院<pc>。</pc>遷國子監簿<pc>，</pc>尋擢監察御史<pc>。</pc>奏減袁州分宜<pc>、</pc>
+<placeName>秀州</placeName>華亭月樁錢<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　諤裏居時<pc>，</pc>創義役法<pc>，</pc>編為<num value="1">一</num>書<pc>，</pc>至是上之<pc>。</pc>詔行其法于諸路<pc>，</pc>民以為便<pc>。</pc>
+<p>　　<name key="謝諤" type="givenName">諤</name>裏居時<pc>，</pc>創義役法<pc>，</pc>編為<num value="1">一</num>書<pc>，</pc>至是上之<pc>。</pc>詔行其法于諸路<pc>，</pc>民以為便<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　遷侍御史<pc>，</pc>再遷右<term>諫議大夫</term>兼侍講<pc>。</pc>講<pc>《</pc>
+<p>　　遷<term>侍御史</term>
+<pc>，</pc>再遷右<term>諫議大夫</term>兼侍講<pc>。</pc>講<pc>《</pc>
 <title>尚書</title>
 <pc>》</pc>
 <pc>，</pc>言於上曰<pc>：</pc>
@@ -353,11 +401,13 @@
 <pc>「</pc>
 <quote>朕最喜伊尹<pc>、</pc>傅說所學<pc>，</pc>得事君之道<pc>。</pc>
 </quote>
-<pc>」</pc>諤曰<pc>：</pc>
+<pc>」</pc>
+<name key="謝諤" type="givenName">諤</name>曰<pc>：</pc>
 <pc>「</pc>
 <quote>伊<pc>、</pc>傅固然<pc>，</pc>非成湯<pc>、</pc>武丁信用之<pc>，</pc>亦安能致治<pc>！</pc>
 </quote>
-<pc>」</pc>因論及邊事<pc>，</pc>上有乘機會之諭<pc>，</pc>諤曰<pc>：</pc>
+<pc>」</pc>因論及邊事<pc>，</pc>上有乘機會之諭<pc>，</pc>
+<name key="謝諤" type="givenName">諤</name>曰<pc>：</pc>
 <pc>「</pc>
 <quote>機會雖不可失<pc>，</pc>舉事亦不可輕<pc>。</pc>
 </quote>
@@ -365,7 +415,8 @@
 <pc>「</pc>
 <quote>聞卿與郭雍遊<pc>，</pc>雍學問甚好<pc>，</pc>豈曾見程頤乎<pc>？</pc>
 </quote>
-<pc>」</pc>諤奏<pc>：</pc>
+<pc>」</pc>
+<name key="謝諤" type="givenName">諤</name>奏<pc>：</pc>
 <pc>「</pc>
 <quote>雍父忠孝嘗事頤<pc>，</pc>雍蓋得其傳于父<pc>。</pc>
 </quote>
@@ -373,17 +424,18 @@
 </p>
 </div>
 <div>
-<p>　　光宗登極<pc>，</pc>獻<num value="10">十</num>箴<pc>，</pc>又論<num value="2">二</num>節<num value="3">三</num>近<pc>：</pc>所當節者曰宴飲<pc>，</pc>曰妄費<pc>；</pc>所當近者曰執政大臣<pc>，</pc>曰舊學名儒<pc>，</pc>曰經筵列職<pc>。</pc>除御史中丞<pc>，</pc>權工部尚書<pc>。</pc>請祠<pc>，</pc>以煥章閣直學士知泉州<pc>，</pc>又辭<pc>，</pc>提舉太平興國宮而歸<pc>。</pc>紹熙<measure quantity="5" unit="years">
+<p>　　光宗登極<pc>，</pc>獻<num value="10">十</num>箴<pc>，</pc>又論<num value="2">二</num>節<num value="3">三</num>近<pc>：</pc>所當節者曰宴飲<pc>，</pc>曰妄費<pc>；</pc>所當近者曰執政大臣<pc>，</pc>曰舊學名儒<pc>，</pc>曰經筵列職<pc>。</pc>除御史中丞<pc>，</pc>權工部尚書<pc>。</pc>請祠<pc>，</pc>以煥章閣直學士知<placeName>泉州</placeName>
+<pc>，</pc>又辭<pc>，</pc>提舉<date notBefore="976" notAfter="984">太平興國</date>宮而歸<pc>。</pc>紹熙<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>卒<pc>，</pc>年<num value="74">七十四</num>
 <pc>，</pc>贈通議大夫<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　諤為文仿<persName>歐陽修</persName>
+<p>　　<name key="謝諤" type="givenName">諤</name>為文仿<persName>歐陽修</persName>
 <pc>、</pc>
 <persName>曾鞏</persName>
-<pc>。</pc>初居縣南之竹坡<pc>，</pc>名其燕坐曰艮齋<pc>，</pc>人稱艮齋先生<pc>。</pc>周必大薦士<pc>，</pc>及諤姓名<pc>，</pc>孝宗曰<pc>：</pc>
+<pc>。</pc>初居縣南之竹坡<pc>，</pc>名其燕坐曰艮齋<pc>，</pc>人稱艮齋先生<pc>。</pc>周必大薦士<pc>，</pc>及<name key="謝諤" type="givenName">諤</name>姓名<pc>，</pc>孝宗曰<pc>：</pc>
 <pc>「</pc>
 <quote>是謂艮齋者耶<pc>？</pc>朕見其<pc>《</pc>
 <title>性學淵源</title>
@@ -394,13 +446,17 @@
 </p>
 </div>
 <div>
-<p>　　顏<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>
-<pc>，</pc>字幾聖<pc>，</pc>漳州龍溪人<pc>。</pc>紹興中<pc>，</pc>擢進士第<pc>，</pc>曆知莆田<pc>、</pc>福清縣<pc>。</pc>嘗決水利滯訟<pc>，</pc>辟陂洫綿<num value="40">四十</num>里<pc>。</pc>歲大侵<pc>，</pc>發廩勸分有方而不遏糴價<pc>，</pc>船粟畢湊<pc>，</pc>市糴更平<pc>。</pc>鄭伯熊為常平使<pc>，</pc>薦于朝<pc>，</pc>帥陳俊卿尤器重之<pc>。</pc>召為官告院<pc>，</pc>遷國子丞<pc>，</pc>除江東提舉<pc>。</pc>時天雨土<pc>，</pc>日青無光<pc>，</pc>都人相驚<pc>，</pc>
-<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>陛辭<pc>，</pc>言<pc>：</pc>
+<p>　　<persName>顏<persName>
+<name key="尹洙" type="zi">師魯</name>
+</persName>
+</persName>
+<pc>，</pc>字<name key="顏師魯" type="zi">幾聖</name>
+<pc>，</pc>漳州龍溪人<pc>。</pc>紹興中<pc>，</pc>擢進士第<pc>，</pc>曆知莆田<pc>、</pc>福清縣<pc>。</pc>嘗決水利滯訟<pc>，</pc>辟陂洫綿<measure quantity="40" unit="LIs">
+<num value="40">四十</num>里</measure>
+<pc>。</pc>歲大侵<pc>，</pc>發廩勸分有方而不遏糴價<pc>，</pc>船粟畢湊<pc>，</pc>市糴更平<pc>。</pc>鄭伯熊為常平使<pc>，</pc>薦于朝<pc>，</pc>帥陳俊卿尤器重之<pc>。</pc>召為官告院<pc>，</pc>遷國子丞<pc>，</pc>除江東提舉<pc>。</pc>時天雨土<pc>，</pc>日青無光<pc>，</pc>都人相驚<pc>，</pc>
+<persName>
+<name key="顏師魯" type="givenName">師魯</name>
+</persName>陛辭<pc>，</pc>言<pc>：</pc>
 <pc>「</pc>
 <quote>田裏未安<pc>，</pc>犴獄未清<pc>，</pc>政令未當<pc>，</pc>忠邪未辨<pc>，</pc>天不示變<pc>，</pc>人主何繇省悟<pc>！</pc>願詔中外<pc>，</pc>極陳得失<pc>，</pc>求所以答天戒<pc>，</pc>銷患未形<pc>。</pc>
 </quote>
@@ -409,20 +465,20 @@
 </div>
 <div>
 <p>　　尋改使浙西<pc>。</pc>役法敝甚<pc>，</pc>細民至以雞豚罌榻折產力<pc>，</pc>遇役輒破家<pc>。</pc>
-<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>下教屬邑<pc>，</pc>預正流水籍<pc>，</pc>稽其役之序<pc>，</pc>寬比限<pc>，</pc>免代輸<pc>，</pc>咸便安之<pc>。</pc>鹽課歲<num value="100">百</num>钜<num value="10000">萬</num>
+<persName>
+<name key="顏師魯" type="givenName">師魯</name>
+</persName>下教屬邑<pc>，</pc>預正流水籍<pc>，</pc>稽其役之序<pc>，</pc>寬比限<pc>，</pc>免代輸<pc>，</pc>咸便安之<pc>。</pc>鹽課歲<num value="100">百</num>钜<num value="10000">萬</num>
 <pc>，</pc>本錢久不給<pc>，</pc>亭灶私鬻<pc>，</pc>禁不可止<pc>，</pc>刑辟日繁<pc>。</pc>
-<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>撙帑緡<pc>，</pc>盡償宿負<pc>，</pc>戒官吏毋侵移<pc>，</pc>比旁路課獨最<pc>。</pc>上謂執政曰<pc>：</pc>
+<persName>
+<name key="顏師魯" type="givenName">師魯</name>
+</persName>撙帑緡<pc>，</pc>盡償宿負<pc>，</pc>戒官吏毋侵移<pc>，</pc>比旁路課獨最<pc>。</pc>上謂執政曰<pc>：</pc>
 <pc>「</pc>
 <quote>儒生能辦事如此<pc>。</pc>
 </quote>
 <pc>」</pc>予職直秘閣<pc>。</pc>農民有墾曠土成田未及受租者<pc>，</pc>奸豪多為己利<pc>，</pc>
-<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>奏<pc>：</pc>
+<persName>
+<name key="顏師魯" type="givenName">師魯</name>
+</persName>奏<pc>：</pc>
 <pc>「</pc>
 <quote>但當正其租賦<pc>，</pc>不應繩以盜種法<pc>，</pc>失劭農重本意<pc>。</pc>
 </quote>
@@ -431,11 +487,12 @@
 </div>
 <div>
 <p>　　入為監察御史<pc>，</pc>遇事盡言<pc>，</pc>無所阿撓<pc>。</pc>有自外府得內殿宣引<pc>，</pc>且將補御史闕員<pc>，</pc>
-<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>亟奏<pc>：</pc>
+<persName>
+<name key="顏師魯" type="givenName">師魯</name>
+</persName>亟奏<pc>：</pc>
 <pc>「</pc>
-<quote>宋璟召自廣州<pc>，</pc>道中不與楊思勖交<num value="1">一</num>談<pc>。</pc>李鄘恥為吐突承璀所薦<pc>，</pc>堅辭相位不拜<pc>。</pc>士大夫未論其才<pc>，</pc>立身之節<pc>，</pc>當以璟<pc>、</pc>鄘為法<pc>。</pc>今其人朋邪為跡<pc>，</pc>人所切齒<pc>，</pc>縱朝廷乏才<pc>，</pc>寧少此輩乎<pc>？</pc>臣雖不肖<pc>，</pc>羞與為伍<pc>。</pc>
+<quote>宋璟召自<placeName>廣州</placeName>
+<pc>，</pc>道中不與楊思勖交<num value="1">一</num>談<pc>。</pc>李鄘恥為吐突承璀所薦<pc>，</pc>堅辭相位不拜<pc>。</pc>士大夫未論其才<pc>，</pc>立身之節<pc>，</pc>當以璟<pc>、</pc>鄘為法<pc>。</pc>今其人朋邪為跡<pc>，</pc>人所切齒<pc>，</pc>縱朝廷乏才<pc>，</pc>寧少此輩乎<pc>？</pc>臣雖不肖<pc>，</pc>羞與為伍<pc>。</pc>
 </quote>
 <pc>」</pc>命乃寢<pc>。</pc>繼累章論除職帥藩者<pc>：</pc>
 <pc>「</pc>
@@ -453,22 +510,22 @@
 <quote>宜講明理學<pc>，</pc>嚴禁穿鑿<pc>，</pc>俾廉恥興而風俗厚<pc>。</pc>
 </quote>
 <pc>」</pc>
-<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>學行素孚規約<pc>，</pc>率以身先<pc>，</pc>與諸生言<pc>，</pc>孳孳以治己立誠為本<pc>，</pc>藝尤異者必加獎勸<pc>，</pc>由是人知飭勵<pc>。</pc>上聞之喜曰<pc>：</pc>
+<persName>
+<name key="顏師魯" type="givenName">師魯</name>
+</persName>學行素孚規約<pc>，</pc>率以身先<pc>，</pc>與諸生言<pc>，</pc>孳孳以治己立誠為本<pc>，</pc>藝尤異者必加獎勸<pc>，</pc>由是人知飭勵<pc>。</pc>上聞之喜曰<pc>：</pc>
 <pc>「</pc>
-<quote>顏<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>到學未久<pc>，</pc>規矩甚肅<pc>。</pc>
+<quote>顏<persName>
+<name key="顏師魯" type="givenName">師魯</name>
+</persName>到學未久<pc>，</pc>規矩甚肅<pc>。</pc>
 </quote>
 <pc>」</pc>除禮部侍郎<pc>，</pc>尋兼吏部<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　有旨改官班<pc>，</pc>特免引見<pc>。</pc>
-<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>獻規曰<pc>：</pc>
+<persName>
+<name key="顏師魯" type="givenName">師魯</name>
+</persName>獻規曰<pc>：</pc>
 <pc>「</pc>
 <quote>祖宗法度不可輕馳<pc>，</pc>願始終持久<pc>，</pc>自強不息<pc>。</pc>
 </quote>
@@ -478,9 +535,9 @@
 <num value="1">萬一</num>有為國制變禦侮<pc>，</pc>建功立事者<pc>，</pc>將何以旌寵之<pc>？</pc>
 </quote>
 <pc>」</pc>高宗喪制<pc>，</pc>
-<num value="1">一</num>時典禮多<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>裁定<pc>，</pc>又與禮官尤袤<pc>、</pc>鄭僑上議廟號<pc>，</pc>語在<pc>《</pc>
+<num value="1">一</num>時典禮多<persName>
+<name key="顏師魯" type="givenName">師魯</name>
+</persName>裁定<pc>，</pc>又與禮官尤袤<pc>、</pc>鄭僑上議廟號<pc>，</pc>語在<pc>《</pc>
 <title>袤傳</title>
 <pc>》</pc>
 <pc>。</pc>
@@ -488,34 +545,38 @@
 </div>
 <div>
 <p>　　詔充遺留禮信使<pc>。</pc>初<pc>，</pc>顯仁遺留使至金<pc>，</pc>必令簪花聽樂<pc>。</pc>
-<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>陛辭<pc>，</pc>言<pc>：</pc>
+<persName>
+<name key="顏師魯" type="givenName">師魯</name>
+</persName>陛辭<pc>，</pc>言<pc>：</pc>
 <pc>「</pc>
 <quote>國勢今非昔比<pc>，</pc>金人或強臣非禮<pc>，</pc>誓以死守<pc>。</pc>
 </quote>
 <pc>」</pc>沿途宴設<pc>，</pc>力請徹樂<pc>。</pc>至燕山<pc>，</pc>復辭簪花執射<pc>。</pc>時孝宗以孝聞<pc>，</pc>
-<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>據經陳誼<pc>，</pc>反復慷慨<pc>，</pc>故金終不能奪<pc>。</pc>
+<persName>
+<name key="顏師魯" type="givenName">師魯</name>
+</persName>據經陳誼<pc>，</pc>反復慷慨<pc>，</pc>故金終不能奪<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　遷吏部侍郎<pc>，</pc>尋除吏部尚書兼侍講<pc>，</pc>屢抗章請老<pc>，</pc>以龍圖閣直學士知泉州<pc>。</pc>台諫<pc>、</pc>侍從相繼拜疏<pc>，</pc>引唐孔戣事以留行<pc>。</pc>內引<pc>，</pc>奏言<pc>：</pc>
+<p>　　遷吏部侍郎<pc>，</pc>尋除吏部尚書兼侍講<pc>，</pc>屢抗章請老<pc>，</pc>以龍圖閣直學士知<placeName>泉州</placeName>
+<pc>。</pc>台諫<pc>、</pc>侍從相繼拜疏<pc>，</pc>引唐孔戣事以留行<pc>。</pc>內引<pc>，</pc>奏言<pc>：</pc>
 <pc>「</pc>
 <quote>願親賢積學<pc>，</pc>以崇聖德<pc>，</pc>節情制欲<pc>，</pc>以養清躬<pc>。</pc>
 </quote>
 <pc>」</pc>在泉因任<pc>，</pc>凡閱<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>專以恤民寬屬邑為政<pc>，</pc>始至即蠲舶貨<pc>，</pc>諸商賈胡尤服其清<pc>。</pc>再起知泉州<pc>，</pc>以紹熙<measure quantity="4" unit="years">
+<pc>，</pc>專以恤民寬屬邑為政<pc>，</pc>始至即蠲舶貨<pc>，</pc>諸商賈胡尤服其清<pc>。</pc>再起知<placeName>泉州</placeName>
+<pc>，</pc>以紹熙<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>卒於家<pc>，</pc>年<num value="75">七十五</num>
 <pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>自幼莊重若成人<pc>，</pc>孝友天至<pc>。</pc>初為番禺簿<pc>，</pc>喪父以歸<pc>，</pc>扶柩航海<pc>，</pc>水程數<num value="1000">千</num>里<pc>，</pc>甫<measure quantity="3" unit="days">
+<p>　　<persName>
+<name key="顏師魯" type="givenName">師魯</name>
+</persName>自幼莊重若成人<pc>，</pc>孝友天至<pc>。</pc>初為番禺簿<pc>，</pc>喪父以歸<pc>，</pc>扶柩航海<pc>，</pc>水程數<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>
+<pc>，</pc>甫<measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>登於岸<pc>，</pc>而颶風大作<pc>，</pc>人以為孝感<pc>。</pc>常曰<pc>：</pc>
 <pc>「</pc>
 <quote>窮達自有定分<pc>，</pc>枉道希世<pc>，</pc>徒喪所守<pc>。</pc>
@@ -526,7 +587,9 @@
 </p>
 </div>
 <div>
-<p>　　袁樞<pc>，</pc>字機仲<pc>，</pc>建之建安人<pc>。</pc>幼力學<pc>，</pc>嘗以<pc>《</pc>
+<p>　　<persName>袁樞</persName>
+<pc>，</pc>字<name key="袁樞" type="zi">機仲</name>
+<pc>，</pc>建之建安人<pc>。</pc>幼力學<pc>，</pc>嘗以<pc>《</pc>
 <title>修身為弓賦</title>
 <pc>》</pc>試國子監<pc>，</pc>周必大<pc>、</pc>劉珙皆期以遠器<pc>。</pc>試禮部<pc>，</pc>詞賦第<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
@@ -539,16 +602,20 @@
 <pc>，</pc>為禮部試官<pc>，</pc>就除太學錄<pc>，</pc>輪對<num value="3">三</num>疏<pc>，</pc>
 <num value="1">一</num>論開言路以養忠孝之氣<pc>，</pc>
 <num value="2">二</num>論規恢復當圖<num value="10000">萬</num>全<pc>，</pc>
-<num value="3">三</num>論士大夫多虛誕<pc>、</pc>僥榮利<pc>。</pc>張說自閣門以節鉞簽樞密<pc>，</pc>樞方與學省同僚共論之<pc>，</pc>上雖容納而色不怡<pc>。</pc>樞退詣<term>宰相</term>
+<num value="3">三</num>論士大夫多虛誕<pc>、</pc>僥榮利<pc>。</pc>張說自閣門以節鉞簽<name key="袁樞" type="givenName">樞</name>密<pc>，</pc>
+<name key="袁樞" type="givenName">樞</name>方與學省同僚共論之<pc>，</pc>上雖容納而色不怡<pc>。</pc>
+<name key="袁樞" type="givenName">樞</name>退詣<term>宰相</term>
 <pc>，</pc>示以奏疏<pc>，</pc>且曰<pc>：</pc>
 <pc>「</pc>
 <quote>公不恥與噲等伍邪<pc>？</pc>
 </quote>
-<pc>」</pc>虞允文愧甚<pc>。</pc>樞即求外補<pc>，</pc>出為嚴州教授<pc>。</pc>
+<pc>」</pc>虞允文愧甚<pc>。</pc>
+<name key="袁樞" type="givenName">樞</name>即求外補<pc>，</pc>出為<placeName>嚴州</placeName>教授<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　樞常喜誦司馬光<pc>《</pc>
+<p>　　<name key="袁樞" type="givenName">樞</name>常喜誦<persName>司馬光</persName>
+<pc>《</pc>
 <title>資治通鑒</title>
 <pc>》</pc>
 <pc>，</pc>苦其浩博<pc>，</pc>乃區別其事而貫通之<pc>，</pc>號<pc>《</pc>
@@ -562,7 +629,7 @@
 </p>
 </div>
 <div>
-<p>　　他日<pc>，</pc>上問袁樞今何官<pc>，</pc>茂良以實對<pc>，</pc>上曰<pc>：</pc>
+<p>　　他日<pc>，</pc>上問袁<name key="袁樞" type="givenName">樞</name>今何官<pc>，</pc>茂良以實對<pc>，</pc>上曰<pc>：</pc>
 <pc>「</pc>
 <quote>可與寺監簿<pc>。</pc>
 </quote>
@@ -581,7 +648,8 @@
 <pc>「</pc>
 <quote>朕不至與此曹圖事帷幄中<pc>。</pc>
 </quote>
-<pc>」</pc>樞謝曰<pc>：</pc>
+<pc>」</pc>
+<name key="袁樞" type="givenName">樞</name>謝曰<pc>：</pc>
 <pc>「</pc>
 <quote>陛下之言及此<pc>，</pc>天下之福也<pc>。</pc>
 </quote>
@@ -589,11 +657,13 @@
 </p>
 </div>
 <div>
-<p>　　遷太府丞<pc>。</pc>時士大夫頗有為党與者<pc>。</pc>樞奏曰<pc>：</pc>
+<p>　　遷太府丞<pc>。</pc>時士大夫頗有為党與者<pc>。</pc>
+<name key="袁樞" type="givenName">樞</name>奏曰<pc>：</pc>
 <pc>「</pc>
 <quote>人主有偏黨之心<pc>，</pc>則臣下有朋黨之患<pc>。</pc>比年或謂陛下寵任武士<pc>，</pc>有厭薄儒生之心<pc>，</pc>猜疑大臣<pc>，</pc>親信左右<pc>，</pc>內庭行廟堂之事<pc>，</pc>近侍參軍國之謀<pc>。</pc>今雖總權綱<pc>，</pc>專聽覽<pc>，</pc>而或壅蔽聰明<pc>，</pc>潛移威福<pc>。</pc>願可否惟聽於國人<pc>，</pc>毀譽不私於左右<pc>。</pc>
 </quote>
-<pc>」</pc>上方銳意北伐<pc>，</pc>示天下以所向<pc>。</pc>樞奏<pc>：</pc>
+<pc>」</pc>上方銳意北伐<pc>，</pc>示天下以所向<pc>。</pc>
+<name key="袁樞" type="givenName">樞</name>奏<pc>：</pc>
 <pc>「</pc>
 <quote>古之謀人國者<pc>，</pc>必示之以弱<pc>，</pc>苟陛下志復金仇<pc>，</pc>臣願蓄威養銳<pc>，</pc>勿示其形<pc>。</pc>
 </quote>
@@ -601,7 +671,8 @@
 </p>
 </div>
 <div>
-<p>　　時議者欲制宗室應舉鎖試之額<pc>，</pc>限添差嶽祠<pc>，</pc>減臣僚薦舉<pc>，</pc>定文武任子<pc>，</pc>嚴特奏之等<pc>，</pc>展郊禋之歲<pc>，</pc>緩科舉之期<pc>，</pc>樞謂<pc>：</pc>
+<p>　　時議者欲制宗室應舉鎖試之額<pc>，</pc>限添差嶽祠<pc>，</pc>減臣僚薦舉<pc>，</pc>定文武任子<pc>，</pc>嚴特奏之等<pc>，</pc>展郊禋之歲<pc>，</pc>緩科舉之期<pc>，</pc>
+<name key="袁樞" type="givenName">樞</name>謂<pc>：</pc>
 <pc>「</pc>
 <quote>此皆近來從窄之論<pc>，</pc>人君惟天是則<pc>，</pc>不可行也<pc>。</pc>
 </quote>
@@ -609,7 +680,8 @@
 </p>
 </div>
 <div>
-<p>　　兼國史院編修官<pc>，</pc>分修國史傳<pc>。</pc>章惇家以其同裏<pc>，</pc>宛轉請文飾其傳<pc>，</pc>樞曰<pc>：</pc>
+<p>　　兼國史院編修官<pc>，</pc>分修國史傳<pc>。</pc>章惇家以其同裏<pc>，</pc>宛轉請文飾其傳<pc>，</pc>
+<name key="袁樞" type="givenName">樞</name>曰<pc>：</pc>
 <pc>「</pc>
 <quote>子厚為相<pc>，</pc>負國欺君<pc>。</pc>吾為史官<pc>，</pc>書法不隱<pc>，</pc>寧負鄉人<pc>，</pc>不可負天下後世公議<pc>。</pc>
 </quote>
@@ -629,7 +701,8 @@
 </p>
 </div>
 <div>
-<p>　　遷軍器少監<pc>，</pc>除提舉江東常平茶鹽<pc>，</pc>改知處州<pc>，</pc>赴闕奏事<pc>。</pc>樞之使淮入對也<pc>，</pc>嘗言<pc>：</pc>
+<p>　　遷軍器少監<pc>，</pc>除提舉江東常平茶鹽<pc>，</pc>改知處州<pc>，</pc>赴闕奏事<pc>。</pc>
+<name key="袁樞" type="givenName">樞</name>之使淮入對也<pc>，</pc>嘗言<pc>：</pc>
 <pc>「</pc>
 <quote>朋黨相附則大臣之權重<pc>，</pc>言路壅塞則人主之勢孤<pc>。</pc>
 </quote>
@@ -641,12 +714,14 @@
 </p>
 </div>
 <div>
-<p>　　除吏部員外郎<pc>，</pc>遷大理少卿<pc>。</pc>通州民高氏以產業事下大理<pc>，</pc>殿中侍御史冷世光納厚賂曲庇之<pc>，</pc>樞直其事以聞<pc>，</pc>人為危之<pc>。</pc>上怒<pc>，</pc>立罷世光<pc>，</pc>以朝臣劾御史<pc>，</pc>實自樞始<pc>。</pc>手詔權工部侍郎<pc>，</pc>仍兼國子祭酒<pc>。</pc>因論大理獄案請外<pc>，</pc>有予郡之命<pc>，</pc>既而貶兩秩<pc>，</pc>寢前旨<pc>。</pc>光宗受禪<pc>，</pc>敘復元官<pc>，</pc>提舉太平興國宮<pc>、</pc>知常德府<pc>。</pc>
+<p>　　除吏部<term>員外郎</term>
+<pc>，</pc>遷大理少卿<pc>。</pc>通州民高氏以產業事下大理<pc>，</pc>殿中<term>侍御史</term>冷世光納厚賂曲庇之<pc>，</pc>
+<name key="袁樞" type="givenName">樞</name>直其事以聞<pc>，</pc>人為危之<pc>。</pc>上怒<pc>，</pc>立罷世光<pc>，</pc>以朝臣劾御史<pc>，</pc>實自<name key="袁樞" type="givenName">樞</name>始<pc>。</pc>手詔權工部侍郎<pc>，</pc>仍兼國子祭酒<pc>。</pc>因論大理獄案請外<pc>，</pc>有予郡之命<pc>，</pc>既而貶兩秩<pc>，</pc>寢前旨<pc>。</pc>光宗受禪<pc>，</pc>敘復元官<pc>，</pc>提舉<date notBefore="976" notAfter="984">太平興國</date>宮<pc>、</pc>知常德府<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　甯宗登位<pc>，</pc>擢右文殿修撰<pc>、</pc>知江陵府<pc>。</pc>江陵瀕大江<pc>，</pc>歲壞為巨浸<pc>，</pc>民無所托<pc>。</pc>楚故城楚觀在焉<pc>，</pc>為室廬<pc>，</pc>徙民居之<pc>，</pc>以備不虞<pc>。</pc>種木數<num value="10000">萬</num>
-<pc>，</pc>以為捍蔽<pc>，</pc>民德之<pc>。</pc>尋為台臣劾罷<pc>，</pc>提舉太平興國宮<pc>。</pc>自是<num value="3">三</num>奉祠<pc>，</pc>力上請制<pc>，</pc>比之疏傅<pc>、</pc>陶令<pc>。</pc>開禧元年<pc>，</pc>卒<pc>，</pc>年<num value="75">七十五</num>
+<pc>，</pc>以為捍蔽<pc>，</pc>民德之<pc>。</pc>尋為台臣劾罷<pc>，</pc>提舉<date notBefore="976" notAfter="984">太平興國</date>宮<pc>。</pc>自是<num value="3">三</num>奉祠<pc>，</pc>力上請制<pc>，</pc>比之疏傅<pc>、</pc>陶令<pc>。</pc>開禧元年<pc>，</pc>卒<pc>，</pc>年<num value="75">七十五</num>
 <pc>。</pc>
 </p>
 </div>
@@ -663,15 +738,21 @@
 </p>
 </div>
 <div>
-<p>　　李椿<pc>，</pc>字壽翁<pc>，</pc>洺州永年人<pc>。</pc>父升<pc>，</pc>進士起家<pc>。</pc>靖康之難<pc>，</pc>升翼其父<pc>，</pc>以背受刃<pc>，</pc>與長子俱卒<pc>。</pc>椿年尚幼<pc>，</pc>藁殯佛寺<pc>，</pc>深竁而詳識之<pc>；</pc>奉繼母南走<pc>，</pc>艱苦備嘗<pc>，</pc>竭力以養<pc>。</pc>以父澤<pc>，</pc>補迪功郎<pc>，</pc>曆官至甯國軍節度推官<pc>。</pc>治豪民偽券<pc>，</pc>還陳氏田<pc>，</pc>吏才精強<pc>，</pc>人稱之<pc>。</pc>
+<p>　　<persName>李椿</persName>
+<pc>，</pc>字<name key="李椿" type="zi">壽翁</name>
+<pc>，</pc>
+<placeName>洺州</placeName>永年人<pc>。</pc>父升<pc>，</pc>進士起家<pc>。</pc>靖康之難<pc>，</pc>升翼其父<pc>，</pc>以背受刃<pc>，</pc>與長子俱卒<pc>。</pc>
+<name key="李椿" type="givenName">椿</name>年尚幼<pc>，</pc>藁殯佛寺<pc>，</pc>深竁而詳識之<pc>；</pc>奉繼母南走<pc>，</pc>艱苦備嘗<pc>，</pc>竭力以養<pc>。</pc>以父澤<pc>，</pc>補迪功郎<pc>，</pc>曆官至甯國軍節度推官<pc>。</pc>治豪民偽券<pc>，</pc>還陳氏田<pc>，</pc>吏才精強<pc>，</pc>人稱之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　張浚辟為制司準備差遣<pc>，</pc>常以自隨<pc>。</pc>椿奔走淮甸<pc>，</pc>綏流民<pc>，</pc>布屯戍<pc>，</pc>察廬<pc>、</pc>壽軍情<pc>，</pc>相視山水砦險要<pc>，</pc>周密精審<pc>，</pc>所助為多<pc>。</pc>
+<p>　　張浚辟為制司準備差遣<pc>，</pc>常以自隨<pc>。</pc>
+<name key="李椿" type="givenName">椿</name>奔走淮甸<pc>，</pc>綏流民<pc>，</pc>布屯戍<pc>，</pc>察廬<pc>、</pc>壽軍情<pc>，</pc>相視山水砦險要<pc>，</pc>周密精審<pc>，</pc>所助為多<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　隆興元年春<pc>，</pc>諸將有以北討之議上聞者<pc>，</pc>事下督府<pc>，</pc>椿方奉檄至巢<pc>，</pc>亟奏記浚曰<pc>：</pc>
+<p>　　隆興元年春<pc>，</pc>諸將有以北討之議上聞者<pc>，</pc>事下督府<pc>，</pc>
+<name key="李椿" type="givenName">椿</name>方奉檄至巢<pc>，</pc>亟奏記浚曰<pc>：</pc>
 <pc>「</pc>
 <quote>復讎伐敵<pc>，</pc>天下大義<pc>，</pc>不出督府而出諸將<pc>，</pc>況藩籬不固<pc>，</pc>儲備不豐<pc>，</pc>將多而非才<pc>，</pc>兵弱而未練<pc>，</pc>議論不定<pc>，</pc>縱得其地<pc>，</pc>未易守也<pc>。</pc>
 </quote>
@@ -679,11 +760,14 @@
 </p>
 </div>
 <div>
-<p>　　浚嘗歎實才之難<pc>，</pc>椿曰<pc>：</pc>
+<p>　　浚嘗歎實才之難<pc>，</pc>
+<name key="李椿" type="givenName">椿</name>曰<pc>：</pc>
 <pc>「</pc>
 <quote>豈可厚誣天下無人<pc>，</pc>唯不惡逆耳而甘遜志<pc>，</pc>則庶其肯來耳<pc>。</pc>
 </quote>
-<pc>」</pc>浚復除右相<pc>，</pc>椿知事不可為<pc>，</pc>勸之去<pc>。</pc>明年春<pc>，</pc>浚出視師<pc>，</pc>椿曰<pc>：</pc>
+<pc>」</pc>浚復除右相<pc>，</pc>
+<name key="李椿" type="givenName">椿</name>知事不可為<pc>，</pc>勸之去<pc>。</pc>明年春<pc>，</pc>浚出視師<pc>，</pc>
+<name key="李椿" type="givenName">椿</name>曰<pc>：</pc>
 <pc>「</pc>
 <quote>小人之黨已勝<pc>，</pc>公無故去朝廷<pc>，</pc>蹤跡必危<pc>。</pc>
 </quote>
@@ -691,7 +775,8 @@
 </p>
 </div>
 <div>
-<p>　　監登聞鼓院<pc>，</pc>有所不樂<pc>，</pc>請通判廉州以歸<pc>。</pc>未上<pc>，</pc>召對<pc>，</pc>知鄂州<pc>。</pc>請行墾田<pc>，</pc>復戶數<num value="1000">千</num>
+<p>　　監登聞鼓院<pc>，</pc>有所不樂<pc>，</pc>請通判廉州以歸<pc>。</pc>未上<pc>，</pc>召對<pc>，</pc>知<placeName>鄂州</placeName>
+<pc>。</pc>請行墾田<pc>，</pc>復戶數<num value="1000">千</num>
 <pc>，</pc>曠士大辟<pc>。</pc>
 </p>
 </div>
@@ -699,17 +784,20 @@
 <p>　　移廣西提點刑獄<pc>，</pc>獄未竟者<pc>，</pc>
 <num value="1">一</num>以平決之<pc>，</pc>釋所疑數<measure quantity="1000" unit="people">
 <num value="1000">十百</num>人</measure>
-<pc>。</pc>奏罷昭州金坑<pc>，</pc>禁仕者毋市南物<pc>。</pc>移湖北漕<pc>，</pc>適歲大侵<pc>，</pc>官強民振糶<pc>，</pc>且下其價<pc>，</pc>米不至<pc>，</pc>益艱食<pc>。</pc>椿損所強糶數而不遏其直<pc>，</pc>未幾米舟湊集<pc>，</pc>價減<num value="13">十三</num>
+<pc>。</pc>奏罷昭州金坑<pc>，</pc>禁仕者毋市南物<pc>。</pc>移湖北漕<pc>，</pc>適歲大侵<pc>，</pc>官強民振糶<pc>，</pc>且下其價<pc>，</pc>米不至<pc>，</pc>益艱食<pc>。</pc>
+<name key="李椿" type="givenName">椿</name>損所強糶數而不遏其直<pc>，</pc>未幾米舟湊集<pc>，</pc>價減<num value="13">十三</num>
 <pc>。</pc>每行部<pc>，</pc>必前期戒吏具州縣所當問事列為籍<pc>，</pc>單車以行<pc>，</pc>所至取吏卒備使令<pc>。</pc>凡以例致饋<pc>，</pc>
 <num value="1">一</num>不受<pc>，</pc>言事者請下諸道為式<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　召為吏部郎官<pc>，</pc>論廣西鹽法<pc>，</pc>孝宗是其說<pc>，</pc>遂改法焉<pc>。</pc>除樞密院檢詳<pc>。</pc>小吏持南丹州莫酋表<pc>，</pc>求自宜州市馬者<pc>，</pc>因簽書張說以聞<pc>。</pc>椿謂<pc>：</pc>
+<p>　　召為吏部郎官<pc>，</pc>論廣西鹽法<pc>，</pc>孝宗是其說<pc>，</pc>遂改法焉<pc>。</pc>除樞密院檢詳<pc>。</pc>小吏持南丹州莫酋表<pc>，</pc>求自宜州市馬者<pc>，</pc>因簽書張說以聞<pc>。</pc>
+<name key="李椿" type="givenName">椿</name>謂<pc>：</pc>
 <pc>「</pc>
 <quote>邕遠宜近<pc>，</pc>故遷之<pc>，</pc>豈無意<pc>？</pc>今莫氏方橫<pc>，</pc>奈何道之以中國地裏之近<pc>？</pc>小吏妄作<pc>，</pc>將啟邊釁<pc>，</pc>請論如法<pc>。</pc>
 </quote>
-<pc>」</pc>說怒<pc>，</pc>椿因求去<pc>，</pc>上慰諭令安職<pc>。</pc>
+<pc>」</pc>說怒<pc>，</pc>
+<name key="李椿" type="givenName">椿</name>因求去<pc>，</pc>上慰諭令安職<pc>。</pc>
 </p>
 </div>
 <div>
@@ -717,24 +805,30 @@
 </p>
 </div>
 <div>
-<p>　　除司農卿<pc>。</pc>椿會大農歲用米<num value="700000">百七十萬</num>斛<pc>，</pc>而省倉見米僅支<measure quantity="2" unit="months">
+<p>　　除司農卿<pc>。</pc>
+<name key="李椿" type="givenName">椿</name>會大農歲用米<measure quantity="700000" unit="HUs">
+<num value="700000">百七十萬</num>斛</measure>
+<pc>，</pc>而省倉見米僅支<measure quantity="2" unit="months">
 <num value="2">一二</num>月</measure>
 <pc>，</pc>歎曰<pc>：</pc>
 <pc>「</pc>
 <quote>真所謂國非其國矣<pc>。</pc>
 </quote>
-<pc>」</pc>力請歲儲<num value="2000000">二百萬</num>斛為<measure quantity="1" unit="year">
+<pc>」</pc>力請歲儲<measure quantity="2000000" unit="HUs">
+<num value="2000000">二百萬</num>斛</measure>為<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>之蓄<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　擇臨安守<pc>，</pc>椿在議中<pc>，</pc>執政或謂其於人無委曲<pc>，</pc>上曰<pc>：</pc>
+<p>　　擇臨安守<pc>，</pc>
+<name key="李椿" type="givenName">椿</name>在議中<pc>，</pc>執政或謂其於人無委曲<pc>，</pc>上曰<pc>：</pc>
 <pc>「</pc>
 <quote>正欲得如此人<pc>。</pc>
 </quote>
 <pc>」</pc>遂兼臨安府<pc>，</pc>視事<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
-<pc>，</pc>竟以幸不便解去<pc>。</pc>椿在朝<pc>，</pc>遇事輒言<pc>，</pc>執政故不悅<pc>。</pc>及是轉對<pc>，</pc>又言<pc>：</pc>
+<pc>，</pc>竟以幸不便解去<pc>。</pc>
+<name key="李椿" type="givenName">椿</name>在朝<pc>，</pc>遇事輒言<pc>，</pc>執政故不悅<pc>。</pc>及是轉對<pc>，</pc>又言<pc>：</pc>
 <pc>「</pc>
 <quote>君以剛健為體而虛中為用<pc>，</pc>臣以柔順為體而剛中為用<pc>。</pc>陛下得虛中之道<pc>，</pc>以行剛健之德矣<pc>。</pc>在廷之臣<pc>，</pc>未見其能以剛中守柔順而事陛下者也<pc>。</pc>
 </quote>
@@ -742,7 +836,8 @@
 </p>
 </div>
 <div>
-<p>　　會詔市牛筋<pc>，</pc>凡<num value="5000">五千</num>斤<pc>。</pc>椿奏<pc>：</pc>
+<p>　　會詔市牛筋<pc>，</pc>凡<num value="5000">五千</num>斤<pc>。</pc>
+<name key="李椿" type="givenName">椿</name>奏<pc>：</pc>
 <pc>「</pc>
 <quote>
 <num value="1">一</num>牛之筋才<num value="4">四</num>兩<pc>，</pc>是欲屠<num value="20000">二萬</num>牛也<pc>。</pc>
@@ -761,19 +856,24 @@
 </quote>
 <pc>」</pc>因納疏袖中以入<pc>。</pc>最後極言<pc>：</pc>
 <pc>「</pc>
-<quote>當預邊備<pc>，</pc>如欲保淮<pc>，</pc>則楚州<pc>、</pc>盱眙<pc>、</pc>昭信<pc>、</pc>濠梁<pc>、</pc>渦口<pc>、</pc>花靨<pc>、</pc>正陽<pc>、</pc>光州皆不可以不守<pc>；</pc>如欲保江<pc>，</pc>則高郵<pc>、</pc>
+<quote>當預邊備<pc>，</pc>如欲保淮<pc>，</pc>則<placeName>楚州</placeName>
+<pc>、</pc>盱眙<pc>、</pc>昭信<pc>、</pc>濠梁<pc>、</pc>渦口<pc>、</pc>花靨<pc>、</pc>正陽<pc>、</pc>
+<placeName>光州</placeName>皆不可以不守<pc>；</pc>如欲保江<pc>，</pc>則高郵<pc>、</pc>
 <num value="6">六</num>合<pc>、</pc>瓦梁<pc>、</pc>濡須<pc>、</pc>巢湖<pc>、</pc>北峽亦要地也<pc>。</pc>
 </quote>
 <pc>」</pc>
 </p>
 </div>
 <div>
-<p>　　以病請祠<pc>，</pc>不許<pc>，</pc>面請益力<pc>，</pc>乃除集英殿修撰<pc>、</pc>知甯國府<pc>，</pc>改太平州<pc>，</pc>賜尚方珍劑以遣<pc>。</pc>既至<pc>，</pc>力圖上流之備<pc>，</pc>請選將練習<pc>，</pc>緩急列艦<pc>，</pc>上可以援東關<pc>、</pc>濡須<pc>，</pc>下可以應採石<pc>。</pc>
+<p>　　以病請祠<pc>，</pc>不許<pc>，</pc>面請益力<pc>，</pc>乃除集英殿修撰<pc>、</pc>知甯國府<pc>，</pc>改太<placeName>平州</placeName>
+<pc>，</pc>賜尚方珍劑以遣<pc>。</pc>既至<pc>，</pc>力圖上流之備<pc>，</pc>請選將練習<pc>，</pc>緩急列艦<pc>，</pc>上可以援東關<pc>、</pc>濡須<pc>，</pc>下可以應採石<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　年<num value="69">六十九</num>
-<pc>，</pc>上章請老<pc>，</pc>以敷文閣待制致仕<pc>。</pc>越再歲<pc>，</pc>上念湖南兵役之餘<pc>，</pc>欲鎮安之<pc>，</pc>謂椿重厚可倚<pc>，</pc>命待制顯謨閣<pc>、</pc>知潭州<pc>、</pc>湖南安撫使<pc>。</pc>累辭不獲<pc>，</pc>乃勉起<pc>，</pc>至則撫摩凋瘵<pc>，</pc>氣象<num value="1">一</num>如盛時<pc>。</pc>復酒稅法<pc>，</pc>人以為便<pc>。</pc>歲旱<pc>，</pc>發廩勸分<pc>，</pc>蠲租<num value="110000">十一萬</num>
+<pc>，</pc>上章請老<pc>，</pc>以敷文閣待制致仕<pc>。</pc>越再歲<pc>，</pc>上念湖南兵役之餘<pc>，</pc>欲鎮安之<pc>，</pc>謂<name key="李椿" type="givenName">椿</name>重厚可倚<pc>，</pc>命待制顯謨閣<pc>、</pc>知<placeName>潭州</placeName>
+<pc>、</pc>湖南<term>安撫使</term>
+<pc>。</pc>累辭不獲<pc>，</pc>乃勉起<pc>，</pc>至則撫摩凋瘵<pc>，</pc>氣象<num value="1">一</num>如盛時<pc>。</pc>復酒稅法<pc>，</pc>人以為便<pc>。</pc>歲旱<pc>，</pc>發廩勸分<pc>，</pc>蠲租<num value="110000">十一萬</num>
 <pc>，</pc>糶常平米<num value="20000">二萬</num>
 <pc>，</pc>活數<measure quantity="10000" unit="people">
 <num value="10000">萬</num>人</measure>
@@ -781,7 +881,8 @@
 </p>
 </div>
 <div>
-<p>　　潭新置飛虎軍<pc>，</pc>或以為非便<pc>，</pc>椿曰<pc>：</pc>
+<p>　　潭新置飛虎軍<pc>，</pc>或以為非便<pc>，</pc>
+<name key="李椿" type="givenName">椿</name>曰<pc>：</pc>
 <pc>「</pc>
 <quote>長沙<num value="1">一</num>都會<pc>，</pc>控扼湖<pc>、</pc>嶺<pc>，</pc>鎮撫蠻徭<pc>，</pc>
 <measure quantity="20" unit="years">
@@ -792,8 +893,7 @@
 </p>
 </div>
 <div>
-<p>　　椿年<measure quantity="15" unit="years">
-<num value="15">十五</num>歲</measure>避地南來<pc>，</pc>貧無以為養<pc>，</pc>不得專力於學<pc>。</pc>年<num value="30">三十</num>始學<pc>《</pc>
+<p>　　<name key="李椿" type="givenName">椿</name>年<num value="15">十五</num>歲避地南來<pc>，</pc>貧無以為養<pc>，</pc>不得專力於學<pc>。</pc>年<num value="30">三十</num>始學<pc>《</pc>
 <title>易</title>
 <pc>》</pc>
 <pc>，</pc>其言於朝廷<pc>，</pc>措諸行事<pc>，</pc>皆<pc>《</pc>
@@ -815,17 +915,22 @@
 </p>
 </div>
 <div>
-<p>　　劉儀鳳<pc>，</pc>字韶美<pc>，</pc>普州人<pc>。</pc>少以文謁左丞馮澥<pc>，</pc>澥甚推許<pc>，</pc>遂知名<pc>。</pc>紹興<measure quantity="2" unit="years">
+<p>　　<persName>劉儀鳳</persName>
+<pc>，</pc>字<name key="劉儀鳳" type="zi">韶美</name>
+<pc>，</pc>普州人<pc>。</pc>少以文謁左丞馮澥<pc>，</pc>澥甚推許<pc>，</pc>遂知名<pc>。</pc>紹興<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>登進士第<pc>。</pc>抱負倜儻<pc>，</pc>不事生產<pc>，</pc>於仕進恬如也<pc>。</pc>擢第<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
-<pc>，</pc>始赴調<pc>，</pc>尉遂寧府之蓬溪<pc>，</pc>監資州資陽縣酒稅<pc>，</pc>為果州<pc>、</pc>榮州掾<pc>。</pc>
+<pc>，</pc>始赴調<pc>，</pc>尉遂寧府之蓬溪<pc>，</pc>監<placeName>資州</placeName>資陽縣酒稅<pc>，</pc>為<placeName>果州</placeName>
+<pc>、</pc>
+<placeName>榮州</placeName>掾<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　紹興<measure quantity="27" unit="years">
 <num value="27">二十七</num>年</measure>
-<pc>，</pc>有旨令侍從薦士<pc>，</pc>起居郎趙逵舉儀鳳<pc>，</pc>稱其<pc>「</pc>
+<pc>，</pc>有旨令侍從薦士<pc>，</pc>起居郎趙逵舉<name key="劉儀鳳" type="givenName">儀鳳</name>
+<pc>，</pc>稱其<pc>「</pc>
 <quote>富有詞華<pc>，</pc>恬於進取<pc>。</pc>
 </quote>
 <pc>」</pc>宰執上其名<pc>，</pc>上曰<pc>：</pc>
@@ -833,27 +938,32 @@
 <quote>蜀人道遠<pc>，</pc>文學行義有可用者<pc>，</pc>不由論薦<pc>，</pc>何緣知之<pc>？</pc>前此蜀仕宦者例多隔絕<pc>，</pc>不得<num value="1">一</num>至朝廷<pc>，</pc>殊可惜也<pc>。</pc>
 </quote>
 <pc>」</pc>自秦檜專權<pc>，</pc>深抑蜀士<pc>，</pc>故上語及之<pc>。</pc>尋除諸王宮大小學教授<pc>。</pc>召試館職<pc>，</pc>辭以久離場屋<pc>，</pc>改國子監丞<pc>。</pc>
-<term>宰相</term>以其名士<pc>，</pc>遷秘書丞<pc>、</pc>禮部員外郎<pc>。</pc>所草箋奏<pc>，</pc>以典雅稱<pc>。</pc>
+<term>宰相</term>以其名士<pc>，</pc>遷<term>秘書丞</term>
+<pc>、</pc>禮部<term>員外郎</term>
+<pc>。</pc>所草箋奏<pc>，</pc>以典雅稱<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　孝宗受禪<pc>，</pc>議上<pc>「</pc>
 <quote>光堯壽聖</quote>
-<pc>」</pc>尊號冊寶<pc>，</pc>有欲俟欽宗服除者<pc>，</pc>太常博士林栗謂<pc>：</pc>
+<pc>」</pc>尊號冊寶<pc>，</pc>有欲俟欽宗服除者<pc>，</pc>
+<term>太常博士</term>林栗謂<pc>：</pc>
 <pc>「</pc>
 <quote>唐憲宗上順宗冊寶在德宗服中<pc>，</pc>不必避<pc>，</pc>備樂而不作可也<pc>。</pc>
 </quote>
-<pc>」</pc>儀鳳獨上議曰<pc>：</pc>
+<pc>」</pc>
+<name key="劉儀鳳" type="givenName">儀鳳</name>獨上議曰<pc>：</pc>
 <pc>「</pc>
 <quote>謹按上尊號事屬嘉禮<pc>，</pc>累朝必俟郊祀慶成然後舉行<pc>。</pc>太上皇帝為欽宗備禮終制<pc>，</pc>見於詔書<pc>。</pc>議者引憲宗故事<pc>，</pc>考之唐史<pc>，</pc>自武德以來<pc>，</pc>皆用易月之制<pc>，</pc>與本朝事體大相遠也<pc>。</pc>乞候欽宗終制<pc>，</pc>檢舉以行<pc>，</pc>則國家盛美<pc>，</pc>主上事親情實稱矣<pc>。</pc>
 </quote>
-<pc>」</pc>議者雖是其言<pc>，</pc>然謂事親當權宜而從厚<pc>，</pc>竟用栗議<pc>，</pc>儀鳳復爭辨不已<pc>。</pc>尋兼國史院編修官兼權秘書少監<pc>。</pc>乾道元年<pc>，</pc>遷兵部侍郎兼侍講<pc>。</pc>
+<pc>」</pc>議者雖是其言<pc>，</pc>然謂事親當權宜而從厚<pc>，</pc>竟用栗議<pc>，</pc>
+<name key="劉儀鳳" type="givenName">儀鳳</name>復爭辨不已<pc>。</pc>尋兼國史院編修官兼權秘書少監<pc>。</pc>乾道元年<pc>，</pc>遷兵部侍郎兼侍講<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　儀鳳在朝<measure quantity="10" unit="years">
+<p>　　<name key="劉儀鳳" type="givenName">儀鳳</name>在朝<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
-<pc>，</pc>每歸即匿其車騎<pc>，</pc>扃其門戶<pc>，</pc>客至<pc>，</pc>無親疏皆不得見<pc>，</pc>政府累月始<num value="1">一</num>上謁<pc>，</pc>人尤其傲<pc>，</pc>奉入<pc>，</pc>半以儲書<pc>，</pc>凡<num value="10000">萬</num>餘卷<pc>，</pc>國史錄無遺者<pc>。</pc>御史張之綱論儀鳳錄<num value="4">四</num>庫書本以傳私室<pc>，</pc>遂斥歸蜀<pc>。</pc>
+<pc>，</pc>每歸即匿其車騎<pc>，</pc>扃其門戶<pc>，</pc>客至<pc>，</pc>無親疏皆不得見<pc>，</pc>政府累月始<num value="1">一</num>上謁<pc>，</pc>人尤其傲<pc>，</pc>奉入<pc>，</pc>半以儲書<pc>，</pc>凡<num value="10000">萬</num>餘卷<pc>，</pc>國史錄無遺者<pc>。</pc>御史張之綱論<name key="劉儀鳳" type="givenName">儀鳳</name>錄<num value="4">四</num>庫書本以傳私室<pc>，</pc>遂斥歸蜀<pc>。</pc>
 </p>
 </div>
 <div>
@@ -863,9 +973,13 @@
 <num value="12">十二</num>月</measure>
 <pc>，</pc>輔臣進前侍從當復職者<pc>，</pc>上曰<pc>：</pc>
 <pc>「</pc>
-<quote>劉儀鳳無罪<pc>，</pc>可與復集英殿修撰<pc>。</pc>
+<quote>劉<name key="劉儀鳳" type="givenName">儀鳳</name>無罪<pc>，</pc>可與復集英殿修撰<pc>。</pc>
 </quote>
-<pc>」</pc>起知邛州<pc>，</pc>未上<pc>，</pc>改漢州<pc>、</pc>果州<pc>，</pc>罷歸<pc>。</pc>淳熙<measure quantity="2" unit="years">
+<pc>」</pc>起知<placeName>邛州</placeName>
+<pc>，</pc>未上<pc>，</pc>改<placeName>漢州</placeName>
+<pc>、</pc>
+<placeName>果州</placeName>
+<pc>，</pc>罷歸<pc>。</pc>淳熙<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
@@ -875,30 +989,36 @@
 </p>
 </div>
 <div>
-<p>　　儀鳳苦學<pc>，</pc>至老不倦<pc>，</pc>尤工於詩<pc>。</pc>然頗慕晉人簡傲之風<pc>，</pc>不樂與庸輩接<pc>，</pc>故平生多蹭蹬<pc>，</pc>
+<p>　　<name key="劉儀鳳" type="givenName">儀鳳</name>苦學<pc>，</pc>至老不倦<pc>，</pc>尤工於詩<pc>。</pc>然頗慕晉人簡傲之風<pc>，</pc>不樂與庸輩接<pc>，</pc>故平生多蹭蹬<pc>，</pc>
 <num value="1">一</num>跌遂不振云<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　張孝祥<pc>，</pc>字安國<pc>，</pc>曆陽烏江人<pc>。</pc>讀書過<num value="1">一</num>目不忘<pc>，</pc>下筆頃刻數<num value="1000">千</num>言<pc>，</pc>年<num value="16">十六</num>
+<p>　　<persName>張孝祥</persName>
+<pc>，</pc>字<name key="張孝祥" type="zi">安國</name>
+<pc>，</pc>曆陽烏江人<pc>。</pc>讀書過<num value="1">一</num>目不忘<pc>，</pc>下筆頃刻數<num value="1000">千</num>言<pc>，</pc>年<num value="16">十六</num>
 <pc>，</pc>領鄉書<pc>，</pc>再舉冠裏選<pc>。</pc>紹興<measure quantity="24" unit="years">
 <num value="24">二十四</num>年</measure>
 <pc>，</pc>廷試第<num value="1">一</num>
-<pc>。</pc>時策問師友淵源<pc>，</pc>秦塤與曹冠皆力攻程氏專門之學<pc>，</pc>孝祥獨不攻<pc>。</pc>考官已定塤冠多士<pc>，</pc>孝祥次之<pc>，</pc>曹冠又次之<pc>。</pc>高宗讀塤策皆秦檜語<pc>，</pc>於是擢孝祥第<num value="1">一</num>
+<pc>。</pc>時策問師友淵源<pc>，</pc>秦塤與曹冠皆力攻程氏專門之學<pc>，</pc>
+<name key="張孝祥" type="givenName">孝祥</name>獨不攻<pc>。</pc>考官已定塤冠多士<pc>，</pc>
+<name key="張孝祥" type="givenName">孝祥</name>次之<pc>，</pc>曹冠又次之<pc>。</pc>高宗讀塤策皆秦檜語<pc>，</pc>於是擢<name key="張孝祥" type="givenName">孝祥</name>第<num value="1">一</num>
 <pc>，</pc>而塤第<num value="3">三</num>
 <pc>，</pc>授承事郎<pc>、</pc>簽書鎮東軍節度判官<pc>。</pc>諭<term>宰相</term>曰<pc>：</pc>
 <pc>「</pc>
-<quote>張栻孝祥詞翰俱美<pc>。</pc>
+<quote>張栻<name key="張孝祥" type="givenName">孝祥</name>詞翰俱美<pc>。</pc>
 </quote>
 <pc>」</pc>
 </p>
 </div>
 <div>
-<p>　　先是<pc>，</pc>上之抑塤而擢孝祥也<pc>，</pc>秦檜已怒<pc>，</pc>既知孝祥乃祁之子<pc>，</pc>祁與胡寅厚<pc>，</pc>檜素憾寅<pc>，</pc>且唱第後<pc>，</pc>曹泳揖孝祥於殿庭<pc>，</pc>以請婚為言<pc>，</pc>孝祥不答<pc>，</pc>泳憾之<pc>。</pc>於是風言者誣祁有反謀<pc>，</pc>系詔獄<pc>。</pc>會檜死<pc>，</pc>上郊祀之<measure quantity="2" unit="days">
+<p>　　先是<pc>，</pc>上之抑塤而擢<name key="張孝祥" type="givenName">孝祥</name>也<pc>，</pc>秦檜已怒<pc>，</pc>既知<name key="張孝祥" type="givenName">孝祥</name>乃祁之子<pc>，</pc>祁與胡寅厚<pc>，</pc>檜素憾寅<pc>，</pc>且唱第後<pc>，</pc>曹泳揖<name key="張孝祥" type="givenName">孝祥</name>於殿庭<pc>，</pc>以請婚為言<pc>，</pc>
+<name key="張孝祥" type="givenName">孝祥</name>不答<pc>，</pc>泳憾之<pc>。</pc>於是風言者誣祁有反謀<pc>，</pc>系詔獄<pc>。</pc>會檜死<pc>，</pc>上郊祀之<measure quantity="2" unit="days">
 <num value="2">二</num>日</measure>
-<pc>，</pc>魏良臣密奏散獄釋罪<pc>，</pc>遂以孝祥為秘書省正字<pc>。</pc>故事<pc>，</pc>殿試第<measure quantity="1" unit="people">
+<pc>，</pc>魏良臣密奏散獄釋罪<pc>，</pc>遂以<name key="張孝祥" type="givenName">孝祥</name>為秘書省正字<pc>。</pc>故事<pc>，</pc>殿試第<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
-<pc>，</pc>次舉始召<pc>，</pc>孝祥第甫<measure quantity="1" unit="year">
+<pc>，</pc>次舉始召<pc>，</pc>
+<name key="張孝祥" type="givenName">孝祥</name>第甫<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>得召由此<pc>。</pc>
 </p>
 </div>
@@ -925,32 +1045,45 @@
 </p>
 </div>
 <div>
-<p>　　遷校書郎<pc>。</pc>芝生太廟<pc>，</pc>孝祥獻文曰<pc>《</pc>
+<p>　　遷校書郎<pc>。</pc>芝生太廟<pc>，</pc>
+<name key="張孝祥" type="givenName">孝祥</name>獻文曰<pc>《</pc>
 <title>原芝</title>
 <pc>》</pc>
 <pc>，</pc>以大本未立為言<pc>，</pc>且言<pc>：</pc>
 <pc>「</pc>
 <quote>芝在仁宗<pc>、</pc>英宗之室<pc>，</pc>天意可見<pc>，</pc>乞早定大計<pc>。</pc>
 </quote>
-<pc>」</pc>遷尚書禮部員外郎<pc>，</pc>尋為起居舍人<pc>、</pc>權中書舍人<pc>。</pc>
+<pc>」</pc>遷尚書禮部<term>員外郎</term>
+<pc>，</pc>尋為<term>起居舍人</term>
+<pc>、</pc>權<term>中書舍人</term>
+<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　初<pc>，</pc>孝祥登第<pc>，</pc>出湯思<name key="韓愈" type="zi">
-<persName>退之</persName>
-</name>門<pc>，</pc>思退為相<pc>，</pc>擢孝祥甚峻<pc>。</pc>而思退素不喜汪澈<pc>，</pc>孝祥與澈同為館職<pc>，</pc>澈老成重厚<pc>，</pc>而孝祥年少氣銳<pc>，</pc>往往陵拂之<pc>。</pc>至是澈為御史中丞<pc>，</pc>首劾孝祥奸不在廬杞下<pc>，</pc>孝祥遂罷<pc>，</pc>提舉江州太平興國宮<pc>，</pc>於是湯思<name key="韓愈" type="zi">
-<persName>退之</persName>
-</name>客稍稍被逐<pc>。</pc>
+<p>　　初<pc>，</pc>
+<name key="張孝祥" type="givenName">孝祥</name>登第<pc>，</pc>出湯思<persName>
+<name key="韓愈" type="zi">退之</name>
+</persName>門<pc>，</pc>思退為相<pc>，</pc>擢<name key="張孝祥" type="givenName">孝祥</name>甚峻<pc>。</pc>而思退素不喜汪澈<pc>，</pc>
+<name key="張孝祥" type="givenName">孝祥</name>與澈同為館職<pc>，</pc>澈老成重厚<pc>，</pc>而<name key="張孝祥" type="givenName">孝祥</name>年少氣銳<pc>，</pc>往往陵拂之<pc>。</pc>至是澈為御史中丞<pc>，</pc>首劾<name key="張孝祥" type="givenName">孝祥</name>奸不在廬杞下<pc>，</pc>
+<name key="張孝祥" type="givenName">孝祥</name>遂罷<pc>，</pc>提舉江州<date notBefore="976" notAfter="984">太平興國</date>宮<pc>，</pc>於是湯思<persName>
+<name key="韓愈" type="zi">退之</name>
+</persName>客稍稍被逐<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　尋除知撫州<pc>。</pc>年未<num value="30">三十</num>
-<pc>，</pc>蒞事精確<pc>，</pc>老於州縣者所不及<pc>。</pc>孝宗即位<pc>，</pc>復集英殿修撰<pc>，</pc>知平江府<pc>。</pc>事繁劇<pc>，</pc>孝祥剖決<pc>，</pc>庭無滯訟<pc>。</pc>屬邑大姓並海囊橐為奸利<pc>，</pc>孝祥捕治<pc>，</pc>籍其家得谷粟數<num value="10000">萬</num>
+<p>　　尋除知<placeName>撫州</placeName>
+<pc>。</pc>年未<num value="30">三十</num>
+<pc>，</pc>蒞事精確<pc>，</pc>老於州縣者所不及<pc>。</pc>孝宗即位<pc>，</pc>復集英殿修撰<pc>，</pc>知平江府<pc>。</pc>事繁劇<pc>，</pc>
+<name key="張孝祥" type="givenName">孝祥</name>剖決<pc>，</pc>庭無滯訟<pc>。</pc>屬邑大姓並海囊橐為奸利<pc>，</pc>
+<name key="張孝祥" type="givenName">孝祥</name>捕治<pc>，</pc>籍其家得谷粟數<num value="10000">萬</num>
 <pc>。</pc>明年<pc>，</pc>吳中大饑<pc>，</pc>迄賴以濟<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　張浚自蜀還朝<pc>，</pc>薦孝祥<pc>，</pc>召赴行在<pc>。</pc>孝祥既素為湯思退所知<pc>，</pc>及受浚薦<pc>，</pc>思退不悅<pc>。</pc>孝祥入對<pc>，</pc>乃陳<pc>「</pc>
+<p>　　張浚自蜀還朝<pc>，</pc>薦<name key="張孝祥" type="givenName">孝祥</name>
+<pc>，</pc>召赴行在<pc>。</pc>
+<name key="張孝祥" type="givenName">孝祥</name>既素為湯思退所知<pc>，</pc>及受浚薦<pc>，</pc>思退不悅<pc>。</pc>
+<name key="張孝祥" type="givenName">孝祥</name>入對<pc>，</pc>乃陳<pc>「</pc>
 <quote>
 <num value="2">二</num>相當同心戮力<pc>，</pc>以副陛下恢復之志<pc>。</pc>且靖康以來惟和戰兩言<pc>，</pc>遺無窮禍<pc>，</pc>要先立自治之策以應之<pc>。</pc>
 </quote>
@@ -962,11 +1095,16 @@
 </p>
 </div>
 <div>
-<p>　　除中書舍人<pc>，</pc>尋除直學士院兼都督府參贊軍事<pc>。</pc>俄兼領建康留守<pc>，</pc>以言者改除敷文閣待制<pc>，</pc>留守如舊<pc>。</pc>會金再犯邊<pc>，</pc>孝祥陳金之勢不過欲要盟<pc>。</pc>宣諭使劾孝祥落職<pc>，</pc>罷<pc>。</pc>
+<p>　　除<term>中書舍人</term>
+<pc>，</pc>尋除直學士院兼都督府參贊軍事<pc>。</pc>俄兼領建康留守<pc>，</pc>以言者改除敷文閣待制<pc>，</pc>留守如舊<pc>。</pc>會金再犯邊<pc>，</pc>
+<name key="張孝祥" type="givenName">孝祥</name>陳金之勢不過欲要盟<pc>。</pc>宣諭使劾<name key="張孝祥" type="givenName">孝祥</name>落職<pc>，</pc>罷<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　復集英殿修撰<pc>、</pc>知靜江府<pc>、</pc>廣南西路經略安撫使<pc>，</pc>治有聲績<pc>，</pc>復以言者罷<pc>。</pc>俄起知潭州<pc>，</pc>為政簡易<pc>，</pc>時以威濟之<pc>，</pc>湖南遂以無事<pc>。</pc>復待制<pc>，</pc>徙知荊南<pc>、</pc>荊湖北路安撫使<pc>。</pc>築寸金堤<pc>，</pc>自是荊州無水患<pc>，</pc>置<num value="10000">萬</num>盈倉以儲諸漕之運<pc>。</pc>
+<p>　　復集英殿修撰<pc>、</pc>知靜江府<pc>、</pc>廣南西路經略<term>安撫使</term>
+<pc>，</pc>治有聲績<pc>，</pc>復以言者罷<pc>。</pc>俄起知<placeName>潭州</placeName>
+<pc>，</pc>為政簡易<pc>，</pc>時以威濟之<pc>，</pc>湖南遂以無事<pc>。</pc>復待制<pc>，</pc>徙知荊南<pc>、</pc>荊湖北路<term>安撫使</term>
+<pc>。</pc>築寸金堤<pc>，</pc>自是荊州無水患<pc>，</pc>置<num value="10000">萬</num>盈倉以儲諸漕之運<pc>。</pc>
 </p>
 </div>
 <div>
@@ -975,19 +1113,20 @@
 </p>
 </div>
 <div>
-<p>　　孝祥俊逸<pc>，</pc>文章過人<pc>，</pc>尤工翰墨<pc>，</pc>嘗親書奏劄<pc>，</pc>高宗見之<pc>，</pc>曰<pc>：</pc>
+<p>　　<name key="張孝祥" type="givenName">孝祥</name>俊逸<pc>，</pc>文章過人<pc>，</pc>尤工翰墨<pc>，</pc>嘗親書奏劄<pc>，</pc>高宗見之<pc>，</pc>曰<pc>：</pc>
 <pc>「</pc>
 <quote>必將名世<pc>。</pc>
 </quote>
-<pc>」</pc>但渡江初<pc>，</pc>大議惟和戰<pc>，</pc>張浚主復仇<pc>，</pc>湯思退祖秦檜之說力主和<pc>，</pc>孝祥出入<measure quantity="2" unit="people">
+<pc>」</pc>但渡江初<pc>，</pc>大議惟和戰<pc>，</pc>張浚主復仇<pc>，</pc>湯思退祖秦檜之說力主和<pc>，</pc>
+<name key="張孝祥" type="givenName">孝祥</name>出入<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>之門而兩持其說<pc>，</pc>議者惜之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　論曰<pc>：</pc>尤袤學本程頤<pc>，</pc>所謂老成典刑者<pc>，</pc>立朝抗論<pc>，</pc>與人主爭是非<pc>，</pc>不允不已<pc>，</pc>而能令終完節<pc>，</pc>難矣<pc>。</pc>謝諤<pc>、</pc>顏<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>
-<pc>、</pc>袁樞臨民則以治辨聞<pc>，</pc>立朝則啟沃忠諫<pc>，</pc>各舉乃職<pc>，</pc>為世師表<pc>。</pc>李椿<pc>、</pc>劉儀鳳言論節概<pc>，</pc>著於行事<pc>。</pc>張孝祥早負才畯<pc>，</pc>蒞政揚聲<pc>，</pc>迨其兩持和戰<pc>，</pc>君子每歎息焉<pc>。</pc>
+<p>　　論曰<pc>：</pc>尤袤學本程頤<pc>，</pc>所謂老成典刑者<pc>，</pc>立朝抗論<pc>，</pc>與人主爭是非<pc>，</pc>不允不已<pc>，</pc>而能令終完節<pc>，</pc>難矣<pc>。</pc>謝諤<pc>、</pc>顏<persName>
+<name key="尹洙" type="zi">師魯</name>
+</persName>
+<pc>、</pc>袁樞臨民則以治辨聞<pc>，</pc>立朝則啟沃忠諫<pc>，</pc>各舉乃職<pc>，</pc>為世師表<pc>。</pc>李椿<pc>、</pc>劉儀鳳言論節概<pc>，</pc>著於行事<pc>。</pc>張<name key="張孝祥" type="givenName">孝祥</name>早負才畯<pc>，</pc>蒞政揚聲<pc>，</pc>迨其兩持和戰<pc>，</pc>君子每歎息焉<pc>。</pc>
 </p>
 </div>
 </div>

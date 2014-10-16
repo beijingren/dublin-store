@@ -24,9 +24,7 @@
 <body>
 <div type="chapter" n="246">
 <div>
-<p>
-<name key="null" type="null">◎宗室</name>
-<num value="3">三</num>
+<p>◎宗室<num value="3">三</num>
 </p>
 </div>
 <div>
@@ -37,7 +35,12 @@
 </p>
 </div>
 <div>
-<p>吳榮王顥字仲明<pc>，</pc>初名仲糺<pc>，</pc>自右內率府副率為和州防禦使<pc>，</pc>封安樂郡公<pc>，</pc>轉明州觀察使<pc>，</pc>進祁國公<pc>。</pc>治平元年<pc>，</pc>加檢校太傅<pc>、</pc>保寧軍<term>節度使</term>
+<p>吳榮王顥字仲明<pc>，</pc>初名仲糺<pc>，</pc>自右內率府副率為<placeName>和州</placeName>
+<term>防禦使</term>
+<pc>，</pc>封安樂郡公<pc>，</pc>轉<placeName>明州</placeName>
+<term>觀察使</term>
+<pc>，</pc>進祁國公<pc>。</pc>
+<date notBefore="1064" notAfter="1067">治平</date>元年<pc>，</pc>加檢校太傅<pc>、</pc>保寧軍<term>節度使</term>
 <pc>、</pc>同中書門下平章 事<pc>，</pc>封東陽郡王<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
@@ -48,10 +51,14 @@
 </p>
 </div>
 <div>
-<p>自熙寧以來<pc>，</pc>顥屢請居外<pc>，</pc>章上輒卻<pc>。</pc>至元祐初<pc>，</pc>乃賜鹹宜坊第<num value="1">一</num>區<pc>，</pc>榜曰<pc>“</pc>親賢<pc>”</pc>與弟頵對 邸<pc>。</pc>車駕偕<num value="3">三</num>宮臨幸<pc>，</pc>留宴終日<pc>。</pc>拜太尉<pc>，</pc>諸子皆命賜官<pc>，</pc>製曰<pc>：</pc>
-<pc>“</pc>先皇帝篤兄弟之好<pc>，</pc>以恩勝義<pc>，</pc>不許<num value="2">二</num>叔出居於外<pc>，</pc>蓋武王待周公之意<pc>。</pc>太皇太後嚴朝廷之禮<pc>，</pc>以義製恩<pc>，</pc>始從其請<pc>，</pc>出就外宅<pc>，</pc>得孔子遠其子之意<pc>。</pc>
-<num value="2">二</num>聖不同<pc>，</pc>同歸於道<pc>，</pc>皆可以為<num value="10000">萬</num>世法<pc>。</pc>朕承侍兩宮<pc>，</pc>按行新第<pc>，</pc>顧瞻懷思<pc>，</pc>潸然出涕<pc>。</pc>昔漢明帝問東平 王<pc>：</pc>‘在家何以為樂<pc>？</pc>’王言<pc>：</pc>‘為善最樂<pc>。</pc>’帝大其言<pc>，</pc>因送列侯印<num value="19">十九</num>枚<pc>，</pc>諸子<measure quantity="5" unit="years">
-<num value="5">五</num>歲</measure>以上悉佩之<pc>，</pc>著之簡策<pc>，</pc>天下不以為私<pc>。</pc>今王諸子性於忠孝<pc>，</pc>漸於禮義<pc>，</pc>自 勝衣以上<pc>，</pc>頎然皆有成人之風<pc>，</pc>朕甚嘉之<pc>。</pc>其各進<num value="1">一</num>官<pc>，</pc>以助其為善之樂<pc>，</pc>尚勉之哉<pc>！</pc>毋忝父祖<pc>，</pc>以為邦家光<pc>。</pc>
+<p>自<date notBefore="1068" notAfter="1077">熙寧</date>以來<pc>，</pc>顥屢請居外<pc>，</pc>章上輒卻<pc>。</pc>至<date notBefore="1086" notAfter="1094">元祐</date>初<pc>，</pc>乃賜鹹宜坊第<num value="1">一</num>區<pc>，</pc>榜曰<pc>“</pc>
+<quote>親賢</quote>
+<pc>”</pc>與弟頵對 邸<pc>。</pc>車駕偕<num value="3">三</num>宮臨幸<pc>，</pc>留宴終日<pc>。</pc>拜太尉<pc>，</pc>諸子皆命賜官<pc>，</pc>製曰<pc>：</pc>
+<pc>“</pc>
+<quote>先皇帝篤兄弟之好<pc>，</pc>以恩勝義<pc>，</pc>不許<num value="2">二</num>叔出居於外<pc>，</pc>蓋武王待周公之意<pc>。</pc>太皇太後嚴朝廷之禮<pc>，</pc>以義製恩<pc>，</pc>始從其請<pc>，</pc>出就外宅<pc>，</pc>得孔子遠其子之意<pc>。</pc>
+<num value="2">二</num>聖不同<pc>，</pc>同歸於道<pc>，</pc>皆可以為<num value="10000">萬</num>世法<pc>。</pc>朕承侍兩宮<pc>，</pc>按行新第<pc>，</pc>顧瞻懷思<pc>，</pc>潸然出涕<pc>。</pc>昔漢明帝問東平 王<pc>：</pc>‘在家何以為樂<pc>？</pc>
+</quote>’王言<pc>：</pc>‘<quote>為善最樂<pc>。</pc>
+</quote>’帝大其言<pc>，</pc>因送列侯印<num value="19">十九</num>枚<pc>，</pc>諸子<num value="5">五</num>歲以上悉佩之<pc>，</pc>著之簡策<pc>，</pc>天下不以為私<pc>。</pc>今王諸子性於忠孝<pc>，</pc>漸於禮義<pc>，</pc>自 勝衣以上<pc>，</pc>頎然皆有成人之風<pc>，</pc>朕甚嘉之<pc>。</pc>其各進<num value="1">一</num>官<pc>，</pc>以助其為善之樂<pc>，</pc>尚勉之哉<pc>！</pc>毋忝父祖<pc>，</pc>以為邦家光<pc>。</pc>
 <pc>”</pc>徙封徐王<pc>，</pc>詔書不名<pc>。</pc>
 </p>
 </div>
@@ -60,27 +67,36 @@
 <pc>，</pc>徙封楚王<pc>。</pc>病益篤<pc>，</pc>帝親挾醫視診<pc>，</pc>令晝夜具起居狀聞<pc>，</pc>小愈則喜<pc>。</pc>既而 薨<pc>，</pc>年<num value="47">四十七</num>
 <pc>。</pc>帝即臨哭<pc>，</pc>輟朝<measure quantity="5" unit="days">
 <num value="5">五</num>日</measure>
-<pc>，</pc>成服苑中<pc>。</pc>贈尚書令兼中書令<pc>、</pc>揚荊冀<measure quantity="3" unit="prefectures">
+<pc>，</pc>成服苑中<pc>。</pc>贈尚書令兼中書<placeName>令</placeName>
+<pc>、</pc>
+<placeName>揚</placeName>荊冀<measure quantity="3" unit="prefectures">
 <num value="3">三</num>州</measure>牧<pc>、</pc>燕王<pc>，</pc>諡曰榮<pc>，</pc>陪葬永厚陵<pc>。</pc>徽宗即位<pc>，</pc>改封吳王<pc>。</pc>
 </p>
 </div>
 <div>
 <p>顥天資穎 異<pc>，</pc>尤嗜學<pc>，</pc>始就外傅<pc>，</pc>每<num value="1">一</num>經終<pc>，</pc>即遺講讀官以器幣服馬<pc>。</pc>工飛白<pc>，</pc>善射<pc>，</pc>好圖書<pc>，</pc>博求善本<pc>。</pc>神宗嘉其誌尚<pc>，</pc>每得異書<pc>，</pc>亟馳使以示<pc>。</pc>嚐賜方團玉帶<pc>，</pc>俾服而 朝<pc>，</pc>顥辭<pc>，</pc>乃為製玉魚以別之<pc>。</pc>是後親王遂踵為故實<pc>。</pc>初<pc>，</pc>居英宗喪<pc>，</pc>丐解官終製<pc>，</pc>以厭於至尊<pc>，</pc>不克遂<pc>。</pc>服慈聖光獻太後之服<pc>，</pc>易月當除<pc>，</pc>顥曰<pc>：</pc>
-<pc>“</pc>身為孫而情文 缺然<pc>，</pc>若是可乎<pc>？</pc>請如心喪禮<pc>，</pc>須上禫除<pc>，</pc>即吉<pc>。</pc>
+<pc>“</pc>
+<quote>身為孫而情文 缺然<pc>，</pc>若是可乎<pc>？</pc>請如心喪禮<pc>，</pc>須上禫除<pc>，</pc>即吉<pc>。</pc>
+</quote>
 <pc>”</pc>詔可<pc>。</pc>
 </p>
 </div>
 <div>
 <p>子孝騫嗣<pc>，</pc>終寧國軍<term>節度使</term>
-<pc>、</pc>晉康郡王<pc>；</pc>孝錫終嘉州團練使<pc>，</pc>贈永國公<pc>。</pc>
+<pc>、</pc>晉康郡王<pc>；</pc>孝錫終嘉州<term>團練使</term>
+<pc>，</pc>贈永國公<pc>。</pc>
 </p>
 </div>
 <div>
-<p>益端獻王頵<pc>，</pc>初名仲恪<pc>，</pc>封大寧郡公<pc>，</pc>進鄮國公<pc>、</pc>樂安郡王<pc>、</pc>嘉王<pc>。</pc>所曆官賜<pc>，</pc>略與兄顥同<pc>。</pc>更武勝<pc>、</pc>山南西<pc>、</pc>保信<pc>、</pc>保靜<pc>、</pc>武昌<pc>、</pc>武安<pc>、</pc>武寧<pc>、</pc>鎮海<pc>、</pc>成德<pc>、</pc>荊南<num value="10">十</num>節 度<pc>，</pc>徙王曹<pc>、</pc>荊<pc>，</pc>位至太尉<pc>。</pc>元祐<measure quantity="3" unit="years">
+<p>益端獻王頵<pc>，</pc>初名仲恪<pc>，</pc>封大寧郡公<pc>，</pc>進鄮國公<pc>、</pc>樂安郡王<pc>、</pc>嘉王<pc>。</pc>所曆官賜<pc>，</pc>略與兄顥同<pc>。</pc>更武勝<pc>、</pc>山南西<pc>、</pc>保信<pc>、</pc>保靜<pc>、</pc>武昌<pc>、</pc>武安<pc>、</pc>武寧<pc>、</pc>鎮海<pc>、</pc>成德<pc>、</pc>荊南<num value="10">十</num>節 度<pc>，</pc>徙王曹<pc>、</pc>荊<pc>，</pc>位至太尉<pc>。</pc>
+<date notBefore="1086" notAfter="1094">元祐</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>薨<pc>，</pc>年<num value="33">三十三</num>
-<pc>，</pc>贈太師<pc>、</pc>尚書令<pc>、</pc>荊徐<measure quantity="2" unit="prefectures">
+<pc>，</pc>贈太師<pc>、</pc>尚書令<placeName>
+<pc>、</pc>
+</placeName>荊徐<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>牧<pc>、</pc>魏王<pc>，</pc>諡端獻<pc>。</pc>徽宗改封益王<pc>。</pc>
 </p>
 </div>
@@ -95,7 +111,10 @@
 <p>子<measure quantity="9" unit="people">
 <num value="9">九</num>人</measure>
 <pc>：</pc>孝哲<pc>，</pc>右驍衛將軍<pc>，</pc>早亡<pc>；</pc>孝奕<pc>，</pc>彰化軍節度觀察留後<pc>，</pc>贈司空<pc>、</pc>平原郡王<pc>；</pc>孝參<pc>，</pc>奉國軍<term>節度使</term>
-<pc>，</pc>改寧武<pc>、</pc>武勝<pc>，</pc>封豫章郡王<pc>；</pc>孝永<pc>，</pc>邢州觀察使<pc>，</pc>贈司空<pc>、</pc>廣陵郡王<pc>；</pc>孝詒<pc>、</pc>孝騭<pc>、</pc>孝悅<pc>、</pc>孝穎<pc>、</pc>孝願<pc>，</pc>皆至<term>節度使</term>
+<pc>，</pc>改寧武<pc>、</pc>武勝<pc>，</pc>封豫章郡王<pc>；</pc>孝永<pc>，</pc>
+<placeName>邢州</placeName>
+<term>觀察使</term>
+<pc>，</pc>贈司空<pc>、</pc>廣陵郡王<pc>；</pc>孝詒<pc>、</pc>孝騭<pc>、</pc>孝悅<pc>、</pc>孝穎<pc>、</pc>孝願<pc>，</pc>皆至<term>節度使</term>
 <pc>。</pc>
 </p>
 </div>
@@ -109,7 +128,8 @@
 <pc>，</pc>封儀國公<pc>。</pc>哲宗立<pc>，</pc>加開府儀同<num value="3">三</num>司<pc>、</pc>大寧郡王<pc>，</pc>進申王<pc>，</pc>拜司空<pc>。</pc>帝崩<pc>，</pc>佖於諸弟為最長<pc>，</pc>有目疾不得立<pc>。</pc>徽宗 嗣位<pc>，</pc>以帝兄拜太傅<pc>，</pc>加殊禮<pc>，</pc>旋拜太師<pc>，</pc>曆京兆<pc>、</pc>真定尹<pc>，</pc>荊<pc>、</pc>揚<pc>、</pc>太原<pc>、</pc>興元牧<pc>，</pc>徙國陳<pc>。</pc>崇寧<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>薨<pc>，</pc>輟視朝<measure quantity="7" unit="days">
 <num value="7">七</num>日</measure>
-<pc>。</pc>贈尚書令兼中書令<pc>、</pc>徐州牧<pc>、</pc>燕王<pc>，</pc>諡榮 穆<pc>。</pc>又加贈侍中<pc>，</pc>改封吳王<pc>。</pc>子有奕<pc>，</pc>武信軍<term>節度使</term>
+<pc>。</pc>贈尚書令兼中書令<pc>、</pc>
+<placeName>徐州</placeName>牧<pc>、</pc>燕王<pc>，</pc>諡榮 穆<pc>。</pc>又加贈侍中<pc>，</pc>改封吳王<pc>。</pc>子有奕<pc>，</pc>武信軍<term>節度使</term>
 <pc>、</pc>和義郡王<pc>。</pc>
 </p>
 </div>
@@ -126,25 +146,31 @@
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>上皇幸青城<pc>，</pc>父老邀之不及<pc>，</pc>道遇<num value="2">二</num>王<pc>，</pc>哭曰<pc>：</pc>
-<pc>“</pc>願與王俱死<pc>。</pc>
+<pc>“</pc>
+<quote>願與王俱死<pc>。</pc>
+</quote>
 <pc>”</pc>徐秉哲捕為首者戮之<pc>，</pc>益兵衛送<num value="2">二</num>王於金營<pc>，</pc>北行至慶源境上<pc>，</pc>俁乏食薨<pc>，</pc>偲至韓州而薨<pc>。</pc>
 </p>
 </div>
 <div>
-<p>紹興初<pc>，</pc>有崔紹祖者至壽春府<pc>，</pc>稱越王次子<pc>，</pc>受上皇蠟詔為天下兵馬大元帥<pc>，</pc>興師恢複<pc>。</pc>鎮撫使趙霖以聞<pc>。</pc>召赴行在<pc>，</pc>事敗<pc>，</pc>送台獄伏罪<pc>，</pc>斬於越州市<pc>。</pc>
+<p>紹興初<pc>，</pc>有崔紹祖者至壽春府<pc>，</pc>稱越王次子<pc>，</pc>受上皇蠟詔為天下兵馬大元帥<pc>，</pc>興師恢複<pc>。</pc>鎮撫使趙霖以聞<pc>。</pc>召赴行在<pc>，</pc>事敗<pc>，</pc>送台獄伏罪<pc>，</pc>斬於<placeName>越州</placeName>市<pc>。</pc>
 </p>
 </div>
 <div>
 <p>楚榮憲王似<pc>，</pc>帝第<num value="13">十三</num>子<pc>。</pc>初為集慶軍<term>節度使</term>
-<pc>、</pc>和國公<pc>，</pc>進普寧郡王<pc>。</pc>元符元年出閣<pc>，</pc>封簡王<pc>。</pc>似於哲宗為母弟<pc>，</pc>哲宗崩<pc>，</pc>皇太後議所立<pc>，</pc>
+<pc>、</pc>和國公<pc>，</pc>進普寧郡王<pc>。</pc>
+<date notBefore="1098" notAfter="1100">元符</date>元年出閣<pc>，</pc>封簡王<pc>。</pc>似於哲宗為母弟<pc>，</pc>哲宗崩<pc>，</pc>皇太後議所立<pc>，</pc>
 <term>宰相</term>章惇以似對<pc>。</pc>後 曰<pc>：</pc>
-<pc>“</pc>均是神宗子<pc>，</pc>何必然<pc>。</pc>
+<pc>“</pc>
+<quote>均是神宗子<pc>，</pc>何必然<pc>。</pc>
+</quote>
 <pc>”</pc>乃立端王<pc>。</pc>徽宗定位<pc>，</pc>加司徒<pc>，</pc>改鎮武昌<pc>、</pc>武成<pc>，</pc>徙封蔡<pc>，</pc>拜太保<pc>，</pc>移鎮保平<pc>、</pc>鎮安<pc>，</pc>又改鳳翔<pc>、</pc>雄武<pc>。</pc>以王府史語言指斥<pc>，</pc>送大理 寺驗治<pc>，</pc>似上表待罪<pc>。</pc>
 </p>
 </div>
 <div>
 <p>左司諫江公望上疏<pc>，</pc>以為<pc>：</pc>
-<pc>“</pc>親隙不可開<pc>，</pc>開則言可離貳<pc>；</pc>疑跡不可顯<pc>，</pc>顯則事難磨滅<pc>。</pc>陛下之得天下也<pc>，</pc>章惇嚐持異議<pc>，</pc>已有 隙跡矣<pc>。</pc>蔡王出於無心<pc>，</pc>年尚幼小<pc>，</pc>未達禍亂之萌<pc>，</pc>恬不以為恤<pc>。</pc>陛下<num value="1">一</num>切包容<pc>，</pc>已開之隙複塗<pc>，</pc>已顯之跡複泯矣<pc>。</pc>恩意渥縟<pc>，</pc>歡然不失兄弟之情<pc>。</pc>若以曖昧無根之 語<pc>，</pc>加諸至親骨肉之間<pc>，</pc>則有魏文‘相煎太急’之譏<pc>，</pc>而忘大舜親愛之道<pc>，</pc>豈治世之美事邪<pc>。</pc>臣願陛下密詔有司<pc>，</pc>凡無根之言勿形案牘<pc>，</pc>倘有瑕可指<pc>，</pc>
+<pc>“</pc>
+<quote>親隙不可開<pc>，</pc>開則言可離貳<pc>；</pc>疑跡不可顯<pc>，</pc>顯則事難磨滅<pc>。</pc>陛下之得天下也<pc>，</pc>章惇嚐持異議<pc>，</pc>已有 隙跡矣<pc>。</pc>蔡王出於無心<pc>，</pc>年尚幼小<pc>，</pc>未達禍亂之萌<pc>，</pc>恬不以為恤<pc>。</pc>陛下<num value="1">一</num>切包容<pc>，</pc>已開之隙複塗<pc>，</pc>已顯之跡複泯矣<pc>。</pc>恩意渥縟<pc>，</pc>歡然不失兄弟之情<pc>。</pc>若以曖昧無根之 語<pc>，</pc>加諸至親骨肉之間<pc>，</pc>則有魏文‘相煎太急</quote>’之譏<pc>，</pc>而忘大舜親愛之道<pc>，</pc>豈治世之美事邪<pc>。</pc>臣願陛下密詔有司<pc>，</pc>凡無根之言勿形案牘<pc>，</pc>倘有瑕可指<pc>，</pc>
 <measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>胸次<pc>，</pc>則 終身不忘<pc>，</pc>跡不可泯<pc>，</pc>隙不可塗<pc>，</pc>則骨肉離矣<pc>。</pc>
 <num value="1">一</num>有浸淫旁及蔡王之語<pc>，</pc>不識陛下將何以處之<pc>，</pc>陛下何顏見神考於太廟乎<pc>？</pc>
@@ -153,13 +179,16 @@
 </div>
 <div>
 <p>崇寧中<pc>，</pc>徙鎮荊南<pc>、</pc>武寧<pc>。</pc>崇寧<measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>薨<pc>，</pc>贈太師<pc>、</pc>尚書令兼中書令<pc>、</pc>冀州牧<pc>、</pc>韓王<pc>，</pc>改封楚王<pc>，</pc>諡榮憲<pc>。</pc>子有恭<pc>，</pc>定國軍<term>節度使</term>
+<num value="5">五</num>年</measure>薨<pc>，</pc>贈太師<pc>、</pc>尚書令兼中書令<pc>、</pc>
+<placeName>冀州</placeName>牧<pc>、</pc>韓王<pc>，</pc>改封楚王<pc>，</pc>諡榮憲<pc>。</pc>子有恭<pc>，</pc>定國軍<term>節度使</term>
 <pc>、</pc>永寧郡王<pc>。</pc>
 </p>
 </div>
 <div>
 <p>哲宗<num value="1">一</num>子<pc>：</pc>獻湣太子茂<pc>，</pc>昭懷劉皇後為賢妃時所生<pc>。</pc>帝未有子<pc>，</pc>而中宮虛位<pc>，</pc>後因是得立<pc>。</pc>然才<measure quantity="3" unit="months">
-<num value="3">三</num>月</measure>而夭<pc>，</pc>追封越王<pc>，</pc>諡衝獻<pc>。</pc>崇寧元年<pc>，</pc>改諡獻湣<pc>。</pc>後之立也<pc>，</pc>鄒浩凡<num value="3">三</num>上疏諫<pc>，</pc>隨削其稿<pc>。</pc>至是<pc>，</pc>或謂浩有<pc>“</pc>殺卓氏而奪其子<pc>，</pc>欺人可也<pc>，</pc>詎可以欺天乎<pc>”</pc>之語<pc>，</pc>徽宗昭暴其事<pc>，</pc>複竄浩昭州<pc>，</pc>而峻茂典冊<pc>。</pc>後上表謝<pc>，</pc>然浩蓋無是言也<pc>。</pc>
+<num value="3">三</num>月</measure>而夭<pc>，</pc>追封越王<pc>，</pc>諡衝獻<pc>。</pc>崇寧元年<pc>，</pc>改諡獻湣<pc>。</pc>後之立也<pc>，</pc>鄒浩凡<num value="3">三</num>上疏諫<pc>，</pc>隨削其稿<pc>。</pc>至是<pc>，</pc>或謂浩有<pc>“</pc>
+<quote>殺卓氏而奪其子<pc>，</pc>欺人可也<pc>，</pc>詎可以欺天乎</quote>
+<pc>”</pc>之語<pc>，</pc>徽宗昭暴其事<pc>，</pc>複竄浩昭州<pc>，</pc>而峻茂典冊<pc>。</pc>後上表謝<pc>，</pc>然浩蓋無是言也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -181,7 +210,9 @@
 </div>
 <div>
 <p>景王杞<pc>，</pc>初授武安軍<term>節度使</term>
-<pc>、</pc>檢校太尉<pc>，</pc>封冀國公<pc>。</pc>大觀<measure quantity="2" unit="years">
+<pc>、</pc>檢校太尉<pc>，</pc>封冀國公<pc>。</pc>
+<date notBefore="1107" notAfter="1110">大觀</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>改授山南東道<term>節度使</term>
 <pc>，</pc>加開府儀同<num value="3">三</num>司<pc>，</pc>封文安郡王<pc>。</pc>政和中<pc>，</pc>授檢校太保<pc>，</pc>尋遷太保<pc>，</pc>改授護國<pc>、</pc>武昌軍<term>節度使</term>
@@ -198,7 +229,9 @@
 </div>
 <div>
 <p>濟王栩<pc>，</pc>初授鎮洮軍<term>節度使</term>
-<pc>、</pc>檢校太尉<pc>，</pc>封魯國公<pc>。</pc>大觀<measure quantity="2" unit="years">
+<pc>、</pc>檢校太尉<pc>，</pc>封魯國公<pc>。</pc>
+<date notBefore="1107" notAfter="1110">大觀</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>改授彰武軍<term>節度使</term>
 <pc>，</pc>加開府儀同<num value="3">三</num>司<pc>，</pc>封安康郡王<pc>，</pc>政和中<pc>，</pc>授檢校太保<pc>，</pc>改荊南<pc>、</pc>清海軍<term>節度使</term>
@@ -208,15 +241,20 @@
 </div>
 <div>
 <p>同景王杞為賀金人正旦使<pc>。</pc>既還<pc>，</pc>又與何為請命使<pc>，</pc>金帥紿栩曰<pc>：</pc>
-<pc>“</pc>自古有南即有北<pc>，</pc>不可相無<pc>，</pc>今所欲割地而已<pc>。</pc>
+<pc>“</pc>
+<quote>自古有南即有北<pc>，</pc>不可相無<pc>，</pc>今所欲割地而已<pc>。</pc>
+</quote>
 <pc>”</pc>栩回以白上<pc>，</pc>且言金帥請與上皇相見<pc>，</pc>上曰<pc>：</pc>
-<pc>“</pc>豈可使上皇蒙塵<pc>。</pc>
+<pc>“</pc>
+<quote>豈可使上皇蒙塵<pc>。</pc>
+</quote>
 <pc>”</pc>遂自出<pc>，</pc>以栩從行<pc>。</pc>及索諸王家屬<pc>，</pc>栩夫人曹氏避難他出<pc>，</pc>徐秉哲捕而拘之<pc>，</pc>遂同北去<pc>。</pc>
 </p>
 </div>
 <div>
 <p>徐王棣<pc>，</pc>初授鎮江軍<term>節度使</term>
-<pc>、</pc>檢校太尉<pc>，</pc>封徐國公<pc>。</pc>政和中<pc>，</pc>授檢校太保<pc>。</pc>宣和中<pc>，</pc>改鎮南軍<term>節度使</term>
+<pc>、</pc>檢校太尉<pc>，</pc>封徐國公<pc>。</pc>政和中<pc>，</pc>授檢校太保<pc>。</pc>
+<date notBefore="1119" notAfter="1125">宣和</date>中<pc>，</pc>改鎮南軍<term>節度使</term>
 <pc>，</pc>加開府儀同<num value="3">三</num>司<pc>，</pc>封高平郡王<pc>。</pc>尋改山南東道<pc>、</pc>河陽<num value="3">三</num>城<term>節度使</term>
 <pc>，</pc>進封徐王<pc>。</pc>後從淵聖北去<pc>。</pc>
 </p>
@@ -231,7 +269,8 @@
 </div>
 <div>
 <p>沂王咢<pc>，</pc>初授橫海軍<term>節度使</term>
-<pc>、</pc>檢校太尉<pc>、</pc>冀國公<pc>。</pc>政和中<pc>，</pc>授檢校太保<pc>。</pc>宣和中<pc>，</pc>改劍南西川<term>節度使</term>
+<pc>、</pc>檢校太尉<pc>、</pc>冀國公<pc>。</pc>政和中<pc>，</pc>授檢校太保<pc>。</pc>
+<date notBefore="1119" notAfter="1125">宣和</date>中<pc>，</pc>改劍南西川<term>節度使</term>
 <pc>，</pc>加開府儀同<num value="3">三</num>司<pc>，</pc>封河間郡王<pc>。</pc>尋改劍南東川<pc>、</pc>威武軍<term>節度使</term>
 <pc>，</pc>遷太保<pc>，</pc>進封沂王<pc>。</pc>
 </p>
@@ -263,7 +302,8 @@
 <pc>、</pc>檢校太尉<pc>，</pc>封福國公<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>授檢校太保<pc>。</pc>宣和末<pc>，</pc>改安遠軍<term>節度使</term>
+<pc>，</pc>授檢校太保<pc>。</pc>
+<date notBefore="1119" notAfter="1125">宣和</date>末<pc>，</pc>改安遠軍<term>節度使</term>
 <pc>，</pc>加開府儀同<num value="3">三</num>司<pc>，</pc>封平陽郡王<pc>。</pc>靖康元年<pc>，</pc>授慶陽<pc>、</pc>昭化軍<term>節度使</term>
 <pc>，</pc>遷檢校太傅<pc>，</pc>進封信王<pc>。</pc>
 </p>
@@ -274,8 +314,10 @@
 </div>
 <div>
 <p>榛遣廣詣行在奏之<pc>，</pc>其略曰<pc>：</pc>
-<pc>“</pc>邦傑與廣<pc>，</pc>忠義之心<pc>，</pc>堅若金石<pc>，</pc>臣自陷賊中<pc>，</pc>頗知其虛實<pc>。</pc>賊今稍墮<pc>，</pc>皆懷歸心<pc>，</pc>且累敗於西夏<pc>，</pc>而契丹亦出攻之<pc>。</pc>今山西諸砦 鄉兵約<num value="10">十</num>餘<num value="10000">萬</num>
+<pc>“</pc>
+<quote>邦傑與廣<pc>，</pc>忠義之心<pc>，</pc>堅若金石<pc>，</pc>臣自陷賊中<pc>，</pc>頗知其虛實<pc>。</pc>賊今稍墮<pc>，</pc>皆懷歸心<pc>，</pc>且累敗於西夏<pc>，</pc>而契丹亦出攻之<pc>。</pc>今山西諸砦 鄉兵約<num value="10">十</num>餘<num value="10000">萬</num>
 <pc>，</pc>力與賊抗<pc>，</pc>但皆苦窘<pc>，</pc>兼闕戎器<pc>。</pc>臣多方存恤<pc>，</pc>惟望朝廷遣兵來援<pc>，</pc>不然<pc>，</pc>久之恐反為賊用<pc>。</pc>臣於陛下<pc>，</pc>以禮言則君臣<pc>，</pc>以義言則兄弟<pc>，</pc>其憂國念親 之心無異<pc>。</pc>願委臣總大軍<pc>，</pc>與諸砦鄉兵<pc>，</pc>約日大舉<pc>，</pc>決見成功<pc>。</pc>
+</quote>
 <pc>”</pc>廣既至<pc>，</pc>黃潛善<pc>、</pc>汪伯彥疑其非真<pc>，</pc>上識榛手書<pc>，</pc>遂除河外兵馬都元帥<pc>。</pc>潛善<pc>、</pc>伯彥終疑之<pc>，</pc>廣將 行<pc>，</pc>密授朝旨<pc>，</pc>使幾察榛<pc>，</pc>複令廣聽諸路節製<pc>。</pc>廣知事不成<pc>，</pc>遂留於大名府不進<pc>。</pc>會有言榛將渡河入京<pc>，</pc>朝廷因詔擇日還京<pc>，</pc>以伐其謀<pc>。</pc>
 </p>
 </div>
@@ -284,13 +326,16 @@
 </p>
 </div>
 <div>
-<p>紹興元年<pc>，</pc>鄧州有楊其姓者<pc>，</pc>聚<num value="1000">千</num>餘人<pc>，</pc>自稱信王<pc>。</pc>鎮撫使翟興覺詐<pc>，</pc>遣將斬之以聞<pc>。</pc>
+<p>紹興元年<pc>，</pc>
+<placeName>鄧州</placeName>有楊其姓者<pc>，</pc>聚<num value="1000">千</num>餘人<pc>，</pc>自稱信王<pc>。</pc>鎮撫使翟興覺詐<pc>，</pc>遣將斬之以聞<pc>。</pc>
 </p>
 </div>
 <div>
 <p>欽宗皇太子諶<pc>，</pc>朱皇後子也<pc>。</pc>政和<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>生<pc>，</pc>為嫡皇孫<pc>，</pc>祖宗以來所未有<pc>，</pc>徽宗喜<pc>。</pc>蔡京奏除檢校少保<pc>、</pc>常德軍<term>節度使</term>
-<pc>，</pc>封崇國公<pc>，</pc>從之<pc>。</pc>會王黼得政<pc>，</pc>謀傾京<pc>，</pc>言 其以東宮比人主<pc>，</pc>遂降為高州防禦使<pc>。</pc>靖康元年<pc>，</pc>遷檢校少保<pc>、</pc>昭慶軍<term>節度使</term>
+<pc>，</pc>封崇國公<pc>，</pc>從之<pc>。</pc>會王黼得政<pc>，</pc>謀傾京<pc>，</pc>言 其以東宮比人主<pc>，</pc>遂降為<placeName>高州</placeName>
+<term>防禦使</term>
+<pc>。</pc>靖康元年<pc>，</pc>遷檢校少保<pc>、</pc>昭慶軍<term>節度使</term>
 <pc>、</pc>大寧郡王<pc>。</pc>尋進檢校少傅<pc>、</pc>寧國軍<term>節度使</term>
 <pc>。</pc>
 <measure quantity="4" unit="months">
@@ -308,23 +353,31 @@
 <pc>。</pc>吳幵<pc>、</pc>莫儔 督脅甚急<pc>，</pc>範瓊恐變生<pc>，</pc>以危言讋衛士<pc>，</pc>遂擁太子與皇後共車以出<pc>。</pc>
 <num value="100">百</num>官軍吏奔隨號哭<pc>，</pc>太學諸生擁拜車前<pc>，</pc>太子呼雲<pc>：</pc>
 <pc>“</pc>
+<quote>
 <num value="100">百</num>姓救我<pc>！</pc>
+</quote>
 <pc>”</pc>哭聲震天<pc>，</pc>已而北去<pc>。</pc>弟 訓<pc>。</pc>
 </p>
 </div>
 <div>
 <p>訓乃北地所生<pc>。</pc>有碭山人留遇僧者<pc>，</pc>金人見之曰<pc>：</pc>
-<pc>“</pc>全似趙家少帝<pc>。</pc>
+<pc>“</pc>
+<quote>全似趙家少帝<pc>。</pc>
+</quote>
 <pc>”</pc>遇僧竊喜<pc>。</pc>紹興<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
 <pc>，</pc>
-<num value="3">三</num>京路通<pc>，</pc>詔求宗室<pc>。</pc>遇僧自言少帝第<num value="2">二</num>子<pc>，</pc>乃守臣 遣赴行在<pc>，</pc>過泗州<pc>，</pc>州官孫守信疑之<pc>，</pc>白其守<pc>，</pc>請於朝<pc>。</pc>閣門言淵聖無第<num value="2">二</num>子<pc>，</pc>詔寧信劾治<pc>。</pc>遇僧伏罪<pc>，</pc>黥隸瓊州<pc>。</pc>後有自北至者<pc>，</pc>曰<pc>：</pc>
-<pc>“</pc>淵聖小大王訓<pc>，</pc>見居<num value="5">五</num>國 城<pc>。</pc>
+<num value="3">三</num>京路通<pc>，</pc>詔求宗室<pc>。</pc>遇僧自言少帝第<num value="2">二</num>子<pc>，</pc>乃守臣 遣赴行在<pc>，</pc>過<placeName>泗州</placeName>
+<pc>，</pc>州官孫守信疑之<pc>，</pc>白其守<pc>，</pc>請於朝<pc>。</pc>閣門言淵聖無第<num value="2">二</num>子<pc>，</pc>詔寧信劾治<pc>。</pc>遇僧伏罪<pc>，</pc>黥隸瓊州<pc>。</pc>後有自北至者<pc>，</pc>曰<pc>：</pc>
+<pc>“</pc>
+<quote>淵聖小大王訓<pc>，</pc>見居<num value="5">五</num>國 城<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>元懿太子諱旉<pc>，</pc>高宗子也<pc>，</pc>母潘賢妃<pc>。</pc>建炎元年<measure quantity="6" unit="months">
+<p>元懿太子諱旉<pc>，</pc>高宗子也<pc>，</pc>母潘賢妃<pc>。</pc>
+<date notBefore="1127" notAfter="1130">建炎</date>元年<measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <pc>，</pc>生於南京<pc>。</pc>拜檢校少保<pc>、</pc>集慶軍<term>節度使</term>
 <pc>，</pc>封魏國公<pc>。</pc>金人侵淮南<pc>，</pc>帝幸臨安<pc>，</pc>會苗傅<pc>、</pc>劉 正彥作亂<pc>，</pc>逼帝禪位於旉<pc>，</pc>改元明受<pc>。</pc>既而傅等伏誅<pc>，</pc>帝複位<pc>，</pc>乃以旉為皇太子<pc>，</pc>從幸建康<pc>。</pc>太子立<pc>，</pc>屬疾<pc>，</pc>宮人誤蹴地上金爐有聲<pc>，</pc>太子驚悸<pc>，</pc>疾轉劇<pc>，</pc>薨<pc>，</pc>諡元 懿<pc>。</pc>
@@ -335,8 +388,9 @@
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>伯琮以宗子被選入宮<pc>，</pc>高宗命鞠於婕妤張氏<pc>；</pc>吳才人亦 請於帝<pc>，</pc>遂以伯玖命才人母之<pc>，</pc>賜名璩<pc>，</pc>除和州防禦使<pc>，</pc>時生<measure quantity="7" unit="years">
-<num value="7">七</num>歲</measure>矣<pc>。</pc>伯琮以建國公就傅<pc>，</pc>璩獨居禁中<pc>。</pc>俄拜<term>節度使</term>
+<p>初<pc>，</pc>伯琮以宗子被選入宮<pc>，</pc>高宗命鞠於婕妤張氏<pc>；</pc>吳才人亦 請於帝<pc>，</pc>遂以伯玖命才人母之<pc>，</pc>賜名璩<pc>，</pc>除<placeName>和州</placeName>
+<term>防禦使</term>
+<pc>，</pc>時生<num value="7">七</num>歲矣<pc>。</pc>伯琮以建國公就傅<pc>，</pc>璩獨居禁中<pc>。</pc>俄拜<term>節度使</term>
 <pc>，</pc>封吳國公<pc>，</pc>宰執趙鼎<pc>、</pc>劉大中<pc>、</pc>王庶等堅持 之<pc>，</pc>命不果行<pc>。</pc>會秦檜專政<pc>，</pc>遂除保大軍<term>節度使</term>
 <pc>，</pc>封崇國公<pc>。</pc>尋詔赴資善堂聽讀<pc>。</pc>紹興<measure quantity="15" unit="years">
 <num value="15">十五</num>年</measure>
@@ -366,13 +420,21 @@
 <div>
 <p>子<measure quantity="4" unit="people">
 <num value="4">四</num>人</measure>
-<pc>：</pc>師淳曆忠州團練使<pc>、</pc>永州防禦使<pc>，</pc>師灝<pc>、</pc>師淪<pc>、</pc>師路並補武翼大夫<pc>。</pc>孫希楙<pc>，</pc>特補保義郎<pc>。</pc>
+<pc>：</pc>師淳曆<placeName>忠州</placeName>
+<term>團練使</term>
+<pc>、</pc>
+<placeName>永州</placeName>
+<term>防禦使</term>
+<pc>，</pc>師灝<pc>、</pc>師淪<pc>、</pc>師路並補武翼大夫<pc>。</pc>孫希楙<pc>，</pc>特補保義郎<pc>。</pc>
 </p>
 </div>
 <div>
-<p>莊文太子諱愭<pc>，</pc>孝宗嫡長子也<pc>，</pc>母郭皇後<pc>。</pc>初名愉<pc>，</pc>補右內率府副率<pc>，</pc>尋賜名愭<pc>，</pc>除右監門衛大將軍<pc>、</pc>榮州<term>刺史</term>
-<pc>。</pc>孝宗為皇子時<pc>，</pc>愭拜蘄州防禦使<pc>。</pc>及受禪<pc>，</pc>除少保<pc>、</pc>永興軍<term>節度使</term>
-<pc>，</pc>封鄧王<pc>。</pc>故事皇子出閣<pc>，</pc>封王<pc>，</pc>兼兩鎮<pc>，</pc>然後加司空<pc>。</pc>愭自防禦使躐拜少保<pc>，</pc>章異數也<pc>。</pc>
+<p>莊文太子諱愭<pc>，</pc>孝宗嫡長子也<pc>，</pc>母郭皇後<pc>。</pc>初名愉<pc>，</pc>補右內率府副率<pc>，</pc>尋賜名愭<pc>，</pc>除右監門衛大將軍<pc>、</pc>
+<placeName>榮州</placeName>
+<term>刺史</term>
+<pc>。</pc>孝宗為皇子時<pc>，</pc>愭拜蘄州<term>防禦使</term>
+<pc>。</pc>及受禪<pc>，</pc>除少保<pc>、</pc>永興軍<term>節度使</term>
+<pc>，</pc>封鄧王<pc>。</pc>故事皇子出閣<pc>，</pc>封王<pc>，</pc>兼兩鎮<pc>，</pc>然後加司空<pc>。</pc>愭自<term>防禦使</term>躐拜少保<pc>，</pc>章異數也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -392,7 +454,9 @@
 </p>
 </div>
 <div>
-<p>子挺<pc>，</pc>錢氏所生也<pc>，</pc>甫晬<pc>，</pc>除<placeName>福州</placeName>觀察使<pc>，</pc>封榮國公<pc>，</pc>乾道<measure quantity="9" unit="years">
+<p>子挺<pc>，</pc>錢氏所生也<pc>，</pc>甫晬<pc>，</pc>除<placeName>福州</placeName>
+<term>觀察使</term>
+<pc>，</pc>封榮國公<pc>，</pc>乾道<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>卒<pc>，</pc>贈武當軍<term>節度使</term>
 <pc>，</pc>追封豫國公<pc>。</pc>
 </p>
@@ -400,48 +464,63 @@
 <div>
 <p>寧宗時<pc>，</pc>命宗子希基為太子後<pc>。</pc>希基<pc>，</pc>藝祖<num value="9">九</num>世孫也<pc>，</pc>賜名搢<pc>，</pc>補右<num value="1000">千</num>牛衛將軍<pc>，</pc>置教授於府<pc>。</pc>開禧<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>除忠州防禦使<pc>。</pc>嘉定<measure quantity="8" unit="years">
+<pc>，</pc>除<placeName>忠州</placeName>
+<term>防禦使</term>
+<pc>。</pc>嘉定<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>更名思正<pc>。</pc>
 </p>
 </div>
 <div>
-<p>魏惠憲王諱愷<pc>，</pc>莊文同母弟也<pc>。</pc>初補右內率府副率<pc>，</pc>轉右監門衛大將軍<pc>、</pc>貴州團練使<pc>。</pc>孝宗受禪<pc>，</pc>拜雄武軍<term>節度使</term>
+<p>魏惠憲王諱愷<pc>，</pc>莊文同母弟也<pc>。</pc>初補右內率府副率<pc>，</pc>轉右監門衛大將軍<pc>、</pc>
+<placeName>貴州</placeName>
+<term>團練使</term>
+<pc>。</pc>孝宗受禪<pc>，</pc>拜雄武軍<term>節度使</term>
 <pc>、</pc>開府儀同<num value="3">三</num>司<pc>，</pc>封慶王<pc>。</pc>
 </p>
 </div>
 <div>
 <p>莊文太子薨<pc>，</pc>愷次當立<pc>，</pc>帝意未決<pc>。</pc>既而以恭王英武類己<pc>，</pc>竟立之<pc>。</pc>加愷雄武<pc>、</pc>保寧軍<term>節度使</term>
-<pc>，</pc>進封魏王<pc>，</pc>判寧國府<pc>。</pc>妻華國夫人韋氏<pc>，</pc>特封韓<pc>、</pc>魏兩國夫人<pc>，</pc>以 示優禮<pc>。</pc>賜黃金<num value="3000">三千</num>兩<pc>、</pc>白金<num value="10000">一萬</num>兩<pc>，</pc>命宰執設於玉津園<pc>，</pc>王登車<pc>，</pc>顧謂虞允文曰<pc>：</pc>
-<pc>“</pc>更望相公保全<pc>。</pc>
+<pc>，</pc>進封魏王<pc>，</pc>判寧國府<pc>。</pc>妻華國夫人韋氏<pc>，</pc>特封韓<pc>、</pc>魏兩國夫人<pc>，</pc>以 示優禮<pc>。</pc>賜黃金<num value="3000">三千</num>兩<pc>、</pc>白金<num value="10000">一萬</num>兩<pc>，</pc>命宰執設於<placeName>玉津園</placeName>
+<pc>，</pc>王登車<pc>，</pc>顧謂虞允文曰<pc>：</pc>
+<pc>“</pc>
+<quote>更望相公保全<pc>。</pc>
+</quote>
 <pc>”</pc>比至鎮<pc>，</pc>奏朝天申節<pc>，</pc>許之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>府長史上言<pc>，</pc>欲 與司馬分治郡<pc>，</pc>俾王受成<pc>。</pc>愷奏曰<pc>：</pc>
-<pc>“</pc>臣被命判府<pc>，</pc>今專委長史<pc>、</pc>司馬<pc>，</pc>是處臣無用之地<pc>。</pc>況<num value="1">一</num>郡置<num value="3">三</num>判府<pc>，</pc>臣恐吏民紛競不<num value="1">一</num>
+<pc>“</pc>
+<quote>臣被命判府<pc>，</pc>今專委長史<pc>、</pc>司馬<pc>，</pc>是處臣無用之地<pc>。</pc>況<num value="1">一</num>郡置<num value="3">三</num>判府<pc>，</pc>臣恐吏民紛競不<num value="1">一</num>
 <pc>，</pc>徒見其擾<pc>。</pc>長史<pc>、</pc>司馬宜主錢穀<pc>、</pc>訟牒<pc>，</pc>俾擬呈臣依而判之<pc>，</pc>庶上下安<pc>，</pc>事益易治<pc>。</pc>
+</quote>
 <pc>”</pc>又請增士人貢額<pc>。</pc>朝廷悉從之<pc>。</pc>愷究心民事<pc>，</pc>築圩田之隤圮者<pc>，</pc>帝手詔嘉勞之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>淳熙元年<pc>，</pc>徙判明 州<pc>。</pc>輟屬邑田租以贍學<pc>。</pc>得兩歧麥<pc>，</pc>圖以獻<pc>，</pc>帝複賜手詔曰<pc>：</pc>
-<pc>“</pc>汝勸課藝植<pc>，</pc>農不遊惰<pc>，</pc>宜獲瑞麥之應<pc>。</pc>
+<pc>“</pc>
+<quote>汝勸課藝植<pc>，</pc>農不遊惰<pc>，</pc>宜獲瑞麥之應<pc>。</pc>
+</quote>
 <pc>”</pc>加愷荊南<pc>、</pc>集慶軍<term>節度使</term>
 <pc>，</pc>行江陵尹<pc>，</pc>尋改永興<pc>、</pc>成德軍<term>節度使</term>
 <pc>、</pc>
 <placeName>揚州</placeName>牧<pc>。</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>薨於明州<pc>，</pc>年<num value="35">三十五</num>
+<pc>，</pc>薨於<placeName>明州</placeName>
+<pc>，</pc>年<num value="35">三十五</num>
 <pc>。</pc>帝素服發哀於別殿<pc>，</pc>贈淮南武寧軍<term>節度使</term>
 <pc>、</pc>
-<placeName>揚州</placeName>牧兼徐州牧<pc>，</pc>諡惠寧<pc>。</pc>
+<placeName>揚州</placeName>牧兼<placeName>徐州</placeName>牧<pc>，</pc>諡惠寧<pc>。</pc>
 </p>
 </div>
 <div>
 <p>王性寬慈<pc>，</pc>上皇雅愛之<pc>。</pc>雖以宗社大計出王於外<pc>，</pc>然心每念之<pc>，</pc>賜賚不絕<pc>。</pc>訃聞<pc>，</pc>帝泫然曰<pc>：</pc>
-<pc>“</pc>向所以越次建儲者<pc>，</pc>正為此子福氣差薄耳<pc>！</pc>
+<pc>“</pc>
+<quote>向所以越次建儲者<pc>，</pc>正為此子福氣差薄耳<pc>！</pc>
+</quote>
 <pc>”</pc>治<num value="2">二</num>郡有仁聲<pc>，</pc>薨之日<pc>，</pc>
 <num value="4">四</num>明父老乞建祠立碑<pc>，</pc>以紀遺愛<pc>。</pc>
 </p>
@@ -449,23 +528,25 @@
 <div>
 <p>子<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>
-<pc>。</pc>攄早卒<pc>。</pc>抦生於明州<pc>，</pc>母<name key="null" type="maternal">
-<persName>卜</persName>
-</name>氏<pc>，</pc>信安郡夫人<pc>，</pc>王薨<pc>，</pc>還居行在<pc>。</pc>抦性早慧<pc>，</pc>帝愛之<pc>，</pc>將內禪<pc>，</pc>升耀州觀察使<pc>，</pc>封嘉國公<pc>。</pc>慶元間<pc>，</pc>封<date when="null">吳</date>興郡王<pc>，</pc>領昭慶軍<term>節度使</term>
+<pc>。</pc>攄早卒<pc>。</pc>抦生於<placeName>明州</placeName>
+<pc>，</pc>母<persName>卜</persName>氏<pc>，</pc>信安郡夫人<pc>，</pc>王薨<pc>，</pc>還居行在<pc>。</pc>抦性早慧<pc>，</pc>帝愛之<pc>，</pc>將內禪<pc>，</pc>升<placeName>耀州</placeName>
+<term>觀察使</term>
+<pc>，</pc>封嘉國公<pc>。</pc>慶元間<pc>，</pc>封<date notBefore="9999" notAfter="9999">吳</date>興郡王<pc>，</pc>領昭慶軍<term>節度使</term>
 <pc>。</pc>開禧<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>薨<pc>，</pc>贈太保<pc>，</pc>封沂王<pc>，</pc>諡靖惠<pc>。</pc>
 </p>
 </div>
 <div>
 <p>子垓<pc>，</pc>
-<measure quantity="3" unit="years">
-<num value="3">三</num>歲</measure>而夭<pc>。</pc>詔立宗室希瞿子為其後<pc>，</pc>更名均<pc>，</pc>領右<num value="1000">千</num>牛衛將軍<pc>，</pc>置教授於府<pc>。</pc>尋加<placeName>福州</placeName>觀察使<pc>。</pc>後更名貴和<pc>，</pc>即鎮王竑也<pc>。</pc>
+<num value="3">三</num>歲而夭<pc>。</pc>詔立宗室希瞿子為其後<pc>，</pc>更名均<pc>，</pc>領右<num value="1000">千</num>牛衛將軍<pc>，</pc>置教授於府<pc>。</pc>尋加<placeName>福州</placeName>
+<term>觀察使</term>
+<pc>。</pc>後更名貴和<pc>，</pc>即鎮王竑也<pc>。</pc>
 </p>
 </div>
 <div>
-<p>景獻太子諱詢<pc>，</pc>燕懿王後<pc>，</pc>藝祖<num value="11">十一</num>世孫也<pc>。</pc>初名與願<pc>。</pc>寧宗既失袞王<pc>，</pc>從宰執京鏜等請<pc>，</pc>取與願養於宮中<pc>，</pc>年<measure quantity="6" unit="years">
-<num value="6">六</num>歲</measure>
-<pc>，</pc>賜名嚴<pc>，</pc>除<placeName>福州</placeName>觀察使<pc>。</pc>嘉泰<measure quantity="2" unit="years">
+<p>景獻太子諱詢<pc>，</pc>燕懿王後<pc>，</pc>藝祖<num value="11">十一</num>世孫也<pc>。</pc>初名與願<pc>。</pc>寧宗既失袞王<pc>，</pc>從宰執京鏜等請<pc>，</pc>取與願養於宮中<pc>，</pc>年<num value="6">六</num>歲<pc>，</pc>賜名嚴<pc>，</pc>除<placeName>福州</placeName>
+<term>觀察使</term>
+<pc>。</pc>嘉泰<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>拜威武軍<term>節度使</term>
 <pc>，</pc>封衛國公<pc>，</pc>聽讀資善堂<pc>。</pc>
@@ -476,7 +557,7 @@
 </p>
 </div>
 <div>
-<p>嚴立為皇太子<pc>，</pc>拜開府儀同<num value="3">三</num>司<pc>，</pc>封榮王<pc>，</pc>更為幬<pc>。</pc>詔禦朝太子侍立<pc>，</pc>宰執日赴資善堂會議<pc>。</pc>尋用天禧故事<pc>，</pc>宰輔大臣並兼師傅<pc>、</pc>賓客<pc>，</pc>太子出居東宮<pc>，</pc>更名詢<pc>。</pc>嘉定<measure quantity="13" unit="years">
+<p>嚴立為皇太子<pc>，</pc>拜開府儀同<num value="3">三</num>司<pc>，</pc>封榮王<pc>，</pc>更為幬<pc>。</pc>詔禦朝太子侍立<pc>，</pc>宰執日赴資善堂會議<pc>。</pc>尋用<date notBefore="1017" notAfter="1021">天禧</date>故事<pc>，</pc>宰輔大臣並兼師傅<pc>、</pc>賓客<pc>，</pc>太子出居東宮<pc>，</pc>更名詢<pc>。</pc>嘉定<measure quantity="13" unit="years">
 <num value="13">十三</num>年</measure>薨<pc>，</pc>年<num value="29">二十九</num>
 <pc>，</pc>諡景獻<pc>。</pc>
 </p>
@@ -501,14 +582,19 @@
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>祭未<pc>，</pc>賜竑子名銓<pc>，</pc>授左<num value="1000">千</num>牛衛大將軍<pc>。</pc>
 <num value="24">丁亥</num>
-<pc>，</pc>銓薨<pc>，</pc>贈複州防禦使<pc>，</pc>追封永寧侯<pc>。</pc>竑上表稱謝<pc>。</pc>
+<pc>，</pc>銓薨<pc>，</pc>贈複州<term>防禦使</term>
+<pc>，</pc>追封永寧侯<pc>。</pc>竑上表稱謝<pc>。</pc>
 </p>
 </div>
 <div>
 <p>竑好鼓琴<pc>，</pc>丞相史彌遠買美人善琴者<pc>，</pc>納諸禦<pc>，</pc>而厚廩其家<pc>，</pc>使美人間竑<pc>，</pc>動息必以告<pc>。</pc>美人知書慧黠<pc>，</pc>竑嬖之<pc>。</pc>宮壁有輿地圖<pc>，</pc>竑指瓊厓曰<pc>：</pc>
-<pc>“</pc>吾他日得誌<pc>，</pc>置 史彌遠於此<pc>。</pc>
-<pc>”</pc>又嚐呼彌遠為<pc>“</pc>新恩<pc>”</pc>
-<pc>。</pc>以他日非新州則恩州也<pc>。</pc>彌遠聞之<pc>，</pc>嚐因<measure quantity="7" unit="months">
+<pc>“</pc>
+<quote>吾他日得誌<pc>，</pc>置 史彌遠於此<pc>。</pc>
+</quote>
+<pc>”</pc>又嚐呼彌遠為<pc>“</pc>
+<quote>新恩</quote>
+<pc>”</pc>
+<pc>。</pc>以他日非新州則<placeName>恩州</placeName>也<pc>。</pc>彌遠聞之<pc>，</pc>嚐因<measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <measure quantity="7" unit="days">
 <num value="7">七</num>日</measure>進乞巧奇玩以覘之<pc>，</pc>竑乘酒碎於地<pc>。</pc>彌遠大懼<pc>，</pc>日夕思以處竑<pc>，</pc>而竑不知 也<pc>。</pc>
@@ -519,38 +605,55 @@
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
 <pc>，</pc>彌遠為其父飯僧淨慈寺<pc>，</pc>獨與國子學錄鄭清之登惠日閣<pc>，</pc>屏人語曰<pc>：</pc>
-<pc>“</pc>皇子不堪負荷<pc>，</pc>聞後沂邸 者甚賢<pc>，</pc>今欲擇講官<pc>，</pc>君其善訓迪之<pc>。</pc>事成<pc>，</pc>彌遠之坐即君坐也<pc>。</pc>然言出於彌遠之口<pc>，</pc>入於君之耳<pc>，</pc>若<num value="1">一</num>語泄者<pc>，</pc>吾與君皆族矣<pc>。</pc>
+<pc>“</pc>
+<quote>皇子不堪負荷<pc>，</pc>聞後沂邸 者甚賢<pc>，</pc>今欲擇講官<pc>，</pc>君其善訓迪之<pc>。</pc>事成<pc>，</pc>彌遠之坐即君坐也<pc>。</pc>然言出於彌遠之口<pc>，</pc>入於君之耳<pc>，</pc>若<num value="1">一</num>語泄者<pc>，</pc>吾與君皆族矣<pc>。</pc>
+</quote>
 <pc>”</pc>清之拱手曰<pc>：</pc>
-<pc>“</pc>不敢<pc>。</pc>
+<pc>“</pc>
+<quote>不敢<pc>。</pc>
+</quote>
 <pc>”</pc>乃以清 之兼魏忠憲王府教授<pc>。</pc>清之日教昀為文<pc>，</pc>又購高宗書俾習焉<pc>。</pc>清之上謁彌遠<pc>，</pc>即以昀詩文翰墨以示<pc>，</pc>彌遠譽之不容口<pc>。</pc>彌遠嚐問清之<pc>：</pc>
-<pc>“</pc>吾聞其賢已熟<pc>，</pc>大要竟何 如<pc>？</pc>
+<pc>“</pc>
+<quote>吾聞其賢已熟<pc>，</pc>大要竟何 如<pc>？</pc>
+</quote>
 <pc>”</pc>清之曰<pc>：</pc>
-<pc>“</pc>其人之賢<pc>，</pc>更仆不能數<pc>，</pc>然<num value="1">一</num>言以斷之曰<pc>：</pc>不凡<pc>。</pc>
+<pc>“</pc>
+<quote>其人之賢<pc>，</pc>更仆不能數<pc>，</pc>然<num value="1">一</num>言以斷之曰<pc>：</pc>不凡<pc>。</pc>
+</quote>
 <pc>”</pc>彌遠頷之再<num value="3">三</num>
 <pc>，</pc>策立之意益堅<pc>。</pc>清之始以小官兼教授<pc>，</pc>其後累遷<pc>，</pc>兼如故<pc>。</pc>
 </p>
 </div>
 <div>
 <p>寧宗崩<pc>，</pc>彌遠始遣清之往<pc>，</pc>告昀以將立之之意<pc>。</pc>再<num value="3">三</num>言之<pc>，</pc>昀默然不應<pc>。</pc>最後清之乃言曰<pc>：</pc>
-<pc>“</pc>丞相以清之從遊之久<pc>，</pc>故使布腹心於足下<pc>。</pc>今足下不答<num value="1">一</num>語<pc>，</pc>則清之將何以複命於丞相<pc>？</pc>
+<pc>“</pc>
+<quote>丞相以清之從遊之久<pc>，</pc>故使布腹心於足下<pc>。</pc>今足下不答<num value="1">一</num>語<pc>，</pc>則清之將何以複命於丞相<pc>？</pc>
+</quote>
 <pc>”</pc>昀始拱手徐答曰<pc>：</pc>
-<pc>“</pc>紹興老母在<pc>。</pc>
+<pc>“</pc>
+<quote>紹興老母在<pc>。</pc>
+</quote>
 <pc>”</pc>清之以告彌遠<pc>，</pc>益相與歎其不凡<pc>。</pc>
 </p>
 </div>
 <div>
 <p>竑跂足以需宣召<pc>，</pc>久而不至<pc>。</pc>彌遠在禁中<pc>，</pc>遣快行宣皇子<pc>，</pc>令之曰<pc>：</pc>
-<pc>“</pc>今所宣是沂靖惠王府皇子<pc>，</pc>非<measure quantity="10000" unit="years">
-<num value="10000">萬</num>歲</measure>巷皇子<pc>，</pc>苟誤<pc>，</pc>則汝曹皆處斬<pc>。</pc>
+<pc>“</pc>
+<quote>今所宣是沂靖惠王府皇子<pc>，</pc>非<num value="10000">萬</num>歲巷皇子<pc>，</pc>苟誤<pc>，</pc>則汝曹皆處斬<pc>。</pc>
+</quote>
 <pc>”</pc>竑不能自己<pc>，</pc>屬目牆壁間<pc>，</pc>見快行過其府而不入<pc>，</pc>疑焉<pc>。</pc>己而擁<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>徑過<pc>，</pc>天已暝<pc>，</pc>不知其為誰<pc>，</pc>甚惑<pc>。</pc>
 </p>
 </div>
 <div>
 <p>昀既至<pc>，</pc>彌遠引入柩前<pc>，</pc>舉哀畢<pc>，</pc>然後召竑<pc>。</pc>竑聞命亟赴<pc>，</pc>至則每過宮門<pc>，</pc>禁衛拒其從者<pc>。</pc>彌遠亦引入柩前<pc>，</pc>舉哀畢<pc>，</pc>引出帷<pc>，</pc>殿帥夏震守之<pc>。</pc>既而召<num value="100">百</num>官立班聽 遺製<pc>，</pc>則引竑仍就舊班<pc>，</pc>竑愕然曰<pc>：</pc>
-<pc>“</pc>今日之事<pc>，</pc>我豈當仍在此班<pc>？</pc>
+<pc>“</pc>
+<quote>今日之事<pc>，</pc>我豈當仍在此班<pc>？</pc>
+</quote>
 <pc>”</pc>震紿之曰<pc>：</pc>
-<pc>“</pc>未宣製以前當在此<pc>，</pc>宣製後乃即位耳<pc>。</pc>
+<pc>“</pc>
+<quote>未宣製以前當在此<pc>，</pc>宣製後乃即位耳<pc>。</pc>
+</quote>
 <pc>”</pc>竑以為然<pc>。</pc>未幾<pc>，</pc>遙見燭影中<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>已在 禦坐<pc>，</pc>宣製畢<pc>，</pc>閣門讚呼<pc>，</pc>
 <num value="100">百</num>官拜舞<pc>，</pc>賀新皇帝即位<pc>。</pc>竑不肯拜<pc>，</pc>震捽其首下拜<pc>。</pc>皇後矯遺詔<pc>：</pc>竑開府儀同<num value="3">三</num>司<pc>，</pc>進封濟陽郡王<pc>，</pc>判寧國府<pc>。</pc>帝因加竑少保<pc>，</pc>進封濟 王<pc>。</pc>
@@ -565,10 +668,14 @@
 </measure>
 <num value="7">庚午</num>
 <pc>，</pc>湖州人潘壬與其弟丙謀立竑<pc>，</pc>竑聞變匿水竇中<pc>，</pc>壬等得之<pc>，</pc>擁至州治<pc>，</pc>以黃袍加身<pc>。</pc>竑號泣不從<pc>，</pc>不獲已<pc>，</pc>與之約曰<pc>：</pc>
-<pc>“</pc>汝能勿傷太後<pc>、</pc>官家乎<pc>？</pc>
+<pc>“</pc>
+<quote>汝能勿傷太後<pc>、</pc>官家乎<pc>？</pc>
+</quote>
 <pc>”</pc>眾許諾<pc>。</pc>遂發軍資庫金帛<pc>、</pc>會子犒軍<pc>，</pc>命守臣謝周卿率官屬入賀<pc>，</pc>偽為李全榜揭於門<pc>，</pc>數彌遠廢立 罪<pc>，</pc>雲<pc>：</pc>
-<pc>“</pc>今領精兵<num value="200000">二十萬</num>
+<pc>“</pc>
+<quote>今領精兵<num value="200000">二十萬</num>
 <pc>，</pc>水陸進討<pc>。</pc>
+</quote>
 <pc>”</pc>比明視之<pc>，</pc>皆太湖漁人及巡尉兵卒<pc>，</pc>不滿<measure quantity="100" unit="people">
 <num value="100">百</num>人</measure>耳<pc>。</pc>竑知其謀不成<pc>，</pc>率州兵討之<pc>。</pc>遣王元春告於朝<pc>，</pc>彌遠命殿司將彭任討 之<pc>，</pc>至則事平<pc>。</pc>彌遠令客秦天錫托召醫治竑疾<pc>，</pc>竑本無疾<pc>。</pc>
 <num value="23">丙戌</num>
@@ -585,7 +692,8 @@
 <p>端平元年<pc>，</pc>詔複官爵<pc>。</pc>妻吳氏為比丘尼<pc>，</pc>賜惠淨法空大師<pc>，</pc>月給缽錢<num value="100">百</num>貫<pc>。</pc>景定<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>度宗降詔<pc>，</pc>追複元贈<term>節度使</term>
-<pc>。</pc>德祐元年<pc>，</pc>提領戶部財用兼修國史常楙請立竑 後<pc>，</pc>試禮部侍郎兼中書舍人<persName>王應麟</persName>請更封大國<pc>，</pc>表墓錫諡<pc>，</pc>命大宗正司議選擇立後<pc>，</pc>迎善氣<pc>，</pc>銷惡運<pc>，</pc>莫先於此<pc>。</pc>下禮部議<pc>，</pc>贈太師<pc>、</pc>尚書令<pc>，</pc>依舊<term>節度使</term>
+<pc>。</pc>德祐元年<pc>，</pc>提領戶部財用兼修國史常楙請立竑 後<pc>，</pc>試禮部侍郎兼<term>中書舍人</term>
+<persName>王應麟</persName>請更封大國<pc>，</pc>表墓錫諡<pc>，</pc>命大宗正司議選擇立後<pc>，</pc>迎善氣<pc>，</pc>銷惡運<pc>，</pc>莫先於此<pc>。</pc>下禮部議<pc>，</pc>贈太師<pc>、</pc>尚書令<pc>，</pc>依舊<term>節度使</term>
 <pc>，</pc>升封鎮 王<pc>，</pc>諡昭肅<pc>。</pc>以田<num value="10000">萬</num>畝賜其家<pc>，</pc>遣應麟致祭<pc>。</pc>
 </p>
 </div>

@@ -24,20 +24,20 @@
 <body>
 <div type="chapter" n="192">
 <div>
-<p>
-<name key="null" type="null">◎兵<num value="6">六</num>
-</name>
+<p>◎兵<num value="6">六</num>
 <pc>（</pc>鄉兵<num value="3">三</num>
-<pc>）</pc>○保甲建炎後鄉兵建炎後砦兵</p>
+<pc>）</pc>○保甲<date notBefore="1127" notAfter="1130">建炎</date>後鄉兵<date notBefore="1127" notAfter="1130">建炎</date>後砦兵</p>
 </div>
 <div>
-<p>保甲熙寧初<pc>，</pc>
+<p>保甲<date notBefore="1068" notAfter="1077">熙寧</date>初<pc>，</pc>
 <persName>王安石</persName>變募兵而行保甲<pc>，</pc>帝從其議<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>始聯比其民以相保任<pc>。</pc>及詔畿內之民<num value="10">十</num>家為<num value="1">一</num>保<pc>，</pc>選主戶有幹力者<measure quantity="1" unit="people">
+<pc>，</pc>始聯比其民以相保任<pc>。</pc>及詔畿內之民<measure quantity="10" unit="households">
+<num value="10">十</num>家</measure>為<num value="1">一</num>保<pc>，</pc>選主戶有幹力者<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>為保長<pc>。</pc>
-<num value="50">五十</num>家為<num value="1">一</num>大保<pc>，</pc>選<measure quantity="1" unit="people">
+<measure quantity="50" unit="households">
+<num value="50">五十</num>家</measure>為<num value="1">一</num>大保<pc>，</pc>選<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>為大保長<pc>。</pc>
 <num value="10">十</num>大保為<num value="1">一</num>都保<pc>，</pc>選為眾所服者為都保正<pc>，</pc>又以<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>為之副<pc>。</pc>應主客戶兩丁以上<pc>，</pc>選<measure quantity="1" unit="people">
@@ -46,7 +46,11 @@
 <num value="3">三</num>人</measure>
 <pc>，</pc>經<measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>
-<pc>，</pc>保鄰雖不知情<pc>，</pc>科失覺罪<pc>。</pc>逃移<pc>、</pc>死絕<pc>、</pc>同保不及<num value="5">五</num>家<pc>，</pc>並他保<pc>。</pc>有自外入保者<pc>，</pc>收為同保<pc>，</pc>戶數足則附之<pc>，</pc>俟及<num value="10">十</num>家<pc>，</pc>則別為保<pc>，</pc>置牌以書其戶數姓名<pc>。</pc>既行之畿甸<pc>，</pc>遂推之<num value="5">五</num>路<pc>，</pc>以達於天下<pc>。</pc>時則以捕盜賊相保任<pc>，</pc>而未肄以武事也<pc>。</pc>
+<pc>，</pc>保鄰雖不知情<pc>，</pc>科失覺罪<pc>。</pc>逃移<pc>、</pc>死絕<pc>、</pc>同保不及<measure quantity="5" unit="households">
+<num value="5">五</num>家</measure>
+<pc>，</pc>並他保<pc>。</pc>有自外入保者<pc>，</pc>收為同保<pc>，</pc>戶數足則附之<pc>，</pc>俟及<measure quantity="10" unit="households">
+<num value="10">十</num>家</measure>
+<pc>，</pc>則別為保<pc>，</pc>置牌以書其戶數姓名<pc>。</pc>既行之畿甸<pc>，</pc>遂推之<num value="5">五</num>路<pc>，</pc>以達於天下<pc>。</pc>時則以捕盜賊相保任<pc>，</pc>而未肄以武事也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -66,9 +70,12 @@
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>右正言<pc>、</pc>知製誥<pc>、</pc>判司農寺曾布言<pc>：</pc>
-<pc>“</pc>近日保戶數以狀詣縣<pc>，</pc>願分番隸巡檢司習武技<pc>，</pc>提點司以聞朝廷及司農寺<pc>，</pc>未敢輒議<pc>，</pc>願下提點司送中書詳審<pc>，</pc>付司農具為令<pc>。</pc>
+<pc>“</pc>
+<quote>近日保戶數以狀詣縣<pc>，</pc>願分番隸巡檢司習武技<pc>，</pc>提點司以聞朝廷及司農寺<pc>，</pc>未敢輒議<pc>，</pc>願下提點司送中書詳審<pc>，</pc>付司農具為令<pc>。</pc>
+</quote>
 <pc>”</pc>於是詔<pc>：</pc>
-<pc>“</pc>主戶保丁願上番於巡檢司<pc>，</pc>
+<pc>“</pc>
+<quote>主戶保丁願上番於巡檢司<pc>，</pc>
 <measure quantity="10" unit="days">
 <num value="10">十</num>日</measure>
 <num value="1">一</num>更<pc>，</pc>疾故者次番代之<pc>。</pc>月給口糧<pc>、</pc>薪菜錢<pc>，</pc>分番巡警<pc>，</pc>每<measure quantity="50" unit="people">
@@ -80,6 +87,7 @@
 <pc>，</pc>大保長<num value="3000">三千</num>
 <pc>。</pc>當番者毋得輒離本所<pc>。</pc>捕逐劇盜<pc>，</pc>雖下番人亦聽追集<pc>，</pc>給其錢斛<pc>，</pc>事訖遣還<pc>，</pc>毋過上番人數<pc>，</pc>仍折除其上番日<pc>。</pc>巡檢司量留廂界給使<pc>，</pc>餘兵悉罷<pc>。</pc>應番保丁武技及第<num value="3">三</num>等已上<pc>，</pc>並記於籍<pc>。</pc>遇歲凶<pc>，</pc>
 <num value="5">五</num>分已上者第振之<pc>，</pc>自<num value="15">十五</num>石至<num value="3">三</num>石為差<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
@@ -139,11 +147,14 @@
 <num value="4">四</num>人</measure>
 <pc>，</pc>永興<pc>、</pc>秦鳳等路<measure quantity="7" unit="people">
 <num value="7">七</num>人</measure>
-<pc>。</pc>都保正<pc>、</pc>指揮使與下班殿侍<pc>，</pc>副保正<pc>、</pc>副指揮使與<num value="3">三</num>司軍將<pc>，</pc>正副都頭與守闕軍將<pc>，</pc>並賜衣及銀帶<pc>、</pc>銀裹頭杖<pc>，</pc>給馬有差<pc>。</pc>
+<pc>。</pc>都保正<pc>、</pc>指揮使與下班殿侍<pc>，</pc>副保正<pc>、</pc>
+<term>副指揮</term>使與<num value="3">三</num>司軍將<pc>，</pc>正副都頭與守闕軍將<pc>，</pc>並賜衣及銀帶<pc>、</pc>銀裹頭杖<pc>，</pc>給馬有差<pc>。</pc>
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>保甲隸司農<pc>，</pc>熙寧<measure quantity="8" unit="years">
+<p>初<pc>，</pc>保甲隸司農<pc>，</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>改隸兵部<pc>，</pc>增同判<num value="1">一</num>
 <pc>、</pc>主簿<num value="2">二</num>
@@ -155,7 +166,8 @@
 <title>
 <num value="5">五</num>路義勇保甲敕</title>
 <pc>》</pc>
-<pc>。</pc>元豐元年<pc>，</pc>翰林學士<pc>、</pc>權判尚書兵部許將修<pc>《</pc>
+<pc>。</pc>
+<date notBefore="1078" notAfter="1085">元豐</date>元年<pc>，</pc>翰林學士<pc>、</pc>權判尚書兵部許將修<pc>《</pc>
 <title>開封府界保甲敕</title>
 <pc>》</pc>
 <pc>，</pc>成書上之<pc>，</pc>詔皆頒焉<pc>。</pc>
@@ -206,24 +218,24 @@
 <p>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>改<num value="5">五</num>路義勇為保甲<pc>。</pc>狄諮<pc>、</pc>劉定部領澶州集教大保長<measure quantity="482" unit="people">
+<pc>，</pc>改<num value="5">五</num>路義勇為保甲<pc>。</pc>狄諮<pc>、</pc>劉定部領<placeName>澶州</placeName>集教大保長<measure quantity="482" unit="people">
 <num value="482">四百八十二</num>人</measure>見於崇政殿<pc>，</pc>召執政賜坐閱試<pc>，</pc>補<num value="3">三</num>班借職<pc>、</pc>差使<pc>、</pc>借差凡<measure quantity="36" unit="people">
 <num value="36">三十六</num>人</measure>
 <pc>，</pc>餘賜金帛有差<pc>。</pc>遷諮<num value="4">四</num>方館使<pc>，</pc>定集賢校理<pc>。</pc>又詔曰<pc>：</pc>
 <pc>“</pc>
+<quote>
 <num value="3">三</num>路見訓民兵非久<pc>，</pc>什長藝成<pc>，</pc>須便行府界團教之<pc>，</pc>錢糧<pc>、</pc>官吏並如畿縣<pc>，</pc>未知及期能辦與不<pc>。</pc>若更稽延日月<pc>，</pc>必致有誤措置大法<pc>，</pc>可令承旨取索會校之<pc>。</pc>
+</quote>
 <pc>”</pc>其年<pc>，</pc>府界<pc>、</pc>河北<pc>、</pc>河東<pc>、</pc>陝西路會校保甲<pc>，</pc>都保凡<num value="3266">三千二百六十六</num>
 <pc>，</pc>正長<pc>、</pc>壯丁凡<num value="691945">六十九萬一千九百四十五</num>
 <pc>，</pc>歲省舊費緡錢<num value="1661483">一百六十六萬一千四百八十三</num>
 <pc>，</pc>歲費緡錢<num value="313166">三十一萬三千一百六十六</num>
-<pc>，</pc>而團教之賞為錢<num value="1000000">一百萬</num>有奇不與焉<pc>。</pc>凡集教<pc>、</pc>團教成<pc>，</pc>歲遣使則謂之提舉按閱<pc>，</pc>率以近臣挾內侍往給賞錢<pc>，</pc>按格令從事<pc>。</pc>諸路皆以番次藝成者為序<pc>，</pc>率<measure quantity="30" unit="years">
-<num value="30">五六</num>歲</measure>
-<num value="1">一</num>遍<pc>，</pc>獨河東以金帛不足<pc>，</pc>乃至<measure quantity="11" unit="years">
-<num value="11">十一</num>歲</measure>
-<pc>。</pc>上以晉人勇悍<pc>，</pc>介遼<pc>、</pc>夏間<pc>，</pc>講勸宜不可後<pc>，</pc>詔賜緡錢<num value="150000">十五萬</num>
+<pc>，</pc>而團教之賞為錢<num value="1000000">一百萬</num>有奇不與焉<pc>。</pc>凡集教<pc>、</pc>團教成<pc>，</pc>歲遣使則謂之提舉按閱<pc>，</pc>率以近臣挾內侍往給賞錢<pc>，</pc>按格令從事<pc>。</pc>諸路皆以番次藝成者為序<pc>，</pc>率<num value="30">五六</num>歲<num value="1">一</num>遍<pc>，</pc>獨河東以金帛不足<pc>，</pc>乃至<num value="11">十一</num>歲<pc>。</pc>上以晉人勇悍<pc>，</pc>介遼<pc>、</pc>夏間<pc>，</pc>講勸宜不可後<pc>，</pc>詔賜緡錢<num value="150000">十五萬</num>
 <pc>。</pc>時係籍義勇<pc>、</pc>保甲及民兵凡<measure quantity="7182028" unit="people">
 <num value="7182028">七百一十八萬二千二十八</num>人</measure>雲<pc>。</pc>
-<pc>（</pc>熙寧<measure quantity="9" unit="years">
+<pc>（</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>之數<pc>。</pc>
 <pc>）</pc>
 </p>
@@ -234,103 +246,156 @@
 </div>
 <div>
 <p>帝嚐論租庸調法而善之<pc>，</pc>安石對曰<pc>：</pc>
-<pc>“</pc>此法近井田<pc>，</pc>後世立事粗得先王遺意<pc>，</pc>則無不善<pc>。</pc>今亦無不可為<pc>。</pc>顧難速成爾<pc>。</pc>
+<pc>“</pc>
+<quote>此法近井田<pc>，</pc>後世立事粗得先王遺意<pc>，</pc>則無不善<pc>。</pc>今亦無不可為<pc>。</pc>顧難速成爾<pc>。</pc>
+</quote>
 <pc>”</pc>及帝再問<pc>，</pc>則曰<pc>：</pc>
-<pc>“</pc>人主誠能知天下利害<pc>，</pc>以其所謂害者製法<pc>，</pc>而加於兼並之人<pc>，</pc>則人自不敢保過限之田<pc>；</pc>以其所謂利者製法<pc>，</pc>而加於力耕之人<pc>，</pc>則人自勸於力耕<pc>，</pc>而授田不能過限<pc>。</pc>然此須漸乃能成法<pc>。</pc>使人主誠知利害之權<pc>，</pc>因以好惡加之<pc>，</pc>則所好何患人之不從<pc>，</pc>所惡何患人之不避<pc>？</pc>若人主無道以揆之<pc>，</pc>則多為異議所奪<pc>，</pc>雖有善法<pc>，</pc>何由立哉<pc>？</pc>
+<pc>“</pc>
+<quote>人主誠能知天下利害<pc>，</pc>以其所謂害者製法<pc>，</pc>而加於兼並之人<pc>，</pc>則人自不敢保過限之田<pc>；</pc>以其所謂利者製法<pc>，</pc>而加於力耕之人<pc>，</pc>則人自勸於力耕<pc>，</pc>而授田不能過限<pc>。</pc>然此須漸乃能成法<pc>。</pc>使人主誠知利害之權<pc>，</pc>因以好惡加之<pc>，</pc>則所好何患人之不從<pc>，</pc>所惡何患人之不避<pc>？</pc>若人主無道以揆之<pc>，</pc>則多為異議所奪<pc>，</pc>雖有善法<pc>，</pc>何由立哉<pc>？</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>帝謂府兵與租庸調法相須<pc>，</pc>安石則曰<pc>：</pc>
-<pc>“</pc>今義勇<pc>、</pc>土軍上番供役<pc>，</pc>既有廩給<pc>，</pc>則無貧富皆可以入衛出戍<pc>，</pc>雖無租庸調法<pc>，</pc>亦自可為<pc>。</pc>第義勇皆良民<pc>，</pc>當以禮義獎養<pc>。</pc>今皆倒置者<pc>，</pc>以涅其手背也<pc>，</pc>教閱而縻費也<pc>，</pc>使之運糧也<pc>。</pc>
+<pc>“</pc>
+<quote>今義勇<pc>、</pc>土軍上番供役<pc>，</pc>既有廩給<pc>，</pc>則無貧富皆可以入衛出戍<pc>，</pc>雖無租庸調法<pc>，</pc>亦自可為<pc>。</pc>第義勇皆良民<pc>，</pc>當以禮義獎養<pc>。</pc>今皆倒置者<pc>，</pc>以涅其手背也<pc>，</pc>教閱而縻費也<pc>，</pc>使之運糧也<pc>。</pc>
 <num value="3">三</num>者皆人所不樂<pc>，</pc>若更毆之就敵<pc>，</pc>使被殺戮<pc>，</pc>尤人所憚也<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>馮京曰<pc>：</pc>
-<pc>“</pc>義勇亦有以挽強得試推恩者<pc>。</pc>
+<pc>“</pc>
+<quote>義勇亦有以挽強得試推恩者<pc>。</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>挽強而力有不足<pc>，</pc>則絕於進取<pc>，</pc>是朝廷有推恩之濫<pc>。</pc>初非勸獎使人趨武用也<pc>。</pc>今欲措置義勇皆當反此<pc>，</pc>使害在於不為義勇<pc>，</pc>而利在於為義勇<pc>，</pc>則俗可變而眾技可成<pc>。</pc>臣願擇鄉閭豪傑以為將校<pc>，</pc>稍加獎拔<pc>，</pc>則人自悅服<pc>。</pc>矧今募兵為宿衛<pc>，</pc>及有積官至<term>刺史</term>以上者<pc>。</pc>移此與彼<pc>，</pc>固無不可<pc>，</pc>況不至如此費官祿<pc>，</pc>已足使人樂為哉<pc>！</pc>陛下誠能審擇<pc>，</pc>近臣皆有政事之材<pc>，</pc>則異時可使分將此等軍矣<pc>。</pc>今募兵出於無賴之人<pc>，</pc>尚可為軍<pc>、</pc>廂主<pc>，</pc>則近臣以上豈不及此輩<pc>，</pc>此乃先王成法<pc>，</pc>社稷之長計也<pc>。</pc>
+<pc>“</pc>
+<quote>挽強而力有不足<pc>，</pc>則絕於進取<pc>，</pc>是朝廷有推恩之濫<pc>。</pc>初非勸獎使人趨武用也<pc>。</pc>今欲措置義勇皆當反此<pc>，</pc>使害在於不為義勇<pc>，</pc>而利在於為義勇<pc>，</pc>則俗可變而眾技可成<pc>。</pc>臣願擇鄉閭豪傑以為將校<pc>，</pc>稍加獎拔<pc>，</pc>則人自悅服<pc>。</pc>矧今募兵為宿衛<pc>，</pc>及有積官至<term>刺史</term>以上者<pc>。</pc>移此與彼<pc>，</pc>固無不可<pc>，</pc>況不至如此費官祿<pc>，</pc>已足使人樂為哉<pc>！</pc>陛下誠能審擇<pc>，</pc>近臣皆有政事之材<pc>，</pc>則異時可使分將此等軍矣<pc>。</pc>今募兵出於無賴之人<pc>，</pc>尚可為軍<pc>、</pc>廂主<pc>，</pc>則近臣以上豈不及此輩<pc>，</pc>此乃先王成法<pc>，</pc>社稷之長計也<pc>。</pc>
+</quote>
 <pc>”</pc>帝以為然<pc>。</pc>
 </p>
 </div>
 <div>
 <p>時有欲以義勇代正兵者<pc>，</pc>
 <persName>曾公亮</persName>以為置義勇<pc>、</pc>弓手<pc>，</pc>漸可以省正兵<pc>。</pc>安石曰<pc>：</pc>
-<pc>“</pc>誠然<pc>，</pc>第今江<pc>、</pc>淮置新弓手<pc>，</pc>適足以傷農<pc>。</pc>
+<pc>“</pc>
+<quote>誠然<pc>，</pc>第今江<pc>、</pc>淮置新弓手<pc>，</pc>適足以傷農<pc>。</pc>
+</quote>
 <pc>”</pc>
 <persName>富弼</persName>亦論京西弓手非便<pc>。</pc>安石曰<pc>：</pc>
-<pc>“</pc>揆文教<pc>，</pc>奮武衛<pc>，</pc>先王所以待遠邇者固不同<pc>。</pc>今處置江<pc>、</pc>淮與<num value="3">三</num>邊<pc>，</pc>事當有異<pc>。</pc>
+<pc>“</pc>
+<quote>揆文教<pc>，</pc>奮武衛<pc>，</pc>先王所以待遠邇者固不同<pc>。</pc>今處置江<pc>、</pc>淮與<num value="3">三</num>邊<pc>，</pc>事當有異<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>帝又言節財用<pc>，</pc>安石對以減兵最急<pc>。</pc>帝曰<pc>：</pc>
-<pc>“</pc>比慶曆數已甚減矣<pc>。</pc>
+<pc>“</pc>
+<quote>比<date notBefore="1041" notAfter="1048">慶曆</date>數已甚減矣<pc>。</pc>
+</quote>
 <pc>”</pc>因舉河北<pc>、</pc>陝西兵數<pc>，</pc>慮募兵太少<pc>，</pc>又訓擇不精<pc>，</pc>緩急或闕事<pc>。</pc>安石則曰<pc>：</pc>
-<pc>“</pc>精訓練募兵而鼓舞<num value="3">三</num>路之民習兵<pc>，</pc>則兵可省<pc>。</pc>臣屢言河北舊為武人割據<pc>，</pc>內抗朝廷<pc>，</pc>外敵<num value="4">四</num>鄰<pc>，</pc>亦有禦奚<pc>、</pc>契丹者<pc>，</pc>兵儲不外求而足<pc>。</pc>今河北戶口蕃息<pc>，</pc>又舉天下財物奉之<pc>，</pc>常若不足<pc>。</pc>以當<num value="1">一</num>麵之敵<pc>，</pc>其施設乃不如武人割據時<pc>。</pc>則<num value="3">三</num>路事有當講畫者<pc>，</pc>在專用其民而已<pc>。</pc>
+<pc>“</pc>
+<quote>精訓練募兵而鼓舞<num value="3">三</num>路之民習兵<pc>，</pc>則兵可省<pc>。</pc>臣屢言河北舊為武人割據<pc>，</pc>內抗朝廷<pc>，</pc>外敵<num value="4">四</num>鄰<pc>，</pc>亦有禦奚<pc>、</pc>契丹者<pc>，</pc>兵儲不外求而足<pc>。</pc>今河北戶口蕃息<pc>，</pc>又舉天下財物奉之<pc>，</pc>常若不足<pc>。</pc>以當<num value="1">一</num>麵之敵<pc>，</pc>其施設乃不如武人割據時<pc>。</pc>則<num value="3">三</num>路事有當講畫者<pc>，</pc>在專用其民而已<pc>。</pc>
+</quote>
 <pc>”</pc>帝又言<pc>：</pc>
-<pc>“</pc>邊兵不足以守<pc>，</pc>徒費衣廩<pc>。</pc>然固邊圉又不可悉減<pc>。</pc>
+<pc>“</pc>
+<quote>邊兵不足以守<pc>，</pc>徒費衣廩<pc>。</pc>然固邊圉又不可悉減<pc>。</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>今更減兵<pc>，</pc>即誠無以待急緩<pc>；</pc>不減<pc>，</pc>則費財困國無已時<pc>。</pc>臣以謂儻不能理兵<pc>，</pc>稍複古製<pc>，</pc>則中國無富強之理<pc>。</pc>
+<pc>“</pc>
+<quote>今更減兵<pc>，</pc>即誠無以待急緩<pc>；</pc>不減<pc>，</pc>則費財困國無已時<pc>。</pc>臣以謂儻不能理兵<pc>，</pc>稍複古製<pc>，</pc>則中國無富強之理<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>帝曰<pc>：</pc>
-<pc>“</pc>唐都長安<pc>，</pc>府兵多在關中<pc>，</pc>則為強本<pc>。</pc>今都關東而府兵盛<pc>。</pc>則京師反不足待<num value="4">四</num>方<pc>。</pc>
+<pc>“</pc>
+<quote>唐都長安<pc>，</pc>府兵多在關中<pc>，</pc>則為強本<pc>。</pc>今都關東而府兵盛<pc>。</pc>則京師反不足待<num value="4">四</num>方<pc>。</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>府兵在處可為<pc>，</pc>又可令入衛<pc>，</pc>則不患本不強<pc>。</pc>
+<pc>“</pc>
+<quote>府兵在處可為<pc>，</pc>又可令入衛<pc>，</pc>則不患本不強<pc>。</pc>
+</quote>
 <pc>”</pc>韓絳<pc>、</pc>呂公弼皆以入衛為難<pc>。</pc>文彥博曰<pc>：</pc>
-<pc>“</pc>如曹<pc>、</pc>濮人專為盜賊<pc>，</pc>豈宜使入衛<pc>？</pc>
+<pc>“</pc>
+<quote>如曹<pc>、</pc>濮人專為盜賊<pc>，</pc>豈宜使入衛<pc>？</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>曹<pc>、</pc>濮人豈無應募<pc>？</pc>皆暴猾無賴之人<pc>，</pc>尚不以為虞<pc>；</pc>義勇皆良民<pc>，</pc>又以物力戶為將校<pc>，</pc>豈當複以為可虞也<pc>？</pc>
+<pc>“</pc>
+<quote>曹<pc>、</pc>濮人豈無應募<pc>？</pc>皆暴猾無賴之人<pc>，</pc>尚不以為虞<pc>；</pc>義勇皆良民<pc>，</pc>又以物力戶為將校<pc>，</pc>豈當複以為可虞也<pc>？</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>陳升之欲令義勇以漸戍近州<pc>。</pc>安石曰<pc>：</pc>
-<pc>“</pc>陛下若欲去數<measure quantity="100" unit="years">
+<p>
+<persName>陳升之</persName>欲令義勇以漸戍近州<pc>。</pc>安石曰<pc>：</pc>
+<pc>“</pc>
+<quote>陛下若欲去數<measure quantity="100" unit="years">
 <num value="100">百</num>年</measure>募兵之敝<pc>，</pc>則宜果斷<pc>，</pc>詳立法製<pc>，</pc>令本末備具<pc>。</pc>不然<pc>，</pc>無補也<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>製而用之<pc>，</pc>在法當預立條製<pc>，</pc>以漸推行<pc>。</pc>
+<pc>“</pc>
+<quote>製而用之<pc>，</pc>在法當預立條製<pc>，</pc>以漸推行<pc>。</pc>
+</quote>
 <pc>”</pc>彥博等又以為土兵難使<num value="1000">千</num>裏出戍<pc>。</pc>安石曰<pc>：</pc>
-<pc>“</pc>前代征流求<pc>，</pc>討黨項<pc>，</pc>豈非府兵乎<pc>？</pc>
+<pc>“</pc>
+<quote>前代征流求<pc>，</pc>討黨項<pc>，</pc>豈非府兵乎<pc>？</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>募兵專於戰守<pc>，</pc>故可恃<pc>；</pc>至民兵<pc>，</pc>則兵農之業相半<pc>，</pc>可恃以戰守乎<pc>？</pc>
+<pc>“</pc>
+<quote>募兵專於戰守<pc>，</pc>故可恃<pc>；</pc>至民兵<pc>，</pc>則兵農之業相半<pc>，</pc>可恃以戰守乎<pc>？</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>唐以前未有黥兵<pc>，</pc>然亦可以戰守<pc>。</pc>臣以謂募兵與民兵無異<pc>，</pc>顧所用將帥如何爾<pc>。</pc>將帥非難求<pc>，</pc>但人主能察見群臣情偽<pc>，</pc>善駕禦之<pc>，</pc>則人材出而為用<pc>，</pc>不患無將帥<pc>。</pc>有將帥<pc>，</pc>則不患民兵不為用矣<pc>。</pc>
+<pc>“</pc>
+<quote>唐以前未有黥兵<pc>，</pc>然亦可以戰守<pc>。</pc>臣以謂募兵與民兵無異<pc>，</pc>顧所用將帥如何爾<pc>。</pc>將帥非難求<pc>，</pc>但人主能察見群臣情偽<pc>，</pc>善駕禦之<pc>，</pc>則人材出而為用<pc>，</pc>不患無將帥<pc>。</pc>有將帥<pc>，</pc>則不患民兵不為用矣<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>帝曰<pc>：</pc>
-<pc>“</pc>經遠之策<pc>，</pc>必至什伍其民<pc>，</pc>費省而兵眾<pc>，</pc>且與募兵相為用矣<pc>。</pc>
+<pc>“</pc>
+<quote>經遠之策<pc>，</pc>必至什伍其民<pc>，</pc>費省而兵眾<pc>，</pc>且與募兵相為用矣<pc>。</pc>
+</quote>
 <pc>”</pc>安石對曰<pc>：</pc>
-<pc>“</pc>欲公私財用不匱<pc>，</pc>為宗社長久計<pc>，</pc>募兵水法誠當變革<pc>。</pc>
+<pc>“</pc>
+<quote>欲公私財用不匱<pc>，</pc>為宗社長久計<pc>，</pc>募兵水法誠當變革<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>密院以為必有建中之變<pc>。</pc>
+<pc>“</pc>
+<quote>密院以為必有建中之變<pc>。</pc>
+</quote>
 <pc>”</pc>安石對曰<pc>：</pc>
-<pc>“</pc>陛下躬行德義<pc>，</pc>憂勤政事<pc>，</pc>上下不蔽<pc>，</pc>必無此理<pc>。</pc>建中所以致變<pc>，</pc>德宗用盧杞之徒而疏陸贄<pc>，</pc>其不亡者幸也<pc>。</pc>
+<pc>“</pc>
+<quote>陛下躬行德義<pc>，</pc>憂勤政事<pc>，</pc>上下不蔽<pc>，</pc>必無此理<pc>。</pc>建中所以致變<pc>，</pc>德宗用盧杞之徒而疏陸贄<pc>，</pc>其不亡者幸也<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>時開封鞫保戶有質衣而買弓箭者<pc>，</pc>帝恐其貧乏<pc>，</pc>難於出備<pc>。</pc>安石曰<pc>：</pc>
-<pc>“</pc>民貧宜有之<pc>，</pc>抑民使置弓箭<pc>，</pc>則法所弗去也<pc>。</pc>往者冬閱及巡檢番上<pc>，</pc>唯就用在官弓矢<pc>，</pc>不知<num value="100">百</num>姓何故至於質衣也<pc>。</pc>然自生民以來<pc>。</pc>兵農為<num value="1">一</num>
+<pc>“</pc>
+<quote>民貧宜有之<pc>，</pc>抑民使置弓箭<pc>，</pc>則法所弗去也<pc>。</pc>往者冬閱及巡檢番上<pc>，</pc>唯就用在官弓矢<pc>，</pc>不知<num value="100">百</num>姓何故至於質衣也<pc>。</pc>然自生民以來<pc>。</pc>兵農為<num value="1">一</num>
 <pc>，</pc>耒耜以養生<pc>，</pc>弓矢以免死<pc>，</pc>皆凡民所宜自具<pc>，</pc>未有造耒耜<pc>、</pc>弓矢以給<num value="100">百</num>姓者也<pc>。</pc>然則雖使<num value="100">百</num>姓置弓矢<pc>，</pc>亦不為過<pc>。</pc>第陛下優恤<num value="100">百</num>姓甚至<pc>，</pc>故今立法<pc>，</pc>
 <num value="1">一</num>聽民便爾<pc>。</pc>且府界素多群盜<pc>，</pc>攻劫殺掠<pc>，</pc>
-<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>之間至<num value="200">二百</num>火<pc>，</pc>逐火皆有賞錢<pc>，</pc>備賞之人即今保丁也<pc>。</pc>方其備賞之時<pc>，</pc>豈無賣易衣服以納官賞者<pc>？</pc>然人皆以謂賞錢宜出於<num value="100">百</num>姓<pc>。</pc>夫出錢之多不足以止盜<pc>，</pc>而保甲之能止盜<pc>，</pc>其效已見<pc>，</pc>則雖令民出少錢以置器械<pc>，</pc>未有損也<pc>。</pc>
+<num value="1">一</num>歲之間至<num value="200">二百</num>火<pc>，</pc>逐火皆有賞錢<pc>，</pc>備賞之人即今保丁也<pc>。</pc>方其備賞之時<pc>，</pc>豈無賣易衣服以納官賞者<pc>？</pc>然人皆以謂賞錢宜出於<num value="100">百</num>姓<pc>。</pc>夫出錢之多不足以止盜<pc>，</pc>而保甲之能止盜<pc>，</pc>其效已見<pc>，</pc>則雖令民出少錢以置器械<pc>，</pc>未有損也<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>賞錢人所習慣<pc>，</pc>則安之如自然<pc>；</pc>不習慣<pc>，</pc>則不能無怨<pc>。</pc>如何決壞民產<pc>，</pc>民不怨<pc>；</pc>決河以壞民產<pc>，</pc>則怨矣<pc>。</pc>
+<pc>“</pc>
+<quote>賞錢人所習慣<pc>，</pc>則安之如自然<pc>；</pc>不習慣<pc>，</pc>則不能無怨<pc>。</pc>如何決壞民產<pc>，</pc>民不怨<pc>；</pc>決河以壞民產<pc>，</pc>則怨矣<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>帝嚐批<pc>：</pc>
-<pc>“</pc>陳留縣所行保甲<pc>，</pc>每<measure quantity="10" unit="people">
+<pc>“</pc>
+<quote>陳留縣所行保甲<pc>，</pc>每<measure quantity="10" unit="people">
 <num value="10">十</num>人</measure>
 <num value="1">一</num>小保<pc>，</pc>中<measure quantity="3" unit="people">
 <num value="3">三</num>人</measure>或<measure quantity="5" unit="people">
@@ -340,31 +405,48 @@
 <num value="10">十</num>箭至<num value="4200">六七百</num>
 <pc>，</pc>當青黃不接之際<pc>，</pc>貧下客丁安能出辦<pc>？</pc>又每<num value="1">一</num>小保用民力築射垛<pc>，</pc>又自辦錢糧起鋪屋<pc>。</pc>每保置鼓<pc>，</pc>遇賊聲擊<pc>，</pc>民居遠近不<num value="1">一</num>
 <pc>，</pc>甲家遭賊<pc>，</pc>鼓在乙家<pc>，</pc>則無緣聲擊<pc>。</pc>如此<pc>，</pc>須人置<num value="1">一</num>鼓<pc>，</pc>費錢不少<pc>。</pc>可速指揮令止如元議<pc>，</pc>團保覺察盜賊<pc>，</pc>餘無得施行<pc>。</pc>鄉民既憂無錢買弓箭<pc>，</pc>加以傳惑徙之戍邊<pc>，</pc>是以父子聚首號泣者非虛也<pc>。</pc>
+</quote>
 <pc>”</pc>安石進呈不行<pc>。</pc>
 </p>
 </div>
 <div>
 <p>帝謂安石<pc>：</pc>
-<pc>“</pc>保甲誠有斬指者<pc>，</pc>此事宜緩而密<pc>。</pc>
+<pc>“</pc>
+<quote>保甲誠有斬指者<pc>，</pc>此事宜緩而密<pc>。</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>日力可惜<pc>。</pc>
+<pc>“</pc>
+<quote>日力可惜<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>然亦不可遽<pc>，</pc>恐卻沮事<pc>。</pc>
+<pc>“</pc>
+<quote>然亦不可遽<pc>，</pc>恐卻沮事<pc>。</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>此事自不敢不密<pc>。</pc>
+<pc>“</pc>
+<quote>此事自不敢不密<pc>。</pc>
+</quote>
 <pc>”</pc>權知開封府韓維等言<pc>：</pc>
-<pc>“</pc>諸縣團結保甲<pc>，</pc>鄉民驚擾<pc>。</pc>祥符等縣已畢<pc>，</pc>其餘縣乞候農閑排定<pc>。</pc>
+<pc>“</pc>
+<quote>諸縣團結保甲<pc>，</pc>鄉民驚擾<pc>。</pc>祥符等縣已畢<pc>，</pc>其餘縣乞候農閑排定<pc>。</pc>
+</quote>
 <pc>”</pc>時府界諸縣鄉民<pc>，</pc>或自殘傷以避團結<pc>。</pc>安石辨說甚力<pc>。</pc>時曾孝寬為府界提點<pc>，</pc>榜募告捕扇惑保甲者雖甚嚴<pc>，</pc>有匿名書封丘郭門者<pc>，</pc>於是詔重賞捕之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>安石曰<pc>：</pc>
-<pc>“</pc>乃者保甲<pc>，</pc>人得其願上番狀<pc>，</pc>然後使之<pc>，</pc>宜於人情無所驚疑<pc>。</pc>且今居藏盜賊及為盜賊之人<pc>，</pc>固不便新法<pc>。</pc>陛下觀長社<num value="1">一</num>縣<pc>，</pc>捕獲府界劇賊為保甲迫逐出外者至<measure quantity="30" unit="people">
+<pc>“</pc>
+<quote>乃者保甲<pc>，</pc>人得其願上番狀<pc>，</pc>然後使之<pc>，</pc>宜於人情無所驚疑<pc>。</pc>且今居藏盜賊及為盜賊之人<pc>，</pc>固不便新法<pc>。</pc>陛下觀長社<num value="1">一</num>縣<pc>，</pc>捕獲府界劇賊為保甲迫逐出外者至<measure quantity="30" unit="people">
 <num value="30">三十</num>人</measure>
-<pc>。</pc>此曹既不容京畿<pc>，</pc>又見捕於輔郡<pc>，</pc>其計無聊<pc>，</pc>專務扇惑<pc>。</pc>比聞為首扇惑者已就捕<pc>，</pc>然至京師亦止有<num value="20">二十</num>許人<pc>。</pc>以<num value="17">十七</num>縣<num value="10">十</num>數<num value="10000">萬</num>家<pc>，</pc>而被扇惑者才<num value="20">二十</num>許人<pc>，</pc>不可謂多<pc>。</pc>自古作事<pc>，</pc>未有不以勢率眾而能令上下如<num value="1">一</num>者<pc>。</pc>今聯<num value="10">十</num>數<measure quantity="10000" unit="people">
+<pc>。</pc>此曹既不容京畿<pc>，</pc>又見捕於輔郡<pc>，</pc>其計無聊<pc>，</pc>專務扇惑<pc>。</pc>比聞為首扇惑者已就捕<pc>，</pc>然至京師亦止有<num value="20">二十</num>許人<pc>。</pc>以<num value="17">十七</num>縣<num value="10">十</num>數<measure quantity="10000" unit="households">
+<num value="10000">萬</num>家</measure>
+<pc>，</pc>而被扇惑者才<num value="20">二十</num>許人<pc>，</pc>不可謂多<pc>。</pc>自古作事<pc>，</pc>未有不以勢率眾而能令上下如<num value="1">一</num>者<pc>。</pc>今聯<num value="10">十</num>數<measure quantity="10000" unit="people">
 <num value="10000">萬</num>人</measure>為保甲<pc>，</pc>又待其應募乃使之番上<pc>，</pc>比乃以陛下矜恤之至<pc>。</pc>令保甲番上捕盜<pc>，</pc>若任其自去來<pc>，</pc>即孰肯聽命<pc>？</pc>若以法驅之<pc>，</pc>又非人所願<pc>。</pc>且為天下者<pc>，</pc>如止欲任民情所願而已<pc>，</pc>則何必立君而為之張官置吏也<pc>？</pc>今輔郡保甲<pc>，</pc>宜先遣官諭上旨<pc>，</pc>後以法推行之<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>然<pc>。</pc>
+<pc>“</pc>
+<quote>然<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -373,81 +455,124 @@
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
 <pc>，</pc>帝謂安石曰<pc>：</pc>
-<pc>“</pc>曾孝寬言<pc>，</pc>民有斬指訴保甲者<pc>。</pc>
+<pc>“</pc>
+<quote>曾孝寬言<pc>，</pc>民有斬指訴保甲者<pc>。</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>此事得於蔡駰<pc>。</pc>趙子幾使駰驗問<pc>，</pc>乃民因斫木誤斬指<pc>，</pc>參證者數人<pc>。</pc>大抵保甲法<pc>，</pc>上自執政大臣<pc>，</pc>中則兩製<pc>，</pc>下則盜賊及停藏之人<pc>，</pc>皆所不欲<pc>。</pc>然臣召鄉人問之<pc>，</pc>皆以為便<pc>。</pc>則雖有斬指以避丁者<pc>，</pc>不皆然也<pc>。</pc>況保甲非特除盜<pc>，</pc>固可漸習為兵<pc>。</pc>既人皆能射<pc>，</pc>又為旗鼓變其耳目<pc>，</pc>且約以免稅上番代巡檢兵<pc>；</pc>又自正<pc>、</pc>長而上<pc>，</pc>能捕賊者獎之以官<pc>，</pc>則人競勸<pc>。</pc>然後使與募兵相參<pc>，</pc>則可以銷募兵驕誌<pc>，</pc>且省財費<pc>，</pc>此宗社長久之計<pc>。</pc>
+<pc>“</pc>
+<quote>此事得於蔡駰<pc>。</pc>趙子幾使駰驗問<pc>，</pc>乃民因斫木誤斬指<pc>，</pc>參證者數人<pc>。</pc>大抵保甲法<pc>，</pc>上自執政大臣<pc>，</pc>中則兩製<pc>，</pc>下則盜賊及停藏之人<pc>，</pc>皆所不欲<pc>。</pc>然臣召鄉人問之<pc>，</pc>皆以為便<pc>。</pc>則雖有斬指以避丁者<pc>，</pc>不皆然也<pc>。</pc>況保甲非特除盜<pc>，</pc>固可漸習為兵<pc>。</pc>既人皆能射<pc>，</pc>又為旗鼓變其耳目<pc>，</pc>且約以免稅上番代巡檢兵<pc>；</pc>又自正<pc>、</pc>長而上<pc>，</pc>能捕賊者獎之以官<pc>，</pc>則人競勸<pc>。</pc>然後使與募兵相參<pc>，</pc>則可以銷募兵驕誌<pc>，</pc>且省財費<pc>，</pc>此宗社長久之計<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>帝謂什伍<num value="100">百</num>姓如保甲<pc>，</pc>恐難成<pc>，</pc>不如便團結成指揮<pc>，</pc>以使臣管轄<pc>。</pc>安石曰<pc>：</pc>
-<pc>“</pc>陛下誠能果斷<pc>，</pc>不恤人言<pc>，</pc>即便團結指揮<pc>，</pc>亦無所妨<pc>。</pc>然指揮是虛名<pc>，</pc>
+<pc>“</pc>
+<quote>陛下誠能果斷<pc>，</pc>不恤人言<pc>，</pc>即便團結指揮<pc>，</pc>亦無所妨<pc>。</pc>然指揮是虛名<pc>，</pc>
 <measure quantity="500" unit="people">
 <num value="500">五百</num>人</measure>為<num value="1">一</num>保<pc>，</pc>緩急可喚集<pc>，</pc>雖不名為指揮<pc>，</pc>與指揮使無異<pc>，</pc>乃是實事<pc>。</pc>幸不至大急<pc>，</pc>即免令人駭擾而事集為上策<pc>。</pc>
+</quote>
 <pc>”</pc>帝遂變<num value="3">三</num>路義勇如府畿保甲法<pc>。</pc>
 </p>
 </div>
 <div>
 <p>馮京曰<pc>：</pc>
-<pc>“</pc>義勇已有指揮使<pc>，</pc>指揮使即其鄉裏豪傑<pc>。</pc>今複作保甲<pc>，</pc>令何人為大保長<pc>？</pc>
+<pc>“</pc>
+<quote>義勇已有指揮使<pc>，</pc>指揮使即其鄉裏豪傑<pc>。</pc>今複作保甲<pc>，</pc>令何人為大保長<pc>？</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>古者民居則為鄉<pc>，</pc>伍家為比<pc>，</pc>比有長<pc>，</pc>及用兵<pc>，</pc>即<measure quantity="5" unit="people">
+<pc>“</pc>
+<quote>古者民居則為鄉<pc>，</pc>伍家為比<pc>，</pc>比有長<pc>，</pc>及用兵<pc>，</pc>即<measure quantity="5" unit="people">
 <num value="5">五</num>人</measure>為伍<pc>，</pc>伍有伍司馬<pc>。</pc>
-<num value="25">二十五</num>家為閭<pc>，</pc>閭有閭胥<pc>，</pc>
+<measure quantity="25" unit="households">
+<num value="25">二十五</num>家</measure>為閭<pc>，</pc>閭有閭胥<pc>，</pc>
 <measure quantity="25" unit="people">
-<num value="25">二十五</num>人</measure>為兩<pc>，</pc>兩有兩司馬<pc>。</pc>兩司馬即閭胥<pc>，</pc>伍司馬即比長<pc>，</pc>第隨事異名而已<pc>。</pc>此乃<num value="3">三</num>代<num value="6">六</num>鄉<num value="6">六</num>軍之遺法<pc>。</pc>其法見於書<pc>，</pc>自夏以來<pc>，</pc>至周不改<pc>。</pc>秦雖決裂阡陌<pc>，</pc>然什伍之尚如古製<pc>，</pc>此所以兵眾而強也<pc>。</pc>征伐唯府兵為近之<pc>。</pc>今舍已然之成憲<pc>，</pc>而乃守<date when="null">
+<num value="25">二十五</num>人</measure>為兩<pc>，</pc>兩有兩司馬<pc>。</pc>兩司馬即閭胥<pc>，</pc>伍司馬即比長<pc>，</pc>第隨事異名而已<pc>。</pc>此乃<num value="3">三</num>代<num value="6">六</num>鄉<num value="6">六</num>軍之遺法<pc>。</pc>其法見於書<pc>，</pc>自夏以來<pc>，</pc>至周不改<pc>。</pc>秦雖決裂阡陌<pc>，</pc>然什伍之尚如古製<pc>，</pc>此所以兵眾而強也<pc>。</pc>征伐唯府兵為近之<pc>。</pc>今舍已然之成憲<pc>，</pc>而乃守<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>亂亡之餘法<pc>，</pc>其不足以致安強無疑<pc>。</pc>然人皆恬然不以因循為可憂者<pc>，</pc>所見淺近也<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>安石又奏<pc>：</pc>
-<pc>“</pc>義勇須<num value="3">三</num>丁以上<pc>，</pc>請如府界<pc>，</pc>兩丁以上盡籍之<pc>。</pc>
+<pc>“</pc>
+<quote>義勇須<num value="3">三</num>丁以上<pc>，</pc>請如府界<pc>，</pc>兩丁以上盡籍之<pc>。</pc>
 <num value="3">三</num>丁即出戍<pc>，</pc>誘以厚利<pc>；</pc>而兩丁即止令於巡檢上番<pc>，</pc>如府界法<pc>。</pc>大略不過如此<pc>。</pc>當遣人與經略<pc>、</pc>轉運司及諸州長吏議之<pc>，</pc>及訪本路民情所苦所欲<pc>，</pc>因以寓法<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>河東修義勇強壯法<pc>，</pc>又令團集保甲<pc>，</pc>如何<pc>？</pc>
+<pc>“</pc>
+<quote>河東修義勇強壯法<pc>，</pc>又令團集保甲<pc>，</pc>如何<pc>？</pc>
+</quote>
 <pc>”</pc>安石對曰<pc>：</pc>
-<pc>“</pc>義勇須隱括丁數<pc>，</pc>若因團集保甲<pc>，</pc>即<num value="1">一</num>動而兩業就<pc>。</pc>今既遣官隱括義勇<pc>，</pc>又別遣官團結保甲<pc>，</pc>即分為兩事<pc>，</pc>恐民不能無擾<pc>。</pc>
+<pc>“</pc>
+<quote>義勇須隱括丁數<pc>，</pc>若因團集保甲<pc>，</pc>即<num value="1">一</num>動而兩業就<pc>。</pc>今既遣官隱括義勇<pc>，</pc>又別遣官團結保甲<pc>，</pc>即分為兩事<pc>，</pc>恐民不能無擾<pc>。</pc>
+</quote>
 <pc>”</pc>或曰<pc>：</pc>
-<pc>“</pc>保甲不可代正軍上番否<pc>？</pc>
+<pc>“</pc>
+<quote>保甲不可代正軍上番否<pc>？</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>俟其習熟<pc>，</pc>然後上番<pc>。</pc>然東兵技藝亦弗能優於義勇<pc>、</pc>保甲<pc>，</pc>臣觀廣勇<pc>、</pc>虎翼兵固然<pc>。</pc>今為募兵者<pc>，</pc>大抵皆偷惰頑猾不能自振之人<pc>。</pc>為農者<pc>，</pc>皆樸力<num value="1">一</num>心聽令之人<pc>，</pc>則緩急莫如民兵可用<pc>。</pc>
+<pc>“</pc>
+<quote>俟其習熟<pc>，</pc>然後上番<pc>。</pc>然東兵技藝亦弗能優於義勇<pc>、</pc>保甲<pc>，</pc>臣觀廣勇<pc>、</pc>虎翼兵固然<pc>。</pc>今為募兵者<pc>，</pc>大抵皆偷惰頑猾不能自振之人<pc>。</pc>為農者<pc>，</pc>皆樸力<num value="1">一</num>心聽令之人<pc>，</pc>則緩急莫如民兵可用<pc>。</pc>
+</quote>
 <pc>”</pc>馮京曰<pc>：</pc>
-<pc>“</pc>太祖征伐天下<pc>，</pc>豈用農兵<pc>？</pc>
+<pc>“</pc>
+<quote>太祖征伐天下<pc>，</pc>豈用農兵<pc>？</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>太祖時接<date when="null">
+<pc>“</pc>
+<quote>太祖時接<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>
 <pc>，</pc>
 <num value="100">百</num>姓困極<pc>，</pc>豪傑多以從軍為利<pc>。</pc>今<num value="100">百</num>姓安業樂生<pc>，</pc>而軍中不複有如向時拔起為公侯者<pc>，</pc>即豪傑不複在軍<pc>，</pc>而應募者大抵皆偷惰不能自振之人爾<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>兵之強弱在人<pc>。</pc>
-<date when="null">
+<pc>“</pc>
+<quote>兵之強弱在人<pc>。</pc>
+<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>兵弱<pc>，</pc>至世宗而強<pc>。</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>世宗所收<pc>，</pc>亦皆天下亡命強梁之人<pc>。</pc>
+<pc>“</pc>
+<quote>世宗所收<pc>，</pc>亦皆天下亡命強梁之人<pc>。</pc>
+</quote>
 <pc>”</pc>文彥博曰<pc>：</pc>
-<pc>“</pc>以道佐人主者不以兵強天下<pc>。</pc>
+<pc>“</pc>
+<quote>以道佐人主者不以兵強天下<pc>。</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>以兵強天下者非道也<pc>，</pc>然有道者固能柔能剛<pc>，</pc>能弱能強<pc>。</pc>方其能剛強<pc>，</pc>必不至柔弱<pc>。</pc>張皇<num value="6">六</num>師<pc>，</pc>固先王之所尚也<pc>，</pc>但不當專務兵強爾<pc>。</pc>
+<pc>“</pc>
+<quote>以兵強天下者非道也<pc>，</pc>然有道者固能柔能剛<pc>，</pc>能弱能強<pc>。</pc>方其能剛強<pc>，</pc>必不至柔弱<pc>。</pc>張皇<num value="6">六</num>師<pc>，</pc>固先王之所尚也<pc>，</pc>但不當專務兵強爾<pc>。</pc>
+</quote>
 <pc>”</pc>帝卒從安石議<pc>。</pc>
 </p>
 </div>
 <div>
 <p>帝曰<pc>：</pc>
-<pc>“</pc>保甲<pc>、</pc>義勇芻糧之費<pc>，</pc>當預為之計<pc>。</pc>
+<pc>“</pc>
+<quote>保甲<pc>、</pc>義勇芻糧之費<pc>，</pc>當預為之計<pc>。</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>當減募兵之費以供之<pc>。</pc>所供保甲之費<pc>，</pc>才養兵<num value="10">十</num>之<num value="2">一二</num>
+<pc>“</pc>
+<quote>當減募兵之費以供之<pc>。</pc>所供保甲之費<pc>，</pc>才養兵<num value="10">十</num>之<num value="2">一二</num>
 <pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>畿內募兵之數已減於舊<pc>。</pc>強本之勢<pc>，</pc>未可悉減<pc>。</pc>
+<pc>“</pc>
+<quote>畿內募兵之數已減於舊<pc>。</pc>強本之勢<pc>，</pc>未可悉減<pc>。</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>既有保甲代其役<pc>，</pc>即不須募兵<pc>。</pc>今京師募兵<pc>，</pc>逃死停放<pc>，</pc>
+<pc>“</pc>
+<quote>既有保甲代其役<pc>，</pc>即不須募兵<pc>。</pc>今京師募兵<pc>，</pc>逃死停放<pc>，</pc>
 <num value="1">一</num>季乃數<num value="1000">千</num>
 <pc>，</pc>但勿招填<pc>，</pc>即為可減<pc>。</pc>然今廂軍既少<pc>，</pc>禁兵亦不多<pc>，</pc>臣願早訓練民兵<pc>。</pc>民兵成<pc>，</pc>則募兵當減矣<pc>。</pc>
+</quote>
 <pc>”</pc>又為上言<pc>：</pc>
-<pc>“</pc>今河北義勇雖<num value="180000">十八萬</num>
+<pc>“</pc>
+<quote>今河北義勇雖<num value="180000">十八萬</num>
 <pc>，</pc>然所可獎慰者不過酋豪<num value="100">百</num>數<measure quantity="10" unit="people">
 <num value="10">十</num>人</measure>而已<pc>。</pc>此府兵之遺意也<pc>。</pc>
+</quote>
 <pc>”</pc>帝以為然<pc>，</pc>令議其法<pc>。</pc>
 </p>
 </div>
@@ -456,7 +581,8 @@
 <num value="10">十</num>日</measure>
 <num value="1">一</num>番<pc>，</pc>慮大促無以精武事<pc>，</pc>其以<measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>為<num value="1">一</num>番<pc>。</pc>安石奏曰<pc>：</pc>
-<pc>“</pc>今保甲<measure quantity="10" unit="days">
+<pc>“</pc>
+<quote>今保甲<measure quantity="10" unit="days">
 <num value="10">十</num>日</measure>
 <num value="1">一</num>番<pc>，</pc>計<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>餘<measure quantity="8" unit="months">
@@ -465,17 +591,22 @@
 <pc>，</pc>即番愈疏<pc>。</pc>又昨與<num value="100">百</num>姓約<measure quantity="10" unit="days">
 <num value="10">十</num>日</measure>
 <num value="1">一</num>番<pc>，</pc>今遽改命<pc>，</pc>恐愈為人扇惑<pc>。</pc>宜俟其習熟<pc>，</pc>徐議其更番<pc>。</pc>且今保甲閱藝<num value="8">八</num>等<pc>，</pc>勸獎至優<pc>，</pc>人競私習<pc>，</pc>不必上番然後就學<pc>。</pc>臣愚<pc>，</pc>願以數年<pc>，</pc>其藝非特勝義勇<pc>，</pc>當必勝正兵<pc>。</pc>正兵技藝取應官法而已<pc>，</pc>非若保甲人人有勸心也<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>元豐<measure quantity="8" unit="years">
+<p>
+<date notBefore="1078" notAfter="1085">元豐</date>
+<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
-<pc>，</pc>哲宗嗣位<pc>，</pc>知<placeName>陳州</placeName>司馬光上疏乞罷保甲<pc>，</pc>曰<pc>：</pc>
+<pc>，</pc>哲宗嗣位<pc>，</pc>知<placeName>陳州</placeName>
+<persName>司馬光</persName>上疏乞罷保甲<pc>，</pc>曰<pc>：</pc>
 </p>
 </div>
 <div>
-<p>兵出民間<pc>，</pc>雖雲古法<pc>，</pc>然古者<num value="800">八百</num>家才出甲士<measure quantity="3" unit="people">
+<p>兵出民間<pc>，</pc>雖雲古法<pc>，</pc>然古者<measure quantity="800" unit="households">
+<num value="800">八百</num>家</measure>才出甲士<measure quantity="3" unit="people">
 <num value="3">三</num>人</measure>
 <pc>、</pc>步卒<measure quantity="72" unit="people">
 <num value="72">七十二</num>人</measure>
@@ -493,8 +624,10 @@
 </p>
 </div>
 <div>
-<p>自唐開<date when="null">元</date>以來<pc>，</pc>民兵法壞<pc>，</pc>戍守戰攻<pc>，</pc>盡募長征兵士<pc>，</pc>民間何嚐習兵<pc>？</pc>國家承平<num value="100">百</num>有餘年<pc>，</pc>戴白之老不識兵革<pc>，</pc>
-<num value="1">一</num>旦畎畝之人皆戎服執兵<pc>，</pc>奔驅滿野<pc>，</pc>耆舊歎息<pc>，</pc>以為不祥<pc>。</pc>事既草創<pc>，</pc>調發無法<pc>，</pc>比戶騷擾<pc>，</pc>不遺<num value="1">一</num>家<pc>。</pc>又巡檢<pc>、</pc>指使按行鄉村<pc>，</pc>往來如織<pc>；</pc>保正<pc>、</pc>保長<pc>，</pc>依倚弄權<pc>，</pc>坐索供給<pc>，</pc>多責賂遺<pc>，</pc>小不副意<pc>，</pc>妄加鞭撻<pc>，</pc>蠶食行伍<pc>，</pc>不知紀極<pc>。</pc>中下之民<pc>，</pc>罄家所有<pc>，</pc>侵肌削骨<pc>，</pc>無以供億<pc>，</pc>愁苦困弊<pc>，</pc>靡所投訴<pc>，</pc>流移<num value="4">四</num>方<pc>，</pc>繈屬盈路<pc>。</pc>又朝廷時遣使者<pc>，</pc>遍行按閱<pc>，</pc>所至犒設賞賚<pc>，</pc>糜費金帛<pc>，</pc>以巨<num value="10000">萬</num>計<pc>。</pc>此皆鞭撻平民銖兩丈尺而斂之<pc>，</pc>
+<p>自唐開<date notBefore="9999" notAfter="9999">元</date>以來<pc>，</pc>民兵法壞<pc>，</pc>戍守戰攻<pc>，</pc>盡募長征兵士<pc>，</pc>民間何嚐習兵<pc>？</pc>國家承平<num value="100">百</num>有餘年<pc>，</pc>戴白之老不識兵革<pc>，</pc>
+<num value="1">一</num>旦畎畝之人皆戎服執兵<pc>，</pc>奔驅滿野<pc>，</pc>耆舊歎息<pc>，</pc>以為不祥<pc>。</pc>事既草創<pc>，</pc>調發無法<pc>，</pc>比戶騷擾<pc>，</pc>不遺<measure quantity="1" unit="household">
+<num value="1">一</num>家</measure>
+<pc>。</pc>又巡檢<pc>、</pc>指使按行鄉村<pc>，</pc>往來如織<pc>；</pc>保正<pc>、</pc>保長<pc>，</pc>依倚弄權<pc>，</pc>坐索供給<pc>，</pc>多責賂遺<pc>，</pc>小不副意<pc>，</pc>妄加鞭撻<pc>，</pc>蠶食行伍<pc>，</pc>不知紀極<pc>。</pc>中下之民<pc>，</pc>罄家所有<pc>，</pc>侵肌削骨<pc>，</pc>無以供億<pc>，</pc>愁苦困弊<pc>，</pc>靡所投訴<pc>，</pc>流移<num value="4">四</num>方<pc>，</pc>繈屬盈路<pc>。</pc>又朝廷時遣使者<pc>，</pc>遍行按閱<pc>，</pc>所至犒設賞賚<pc>，</pc>糜費金帛<pc>，</pc>以巨<num value="10000">萬</num>計<pc>。</pc>此皆鞭撻平民銖兩丈尺而斂之<pc>，</pc>
 <num value="1">一</num>旦用之如糞土<pc>。</pc>而鄉村之民<pc>，</pc>但苦勞役<pc>，</pc>不感恩澤<pc>。</pc>農民之勞既如披<pc>，</pc>國家之費又如此<pc>，</pc>終何所用哉<pc>？</pc>若使之捕盜賊<pc>，</pc>衛鄉裏<pc>，</pc>則何必如此之多<pc>？</pc>使之戍邊境<pc>，</pc>事征伐<pc>，</pc>則彼遠方之民<pc>，</pc>以騎射為業<pc>，</pc>以攻戰為俗<pc>，</pc>自幼及長<pc>，</pc>更無他務<pc>。</pc>中國之民<pc>，</pc>大半服田力穡<pc>，</pc>雖複授以兵械<pc>，</pc>教之擊刺<pc>，</pc>在教場之中坐作進退<pc>，</pc>有似嚴整<pc>，</pc>必若使之與敵人相遇<pc>，</pc>填然鼓之<pc>，</pc>鳴鏑始交<pc>，</pc>其奔北潰敗可以前料<pc>，</pc>決無疑也<pc>，</pc>豈不誤國事乎<pc>？</pc>又悉罷<num value="3">三</num>路巡檢下兵士及諸縣弓手<pc>，</pc>皆易以保甲<pc>。</pc>主簿兼縣尉<pc>，</pc>但主草市以裏<pc>；</pc>其鄉村盜賊<pc>，</pc>悉委巡檢<pc>，</pc>而巡檢兼掌巡按保甲教閱<pc>，</pc>朝夕奔走<pc>，</pc>猶恐不辦<pc>，</pc>何暇逐捕盜賊哉<pc>？</pc>又保甲中往往有自為盜者<pc>，</pc>亦有乘保馬行劫者<pc>。</pc>然則設保甲<pc>、</pc>保馬本以除盜<pc>，</pc>乃更資盜也<pc>。</pc>
 </p>
 </div>
@@ -505,7 +638,11 @@
 </div>
 <div>
 <p>且向者幹進之士<pc>，</pc>說先帝以征伐開拓之策<pc>，</pc>故立保甲<pc>、</pc>戶馬<pc>、</pc>保馬等法<pc>。</pc>近者登極赦書有雲<pc>：</pc>
-<pc>“</pc>應緣邊州軍<pc>，</pc>仰逐處長吏並巡檢<pc>、</pc>使臣<pc>、</pc>鈐轄<pc>、</pc>兵士及邊上人戶不得侵擾外界<pc>，</pc>務要靜守疆埸<pc>，</pc>勿令騷擾<pc>。</pc>
+<pc>“</pc>
+<quote>應緣邊州軍<pc>，</pc>仰逐處長吏並巡檢<pc>、</pc>使臣<pc>、</pc>
+<term>鈐轄</term>
+<pc>、</pc>兵士及邊上人戶不得侵擾外界<pc>，</pc>務要靜守疆埸<pc>，</pc>勿令騷擾<pc>。</pc>
+</quote>
 <pc>”</pc>此蓋聖意欲惠綏殊才<pc>，</pc>休息生民<pc>，</pc>中外之人孰不歸戴<pc>？</pc>然則保甲<pc>、</pc>戶馬複何所用<pc>？</pc>或今雖罷戶馬<pc>，</pc>寬保馬<pc>，</pc>而保甲猶存者<pc>，</pc>蓋未有以其利害之詳奏聞者也<pc>。</pc>
 </p>
 </div>
@@ -539,10 +676,12 @@
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>監察<term>禦史</term>王岩叟言<pc>：</pc>
-<pc>“</pc>保甲之害<pc>，</pc>
+<pc>“</pc>
+<quote>保甲之害<pc>，</pc>
 <num value="3">三</num>路之民如在湯火<pc>，</pc>未必皆法之弊<pc>，</pc>蓋由提舉<num value="1">一</num>司上下官吏逼之使然<pc>。</pc>而近日指揮雖令冬教<pc>，</pc>然尚存官司<pc>，</pc>則所以為保甲之害者<pc>，</pc>
 <num value="10">十</num>分之<num value="42">六七</num>猶在<pc>，</pc>陛下所不知也<pc>。</pc>此皆奸邪遂非飾過<pc>，</pc>而巧辭強辨以欺惑聖聽<pc>，</pc>將至深之病略示更張<pc>，</pc>以應副陛下聖意而已<pc>，</pc>非至誠為國家去大害<pc>、</pc>複大利<pc>，</pc>以便<num value="100">百</num>姓<pc>，</pc>為太平長久之計者也<pc>。</pc>此忠義之良心所以猶抑<pc>，</pc>奸邪之素計所以尚存<pc>。</pc>天下之識者<pc>，</pc>皆言陛下不絕害源<pc>，</pc>
 <num value="100">百</num>姓無由樂生<pc>；</pc>不屏群邪<pc>，</pc>太平終是難致<pc>。</pc>臣願陛下奮然獨斷<pc>，</pc>如聽政之初行數事<pc>，</pc>則天下之大體無虧<pc>，</pc>陛下高枕而臥矣<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
@@ -573,14 +712,17 @@
 <div>
 <p>民之言曰<pc>，</pc>教法之難不足以為苦<pc>，</pc>而羈縻之虐有甚焉<pc>；</pc>羈縻不足以為苦<pc>，</pc>而鞭笞之酷有甚焉<pc>；</pc>鞭笞不足以為苦<pc>，</pc>而誅求之無已有甚焉<pc>。</pc>方耕方耘而罷<pc>，</pc>方幹方營而去<pc>，</pc>此羈縻之所以為苦也<pc>。</pc>其教也<pc>，</pc>保長得笞之<pc>，</pc>保正又笞之<pc>，</pc>巡檢之指使與巡檢者又交撻之<pc>，</pc>提舉司之指使與提舉司之幹當公事者又互鞭之<pc>，</pc>提舉之官長又鞭之<pc>，</pc>
 <num value="1">一</num>有逃避<pc>，</pc>縣令又鞭之<pc>。</pc>人無聊生<pc>，</pc>恨不得死<pc>，</pc>此鞭笞之所以為苦也<pc>。</pc>創袍<pc>、</pc>市巾<pc>、</pc>買弓<pc>、</pc>絛箭<pc>、</pc>添弦<pc>、</pc>換包指<pc>、</pc>治鞍轡<pc>、</pc>蓋涼棚<pc>、</pc>畫象法<pc>、</pc>造隊牌<pc>、</pc>緝架<pc>、</pc>僦椅卓<pc>、</pc>圍典紙墨<pc>、</pc>看定人雇直<pc>、</pc>均菜緡<pc>、</pc>納秸粒之類<pc>，</pc>其名<num value="100">百</num>出<pc>，</pc>不可勝數<pc>。</pc>故父老之諺曰<pc>：</pc>
-<pc>“</pc>兒曹空手<pc>，</pc>不可以入教場<pc>。</pc>
+<pc>“</pc>
+<quote>兒曹空手<pc>，</pc>不可以入教場<pc>。</pc>
+</quote>
 <pc>”</pc>非虛語也<pc>。</pc>都副兩保正<pc>、</pc>大小兩保長<pc>，</pc>平居於家<pc>，</pc>婚姻喪葬之問遺<pc>，</pc>秋成夏熟<pc>，</pc>絲麻穀麥之要求<pc>，</pc>遇於城市<pc>，</pc>飲食之責望<pc>。</pc>此迫於勢而不敢不致者也<pc>。</pc>
 <num value="1">一</num>不如意<pc>，</pc>即以藝不如法為名<pc>，</pc>而捶辱之無所不至<pc>。</pc>又所謂巡檢<pc>、</pc>指使者<pc>，</pc>多由此徒以出<pc>，</pc>貪而冒法<pc>，</pc>不顧後禍<pc>，</pc>有逾於保正<pc>、</pc>保長者<pc>，</pc>此誅求之所以為甚苦也<pc>。</pc>
 </p>
 </div>
 <div>
 <p>又有逐養子<pc>、</pc>出贅婿<pc>、</pc>再嫁其母<pc>、</pc>兄弟析居以求免者<pc>，</pc>有毒其目<pc>、</pc>斷其指<pc>、</pc>炙其肌膚以自殘廢而求免者<pc>，</pc>有盡室以逃而不歸者<pc>，</pc>有委老弱於家而保丁自逃者<pc>。</pc>保丁者逃<pc>，</pc>則法當督其家出賞錢<num value="10000">十千</num>以募之<pc>。</pc>使其家有所出<pc>，</pc>當未至於逃<pc>；</pc>至於逃<pc>，</pc>則其困窮可知<pc>，</pc>而督取<num value="10000">十千</num>
-<pc>，</pc>何可以得<pc>？</pc>故每縣常有數<num value="1000">十百</num>家老弱嗟谘於道路<pc>，</pc>哀訴於公庭<pc>。</pc>如臣之愚<pc>，</pc>且知不忍<pc>，</pc>使陛下仁聖知之<pc>，</pc>當如何也<pc>？</pc>
+<pc>，</pc>何可以得<pc>？</pc>故每縣常有數<measure quantity="1000" unit="households">
+<num value="1000">十百</num>家</measure>老弱嗟谘於道路<pc>，</pc>哀訴於公庭<pc>。</pc>如臣之愚<pc>，</pc>且知不忍<pc>，</pc>使陛下仁聖知之<pc>，</pc>當如何也<pc>？</pc>
 </p>
 </div>
 <div>
@@ -598,8 +740,7 @@
 <measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>之間並教<measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>
-<pc>，</pc>不若<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>之中並教<measure quantity="1" unit="month">
+<pc>，</pc>不若<num value="1">一</num>歲之中並教<measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>
 <pc>。</pc>農事既畢<pc>，</pc>無他用心<pc>，</pc>人自安於講武而無憾<pc>。</pc>遂可罷提舉司<pc>，</pc>廢巡教官<pc>，</pc>
 <num value="1">一</num>以隸州縣<pc>，</pc>而俾逐路安撫司總之<pc>。</pc>每俟冬教於城下<pc>，</pc>
@@ -615,13 +756,16 @@
 </p>
 </div>
 <div>
-<p>元祐元年<measure quantity="1" unit="month">
+<p>
+<date notBefore="1086" notAfter="1094">元祐</date>元年<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
 <pc>，</pc>樞密院言<pc>：</pc>
-<pc>“</pc>府界<pc>、</pc>
+<pc>“</pc>
+<quote>府界<pc>、</pc>
 <num value="3">三</num>路保甲已罷團教<pc>，</pc>其教閱器械悉上送官<pc>，</pc>仍立禁約<pc>。</pc>
+</quote>
 <pc>”</pc>閏<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <pc>，</pc>詔河北東西路<pc>、</pc>永興<pc>、</pc>秦鳳等路提點刑獄兼提舉保甲<pc>，</pc>並依提刑司例各為<num value="1">一</num>司<pc>。</pc>
@@ -629,7 +773,9 @@
 <num value="3">三</num>月</measure>
 <pc>，</pc>王岩叟劾狄諮<pc>、</pc>劉定奸贓狀<pc>。</pc>
 <term>禦史</term>孫升亦言<pc>：</pc>
-<pc>“</pc>劉定上挾章惇之奸黨<pc>，</pc>下附狄諮之庸材<pc>，</pc>大肆憑陵<pc>，</pc>公行恐喝<pc>，</pc>故真定獲鹿之變起於後<pc>，</pc>澶<pc>、</pc>滑之盜作於前<pc>，</pc>願早正其罪<pc>。</pc>
+<pc>“</pc>
+<quote>劉定上挾章惇之奸黨<pc>，</pc>下附狄諮之庸材<pc>，</pc>大肆憑陵<pc>，</pc>公行恐喝<pc>，</pc>故真定獲鹿之變起於後<pc>，</pc>澶<pc>、</pc>滑之盜作於前<pc>，</pc>願早正其罪<pc>。</pc>
+</quote>
 <pc>”</pc>於是諮<pc>、</pc>定皆罷<pc>，</pc>與在外宮觀<pc>。</pc>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
@@ -638,38 +784,63 @@
 </p>
 </div>
 <div>
-<p>紹聖<measure quantity="2" unit="years">
+<p>
+<date notBefore="1094" notAfter="1098">紹聖</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <pc>，</pc>帝問義勇<pc>、</pc>保甲數<pc>，</pc>
 <term>宰臣</term>章惇曰<pc>：</pc>
-<pc>“</pc>義勇<pc>，</pc>自祖宗以來舊法<pc>。</pc>治平中<pc>，</pc>
-<persName>韓琦</persName>請遣使詣陝西再括丁數添刺<pc>。</pc>熙寧中<pc>，</pc>先帝始行保甲法<pc>，</pc>府界<pc>、</pc>
-<num value="3">三</num>路得<num value="70">七十</num>餘<num value="10000">萬</num>丁<pc>。</pc>設官教閱始於府界<pc>，</pc>眾議沸騰<pc>。</pc>教藝既成<pc>，</pc>更勝正兵<pc>。</pc>元豐中<pc>，</pc>始遣使遍教<num value="3">三</num>路<pc>。</pc>先帝留神按閱<pc>，</pc>藝精者厚賞<pc>，</pc>或擢以差使<pc>、</pc>軍將名目<pc>，</pc>而<num value="1">一</num>時賞賚率取諸封樁或禁軍闕額<pc>，</pc>未嚐費戶部<num value="1">一</num>錢<pc>。</pc>元祐馳廢<pc>，</pc>深可惜也<pc>。</pc>
+<pc>“</pc>
+<quote>義勇<pc>，</pc>自祖宗以來舊法<pc>。</pc>
+<date notBefore="1064" notAfter="1067">治平</date>中<pc>，</pc>
+<persName>韓琦</persName>請遣使詣陝西再括丁數添刺<pc>。</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>中<pc>，</pc>先帝始行保甲法<pc>，</pc>府界<pc>、</pc>
+<num value="3">三</num>路得<num value="70">七十</num>餘<num value="10000">萬</num>丁<pc>。</pc>設官教閱始於府界<pc>，</pc>眾議沸騰<pc>。</pc>教藝既成<pc>，</pc>更勝正兵<pc>。</pc>
+<date notBefore="1078" notAfter="1085">元豐</date>中<pc>，</pc>始遣使遍教<num value="3">三</num>路<pc>。</pc>先帝留神按閱<pc>，</pc>藝精者厚賞<pc>，</pc>或擢以差使<pc>、</pc>軍將名目<pc>，</pc>而<num value="1">一</num>時賞賚率取諸封樁或禁軍闕額<pc>，</pc>未嚐費戶部<num value="1">一</num>錢<pc>。</pc>
+<date notBefore="1086" notAfter="1094">元祐</date>馳廢<pc>，</pc>深可惜也<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>元符<measure quantity="2" unit="years">
+<p>
+<date notBefore="1098" notAfter="1100">元符</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>
 <term>禦史</term>中丞安惇奏乞教習保甲月分<pc>，</pc>差官按試<pc>。</pc>曾布言<pc>：</pc>
-<pc>“</pc>保甲固當教習<pc>，</pc>然陝西<pc>、</pc>河東連年進築城砦<pc>，</pc>調發未已<pc>，</pc>河北連年水災<pc>，</pc>流民未複<pc>，</pc>以此未可督責訓練<pc>。</pc>
+<pc>“</pc>
+<quote>保甲固當教習<pc>，</pc>然陝西<pc>、</pc>河東連年進築城砦<pc>，</pc>調發未已<pc>，</pc>河北連年水災<pc>，</pc>流民未複<pc>，</pc>以此未可督責訓練<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>府界豈不可先行<pc>？</pc>
+<pc>“</pc>
+<quote>府界豈不可先行<pc>？</pc>
+</quote>
 <pc>”</pc>布曰<pc>：</pc>
-<pc>“</pc>熙寧中教保甲<pc>，</pc>臣在司農<pc>。</pc>是時諸縣引見保甲<pc>，</pc>事藝精熟<pc>。</pc>
+<pc>“</pc>
+<quote>
+<date notBefore="1068" notAfter="1077">熙寧</date>中教保甲<pc>，</pc>臣在司農<pc>。</pc>是時諸縣引見保甲<pc>，</pc>事藝精熟<pc>。</pc>
+</quote>
 <pc>”</pc>章惇即曰<pc>：</pc>
-<pc>“</pc>多得班行<pc>。</pc>
+<pc>“</pc>
+<quote>多得班行<pc>。</pc>
+</quote>
 <pc>”</pc>布曰<pc>：</pc>
-<pc>“</pc>止是得殿侍<pc>、</pc>軍將<pc>，</pc>然俱更差充巡檢司指揮<pc>。</pc>以此<pc>，</pc>仕宦及有力之家子弟<pc>，</pc>皆欣然趨赴<pc>。</pc>及引對<pc>，</pc>所乘皆良馬<pc>，</pc>鞍韉華楚<pc>，</pc>馬上事藝往往勝諸軍<pc>。</pc>知縣<pc>、</pc>巡檢又皆得轉官或減年<pc>。</pc>以此<pc>，</pc>上下皆踴躍自效<pc>。</pc>然是時司農官親任其事<pc>，</pc>督責檢察極精密<pc>，</pc>縣令有抑令保甲置衣裝非理騷擾者<pc>，</pc>亦皆衝替<pc>，</pc>故人莫敢不奉法<pc>。</pc>其後乃令上番<pc>。</pc>
+<pc>“</pc>
+<quote>止是得殿侍<pc>、</pc>軍將<pc>，</pc>然俱更差充巡檢司指揮<pc>。</pc>以此<pc>，</pc>仕宦及有力之家子弟<pc>，</pc>皆欣然趨赴<pc>。</pc>及引對<pc>，</pc>所乘皆良馬<pc>，</pc>鞍韉華楚<pc>，</pc>馬上事藝往往勝諸軍<pc>。</pc>知縣<pc>、</pc>巡檢又皆得轉官或減年<pc>。</pc>以此<pc>，</pc>上下皆踴躍自效<pc>。</pc>然是時司農官親任其事<pc>，</pc>督責檢察極精密<pc>，</pc>縣令有抑令保甲置衣裝非理騷擾者<pc>，</pc>亦皆衝替<pc>，</pc>故人莫敢不奉法<pc>。</pc>其後乃令上番<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>且與先是府界檢舉施行<pc>。</pc>
+<pc>“</pc>
+<quote>且與先是府界檢舉施行<pc>。</pc>
+</quote>
 <pc>”</pc>蔡卞曰<pc>：</pc>
-<pc>“</pc>於先朝法中稍加裁損<pc>，</pc>無不可之理<pc>。</pc>
+<pc>“</pc>
+<quote>於先朝法中稍加裁損<pc>，</pc>無不可之理<pc>。</pc>
+</quote>
 <pc>”</pc>布以為甚便<pc>，</pc>容檢尋文字進呈<pc>。</pc>
 </p>
 </div>
@@ -678,18 +849,29 @@
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <pc>，</pc>蔡卞勸上複行畿內保甲教閱法<pc>，</pc>帝屢以督曾布<pc>。</pc>是日<pc>，</pc>布進呈畿內保丁總<num value="260000">二十六萬</num>
-<pc>，</pc>熙寧中教事藝者凡<num value="70000">七萬</num>
+<pc>，</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>中教事藝者凡<num value="70000">七萬</num>
 <pc>，</pc>因言<pc>：</pc>
-<pc>“</pc>此事固當講求<pc>，</pc>然廢罷已<measure quantity="15" unit="years">
+<pc>“</pc>
+<quote>此事固當講求<pc>，</pc>然廢罷已<measure quantity="15" unit="years">
 <num value="15">十五</num>年</measure>
 <pc>，</pc>
 <num value="1">一</num>旦複行<pc>，</pc>與事初無異<pc>，</pc>當以漸行<pc>，</pc>則人不至於驚擾<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>固當以漸行之<pc>。</pc>
+<pc>“</pc>
+<quote>固當以漸行之<pc>。</pc>
+</quote>
 <pc>”</pc>布曰<pc>：</pc>
-<pc>“</pc>聖諭如此<pc>，</pc>盡之矣<pc>。</pc>若便以元豐成法<num value="1">一</num>切舉行<pc>，</pc>當時保丁存者無幾<pc>，</pc>以未教習之人<pc>，</pc>便令上番及集教<pc>，</pc>則人情洶洶<pc>，</pc>未易安也<pc>。</pc>熙寧中<pc>，</pc>施行亦有漸<pc>。</pc>容臣講求施行次第<pc>。</pc>
+<pc>“</pc>
+<quote>聖諭如此<pc>，</pc>盡之矣<pc>。</pc>若便以<date notBefore="1078" notAfter="1085">元豐</date>成法<num value="1">一</num>切舉行<pc>，</pc>當時保丁存者無幾<pc>，</pc>以未教習之人<pc>，</pc>便令上番及集教<pc>，</pc>則人情洶洶<pc>，</pc>未易安也<pc>。</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>中<pc>，</pc>施行亦有漸<pc>。</pc>容臣講求施行次第<pc>。</pc>
+</quote>
 <pc>”</pc>退以語卞<pc>，</pc>卞殊以為不快<pc>，</pc>乃雲<pc>：</pc>
-<pc>“</pc>熙寧初<pc>，</pc>人未知保甲之法<pc>。</pc>今耳目已習熟<pc>，</pc>自不同矣<pc>。</pc>
+<pc>“</pc>
+<quote>
+<date notBefore="1068" notAfter="1077">熙寧</date>初<pc>，</pc>人未知保甲之法<pc>。</pc>今耳目已習熟<pc>，</pc>自不同矣<pc>。</pc>
+</quote>
 <pc>”</pc>布不答<pc>。</pc>
 </p>
 </div>
@@ -697,7 +879,9 @@
 <p>徽宗崇寧<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>樞密院言<pc>：</pc>
-<pc>“</pc>比者京畿保甲投<num value="871">八百七十一</num>牒乞免教閱<pc>，</pc>又<num value="230">二百三十</num>餘牒遮樞密張康國馬首訴焉<pc>。</pc>
+<pc>“</pc>
+<quote>比者京畿保甲投<num value="871">八百七十一</num>牒乞免教閱<pc>，</pc>又<num value="230">二百三十</num>餘牒遮樞密張康國馬首訴焉<pc>。</pc>
+</quote>
 <pc>”</pc>是月<pc>，</pc>詔京畿<pc>、</pc>
 <num value="3">三</num>路保甲並於農隙時教閱<pc>，</pc>其月教指揮勿行<pc>。</pc>
 </p>
@@ -715,30 +899,34 @@
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <pc>，</pc>樞密院言<pc>：</pc>
-<pc>“</pc>神考製保甲之法<pc>，</pc>京畿<pc>、</pc>
+<pc>“</pc>
+<quote>神考製保甲之法<pc>，</pc>京畿<pc>、</pc>
 <num value="3">三</num>路聚教<pc>，</pc>每番雖號<measure quantity="50" unit="days">
 <num value="50">五十</num>日</measure>
 <pc>，</pc>其間有能勤習弓弩該賞者首先拍放<pc>。</pc>
-<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>之中<pc>，</pc>在場閱教<pc>，</pc>遠者不過<measure quantity="27" unit="days">
+<num value="1">一</num>歲之中<pc>，</pc>在場閱教<pc>，</pc>遠者不過<measure quantity="27" unit="days">
 <num value="27">二十七</num>日</measure>
 <pc>，</pc>近者止於<measure quantity="18" unit="days">
 <num value="18">十八</num>日</measure>而已<pc>。</pc>若秋稼災傷<pc>，</pc>則免當年聚教<pc>。</pc>如武藝稍能精熟<pc>，</pc>則有激賞之法<pc>。</pc>鬥力出等<pc>，</pc>則免戶下春夫<pc>、</pc>科配<pc>；</pc>最高強者<pc>，</pc>則解發引見<pc>，</pc>試藝命官<pc>。</pc>行之累年<pc>，</pc>人皆樂從<pc>。</pc>惟京東<pc>、</pc>西雖有團成保甲之名<pc>，</pc>未嚐訓以武事<pc>，</pc>慮其間亦有人材甚眾<pc>，</pc>能習武藝<pc>，</pc>可以命官任使之人<pc>。</pc>今欲依<num value="3">三</num>路保甲編修點擇條約<pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>樞密院言<pc>：</pc>
-<pc>“</pc>諸路團成保甲者<num value="610000">六十一萬</num>餘人<pc>，</pc>悉皆樂從無擾<pc>。</pc>其京東<pc>、</pc>西路提舉官任諒已轉<num value="1">一</num>官<pc>，</pc>直秘閣<pc>。</pc>其朝議大夫已上與轉行<pc>，</pc>武臣武功大夫特與轉遙郡<term>刺史</term>
+<pc>“</pc>
+<quote>諸路團成保甲者<num value="610000">六十一萬</num>餘人<pc>，</pc>悉皆樂從無擾<pc>。</pc>其京東<pc>、</pc>西路提舉官任諒已轉<num value="1">一</num>官<pc>，</pc>直秘閣<pc>。</pc>其朝議大夫已上與轉行<pc>，</pc>武臣武功大夫特與轉遙郡<term>刺史</term>
 <pc>，</pc>餘官減磨勘年有差<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>宣和元年<pc>，</pc>詔提舉保甲督察州縣都保不如令者<pc>，</pc>限<measure quantity="1" unit="month">
+<p>
+<date notBefore="1119" notAfter="1125">宣和</date>元年<pc>，</pc>詔提舉保甲督察州縣都保不如令者<pc>，</pc>限<measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>改正<pc>，</pc>每歲以改正多寡為殿最<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>詔諸路保甲法並遵依元豐舊製<pc>，</pc>京東<pc>、</pc>京西路並罷<pc>。</pc>
+<pc>，</pc>詔諸路保甲法並遵依<date notBefore="1078" notAfter="1085">元豐</date>舊製<pc>，</pc>京東<pc>、</pc>京西路並罷<pc>。</pc>
 </p>
 </div>
 <div>
@@ -746,10 +934,15 @@
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>先帝若稽成周製保伍之法<pc>，</pc>自<num value="5">五</num>家相比<pc>，</pc>推而達之<pc>，</pc>
-<num value="25">二十五</num>家為<num value="1">一</num>大保<pc>，</pc>
-<num value="250">二百五十</num>家為<num value="1">一</num>都保<pc>。</pc>保各有長<pc>，</pc>都各有正<pc>，</pc>正各有副<pc>，</pc>使之相保相愛<pc>，</pc>以察奸慝<pc>。</pc>故有所行<pc>，</pc>諸自外來者<pc>，</pc>同保互告<pc>，</pc>使各相知<pc>；</pc>行止不明者<pc>，</pc>聽送所屬<pc>。</pc>保內盜賊<pc>，</pc>畫時集捕<pc>，</pc>知而不糾<pc>，</pc>又論如律<pc>。</pc>所以糾禁幾察<pc>，</pc>纖悉具備<pc>，</pc>奇邪寇盜<pc>，</pc>何所容跡<pc>？</pc>訪聞法行既久<pc>，</pc>州縣玩習弛廢<pc>，</pc>保丁開收既不以實<pc>，</pc>保長役使又不以時<pc>。</pc>如修鼓鋪<pc>、</pc>飾粉壁<pc>、</pc>守敗船<pc>、</pc>治道路<pc>、</pc>給夫役<pc>、</pc>催稅賦之類<pc>，</pc>科率騷擾不<num value="1">一</num>
+<pc>“</pc>
+<quote>先帝若稽成周製保伍之法<pc>，</pc>自<measure quantity="5" unit="households">
+<num value="5">五</num>家</measure>相比<pc>，</pc>推而達之<pc>，</pc>
+<measure quantity="25" unit="households">
+<num value="25">二十五</num>家</measure>為<num value="1">一</num>大保<pc>，</pc>
+<measure quantity="250" unit="households">
+<num value="250">二百五十</num>家</measure>為<num value="1">一</num>都保<pc>。</pc>保各有長<pc>，</pc>都各有正<pc>，</pc>正各有副<pc>，</pc>使之相保相愛<pc>，</pc>以察奸慝<pc>。</pc>故有所行<pc>，</pc>諸自外來者<pc>，</pc>同保互告<pc>，</pc>使各相知<pc>；</pc>行止不明者<pc>，</pc>聽送所屬<pc>。</pc>保內盜賊<pc>，</pc>畫時集捕<pc>，</pc>知而不糾<pc>，</pc>又論如律<pc>。</pc>所以糾禁幾察<pc>，</pc>纖悉具備<pc>，</pc>奇邪寇盜<pc>，</pc>何所容跡<pc>？</pc>訪聞法行既久<pc>，</pc>州縣玩習弛廢<pc>，</pc>保丁開收既不以實<pc>，</pc>保長役使又不以時<pc>。</pc>如修鼓鋪<pc>、</pc>飾粉壁<pc>、</pc>守敗船<pc>、</pc>治道路<pc>、</pc>給夫役<pc>、</pc>催稅賦之類<pc>，</pc>科率騷擾不<num value="1">一</num>
 <pc>，</pc>遂使寇賊奇邪無複糾察<pc>，</pc>良法美意浸成虛文<pc>。</pc>可令尚書省於諸路提點刑獄或提舉常平官內<pc>，</pc>每路選委<num value="1">一</num>員<pc>，</pc>令專<num value="1">一</num>督責逐縣令佐<pc>，</pc>將係籍人丁開收取實<pc>；</pc>選擇保正長<pc>，</pc>各更替如法<pc>，</pc>使鈐束保丁<pc>，</pc>遞相覺察<pc>，</pc>毋得舍亡賴作過等人<pc>，</pc>遇有盜賊<pc>，</pc>畫時追捕<pc>，</pc>若有過致藏匿者<pc>，</pc>許諸人告首<pc>，</pc>仍具條揭示<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -761,10 +954,12 @@
 <num value="6">六</num>月</measure>
 <pc>，</pc>
 <term>禦史</term>胡舜陟奏<pc>：</pc>
-<pc>“</pc>秦元學兵法<measure quantity="30" unit="years">
+<pc>“</pc>
+<quote>秦元學兵法<measure quantity="30" unit="years">
 <num value="30">三十</num>年</measure>
 <pc>，</pc>陛下拔之下僚<pc>，</pc>為京畿提刑<pc>，</pc>訓練保甲<pc>，</pc>聞者莫不慰悅<pc>。</pc>乞罷武臣提刑<pc>，</pc>以保甲屬元<pc>，</pc>庶得專<num value="1">一</num>
 <pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
@@ -773,10 +968,12 @@
 </p>
 </div>
 <div>
-<p>建炎後鄉兵</p>
+<p>
+<date notBefore="1127" notAfter="1130">建炎</date>後鄉兵</p>
 </div>
 <div>
-<p>巡社<pc>（</pc>建炎元年<pc>，</pc>詔諸路州軍巡社並以忠義巡社為名<pc>，</pc>隸宣撫司<pc>，</pc>後募鄉民為之<pc>。</pc>每<measure quantity="10" unit="people">
+<p>巡社<pc>（</pc>
+<date notBefore="1127" notAfter="1130">建炎</date>元年<pc>，</pc>詔諸路州軍巡社並以忠義巡社為名<pc>，</pc>隸宣撫司<pc>，</pc>後募鄉民為之<pc>。</pc>每<measure quantity="10" unit="people">
 <num value="10">十</num>人</measure>為<num value="1">一</num>甲<pc>，</pc>有甲長<pc>，</pc>有隊長<pc>；</pc>
 <num value="4">四</num>隊為<num value="1">一</num>部<pc>，</pc>有部長<pc>；</pc>
 <num value="5">五</num>部為<num value="1">一</num>社<pc>，</pc>有社長<pc>；</pc>
@@ -785,8 +982,12 @@
 </p>
 </div>
 <div>
-<p>槍杖手<pc>（</pc>建炎<measure quantity="2" unit="years">
+<p>槍杖手<pc>（</pc>
+<date when="1128">
+<date notBefore="1127" notAfter="1130">建炎</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>令福建招<measure quantity="5000" unit="people">
 <num value="5000">五千</num>人</measure>
 <pc>。</pc>
@@ -794,8 +995,12 @@
 </p>
 </div>
 <div>
-<p>土豪<pc>（</pc>建炎<measure quantity="4" unit="years">
+<p>土豪<pc>（</pc>
+<date when="1130">
+<date notBefore="1127" notAfter="1130">建炎</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <pc>，</pc>詔諸州守臣募土豪<pc>、</pc>民兵<pc>，</pc>聽州縣守令節製<pc>。</pc>後存留強壯<pc>，</pc>餘並放散<pc>。</pc>
 <pc>）</pc>義兵<pc>（</pc>紹興<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>團集<pc>，</pc>諸州名數不等<pc>。</pc>後皆以縣令為軍正<pc>。</pc>
@@ -812,8 +1017,12 @@
 </p>
 </div>
 <div>
-<p>民兵<pc>（</pc>建炎<measure quantity="2" unit="years">
+<p>民兵<pc>（</pc>
+<date when="1128">
+<date notBefore="1127" notAfter="1130">建炎</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>每<measure quantity="50" unit="people">
 <num value="50">五十</num>人</measure>為<num value="1">一</num>隊<pc>，</pc>有長<pc>、</pc>副<pc>。</pc>
 <num value="1">一</num>戶取<num value="1">一</num>丁<pc>，</pc>
@@ -830,13 +1039,14 @@
 </p>
 </div>
 <div>
-<p>弓箭手<pc>（</pc>建炎初<pc>，</pc>應諸路漢蕃弓箭手限<measure quantity="100" unit="days">
+<p>弓箭手<pc>（</pc>
+<date notBefore="1127" notAfter="1130">建炎</date>初<pc>，</pc>應諸路漢蕃弓箭手限<measure quantity="100" unit="days">
 <num value="100">百</num>日</measure>自陳承襲<pc>，</pc>紹興間<pc>，</pc>以京城外閑地<pc>，</pc>依陝西沿邊例<pc>，</pc>招弓箭手蒔種<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
-<p>土丁<pc>（</pc>紹興中<pc>，</pc>詔依嘉祐措置<pc>，</pc>
+<p>土丁<pc>（</pc>紹興中<pc>，</pc>詔依<date notBefore="1056" notAfter="1063">嘉祐</date>措置<pc>，</pc>
 <num value="3">三</num>時務農<pc>，</pc>
 <num value="1">一</num>時講武<pc>，</pc>諸縣逐鄉置教場<pc>，</pc>自<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>起教<pc>，</pc>至次年<measure quantity="1" unit="month">
@@ -856,8 +1066,12 @@
 </p>
 </div>
 <div>
-<p>峒丁<pc>（</pc>建炎<measure quantity="3" unit="years">
+<p>峒丁<pc>（</pc>
+<date when="1129">
+<date notBefore="1127" notAfter="1130">建炎</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>命江西<pc>、</pc>福建諸處總領官籍定槍杖手<pc>、</pc>峒丁人數<pc>，</pc>以備調遣<pc>。</pc>紹興中<pc>，</pc>罷之<pc>。</pc>
 <pc>）</pc>
 </p>
@@ -865,11 +1079,13 @@
 <div>
 <p>保勝<pc>（</pc>紹興<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>詔金<pc>、</pc>均<pc>、</pc>房<measure quantity="3" unit="prefectures">
+<pc>，</pc>詔金<pc>、</pc>均<pc>、</pc>
+<placeName>房</placeName>
+<measure quantity="3" unit="prefectures">
 <num value="3">三</num>州</measure>保甲分為<num value="5">五</num>軍<pc>，</pc>以保勝為名<pc>。</pc>
 <pc>）</pc>勇敢<pc>（</pc>紹興<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>詔池州就招土人充<pc>，</pc>
+<pc>，</pc>詔<placeName>池州</placeName>就招土人充<pc>，</pc>
 <num value="2000">二千</num>為額<pc>。</pc>
 <pc>）</pc>
 </p>
@@ -883,11 +1099,13 @@
 </div>
 <div>
 <p>
-<num value="10000">萬</num>弩手<pc>（</pc>初<pc>，</pc>熙寧間<pc>，</pc>以鼎<pc>、</pc>澧<pc>、</pc>辰<pc>、</pc>沅<pc>、</pc>靖<num value="5">五</num>郡弓弩手<measure quantity="3000" unit="people">
+<num value="10000">萬</num>弩手<pc>（</pc>初<pc>，</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>間<pc>，</pc>以鼎<pc>、</pc>澧<pc>、</pc>辰<pc>、</pc>沅<pc>、</pc>靖<num value="5">五</num>郡弓弩手<measure quantity="3000" unit="people">
 <num value="3000">萬三千</num>人</measure>散居邊境訓練<pc>，</pc>無事耕作<pc>，</pc>有警調發<pc>。</pc>紹興以後<pc>，</pc>增損靡定<pc>。</pc>
 <pc>）</pc>壯丁民社<pc>（</pc>乾道<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>楚州置<pc>。</pc>
+<pc>，</pc>
+<placeName>楚州</placeName>置<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -914,8 +1132,20 @@
 </p>
 </div>
 <div>
-<p>湖南鄉社<pc>（</pc>舊製<pc>，</pc>以鄉豪領之<pc>，</pc>大者統數<num value="100">百</num>家<pc>，</pc>小者亦<num value="600">二三百</num>家<pc>。</pc>後言者以其不便<pc>，</pc>淳熙中<pc>，</pc>擇其首領<pc>，</pc>使大者不過<num value="50">五十</num>家<pc>，</pc>小者減半<pc>。</pc>
-<pc>）</pc>忠勇<pc>（</pc>關外西和<pc>、</pc>階<pc>、</pc>成<pc>、</pc>鳳<measure quantity="4" unit="prefectures">
+<p>湖南鄉社<pc>（</pc>舊製<pc>，</pc>以鄉豪領之<pc>，</pc>大者統數<measure quantity="100" unit="households">
+<num value="100">百</num>家</measure>
+<pc>，</pc>小者亦<measure quantity="600" unit="households">
+<num value="600">二三百</num>家</measure>
+<pc>。</pc>後言者以其不便<pc>，</pc>淳熙中<pc>，</pc>擇其首領<pc>，</pc>使大者不過<measure quantity="50" unit="households">
+<num value="50">五十</num>家</measure>
+<pc>，</pc>小者減半<pc>。</pc>
+<pc>）</pc>忠勇<pc>（</pc>關外西和<pc>、</pc>
+<placeName>階</placeName>
+<pc>、</pc>
+<placeName>成</placeName>
+<pc>、</pc>
+<placeName>鳳</placeName>
+<measure quantity="4" unit="prefectures">
 <num value="4">四</num>州</measure>所聚民兵<pc>，</pc>謂之忠勇<pc>。</pc>
 <pc>）</pc>
 </p>
@@ -935,7 +1165,8 @@
 </p>
 </div>
 <div>
-<p>建炎後砦兵<pc>。</pc>兩浙西路</p>
+<p>
+<date notBefore="1127" notAfter="1130">建炎</date>後砦兵<pc>。</pc>兩浙西路</p>
 </div>
 <div>
 <p>臨安府<num value="13">十三</num>砦<pc>（</pc>外沙<pc>、</pc>海內<pc>、</pc>管界<pc>、</pc>茶槽<pc>、</pc>南蕩<pc>、</pc>東梓<pc>、</pc>上管<pc>、</pc>赭山<pc>、</pc>黃灣<pc>、</pc>硤石<pc>、</pc>奉口<pc>、</pc>許村<pc>、</pc>下塘<pc>。</pc>
@@ -949,13 +1180,17 @@
 </div>
 <div>
 <p>平江府<num value="8">八</num>砦<pc>（</pc>吳江<pc>、</pc>吳長<pc>、</pc>許浦<pc>、</pc>福山<pc>、</pc>白茅<pc>、</pc>江灣<pc>、</pc>楊林<pc>、</pc>角頭<pc>。</pc>
-<pc>）</pc>常州<num value="5">五</num>砦<pc>（</pc>管界<pc>、</pc>小河<pc>、</pc>馬跡<pc>、</pc>香蘭<pc>、</pc>分界<pc>。</pc>
+<pc>）</pc>
+<placeName>常州</placeName>
+<num value="5">五</num>砦<pc>（</pc>管界<pc>、</pc>小河<pc>、</pc>馬跡<pc>、</pc>香蘭<pc>、</pc>分界<pc>。</pc>
 <pc>）</pc>江陰軍<num value="2">二</num>砦<pc>（</pc>申港<pc>、</pc>石牌<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
-<p>嚴州<num value="5">五</num>砦<pc>（</pc>威平<pc>、</pc>港口<pc>、</pc>鳳林<pc>、</pc>茶山<pc>、</pc>管界<pc>。</pc>
+<p>
+<placeName>嚴州</placeName>
+<num value="5">五</num>砦<pc>（</pc>威平<pc>、</pc>港口<pc>、</pc>鳳林<pc>、</pc>茶山<pc>、</pc>管界<pc>。</pc>
 <pc>）</pc>兩浙東路</p>
 </div>
 <div>
@@ -967,7 +1202,9 @@
 <div>
 <p>溫州<num value="13">十三</num>砦<pc>（</pc>城下<pc>、</pc>管界<pc>、</pc>館頭<pc>、</pc>青奧<pc>、</pc>梅奧<pc>、</pc>鹿西<pc>、</pc>浦門<pc>、</pc>南監<pc>、</pc>東北<pc>、</pc>
 <num value="3">三</num>尖<pc>、</pc>北監<pc>、</pc>小鹿<pc>、</pc>大荊<pc>。</pc>
-<pc>）</pc>台州<num value="6">六</num>砦<pc>（</pc>管界<pc>、</pc>亭場<pc>、</pc>吳都<pc>、</pc>白塔<pc>、</pc>鬆門<pc>、</pc>臨門<pc>。</pc>
+<pc>）</pc>
+<placeName>台州</placeName>
+<num value="6">六</num>砦<pc>（</pc>管界<pc>、</pc>亭場<pc>、</pc>吳都<pc>、</pc>白塔<pc>、</pc>鬆門<pc>、</pc>臨門<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -979,7 +1216,9 @@
 </div>
 <div>
 <p>隆興府<num value="7">七</num>砦<pc>（</pc>都巡<pc>、</pc>鄔子<pc>、</pc>鬆門<pc>、</pc>港口<pc>、</pc>定江<pc>、</pc>杉市<pc>、</pc>管界<pc>。</pc>
-<pc>）</pc>撫州<num value="7">七</num>砦<pc>（</pc>城南<pc>、</pc>曾田<pc>、</pc>樂安<pc>、</pc>鎮馬<pc>、</pc>旗步<pc>、</pc>招攜<pc>、</pc>湖平<pc>。</pc>
+<pc>）</pc>
+<placeName>撫州</placeName>
+<num value="7">七</num>砦<pc>（</pc>城南<pc>、</pc>曾田<pc>、</pc>樂安<pc>、</pc>鎮馬<pc>、</pc>旗步<pc>、</pc>招攜<pc>、</pc>湖平<pc>。</pc>
 <pc>）</pc>江州<num value="6">六</num>砦<pc>（</pc>管界<pc>、</pc>江內<pc>、</pc>茭石<pc>、</pc>馬當<pc>、</pc>城子頭<pc>、</pc>孤山<pc>。</pc>
 <pc>）</pc>
 </p>
@@ -997,7 +1236,9 @@
 <pc>）</pc>荊湖南路</p>
 </div>
 <div>
-<p>永州<num value="3">三</num>砦<pc>（</pc>都巡<pc>、</pc>同巡<pc>、</pc>衡永界<pc>。</pc>
+<p>
+<placeName>永州</placeName>
+<num value="3">三</num>砦<pc>（</pc>都巡<pc>、</pc>同巡<pc>、</pc>衡永界<pc>。</pc>
 <pc>）</pc>寶慶<num value="3">三</num>砦<pc>（</pc>黃茅<pc>、</pc>西縣<pc>、</pc>盧溪<pc>。</pc>
 <pc>）</pc>郴州<num value="5">五</num>砦<pc>（</pc>管界<pc>、</pc>安福<pc>、</pc>青要<pc>、</pc>赤石<pc>、</pc>上猶<pc>。</pc>
 <pc>）</pc>
@@ -1021,11 +1262,14 @@
 </p>
 </div>
 <div>
-<p>南劍州<num value="8">八</num>砦<pc>（</pc>滄峽<pc>、</pc>
+<p>南<placeName>劍州</placeName>
+<num value="8">八</num>砦<pc>（</pc>滄峽<pc>、</pc>
 <placeName>洛陽</placeName>
 <pc>、</pc>浮流<pc>、</pc>岩前<pc>、</pc>同巡<pc>、</pc>仁壽<pc>、</pc>
 <num value="10000">萬</num>安<pc>、</pc>黃土<pc>。</pc>
-<pc>）</pc>泉州<num value="5">五</num>砦<pc>（</pc>都巡<pc>、</pc>同巡<pc>、</pc>石井<pc>、</pc>小兜<pc>、</pc>
+<pc>）</pc>
+<placeName>泉州</placeName>
+<num value="5">五</num>砦<pc>（</pc>都巡<pc>、</pc>同巡<pc>、</pc>石井<pc>、</pc>小兜<pc>、</pc>
 <num value="3">三</num>縣<pc>。</pc>
 <pc>）</pc>
 <placeName>福州</placeName>
@@ -1037,7 +1281,8 @@
 <div>
 <p>興化軍<num value="2">二</num>砦<pc>（</pc>同巡<pc>、</pc>巡鹽<pc>。</pc>
 <pc>）</pc>漳州<num value="2">二</num>砦<pc>（</pc>同巡<pc>、</pc>虎嶺<pc>。</pc>
-<pc>）</pc>廣西路賀州<num value="2">二</num>砦<pc>（</pc>臨賀<pc>、</pc>富川<pc>。</pc>
+<pc>）</pc>廣西路<placeName>賀州</placeName>
+<num value="2">二</num>砦<pc>（</pc>臨賀<pc>、</pc>富川<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>

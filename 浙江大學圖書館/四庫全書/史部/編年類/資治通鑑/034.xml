@@ -135,7 +135,8 @@
 <num value="6">六</num>月</measure>
 <pc>，</pc>
 <num value="57">庚申</num>
-<pc>，</pc>帝太后丁氏崩<pc>，</pc>詔歸葬定陶共皇之園<pc>，</pc>發陳留<pc>、</pc>濟陰近郡國<num value="50000">五萬</num>人穿復土<pc>。</pc>
+<pc>，</pc>帝太后丁氏崩<pc>，</pc>詔歸葬定陶共皇之園<pc>，</pc>發陳留<pc>、</pc>濟陰近郡國<measure quantity="50000" unit="people">
+<num value="50000">五萬</num>人</measure>穿復土<pc>。</pc>
 </p>
 </div>
 <div>
@@ -231,7 +232,9 @@
 </p>
 </div>
 <div>
-<p>烏孫卑爰疐侵盜匈奴西界<pc>，</pc>單于遣兵擊之<pc>，</pc>殺數<num value="100">百</num>人<pc>，</pc>略<num value="1000">千</num>餘人<pc>，</pc>驅牛畜去<pc>。</pc>卑爰疐恐<pc>，</pc>遣子趨逯為質匈奴<pc>，</pc>單于受<pc>，</pc>以狀聞<pc>。</pc>漢遣使者責讓單于<pc>，</pc>告令還歸卑爰疐質子<pc>。</pc>單于受詔遣歸<pc>。</pc>
+<p>烏孫卑爰疐侵盜匈奴西界<pc>，</pc>單于遣兵擊之<pc>，</pc>殺數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>略<num value="1000">千</num>餘人<pc>，</pc>驅牛畜去<pc>。</pc>卑爰疐恐<pc>，</pc>遣子趨逯為質匈奴<pc>，</pc>單于受<pc>，</pc>以狀聞<pc>。</pc>漢遣使者責讓單于<pc>，</pc>告令還歸卑爰疐質子<pc>。</pc>單于受詔遣歸<pc>。</pc>
 </p>
 </div>
 <div>
@@ -276,8 +279,11 @@
 <num value="34">丁酉</num>
 <pc>，</pc>王嘉為丞相<pc>，</pc>河南太守王崇為御史大夫<pc>。</pc>崇<pc>，</pc>京兆尹駿之子也<pc>。</pc>嘉以時政苛急<pc>，</pc>郡國守相數有變動<pc>，</pc>乃上疏曰<pc>：</pc>
 <pc>「</pc>
-<quote>臣聞聖王之功在於得人<pc>。</pc>孔子曰<pc>：</pc>『材難<pc>，</pc>不其然與<pc>！</pc>』故繼世立諸侯<pc>，</pc>像賢也<pc>。</pc>雖不能盡賢<pc>，</pc>天子為擇臣<pc>、</pc>立命卿以輔之<pc>。</pc>居是國也<pc>，</pc>累世尊重<pc>，</pc>然後士民之眾附焉<pc>。</pc>是以教化行而治功立<pc>。</pc>今之郡守重於古諸侯<pc>，</pc>往者致選賢材<pc>，</pc>賢材難得<pc>，</pc>拔擢可用者<pc>，</pc>或起於囚徒<pc>。</pc>昔魏尚坐事系<pc>，</pc>文帝感馮唐之言<pc>，</pc>遺使持節赦其罪<pc>，</pc>拜為雲中太守<pc>，</pc>匈奴忌之<pc>。</pc>武帝擢韓安國於徒中<pc>，</pc>拜為梁內史<pc>，</pc>骨肉以安<pc>。</pc>張敞為京兆尹<pc>，</pc>有罪當免<pc>，</pc>黠吏知而犯敞<pc>，</pc>敞收殺之<pc>，</pc>其家自冤<pc>，</pc>使者覆獄<pc>，</pc>劾敞賊殺人<pc>，</pc>上逮捕不下<pc>，</pc>會免<pc>；</pc>亡命<num value="10">十</num>數日<pc>，</pc>宣帝征敞拜為冀州<term>刺史</term>
-<pc>，</pc>卒獲其用<pc>。</pc>前世非私此<num value="3">三</num>人<pc>，</pc>貪其材器有益於公家也<pc>。</pc>孝文時<pc>，</pc>吏居官者或長子孫<pc>，</pc>以官為氏<pc>，</pc>倉氏<pc>、</pc>庫氏則倉庫吏之後也<pc>；</pc>其<num value="2000">二千</num>石長吏亦安官樂職<pc>，</pc>然後上下相望<pc>，</pc>莫有苟且之意<pc>。</pc>其後稍稍變易<pc>，</pc>公卿以下傳相促急<pc>，</pc>又數改更政事<pc>，</pc>司隸<pc>、</pc>部<term>刺史</term>舉劾苛細<pc>，</pc>發揚陰私<pc>，</pc>吏或居官數月而退<pc>，</pc>送故迎新<pc>，</pc>交錯道路<pc>。</pc>中材苟容求全<pc>，</pc>下材懷危內顧<pc>，</pc>壹切營私者多<pc>。</pc>
+<quote>臣聞聖王之功在於得人<pc>。</pc>孔子曰<pc>：</pc>『材難<pc>，</pc>不其然與<pc>！</pc>』故繼世立諸侯<pc>，</pc>像賢也<pc>。</pc>雖不能盡賢<pc>，</pc>天子為擇臣<pc>、</pc>立命卿以輔之<pc>。</pc>居是國也<pc>，</pc>累世尊重<pc>，</pc>然後士民之眾附焉<pc>。</pc>是以教化行而治功立<pc>。</pc>今之郡守重於古諸侯<pc>，</pc>往者致選賢材<pc>，</pc>賢材難得<pc>，</pc>拔擢可用者<pc>，</pc>或起於囚徒<pc>。</pc>昔魏尚坐事系<pc>，</pc>文帝感馮唐之言<pc>，</pc>遺使持節赦其罪<pc>，</pc>拜為雲中太守<pc>，</pc>匈奴忌之<pc>。</pc>武帝擢韓安國於徒中<pc>，</pc>拜為梁內史<pc>，</pc>骨肉以安<pc>。</pc>張敞為京兆尹<pc>，</pc>有罪當免<pc>，</pc>黠吏知而犯敞<pc>，</pc>敞收殺之<pc>，</pc>其家自冤<pc>，</pc>使者覆獄<pc>，</pc>劾敞賊殺人<pc>，</pc>上逮捕不下<pc>，</pc>會免<pc>；</pc>亡命<num value="10">十</num>數日<pc>，</pc>宣帝征敞拜為<placeName>冀州</placeName>
+<term>刺史</term>
+<pc>，</pc>卒獲其用<pc>。</pc>前世非私此<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>貪其材器有益於公家也<pc>。</pc>孝文時<pc>，</pc>吏居官者或長子孫<pc>，</pc>以官為氏<pc>，</pc>倉氏<pc>、</pc>庫氏則倉庫吏之後也<pc>；</pc>其<num value="2000">二千</num>石長吏亦安官樂職<pc>，</pc>然後上下相望<pc>，</pc>莫有苟且之意<pc>。</pc>其後稍稍變易<pc>，</pc>公卿以下傳相促急<pc>，</pc>又數改更政事<pc>，</pc>司隸<pc>、</pc>部<term>刺史</term>舉劾苛細<pc>，</pc>發揚陰私<pc>，</pc>吏或居官數月而退<pc>，</pc>送故迎新<pc>，</pc>交錯道路<pc>。</pc>中材苟容求全<pc>，</pc>下材懷危內顧<pc>，</pc>壹切營私者多<pc>。</pc>
 <num value="2000">二千</num>石益輕賤<pc>，</pc>吏民慢易之<pc>，</pc>或持其微過<pc>，</pc>增加成罪<pc>，</pc>言於<term>刺史</term>
 <pc>、</pc>司隸<pc>，</pc>或上書告之<pc>。</pc>眾庶知其易危<pc>，</pc>小失意則有離畔之心<pc>。</pc>前山陽亡徒蘇令等縱橫<pc>，</pc>吏士臨難<pc>，</pc>莫肯伏節死義<pc>，</pc>以守<pc>、</pc>相威權素奪也<pc>。</pc>孝成皇帝悔之<pc>，</pc>下詔書<pc>，</pc>
 <num value="2000">二千</num>石不為故縱<pc>，</pc>遣使者賜金<pc>，</pc>尉厚其意<pc>，</pc>誠以為國家有急<pc>，</pc>取辦於<num value="2000">二千</num>石<pc>；</pc>
@@ -349,7 +355,9 @@
 </p>
 </div>
 <div>
-<p>駙馬都尉<pc>、</pc>侍中雲陽董賢得幸於上<pc>，</pc>出則參乘<pc>，</pc>入御左右<pc>，</pc>賞賜累巨<num value="10000">萬</num>
+<p>
+<term>駙馬都尉</term>
+<pc>、</pc>侍中雲陽董賢得幸於上<pc>，</pc>出則參乘<pc>，</pc>入御左右<pc>，</pc>賞賜累巨<num value="10000">萬</num>
 <pc>，</pc>貴震朝廷<pc>。</pc>常與上臥起<pc>。</pc>嘗晝寢<pc>，</pc>偏藉上袖<pc>，</pc>上欲起<pc>，</pc>賢未覺<pc>，</pc>不欲動賢<pc>，</pc>乃斷袖而起<pc>。</pc>又詔賢妻得通引籍殿中<pc>，</pc>止賢廬<pc>。</pc>又召賢女弟以為昭儀<pc>，</pc>位次皇后<pc>。</pc>昭儀及賢與妻旦夕上下<pc>，</pc>並侍左右<pc>。</pc>以賢父恭為少府<pc>，</pc>賜爵關內侯<pc>。</pc>詔將作大匠為賢起大第北闕下<pc>，</pc>重殿<pc>，</pc>洞門<pc>，</pc>土木之功<pc>，</pc>窮極技巧<pc>。</pc>賜武庫禁兵<pc>，</pc>上方珍寶<pc>。</pc>其選物上弟盡在董氏<pc>，</pc>而乘輿所服乃其副也<pc>。</pc>及至東園秘器<pc>、</pc>珠襦<pc>、</pc>玉柙<pc>，</pc>豫以賜賢<pc>，</pc>無不備具<pc>。</pc>又令將作為賢起塚塋義陵旁<pc>，</pc>內為便房<pc>，</pc>剛柏題湊<pc>，</pc>外為徼道<pc>，</pc>周垣數里<pc>，</pc>門闕罘罳甚盛<pc>。</pc>
 </p>
 </div>
@@ -388,7 +396,8 @@
 <div>
 <p>上欲侯董賢而未有緣<pc>，</pc>侍中傅嘉勸上定息夫躬<pc>、</pc>孫寵告東平本章<pc>，</pc>掇去宋弘<pc>，</pc>更言因董賢以聞<pc>，</pc>欲以其功侯之<pc>，</pc>皆先賜爵關內侯<pc>。</pc>頃之<pc>，</pc>上欲封賢等而心憚王嘉<pc>，</pc>乃先使孔鄉侯晏持詔書示丞相<pc>、</pc>御史<pc>。</pc>於是嘉與御史大夫賈延上封事言<pc>：</pc>
 <pc>「</pc>
-<quote>竊見董賢等<num value="3">三</num>人始賜爵<pc>，</pc>眾庶匈匈<pc>，</pc>鹹曰賢貴<pc>，</pc>其餘並蒙恩<pc>，</pc>至今流言未解<pc>。</pc>陛下仁恩於賢等不已<pc>，</pc>宜暴賢等本奏語言<pc>，</pc>延問公卿<pc>、</pc>大夫<pc>、</pc>博士<pc>、</pc>議郎<pc>，</pc>考合古今<pc>，</pc>明正其義<pc>，</pc>然後乃加爵土<pc>；</pc>不然<pc>，</pc>恐大失眾心<pc>，</pc>海內引領而議<pc>。</pc>暴評其事<pc>，</pc>必有言當封者<pc>，</pc>在陛下所從<pc>；</pc>天下雖不說<pc>，</pc>咎有所分<pc>，</pc>不獨在陛下<pc>。</pc>前定陵侯淳於長初封<pc>，</pc>其事亦議<pc>，</pc>大司農谷永以長當封<pc>；</pc>眾人歸咎於永<pc>，</pc>先帝不獨蒙其譏<pc>。</pc>臣嘉<pc>，</pc>臣延<pc>，</pc>材駑不稱<pc>，</pc>死有餘責<pc>，</pc>知順指不迕<pc>，</pc>可得容身須臾<pc>。</pc>所以不敢者<pc>，</pc>思報厚恩也<pc>。</pc>
+<quote>竊見董賢等<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>始賜爵<pc>，</pc>眾庶匈匈<pc>，</pc>鹹曰賢貴<pc>，</pc>其餘並蒙恩<pc>，</pc>至今流言未解<pc>。</pc>陛下仁恩於賢等不已<pc>，</pc>宜暴賢等本奏語言<pc>，</pc>延問公卿<pc>、</pc>大夫<pc>、</pc>博士<pc>、</pc>議郎<pc>，</pc>考合古今<pc>，</pc>明正其義<pc>，</pc>然後乃加爵土<pc>；</pc>不然<pc>，</pc>恐大失眾心<pc>，</pc>海內引領而議<pc>。</pc>暴評其事<pc>，</pc>必有言當封者<pc>，</pc>在陛下所從<pc>；</pc>天下雖不說<pc>，</pc>咎有所分<pc>，</pc>不獨在陛下<pc>。</pc>前定陵侯淳於長初封<pc>，</pc>其事亦議<pc>，</pc>大司農谷永以長當封<pc>；</pc>眾人歸咎於永<pc>，</pc>先帝不獨蒙其譏<pc>。</pc>臣嘉<pc>，</pc>臣延<pc>，</pc>材駑不稱<pc>，</pc>死有餘責<pc>，</pc>知順指不迕<pc>，</pc>可得容身須臾<pc>。</pc>所以不敢者<pc>，</pc>思報厚恩也<pc>。</pc>
 </quote>
 <pc>」</pc>上不得已<pc>，</pc>且為之止<pc>。</pc>
 </p>
@@ -408,7 +417,8 @@
 <num value="28">辛卯</num>
 <pc>，</pc>上下詔切責公卿曰<pc>：</pc>
 <pc>「</pc>
-<quote>昔楚有子玉得臣<pc>，</pc>晉文為之側席而坐<pc>；</pc>近事<pc>，</pc>汲黯折淮南之謀<pc>。</pc>今東平王雲等至有圖弒天子逆亂之謀者<pc>，</pc>是公卿股肱莫能悉心<pc>、</pc>務聰明以銷厭未萌故也<pc>。</pc>賴宗廟之靈<pc>，</pc>侍中<pc>、</pc>駙馬都尉賢等發覺以聞<pc>，</pc>鹹伏厥辜<pc>。</pc>
+<quote>昔楚有子玉得臣<pc>，</pc>晉文為之側席而坐<pc>；</pc>近事<pc>，</pc>汲黯折淮南之謀<pc>。</pc>今東平王雲等至有圖弒天子逆亂之謀者<pc>，</pc>是公卿股肱莫能悉心<pc>、</pc>務聰明以銷厭未萌故也<pc>。</pc>賴宗廟之靈<pc>，</pc>侍中<pc>、</pc>
+<term>駙馬都尉</term>賢等發覺以聞<pc>，</pc>鹹伏厥辜<pc>。</pc>
 <pc>《</pc>
 <title>書</title>
 <pc>》</pc>不雲乎<pc>：</pc>『用德章厥善<pc>。</pc>』其封賢為高安侯<pc>，</pc>南陽太守寵為方陽侯<pc>，</pc>左曹<pc>、</pc>光祿大夫躬為宜陵侯<pc>，</pc>賜右師譚爵關內侯<pc>。</pc>
@@ -423,9 +433,12 @@
 <num value="1">一</num>出少府<pc>。</pc>蓋不以本臧給末用<pc>，</pc>不以民力共浮費<pc>，</pc>別公私<pc>，</pc>示正路也<pc>。</pc>古者諸侯<pc>、</pc>方伯得顓征伐<pc>，</pc>乃賜斧鉞<pc>，</pc>漢家邊吏職任距寇<pc>，</pc>亦賜武庫兵<pc>，</pc>皆任事然後蒙之<pc>。</pc>
 <pc>《</pc>
 <title>春秋</title>
-<pc>》</pc>之誼<pc>，</pc>家不臧甲<pc>，</pc>所以抑臣威<pc>，</pc>損私力也<pc>。</pc>今賢等便僻弄臣<pc>，</pc>私恩微妾<pc>，</pc>而以天下公用給其私門<pc>，</pc>契國威器<pc>，</pc>共其家備<pc>，</pc>民力分於弄臣<pc>，</pc>武兵設於微妾<pc>，</pc>建立非宜<pc>，</pc>以廣驕僭<pc>，</pc>非所以示<num value="4">四</num>方也<pc>。</pc>孔子曰<pc>：</pc>『奚取於<num value="3">三</num>家之堂<pc>！</pc>』臣請收還武庫<pc>。</pc>
+<pc>》</pc>之誼<pc>，</pc>家不臧甲<pc>，</pc>所以抑臣威<pc>，</pc>損私力也<pc>。</pc>今賢等便僻弄臣<pc>，</pc>私恩微妾<pc>，</pc>而以天下公用給其私門<pc>，</pc>契國威器<pc>，</pc>共其家備<pc>，</pc>民力分於弄臣<pc>，</pc>武兵設於微妾<pc>，</pc>建立非宜<pc>，</pc>以廣驕僭<pc>，</pc>非所以示<num value="4">四</num>方也<pc>。</pc>孔子曰<pc>：</pc>『奚取於<measure quantity="3" unit="households">
+<num value="3">三</num>家</measure>之堂<pc>！</pc>』臣請收還武庫<pc>。</pc>
 </quote>
-<pc>」</pc>上不說<pc>。</pc>頃之<pc>，</pc>傅太后使謁者賤買執金吾官婢<num value="8">八</num>人<pc>，</pc>隆奏言<pc>：</pc>
+<pc>」</pc>上不說<pc>。</pc>頃之<pc>，</pc>傅太后使謁者賤買執金吾官婢<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>隆奏言<pc>：</pc>
 <pc>「</pc>
 <quote>買賤<pc>，</pc>請更平直<pc>。</pc>
 </quote>
@@ -498,7 +511,8 @@
 <num value="3">三</num>王所不能制<pc>，</pc>其不可使隙明甚<pc>。</pc>臣不敢遠稱<pc>，</pc>請引秦以來明之<pc>：</pc>以秦始皇之強<pc>，</pc>蒙恬之威<pc>，</pc>然不敢窺西河<pc>，</pc>乃築長城以界之<pc>。</pc>會漢初興<pc>，</pc>以高祖之威靈<pc>，</pc>
 <num value="300000">三十萬</num>眾困於平城<pc>，</pc>時奇譎之士<pc>、</pc>石畫之臣甚眾<pc>，</pc>卒其所以脫者<pc>，</pc>世莫得而言也<pc>。</pc>又高皇后時<pc>，</pc>匈奴悖慢<pc>，</pc>大臣權書遺之<pc>，</pc>然後得解<pc>。</pc>及孝文時<pc>，</pc>匈奴侵暴北邊<pc>，</pc>候騎至雍甘泉<pc>，</pc>京師大駭<pc>，</pc>發<num value="3">三</num>將軍屯細柳<pc>、</pc>棘門<pc>、</pc>霸上以備之<pc>，</pc>數月乃罷<pc>。</pc>孝武即位<pc>，</pc>設馬邑之權<pc>，</pc>欲誘匈奴<pc>，</pc>徒費財勞師<pc>，</pc>
 <num value="1">一</num>虜不可得見<pc>，</pc>況單于之面乎<pc>！</pc>其後深惟社稷之計<pc>，</pc>規恢<num value="10000">萬</num>載之策<pc>，</pc>乃大興師數<num value="100000">十萬</num>
-<pc>，</pc>使衛青<pc>、</pc>霍去病操兵<pc>，</pc>前後<num value="10">十</num>餘年<pc>，</pc>於是浮西河<pc>，</pc>絕大幕<pc>，</pc>破寘顏<pc>，</pc>襲王庭<pc>，</pc>窮極其地<pc>，</pc>追奔逐北<pc>，</pc>封狼居胥山<pc>，</pc>禪於姑衍<pc>，</pc>以臨翰海<pc>，</pc>虜名王<pc>、</pc>貴人以<num value="100">百</num>數<pc>。</pc>自是之後<pc>，</pc>匈奴震怖<pc>，</pc>益求和親<pc>，</pc>然而未肯稱臣也<pc>。</pc>且夫前世豈樂傾無量之費<pc>，</pc>役無罪之人<pc>，</pc>快心狼望之北哉<pc>？</pc>以為不壹勞者不久佚<pc>，</pc>不暫費者不永寧<pc>，</pc>是以忍<num value="1000000">百萬</num>之師以摧餓虎之喙<pc>，</pc>運府庫之財填盧山之壑而不悔也<pc>。</pc>至本始之初<pc>，</pc>匈奴有桀心<pc>，</pc>欲掠烏孫<pc>，</pc>侵公主<pc>，</pc>乃發<num value="5">五</num>將之師<num value="150000">十五萬</num>騎以擊之<pc>，</pc>時鮮有所獲<pc>，</pc>徒奮揚威武<pc>，</pc>明漢兵若雷風耳<pc>！</pc>雖空行空反<pc>，</pc>尚誅兩將軍<pc>，</pc>故北狄不服<pc>，</pc>中國未得高枕安寢也<pc>。</pc>逮至元康<pc>、</pc>神爵之間<pc>，</pc>大化神明<pc>，</pc>鴻恩溥洽<pc>，</pc>而匈奴內亂<pc>，</pc>
+<pc>，</pc>使衛青<pc>、</pc>霍去病操兵<pc>，</pc>前後<num value="10">十</num>餘年<pc>，</pc>於是浮西河<pc>，</pc>絕大幕<pc>，</pc>破寘顏<pc>，</pc>襲王庭<pc>，</pc>窮極其地<pc>，</pc>追奔逐北<pc>，</pc>封狼居胥山<pc>，</pc>禪於姑衍<pc>，</pc>以臨翰海<pc>，</pc>虜名王<pc>、</pc>貴人以<num value="100">百</num>數<pc>。</pc>自是之後<pc>，</pc>匈奴震怖<pc>，</pc>益求和親<pc>，</pc>然而未肯稱臣也<pc>。</pc>且夫前世豈樂傾無量之費<pc>，</pc>役無罪之人<pc>，</pc>快心狼望之北哉<pc>？</pc>以為不壹勞者不久佚<pc>，</pc>不暫費者不永寧<pc>，</pc>是以忍<num value="1000000">百萬</num>之師以摧餓虎之喙<pc>，</pc>運府庫之財填盧山之壑而不悔也<pc>。</pc>至本始之初<pc>，</pc>匈奴有桀心<pc>，</pc>欲掠烏孫<pc>，</pc>侵公主<pc>，</pc>乃發<num value="5">五</num>將之師<measure quantity="150000" unit="riders">
+<num value="150000">十五萬</num>騎</measure>以擊之<pc>，</pc>時鮮有所獲<pc>，</pc>徒奮揚威武<pc>，</pc>明漢兵若雷風耳<pc>！</pc>雖空行空反<pc>，</pc>尚誅兩將軍<pc>，</pc>故北狄不服<pc>，</pc>中國未得高枕安寢也<pc>。</pc>逮至元康<pc>、</pc>神爵之間<pc>，</pc>大化神明<pc>，</pc>鴻恩溥洽<pc>，</pc>而匈奴內亂<pc>，</pc>
 <num value="5">五</num>單于爭立<pc>，</pc>日逐<pc>、</pc>呼韓邪攜國歸死<pc>，</pc>扶伏稱臣<pc>，</pc>然尚羈縻之<pc>，</pc>計不顓制<pc>。</pc>自此之後<pc>，</pc>欲朝者不距<pc>，</pc>不欲者不強<pc>。</pc>何者<pc>？</pc>外國天性忿鷙<pc>，</pc>形容魁健<pc>，</pc>負力怙氣<pc>，</pc>難化以善<pc>，</pc>易肄以惡<pc>，</pc>其強難詘<pc>，</pc>其和難得<pc>。</pc>故未服之時<pc>，</pc>勞師遠攻<pc>，</pc>傾國殫貨<pc>，</pc>伏屍流血<pc>，</pc>破堅拔敵<pc>，</pc>如彼之難也<pc>；</pc>既服之後<pc>，</pc>慰薦撫循<pc>，</pc>交接賂遺<pc>，</pc>威儀俯仰<pc>，</pc>如此之備也<pc>。</pc>往時嘗屠大宛之城<pc>，</pc>蹈烏桓之壘<pc>，</pc>探姑繒之壁<pc>，</pc>藉蕩姐之場<pc>，</pc>艾朝鮮之旃<pc>，</pc>拔兩越之旗<pc>，</pc>近不過旬月之役<pc>，</pc>遠不離<num value="2">二</num>時之勞<pc>，</pc>固已犁其庭<pc>，</pc>掃其閭<pc>，</pc>郡縣而置之<pc>，</pc>雲徹席捲<pc>，</pc>後無餘災<pc>。</pc>唯北狄為不然<pc>，</pc>真中國之堅敵也<pc>，</pc>
 <num value="3">三</num>垂比之縣矣<pc>；</pc>前世重之茲甚<pc>，</pc>未易可輕也<pc>。</pc>
 </p>
@@ -543,7 +557,8 @@
 </quote>
 <pc>」</pc>上然之<pc>，</pc>以問丞相嘉<pc>，</pc>對曰<pc>：</pc>
 <pc>「</pc>
-<quote>臣聞動民以行不以言<pc>，</pc>應天以實不以文<pc>。</pc>下民微細<pc>，</pc>猶不可詐<pc>，</pc>況於上天神明而可欺哉<pc>！</pc>天之見異<pc>，</pc>所以敕戒人君<pc>，</pc>欲令覺悟反正<pc>，</pc>推誠行善<pc>，</pc>民心說而天意得矣<pc>！</pc>辯士見<num value="1">一</num>端<pc>，</pc>或妄以意傅著星歷<pc>，</pc>虛造匈奴<pc>、</pc>烏孫<pc>、</pc>西羌之難<pc>，</pc>謀動干戈<pc>，</pc>設為權變<pc>，</pc>非應天之道也<pc>。</pc>守相有罪<pc>，</pc>車馳詣闕<pc>，</pc>交臂就死<pc>，</pc>恐懼如此<pc>，</pc>而談說者欲動安之危<pc>，</pc>辯口快耳<pc>，</pc>其實未可從<pc>。</pc>夫議政者<pc>，</pc>苦其諂諛<pc>、</pc>傾險<pc>、</pc>辯惠<pc>、</pc>深刻也<pc>。</pc>昔秦繆公不從<num value="100">百</num>里奚<pc>、</pc>蹇叔之言<pc>，</pc>以敗其師<pc>，</pc>其悔過自責<pc>，</pc>疾詿誤之臣<pc>，</pc>思黃發之言<pc>，</pc>名垂於後世<pc>。</pc>唯陛下觀覽古戒<pc>，</pc>反覆參考<pc>，</pc>無以先入之語為主<pc>！</pc>
+<quote>臣聞動民以行不以言<pc>，</pc>應天以實不以文<pc>。</pc>下民微細<pc>，</pc>猶不可詐<pc>，</pc>況於上天神明而可欺哉<pc>！</pc>天之見異<pc>，</pc>所以敕戒人君<pc>，</pc>欲令覺悟反正<pc>，</pc>推誠行善<pc>，</pc>民心說而天意得矣<pc>！</pc>辯士見<num value="1">一</num>端<pc>，</pc>或妄以意傅著星歷<pc>，</pc>虛造匈奴<pc>、</pc>烏孫<pc>、</pc>西羌之難<pc>，</pc>謀動干戈<pc>，</pc>設為權變<pc>，</pc>非應天之道也<pc>。</pc>守相有罪<pc>，</pc>車馳詣闕<pc>，</pc>交臂就死<pc>，</pc>恐懼如此<pc>，</pc>而談說者欲動安之危<pc>，</pc>辯口快耳<pc>，</pc>其實未可從<pc>。</pc>夫議政者<pc>，</pc>苦其諂諛<pc>、</pc>傾險<pc>、</pc>辯惠<pc>、</pc>深刻也<pc>。</pc>昔秦繆公不從<measure quantity="100" unit="LIs">
+<num value="100">百</num>里</measure>奚<pc>、</pc>蹇叔之言<pc>，</pc>以敗其師<pc>，</pc>其悔過自責<pc>，</pc>疾詿誤之臣<pc>，</pc>思黃發之言<pc>，</pc>名垂於後世<pc>。</pc>唯陛下觀覽古戒<pc>，</pc>反覆參考<pc>，</pc>無以先入之語為主<pc>！</pc>
 </quote>
 <pc>」</pc>上不聽<pc>。</pc>
 </p>
@@ -556,7 +571,8 @@
 <pc>《</pc>
 <title>資治通鑒</title>
 <pc>》</pc>
-<pc>（</pc>宋<pc>）</pc>司馬光編著<pc>；</pc>
+<pc>（</pc>宋<pc>）</pc>
+<persName>司馬光</persName>編著<pc>；</pc>
 <pc>（</pc>元<pc>）</pc>胡<num value="3">三</num>省音注</p>
 </div>
 <div>
@@ -653,7 +669,7 @@
 <measure quantity="19" unit="days">
 <num value="19">十九</num>日</measure>
 <num value="12">乙亥</num>
-<pc>，</pc>非朔也<pc>。</pc>表<pc>、</pc>志皆有誤<pc>。</pc>〕少府趙玄為御史大夫<pc>。</pc>〔成帝綏和元年<pc>，</pc>趙玄自太子太傅左遷<pc>，</pc>今複進用<pc>，</pc>皆丁<pc>、</pc>傅之意也<pc>。</pc>〕臨延登受策<pc>，</pc>〔師古曰<pc>：</pc>延入而登殿也<pc>。</pc>漢書儀雲<pc>：</pc>丞相<pc>、</pc>御史大夫初拜<pc>，</pc>皇帝延登親詔也<pc>。</pc>〕有大聲如鍾鳴<pc>，</pc>殿中郎吏陛者皆聞焉<pc>。</pc>〔師古曰<pc>：</pc>陛者<pc>，</pc>謂執兵列於陛側<pc>。</pc>〕</p>
+<pc>，</pc>非朔也<pc>。</pc>表<pc>、</pc>志皆有誤<pc>。</pc>〕少府趙玄為御史大夫<pc>。</pc>〔成帝綏和元年<pc>，</pc>趙玄自<term>太子太傅</term>左遷<pc>，</pc>今複進用<pc>，</pc>皆丁<pc>、</pc>傅之意也<pc>。</pc>〕臨延登受策<pc>，</pc>〔師古曰<pc>：</pc>延入而登殿也<pc>。</pc>漢書儀雲<pc>：</pc>丞相<pc>、</pc>御史大夫初拜<pc>，</pc>皇帝延登親詔也<pc>。</pc>〕有大聲如鍾鳴<pc>，</pc>殿中郎吏陛者皆聞焉<pc>。</pc>〔師古曰<pc>：</pc>陛者<pc>，</pc>謂執兵列於陛側<pc>。</pc>〕</p>
 </div>
 <div>
 <p>上以問黃門侍郎蜀郡揚雄〔續漢志<pc>：</pc>給事黃門侍郎<pc>，</pc>
@@ -751,7 +767,8 @@
 <num value="6">六</num>月</measure>
 <pc>，</pc>
 <num value="57">庚申</num>
-<pc>，</pc>帝太后丁氏崩<pc>，</pc>詔歸葬定陶共皇之園<pc>，</pc>〔從夫也<pc>，</pc>共皇葬于其國<pc>。</pc>賢曰<pc>：</pc>在今曹州濟陰縣北<pc>。</pc>共<pc>，</pc>讀曰恭<pc>。</pc>〕發陳留<pc>、</pc>濟陰近郡國<num value="50000">五萬</num>人穿複土<pc>。</pc>〔近郡國<pc>，</pc>謂郡國之近定陶者<pc>。</pc>前書音義曰<pc>：</pc>穿複土<pc>，</pc>謂穿壙填塞事也<pc>。</pc>言下棺訖<pc>，</pc>複以土為墳<pc>，</pc>故曰複土<pc>。</pc>近<pc>，</pc>其靳翻<pc>。</pc>〕</p>
+<pc>，</pc>帝太后丁氏崩<pc>，</pc>詔歸葬定陶共皇之園<pc>，</pc>〔從夫也<pc>，</pc>共皇葬于其國<pc>。</pc>賢曰<pc>：</pc>在今<placeName>曹州</placeName>濟陰縣北<pc>。</pc>共<pc>，</pc>讀曰恭<pc>。</pc>〕發陳留<pc>、</pc>濟陰近郡國<measure quantity="50000" unit="people">
+<num value="50000">五萬</num>人</measure>穿複土<pc>。</pc>〔近郡國<pc>，</pc>謂郡國之近定陶者<pc>。</pc>前書音義曰<pc>：</pc>穿複土<pc>，</pc>謂穿壙填塞事也<pc>。</pc>言下棺訖<pc>，</pc>複以土為墳<pc>，</pc>故曰複土<pc>。</pc>近<pc>，</pc>其靳翻<pc>。</pc>〕</p>
 </div>
 <div>
 <p>⑧初<pc>，</pc>成帝時<pc>，</pc>齊人甘忠可詐造天官曆<pc>、</pc>包元太平經<measure quantity="12" unit="chapters">
@@ -854,7 +871,9 @@
 <pc>」</pc>余按彭宣以連姻藩國而免官<pc>，</pc>丁<pc>、</pc>傅以戚黨而見用<pc>，</pc>卒之奪劉氏者<pc>，</pc>非藩國<pc>，</pc>乃外戚也<pc>。</pc>丁<pc>、</pc>傅於國有大故之時<pc>，</pc>拱手授柄于王氏<pc>，</pc>而彭宣乃能辭<num value="3">三</num>公位於王莽專權之初<pc>，</pc>任官惟賢材<pc>，</pc>烏得拘小嫌乎<pc>！</pc>〕</p>
 </div>
 <div>
-<p>烏孫卑爰疐侵盜匈奴西界<pc>，</pc>單于遣兵擊之<pc>，</pc>殺數<num value="100">百</num>人<pc>，</pc>略<num value="1000">千</num>餘人<pc>，</pc>驅牛畜去<pc>。</pc>卑爰疐恐<pc>，</pc>遣子趨逯為質匈奴<pc>，</pc>〔疐<pc>，</pc>竹<num value="2">二</num>翻<pc>。</pc>師古曰<pc>：</pc>驅<pc>，</pc>與驅同<pc>。</pc>逯<pc>，</pc>音錄<pc>。</pc>質<pc>，</pc>音致<pc>；</pc>下同<pc>。</pc>〕單于受<pc>，</pc>以狀聞<pc>。</pc>漢遣使者責讓單于<pc>，</pc>告令還歸卑爰疐質子<pc>；</pc>〔責以匈奴<pc>、</pc>烏孫並為漢臣<pc>，</pc>單于不當擅受卑爰疐質子<pc>。</pc>〕單于受詔遣歸<pc>。</pc>
+<p>烏孫卑爰疐侵盜匈奴西界<pc>，</pc>單于遣兵擊之<pc>，</pc>殺數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>略<num value="1000">千</num>餘人<pc>，</pc>驅牛畜去<pc>。</pc>卑爰疐恐<pc>，</pc>遣子趨逯為質匈奴<pc>，</pc>〔疐<pc>，</pc>竹<num value="2">二</num>翻<pc>。</pc>師古曰<pc>：</pc>驅<pc>，</pc>與驅同<pc>。</pc>逯<pc>，</pc>音錄<pc>。</pc>質<pc>，</pc>音致<pc>；</pc>下同<pc>。</pc>〕單于受<pc>，</pc>以狀聞<pc>。</pc>漢遣使者責讓單于<pc>，</pc>告令還歸卑爰疐質子<pc>；</pc>〔責以匈奴<pc>、</pc>烏孫並為漢臣<pc>，</pc>單于不當擅受卑爰疐質子<pc>。</pc>〕單于受詔遣歸<pc>。</pc>
 </p>
 </div>
 <div>
@@ -922,7 +941,11 @@
 <pc>「</pc>
 <quote>臣聞聖王之功在於得人<pc>，</pc>孔子曰<pc>：</pc>『材難<pc>，</pc>不其然與<pc>！</pc>』〔師古曰<pc>：</pc>論語載孔子之言也<pc>。</pc>材難<pc>，</pc>言有賢材者難得也<pc>。</pc>與<pc>，</pc>讀曰歟<pc>。</pc>餘謂材難<num value="2">二</num>語<pc>，</pc>古語也<pc>；</pc>孔子引之<pc>，</pc>謂其言之是也<pc>。</pc>〕故『繼世立諸侯<pc>，</pc>象賢也<pc>。</pc>』〔禮記郊特牲之文<pc>。</pc>師古曰<pc>：</pc>象其先父祖之賢耳<pc>，</pc>非必皆賢也<pc>。</pc>〕雖不能盡賢<pc>，</pc>天子為擇臣<pc>、</pc>立命卿以輔之<pc>。</pc>〔記王制<pc>：</pc>大國<num value="3">三</num>卿<pc>，</pc>皆命于天子<pc>；</pc>次國<num value="3">三</num>卿<pc>，</pc>
 <num value="2">二</num>卿命于天子<pc>，</pc>
-<num value="1">一</num>卿命於其君<pc>；</pc>小國<num value="2">二</num>卿<pc>，</pc>皆命於其君<pc>。</pc>春秋之時<pc>，</pc>如晉之<num value="6">六</num>卿<pc>，</pc>以中軍帥為正卿<pc>，</pc>亦其君先命之而後聞于天子耳<pc>。</pc>齊之高<pc>、</pc>國<pc>，</pc>魯之<num value="3">三</num>桓<pc>，</pc>皆世卿也<pc>。</pc>漢之王國傅<pc>、</pc>相<pc>、</pc>中尉命于天子<pc>，</pc>猶古之命卿也<pc>。</pc>〕居是國也<pc>，</pc>累世尊重<pc>，</pc>然後士民之眾附焉<pc>，</pc>是以教化行而治功立<pc>。</pc>〔治<pc>，</pc>直吏翻<pc>。</pc>〕今之郡守重于古諸侯<pc>，</pc>〔周初班爵<num value="5">五</num>等<pc>，</pc>公<pc>、</pc>侯地方<num value="100">百</num>里<pc>，</pc>伯<num value="70">七十</num>裏<pc>，</pc>子<pc>、</pc>男<num value="50">五十</num>裏<pc>。</pc>其後齊<pc>、</pc>晉<pc>、</pc>秦<pc>、</pc>楚<pc>，</pc>以兼併而地始廣大耳<pc>。</pc>漢郡守方制<num value="1000">千</num>里<pc>，</pc>連城以<num value="10">十</num>數<pc>，</pc>是重于古諸侯也<pc>。</pc>守<pc>，</pc>式又翻<pc>；</pc>下同<pc>。</pc>〕往者致選賢材<pc>，</pc>〔致<pc>，</pc>極也<pc>。</pc>〕賢材難得<pc>，</pc>拔擢可用者<pc>，</pc>或起于囚徒<pc>。</pc>昔魏尚坐事系<pc>，</pc>文帝感馮唐之言<pc>，</pc>遣使持節赦其罪<pc>，</pc>拜為雲中太守<pc>；</pc>匈奴忌之<pc>。</pc>〔事見<measure quantity="14" unit="chapters">
+<num value="1">一</num>卿命於其君<pc>；</pc>小國<num value="2">二</num>卿<pc>，</pc>皆命於其君<pc>。</pc>春秋之時<pc>，</pc>如晉之<num value="6">六</num>卿<pc>，</pc>以中軍帥為正卿<pc>，</pc>亦其君先命之而後聞于天子耳<pc>。</pc>齊之高<pc>、</pc>國<pc>，</pc>魯之<num value="3">三</num>桓<pc>，</pc>皆世卿也<pc>。</pc>漢之王國傅<pc>、</pc>相<pc>、</pc>中尉命于天子<pc>，</pc>猶古之命卿也<pc>。</pc>〕居是國也<pc>，</pc>累世尊重<pc>，</pc>然後士民之眾附焉<pc>，</pc>是以教化行而治功立<pc>。</pc>〔治<pc>，</pc>直吏翻<pc>。</pc>〕今之郡守重于古諸侯<pc>，</pc>〔周初班爵<num value="5">五</num>等<pc>，</pc>公<pc>、</pc>侯地方<measure quantity="100" unit="LIs">
+<num value="100">百</num>里</measure>
+<pc>，</pc>伯<num value="70">七十</num>裏<pc>，</pc>子<pc>、</pc>男<num value="50">五十</num>裏<pc>。</pc>其後齊<pc>、</pc>晉<pc>、</pc>秦<pc>、</pc>楚<pc>，</pc>以兼併而地始廣大耳<pc>。</pc>漢郡守方制<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>
+<pc>，</pc>連城以<num value="10">十</num>數<pc>，</pc>是重于古諸侯也<pc>。</pc>守<pc>，</pc>式又翻<pc>；</pc>下同<pc>。</pc>〕往者致選賢材<pc>，</pc>〔致<pc>，</pc>極也<pc>。</pc>〕賢材難得<pc>，</pc>拔擢可用者<pc>，</pc>或起于囚徒<pc>。</pc>昔魏尚坐事系<pc>，</pc>文帝感馮唐之言<pc>，</pc>遣使持節赦其罪<pc>，</pc>拜為雲中太守<pc>；</pc>匈奴忌之<pc>。</pc>〔事見<measure quantity="14" unit="chapters">
 <num value="14">十四</num>卷</measure>文帝<measure quantity="14" unit="years">
 <num value="14">十四</num>年</measure>
 <pc>。</pc>〕武帝擢韓安國於徒中<pc>，</pc>拜為梁內史<pc>；</pc>骨肉以安<pc>。</pc>〔按韓安國傳<pc>：</pc>安國坐法抵罪<pc>。</pc>會梁內史缺<pc>，</pc>漢使使者拜安國為梁內史<pc>，</pc>起徒中為<num value="2000">二千</num>石<pc>。</pc>此景帝時事也<pc>。</pc>
@@ -931,9 +954,12 @@
 <pc>，</pc>當作<pc>「</pc>
 <quote>景帝</quote>
 <pc>」</pc>
-<pc>。</pc>師古曰<pc>：</pc>骨肉以安<pc>，</pc>言梁孝王免罪也<pc>。</pc>〕張敞為京兆尹<pc>，</pc>有罪當免<pc>，</pc>黠吏知而犯敞<pc>，</pc>〔黠<pc>，</pc>下<num value="8">八</num>翻<pc>。</pc>〕敞收殺之<pc>，</pc>其家自冤<pc>，</pc>〔自言其冤也<pc>。</pc>〕使者覆獄<pc>，</pc>劾敞賊殺人<pc>，</pc>上逮捕不下<pc>，</pc>〔上奏請逮捕敞<pc>，</pc>而天子不下其奏也<pc>。</pc>上<pc>，</pc>時掌翻<pc>。</pc>下<pc>，</pc>遐嫁翻<pc>。</pc>〕會免<pc>；</pc>亡命<num value="10">十</num>數日<pc>，</pc>宣帝征敞拜為冀州<term>刺史</term>
+<pc>。</pc>師古曰<pc>：</pc>骨肉以安<pc>，</pc>言梁孝王免罪也<pc>。</pc>〕張敞為京兆尹<pc>，</pc>有罪當免<pc>，</pc>黠吏知而犯敞<pc>，</pc>〔黠<pc>，</pc>下<num value="8">八</num>翻<pc>。</pc>〕敞收殺之<pc>，</pc>其家自冤<pc>，</pc>〔自言其冤也<pc>。</pc>〕使者覆獄<pc>，</pc>劾敞賊殺人<pc>，</pc>上逮捕不下<pc>，</pc>〔上奏請逮捕敞<pc>，</pc>而天子不下其奏也<pc>。</pc>上<pc>，</pc>時掌翻<pc>。</pc>下<pc>，</pc>遐嫁翻<pc>。</pc>〕會免<pc>；</pc>亡命<num value="10">十</num>數日<pc>，</pc>宣帝征敞拜為<placeName>冀州</placeName>
+<term>刺史</term>
 <pc>，</pc>卒獲其用<pc>。</pc>〔事見<measure quantity="27" unit="chapters">
-<num value="27">二十七</num>卷</measure>宣帝甘露元年<pc>。</pc>卒<pc>，</pc>子恤翻<pc>。</pc>〕前世非私此<num value="3">三</num>人<pc>，</pc>貪其材器有益於公家也<pc>。</pc>孝文時<pc>，</pc>吏居官者或長子孫<pc>，</pc>【章<pc>：</pc>乙<num value="11">十一</num>行本<pc>「</pc>
+<num value="27">二十七</num>卷</measure>宣帝甘露元年<pc>。</pc>卒<pc>，</pc>子恤翻<pc>。</pc>〕前世非私此<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>貪其材器有益於公家也<pc>。</pc>孝文時<pc>，</pc>吏居官者或長子孫<pc>，</pc>【章<pc>：</pc>乙<num value="11">十一</num>行本<pc>「</pc>
 <quote>孫</quote>
 <pc>」</pc>下有<pc>「</pc>
 <quote>以官為氏</quote>
@@ -947,13 +973,15 @@
 <num value="3">三</num>年</measure>
 <pc>。</pc>師古曰<pc>：</pc>橫<pc>，</pc>音胡孟翻<pc>。</pc>〕吏士臨難<pc>，</pc>〔難<pc>，</pc>乃旦翻<pc>。</pc>〕莫肯伏節死義<pc>，</pc>以守<pc>、</pc>相威權素奪也<pc>。</pc>〔師古曰<pc>：</pc>守<pc>，</pc>郡守也<pc>；</pc>相<pc>，</pc>諸侯相也<pc>。</pc>素奪<pc>，</pc>謂不先假之威權也<pc>。</pc>〕孝成皇帝悔之<pc>，</pc>下詔書<pc>，</pc>
 <num value="2000">二千</num>石不為故縱<pc>，</pc>〔孟康曰<pc>：</pc>不以故縱為罪<pc>，</pc>所以優之也<pc>。</pc>〕遣使者賜金<pc>，</pc>尉厚其意<pc>，</pc>誠以為國家有急<pc>，</pc>取辦于<num value="2000">二千</num>石<pc>；</pc>
-<num value="2000">二千</num>石尊重難危<pc>，</pc>乃能使下<pc>。</pc>孝宣皇帝愛其善治民之吏<pc>，</pc>有章劾事留中<pc>，</pc>會赦壹解<pc>。</pc>〔師古曰<pc>：</pc>不即下治其事<pc>，</pc>恐為擾重<pc>，</pc>故每留中<pc>；</pc>或經赦<pc>，</pc>令壹切皆解散也<pc>。</pc>餘謂善治民之吏<pc>，</pc>宣帝愛其材<pc>，</pc>或有章劾<pc>，</pc>留中不下<pc>，</pc>會赦<pc>，</pc>則其事得釋<pc>。</pc>治<pc>，</pc>直之翻<pc>。</pc>劾<pc>，</pc>戶概翻<pc>。</pc>〕故事<pc>：</pc>尚書希下章<pc>，</pc>為煩擾<num value="100">百</num>姓<pc>，</pc>證驗系治<pc>，</pc>或死獄中<pc>，</pc>章文必有『敢告之』字乃下<pc>。</pc>〔師古曰<pc>：</pc>所以丁寧告者之辭<pc>，</pc>絕其相誣也<pc>。</pc>餘謂此乃防其誣告耳<pc>。</pc>下<pc>，</pc>遐稼翻<pc>。</pc>為<pc>，</pc>於偽翻<pc>。</pc>〕唯陛下留神于擇賢<pc>，</pc>記善忘過<pc>，</pc>容忍臣子<pc>，</pc>勿責以備<pc>。</pc>〔師古曰<pc>：</pc>不求備於<num value="1">一</num>人也<pc>。</pc>余謂責備者<pc>，</pc>求全也<pc>。</pc>〕<num value="2000">二千</num>石<pc>、</pc>部<term>刺史</term>
+<num value="2000">二千</num>石尊重難危<pc>，</pc>乃能使下<pc>。</pc>孝宣皇帝愛其善治民之吏<pc>，</pc>有章劾事留中<pc>，</pc>會赦壹解<pc>。</pc>〔師古曰<pc>：</pc>不即下治其事<pc>，</pc>恐為擾重<pc>，</pc>故每留中<pc>；</pc>或經赦<pc>，</pc>令壹切皆解散也<pc>。</pc>餘謂善治民之吏<pc>，</pc>宣帝愛其材<pc>，</pc>或有章劾<pc>，</pc>留中不下<pc>，</pc>會赦<pc>，</pc>則其事得釋<pc>。</pc>治<pc>，</pc>直之翻<pc>。</pc>劾<pc>，</pc>戶概翻<pc>。</pc>〕故事<pc>：</pc>尚書希下章<pc>，</pc>為煩擾<num value="100">百</num>姓<pc>，</pc>證驗系治<pc>，</pc>或死獄中<pc>，</pc>章文必有『敢告之』字乃下<pc>。</pc>〔師古曰<pc>：</pc>所以丁寧告者之辭<pc>，</pc>絕其相誣也<pc>。</pc>餘謂此乃防其誣告耳<pc>。</pc>下<pc>，</pc>遐稼翻<pc>。</pc>為<pc>，</pc>於偽翻<pc>。</pc>〕唯陛下留神于擇賢<pc>，</pc>記善忘過<pc>，</pc>容忍臣子<pc>，</pc>勿責以備<pc>。</pc>〔師古曰<pc>：</pc>不求備於<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>也<pc>。</pc>余謂責備者<pc>，</pc>求全也<pc>。</pc>〕<num value="2000">二千</num>石<pc>、</pc>部<term>刺史</term>
 <pc>、</pc>
 <num value="3">三</num>輔縣令有材任職者<pc>，</pc>人情不能不有過差<pc>，</pc>宜可闊略<pc>，</pc>〔師古曰<pc>：</pc>當寬恕其小罪也<pc>。</pc>〕令盡力者有所勸<pc>。</pc>此方今急務<pc>，</pc>國家之利也<pc>。</pc>前蘇令發<pc>，</pc>欲遣大夫使逐問狀<pc>，</pc>〔使之逐盜而問其狀也<pc>。</pc>〕時見大夫無可使者<pc>，</pc>〔師古曰<pc>：</pc>謂見在大夫皆不堪為使<pc>。</pc>見<pc>，</pc>賢遍翻<pc>。</pc>〕召盩厔令尹逢<pc>，</pc>拜為諫大夫遣之<pc>。</pc>〔盩厔<pc>，</pc>音舟窒<pc>。</pc>〕今諸大夫有材能者甚少<pc>，</pc>宜豫畜養可成就者<pc>，</pc>則士赴難不愛其死<pc>；</pc>臨事倉卒乃求<pc>，</pc>非所以明朝廷也<pc>。</pc>
 <pc>」</pc>〔人材當聚於朝廷<pc>；</pc>事會之來<pc>，</pc>無可用者<pc>，</pc>倉猝求之<pc>，</pc>適所以明朝廷之無人耳<pc>。</pc>少<pc>，</pc>詩沼翻<pc>。</pc>畜<pc>，</pc>許<num value="6">六</num>翻<pc>。</pc>難<pc>，</pc>乃旦翻<pc>。</pc>卒<pc>，</pc>讀曰猝<pc>。</pc>〕嘉因薦儒者公孫光<pc>、</pc>滿昌〔風俗通<pc>：</pc>荊蠻有瞞氏<pc>，</pc>音舛變為<pc>「</pc>
 <quote>滿</quote>
 <pc>」</pc>
-<pc>。</pc>國語<pc>：</pc>路<pc>，</pc>潞<pc>、</pc>泉<pc>、</pc>余<pc>、</pc>滿<pc>，</pc>皆赤狄<pc>，</pc>隗姓<pc>。</pc>〕及能吏蕭咸<pc>、</pc>薛修<pc>，</pc>皆故<num value="2000">二千</num>石有名稱者<pc>，</pc>天子納而用之<pc>。</pc>〔按嘉此疏<pc>，</pc>誠中當時之病<pc>。</pc>然為相者在於朝夕納誨<pc>，</pc>隨事矯正<pc>，</pc>天下不能窺其際<pc>，</pc>而自臻于治平<pc>，</pc>不在著見於奏疏<pc>，</pc>以騰口說也<pc>。</pc>自宣帝之後<pc>，</pc>為相者始加詳於奏疏<pc>，</pc>而考其治<pc>，</pc>愈不逮前<pc>，</pc>相業固不在乎此也<pc>。</pc>稱<pc>，</pc>尺證翻<pc>。</pc>〕</p>
+<pc>。</pc>國語<pc>：</pc>路<pc>，</pc>潞<pc>、</pc>泉<pc>、</pc>余<pc>、</pc>滿<pc>，</pc>皆赤狄<pc>，</pc>隗姓<pc>。</pc>〕及能吏蕭咸<pc>、</pc>薛修<pc>，</pc>皆故<num value="2000">二千</num>石有名稱者<pc>，</pc>天子納而用之<pc>。</pc>〔按嘉此疏<pc>，</pc>誠中當時之病<pc>。</pc>然為相者在於朝夕納誨<pc>，</pc>隨事矯正<pc>，</pc>天下不能窺其際<pc>，</pc>而自臻于<date notBefore="1064" notAfter="1067">治平</date>
+<pc>，</pc>不在著見於奏疏<pc>，</pc>以騰口說也<pc>。</pc>自宣帝之後<pc>，</pc>為相者始加詳於奏疏<pc>，</pc>而考其治<pc>，</pc>愈不逮前<pc>，</pc>相業固不在乎此也<pc>。</pc>稱<pc>，</pc>尺證翻<pc>。</pc>〕</p>
 </div>
 <div>
 <p>⑥<measure quantity="6" unit="months">
@@ -1038,7 +1066,8 @@
 <num value="2">二</num>年</measure>已罷大司空官<pc>，</pc>疑傳誤<pc>。</pc>〕</p>
 </div>
 <div>
-<p>④駙馬都尉<pc>、</pc>侍中雲陽董賢得幸於上<pc>，</pc>出則參乘<pc>，</pc>入禦左右<pc>，</pc>〔乘<pc>，</pc>繩證翻<pc>；</pc>禦<pc>，</pc>侍也<pc>。</pc>〕賞賜累巨<num value="10000">萬</num>
+<p>④<term>駙馬都尉</term>
+<pc>、</pc>侍中雲陽董賢得幸於上<pc>，</pc>出則參乘<pc>，</pc>入禦左右<pc>，</pc>〔乘<pc>，</pc>繩證翻<pc>；</pc>禦<pc>，</pc>侍也<pc>。</pc>〕賞賜累巨<num value="10000">萬</num>
 <pc>，</pc>貴震朝廷<pc>。</pc>常與上臥起<pc>；</pc>嘗晝寢<pc>，</pc>偏藉上袖<pc>，</pc>〔師古曰<pc>：</pc>藉<pc>，</pc>謂身臥其上也<pc>。</pc>〕上欲起<pc>，</pc>賢未覺<pc>，</pc>〔師古曰<pc>：</pc>覺<pc>，</pc>之寤也<pc>。</pc>覺<pc>，</pc>音工劾翻<pc>。</pc>〕不欲動賢<pc>，</pc>乃斷袖而起<pc>。</pc>〔斷<pc>，</pc>丁管翻<pc>。</pc>〕又詔賢妻得通引籍殿中<pc>，</pc>止賢廬<pc>。</pc>〔師古曰<pc>：</pc>廬<pc>，</pc>謂殿中所宿止處<pc>。</pc>〕又召賢女弟以為昭儀<pc>，</pc>位次皇后<pc>。</pc>昭儀及賢與妻旦夕上下<pc>，</pc>並侍左右<pc>。</pc>〔上<pc>，</pc>時掌翻<pc>。</pc>〕以賢父恭為少府<pc>，</pc>賜爵關內侯<pc>。</pc>詔將作大匠為賢起大第北闕下<pc>，</pc>重殿<pc>，</pc>洞門<pc>，</pc>〔師古曰<pc>：</pc>重殿<pc>，</pc>謂有前後殿<pc>；</pc>洞門<pc>，</pc>謂闕門相當也<pc>：</pc>皆僭天子之制度者也<pc>。</pc>為<pc>，</pc>於偽翻<pc>。</pc>重<pc>，</pc>直龍翻<pc>。</pc>〕土木之功<pc>，</pc>窮極技巧<pc>。</pc>〔技<pc>，</pc>渠綺翻<pc>。</pc>〕賜武庫禁兵<pc>、</pc>上方珍寶<pc>。</pc>〔禁中謂之上方<pc>。</pc>〕其選物上弟盡在董氏<pc>，</pc>〔選物<pc>，</pc>物之選其尤者<pc>。</pc>上第<pc>，</pc>於眾物之中等第居上也<pc>。</pc>弟<pc>，</pc>與第同<pc>。</pc>〕而乘輿所服乃其副也<pc>。</pc>〔乘<pc>，</pc>繩證翻<pc>。</pc>〕及至東園秘器<pc>、</pc>珠襦<pc>、</pc>玉匣<pc>，</pc>〔【章<pc>：</pc>乙<num value="11">十一</num>行本<pc>「</pc>
 <quote>匣</quote>
 <pc>」</pc>作<pc>「</pc>
@@ -1084,7 +1113,8 @@
 <div>
 <p>⑥上欲侯董賢而未有緣<pc>，</pc>侍中傅嘉勸上定息夫躬<pc>、</pc>孫寵告東平本章<pc>，</pc>去宋弘<pc>，</pc>更言因董賢以聞<pc>，</pc>〔更定告章<pc>，</pc>刊去宋弘名而入董賢名<pc>。</pc>師古曰<pc>：</pc>定<pc>，</pc>謂改治其章也<pc>。</pc>去<pc>，</pc>羌呂翻<pc>。</pc>更<pc>，</pc>工衡翻<pc>。</pc>〕欲以其功侯之<pc>，</pc>皆先賜爵關內侯<pc>。</pc>頃之<pc>，</pc>上欲封賢等而心憚王嘉<pc>，</pc>乃先使孔鄉侯晏持詔書示丞相<pc>、</pc>禦史<pc>。</pc>於是嘉與御史大夫賈延上封事言<pc>：</pc>
 <pc>「</pc>
-<quote>竊見董賢等<num value="3">三</num>人始賜爵<pc>，</pc>眾庶匈匈<pc>，</pc>鹹曰賢貴<pc>，</pc>其餘並蒙恩<pc>；</pc>〔師古曰<pc>：</pc>言董賢以貴寵故妄得封<pc>，</pc>而躬<pc>、</pc>寵等遂蒙恩<pc>。</pc>〕至今流言未解<pc>。</pc>陛下仁恩于賢等不已<pc>，</pc>宜暴賢等本奏語言<pc>，</pc>〔師古曰<pc>：</pc>暴<pc>，</pc>謂章露也<pc>。</pc>〕延問公卿<pc>、</pc>大夫<pc>、</pc>博士<pc>、</pc>議郎<pc>，</pc>考合古今<pc>，</pc>明正其義<pc>，</pc>然後乃加爵土<pc>；</pc>不然<pc>，</pc>恐大失眾心<pc>，</pc>海內引領而議<pc>。</pc>〔引領<pc>，</pc>猶言引頸也<pc>。</pc>項背曰領<pc>。</pc>〕暴評其事<pc>，</pc>必有言當封者<pc>，</pc>在陛下所從<pc>；</pc>天下雖不說<pc>，</pc>〔師古曰<pc>：</pc>說<pc>，</pc>讀曰悅<pc>。</pc>〕咎有所分<pc>，</pc>不獨在陛下<pc>。</pc>前定陵侯淳于長初封<pc>，</pc>其事亦議<pc>，</pc>〔事見<measure quantity="31" unit="chapters">
+<quote>竊見董賢等<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>始賜爵<pc>，</pc>眾庶匈匈<pc>，</pc>鹹曰賢貴<pc>，</pc>其餘並蒙恩<pc>；</pc>〔師古曰<pc>：</pc>言董賢以貴寵故妄得封<pc>，</pc>而躬<pc>、</pc>寵等遂蒙恩<pc>。</pc>〕至今流言未解<pc>。</pc>陛下仁恩于賢等不已<pc>，</pc>宜暴賢等本奏語言<pc>，</pc>〔師古曰<pc>：</pc>暴<pc>，</pc>謂章露也<pc>。</pc>〕延問公卿<pc>、</pc>大夫<pc>、</pc>博士<pc>、</pc>議郎<pc>，</pc>考合古今<pc>，</pc>明正其義<pc>，</pc>然後乃加爵土<pc>；</pc>不然<pc>，</pc>恐大失眾心<pc>，</pc>海內引領而議<pc>。</pc>〔引領<pc>，</pc>猶言引頸也<pc>。</pc>項背曰領<pc>。</pc>〕暴評其事<pc>，</pc>必有言當封者<pc>，</pc>在陛下所從<pc>；</pc>天下雖不說<pc>，</pc>〔師古曰<pc>：</pc>說<pc>，</pc>讀曰悅<pc>。</pc>〕咎有所分<pc>，</pc>不獨在陛下<pc>。</pc>前定陵侯淳于長初封<pc>，</pc>其事亦議<pc>，</pc>〔事見<measure quantity="31" unit="chapters">
 <num value="31">三十一</num>卷</measure>成帝永始<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>。</pc>〕大司農穀永以長當封<pc>；</pc>眾人歸咎於永<pc>，</pc>先帝不獨蒙其譏<pc>。</pc>臣嘉<pc>，</pc>臣延<pc>，</pc>材駑不稱<pc>，</pc>〔稱<pc>，</pc>尺證翻<pc>。</pc>〕死有餘責<pc>，</pc>知順指不迕<pc>，</pc>〔師古曰<pc>：</pc>迕<pc>，</pc>逆也<pc>，</pc>音<num value="5">五</num>故翻<pc>。</pc>〕可得容身須臾<pc>；</pc>所以不敢者<pc>，</pc>思報厚恩也<pc>。</pc>
@@ -1109,7 +1139,8 @@
 <pc>「</pc>得臣猶在<pc>，</pc>憂未歇也<pc>。</pc>
 </quote>
 <pc>」</pc>記曰<pc>：</pc>有憂者側席而坐<pc>。</pc>〕近事<pc>，</pc>汲黯折淮南之謀<pc>。</pc>〔事見<measure quantity="19" unit="chapters">
-<num value="19">十九</num>卷</measure>武帝元狩元年<pc>。</pc>〕今東平王雲等至有圖弒天子逆亂之謀者<pc>，</pc>是公卿股肱莫能悉心<pc>、</pc>務聰明以銷厭未萌故也<pc>。</pc>〔師古曰<pc>：</pc>悉<pc>，</pc>盡也<pc>。</pc>務聰明者<pc>，</pc>廣視聽也<pc>。</pc>厭<pc>，</pc>音<num value="1">一</num>涉翻<pc>。</pc>〕賴宗廟之靈<pc>，</pc>侍中<pc>、</pc>駙馬都尉賢等發覺以聞<pc>，</pc>咸伏厥辜<pc>。</pc>書不雲乎<pc>：</pc>『用德章厥善<pc>。</pc>』〔師古曰<pc>：</pc>尚書盤庚之辭也<pc>。</pc>〕其封賢為高安侯<pc>，</pc>〔恩澤侯表<pc>，</pc>高安侯<pc>，</pc>國于朱扶<pc>。</pc>而朱扶之地無所考<pc>。</pc>〕南陽太守寵為方陽侯<pc>，</pc>〔恩澤侯表<pc>，</pc>方陽侯<pc>，</pc>國于沛郡龍亢<pc>。</pc>〕左曹<pc>、</pc>光祿大夫躬為宜陵侯<pc>，</pc>〔恩澤侯表<pc>，</pc>宜陵侯<pc>，</pc>國于南陽<persName>杜衍</persName>
+<num value="19">十九</num>卷</measure>武帝元狩元年<pc>。</pc>〕今東平王雲等至有圖弒天子逆亂之謀者<pc>，</pc>是公卿股肱莫能悉心<pc>、</pc>務聰明以銷厭未萌故也<pc>。</pc>〔師古曰<pc>：</pc>悉<pc>，</pc>盡也<pc>。</pc>務聰明者<pc>，</pc>廣視聽也<pc>。</pc>厭<pc>，</pc>音<num value="1">一</num>涉翻<pc>。</pc>〕賴宗廟之靈<pc>，</pc>侍中<pc>、</pc>
+<term>駙馬都尉</term>賢等發覺以聞<pc>，</pc>咸伏厥辜<pc>。</pc>書不雲乎<pc>：</pc>『用德章厥善<pc>。</pc>』〔師古曰<pc>：</pc>尚書盤庚之辭也<pc>。</pc>〕其封賢為高安侯<pc>，</pc>〔恩澤侯表<pc>，</pc>高安侯<pc>，</pc>國于朱扶<pc>。</pc>而朱扶之地無所考<pc>。</pc>〕南陽太守寵為方陽侯<pc>，</pc>〔恩澤侯表<pc>，</pc>方陽侯<pc>，</pc>國于沛郡龍亢<pc>。</pc>〕左曹<pc>、</pc>光祿大夫躬為宜陵侯<pc>，</pc>〔恩澤侯表<pc>，</pc>宜陵侯<pc>，</pc>國于南陽<persName>杜衍</persName>
 <pc>。</pc>〕賜右師譚爵關內侯<pc>。</pc>
 <pc>」</pc>又封傅太后同母弟鄭惲子業為陽信侯<pc>。</pc>〔恩澤侯表<pc>，</pc>陽信侯<pc>，</pc>國於南陽新野<pc>。</pc>惲<pc>，</pc>於粉翻<pc>。</pc>〕息夫躬既親近<pc>，</pc>數進見言事<pc>，</pc>〔近<pc>，</pc>其靳翻<pc>。</pc>數<pc>，</pc>所角翻<pc>。</pc>見<pc>，</pc>賢遍翻<pc>。</pc>〕議論無所避<pc>，</pc>上疏曆詆公卿大臣<pc>。</pc>眾畏其口<pc>，</pc>見之仄目<pc>。</pc>
 </p>
@@ -1121,13 +1152,22 @@
 <num value="1">一</num>出少府<pc>。</pc>〔乘<pc>，</pc>繩證翻<pc>。</pc>師古曰<pc>：</pc>共<pc>，</pc>音居用翻<pc>。</pc>養<pc>，</pc>音弋尚翻<pc>。</pc>勞<pc>，</pc>郎到翻<pc>。</pc>〕蓋不以本臧給末用<pc>，</pc>不以民力共浮費<pc>，</pc>〔臧<pc>，</pc>古藏字通<pc>，</pc>音徂浪翻<pc>。</pc>師古曰<pc>：</pc>共<pc>，</pc>讀曰供<pc>；</pc>下同<pc>。</pc>〕別公私<pc>，</pc>示正路也<pc>。</pc>〔別<pc>，</pc>彼列翻<pc>。</pc>〕古者諸侯<pc>、</pc>方伯得顓征伐<pc>，</pc>乃賜斧鉞<pc>，</pc>〔禮記曰<pc>：</pc>諸侯賜斧鉞<pc>，</pc>然後征<pc>。</pc>王制<pc>：</pc>
 <measure quantity="8" unit="prefectures">
 <num value="8">八</num>州</measure>
-<num value="8">八</num>伯<pc>，</pc>謂之方伯<pc>，</pc>各統其州之國<pc>。</pc>〕漢家邊吏職任距寇<pc>，</pc>亦賜武庫兵<pc>，</pc>皆任事然後蒙之<pc>。</pc>〔任<pc>，</pc>音壬<pc>。</pc>〕春秋之誼<pc>，</pc>家不臧甲<pc>，</pc>〔春秋公羊傳載孔子墮<num value="3">三</num>都之言<pc>。</pc>臧<pc>，</pc>與藏通<pc>；</pc>讀從平聲<pc>。</pc>〕所以抑臣威<pc>，</pc>損私力也<pc>。</pc>今賢等便僻弄臣<pc>，</pc>〔便<pc>，</pc>頻連翻<pc>。</pc>〕私恩微妾<pc>，</pc>而以天下公用給其私門<pc>，</pc>契國威器<pc>，</pc>共其家備<pc>，</pc>〔李奇曰<pc>：</pc>契<pc>，</pc>缺也<pc>。</pc>晉灼曰<pc>：</pc>契<pc>，</pc>取也<pc>。</pc>師古曰<pc>：</pc>李說是也<pc>；</pc>音詰結翻<pc>。</pc>〕民力分於弄臣<pc>，</pc>武兵設於微妾<pc>，</pc>建立非宜<pc>，</pc>以廣驕僭<pc>，</pc>非所以示<num value="4">四</num>方也<pc>。</pc>孔子曰<pc>：</pc>『奚取於<num value="3">三</num>家之堂<pc>！</pc>』〔師古曰<pc>：</pc>論語雲<pc>：</pc>
-<num value="3">三</num>家者以雍徹<pc>。</pc>孔子曰<pc>：</pc>
-<pc>「</pc>相維辟公<pc>，</pc>天子穆穆<pc>，</pc>奚取於<num value="3">三</num>家之堂<pc>！</pc>
+<num value="8">八</num>伯<pc>，</pc>謂之方伯<pc>，</pc>各統其州之國<pc>。</pc>〕漢家邊吏職任距寇<pc>，</pc>亦賜武庫兵<pc>，</pc>皆任事然後蒙之<pc>。</pc>〔任<pc>，</pc>音壬<pc>。</pc>〕春秋之誼<pc>，</pc>家不臧甲<pc>，</pc>〔春秋公羊傳載孔子墮<num value="3">三</num>都之言<pc>。</pc>臧<pc>，</pc>與藏通<pc>；</pc>讀從平聲<pc>。</pc>〕所以抑臣威<pc>，</pc>損私力也<pc>。</pc>今賢等便僻弄臣<pc>，</pc>〔便<pc>，</pc>頻連翻<pc>。</pc>〕私恩微妾<pc>，</pc>而以天下公用給其私門<pc>，</pc>契國威器<pc>，</pc>共其家備<pc>，</pc>〔李奇曰<pc>：</pc>契<pc>，</pc>缺也<pc>。</pc>晉灼曰<pc>：</pc>契<pc>，</pc>取也<pc>。</pc>師古曰<pc>：</pc>李說是也<pc>；</pc>音詰結翻<pc>。</pc>〕民力分於弄臣<pc>，</pc>武兵設於微妾<pc>，</pc>建立非宜<pc>，</pc>以廣驕僭<pc>，</pc>非所以示<num value="4">四</num>方也<pc>。</pc>孔子曰<pc>：</pc>『奚取於<measure quantity="3" unit="households">
+<num value="3">三</num>家</measure>之堂<pc>！</pc>』〔師古曰<pc>：</pc>論語雲<pc>：</pc>
+<measure quantity="3" unit="households">
+<num value="3">三</num>家</measure>者以雍徹<pc>。</pc>孔子曰<pc>：</pc>
+<pc>「</pc>相維辟公<pc>，</pc>天子穆穆<pc>，</pc>奚取於<measure quantity="3" unit="households">
+<num value="3">三</num>家</measure>之堂<pc>！</pc>
 </quote>
-<pc>」</pc>言以雍徹食乃天子之禮<pc>，</pc>何為在<num value="3">三</num>家之堂也<pc>。</pc>
-<num value="3">三</num>家<pc>，</pc>謂魯叔孫<pc>、</pc>仲孫<pc>、</pc>季孫也<pc>。</pc>餘謂隆引孔子之言<pc>，</pc>以謂武庫兵器不當以共臣妾之家<pc>，</pc>猶歌雍不當在<num value="3">三</num>家之堂也<pc>。</pc>〕臣請收還武庫<pc>。</pc>
-<pc>」</pc>上不說<pc>。</pc>〔說<pc>，</pc>讀曰悅<pc>。</pc>〕 頃之<pc>，</pc>傅太后使謁者賤買執金吾官婢<num value="8">八</num>人<pc>，</pc>隆奏言<pc>：</pc>
+<pc>」</pc>言以雍徹食乃天子之禮<pc>，</pc>何為在<measure quantity="3" unit="households">
+<num value="3">三</num>家</measure>之堂也<pc>。</pc>
+<measure quantity="3" unit="households">
+<num value="3">三</num>家</measure>
+<pc>，</pc>謂魯叔孫<pc>、</pc>仲孫<pc>、</pc>季孫也<pc>。</pc>餘謂隆引孔子之言<pc>，</pc>以謂武庫兵器不當以共臣妾之家<pc>，</pc>猶歌雍不當在<measure quantity="3" unit="households">
+<num value="3">三</num>家</measure>之堂也<pc>。</pc>〕臣請收還武庫<pc>。</pc>
+<pc>」</pc>上不說<pc>。</pc>〔說<pc>，</pc>讀曰悅<pc>。</pc>〕 頃之<pc>，</pc>傅太后使謁者賤買執金吾官婢<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>
+<pc>，</pc>隆奏言<pc>：</pc>
 <pc>「</pc>
 <quote>買賤<pc>，</pc>請更平直<pc>。</pc>
 </quote>
@@ -1224,12 +1264,14 @@
 <num value="1">一</num>虜不可得見<pc>，</pc>況單于之面乎<pc>！</pc>〔事見<measure quantity="17" unit="chapters">
 <num value="17">十七</num>卷</measure>武帝元光<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>。</pc>言欲見匈奴<num value="1">一</num>人且不可得<pc>，</pc>況使單于面來獻見乎<pc>！</pc>〕其後深惟社稷之計<pc>，</pc>規恢<num value="10000">萬</num>載之策<pc>，</pc>〔載<pc>，</pc>子亥翻<pc>。</pc>〕乃大興師數<num value="100000">十萬</num>
+<pc>。</pc>言欲見匈奴<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>且不可得<pc>，</pc>況使單于面來獻見乎<pc>！</pc>〕其後深惟社稷之計<pc>，</pc>規恢<num value="10000">萬</num>載之策<pc>，</pc>〔載<pc>，</pc>子亥翻<pc>。</pc>〕乃大興師數<num value="100000">十萬</num>
 <pc>，</pc>使衛青<pc>、</pc>霍去病操兵<pc>，</pc>前後<num value="10">十</num>餘年<pc>，</pc>於是浮西河<pc>，</pc>絕大幕<pc>，</pc>破窴顏<pc>，</pc>襲王庭<pc>，</pc>窮極其地<pc>，</pc>追奔逐北<pc>，</pc>封狼居胥山<pc>，</pc>禪于姑衍<pc>，</pc>以臨瀚海<pc>，</pc>虜名王<pc>、</pc>貴人以<num value="100">百</num>數<pc>；</pc>自是之後<pc>，</pc>匈奴震怖<pc>，</pc>益求和親<pc>，</pc>然而未肯稱臣也<pc>。</pc>〔事並見武帝紀<pc>。</pc>操<pc>，</pc>
 <num value="1000">千</num>高翻<pc>。</pc>窴<pc>，</pc>音填<pc>。</pc>怖<pc>，</pc>普布翻<pc>。</pc>〕</p>
 </div>
 <div>
-<p>且夫前世豈樂傾無量之費<pc>，</pc>役無罪之人<pc>，</pc>快心狼望之北哉﹖〔師古曰<pc>：</pc>狼望<pc>，</pc>匈奴中地名<pc>。</pc>余謂邊人謂舉燧為狼煙<pc>。</pc>狼望<pc>，</pc>謂狼煙候望之地<pc>。</pc>樂<pc>，</pc>音洛<pc>。</pc>〕以為不壹勞者不久逸<pc>，</pc>不暫費者不永寧<pc>，</pc>是以忍<num value="1000000">百萬</num>之師以摧餓虎之喙<pc>，</pc>〔師古曰<pc>：</pc>喙<pc>，</pc>口也<pc>。</pc>摧<num value="1000000">百萬</num>之師於獸口也<pc>。</pc>喙<pc>，</pc>許穢翻<pc>。</pc>余謂順文而為說<pc>，</pc>其義自通<pc>。</pc>唐諱虎<pc>，</pc>故師古改曰獸<pc>。</pc>〕運府庫之財填盧山之壑而不悔也<pc>。</pc>〔師古曰<pc>：</pc>盧山<pc>，</pc>匈奴中山也<pc>。</pc>余按衛青薨<pc>，</pc>起耱象盧山<pc>。</pc>青唯絕幕至窴顏山耳<pc>，</pc>或者窴顏山即盧山歟﹖孟康曰<pc>：</pc>盧山<pc>，</pc>單于南庭也<pc>。</pc>〕至本始之初<pc>，</pc>匈奴有桀心<pc>，</pc>〔師古曰<pc>：</pc>桀<pc>，</pc>堅也<pc>；</pc>言其起立不順<pc>。</pc>〕欲掠烏孫<pc>，</pc>侵公主<pc>，</pc>乃發<num value="5">五</num>將之師<num value="150000">十五萬</num>騎以擊之<pc>，</pc>時鮮有所獲<pc>，</pc>徒奮揚威武<pc>，</pc>明漢兵若雷風耳<pc>！</pc>雖空行空反<pc>，</pc>尚誅兩將軍<pc>，</pc>〔事見<measure quantity="24" unit="chapters">
+<p>且夫前世豈樂傾無量之費<pc>，</pc>役無罪之人<pc>，</pc>快心狼望之北哉﹖〔師古曰<pc>：</pc>狼望<pc>，</pc>匈奴中地名<pc>。</pc>余謂邊人謂舉燧為狼煙<pc>。</pc>狼望<pc>，</pc>謂狼煙候望之地<pc>。</pc>樂<pc>，</pc>音洛<pc>。</pc>〕以為不壹勞者不久逸<pc>，</pc>不暫費者不永寧<pc>，</pc>是以忍<num value="1000000">百萬</num>之師以摧餓虎之喙<pc>，</pc>〔師古曰<pc>：</pc>喙<pc>，</pc>口也<pc>。</pc>摧<num value="1000000">百萬</num>之師於獸口也<pc>。</pc>喙<pc>，</pc>許穢翻<pc>。</pc>余謂順文而為說<pc>，</pc>其義自通<pc>。</pc>唐諱虎<pc>，</pc>故師古改曰獸<pc>。</pc>〕運府庫之財填盧山之壑而不悔也<pc>。</pc>〔師古曰<pc>：</pc>盧山<pc>，</pc>匈奴中山也<pc>。</pc>余按衛青薨<pc>，</pc>起耱象盧山<pc>。</pc>青唯絕幕至窴顏山耳<pc>，</pc>或者窴顏山即盧山歟﹖孟康曰<pc>：</pc>盧山<pc>，</pc>單于南庭也<pc>。</pc>〕至本始之初<pc>，</pc>匈奴有桀心<pc>，</pc>〔師古曰<pc>：</pc>桀<pc>，</pc>堅也<pc>；</pc>言其起立不順<pc>。</pc>〕欲掠烏孫<pc>，</pc>侵公主<pc>，</pc>乃發<num value="5">五</num>將之師<measure quantity="150000" unit="riders">
+<num value="150000">十五萬</num>騎</measure>以擊之<pc>，</pc>時鮮有所獲<pc>，</pc>徒奮揚威武<pc>，</pc>明漢兵若雷風耳<pc>！</pc>雖空行空反<pc>，</pc>尚誅兩將軍<pc>，</pc>〔事見<measure quantity="24" unit="chapters">
 <num value="24">二十四</num>卷</measure>宣帝本始<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>。</pc>鮮<pc>，</pc>息踐翻<pc>。</pc>兵若雷風<pc>，</pc>言師速而疾<pc>，</pc>風驅霆行<pc>，</pc>
@@ -1304,8 +1346,10 @@
 <pc>」</pc>下有<pc>「</pc>
 <quote>烏孫</quote>
 <pc>」</pc>
-<num value="2">二</num>字<pc>；</pc>孔本同<pc>。</pc>】西羌之難<pc>，</pc>〔難<pc>，</pc>乃旦翻<pc>。</pc>〕謀動干戈<pc>，</pc>設為權變<pc>，</pc>非應天之道也<pc>。</pc>守相有罪<pc>，</pc>〔相<pc>，</pc>息亮翻<pc>。</pc>〕車馳詣闕<pc>，</pc>交臂就死<pc>，</pc>恐懼如此<pc>，</pc>而談說者欲動安之危<pc>，</pc>〔師古曰<pc>：</pc>之<pc>，</pc>往也<pc>。</pc>言搖動安全之計<pc>，</pc>往就危殆也<pc>。</pc>〕辯口快耳<pc>，</pc>其實未可從<pc>。</pc>夫議政者<pc>，</pc>苦其諛<pc>、</pc>傾險<pc>、</pc>辯惠<pc>、</pc>深刻也<pc>。</pc>〔<pc>，</pc>古諂字<pc>。</pc>〕昔秦繆公不從<num value="100">百</num>里奚<pc>、</pc>蹇叔之言<pc>，</pc>以敗其師<pc>，</pc>其悔過自責<pc>，</pc>疾詿誤之臣<pc>，</pc>思黃發之言<pc>，</pc>名垂於後世<pc>。</pc>〔秦穆公欲襲鄭<pc>，</pc>蹇叔<pc>、</pc>
-<num value="100">百</num>里奚諫<pc>，</pc>不聽<pc>，</pc>遂出師<pc>；</pc>晉襄公要而敗諸殽<pc>。</pc>還歸<pc>，</pc>作秦誓以悔過<pc>，</pc>其辭曰<pc>：</pc>惟古之謀人<pc>，</pc>則曰未就予忌<pc>；</pc>惟今之謀人<pc>，</pc>姑將以為親<pc>。</pc>雖則雲然<pc>，</pc>尚猷詢茲黃發<pc>，</pc>則罔所愆<pc>。</pc>又曰<pc>：</pc>惟截截善諞言<pc>，</pc>俾君子易辭<pc>，</pc>我皇多有之<pc>，</pc>昧昧我思之<pc>。</pc>敗<pc>，</pc>補邁翻<pc>。</pc>詿<pc>，</pc>戶卦翻<pc>。</pc>〕願陛下觀覽古戒<pc>，</pc>反復參考<pc>，</pc>無以先入之語為主<pc>！</pc>
+<num value="2">二</num>字<pc>；</pc>孔本同<pc>。</pc>】西羌之難<pc>，</pc>〔難<pc>，</pc>乃旦翻<pc>。</pc>〕謀動干戈<pc>，</pc>設為權變<pc>，</pc>非應天之道也<pc>。</pc>守相有罪<pc>，</pc>〔相<pc>，</pc>息亮翻<pc>。</pc>〕車馳詣闕<pc>，</pc>交臂就死<pc>，</pc>恐懼如此<pc>，</pc>而談說者欲動安之危<pc>，</pc>〔師古曰<pc>：</pc>之<pc>，</pc>往也<pc>。</pc>言搖動安全之計<pc>，</pc>往就危殆也<pc>。</pc>〕辯口快耳<pc>，</pc>其實未可從<pc>。</pc>夫議政者<pc>，</pc>苦其諛<pc>、</pc>傾險<pc>、</pc>辯惠<pc>、</pc>深刻也<pc>。</pc>〔<pc>，</pc>古諂字<pc>。</pc>〕昔秦繆公不從<measure quantity="100" unit="LIs">
+<num value="100">百</num>里</measure>奚<pc>、</pc>蹇叔之言<pc>，</pc>以敗其師<pc>，</pc>其悔過自責<pc>，</pc>疾詿誤之臣<pc>，</pc>思黃發之言<pc>，</pc>名垂於後世<pc>。</pc>〔秦穆公欲襲鄭<pc>，</pc>蹇叔<pc>、</pc>
+<measure quantity="100" unit="LIs">
+<num value="100">百</num>里</measure>奚諫<pc>，</pc>不聽<pc>，</pc>遂出師<pc>；</pc>晉襄公要而敗諸殽<pc>。</pc>還歸<pc>，</pc>作秦誓以悔過<pc>，</pc>其辭曰<pc>：</pc>惟古之謀人<pc>，</pc>則曰未就予忌<pc>；</pc>惟今之謀人<pc>，</pc>姑將以為親<pc>。</pc>雖則雲然<pc>，</pc>尚猷詢茲黃發<pc>，</pc>則罔所愆<pc>。</pc>又曰<pc>：</pc>惟截截善諞言<pc>，</pc>俾君子易辭<pc>，</pc>我皇多有之<pc>，</pc>昧昧我思之<pc>。</pc>敗<pc>，</pc>補邁翻<pc>。</pc>詿<pc>，</pc>戶卦翻<pc>。</pc>〕願陛下觀覽古戒<pc>，</pc>反復參考<pc>，</pc>無以先入之語為主<pc>！</pc>
 <pc>」</pc>〔師古曰<pc>：</pc>謂躬為此計先入於帝耳<pc>。</pc>〕上不聽<pc>。</pc>〔為董賢沮躬策<pc>、</pc>躬遂得罪張本<pc>。</pc>〕</p>
 </div>
 <div>

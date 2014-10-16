@@ -40,7 +40,12 @@
 <div>
 <p>廣武君李左車說成安君曰<pc>：</pc>
 <pc>「</pc>
-<quote>韓信<pc>、</pc>張耳乘勝而去國遠斗<pc>，</pc>其鋒不可當<pc>。</pc>臣聞『<num value="1000">千</num>里饋糧<pc>，</pc>士有饑色<pc>；</pc>樵蘇後爨<pc>，</pc>師不宿飽<pc>。</pc>』今井陘之道<pc>，</pc>車不得方軌<pc>，</pc>騎不得成列<pc>；</pc>行數<num value="100">百</num>里<pc>，</pc>其勢糧食必在其後<pc>。</pc>願足下假臣奇兵<num value="30000">三萬</num>人<pc>，</pc>從間路絕其輜重<pc>；</pc>足下深溝高壘勿與戰<pc>。</pc>彼前不得斗<pc>，</pc>退不得還<pc>，</pc>野無所掠<pc>，</pc>不至<measure quantity="10" unit="days">
+<quote>韓信<pc>、</pc>張耳乘勝而去國遠斗<pc>，</pc>其鋒不可當<pc>。</pc>臣聞『<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>饋糧<pc>，</pc>士有饑色<pc>；</pc>樵蘇後爨<pc>，</pc>師不宿飽<pc>。</pc>』今井陘之道<pc>，</pc>車不得方軌<pc>，</pc>騎不得成列<pc>；</pc>行數<measure quantity="100" unit="LIs">
+<num value="100">百</num>里</measure>
+<pc>，</pc>其勢糧食必在其後<pc>。</pc>願足下假臣奇兵<measure quantity="30000" unit="people">
+<num value="30000">三萬</num>人</measure>
+<pc>，</pc>從間路絕其輜重<pc>；</pc>足下深溝高壘勿與戰<pc>。</pc>彼前不得斗<pc>，</pc>退不得還<pc>，</pc>野無所掠<pc>，</pc>不至<measure quantity="10" unit="days">
 <num value="10">十</num>日</measure>
 <pc>，</pc>而兩將之頭可致於麾下<pc>；</pc>否則必為<num value="2">二</num>子所擒矣<pc>。</pc>
 </quote>
@@ -52,9 +57,13 @@
 </p>
 </div>
 <div>
-<p>韓信使人間視<pc>，</pc>知其不用廣武君策<pc>，</pc>則大喜<pc>，</pc>乃敢引兵遂下<pc>。</pc>未至井陘口<num value="30">三十</num>里<pc>，</pc>止舍<pc>。</pc>
+<p>韓信使人間視<pc>，</pc>知其不用廣武君策<pc>，</pc>則大喜<pc>，</pc>乃敢引兵遂下<pc>。</pc>未至井陘口<measure quantity="30" unit="LIs">
+<num value="30">三十</num>里</measure>
+<pc>，</pc>止舍<pc>。</pc>
 <time when="24:00">夜半</time>
-<pc>，</pc>傳發<pc>，</pc>選輕騎<num value="2000">二千</num>人<pc>，</pc>人持<num value="1">一</num>赤幟<pc>，</pc>從間道萆山而望趙軍<pc>。</pc>誡曰<pc>：</pc>
+<pc>，</pc>傳發<pc>，</pc>選輕騎<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>
+<pc>，</pc>人持<num value="1">一</num>赤幟<pc>，</pc>從間道萆山而望趙軍<pc>。</pc>誡曰<pc>：</pc>
 <pc>「</pc>
 <quote>趙見我走<pc>，</pc>必空壁逐我<pc>；</pc>若疾入趙壁<pc>，</pc>拔趙幟<pc>，</pc>立漢赤幟<pc>。</pc>
 </quote>
@@ -70,7 +79,9 @@
 <pc>「</pc>
 <quote>趙已先據便地為壁<pc>；</pc>且彼未見吾大將旗鼓<pc>，</pc>未肯擊前行<pc>，</pc>恐吾至阻險而還也<pc>。</pc>
 </quote>
-<pc>」</pc>乃使<num value="10000">萬</num>人先行<pc>，</pc>出<pc>，</pc>背水陳<pc>。</pc>趙軍望見而大笑<pc>。</pc>平旦<pc>，</pc>信建大將旗鼓<pc>，</pc>鼓行出井陘口<pc>；</pc>趙開壁擊之<pc>，</pc>大戰良久<pc>。</pc>於是信與張耳佯棄鼓旗<pc>，</pc>走水上軍<pc>；</pc>水上軍開入之<pc>，</pc>復疾戰<pc>。</pc>趙果空壁爭漢旗<pc>、</pc>鼓<pc>，</pc>逐信<pc>、</pc>耳<pc>。</pc>信<pc>、</pc>耳已入水上軍<pc>，</pc>軍皆殊死戰<pc>，</pc>不可敗<pc>。</pc>信所出奇兵<num value="2000">二千</num>騎共候趙空壁逐利<pc>，</pc>則馳入趙壁<pc>，</pc>皆拔趙旗<pc>，</pc>立漢赤幟<num value="2000">二千</num>
+<pc>」</pc>乃使<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>先行<pc>，</pc>出<pc>，</pc>背水陳<pc>。</pc>趙軍望見而大笑<pc>。</pc>平旦<pc>，</pc>信建大將旗鼓<pc>，</pc>鼓行出井陘口<pc>；</pc>趙開壁擊之<pc>，</pc>大戰良久<pc>。</pc>於是信與張耳佯棄鼓旗<pc>，</pc>走水上軍<pc>；</pc>水上軍開入之<pc>，</pc>復疾戰<pc>。</pc>趙果空壁爭漢旗<pc>、</pc>鼓<pc>，</pc>逐信<pc>、</pc>耳<pc>。</pc>信<pc>、</pc>耳已入水上軍<pc>，</pc>軍皆殊死戰<pc>，</pc>不可敗<pc>。</pc>信所出奇兵<measure quantity="2000" unit="riders">
+<num value="2000">二千</num>騎</measure>共候趙空壁逐利<pc>，</pc>則馳入趙壁<pc>，</pc>皆拔趙旗<pc>，</pc>立漢赤幟<num value="2000">二千</num>
 <pc>。</pc>趙軍已不能得信等<pc>，</pc>欲還歸壁<pc>；</pc>壁皆漢赤幟<pc>，</pc>見而大驚<pc>，</pc>以為漢皆已得趙王將矣<pc>，</pc>兵遂亂<pc>，</pc>遁走<pc>，</pc>趙將雖斬之<pc>，</pc>不能禁也<pc>。</pc>於是漢兵夾擊<pc>，</pc>大破趙軍<pc>，</pc>斬成安君泜水上<pc>，</pc>禽趙王歇<pc>。</pc>諸將效首虜<pc>，</pc>畢賀<pc>，</pc>因問信曰<pc>：</pc>
 <pc>「</pc>
 <quote>兵法<pc>：</pc>『右倍山陵<pc>，</pc>前左水澤<pc>。</pc>』今者將軍令臣等反背水陳<pc>，</pc>曰『破趙會食』<pc>，</pc>臣等不服<pc>，</pc>然竟以勝<pc>，</pc>此何術也<pc>？</pc>
@@ -99,7 +110,8 @@
 <pc>」</pc>信曰<pc>：</pc>
 <pc>「</pc>
 <quote>僕聞之<pc>，</pc>
-<num value="100">百</num>里奚居虞而虞亡<pc>，</pc>在秦而秦霸<pc>；</pc>非愚於虞而智於秦也<pc>，</pc>用與不用<pc>，</pc>聽與不聽也<pc>。</pc>誠令成安君聽足下計<pc>，</pc>若信者亦已為禽矣<pc>。</pc>以不用足下<pc>，</pc>故信得侍耳<pc>。</pc>今僕委心歸計<pc>，</pc>願足下勿辭<pc>。</pc>
+<measure quantity="100" unit="LIs">
+<num value="100">百</num>里</measure>奚居虞而虞亡<pc>，</pc>在秦而秦霸<pc>；</pc>非愚於虞而智於秦也<pc>，</pc>用與不用<pc>，</pc>聽與不聽也<pc>。</pc>誠令成安君聽足下計<pc>，</pc>若信者亦已為禽矣<pc>。</pc>以不用足下<pc>，</pc>故信得侍耳<pc>。</pc>今僕委心歸計<pc>，</pc>願足下勿辭<pc>。</pc>
 </quote>
 <pc>」</pc>廣武君曰<pc>：</pc>
 <pc>「</pc>
@@ -112,7 +124,8 @@
 <pc>」</pc>廣武君對曰<pc>：</pc>
 <pc>「</pc>
 <quote>方今為將軍計<pc>，</pc>莫如按甲休兵<pc>，</pc>鎮撫趙民<pc>，</pc>
-<num value="100">百</num>里之內<pc>，</pc>牛酒日至<pc>，</pc>以饗士大夫<pc>；</pc>北首燕路<pc>，</pc>而後遣辨士奉咫尺之書<pc>，</pc>暴其所長於燕<pc>，</pc>燕必不敢不聽從<pc>。</pc>燕已從而東臨齊<pc>，</pc>雖有智者<pc>，</pc>亦不知為齊計矣<pc>。</pc>如是<pc>，</pc>則天下事皆可圖也<pc>。</pc>兵固有先聲而後實者<pc>，</pc>此之謂也<pc>。</pc>
+<measure quantity="100" unit="LIs">
+<num value="100">百</num>里</measure>之內<pc>，</pc>牛酒日至<pc>，</pc>以饗士大夫<pc>；</pc>北首燕路<pc>，</pc>而後遣辨士奉咫尺之書<pc>，</pc>暴其所長於燕<pc>，</pc>燕必不敢不聽從<pc>。</pc>燕已從而東臨齊<pc>，</pc>雖有智者<pc>，</pc>亦不知為齊計矣<pc>。</pc>如是<pc>，</pc>則天下事皆可圖也<pc>。</pc>兵固有先聲而後實者<pc>，</pc>此之謂也<pc>。</pc>
 </quote>
 <pc>」</pc>韓信曰<pc>：</pc>
 <pc>「</pc>
@@ -138,7 +151,8 @@
 <measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>不得見<pc>。</pc>隨何說太宰曰<pc>：</pc>
 <pc>「</pc>
-<quote>王之不見何<pc>，</pc>必以楚為強<pc>，</pc>以漢為弱也<pc>。</pc>此臣之所以為使<pc>。</pc>使何得見<pc>，</pc>言之而是<pc>，</pc>大王所欲聞也<pc>；</pc>言之而非<pc>，</pc>使何等<num value="20">二十</num>人伏斧質<num value="9">九</num>江市<pc>，</pc>足以明王倍漢而與楚也<pc>。</pc>
+<quote>王之不見何<pc>，</pc>必以楚為強<pc>，</pc>以漢為弱也<pc>。</pc>此臣之所以為使<pc>。</pc>使何得見<pc>，</pc>言之而是<pc>，</pc>大王所欲聞也<pc>；</pc>言之而非<pc>，</pc>使何等<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>伏斧質<num value="9">九</num>江市<pc>，</pc>足以明王倍漢而與楚也<pc>。</pc>
 </quote>
 <pc>」</pc>太宰乃言之王<pc>。</pc>王見之<pc>。</pc>隨何曰<pc>：</pc>
 <pc>「</pc>
@@ -151,7 +165,13 @@
 </quote>
 <pc>」</pc>隨何曰<pc>：</pc>
 <pc>「</pc>
-<quote>大王與項王俱列為諸侯<pc>，</pc>北鄉而臣事之者<pc>，</pc>必以楚為強<pc>，</pc>可以托國也<pc>。</pc>項王伐齊<pc>，</pc>身負版築<pc>，</pc>為士卒先<pc>。</pc>大王宜悉<num value="9">九</num>江之眾<pc>，</pc>身自將之<pc>，</pc>為楚前鋒<pc>；</pc>今乃發<num value="4000">四千</num>人以助楚<pc>。</pc>夫北面而臣事人者<pc>，</pc>固若是乎<pc>？</pc>漢王入彭城<pc>，</pc>項王未出齊也<pc>。</pc>大王宜悉<num value="9">九</num>江之兵渡淮<pc>，</pc>日夜會戰彭城下<pc>；</pc>大王乃撫<num value="10000">萬</num>人之眾<pc>，</pc>無<num value="1">一</num>人渡淮者<pc>，</pc>垂拱而觀其孰勝<pc>。</pc>夫托國於人者<pc>，</pc>固若是乎<pc>？</pc>大王提空名以鄉楚而欲厚自托<pc>，</pc>臣竊為大王不取也<pc>！</pc>然而大王不背楚者<pc>，</pc>以漢為弱也<pc>。</pc>夫楚兵雖強<pc>，</pc>天下負之以不義之名<pc>，</pc>以其背盟約而殺義帝也<pc>。</pc>漢王收諸侯<pc>，</pc>還守成皋<pc>、</pc>滎陽<pc>，</pc>下蜀<pc>、</pc>漢之粟<pc>，</pc>深溝壁壘<pc>，</pc>分卒守徼乘塞<pc>。</pc>楚人深入敵國<num value="7200">八九百</num>里<pc>，</pc>老弱轉糧<num value="1000">千</num>里之外<pc>。</pc>漢堅守而不動<pc>，</pc>楚進則不得攻<pc>，</pc>退則不能解<pc>，</pc>故曰楚兵不足恃也<pc>。</pc>使楚勝漢<pc>，</pc>則諸侯自危懼而相救<pc>。</pc>夫楚之強<pc>，</pc>適足以致天下之兵耳<pc>。</pc>故楚不如漢<pc>，</pc>其勢易見也<pc>。</pc>今大王不與<num value="10000">萬</num>全之漢而自托於危亡之楚<pc>，</pc>臣竊為大王惑之<pc>！</pc>臣非以<num value="9">九</num>江之兵足以亡楚也<pc>；</pc>大王發兵而倍楚<pc>，</pc>項王必留<pc>；</pc>留數月<pc>，</pc>漢之取天下可以<num value="10000">萬</num>全<pc>。</pc>臣請與大王提劍而歸漢<pc>，</pc>漢王必裂地而封大王<pc>；</pc>又況<num value="9">九</num>江必大王有也<pc>。</pc>
+<quote>大王與項王俱列為諸侯<pc>，</pc>北鄉而臣事之者<pc>，</pc>必以楚為強<pc>，</pc>可以托國也<pc>。</pc>項王伐齊<pc>，</pc>身負版築<pc>，</pc>為士卒先<pc>。</pc>大王宜悉<num value="9">九</num>江之眾<pc>，</pc>身自將之<pc>，</pc>為楚前鋒<pc>；</pc>今乃發<measure quantity="4000" unit="people">
+<num value="4000">四千</num>人</measure>以助楚<pc>。</pc>夫北面而臣事人者<pc>，</pc>固若是乎<pc>？</pc>漢王入彭城<pc>，</pc>項王未出齊也<pc>。</pc>大王宜悉<num value="9">九</num>江之兵渡淮<pc>，</pc>日夜會戰彭城下<pc>；</pc>大王乃撫<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>之眾<pc>，</pc>無<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>渡淮者<pc>，</pc>垂拱而觀其孰勝<pc>。</pc>夫托國於人者<pc>，</pc>固若是乎<pc>？</pc>大王提空名以鄉楚而欲厚自托<pc>，</pc>臣竊為大王不取也<pc>！</pc>然而大王不背楚者<pc>，</pc>以漢為弱也<pc>。</pc>夫楚兵雖強<pc>，</pc>天下負之以不義之名<pc>，</pc>以其背盟約而殺義帝也<pc>。</pc>漢王收諸侯<pc>，</pc>還守成皋<pc>、</pc>滎陽<pc>，</pc>下蜀<pc>、</pc>漢之粟<pc>，</pc>深溝壁壘<pc>，</pc>分卒守徼乘塞<pc>。</pc>楚人深入敵國<measure quantity="7200" unit="LIs">
+<num value="7200">八九百</num>里</measure>
+<pc>，</pc>老弱轉糧<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>之外<pc>。</pc>漢堅守而不動<pc>，</pc>楚進則不得攻<pc>，</pc>退則不能解<pc>，</pc>故曰楚兵不足恃也<pc>。</pc>使楚勝漢<pc>，</pc>則諸侯自危懼而相救<pc>。</pc>夫楚之強<pc>，</pc>適足以致天下之兵耳<pc>。</pc>故楚不如漢<pc>，</pc>其勢易見也<pc>。</pc>今大王不與<num value="10000">萬</num>全之漢而自托於危亡之楚<pc>，</pc>臣竊為大王惑之<pc>！</pc>臣非以<num value="9">九</num>江之兵足以亡楚也<pc>；</pc>大王發兵而倍楚<pc>，</pc>項王必留<pc>；</pc>留數月<pc>，</pc>漢之取天下可以<num value="10000">萬</num>全<pc>。</pc>臣請與大王提劍而歸漢<pc>，</pc>漢王必裂地而封大王<pc>；</pc>又況<num value="9">九</num>江必大王有也<pc>。</pc>
 </quote>
 <pc>」</pc>
 <num value="9">九</num>江王曰<pc>：</pc>
@@ -183,7 +203,8 @@
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <pc>，</pc>
-<num value="9">九</num>江王至漢<pc>。</pc>漢王方踞床洗足<pc>，</pc>召布入見<pc>。</pc>布大怒<pc>，</pc>悔來<pc>，</pc>欲自殺<pc>；</pc>及出就舍<pc>，</pc>帳御<pc>、</pc>飲食<pc>、</pc>從官皆如漢王居<pc>，</pc>布又大喜過望<pc>。</pc>於是乃使人入<num value="9">九</num>江<pc>；</pc>楚已使項伯收<num value="9">九</num>江兵<pc>，</pc>盡殺布妻子<pc>，</pc>布使者頗得故人<pc>、</pc>幸臣<pc>，</pc>將眾數<num value="1000">千</num>人歸漢<pc>。</pc>漢益<num value="9">九</num>江王兵<pc>，</pc>與俱屯成皋<pc>。</pc>
+<num value="9">九</num>江王至漢<pc>。</pc>漢王方踞床洗足<pc>，</pc>召布入見<pc>。</pc>布大怒<pc>，</pc>悔來<pc>，</pc>欲自殺<pc>；</pc>及出就舍<pc>，</pc>帳御<pc>、</pc>飲食<pc>、</pc>從官皆如漢王居<pc>，</pc>布又大喜過望<pc>。</pc>於是乃使人入<num value="9">九</num>江<pc>；</pc>楚已使項伯收<num value="9">九</num>江兵<pc>，</pc>盡殺布妻子<pc>，</pc>布使者頗得故人<pc>、</pc>幸臣<pc>，</pc>將眾數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>歸漢<pc>。</pc>漢益<num value="9">九</num>江王兵<pc>，</pc>與俱屯成皋<pc>。</pc>
 </p>
 </div>
 <div>
@@ -274,7 +295,8 @@
 </quote>
 <pc>」</pc>楚皆呼<measure quantity="10000" unit="years">
 <num value="10000">萬</num>歲</measure>
-<pc>，</pc>之城東觀<pc>。</pc>以故漢王得與數<num value="10">十</num>騎出西門遁去<pc>，</pc>令韓王信與周苛<pc>、</pc>魏豹<pc>、</pc>樅公守滎陽<pc>。</pc>羽見紀信<pc>，</pc>問<pc>：</pc>
+<pc>，</pc>之城東觀<pc>。</pc>以故漢王得與數<measure quantity="10" unit="riders">
+<num value="10">十</num>騎</measure>出西門遁去<pc>，</pc>令韓王信與周苛<pc>、</pc>魏豹<pc>、</pc>樅公守滎陽<pc>。</pc>羽見紀信<pc>，</pc>問<pc>：</pc>
 <pc>「</pc>
 <quote>漢王安在<pc>？</pc>
 </quote>
@@ -331,7 +353,9 @@
 <p>8　漢王得韓信軍<pc>，</pc>復大振<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>引兵臨河<pc>，</pc>南鄉<pc>，</pc>軍小脩武<pc>，</pc>欲復與楚戰<pc>。</pc>郎中鄭忠說止漢王<pc>，</pc>使高壘深塹勿與戰<pc>。</pc>漢王聽其計<pc>，</pc>使將軍劉賈<pc>、</pc>盧綰將卒<num value="20000">二萬</num>人<pc>，</pc>騎數<num value="100">百</num>
+<pc>，</pc>引兵臨河<pc>，</pc>南鄉<pc>，</pc>軍小脩武<pc>，</pc>欲復與楚戰<pc>。</pc>郎中鄭忠說止漢王<pc>，</pc>使高壘深塹勿與戰<pc>。</pc>漢王聽其計<pc>，</pc>使將軍劉賈<pc>、</pc>盧綰將卒<measure quantity="20000" unit="people">
+<num value="20000">二萬</num>人</measure>
+<pc>，</pc>騎數<num value="100">百</num>
 <pc>，</pc>度白馬津<pc>，</pc>入楚地<pc>，</pc>佐彭越<pc>，</pc>燒楚積聚<pc>，</pc>以破其業<pc>，</pc>無以給項王軍食而已<pc>。</pc>楚兵擊劉賈<pc>，</pc>賈輒堅壁不肯與戰<pc>，</pc>而與彭越相保<pc>。</pc>
 </p>
 </div>
@@ -457,7 +481,8 @@
 <div>
 <p>客或說龍且曰<pc>：</pc>
 <pc>「</pc>
-<quote>漢兵遠斗窮戰<pc>，</pc>其鋒不可當<pc>。</pc>齊<pc>、</pc>楚自居其地<pc>，</pc>兵易敗散<pc>。</pc>不如深壁<pc>，</pc>令齊王使其信臣招所亡城<pc>；</pc>亡城聞王在<pc>，</pc>楚來救<pc>，</pc>必反漢<pc>。</pc>漢兵<num value="2000">二千</num>里客居齊地<pc>，</pc>齊城皆反之<pc>，</pc>其勢無所得食<pc>，</pc>可無戰而降也<pc>。</pc>
+<quote>漢兵遠斗窮戰<pc>，</pc>其鋒不可當<pc>。</pc>齊<pc>、</pc>楚自居其地<pc>，</pc>兵易敗散<pc>。</pc>不如深壁<pc>，</pc>令齊王使其信臣招所亡城<pc>；</pc>亡城聞王在<pc>，</pc>楚來救<pc>，</pc>必反漢<pc>。</pc>漢兵<measure quantity="2000" unit="LIs">
+<num value="2000">二千</num>里</measure>客居齊地<pc>，</pc>齊城皆反之<pc>，</pc>其勢無所得食<pc>，</pc>可無戰而降也<pc>。</pc>
 </quote>
 <pc>」</pc>龍且曰<pc>：</pc>
 <pc>「</pc>
@@ -547,7 +572,8 @@
 </quote>
 <pc>」</pc>蒯生曰<pc>：</pc>
 <pc>「</pc>
-<quote>始常山王<pc>、</pc>成安君為布衣時<pc>，</pc>相與為刎頸之交<pc>；</pc>後爭張黶<pc>、</pc>陳澤之事<pc>，</pc>常山王殺成安君泜水之南<pc>，</pc>頭足異處<pc>。</pc>此<num value="2">二</num>人相與<pc>，</pc>天下至歡也<pc>，</pc>然而卒相禽者<pc>，</pc>何也<pc>？</pc>患生於多欲而人心難測也<pc>。</pc>今足下欲行忠信以交於漢王<pc>，</pc>必不能固於<num value="2">二</num>君之相與也<pc>，</pc>而事多大於張黶<pc>、</pc>陳澤者<pc>；</pc>故臣以為足下必漢王之不危己<pc>，</pc>亦誤矣<pc>！</pc>大夫種存亡越<pc>，</pc>霸句踐<pc>，</pc>立功成名而身死亡<pc>，</pc>野獸盡而獵狗烹<pc>。</pc>夫以交友言之<pc>，</pc>則不如張耳之與成安君者也<pc>；</pc>以忠信言之<pc>，</pc>則不過大夫種之於句踐也<pc>，</pc>此<num value="2">二</num>者足以觀矣<pc>！</pc>願足下深慮之<pc>。</pc>且臣聞『勇略震主者身危<pc>，</pc>功蓋天下者不賞』<pc>。</pc>今足下戴震主之威<pc>，</pc>挾不賞之功<pc>，</pc>歸楚<pc>，</pc>楚人不信<pc>；</pc>歸漢<pc>，</pc>漢人震恐<pc>。</pc>足下欲持是安歸乎<pc>？</pc>
+<quote>始常山王<pc>、</pc>成安君為布衣時<pc>，</pc>相與為刎頸之交<pc>；</pc>後爭張黶<pc>、</pc>陳澤之事<pc>，</pc>常山王殺成安君泜水之南<pc>，</pc>頭足異處<pc>。</pc>此<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>相與<pc>，</pc>天下至歡也<pc>，</pc>然而卒相禽者<pc>，</pc>何也<pc>？</pc>患生於多欲而人心難測也<pc>。</pc>今足下欲行忠信以交於漢王<pc>，</pc>必不能固於<num value="2">二</num>君之相與也<pc>，</pc>而事多大於張黶<pc>、</pc>陳澤者<pc>；</pc>故臣以為足下必漢王之不危己<pc>，</pc>亦誤矣<pc>！</pc>大夫種存亡越<pc>，</pc>霸句踐<pc>，</pc>立功成名而身死亡<pc>，</pc>野獸盡而獵狗烹<pc>。</pc>夫以交友言之<pc>，</pc>則不如張耳之與成安君者也<pc>；</pc>以忠信言之<pc>，</pc>則不過大夫種之於句踐也<pc>，</pc>此<num value="2">二</num>者足以觀矣<pc>！</pc>願足下深慮之<pc>。</pc>且臣聞『勇略震主者身危<pc>，</pc>功蓋天下者不賞』<pc>。</pc>今足下戴震主之威<pc>，</pc>挾不賞之功<pc>，</pc>歸楚<pc>，</pc>楚人不信<pc>；</pc>歸漢<pc>，</pc>漢人震恐<pc>。</pc>足下欲持是安歸乎<pc>？</pc>
 </quote>
 <pc>」</pc>韓信謝曰<pc>：</pc>
 <pc>「</pc>

@@ -23,13 +23,13 @@
 <text>
 <body>
 <div>
-<p>
-<name key="null" type="null">◎藝文</name>
-<num value="1">一</num>
+<p>◎藝文<num value="1">一</num>
 <pc>《</pc>
 <title>易</title>
 <pc>》</pc>曰<pc>：</pc>
-<pc>“</pc>觀乎天文<pc>，</pc>以察時變<pc>；</pc>觀乎人文<pc>，</pc>以化成天下<pc>。</pc>
+<pc>“</pc>
+<quote>觀乎天文<pc>，</pc>以察時變<pc>；</pc>觀乎人文<pc>，</pc>以化成天下<pc>。</pc>
+</quote>
 <pc>”</pc>文之有關於世運<pc>，</pc>尚矣<pc>。</pc>然書契以來<pc>，</pc>文字多而世代日降<pc>；</pc>秦火而後<pc>，</pc>文 字多而世教日興<pc>，</pc>其故何哉<pc>？</pc>蓋世道升降<pc>，</pc>人心習俗之致然<pc>，</pc>非徒文字之所為也<pc>。</pc>然去古既遠<pc>，</pc>苟無斯文以範防之<pc>，</pc>則愈趨而愈下矣<pc>。</pc>故由秦而降<pc>，</pc>每以斯文之盛 衰<pc>，</pc>占斯世之治忽焉<pc>。</pc>宋有天下<pc>，</pc>先後<num value="300">三百</num>餘年<pc>，</pc>考其治化之汙隆<pc>，</pc>風氣之離合<pc>，</pc>雖不足以擬倫<num value="3">三</num>代<pc>，</pc>然其時君汲汲於道藝<pc>，</pc>輔治之臣莫不以經術為先務<pc>，</pc>學士搢紳先生<pc>，</pc>談道德性命之學<pc>，</pc>不絕於口<pc>，</pc>豈不彬彬乎進於周之文哉<pc>！</pc>宋之不競<pc>，</pc>或以為文勝之弊<pc>，</pc>遂歸咎焉<pc>，</pc>此以功利為言<pc>，</pc>未必知道者之論也<pc>。</pc>曆代之書籍<pc>，</pc>莫厄於秦<pc>，</pc>莫富於隋<pc>、</pc>唐<pc>。</pc>隋嘉則殿書<measure quantity="370000" unit="chapters">
 <num value="370000">三十七萬</num>卷</measure>
 <pc>。</pc>而唐之藏書<pc>，</pc>開元最盛<pc>，</pc>為卷<num value="80000">八萬</num>有奇<pc>。</pc>其間唐人所自為書<pc>，</pc>幾<measure quantity="30000" unit="chapters">
@@ -48,10 +48,12 @@
 <pc>、</pc>
 <pc>《</pc>
 <title>樂</title>
-<pc>》</pc>之化<pc>。</pc>周顯德中<pc>，</pc>始有經籍刻板<pc>，</pc>學者無筆劄之勞<pc>，</pc>獲睹古人全書<pc>。</pc>然 亂離以來<pc>，</pc>編帙散佚<pc>，</pc>幸而存者<pc>，</pc>
+<pc>》</pc>之化<pc>。</pc>周<date notBefore="954" notAfter="960">顯德</date>中<pc>，</pc>始有經籍刻板<pc>，</pc>學者無筆劄之勞<pc>，</pc>獲睹古人全書<pc>。</pc>然 亂離以來<pc>，</pc>編帙散佚<pc>，</pc>幸而存者<pc>，</pc>
 <num value="100">百</num>無<num value="6">二三</num>
 <pc>。</pc>宋初<pc>，</pc>有書<num value="10000">萬</num>餘卷<pc>。</pc>其後削平諸國<pc>，</pc>收其圖籍<pc>，</pc>及下詔遣使購求散亡<pc>，</pc>
-<num value="3">三</num>館之書<pc>，</pc>稍複增益<pc>。</pc>太宗始於左升龍門北建崇文院<pc>，</pc>而徙<num value="3">三</num>館之書以實之<pc>。</pc>又分<num value="3">三</num>館書<num value="10000">萬</num>餘卷<pc>，</pc>別為書庫<pc>，</pc>目曰<pc>“</pc>秘閣<pc>”</pc>
+<num value="3">三</num>館之書<pc>，</pc>稍複增益<pc>。</pc>太宗始於左升龍門北建崇文院<pc>，</pc>而徙<num value="3">三</num>館之書以實之<pc>。</pc>又分<num value="3">三</num>館書<num value="10000">萬</num>餘卷<pc>，</pc>別為書庫<pc>，</pc>目曰<pc>“</pc>
+<quote>秘閣</quote>
+<pc>”</pc>
 <pc>。</pc>閣成<pc>，</pc>親臨幸觀書<pc>，</pc>賜從臣及直館宴<pc>。</pc>又命近習侍衛之臣縱觀群書<pc>。</pc>真宗時<pc>，</pc>命<num value="3">三</num>館寫<num value="4">四</num>部書<num value="2">二</num>本<pc>，</pc>置禁中之龍圖閣及後苑之太清樓<pc>，</pc>而玉宸殿<pc>、</pc>
 <num value="4">四</num>門殿亦各有書<num value="10000">萬</num>餘卷<pc>。</pc>又以秘閣地隘<pc>，</pc>分內藏西庫以廣之<pc>，</pc>其右文之意<pc>，</pc>亦雲至 矣<pc>。</pc>已而王宮火<pc>，</pc>延及崇文<pc>、</pc>秘閣<pc>，</pc>書多煨燼<pc>。</pc>其僅存者<pc>，</pc>遷於右掖門外<pc>，</pc>謂之崇文外院<pc>，</pc>命重寫書籍<pc>，</pc>選官詳覆校勘<pc>，</pc>常以參知政事<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>領之<pc>，</pc>書成<pc>，</pc>歸於太清 樓<pc>。</pc>仁宗既新作崇文院<pc>，</pc>命翰林學士張觀等編<num value="4">四</num>庫書<pc>，</pc>仿<pc>《</pc>
@@ -67,9 +69,9 @@
 <title>秘書總目</title>
 <pc>》</pc>
 <pc>。</pc>詔購求士民藏書<pc>，</pc>其有所秘未見之書足備觀采者<pc>，</pc>仍命以官<pc>。</pc>且以<num value="3">三</num>館書多逸遺<pc>，</pc>命建局以補全校正為名<pc>，</pc>設官總理<pc>，</pc>募工繕寫<pc>。</pc>
-<num value="1">一</num>置宣和殿<pc>，</pc>
+<num value="1">一</num>置<date notBefore="1119" notAfter="1125">宣和</date>殿<pc>，</pc>
 <num value="1">一</num>置太清樓<pc>，</pc>
-<num value="1">一</num>置秘閣<pc>。</pc>自熙寧以來<pc>，</pc>搜訪補輯<pc>，</pc>至是為盛矣<pc>。</pc>嚐曆考之<pc>，</pc>始太祖<pc>、</pc>太宗<pc>、</pc>真宗<num value="3">三</num>朝<pc>，</pc>
+<num value="1">一</num>置秘閣<pc>。</pc>自<date notBefore="1068" notAfter="1077">熙寧</date>以來<pc>，</pc>搜訪補輯<pc>，</pc>至是為盛矣<pc>。</pc>嚐曆考之<pc>，</pc>始太祖<pc>、</pc>太宗<pc>、</pc>真宗<num value="3">三</num>朝<pc>，</pc>
 <num value="3327">三千三百二十七</num>部<pc>，</pc>
 <measure quantity="39142" unit="chapters">
 <num value="39142">三萬九千一百四十二</num>卷</measure>
@@ -87,7 +89,8 @@
 <pc>，</pc>為卷<num value="73870">
 <num value="73008">七萬三千八</num>
 <num value="70">百七十</num>
-</num>有<num value="7">七</num>焉<pc>。</pc>迨夫靖康之難<pc>，</pc>而宣和<pc>、</pc>館閣之儲蕩然靡遺<pc>。</pc>高宗移蹕臨安<pc>，</pc>乃建秘書省於國史院之右<pc>，</pc>搜訪遺闕<pc>，</pc>屢優獻書之賞<pc>，</pc>於是<num value="4">四</num>方之藏<pc>，</pc>稍稍複出<pc>，</pc>而館 閣編輯<pc>，</pc>日益以富矣<pc>。</pc>當時類次書目<pc>，</pc>得<measure quantity="44486" unit="chapters">
+</num>有<num value="7">七</num>焉<pc>。</pc>迨夫靖康之難<pc>，</pc>而<date notBefore="1119" notAfter="1125">宣和</date>
+<pc>、</pc>館閣之儲蕩然靡遺<pc>。</pc>高宗移蹕臨安<pc>，</pc>乃建秘書省於國史院之右<pc>，</pc>搜訪遺闕<pc>，</pc>屢優獻書之賞<pc>，</pc>於是<num value="4">四</num>方之藏<pc>，</pc>稍稍複出<pc>，</pc>而館 閣編輯<pc>，</pc>日益以富矣<pc>。</pc>當時類次書目<pc>，</pc>得<measure quantity="44486" unit="chapters">
 <num value="44486">四萬四千四百八十六</num>卷</measure>
 <pc>。</pc>至寧宗時續書目<pc>，</pc>又得<measure quantity="14943" unit="chapters">
 <num value="14943">一萬四千九百四十三</num>卷</measure>

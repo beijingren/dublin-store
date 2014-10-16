@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="140">
 <div>
-<p>
-<name key="null" type="null">◎樂十</name>五<pc>（</pc>鼓吹上<pc>）</pc>
+<p>◎樂<num value="15">十五</num>
+<pc>（</pc>鼓吹上<pc>）</pc>
 </p>
 </div>
 <div>
@@ -46,7 +46,9 @@
 <pc>》</pc>之名<pc>，</pc>
 <pc>《</pc>
 <title>周官</title>
-<pc>》</pc>所謂<pc>“</pc>師有功則凱歌<pc>”</pc>者也<pc>。</pc>漢有<pc>《</pc>
+<pc>》</pc>所謂<pc>“</pc>
+<quote>師有功則凱歌</quote>
+<pc>”</pc>者也<pc>。</pc>漢有<pc>《</pc>
 <title>朱鷺</title>
 <pc>》</pc>等<num value="18">十八</num>曲<pc>，</pc>短簫鐃歌序戰伐之事<pc>，</pc>黃門鼓吹為享宴所用<pc>，</pc>又有騎吹<num value="2">二</num>曲<pc>。</pc>說者謂列於殿庭者為鼓吹<pc>，</pc>從行者為騎吹<pc>。</pc>魏<pc>、</pc>晉而下<pc>，</pc>莫不沿尚<pc>，</pc>始有鼓吹之名<pc>。</pc>江左太常有鼓吹之樂<pc>，</pc>梁用<num value="12">十二</num>曲<pc>，</pc>陳<num value="24">二十四</num>曲<pc>，</pc>後周亦<num value="15">十五</num>曲<pc>。</pc>唐製<pc>，</pc>大駕<pc>、</pc>法駕<pc>、</pc>小駕及<num value="1">一</num>品而下皆有焉<pc>。</pc>
 </p>
@@ -83,7 +85,9 @@
 <num value="12">十二</num>時</title>
 <pc>》</pc>
 <pc>，</pc>每更<num value="3">三</num>奏之<pc>。</pc>
-<pc>（</pc>大中祥符<measure quantity="6" unit="years">
+<pc>（</pc>
+<date notBefore="1008" notAfter="1016">大中祥符</date>
+<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>以其煩擾<pc>，</pc>詔罷追集<pc>，</pc>悉以禁兵充<pc>，</pc>常隸太常閱集<pc>。</pc>
 <measure quantity="7" unit="years">
@@ -103,7 +107,8 @@
 <pc>《</pc>
 <title>兩朝誌</title>
 <pc>》</pc>雲<pc>：</pc>
-<pc>“</pc>大駕<measure quantity="793" unit="people">
+<pc>“</pc>
+<quote>大駕<measure quantity="793" unit="people">
 <num value="793">千七百九十三</num>人</measure>
 <pc>，</pc>法駕<measure quantity="305" unit="people">
 <num value="305">千三百五</num>人</measure>
@@ -118,6 +123,7 @@
 <pc>，</pc>上宗廟諡冊<measure quantity="200" unit="people">
 <num value="200">二百</num>人</measure>
 <pc>，</pc>其曲即隨時更製<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -128,7 +134,9 @@
 <pc>、</pc>
 <pc>《</pc>
 <title>導引</title>
+<placeName>
 <pc>》</pc>
+</placeName>
 <pc>、</pc>
 <pc>《</pc>
 <title>
@@ -141,7 +149,9 @@
 <title>
 <num value="12">十二</num>時</title>
 <pc>》</pc>
-<pc>，</pc>凡<num value="4">四</num>曲<pc>。</pc>景祐<measure quantity="2" unit="years">
+<pc>，</pc>凡<num value="4">四</num>曲<pc>。</pc>
+<date notBefore="1034" notAfter="1038">景祐</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>郊祀減<pc>《</pc>
 <title>導引</title>
@@ -166,17 +176,25 @@
 </p>
 </div>
 <div>
-<p>皇祐中大饗明堂<pc>，</pc>帝謂輔臣曰<pc>：</pc>
-<pc>“</pc>明堂直端門<pc>，</pc>而致齋於內<pc>，</pc>奏嚴於外<pc>，</pc>恐失靖恭之意<pc>。</pc>
+<p>
+<date notBefore="1049" notAfter="1054">皇祐</date>中大饗明堂<pc>，</pc>帝謂輔臣曰<pc>：</pc>
+<pc>“</pc>
+<quote>明堂直端門<pc>，</pc>而致齋於內<pc>，</pc>奏嚴於外<pc>，</pc>恐失靖恭之意<pc>。</pc>
+</quote>
 <pc>”</pc>詔禮官議之<pc>，</pc>鹹言<pc>：</pc>
-<pc>“</pc>警場本古之鼛鼓<pc>，</pc>所謂夜戒守鼓者也<pc>。</pc>王者師行<pc>、</pc>吉行皆用之<pc>。</pc>今乘輿宿齋<pc>，</pc>本緣祀事<pc>，</pc>則警場亦因以警眾<pc>，</pc>非徒取觀聽之盛<pc>，</pc>恐不可廢<pc>。</pc>若以奏嚴之音去明堂近<pc>，</pc>則請列於宣德門<num value="100">百</num>步之外<pc>，</pc>俟行禮時<pc>，</pc>罷奏<num value="1">一</num>嚴<pc>，</pc>亦足以稱虔恭之意<pc>。</pc>
+<pc>“</pc>
+<quote>警場本古之鼛鼓<pc>，</pc>所謂夜戒守鼓者也<pc>。</pc>王者師行<pc>、</pc>吉行皆用之<pc>。</pc>今乘輿宿齋<pc>，</pc>本緣祀事<pc>，</pc>則警場亦因以警眾<pc>，</pc>非徒取觀聽之盛<pc>，</pc>恐不可廢<pc>。</pc>若以奏嚴之音去明堂近<pc>，</pc>則請列於宣德門<num value="100">百</num>步之外<pc>，</pc>俟行禮時<pc>，</pc>罷奏<num value="1">一</num>嚴<pc>，</pc>亦足以稱虔恭之意<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>既不可廢<pc>，</pc>則祀前<num value="1">一</num>夕邇於接神<pc>，</pc>宜罷之<pc>。</pc>
+<pc>“</pc>
+<quote>既不可廢<pc>，</pc>則祀前<num value="1">一</num>夕邇於接神<pc>，</pc>宜罷之<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>熙寧中<pc>，</pc>親祠南郊<pc>，</pc>曲<num value="5">五</num>奏<pc>，</pc>正宮<pc>《</pc>
+<p>
+<date notBefore="1068" notAfter="1077">熙寧</date>中<pc>，</pc>親祠南郊<pc>，</pc>曲<num value="5">五</num>奏<pc>，</pc>正宮<pc>《</pc>
 <title>導引</title>
 <pc>》</pc>
 <pc>、</pc>
@@ -194,7 +212,9 @@
 <pc>《</pc>
 <title>合宮歌</title>
 <pc>》</pc>
-<pc>：</pc>皆以<pc>《</pc>
+<pc>：</pc>皆以<placeName>
+<pc>《</pc>
+</placeName>
 <title>
 <measure quantity="6" unit="prefectures">
 <num value="6">六</num>州</measure>
@@ -209,9 +229,13 @@
 </p>
 </div>
 <div>
-<p>元豐中<pc>，</pc>言者以鼓吹害雅樂<pc>，</pc>欲調治之<pc>，</pc>令與正聲相得<pc>。</pc>楊傑言<pc>：</pc>
-<pc>“</pc>正樂者<pc>，</pc>先王之德音<pc>，</pc>所以感召和氣<pc>、</pc>格降上神<pc>、</pc>移變風俗<pc>，</pc>而鼓吹者<pc>，</pc>軍旅之樂耳<pc>。</pc>蓋鼓角橫吹<pc>，</pc>起於西域<pc>，</pc>聖人存<num value="4">四</num>夷之樂<pc>，</pc>所以<num value="1">一</num>天下也<pc>；</pc>存軍旅之樂<pc>，</pc>示不忘武備也<pc>。</pc>‘鞮鞻氏掌夷樂與其聲歌<pc>，</pc>祭祀則龡而歌之<pc>，</pc>燕亦如之<pc>。</pc>’今大祀<pc>，</pc>車駕所在<pc>，</pc>則鼓吹與武嚴之樂陳於門而更奏之<pc>，</pc>以備警嚴<pc>。</pc>大朝會則鼓吹列於宮架之外<pc>，</pc>其器既異先代之器<pc>，</pc>而施設概與正樂不同<pc>。</pc>國初以來<pc>，</pc>奏大樂則鼓吹備而不作<pc>，</pc>同名為樂<pc>，</pc>而用實異<pc>。</pc>雖其音聲間有符合<pc>，</pc>而宮調稱謂不可淆混<pc>。</pc>故大樂以<num value="12">十二</num>律呂名之<pc>，</pc>鼓吹之樂則曰正宮之類而已<pc>。</pc>
-<pc>（</pc>乾德中<pc>，</pc>設鼓吹<num value="12">十二</num>案<pc>，</pc>製氈床<num value="12">十二</num>
+<p>
+<date notBefore="1078" notAfter="1085">元豐</date>中<pc>，</pc>言者以鼓吹害雅樂<pc>，</pc>欲調治之<pc>，</pc>令與正聲相得<pc>。</pc>楊傑言<pc>：</pc>
+<pc>“</pc>
+<quote>正樂者<pc>，</pc>先王之德音<pc>，</pc>所以感召和氣<pc>、</pc>格降上神<pc>、</pc>移變風俗<pc>，</pc>而鼓吹者<pc>，</pc>軍旅之樂耳<pc>。</pc>蓋鼓角橫吹<pc>，</pc>起於西域<pc>，</pc>聖人存<num value="4">四</num>夷之樂<pc>，</pc>所以<num value="1">一</num>天下也<pc>；</pc>存軍旅之樂<pc>，</pc>示不忘武備也<pc>。</pc>‘鞮鞻氏掌夷樂與其聲歌<pc>，</pc>祭祀則龡而歌之<pc>，</pc>燕亦如之<pc>。</pc>
+</quote>’今大祀<pc>，</pc>車駕所在<pc>，</pc>則鼓吹與武嚴之樂陳於門而更奏之<pc>，</pc>以備警嚴<pc>。</pc>大朝會則鼓吹列於宮架之外<pc>，</pc>其器既異先代之器<pc>，</pc>而施設概與正樂不同<pc>。</pc>國初以來<pc>，</pc>奏大樂則鼓吹備而不作<pc>，</pc>同名為樂<pc>，</pc>而用實異<pc>。</pc>雖其音聲間有符合<pc>，</pc>而宮調稱謂不可淆混<pc>。</pc>故大樂以<num value="12">十二</num>律呂名之<pc>，</pc>鼓吹之樂則曰正宮之類而已<pc>。</pc>
+<pc>（</pc>
+<date notBefore="963" notAfter="968">乾德</date>中<pc>，</pc>設鼓吹<num value="12">十二</num>案<pc>，</pc>製氈床<num value="12">十二</num>
 <pc>，</pc>為熊羆騰倚之狀<pc>。</pc>每案設大鼓<pc>、</pc>羽葆鼓<pc>、</pc>金錞各<num value="1">一</num>
 <pc>，</pc>歌<pc>、</pc>簫<pc>、</pc>笳各<num value="2">二</num>
 <pc>。</pc>又有叉手笛<pc>，</pc>名曰拱宸管<pc>，</pc>考驗皆與雅音相應<pc>，</pc>列於宮縣之籍<pc>，</pc>編之令式<pc>。</pc>
@@ -220,14 +244,18 @@
 </p>
 </div>
 <div>
-<p>元符<measure quantity="3" unit="years">
+<p>
+<date notBefore="1098" notAfter="1100">元符</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <pc>，</pc>學士院奏<pc>：</pc>
-<pc>“</pc>太常寺鼓吹局應奉大行皇帝山陵鹵簿<pc>、</pc>鼓吹<pc>、</pc>儀仗<pc>，</pc>並嚴更<pc>、</pc>警場歌詞樂章<pc>，</pc>依例撰成<pc>。</pc>靈駕發引至陵所<pc>，</pc>仙呂調<pc>《</pc>
+<pc>“</pc>
+<quote>太常寺鼓吹局應奉大行皇帝山陵鹵簿<pc>、</pc>鼓吹<pc>、</pc>儀仗<pc>，</pc>並嚴更<pc>、</pc>警場歌詞樂章<pc>，</pc>依例撰成<pc>。</pc>靈駕發引至陵所<pc>，</pc>仙呂調<pc>《</pc>
 <title>導引</title>
 <pc>》</pc>等<num value="9">九</num>首<pc>，</pc>已令樂工協比聲律<pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>
 </p>
 </div>
@@ -237,7 +265,9 @@
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <pc>，</pc>議禮局言<pc>：</pc>
-<pc>“</pc>古者鐃歌<pc>、</pc>鼓吹曲各易其名<pc>，</pc>以紀功烈<pc>。</pc>今所設鼓吹<pc>，</pc>唯備警衛而已<pc>，</pc>未有鐃歌之曲<pc>，</pc>非所以彰休德<pc>、</pc>揚偉績也<pc>。</pc>乞詔儒臣討論撰述<pc>，</pc>因事命名<pc>，</pc>審協聲律<pc>，</pc>播之鼓吹<pc>，</pc>俾工師習之<pc>。</pc>凡王師大獻<pc>，</pc>則令鼓吹具奏<pc>，</pc>以聳群聽<pc>。</pc>
+<pc>“</pc>
+<quote>古者鐃歌<pc>、</pc>鼓吹曲各易其名<pc>，</pc>以紀功烈<pc>。</pc>今所設鼓吹<pc>，</pc>唯備警衛而已<pc>，</pc>未有鐃歌之曲<pc>，</pc>非所以彰休德<pc>、</pc>揚偉績也<pc>。</pc>乞詔儒臣討論撰述<pc>，</pc>因事命名<pc>，</pc>審協聲律<pc>，</pc>播之鼓吹<pc>，</pc>俾工師習之<pc>。</pc>凡王師大獻<pc>，</pc>則令鼓吹具奏<pc>，</pc>以聳群聽<pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
@@ -270,7 +300,9 @@
 <p>紹興<measure quantity="16" unit="years">
 <num value="16">十六</num>年</measure>
 <pc>，</pc>臣僚言<pc>：</pc>
-<pc>“</pc>國家大饗<pc>、</pc>乘輿齋宿必設警場<pc>，</pc>肅儀衛而嚴祀事<pc>。</pc>樂工隸太常<pc>，</pc>歌詞備<num value="3">三</num>疊<pc>，</pc>累朝以來皆用之<pc>。</pc>比者郊廟行事<pc>，</pc>率代以鉦<pc>、</pc>鼓<pc>，</pc>取諸殿司<pc>。</pc>夫軍旅<pc>、</pc>祭祀<pc>，</pc>事既異<pc>，</pc>宜樂聲清濁<pc>，</pc>用以殊尚<pc>。</pc>鉦<pc>、</pc>鼓<pc>、</pc>鳴角列於鹵簿中<pc>，</pc>所以示觀德之盛<pc>，</pc>宜詔有司更製<pc>，</pc>兼籍鼓吹樂工以時閱習<pc>，</pc>遇熙事出而用之<pc>。</pc>
+<pc>“</pc>
+<quote>國家大饗<pc>、</pc>乘輿齋宿必設警場<pc>，</pc>肅儀衛而嚴祀事<pc>。</pc>樂工隸太常<pc>，</pc>歌詞備<num value="3">三</num>疊<pc>，</pc>累朝以來皆用之<pc>。</pc>比者郊廟行事<pc>，</pc>率代以鉦<pc>、</pc>鼓<pc>，</pc>取諸殿司<pc>。</pc>夫軍旅<pc>、</pc>祭祀<pc>，</pc>事既異<pc>，</pc>宜樂聲清濁<pc>，</pc>用以殊尚<pc>。</pc>鉦<pc>、</pc>鼓<pc>、</pc>鳴角列於鹵簿中<pc>，</pc>所以示觀德之盛<pc>，</pc>宜詔有司更製<pc>，</pc>兼籍鼓吹樂工以時閱習<pc>，</pc>遇熙事出而用之<pc>。</pc>
+</quote>
 <pc>”</pc>有司請下軍器所造節鼓<num value="1">一</num>
 <pc>，</pc>奏嚴鼓<num value="120">一百二十</num>
 <pc>，</pc>鳴角亦如之<pc>，</pc>金鉦<num value="20">二十</num>有<num value="4">四</num>
@@ -283,7 +315,8 @@
 <p>孝宗隆興<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>兵部言<pc>：</pc>
-<pc>“</pc>奉明詔<pc>，</pc>大禮乘輿服禦<pc>，</pc>除玉輅<pc>、</pc>平輦等外<pc>，</pc>所用人數並從省約<pc>。</pc>內鼓吹合用<measure quantity="841" unit="people">
+<pc>“</pc>
+<quote>奉明詔<pc>，</pc>大禮乘輿服禦<pc>，</pc>除玉輅<pc>、</pc>平輦等外<pc>，</pc>所用人數並從省約<pc>。</pc>內鼓吹合用<measure quantity="841" unit="people">
 <num value="841">八百四十一</num>人</measure>
 <pc>，</pc>止用<measure quantity="588" unit="people">
 <num value="588">五百八十八</num>人</measure>
@@ -292,13 +325,14 @@
 <pc>，</pc>止用<measure quantity="130" unit="people">
 <num value="130">一百三十</num>人</measure>
 <pc>。</pc>
+</quote>
 <pc>”</pc>淳熙中大閱<pc>，</pc>帝自祥曦殿戎服而出<pc>，</pc>皇太子<pc>、</pc>親王<pc>、</pc>執政以下並從<pc>，</pc>諸將皆介胄乘馬導駕<pc>，</pc>軍器分衛前後<pc>，</pc>奏隨軍鼓管大樂<pc>。</pc>上尋易金甲<pc>，</pc>乘馬升將台<pc>，</pc>殿帥舉黃旗<pc>，</pc>諸軍呼拜<pc>，</pc>奏發嚴<pc>，</pc>中軍鳴角<pc>。</pc>馬步簇隊<pc>，</pc>連<num value="3">三</num>鼓<pc>。</pc>至<num value="4">四</num>鼓<pc>，</pc>舉白旗<pc>，</pc>中軍鼓聲旗應<pc>，</pc>乃變方陣<pc>。</pc>別高<num value="1">一</num>鼓<pc>，</pc>馬步軍出陣<pc>。</pc>別高<num value="1">一</num>鼓<pc>，</pc>各歸部隊<pc>。</pc>
 <num value="5">五</num>鼓舉黃旗<pc>，</pc>變員陣<pc>。</pc>又鼓<pc>，</pc>舉赤旗<pc>，</pc>變銳陣<pc>；</pc>青旗變直陣<pc>。</pc>收鼓訖<pc>，</pc>
 <num value="1">一</num>金止<pc>，</pc>重鼓鳴角<pc>，</pc>簇隊放教<pc>。</pc>此其凡也<pc>。</pc>
 </p>
 </div>
 <div>
-<p>△開寶元年南郊<num value="3">三</num>首<pc>《</pc>
+<p>△<date notBefore="968" notAfter="976">開寶</date>元年南郊<num value="3">三</num>首<pc>《</pc>
 <title>導引</title>
 <pc>》</pc>
 </p>
@@ -312,7 +346,10 @@
 <pc>、</pc>
 <pc>《</pc>
 <title>甘露</title>
-<pc>》</pc>登歌薦<pc>，</pc>雲物煥祥經<pc>。</pc>兢兢惕惕持謙德<pc>，</pc>未許禪雲<pc>、</pc>亭<pc>。</pc>
+<pc>》</pc>登歌薦<pc>，</pc>雲物煥祥經<pc>。</pc>兢兢惕惕持謙德<pc>，</pc>未許禪<placeName>雲</placeName>
+<pc>、</pc>亭<placeName>
+<pc>。</pc>
+</placeName>
 </p>
 </div>
 <div>
@@ -366,14 +403,21 @@
 <num value="10000">萬</num>國樂升平<pc>，</pc>慶海晏河清<pc>。</pc>唐堯<pc>、</pc>虞舜垂衣化<pc>，</pc>詎比我皇明<pc>！</pc>
 <num value="9">九</num>天寶命垂丕貺<pc>，</pc>雲物效祥英<pc>。</pc>星羅羽衛登喬嶽<pc>，</pc>親告禪雲<pc>、</pc>亭<pc>。</pc>
 <pc>（</pc>汾陰雲<pc>：</pc>
-<pc>“</pc>星羅羽衛臨汾曲<pc>，</pc>親享答資生<pc>。</pc>
+<pc>“</pc>
+<quote>星羅羽衛臨汾曲<pc>，</pc>親享答資生<pc>。</pc>
+</quote>
 <pc>”</pc>
 <pc>）</pc>我皇垂拱<pc>，</pc>惠化洽文明<pc>，</pc>盛禮慶重行<pc>。</pc>登封<pc>、</pc>降禪燔柴畢<pc>，</pc>
 <pc>（</pc>汾陰雲<pc>：</pc>
-<pc>“</pc>告虔睢上皇儀畢<pc>。</pc>
+<pc>“</pc>
+<quote>告虔睢上皇儀畢<pc>。</pc>
+</quote>
 <pc>”</pc>
-<pc>）</pc>天仗入神京<pc>。</pc>雲雷布澤遍寰瀛<pc>，</pc>遐邇振歡聲<pc>。</pc>巍巍聖壽南山固<pc>，</pc>
-<num value="1000">千</num>載賀承平<pc>。</pc>
+<pc>）</pc>天仗入神京<pc>。</pc>雲雷布澤遍寰瀛<pc>，</pc>遐邇振歡聲<pc>。</pc>巍巍聖壽南山<placeName>固</placeName>
+<pc>，</pc>
+<placeName>
+<num value="1000">千</num>
+</placeName>載賀承平<pc>。</pc>
 </p>
 </div>
 <div>
@@ -395,14 +439,18 @@
 <pc>》</pc>
 <pc>。</pc>
 <pc>（</pc>汾陰雲<pc>：</pc>
-<pc>“</pc>方丘盛禮<pc>，</pc>精嚴越古<pc>，</pc>陳牲檢玉<pc>，</pc>
+<pc>“</pc>
+<quote>方丘盛禮<pc>，</pc>精嚴越古<pc>，</pc>陳牲檢玉<pc>，</pc>
 <pc>《</pc>
 <title>時邁</title>
 <pc>》</pc>展鴻儀<pc>。</pc>
+</quote>
 <pc>”</pc>
 <pc>）</pc>玄文錫<pc>，</pc>慶雲<num value="5">五</num>色相隨<pc>。</pc>甘露降<pc>，</pc>醴泉湧<pc>，</pc>
 <pc>（</pc>汾陰雲<pc>：</pc>
-<pc>“</pc>嘉禾合<pc>。</pc>
+<pc>“</pc>
+<quote>嘉禾合<pc>。</pc>
+</quote>
 <pc>”</pc>
 <pc>）</pc>
 <num value="3">三</num>秀發靈芝<pc>。</pc>皇猷播<pc>，</pc>史冊光輝<pc>。</pc>受鴻禧<pc>，</pc>
@@ -421,12 +469,16 @@
 <div>
 <p>聖明代<pc>，</pc>海縣澄清<pc>，</pc>惠化洽寰瀛<pc>。</pc>時康歲足<pc>，</pc>治定武成<pc>，</pc>遐邇賀升平<pc>。</pc>嘉壇上<pc>，</pc>昭事神靈<pc>。</pc>薦明誠<pc>，</pc>報本禪雲<pc>、</pc>亭<pc>，</pc>
 <pc>（</pc>汾陰雲<pc>：</pc>
-<pc>“</pc>蠲潔答鴻寧<pc>。</pc>
+<pc>“</pc>
+<quote>蠲潔答鴻寧<pc>。</pc>
+</quote>
 <pc>”</pc>
 <pc>）</pc>俎豆列犧牲<pc>。</pc>宸心蠲潔<pc>，</pc>明德薦惟馨<pc>。</pc>紀鴻名<pc>，</pc>
 <num value="1000">千</num>載播天聲<pc>。</pc>燔柴畢<pc>，</pc>
 <pc>（</pc>汾陰雲<pc>：</pc>
-<pc>“</pc>親祀畢<pc>。</pc>
+<pc>“</pc>
+<quote>親祀畢<pc>。</pc>
+</quote>
 <pc>”</pc>
 <pc>）</pc>雲罕回仙仗<pc>，</pc>慶鑾輅還京<pc>。</pc>
 <num value="8">八</num>神卮蹕<pc>，</pc>
@@ -450,8 +502,10 @@
 </p>
 </div>
 <div>
-<p>穹旻錫祐<pc>，</pc>盛德日章明<pc>，</pc>見地平天成<pc>。</pc>垂衣恭己幹戈偃<pc>，</pc>億載祐黎<pc>。</pc>羽旄飾駕當春候<pc>，</pc>款謁屆殊庭<pc>。</pc>精衷昭感膺多福<pc>，</pc>夷夏保鹹寧<pc>。</pc>聖君禦宇<pc>，</pc>祗翼奉<num value="3">三</num>靈<pc>，</pc>已偃革休兵<pc>。</pc>區中海外鴻禧浹<pc>，</pc>恭館勵虔誠<pc>。</pc>
-<num value="9">九</num>斿<num value="7">七</num>萃著聲明<pc>，</pc>徯後徇輿情<pc>。</pc>丕圖寶緒承繁祉<pc>，</pc>率土仰隆平<pc>。</pc>
+<p>穹旻錫祐<pc>，</pc>盛德日章明<pc>，</pc>見地平<date notBefore="926" notAfter="930">天成</date>
+<pc>。</pc>垂衣恭己幹戈偃<pc>，</pc>億載祐黎<pc>。</pc>羽旄飾駕當春候<pc>，</pc>款謁屆殊庭<pc>。</pc>精衷昭感膺多福<pc>，</pc>夷夏保鹹寧<pc>。</pc>聖君禦宇<pc>，</pc>祗翼奉<num value="3">三</num>靈<pc>，</pc>已偃革休兵<pc>。</pc>區中海外鴻禧浹<pc>，</pc>恭館勵虔誠<pc>。</pc>
+<num value="9">九</num>斿<num value="7">七</num>萃著聲明<pc>，</pc>徯後徇輿情<pc>。</pc>丕圖寶緒承繁<placeName>祉</placeName>
+<pc>，</pc>率土仰隆平<pc>。</pc>
 </p>
 </div>
 <div>
@@ -466,8 +520,10 @@
 </div>
 <div>
 <p>
-<num value="1000">千</num>載運<pc>，</pc>寶業正遐昌<pc>。</pc>欽至道<pc>，</pc>崇明祀<pc>，</pc>盛禮邁前王<pc>。</pc>鑾輅動<pc>，</pc>
-<num value="10000">萬</num>騎騰驤<pc>。</pc>馳道紛彩仗<pc>，</pc>瑞日煌煌<pc>。</pc>奉秘檢<pc>，</pc>玉羽群翔<pc>，</pc>非霧滿康莊<pc>。</pc>躬朝真館<pc>，</pc>齊心繹思<pc>，</pc>順風俯拜<pc>，</pc>奠酒爇蕭薌<pc>。</pc>精衷達<pc>，</pc>飆輪降格昭彰<pc>。</pc>回羽旆<pc>，</pc>駐周輦<pc>，</pc>舊地訪睢陽<pc>。</pc>享清廟<pc>，</pc>孝德輝光<pc>。</pc>屆靈場<pc>，</pc>星羅<num value="10000">萬</num>國珪璋<pc>。</pc>陳牲幣<pc>，</pc>金石鏘洋<pc>，</pc>景福降穰穰<pc>。</pc>垂衣法坐<pc>，</pc>恩覃群品<pc>，</pc>慶均海宇<pc>，</pc>聖壽保無疆<pc>。</pc>
+<num value="1000">千</num>載運<pc>，</pc>寶業正遐昌<pc>。</pc>欽<date notBefore="995" notAfter="997">至道</date>
+<pc>，</pc>崇明祀<pc>，</pc>盛禮邁前王<pc>。</pc>鑾輅動<pc>，</pc>
+<measure quantity="10000" unit="riders">
+<num value="10000">萬</num>騎</measure>騰驤<pc>。</pc>馳道紛彩仗<pc>，</pc>瑞日煌煌<pc>。</pc>奉秘檢<pc>，</pc>玉羽群翔<pc>，</pc>非霧滿康莊<pc>。</pc>躬朝真館<pc>，</pc>齊心繹思<pc>，</pc>順風俯拜<pc>，</pc>奠酒爇蕭薌<pc>。</pc>精衷達<pc>，</pc>飆輪降格昭彰<pc>。</pc>回羽旆<pc>，</pc>駐周輦<pc>，</pc>舊地訪睢陽<pc>。</pc>享清廟<pc>，</pc>孝德輝光<pc>。</pc>屆靈場<pc>，</pc>星羅<num value="10000">萬</num>國珪璋<pc>。</pc>陳牲幣<pc>，</pc>金石鏘洋<pc>，</pc>景福降穰穰<pc>。</pc>垂衣法坐<pc>，</pc>恩覃群品<pc>，</pc>慶均海宇<pc>，</pc>聖壽保無疆<pc>。</pc>
 </p>
 </div>
 <div>
@@ -511,7 +567,9 @@
 </p>
 </div>
 <div>
-<p>重熙累盛<pc>，</pc>睿化暢真風<pc>，</pc>尊祖奉高穹<pc>。</pc>林棼彩仗明初日<pc>，</pc>瑞氣滿晴空<pc>。</pc>玉鑾徐動出環宮<pc>，</pc>虔鞏罄宸衷<pc>。</pc>禮成均慶人神悅<pc>，</pc>聖壽保無窮<pc>。</pc>
+<p>重熙累盛<pc>，</pc>睿化暢真風<pc>，</pc>尊祖奉高穹<pc>。</pc>林棼彩仗明初日<pc>，</pc>瑞氣滿晴空<pc>。</pc>玉鑾徐動出環宮<pc>，</pc>虔鞏罄宸衷<pc>。</pc>禮成均慶人神悅<pc>，</pc>
+<placeName>聖</placeName>
+<placeName>壽</placeName>保無窮<pc>。</pc>
 <pc>《</pc>
 <title>
 <measure quantity="6" unit="prefectures">
@@ -534,7 +592,8 @@
 </div>
 <div>
 <p>亨嘉會<pc>，</pc>
-<num value="10000">萬</num>宇歡康<pc>，</pc>聖化邁陶唐<pc>。</pc>元符錫命<pc>，</pc>天鑒昭彰<pc>，</pc>徽號奉琳房<pc>。</pc>陳縟禮<pc>，</pc>獻歲惟良<pc>。</pc>耀旂章<pc>，</pc>翠輦駐仙鄉<pc>，</pc>睿意極齊莊<pc>。</pc>仙衣渥彩<pc>，</pc>玉冊共熒煌<pc>。</pc>薦芬芳<pc>，</pc>飆馭降靈場<pc>。</pc>回雲罕<pc>，</pc>尊祖趨仙宇<pc>，</pc>金石韻鏘洋<pc>。</pc>聿朝清廟<pc>，</pc>躬奠瑤觴<pc>，</pc>報本國之陽<pc>。</pc>執籩豆<pc>，</pc>列侍貂榼<pc>，</pc>對穹蒼<pc>。</pc>洪恩霈夷夏<pc>，</pc>大慶浹家邦<pc>。</pc>垂衣紫極<pc>，</pc>聖壽保遐昌<pc>。</pc>集祺祥<pc>，</pc>地久與天長<pc>。</pc>
+<num value="10000">萬</num>宇歡康<pc>，</pc>聖化邁陶唐<pc>。</pc>
+<date notBefore="1098" notAfter="1100">元符</date>錫命<pc>，</pc>天鑒昭彰<pc>，</pc>徽號奉琳房<pc>。</pc>陳縟禮<pc>，</pc>獻歲惟良<pc>。</pc>耀旂章<pc>，</pc>翠輦駐仙鄉<pc>，</pc>睿意極齊莊<pc>。</pc>仙衣渥彩<pc>，</pc>玉冊共熒煌<pc>。</pc>薦芬芳<pc>，</pc>飆馭降靈場<pc>。</pc>回雲罕<pc>，</pc>尊祖趨仙宇<pc>，</pc>金石韻鏘洋<pc>。</pc>聿朝清廟<pc>，</pc>躬奠瑤觴<pc>，</pc>報本國之陽<pc>。</pc>執籩豆<pc>，</pc>列侍貂榼<pc>，</pc>對穹蒼<pc>。</pc>洪恩霈夷夏<pc>，</pc>大慶浹家邦<pc>。</pc>垂衣紫極<pc>，</pc>聖壽保遐昌<pc>。</pc>集祺祥<pc>，</pc>地久與天長<pc>。</pc>
 </p>
 </div>
 <div>
@@ -549,10 +608,12 @@
 <div>
 <p>我皇纘位<pc>，</pc>覆燾合穹旻<pc>，</pc>秘籙示靈文<pc>。</pc>齊居紫殿膺玄貺<pc>，</pc>降寶命氤氳<pc>。</pc>奉符讓德事嚴禋<pc>，</pc>檢玉陟天孫<pc>。</pc>垂鴻紀號光前古<pc>，</pc>邁<num value="72">八九</num>為君<pc>。</pc>
 <pc>（</pc>汾陰雲<pc>：</pc>
-<pc>“</pc>後祗坤德宅河<pc>、</pc>汾<pc>，</pc>瘞玉考前聞<pc>。</pc>垂休紀績超唐<pc>、</pc>漢<pc>，</pc>光監格鴻勳<pc>。</pc>
+<pc>“</pc>
+<quote>後祗坤德宅河<pc>、</pc>汾<pc>，</pc>瘞玉考前聞<pc>。</pc>垂休紀績超唐<pc>、</pc>漢<pc>，</pc>光監格鴻勳<pc>。</pc>
 <pc>）</pc>靈台偃武<pc>，</pc>書軌慶同文<pc>，</pc>奄<num value="6">六</num>合居尊<pc>。</pc>圓穹錫命垂真籙<pc>，</pc>清曉降金門<pc>。</pc>升中報本禪雲雲<pc>，</pc>
 <pc>（</pc>汾陰雲<pc>：</pc>
 <pc>“</pc>方丘報本務精勤<pc>。</pc>
+</quote>
 <pc>”</pc>
 <pc>）</pc>嚴祀事惟寅<pc>。</pc>無為致治臻清淨<pc>，</pc>見反樸還淳<pc>。</pc>
 </p>
@@ -576,7 +637,8 @@
 </p>
 </div>
 <div>
-<p>紫霄金闕<pc>，</pc>重疊降元符<pc>，</pc>億兆祚皇圖<pc>。</pc>雲章焜耀傳溫玉<pc>，</pc>寶閣起清都<pc>。</pc>奉迎彩仗溢天衢<pc>，</pc>觀者競歡呼<pc>。</pc>明君欽翼承鴻蔭<pc>，</pc>億載禦中區<pc>。</pc>寶符錫祚<pc>，</pc>慶壽命惟新<pc>，</pc>俄降格飆輪<pc>。</pc>巍巍帝德增虔奉<pc>，</pc>懿號薦穹旻<pc>。</pc>精齊秘館奉嚴禋<pc>，</pc>文物耀昌辰<pc>。</pc>升煙太<num value="1">一</num>修郊報<pc>，</pc>鴻祉介烝民<pc>。</pc>
+<p>紫霄金闕<pc>，</pc>重疊降<date notBefore="1098" notAfter="1100">元符</date>
+<pc>，</pc>億兆祚皇圖<pc>。</pc>雲章焜耀傳溫玉<pc>，</pc>寶閣起清都<pc>。</pc>奉迎彩仗溢天衢<pc>，</pc>觀者競歡呼<pc>。</pc>明君欽翼承鴻蔭<pc>，</pc>億載禦中區<pc>。</pc>寶符錫祚<pc>，</pc>慶壽命惟新<pc>，</pc>俄降格飆輪<pc>。</pc>巍巍帝德增虔奉<pc>，</pc>懿號薦穹旻<pc>。</pc>精齊秘館奉嚴禋<pc>，</pc>文物耀昌辰<pc>。</pc>升煙太<num value="1">一</num>修郊報<pc>，</pc>鴻祉介烝民<pc>。</pc>
 </p>
 </div>
 <div>
@@ -617,7 +679,9 @@
 </p>
 </div>
 <div>
-<p>元符錫命<pc>，</pc>祗受慶誠明<pc>，</pc>恭館法<num value="3">三</num>清<pc>。</pc>開基盛烈垂無極<pc>，</pc>金像儼天成<pc>。</pc>奉迎霞布甘泉仗<pc>，</pc>簫瑟振和聲<pc>。</pc>靈辰協吉鴻儀畢<pc>，</pc>
+<p>
+<date notBefore="1098" notAfter="1100">元符</date>錫命<pc>，</pc>祗受慶誠明<pc>，</pc>恭館法<num value="3">三</num>清<pc>。</pc>開基盛烈垂無極<pc>，</pc>金像儼<date notBefore="926" notAfter="930">天成</date>
+<pc>。</pc>奉迎霞布甘泉仗<pc>，</pc>簫瑟振和聲<pc>。</pc>靈辰協吉鴻儀畢<pc>，</pc>
 <num value="10000">萬</num>國保隆平<pc>。</pc>
 <pc>《</pc>
 <title>太宗皇帝</title>
@@ -688,7 +752,8 @@
 </p>
 </div>
 <div>
-<p>祖宗垂佑<pc>，</pc>亨會協重熙<pc>，</pc>德澤被烝黎<pc>。</pc>虔崇尊諡陳徽冊<pc>，</pc>藻衛列葳蕤<pc>。</pc>宸心致孝極孜孜<pc>，</pc>展禮詔台司<pc>。</pc>祥煙瑞靄浮清廟<pc>，</pc>綿宇被純禧<pc>。</pc>△治平<measure quantity="4" unit="years">
+<p>祖宗垂佑<pc>，</pc>亨會協重熙<pc>，</pc>德澤被烝黎<pc>。</pc>虔崇尊諡陳徽冊<pc>，</pc>藻衛列葳蕤<pc>。</pc>宸心致孝極孜孜<pc>，</pc>展禮詔台司<pc>。</pc>祥煙瑞靄浮清廟<pc>，</pc>綿宇被純禧<pc>。</pc>△<date notBefore="1064" notAfter="1067">治平</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>英宗祔廟<pc>《</pc>
 <title>導引</title>
 <pc>》</pc>
@@ -699,7 +764,9 @@
 </p>
 </div>
 <div>
-<p>熙寧<measure quantity="2" unit="years">
+<p>
+<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>仁宗<pc>、</pc>英宗禦容赴西京會聖宮應天禪院奉安<pc>《</pc>
 <title>導引</title>
 <pc>》</pc>
@@ -751,7 +818,8 @@
 </p>
 </div>
 <div>
-<p>△元豐<measure quantity="2" unit="years">
+<p>△<date notBefore="1078" notAfter="1085">元豐</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>慈聖光獻皇後發引<num value="4">四</num>首儀仗內<pc>《</pc>
 <title>導引</title>
 <pc>》</pc>
@@ -784,7 +852,8 @@
 </p>
 </div>
 <div>
-<p>治平時<pc>，</pc>暫垂簾<pc>，</pc>佑聖子<pc>，</pc>解危疑<pc>。</pc>坐安天下<pc>，</pc>逾歲厭避<num value="10000">萬</num>機<pc>，</pc>退處宸闈<pc>。</pc>殿開慶<pc>，</pc>養誌入希夷<pc>。</pc>扶皓日<pc>，</pc>浴鹹池<pc>。</pc>看神孫撫禦<pc>，</pc>
+<p>
+<date notBefore="1064" notAfter="1067">治平</date>時<pc>，</pc>暫垂簾<pc>，</pc>佑聖子<pc>，</pc>解危疑<pc>。</pc>坐安天下<pc>，</pc>逾歲厭避<num value="10000">萬</num>機<pc>，</pc>退處宸闈<pc>。</pc>殿開慶<pc>，</pc>養誌入希夷<pc>。</pc>扶皓日<pc>，</pc>浴鹹池<pc>。</pc>看神孫撫禦<pc>，</pc>
 <num value="1000">千</num>載重雍累熙<pc>，</pc>
 <num value="4">四</num>方欽仰洪慈<pc>。</pc>陰德遠<pc>，</pc>仁功積<pc>，</pc>歡養罄<num value="9">九</num>域<pc>，</pc>禮無違<pc>。</pc>事難期<pc>，</pc>乘霞去<pc>，</pc>乍睹升仙<pc>，</pc>誥下<num value="9">九</num>圍<pc>。</pc>泣血漣如<pc>，</pc>更鸞車動<pc>，</pc>春晚霧暗翠旂<pc>，</pc>路指嵩<pc>、</pc>伊<pc>。</pc>薤歌鳳吹<pc>，</pc>悠颺逐風悲<pc>。</pc>珠殿悄<pc>，</pc>綱塵垂<pc>。</pc>空坐濕<pc>。</pc>罔極吾皇孝思<pc>，</pc>鏤玉寫音徽<pc>。</pc>彤管煒<pc>，</pc>青編紀<pc>，</pc>寧更羨周<pc>《</pc>
 <title>雅</title>

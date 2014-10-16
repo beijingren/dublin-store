@@ -36,7 +36,7 @@
 <pc>，</pc>上始行幸甘泉<pc>，</pc>郊泰畤<pc>，</pc>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
-<pc>，</pc>行幸河東<pc>，</pc>祠后土<pc>。</pc>上頗修武帝故事<pc>，</pc>謹齋祀之禮<pc>，</pc>以方士言增置神祠<pc>；</pc>聞益州有金馬<pc>、</pc>碧雞之神<pc>，</pc>可醮祭而致<pc>，</pc>於是遣諫大夫蜀郡王褒使持節而求之<pc>。</pc>
+<pc>，</pc>行幸河東<pc>，</pc>祠后土<pc>。</pc>上頗修武帝故事<pc>，</pc>謹齋祀之禮<pc>，</pc>以方士言增置神祠<pc>；</pc>聞<placeName>益州</placeName>有金馬<pc>、</pc>碧雞之神<pc>，</pc>可醮祭而致<pc>，</pc>於是遣諫大夫蜀郡王褒使持節而求之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -114,13 +114,17 @@
 </p>
 </div>
 <div>
-<p>5　趙充國至金城<pc>，</pc>須兵滿<num value="10000">萬</num>騎<pc>，</pc>欲渡河<pc>，</pc>恐為虜所遮<pc>，</pc>即夜遣<num value="3">三</num>校銜枚先渡<pc>，</pc>渡<pc>，</pc>輒營陳<pc>；</pc>會明畢<pc>，</pc>遂以次盡渡<pc>。</pc>虜數<num value="1000">十百</num>騎來<pc>，</pc>出入軍傍<pc>，</pc>充國曰<pc>：</pc>
+<p>5　趙充國至金城<pc>，</pc>須兵滿<measure quantity="10000" unit="riders">
+<num value="10000">萬</num>騎</measure>
+<pc>，</pc>欲渡河<pc>，</pc>恐為虜所遮<pc>，</pc>即夜遣<num value="3">三</num>校銜枚先渡<pc>，</pc>渡<pc>，</pc>輒營陳<pc>；</pc>會明畢<pc>，</pc>遂以次盡渡<pc>。</pc>虜數<measure quantity="1000" unit="riders">
+<num value="1000">十百</num>騎</measure>來<pc>，</pc>出入軍傍<pc>，</pc>充國曰<pc>：</pc>
 <pc>「</pc>
 <quote>吾士馬新倦<pc>，</pc>不可馳逐<pc>，</pc>此皆驍騎難制<pc>，</pc>又恐其為誘兵也<pc>。</pc>擊虜以殄滅為期<pc>，</pc>小利不足貪<pc>！</pc>
 </quote>
 <pc>」</pc>令軍勿擊<pc>。</pc>遣騎候<num value="4">四</num>望陿中無虜<pc>，</pc>夜<pc>，</pc>引兵上至落都<pc>，</pc>召諸校司馬謂曰<pc>：</pc>
 <pc>「</pc>
-<quote>吾知羌虜不能為兵矣<pc>！</pc>使虜發數<num value="1000">千</num>人守杜<num value="4">四</num>望陿中<pc>，</pc>兵豈得入哉<pc>！</pc>
+<quote>吾知羌虜不能為兵矣<pc>！</pc>使虜發數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>守杜<num value="4">四</num>望陿中<pc>，</pc>兵豈得入哉<pc>！</pc>
 </quote>
 <pc>」</pc>
 </p>
@@ -142,7 +146,8 @@
 </p>
 </div>
 <div>
-<p>時上已發內郡兵屯邊者合<num value="60000">六萬</num>人矣<pc>。</pc>酒泉太守辛武賢奏言<pc>：</pc>
+<p>時上已發內郡兵屯邊者合<measure quantity="60000" unit="people">
+<num value="60000">六萬</num>人</measure>矣<pc>。</pc>酒泉太守辛武賢奏言<pc>：</pc>
 <pc>「</pc>
 <quote>郡兵皆屯備南山<pc>，</pc>北邊空虛<pc>，</pc>勢不可久<pc>。</pc>若至秋冬乃進兵<pc>，</pc>此虜在境外之冊<pc>。</pc>今虜朝夕為寇<pc>，</pc>土地寒苦<pc>，</pc>漢馬不耐冬<pc>，</pc>不如以<measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>上旬繼<measure quantity="30" unit="days">
@@ -156,7 +161,11 @@
 <pc>「</pc>
 <quote>
 <num value="1">一</num>馬自負<measure quantity="30" unit="days">
-<num value="30">三十</num>日</measure>食<pc>，</pc>為米<num value="2">二</num>斛<num value="4">四</num>斗<pc>，</pc>麥<num value="8">八</num>斛<pc>，</pc>又有衣裝<pc>、</pc>兵器<pc>，</pc>難以追逐<pc>。</pc>虜必商軍進退<pc>，</pc>稍引去<pc>，</pc>逐水草<pc>，</pc>入山林<pc>。</pc>隨而深入<pc>，</pc>虜即據前險<pc>，</pc>守後厄<pc>，</pc>以絕糧道<pc>，</pc>必有傷危之憂<pc>，</pc>為夷狄笑<pc>，</pc>
+<num value="30">三十</num>日</measure>食<pc>，</pc>為米<measure quantity="2" unit="HUs">
+<num value="2">二</num>斛</measure>
+<num value="4">四</num>斗<pc>，</pc>麥<measure quantity="8" unit="HUs">
+<num value="8">八</num>斛</measure>
+<pc>，</pc>又有衣裝<pc>、</pc>兵器<pc>，</pc>難以追逐<pc>。</pc>虜必商軍進退<pc>，</pc>稍引去<pc>，</pc>逐水草<pc>，</pc>入山林<pc>。</pc>隨而深入<pc>，</pc>虜即據前險<pc>，</pc>守後厄<pc>，</pc>以絕糧道<pc>，</pc>必有傷危之憂<pc>，</pc>為夷狄笑<pc>，</pc>
 <num value="1000">千</num>載不可復<pc>。</pc>而武賢以為可奪其畜產<pc>，</pc>虜其妻子<pc>，</pc>此殆空言<pc>，</pc>非至計也<pc>。</pc>先零首為畔逆<pc>，</pc>他種劫略<pc>，</pc>故臣愚冊<pc>，</pc>欲捐罕<pc>、</pc>幵闇昧之過<pc>，</pc>隱而勿章<pc>，</pc>先行先零之誅以震動之<pc>，</pc>宜悔過反善<pc>，</pc>因赦其罪<pc>，</pc>選擇良吏知其俗者<pc>，</pc>拊循和輯<pc>。</pc>此全師保勝安邊之冊<pc>。</pc>
 </quote>
 <pc>」</pc>
@@ -239,7 +248,13 @@
 </quote>
 <pc>」</pc>充國漢曰<pc>：</pc>
 <pc>「</pc>
-<quote>是何言之不忠也<pc>！</pc>本用吾言<pc>，</pc>羌虜得至是邪<pc>！</pc>往者舉可先行羌者<pc>，</pc>吾舉辛武賢<pc>；</pc>丞相御史復白遣義渠安國<pc>，</pc>竟沮敗羌<pc>。</pc>金城<pc>、</pc>湟中谷斛<num value="8">八</num>錢<pc>，</pc>吾謂耿中丞<pc>：</pc>『糴<num value="3000000">三百萬</num>斛穀<pc>，</pc>羌人不敢動矣<pc>！</pc>』耿中丞請糴<num value="1000000">百萬</num>斛<pc>，</pc>乃得<num value="400000">四十萬</num>斛耳<pc>；</pc>義渠再使<pc>，</pc>且費其半<pc>。</pc>失此<num value="2">二</num>冊<pc>，</pc>羌人致敢為逆<pc>。</pc>失之毫釐<pc>，</pc>差以<num value="1000">千</num>里<pc>，</pc>是既然矣<pc>。</pc>今兵久不決<pc>，</pc>
+<quote>是何言之不忠也<pc>！</pc>本用吾言<pc>，</pc>羌虜得至是邪<pc>！</pc>往者舉可先行羌者<pc>，</pc>吾舉辛武賢<pc>；</pc>丞相御史復白遣義渠安國<pc>，</pc>竟沮敗羌<pc>。</pc>金城<pc>、</pc>湟中谷斛<num value="8">八</num>錢<pc>，</pc>吾謂耿中丞<pc>：</pc>『糴<measure quantity="3000000" unit="HUs">
+<num value="3000000">三百萬</num>斛</measure>穀<pc>，</pc>羌人不敢動矣<pc>！</pc>』耿中丞請糴<measure quantity="1000000" unit="HUs">
+<num value="1000000">百萬</num>斛</measure>
+<pc>，</pc>乃得<measure quantity="400000" unit="HUs">
+<num value="400000">四十萬</num>斛</measure>耳<pc>；</pc>義渠再使<pc>，</pc>且費其半<pc>。</pc>失此<num value="2">二</num>冊<pc>，</pc>羌人致敢為逆<pc>。</pc>失之毫釐<pc>，</pc>差以<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>
+<pc>，</pc>是既然矣<pc>。</pc>今兵久不決<pc>，</pc>
 <num value="4">四</num>夷卒有動搖<pc>，</pc>相因而起<pc>，</pc>雖有知者不能善其後<pc>，</pc>羌獨足憂邪<pc>？</pc>吾固以死守之<pc>，</pc>明主可為忠言<pc>。</pc>
 </quote>
 <pc>」</pc>
@@ -248,9 +263,13 @@
 <div>
 <p>遂上屯田奏曰<pc>：</pc>
 <pc>「</pc>
-<quote>臣所將吏士<pc>、</pc>馬牛食所用糧穀<pc>、</pc>茭稿<pc>，</pc>調度甚廣<pc>，</pc>難久不解<pc>，</pc>徭役不息<pc>，</pc>恐生它變<pc>，</pc>為明主憂<pc>，</pc>誠非素定廟勝之冊<pc>。</pc>且羌易以計破<pc>，</pc>難用兵碎也<pc>，</pc>故臣愚心以為擊之不便<pc>！</pc>計度臨羌東至浩亹<pc>，</pc>羌虜故田及公田<pc>，</pc>民所未墾<pc>，</pc>可<num value="2000">二千</num>頃以上<pc>，</pc>其間郵亭多壞敗者<pc>。</pc>臣前部士入山<pc>，</pc>伐林木<num value="60000">六萬</num>餘枚<pc>，</pc>在水次<pc>。</pc>臣願罷騎兵<pc>，</pc>留步兵<num value="281">萬二百八十一</num>人<pc>，</pc>分屯要害處<pc>，</pc>冰解漕下<pc>，</pc>繕鄉亭<pc>，</pc>浚溝渠<pc>，</pc>治湟陿以西道橋<num value="70">七十</num>所<pc>，</pc>令可至鮮水左右<pc>。</pc>田事出<pc>，</pc>賦人<num value="30">三十</num>畝<pc>；</pc>至<measure quantity="4" unit="months">
+<quote>臣所將吏士<pc>、</pc>馬牛食所用糧穀<pc>、</pc>茭稿<pc>，</pc>調度甚廣<pc>，</pc>難久不解<pc>，</pc>徭役不息<pc>，</pc>恐生它變<pc>，</pc>為明主憂<pc>，</pc>誠非素定廟勝之冊<pc>。</pc>且羌易以計破<pc>，</pc>難用兵碎也<pc>，</pc>故臣愚心以為擊之不便<pc>！</pc>計度臨羌東至浩亹<pc>，</pc>羌虜故田及公田<pc>，</pc>民所未墾<pc>，</pc>可<num value="2000">二千</num>頃以上<pc>，</pc>其間郵亭多壞敗者<pc>。</pc>臣前部士入山<pc>，</pc>伐林木<num value="60000">六萬</num>餘枚<pc>，</pc>在水次<pc>。</pc>臣願罷騎兵<pc>，</pc>留步兵<measure quantity="281" unit="people">
+<num value="281">萬二百八十一</num>人</measure>
+<pc>，</pc>分屯要害處<pc>，</pc>冰解漕下<pc>，</pc>繕鄉亭<pc>，</pc>浚溝渠<pc>，</pc>治湟陿以西道橋<num value="70">七十</num>所<pc>，</pc>令可至鮮水左右<pc>。</pc>田事出<pc>，</pc>賦人<num value="30">三十</num>畝<pc>；</pc>至<measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>草生<pc>，</pc>發郡騎及屬國胡騎各<num value="1000">千</num>
-<pc>，</pc>就草為田者遊兵<pc>，</pc>以充入金城郡<pc>，</pc>益積畜<pc>，</pc>省大費<pc>。</pc>今大司農所轉穀至者<pc>，</pc>足支<num value="10000">萬</num>人<measure quantity="1" unit="year">
+<pc>，</pc>就草為田者遊兵<pc>，</pc>以充入金城郡<pc>，</pc>益積畜<pc>，</pc>省大費<pc>。</pc>今大司農所轉穀至者<pc>，</pc>足支<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<measure quantity="1" unit="year">
 <num value="1">一</num>歲</measure>食<pc>，</pc>謹上田處及器用簿<pc>。</pc>
 </quote>
 <pc>」</pc>
@@ -269,7 +288,9 @@
 <pc>「</pc>
 <quote>臣聞帝王之兵<pc>，</pc>以全取勝<pc>，</pc>是以貴謀而賤戰<pc>。</pc>『<num value="100">百</num>戰而<num value="100">百</num>勝<pc>，</pc>非善之善者也<pc>，</pc>故先為不可勝以待敵之可勝<pc>。</pc>』蠻夷習俗雖殊於禮義之國<pc>，</pc>然其欲避害就利<pc>，</pc>愛親戚<pc>，</pc>畏死亡<pc>，</pc>
 <num value="1">一</num>也<pc>。</pc>今虜亡其美地薦草<pc>，</pc>愁於寄托<pc>，</pc>遠遁<pc>，</pc>骨肉心離<pc>，</pc>人有畔志<pc>。</pc>而明主班師罷兵<pc>，</pc>
-<num value="10000">萬</num>人留田<pc>，</pc>順天時<pc>，</pc>因地利<pc>，</pc>以待可勝之虜<pc>，</pc>雖未即伏辜<pc>，</pc>兵決可期月而望<pc>，</pc>羌虜瓦解<pc>，</pc>前後降者<num value="700">萬七百</num>餘人<pc>，</pc>及受言去者凡<num value="70">七十</num>輩<pc>，</pc>此坐支解羌虜之具也<pc>。</pc>臣謹條不出兵留田便宜<num value="12">十二</num>事<pc>：</pc>步兵<num value="9">九</num>校<pc>、</pc>吏士<num value="10000">萬</num>人留屯<pc>，</pc>以為武備<pc>，</pc>因田致穀<pc>，</pc>威德並行<pc>，</pc>
+<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>留田<pc>，</pc>順天時<pc>，</pc>因地利<pc>，</pc>以待可勝之虜<pc>，</pc>雖未即伏辜<pc>，</pc>兵決可期月而望<pc>，</pc>羌虜瓦解<pc>，</pc>前後降者<num value="700">萬七百</num>餘人<pc>，</pc>及受言去者凡<num value="70">七十</num>輩<pc>，</pc>此坐支解羌虜之具也<pc>。</pc>臣謹條不出兵留田便宜<num value="12">十二</num>事<pc>：</pc>步兵<num value="9">九</num>校<pc>、</pc>吏士<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>留屯<pc>，</pc>以為武備<pc>，</pc>因田致穀<pc>，</pc>威德並行<pc>，</pc>
 <num value="1">一</num>也<pc>。</pc>又因排折羌虜<pc>，</pc>令不得歸肥饒之地<pc>，</pc>貧破其眾<pc>，</pc>以成羌虜相畔之漸<pc>，</pc>
 <num value="2">二</num>也<pc>。</pc>居民得並田作<pc>，</pc>不失農業<pc>，</pc>
 <num value="3">三</num>也<pc>。</pc>軍馬<measure quantity="1" unit="month">
@@ -282,7 +303,9 @@
 <num value="7">七</num>也<pc>。</pc>無經阻<pc>、</pc>遠追<pc>、</pc>死傷之害<pc>，</pc>
 <num value="8">八</num>也<pc>。</pc>內不損威武之重<pc>，</pc>外不令虜得乘間之勢<pc>，</pc>
 <num value="9">九</num>也<pc>。</pc>又亡驚動河南大幵使生它變之憂<pc>，</pc>
-<num value="10">十</num>也<pc>。</pc>治隍陿中道橋<pc>，</pc>令可至鮮水以制西域<pc>，</pc>伸威<num value="1000">千</num>里<pc>，</pc>從枕席上過師<pc>，</pc>
+<num value="10">十</num>也<pc>。</pc>治隍陿中道橋<pc>，</pc>令可至鮮水以制西域<pc>，</pc>伸威<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>
+<pc>，</pc>從枕席上過師<pc>，</pc>
 <num value="11">十一</num>也<pc>。</pc>大費既省<pc>，</pc>繇役豫息<pc>，</pc>以戒不虞<pc>，</pc>
 <num value="12">十二</num>也<pc>。</pc>留屯田得<num value="12">十二</num>便<pc>，</pc>出兵失<num value="12">十二</num>利<pc>，</pc>唯明詔采擇<pc>！</pc>
 </quote>
@@ -300,7 +323,13 @@
 <div>
 <p>充國復奏曰<pc>：</pc>
 <pc>「</pc>
-<quote>臣聞兵以計為本<pc>，</pc>故多算勝少算<pc>。</pc>先零羌精兵<pc>，</pc>今餘不過<num value="56000">七八千</num>人<pc>，</pc>失地遠客<pc>，</pc>分散饑凍<pc>，</pc>畔還者不絕<pc>。</pc>臣愚以為虜破壞可日月冀<pc>，</pc>遠在來春<pc>，</pc>故曰兵決可期月而望<pc>。</pc>竊見北邊自敦煌至遼東<num value="1500">萬一千五百</num>餘里<pc>，</pc>乘塞列地有吏卒數<num value="1000">千</num>人<pc>，</pc>虜數以大眾攻之而不能害<pc>。</pc>今騎兵雖罷<pc>，</pc>虜見屯田之士精兵<num value="10000">萬</num>人<pc>，</pc>從今盡<measure quantity="3" unit="months">
+<quote>臣聞兵以計為本<pc>，</pc>故多算勝少算<pc>。</pc>先零羌精兵<pc>，</pc>今餘不過<measure quantity="56000" unit="people">
+<num value="56000">七八千</num>人</measure>
+<pc>，</pc>失地遠客<pc>，</pc>分散饑凍<pc>，</pc>畔還者不絕<pc>。</pc>臣愚以為虜破壞可日月冀<pc>，</pc>遠在來春<pc>，</pc>故曰兵決可期月而望<pc>。</pc>竊見北邊自敦煌至遼東<num value="1500">萬一千五百</num>餘里<pc>，</pc>乘塞列地有吏卒數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>虜數以大眾攻之而不能害<pc>。</pc>今騎兵雖罷<pc>，</pc>虜見屯田之士精兵<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>，</pc>從今盡<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <pc>，</pc>虜馬羸瘦<pc>，</pc>必不敢捐其妻子於他種中<pc>，</pc>遠涉山河而來為寇<pc>；</pc>亦不敢將其累重<pc>，</pc>還歸故地<pc>。</pc>是臣之愚計所以度虜且必瓦解其處<pc>，</pc>不戰而自破之冊也<pc>。</pc>至於虜小寇盜<pc>，</pc>時殺人民<pc>，</pc>其原未可卒禁<pc>。</pc>臣聞戰不必勝<pc>，</pc>不苟接刃<pc>；</pc>攻不必取<pc>，</pc>不苟勞眾<pc>。</pc>誠令兵出<pc>，</pc>雖不能滅先零<pc>，</pc>但能令虜絕不為小寇<pc>，</pc>則出兵可也<pc>。</pc>即今同是<pc>，</pc>而釋坐勝之道<pc>，</pc>從乘危之勢<pc>，</pc>往終不見利<pc>，</pc>空內自罷敝<pc>，</pc>貶重以自損<pc>，</pc>非所以示蠻夷也<pc>。</pc>又大兵<num value="1">一</num>出<pc>，</pc>還不可復留<pc>，</pc>湟中亦未可空<pc>，</pc>如是<pc>，</pc>徭役復更發也<pc>。</pc>臣愚以為不便<pc>。</pc>臣竊自惟念<pc>：</pc>奉詔出塞<pc>，</pc>引軍遠擊<pc>，</pc>窮天子之精兵<pc>，</pc>散車甲於山野<pc>，</pc>雖亡尺寸之功<pc>。</pc>偷得避嫌之便<pc>，</pc>而亡後咎餘責<pc>，</pc>此人臣不忠之利<pc>，</pc>非明主社稷之福也<pc>！</pc>
 </quote>
@@ -328,7 +357,9 @@
 </div>
 <div>
 <p>8　丁令比<measure quantity="3" unit="years">
-<num value="3">三</num>歲</measure>鈔盜匈奴<pc>，</pc>殺略數<num value="1000">千</num>人<pc>。</pc>匈奴遣<num value="10000">萬</num>餘騎往擊之<pc>，</pc>無所得<pc>。</pc>
+<num value="3">三</num>歲</measure>鈔盜匈奴<pc>，</pc>殺略數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>。</pc>匈奴遣<num value="10000">萬</num>餘騎往擊之<pc>，</pc>無所得<pc>。</pc>
 </p>
 </div>
 <div>
@@ -344,7 +375,14 @@
 <num value="5">五</num>月</measure>
 <pc>，</pc>趙充國奏言<pc>：</pc>
 <pc>「</pc>
-<quote>羌本可<num value="50000">五萬</num>人軍<pc>，</pc>凡斬首<num value="7600">七千六百</num>級<pc>，</pc>降者<num value="31200">三萬一千二百</num>人<pc>，</pc>溺河湟<pc>、</pc>飢餓者<num value="30000">五六千</num>人<pc>，</pc>定計遺脫與煎鞏<pc>、</pc>黃羝俱亡者不過<num value="4000">四千</num>人<pc>。</pc>羌靡忘等自詭必得<pc>，</pc>請罷屯兵<pc>！</pc>
+<quote>羌本可<measure quantity="50000" unit="people">
+<num value="50000">五萬</num>人</measure>軍<pc>，</pc>凡斬首<num value="7600">七千六百</num>級<pc>，</pc>降者<measure quantity="31200" unit="people">
+<num value="31200">三萬一千二百</num>人</measure>
+<pc>，</pc>溺河湟<pc>、</pc>飢餓者<measure quantity="30000" unit="people">
+<num value="30000">五六千</num>人</measure>
+<pc>，</pc>定計遺脫與煎鞏<pc>、</pc>黃羝俱亡者不過<measure quantity="4000" unit="people">
+<num value="4000">四千</num>人</measure>
+<pc>。</pc>羌靡忘等自詭必得<pc>，</pc>請罷屯兵<pc>！</pc>
 </quote>
 <pc>」</pc>奏可<pc>。</pc>充國振旅而還<pc>。</pc>
 </p>
@@ -362,7 +400,8 @@
 </p>
 </div>
 <div>
-<p>秋<pc>，</pc>羌若零<pc>、</pc>離留<pc>、</pc>且種<pc>、</pc>兒庫共斬先零大豪猶非<pc>、</pc>楊玉首<pc>，</pc>及諸豪弟澤<pc>、</pc>陽雕<pc>、</pc>良兒<pc>、</pc>靡忘皆帥煎鞏<pc>、</pc>黃羝之屬<num value="4000">四千</num>餘人降<pc>。</pc>漢封若零<pc>、</pc>弟澤<num value="2">二</num>人為帥眾王<pc>，</pc>餘皆為侯<pc>、</pc>為君<pc>。</pc>初置金城屬國以處降羌<pc>。</pc>
+<p>秋<pc>，</pc>羌若零<pc>、</pc>離留<pc>、</pc>且種<pc>、</pc>兒庫共斬先零大豪猶非<pc>、</pc>楊玉首<pc>，</pc>及諸豪弟澤<pc>、</pc>陽雕<pc>、</pc>良兒<pc>、</pc>靡忘皆帥煎鞏<pc>、</pc>黃羝之屬<num value="4000">四千</num>餘人降<pc>。</pc>漢封若零<pc>、</pc>弟澤<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>為帥眾王<pc>，</pc>餘皆為侯<pc>、</pc>為君<pc>。</pc>初置金城屬國以處降羌<pc>。</pc>
 </p>
 </div>
 <div>
@@ -409,11 +448,18 @@
 </p>
 </div>
 <div>
-<p>4　匈奴虛閭權渠單于將<num value="10">十</num>餘<num value="10000">萬</num>騎旁塞獵<pc>，</pc>欲入邊為寇<pc>。</pc>未至<pc>，</pc>會其民題除渠堂亡降漢言狀<pc>，</pc>漢以為言兵鹿奚鹿盧侯<pc>，</pc>而遣後將軍趙充國將兵<num value="40000">四萬</num>餘騎<pc>，</pc>屯緣邊<num value="9">九</num>郡備虜<pc>。</pc>月餘<pc>，</pc>單于病歐血<pc>，</pc>因不敢入<pc>，</pc>還去<pc>，</pc>即罷兵<pc>。</pc>乃使題王都犁胡次等入漢請和親<pc>，</pc>未報<pc>。</pc>會單于死<pc>。</pc>虛閭權渠單于始立<pc>，</pc>而黜顓渠閼氏<pc>。</pc>顓渠閼氏即與右賢王屠耆堂私通<pc>，</pc>右賢王會龍城而去<pc>。</pc>顓渠閼氏語以單于病甚<pc>，</pc>且勿遠<pc>。</pc>後數日<pc>，</pc>單于死<pc>，</pc>用事貴人郝宿王刑未央使人號諸王<pc>，</pc>未至<pc>，</pc>顓渠閼氏與其弟左大將且渠都隆奇謀<pc>，</pc>立右賢王為握衍朐鞮單于<pc>。</pc>握衍朐鞮單于者<pc>，</pc>烏維單于耳孫也<pc>。</pc>
+<p>4　匈奴虛閭權渠單于將<num value="10">十</num>餘<measure quantity="10000" unit="riders">
+<num value="10000">萬</num>騎</measure>旁塞獵<pc>，</pc>欲入邊為寇<pc>。</pc>未至<pc>，</pc>會其民題除渠堂亡降漢言狀<pc>，</pc>漢以為言兵鹿奚鹿盧侯<pc>，</pc>而遣後將軍趙充國將兵<num value="40000">四萬</num>餘騎<pc>，</pc>屯緣邊<num value="9">九</num>郡備虜<pc>。</pc>月餘<pc>，</pc>單于病歐血<pc>，</pc>因不敢入<pc>，</pc>還去<pc>，</pc>即罷兵<pc>。</pc>乃使題王都犁胡次等入漢請和親<pc>，</pc>未報<pc>。</pc>會單于死<pc>。</pc>虛閭權渠單于始立<pc>，</pc>而黜顓渠閼氏<pc>。</pc>顓渠閼氏即與右賢王屠耆堂私通<pc>，</pc>右賢王會龍城而去<pc>。</pc>顓渠閼氏語以單于病甚<pc>，</pc>且勿遠<pc>。</pc>後數日<pc>，</pc>單于死<pc>，</pc>用事貴人郝宿王刑未央使人號諸王<pc>，</pc>未至<pc>，</pc>顓渠閼氏與其弟左大將且渠都隆奇謀<pc>，</pc>立右賢王為握衍朐鞮單于<pc>。</pc>握衍朐鞮單于者<pc>，</pc>烏維單于耳孫也<pc>。</pc>
 </p>
 </div>
 <div>
-<p>握衍朐鞮單于立<pc>，</pc>凶惡<pc>，</pc>殺刑未央等而任用都隆奇<pc>，</pc>又盡免虛閭權渠子弟近親而自以其子弟代之<pc>。</pc>虛閭權渠單于子稽侯狦既不得立<pc>，</pc>亡歸妻父烏禪幕<pc>。</pc>烏禪幕者<pc>，</pc>本康居<pc>、</pc>烏孫間小國<pc>，</pc>數見侵暴<pc>，</pc>率其眾數<num value="1000">千</num>人降匈奴<pc>，</pc>狐鹿姑單于以其弟子日逐王姊妻之<pc>，</pc>使長其眾<pc>，</pc>居右地<pc>。</pc>日逐王先賢撣<pc>，</pc>其父左賢王當為單于<pc>，</pc>讓狐鹿姑單于<pc>，</pc>狐鹿姑單于許立之<pc>。</pc>國人以故頗言日逐王當為單于<pc>。</pc>日逐王素與握衍朐鞮單于有隙<pc>，</pc>即率其眾欲降漢<pc>，</pc>使人至渠犁<pc>，</pc>與騎都尉鄭吉相聞<pc>。</pc>吉發渠犁<pc>、</pc>龜茲諸國<num value="50000">五萬</num>人迎日逐王口<num value="2000">萬二千</num>人<pc>、</pc>小王將<num value="12">十二</num>人<pc>，</pc>隨吉至河曲<pc>，</pc>頗有亡者<pc>，</pc>吉追斬之<pc>，</pc>遂將詣京師<pc>。</pc>漢封日逐王為歸德侯<pc>。</pc>
+<p>握衍朐鞮單于立<pc>，</pc>凶惡<pc>，</pc>殺刑未央等而任用都隆奇<pc>，</pc>又盡免虛閭權渠子弟近親而自以其子弟代之<pc>。</pc>虛閭權渠單于子稽侯狦既不得立<pc>，</pc>亡歸妻父烏禪幕<pc>。</pc>烏禪幕者<pc>，</pc>本康居<pc>、</pc>烏孫間小國<pc>，</pc>數見侵暴<pc>，</pc>率其眾數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>降匈奴<pc>，</pc>狐鹿姑單于以其弟子日逐王姊妻之<pc>，</pc>使長其眾<pc>，</pc>居右地<pc>。</pc>日逐王先賢撣<pc>，</pc>其父左賢王當為單于<pc>，</pc>讓狐鹿姑單于<pc>，</pc>狐鹿姑單于許立之<pc>。</pc>國人以故頗言日逐王當為單于<pc>。</pc>日逐王素與握衍朐鞮單于有隙<pc>，</pc>即率其眾欲降漢<pc>，</pc>使人至渠犁<pc>，</pc>與騎都尉鄭吉相聞<pc>。</pc>吉發渠犁<pc>、</pc>龜茲諸國<measure quantity="50000" unit="people">
+<num value="50000">五萬</num>人</measure>迎日逐王口<measure quantity="2000" unit="people">
+<num value="2000">萬二千</num>人</measure>
+<pc>、</pc>小王將<measure quantity="12" unit="people">
+<num value="12">十二</num>人</measure>
+<pc>，</pc>隨吉至河曲<pc>，</pc>頗有亡者<pc>，</pc>吉追斬之<pc>，</pc>遂將詣京師<pc>。</pc>漢封日逐王為歸德侯<pc>。</pc>
 </p>
 </div>
 <div>
@@ -501,7 +547,10 @@
 </p>
 </div>
 <div>
-<p>5　匈奴單于又殺先賢撣兩弟<pc>；</pc>烏禪幕請之<pc>，</pc>不聽<pc>，</pc>心恚<pc>。</pc>其後左奧鞬王死<pc>，</pc>單于自立其小子為奧鞬王<pc>，</pc>留庭<pc>。</pc>奧鞬貴人共立故奧鞬王子為王<pc>，</pc>與俱東徙<pc>。</pc>單于右丞相將<num value="10000">萬</num>騎往擊之<pc>，</pc>失亡數<num value="1000">千</num>人<pc>，</pc>不勝<pc>。</pc>
+<p>5　匈奴單于又殺先賢撣兩弟<pc>；</pc>烏禪幕請之<pc>，</pc>不聽<pc>，</pc>心恚<pc>。</pc>其後左奧鞬王死<pc>，</pc>單于自立其小子為奧鞬王<pc>，</pc>留庭<pc>。</pc>奧鞬貴人共立故奧鞬王子為王<pc>，</pc>與俱東徙<pc>。</pc>單于右丞相將<measure quantity="10000" unit="riders">
+<num value="10000">萬</num>騎</measure>往擊之<pc>，</pc>失亡數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>不勝<pc>。</pc>
 </p>
 </div>
 </div>

@@ -24,8 +24,7 @@
 <body>
 <div type="chapter" n="197">
 <div>
-<p>
-<name key="null" type="null">◎兵十</name>一○器甲之製</p>
+<p>◎兵<num value="11">十一</num>○器甲之製</p>
 </div>
 <div>
 <p>器甲之製其工署則有南北作坊<pc>，</pc>有弓弩院<pc>，</pc>諸州皆有作院<pc>，</pc>皆役工徒而限其常課<pc>。</pc>南北作坊歲造塗金脊鐵甲等凡<num value="32000">三萬二千</num>
@@ -34,28 +33,38 @@
 <pc>。</pc>又南北作坊及諸州別造兵幕<pc>、</pc>甲袋<pc>、</pc>梭衫等什物<pc>，</pc>以備軍行之用<pc>。</pc>京師所造<pc>，</pc>
 <measure quantity="10" unit="days">
 <num value="10">十</num>日</measure>
-<num value="1">一</num>進<pc>，</pc>謂之<pc>“</pc>旬課<pc>”</pc>
+<num value="1">一</num>進<pc>，</pc>謂之<pc>“</pc>
+<quote>旬課</quote>
+<pc>”</pc>
 <pc>。</pc>上親閱視<pc>，</pc>置<num value="5">五</num>庫以貯之<pc>。</pc>嚐令試床子弩於郊外<pc>，</pc>矢及<num value="700">七百</num>步<pc>，</pc>又令別造步弩以試<pc>。</pc>戎具精致犀利<pc>，</pc>近代未有<pc>。</pc>
 </p>
 </div>
 <div>
-<p>開寶<measure quantity="3" unit="years">
+<p>
+<date notBefore="968" notAfter="976">開寶</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>京都士庶之家<pc>，</pc>不得私蓄兵器<pc>。</pc>軍士素能自備技擊之器者<pc>，</pc>寄掌本軍之司<pc>；</pc>俟出征<pc>，</pc>則陳牒以請<pc>。</pc>品官準法聽得置隨身器械<pc>。</pc>
+<pc>“</pc>
+<quote>京都士庶之家<pc>，</pc>不得私蓄兵器<pc>。</pc>軍士素能自備技擊之器者<pc>，</pc>寄掌本軍之司<pc>；</pc>俟出征<pc>，</pc>則陳牒以請<pc>。</pc>品官準法聽得置隨身器械<pc>。</pc>
+</quote>
 <pc>”</pc>時兵部令史馮繼升等進火箭法<pc>，</pc>命試驗<pc>，</pc>且賜衣物<pc>、</pc>束帛<pc>。</pc>
 </p>
 </div>
 <div>
-<p>淳化<measure quantity="2" unit="years">
+<p>
+<date notBefore="990" notAfter="994">淳化</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>申明不得私蓄兵器之禁<pc>。</pc>
 </p>
 </div>
 <div>
-<p>至道<measure quantity="2" unit="years">
+<p>
+<date notBefore="995" notAfter="997">至道</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
@@ -63,7 +72,8 @@
 </p>
 </div>
 <div>
-<p>鹹平元年<measure quantity="6" unit="months">
+<p>
+<date notBefore="998" notAfter="1003">鹹平</date>元年<measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <pc>，</pc>禦前忠佐石歸宋獻木羽弩箭<pc>，</pc>箭裁尺餘<pc>，</pc>而所激甚遠<pc>，</pc>中鎧甲則竿去而鏃存<pc>，</pc>牢不可拔<pc>。</pc>詔增歸宋月奉<pc>，</pc>且補其子為東西班侍<pc>。</pc>
 </p>
@@ -77,7 +87,7 @@
 <pc>，</pc>神騎副兵馬使焦偓獻盤鐵槊<pc>，</pc>重<num value="15">十五</num>斤<pc>，</pc>令偓試之<pc>，</pc>馬上往複如飛<pc>，</pc>命遷本軍使<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>神衛水軍隊長唐福獻所製火箭<pc>、</pc>火球<pc>、</pc>火蒺藜<pc>，</pc>造船務匠項綰等獻海戰船式<pc>，</pc>各賜緡錢<pc>。</pc>先是<pc>，</pc>相國寺僧法山<pc>，</pc>本洺州人<pc>，</pc>強姓<pc>，</pc>其族<num value="100">百</num>口<pc>，</pc>悉為戎人所掠<pc>。</pc>至是<pc>，</pc>願還俗隸軍伍以效死力<pc>，</pc>且獻鐵輪撥<pc>，</pc>渾重<num value="33">三十三</num>斤<pc>，</pc>首尾有刃<pc>，</pc>為馬上格戰具<pc>。</pc>詔補外殿直<pc>。</pc>
+<pc>，</pc>神衛水軍隊長唐福獻所製火箭<pc>、</pc>火球<pc>、</pc>火蒺藜<pc>，</pc>造船務匠項綰等獻海戰船式<pc>，</pc>各賜緡錢<pc>。</pc>先是<pc>，</pc>相國寺僧法山<pc>，</pc>本<placeName>洺州</placeName>人<pc>，</pc>強姓<pc>，</pc>其族<num value="100">百</num>口<pc>，</pc>悉為戎人所掠<pc>。</pc>至是<pc>，</pc>願還俗隸軍伍以效死力<pc>，</pc>且獻鐵輪撥<pc>，</pc>渾重<num value="33">三十三</num>斤<pc>，</pc>首尾有刃<pc>，</pc>為馬上格戰具<pc>。</pc>詔補外殿直<pc>。</pc>
 </p>
 </div>
 <div>
@@ -93,27 +103,35 @@
 <num value="6">六</num>年</measure>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
-<pc>，</pc>給軍中傳信牌<pc>。</pc>其製<pc>，</pc>漆木為牌<pc>，</pc>長<num value="6">六</num>寸<pc>，</pc>闊<num value="3">三</num>寸<pc>，</pc>腹背刻字而中分之<pc>，</pc>置鑿枘令可合<pc>；</pc>又穿<num value="2">二</num>竅容筆墨<pc>，</pc>上施紙劄<pc>。</pc>每臨陣則分而持之<pc>，</pc>或傳令<pc>，</pc>則署其言而係軍吏之頸<pc>，</pc>至彼合契<pc>，</pc>乃書複命<pc>。</pc>因冀州團練使石普之請也<pc>。</pc>
+<pc>，</pc>給軍中傳信牌<pc>。</pc>其製<pc>，</pc>漆木為牌<pc>，</pc>長<num value="6">六</num>寸<pc>，</pc>闊<num value="3">三</num>寸<pc>，</pc>腹背刻字而中分之<pc>，</pc>置鑿枘令可合<pc>；</pc>又穿<num value="2">二</num>竅容筆墨<pc>，</pc>上施紙劄<pc>。</pc>每臨陣則分而持之<pc>，</pc>或傳令<pc>，</pc>則署其言而係軍吏之頸<pc>，</pc>至彼合契<pc>，</pc>乃書複命<pc>。</pc>因<placeName>冀州</placeName>
+<term>團練使</term>石普之請也<pc>。</pc>
 </p>
 </div>
 <div>
 <p>仁宗時<pc>，</pc>天下久不用兵<pc>。</pc>天聖<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>詔減諸路歲造兵器之半<pc>。</pc>是歲<pc>，</pc>詔作坊造鐵槍<num value="15000">一萬五千</num>
-<pc>，</pc>給秦<pc>、</pc>渭<pc>、</pc>環<pc>、</pc>慶<pc>、</pc>延州<pc>、</pc>鎮戎軍<pc>。</pc>
+<pc>，</pc>給秦<pc>、</pc>渭<pc>、</pc>環<pc>、</pc>慶<pc>、</pc>
+<placeName>延州</placeName>
+<pc>、</pc>鎮戎軍<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>詔<pc>：</pc>外器甲久不繕<pc>，</pc>先遣使分詣諸路閱視修治之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>景祐<measure quantity="2" unit="years">
+<p>
+<date notBefore="1034" notAfter="1038">景祐</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>罷秦州造輸京師弓弩<measure quantity="3" unit="years">
+<pc>，</pc>罷<placeName>秦州</placeName>造輸京師弓弩<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>。</pc>詔<pc>：</pc>
-<pc>“</pc>廣南民家毋得置博刀<pc>，</pc>犯者並鍛人並以私有禁兵律論<pc>。</pc>
-<pc>”</pc>先是<pc>，</pc>嶺南為盜者多持博刀<pc>，</pc>杖罪輕<pc>，</pc>不能禁<pc>，</pc>轉運使以為言<pc>，</pc>故著是令<pc>。</pc>
+<pc>“</pc>
+<quote>廣南民家毋得置博刀<pc>，</pc>犯者並鍛人並以私有禁兵律論<pc>。</pc>
+</quote>
+<pc>”</pc>先是<pc>，</pc>嶺南為盜者多持博刀<pc>，</pc>杖罪輕<pc>，</pc>不能禁<pc>，</pc>
+<term>轉運使</term>以為言<pc>，</pc>故著是令<pc>。</pc>
 </p>
 </div>
 <div>
@@ -125,7 +143,8 @@
 </p>
 </div>
 <div>
-<p>康定元年<measure quantity="4" unit="months">
+<p>
+<date notBefore="1040" notAfter="1041">康定</date>元年<measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <pc>，</pc>詔江南<pc>、</pc>淮南州軍造紙甲<num value="30000">三萬</num>
 <pc>，</pc>給陝西防城弓手<pc>。</pc>又詔河東強壯習弩者聽自置<pc>，</pc>戶<num value="4">四</num>等以下官給之<pc>。</pc>
@@ -135,7 +154,8 @@
 </p>
 </div>
 <div>
-<p>慶曆元年<pc>，</pc>知並州楊偕遣陽曲縣主簿楊拯獻<pc>《</pc>
+<p>
+<date notBefore="1041" notAfter="1048">慶曆</date>元年<pc>，</pc>知<placeName>並州</placeName>楊偕遣陽曲縣主簿楊拯獻<pc>《</pc>
 <title>龍虎<num value="8">八</num>陣圖</title>
 <pc>》</pc>及所製神盾<pc>、</pc>劈陣刀<pc>、</pc>手刀<pc>、</pc>鐵連槌<pc>、</pc>鐵簡<pc>，</pc>且言<pc>《</pc>
 <title>龍虎<num value="8">八</num>陣圖</title>
@@ -167,13 +187,16 @@
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>士庶之家所藏兵器<pc>，</pc>非法所許者<pc>，</pc>限<measure quantity="1" unit="month">
+<pc>“</pc>
+<quote>士庶之家所藏兵器<pc>，</pc>非法所許者<pc>，</pc>限<measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>送官<pc>。</pc>敢匿<pc>，</pc>聽人告捕<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>皇祐元年<pc>，</pc>禦崇政殿<pc>，</pc>閱知澧州<pc>、</pc>供備庫副使宋守信所獻衝陣無敵流星弩<pc>、</pc>拒馬皮竹牌<pc>、</pc>火鎌石火綱<num value="3">三</num>刃<pc>、</pc>黑漆順水山字鐵甲<pc>、</pc>野戰拒馬刀弩<pc>、</pc>砦腳車<pc>、</pc>衝陣劍輪無敵車<pc>、</pc>大風翎弩箭<num value="8">八</num>種<pc>。</pc>
+<p>
+<date notBefore="1049" notAfter="1054">皇祐</date>元年<pc>，</pc>禦崇政殿<pc>，</pc>閱知澧州<pc>、</pc>供備庫副使宋守信所獻衝陣無敵流星弩<pc>、</pc>拒馬皮竹牌<pc>、</pc>火鎌石火綱<num value="3">三</num>刃<pc>、</pc>黑漆順水山字鐵甲<pc>、</pc>野戰拒馬刀弩<pc>、</pc>砦腳車<pc>、</pc>衝陣劍輪無敵車<pc>、</pc>大風翎弩箭<num value="8">八</num>種<pc>。</pc>
 </p>
 </div>
 <div>
@@ -181,7 +204,8 @@
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>河北<pc>、</pc>河東<pc>、</pc>陝西都總管司言<pc>：</pc>
-<pc>“</pc>郭諮所造獨轅衝陣無敵流星弩<pc>，</pc>可以備軍陣之用<pc>。</pc>詔弓弩院如樣製之<pc>。</pc>除諮為鄜延路鈐轄<pc>，</pc>許置弩<num value="500">五百</num>
+<pc>“</pc>郭諮所造獨轅衝陣無敵流星弩<pc>，</pc>可以備軍陣之用<pc>。</pc>詔弓弩院如樣製之<pc>。</pc>除諮為鄜延路<term>鈐轄</term>
+<pc>，</pc>許置弩<num value="500">五百</num>
 <pc>，</pc>募土民教之<pc>。</pc>既成<pc>，</pc>經略夏安期言其便<pc>，</pc>詔立獨轅弩軍<pc>。</pc>
 </p>
 </div>
@@ -189,7 +213,7 @@
 <p>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>荊南兵馬鈐轄王遂上臨陣柺槍<pc>。</pc>
+<pc>，</pc>荊南兵馬<term>鈐轄</term>王遂上臨陣柺槍<pc>。</pc>
 </p>
 </div>
 <div>
@@ -197,7 +221,9 @@
 </p>
 </div>
 <div>
-<p>嘉祐<measure quantity="4" unit="years">
+<p>
+<date notBefore="1056" notAfter="1063">嘉祐</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>詔京師所製軍器<pc>，</pc>多不鋒利<pc>，</pc>其選朝臣<pc>、</pc>使臣各<num value="1">一</num>員揀試之<pc>。</pc>
 </p>
@@ -210,7 +236,8 @@
 </p>
 </div>
 <div>
-<p>熙寧元年<pc>，</pc>始命入內副都知張若水<pc>、</pc>西上閣門使李評料簡弓弩而增修之<pc>。</pc>若水進所造神臂弓<pc>，</pc>實李宏所獻<pc>，</pc>蓋弩類也<pc>。</pc>以檿為身<pc>，</pc>檀為肖<pc>，</pc>鐵為登子槍頭<pc>，</pc>銅為馬麵牙發<pc>，</pc>麻繩紥絲為弦<pc>。</pc>弓之身<num value="3">三</num>尺有<num value="2">二</num>寸<pc>，</pc>弦長<num value="2">二</num>尺有<num value="5">五</num>寸<pc>，</pc>箭木羽長數寸<pc>，</pc>射<num value="340">三百四十</num>餘步<pc>，</pc>入榆木半笴<pc>。</pc>帝閱而善之<pc>。</pc>於是神臂始用<pc>，</pc>而他器弗及焉<pc>。</pc>
+<p>
+<date notBefore="1068" notAfter="1077">熙寧</date>元年<pc>，</pc>始命入內副都知張若水<pc>、</pc>西上閣門使李評料簡弓弩而增修之<pc>。</pc>若水進所造神臂弓<pc>，</pc>實李宏所獻<pc>，</pc>蓋弩類也<pc>。</pc>以檿為身<pc>，</pc>檀為肖<pc>，</pc>鐵為登子槍頭<pc>，</pc>銅為馬麵牙發<pc>，</pc>麻繩紥絲為弦<pc>。</pc>弓之身<num value="3">三</num>尺有<num value="2">二</num>寸<pc>，</pc>弦長<num value="2">二</num>尺有<num value="5">五</num>寸<pc>，</pc>箭木羽長數寸<pc>，</pc>射<num value="340">三百四十</num>餘步<pc>，</pc>入榆木半笴<pc>。</pc>帝閱而善之<pc>。</pc>於是神臂始用<pc>，</pc>而他器弗及焉<pc>。</pc>
 </p>
 </div>
 <div>
@@ -261,8 +288,12 @@
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>判監呂惠卿言<pc>：</pc>
-<pc>“</pc>其所上弓式及其他兵器製度<pc>，</pc>下殿前<pc>、</pc>馬<pc>、</pc>步<num value="3">三</num>司令定奪去取<pc>。</pc>而逐司不過取責軍校文狀以聞<pc>，</pc>非獨持其舊說不肯更張<pc>，</pc>又其智慮未必能知作器之意<pc>。</pc>臣於朝廷已行之令<pc>，</pc>非敢言改<pc>，</pc>乞就<num value="1">一</num>司同議<pc>。</pc>
-<pc>”</pc>帝乃遣管軍郝質赴監定奪<pc>，</pc>皆曰<pc>“</pc>便<pc>”</pc>
+<pc>“</pc>
+<quote>其所上弓式及其他兵器製度<pc>，</pc>下殿前<pc>、</pc>馬<pc>、</pc>步<num value="3">三</num>司令定奪去取<pc>。</pc>而逐司不過取責軍校文狀以聞<pc>，</pc>非獨持其舊說不肯更張<pc>，</pc>又其智慮未必能知作器之意<pc>。</pc>臣於朝廷已行之令<pc>，</pc>非敢言改<pc>，</pc>乞就<num value="1">一</num>司同議<pc>。</pc>
+</quote>
+<pc>”</pc>帝乃遣管軍郝質赴監定奪<pc>，</pc>皆曰<pc>“</pc>
+<quote>便</quote>
+<pc>”</pc>
 <pc>。</pc>時軍器監製器不<num value="1">一</num>
 <pc>，</pc>材用滋耗<pc>。</pc>於是詔不以常製選官馳往州縣根括牛皮角筋<pc>，</pc>能令數羨<pc>，</pc>次第加獎<pc>。</pc>是歲<pc>，</pc>始造箭曰狼牙<pc>，</pc>曰鴨觜<pc>，</pc>曰出尖<num value="4">四</num>楞<pc>，</pc>曰<num value="1">一</num>插刃鑿子<pc>，</pc>凡<num value="4">四</num>種推行之<pc>。</pc>
 </p>
@@ -272,30 +303,46 @@
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>河北拒馬<pc>，</pc>或多以竹為之<pc>，</pc>不足當敵<pc>。</pc>令軍器監造<num value="30000">三萬</num>具赴北京<pc>、</pc>澶定州<pc>。</pc>
+<pc>“</pc>
+<quote>河北拒馬<pc>，</pc>或多以竹為之<pc>，</pc>不足當敵<pc>。</pc>令軍器監造<num value="30000">三萬</num>具赴北京<pc>、</pc>澶<placeName>定州</placeName>
+<pc>。</pc>
+</quote>
 <pc>”</pc>又令計河北所少兵器製造<pc>，</pc>其不急者毋得妄費材力<pc>。</pc>又詔民戶馬死<pc>，</pc>舊不以報官者並報<pc>，</pc>輸皮筋以充用<pc>。</pc>
 </p>
 </div>
 <div>
 <p>帝慮置監未有實效<pc>，</pc>而虛用材役<pc>，</pc>詔中書<pc>、</pc>樞密院核實其事<pc>，</pc>令條畫以聞<pc>。</pc>軍器監奏<pc>，</pc>置監以來<pc>，</pc>增造兵器若幹<pc>，</pc>為工若幹<pc>，</pc>視前器增而工省<pc>。</pc>帝複詰之<pc>，</pc>且令與禦前工作所較工孰省<pc>，</pc>驗器孰良<pc>。</pc>王韶謂<pc>：</pc>
-<pc>“</pc>如此<pc>，</pc>恐內外相傾成俗<pc>。</pc>且往年軍器監檢察內臣折剝弓弩<pc>，</pc>隙由此生<pc>。</pc>今令內臣較按軍器監<pc>，</pc>又如曩日相傾無已<pc>。</pc>
+<pc>“</pc>
+<quote>如此<pc>，</pc>恐內外相傾成俗<pc>。</pc>且往年軍器監檢察內臣折剝弓弩<pc>，</pc>隙由此生<pc>。</pc>今令內臣較按軍器監<pc>，</pc>又如曩日相傾無已<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>比累累說軍器監事<pc>，</pc>若不較見事實<pc>，</pc>即中外便以為聽小臣譖訴<pc>。</pc>今令得實行法<pc>，</pc>所以明曲直也<pc>。</pc>
+<pc>“</pc>
+<quote>比累累說軍器監事<pc>，</pc>若不較見事實<pc>，</pc>即中外便以為聽小臣譖訴<pc>。</pc>今令得實行法<pc>，</pc>所以明曲直也<pc>。</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>誠當如此<pc>。</pc>若每事分別曲直<pc>，</pc>明其信誕<pc>，</pc>使功罪不蔽<pc>，</pc>則天下之治久矣<pc>。</pc>
+<pc>“</pc>
+<quote>誠當如此<pc>。</pc>若每事分別曲直<pc>，</pc>明其信誕<pc>，</pc>使功罪不蔽<pc>，</pc>則天下之治久矣<pc>。</pc>
+</quote>
 <pc>”</pc>王韶曰<pc>：</pc>
-<pc>“</pc>軍器監事不須比較<pc>。</pc>
+<pc>“</pc>
+<quote>軍器監事不須比較<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>事不比較<pc>，</pc>無由見枉直<pc>。</pc>
+<pc>“</pc>
+<quote>事不比較<pc>，</pc>無由見枉直<pc>。</pc>
+</quote>
 <pc>”</pc>安石曰<pc>：</pc>
-<pc>“</pc>朝廷治事<pc>，</pc>唯欲直而已<pc>。</pc>
+<pc>“</pc>
+<quote>朝廷治事<pc>，</pc>唯欲直而已<pc>。</pc>
+</quote>
 <pc>”</pc>其後<pc>，</pc>安石卒以辯口解帝之疑<pc>，</pc>而軍器監獲免欺冒之罪<pc>。</pc>冬<measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <pc>，</pc>軍器監欲下河東等路采市曲木為鞍橋<pc>，</pc>帝以勞民費財<pc>，</pc>不許<pc>。</pc>是時<pc>，</pc>河東<pc>、</pc>陝西<pc>、</pc>廣南帥臣邀功不已<pc>，</pc>請增給兵器<pc>，</pc>帝各令給與之<pc>。</pc>至是<pc>，</pc>有乞以耕牛博買器甲者<pc>。</pc>
 </p>
 </div>
 <div>
-<p>元豐元年冬<pc>，</pc>鄜延路經略使呂惠卿乞給新樣刀<pc>，</pc>軍器監欲下江<pc>、</pc>浙<pc>、</pc>福建路製造<pc>，</pc>帝不許<pc>，</pc>給以內南庫短刃刀<num value="55000">五萬五千</num>口<pc>。</pc>
+<p>
+<date notBefore="1078" notAfter="1085">元豐</date>元年冬<pc>，</pc>鄜延路經略使呂惠卿乞給新樣刀<pc>，</pc>軍器監欲下江<pc>、</pc>浙<pc>、</pc>福建路製造<pc>，</pc>帝不許<pc>，</pc>給以內南庫短刃刀<num value="55000">五萬五千</num>口<pc>。</pc>
 </p>
 </div>
 <div>
@@ -303,7 +350,9 @@
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>禦批有曰<pc>：</pc>
-<pc>“</pc>河東路見運物材於緣邊造軍器<pc>，</pc>顯為迂費張皇<pc>，</pc>可令軍器監速罷之<pc>。</pc>
+<pc>“</pc>
+<quote>河東路見運物材於緣邊造軍器<pc>，</pc>顯為迂費張皇<pc>，</pc>可令軍器監速罷之<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -312,22 +361,26 @@
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>吉州奏<pc>：</pc>
-<pc>“</pc>奉詔市箭笴<num value="300000">三十萬</num>
+<pc>“</pc>
+<quote>奉詔市箭笴<num value="300000">三十萬</num>
 <pc>，</pc>非土地所產<pc>，</pc>且民間不素蓄<pc>，</pc>乞豫給緡錢<pc>，</pc>期以<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>和市<pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>時西邊用兵久不解<pc>。</pc>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<pc>，</pc>陝西轉運使李稷奏<pc>：</pc>
-<pc>“</pc>本道<num value="9">九</num>軍<pc>，</pc>什物之外<pc>，</pc>
+<num value="4">四</num>年</measure>春<pc>，</pc>陝西<term>轉運使</term>李稷奏<pc>：</pc>
+<pc>“</pc>
+<quote>本道<num value="9">九</num>軍<pc>，</pc>什物之外<pc>，</pc>
 <num value="1">一</num>皆無之<pc>，</pc>乞於永興軍庫以餘財立法營辦<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
-<pc>，</pc>涇原路奏修渭州城畢<pc>，</pc>而防城戰具寡少<pc>，</pc>乞給<num value="3">三</num>弓<num value="8">八</num>牛床子弩<pc>、</pc>
+<pc>，</pc>涇原路奏修<placeName>渭州</placeName>城畢<pc>，</pc>而防城戰具寡少<pc>，</pc>乞給<num value="3">三</num>弓<num value="8">八</num>牛床子弩<pc>、</pc>
 <num value="1">一</num>槍<num value="3">三</num>劍箭<pc>，</pc>各欲依法式製造<pc>。</pc>詔圖樣給之<pc>。</pc>
 </p>
 </div>
@@ -346,9 +399,11 @@
 <pc>，</pc>詔令沈括以劈陣大斧<num value="5000">五千</num>選給西邊諸將<pc>。</pc>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
-<pc>，</pc>陝西轉運使李察言<pc>：</pc>
-<pc>“</pc>本路都作院<num value="5">五</num>
+<pc>，</pc>陝西<term>轉運使</term>李察言<pc>：</pc>
+<pc>“</pc>
+<quote>本路都作院<num value="5">五</num>
 <pc>，</pc>宜各委監司提舉<pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>
 </p>
 </div>
@@ -370,9 +425,11 @@
 <p>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>陝西轉運副使葉康直言<pc>：</pc>
-<pc>“</pc>秦鳳路軍器見闕名物計<num value="430">四百三十</num>餘<num value="10000">萬</num>
+<pc>，</pc>陝西<term>轉運副使</term>葉康直言<pc>：</pc>
+<pc>“</pc>
+<quote>秦鳳路軍器見闕名物計<num value="430">四百三十</num>餘<num value="10000">萬</num>
 <pc>，</pc>使<num value="1">一一</num>為之<pc>，</pc>非<num value="10">十</num>餘年可就<pc>，</pc>乞自京給賜<pc>。</pc>
+</quote>
 <pc>”</pc>詔量給之<pc>。</pc>
 </p>
 </div>
@@ -393,7 +450,8 @@
 </p>
 </div>
 <div>
-<p>元祐元年<pc>，</pc>詔<pc>：</pc>
+<p>
+<date notBefore="1086" notAfter="1094">元祐</date>元年<pc>，</pc>詔<pc>：</pc>
 <num value="3">三</num>路既罷保甲團教<pc>，</pc>其器甲各送官收貯<pc>，</pc>勿得以破損拘民整治<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
@@ -401,11 +459,16 @@
 </p>
 </div>
 <div>
-<p>紹聖<measure quantity="3" unit="years">
+<p>
+<date notBefore="1094" notAfter="1098">紹聖</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>有司言<pc>：</pc>
-<pc>“</pc>州郡兵備<pc>，</pc>全為虛文<pc>，</pc>恐緩急不足備禦<pc>。</pc>請稍推行熙寧之詔<pc>，</pc>常令封樁<pc>、</pc>排垛<pc>，</pc>依雜隊法<pc>。</pc>
-<pc>”</pc>從之<pc>。</pc>元符元年<pc>，</pc>詔江<pc>、</pc>湖<pc>、</pc>淮<pc>、</pc>浙<num value="6">六</num>路合造神臂弓<num value="3000">三千</num>
+<pc>“</pc>
+<quote>州郡兵備<pc>，</pc>全為虛文<pc>，</pc>恐緩急不足備禦<pc>。</pc>請稍推行<date notBefore="1068" notAfter="1077">熙寧</date>之詔<pc>，</pc>常令封樁<pc>、</pc>排垛<pc>，</pc>依雜隊法<pc>。</pc>
+</quote>
+<pc>”</pc>從之<pc>。</pc>
+<date notBefore="1098" notAfter="1100">元符</date>元年<pc>，</pc>詔江<pc>、</pc>湖<pc>、</pc>淮<pc>、</pc>浙<num value="6">六</num>路合造神臂弓<num value="3000">三千</num>
 <pc>、</pc>箭<num value="300000">三十萬</num>
 <pc>。</pc>
 </p>
@@ -419,7 +482,7 @@
 </div>
 <div>
 <p>先是<pc>，</pc>
-<num value="2">二</num>廣路土丁令依熙寧指揮修置器械<pc>。</pc>
+<num value="2">二</num>廣路土丁令依<date notBefore="1068" notAfter="1077">熙寧</date>指揮修置器械<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>知端州蕭元刂上疏<pc>，</pc>極言傷財害民<pc>，</pc>其弊非<num value="1">一</num>
@@ -427,7 +490,7 @@
 </p>
 </div>
 <div>
-<p>崇寧初<pc>，</pc>臣僚爭言元祐以來因循弛廢<pc>，</pc>兵不犀利<pc>。</pc>詔複令諸路都作院創造修治<pc>，</pc>官吏考察<num value="1">一</num>如熙寧時矣<pc>。</pc>時有詔造<num value="50">五十</num>將器械<pc>，</pc>從工部請<pc>，</pc>令內外共造<pc>，</pc>由是都大提舉內外製造軍器所之名立焉<pc>。</pc>
+<p>崇寧初<pc>，</pc>臣僚爭言<date notBefore="1086" notAfter="1094">元祐</date>以來因循弛廢<pc>，</pc>兵不犀利<pc>。</pc>詔複令諸路都作院創造修治<pc>，</pc>官吏考察<num value="1">一</num>如<date notBefore="1068" notAfter="1077">熙寧</date>時矣<pc>。</pc>時有詔造<num value="50">五十</num>將器械<pc>，</pc>從工部請<pc>，</pc>令內外共造<pc>，</pc>由是都大提舉內外製造軍器所之名立焉<pc>。</pc>
 </p>
 </div>
 <div>
@@ -438,26 +501,36 @@
 <p>崇寧<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>河北<pc>、</pc>陝西都轉運司言<pc>：</pc>
-<pc>“</pc>兵車之式<pc>，</pc>若用許彥圭所定<pc>，</pc>則車大而費倍<pc>。</pc>若依往年<num value="20">二十</num>將舊式<pc>，</pc>則輕小易用<pc>，</pc>且可省費<pc>。</pc>
-<pc>”</pc>詔卒以許彥圭式行之<pc>。</pc>時熙河轉運副使李複先奏曰<pc>：</pc>
-<pc>“</pc>今之用兵<pc>，</pc>與古不同<pc>。</pc>古者征戰有禮<pc>，</pc>不為詭遇<pc>，</pc>多由正途<pc>，</pc>故車可行而敵不敢輕犯<pc>。</pc>今之用兵<pc>，</pc>盡在極邊<pc>，</pc>下砦駐軍<pc>，</pc>各以保險為利<pc>，</pc>車不能上<pc>。</pc>又戰陣之交<pc>，</pc>
+<pc>“</pc>
+<quote>兵車之式<pc>，</pc>若用許彥圭所定<pc>，</pc>則車大而費倍<pc>。</pc>若依往年<num value="20">二十</num>將舊式<pc>，</pc>則輕小易用<pc>，</pc>且可省費<pc>。</pc>
+</quote>
+<pc>”</pc>詔卒以許彥圭式行之<pc>。</pc>時熙河<term>轉運副使</term>李複先奏曰<pc>：</pc>
+<pc>“</pc>
+<quote>今之用兵<pc>，</pc>與古不同<pc>。</pc>古者征戰有禮<pc>，</pc>不為詭遇<pc>，</pc>多由正途<pc>，</pc>故車可行而敵不敢輕犯<pc>。</pc>今之用兵<pc>，</pc>盡在極邊<pc>，</pc>下砦駐軍<pc>，</pc>各以保險為利<pc>，</pc>車不能上<pc>。</pc>又戰陣之交<pc>，</pc>
 <num value="1">一</num>進<num value="1">一</num>退<pc>，</pc>車不能及<pc>，</pc>
 <num value="1">一</num>被追襲<pc>，</pc>遂非己有<pc>。</pc>臣屢觀戎馬之間<pc>，</pc>雖糧糗<pc>、</pc>衣服<pc>、</pc>器械不能為用<pc>，</pc>況於車乎<pc>？</pc>臣聞此車之造<pc>，</pc>許彥圭因姚麟以進其說<pc>。</pc>朝廷以麟熟於邊事<pc>，</pc>而不知彥圭輕妄<pc>、</pc>麟立私恩以誤國計<pc>。</pc>其車比於常法闊<num value="42">六七</num>寸<pc>，</pc>運不合轍<pc>，</pc>東來兵夫牽免不行<pc>，</pc>以致典賣衣物<pc>，</pc>自賃牛具<pc>，</pc>終日而進<num value="42">六七</num>裏<pc>，</pc>棄車而逃者往往而是<pc>。</pc>夫未造則有配買物材<pc>、</pc>顧差夫匠之擾<pc>；</pc>既成<pc>，</pc>又難運致<pc>，</pc>則為諸路之患有不可勝言者矣<pc>。</pc>彥圭但圖<num value="1">一</num>官之得<pc>，</pc>不知有誤於國<pc>，</pc>此而不誅<pc>，</pc>何以懲後<pc>！</pc>今乞便行罷造<pc>，</pc>已造者不複運來<pc>，</pc>以寬民力<pc>。</pc>
+</quote>
 <pc>”</pc>其後<pc>，</pc>彥圭卒得罪<pc>。</pc>
 </p>
 </div>
 <div>
-<p>元豐之時<pc>，</pc>河北<pc>、</pc>河東路軍器<pc>，</pc>每季終委逐路職司更互考察<pc>。</pc>元祐罷之<pc>。</pc>
+<p>
+<date notBefore="1078" notAfter="1085">元豐</date>之時<pc>，</pc>河北<pc>、</pc>河東路軍器<pc>，</pc>每季終委逐路職司更互考察<pc>。</pc>
+<date notBefore="1086" notAfter="1094">元祐</date>罷之<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>因工部之請<pc>，</pc>複行之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>大觀<measure quantity="2" unit="years">
+<p>
+<date notBefore="1107" notAfter="1110">大觀</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>手詔曰<pc>：</pc>
-<pc>“</pc>前東南備禦指揮<pc>，</pc>深慮監郡縣吏急切者倚法害民<pc>，</pc>廢職者慢令失事<pc>，</pc>如築城壁<pc>、</pc>造軍器<pc>、</pc>收戰馬<pc>、</pc>習水戰之類<pc>，</pc>並可量度工力<pc>，</pc>計以歲月<pc>，</pc>漸次興作<pc>，</pc>毋得急遽科斂及差雇<num value="100">百</num>姓<pc>，</pc>使急不擾民<pc>，</pc>緩不廢事<pc>，</pc>然後為稱<pc>。</pc>
+<pc>“</pc>
+<quote>前東南備禦指揮<pc>，</pc>深慮監郡縣吏急切者倚法害民<pc>，</pc>廢職者慢令失事<pc>，</pc>如築城壁<pc>、</pc>造軍器<pc>、</pc>收戰馬<pc>、</pc>習水戰之類<pc>，</pc>並可量度工力<pc>，</pc>計以歲月<pc>，</pc>漸次興作<pc>，</pc>毋得急遽科斂及差雇<num value="100">百</num>姓<pc>，</pc>使急不擾民<pc>，</pc>緩不廢事<pc>，</pc>然後為稱<pc>。</pc>
+</quote>
 <pc>”</pc>尋詔限<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
 <num value="1">一</num>切畢工<pc>。</pc>
@@ -475,7 +548,7 @@
 <num value="2">二</num>年</measure>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
-<pc>，</pc>詔諸路州郡造軍器有不用熙寧法式者<pc>，</pc>有司議罰<pc>，</pc>具為令<pc>。</pc>
+<pc>，</pc>詔諸路州郡造軍器有不用<date notBefore="1068" notAfter="1077">熙寧</date>法式者<pc>，</pc>有司議罰<pc>，</pc>具為令<pc>。</pc>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <pc>，</pc>又詔並用禦前軍器所降法式<pc>，</pc>前<measure quantity="2" unit="months">
@@ -487,7 +560,9 @@
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>馬甲曩用黑髹漆<pc>，</pc>今易以朱<pc>。</pc>
+<pc>“</pc>
+<quote>馬甲曩用黑髹漆<pc>，</pc>今易以朱<pc>。</pc>
+</quote>
 <pc>”</pc>是歲<pc>，</pc>姚古奏更定軍器<pc>，</pc>曩時甲<num value="2">二</num>副<pc>，</pc>今拆造<num value="3">三</num>副<pc>；</pc>曩時手刀太重<pc>，</pc>今皆令輕便易用<pc>；</pc>曩時神臂弓硾<num value="2">二</num>石<num value="3">三</num>鬥<pc>，</pc>今硾<num value="1">一</num>石<num value="4">四</num>鬥<pc>。</pc>從之<pc>，</pc>悉下諸路改造<pc>。</pc>
 </p>
 </div>
@@ -496,8 +571,10 @@
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>軍器少監鄧之綱奏<pc>：</pc>
-<pc>“</pc>國家諸路為將<num value="130">一百三十</num>有<num value="1">一</num>
+<pc>“</pc>
+<quote>國家諸路為將<num value="130">一百三十</num>有<num value="1">一</num>
 <pc>，</pc>訓練士卒<pc>，</pc>各給軍器<pc>，</pc>以備不虞<pc>。</pc>惟河北諸將軍器乃熙<pc>、</pc>豐時造<pc>，</pc>精利牢密<pc>，</pc>冠於諸路<pc>。</pc>臣恐歲久因循<pc>，</pc>多致損弊<pc>。</pc>乞自河北<pc>、</pc>陝西路為首<pc>，</pc>令諸路<num value="1">一</num>新戎器<pc>，</pc>仰稱陛下追述先誌<pc>，</pc>儲戎器<pc>、</pc>壯國威之意<pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>
 </p>
 </div>
@@ -508,10 +585,12 @@
 <pc>，</pc>之綱<num value="3">三</num>上奏<pc>，</pc>
 <num value="1">一</num>言修武庫<pc>，</pc>
 <num value="2">二</num>言整軍器<pc>，</pc>大省國用<pc>。</pc>詔升之綱為大監<pc>，</pc>又遷<num value="1">一</num>官<pc>。</pc>時宇文粹中賜對崇政殿<pc>，</pc>奏武庫事<pc>，</pc>因奏<pc>：</pc>
-<pc>“</pc>武庫有祖宗所禦軍器<num value="10">十</num>餘色<pc>，</pc>乞編入<pc>《</pc>
+<pc>“</pc>
+<quote>武庫有祖宗所禦軍器<num value="10">十</num>餘色<pc>，</pc>乞編入<pc>《</pc>
 <title>鹵簿圖誌</title>
 <pc>》</pc>
 <pc>，</pc>遇郊兵重禮<pc>，</pc>陳於儀物之首<pc>，</pc>以識武功<pc>，</pc>且示不忘創業艱難意<pc>。</pc>
+</quote>
 <pc>”</pc>是年<pc>，</pc>禦筆以武庫當修軍器近<num value="1">一</num>億<num value="10000">萬</num>
 <pc>，</pc>其中箭鏃<num value="5000">五千</num>餘<num value="10000">萬</num>
 <pc>，</pc>用平時工料<pc>，</pc>須<measure quantity="70" unit="years">
@@ -529,18 +608,25 @@
 </p>
 </div>
 <div>
-<p>宣和元年<pc>，</pc>權荊湖南路提點刑獄公事鄭濟奏<pc>：</pc>
-<pc>“</pc>本路惟潭<pc>、</pc>邵<measure quantity="2" unit="prefectures">
+<p>
+<date notBefore="1119" notAfter="1125">宣和</date>元年<pc>，</pc>權荊湖南路提點刑獄公事鄭濟奏<pc>：</pc>
+<pc>“</pc>
+<quote>本路惟潭<pc>、</pc>
+<placeName>邵</placeName>
+<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>
 <pc>，</pc>各有年額製造軍器<pc>。</pc>今年製造已足<pc>，</pc>躬親試驗<pc>，</pc>並依法式<pc>，</pc>不誤施用<pc>。</pc>
+</quote>
 <pc>”</pc>詔加旌賞<pc>，</pc>以為諸路之勸<pc>。</pc>然自是歲督軍器率用禦筆處分<pc>，</pc>工造不已而較數嚐闕<pc>，</pc>繕修無虛歲而每稱弊壞<pc>。</pc>大抵中外相應<pc>，</pc>
 <num value="1">一</num>以虛文<pc>，</pc>上下相蒙<pc>，</pc>而馴致靖康之禍矣<pc>。</pc>
 </p>
 </div>
 <div>
 <p>靖康初<pc>，</pc>兵仗皆闕<pc>，</pc>詔書屢下<pc>，</pc>嚴立賞刑<pc>，</pc>而卒亦無補<pc>。</pc>時通判河陽<pc>、</pc>權州事張旂奏曰<pc>：</pc>
-<pc>“</pc>河陽自今春以來<pc>，</pc>累有軍馬經過<pc>，</pc>軍士舉隨身軍器若馬甲<pc>、</pc>神臂弓<pc>、</pc>箭槍牌之類<pc>，</pc>於市肆博易熟食<pc>，</pc>名為寄頓<pc>，</pc>其實棄遣<pc>，</pc>避逃征役<pc>。</pc>拘收<measure quantity="3" unit="days">
+<pc>“</pc>
+<quote>河陽自今春以來<pc>，</pc>累有軍馬經過<pc>，</pc>軍士舉隨身軍器若馬甲<pc>、</pc>神臂弓<pc>、</pc>箭槍牌之類<pc>，</pc>於市肆博易熟食<pc>，</pc>名為寄頓<pc>，</pc>其實棄遣<pc>，</pc>避逃征役<pc>。</pc>拘收<measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>間<pc>，</pc>得器械<num value="4200">四千二百</num>餘物<pc>。</pc>此乃太原援師<pc>，</pc>尚且棄捐器甲<pc>，</pc>則他路軍馬事勢可知<pc>。</pc>宜諭民首納<pc>，</pc>免貽他患<pc>。</pc>
+</quote>
 <pc>”</pc>帝善旂奏<pc>，</pc>賞以<num value="1">一</num>官<pc>。</pc>
 </p>
 </div>
@@ -552,14 +638,17 @@
 <measure quantity="26" unit="years">
 <num value="26">二十六</num>年</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>工匠宜減免<pc>，</pc>江<pc>、</pc>浙<pc>、</pc>福建諸州物料悉蠲之<pc>。</pc>
+<pc>“</pc>
+<quote>工匠宜減免<pc>，</pc>江<pc>、</pc>浙<pc>、</pc>福建諸州物料悉蠲之<pc>。</pc>
+</quote>
 <pc>”</pc>有司奏物料減<num value="3">三</num>之<num value="1">一</num>
 <pc>，</pc>工匠<num value="2000">二千</num>
 <pc>、</pc>雜役兵<num value="500">五百</num>為額<pc>。</pc>
 </p>
 </div>
 <div>
-<p>舊<pc>，</pc>軍器所得專達<pc>。</pc>建炎中<pc>，</pc>嚐以閹官董愨提舉<pc>，</pc>尋罷之<pc>。</pc>紹興<measure quantity="5" unit="years">
+<p>舊<pc>，</pc>軍器所得專達<pc>。</pc>
+<date notBefore="1127" notAfter="1130">建炎</date>中<pc>，</pc>嚐以閹官董愨提舉<pc>，</pc>尋罷之<pc>。</pc>紹興<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>隸工部<pc>，</pc>後複以中人典領<pc>。</pc>
 <measure quantity="30" unit="years">
@@ -569,18 +658,25 @@
 </p>
 </div>
 <div>
-<p>造車之製<pc>。</pc>渡江後<pc>，</pc>東南地多沮洳險隘<pc>，</pc>不以車為主<pc>。</pc>宗澤<pc>、</pc>李綱有戰車法<pc>，</pc>王大智獻車式<pc>，</pc>皆不複用<pc>，</pc>而屬意甲胄<pc>、</pc>弧矢之利矣<pc>。</pc>建炎初<pc>，</pc>上諭宰執曰<pc>：</pc>
-<pc>“</pc>方今戰士無慮<num value="300000">三十萬</num>
+<p>造車之製<pc>。</pc>渡江後<pc>，</pc>東南地多沮洳險隘<pc>，</pc>不以車為主<pc>。</pc>宗澤<pc>、</pc>李綱有戰車法<pc>，</pc>王大智獻車式<pc>，</pc>皆不複用<pc>，</pc>而屬意甲胄<pc>、</pc>弧矢之利矣<pc>。</pc>
+<date notBefore="1127" notAfter="1130">建炎</date>初<pc>，</pc>上諭宰執曰<pc>：</pc>
+<pc>“</pc>
+<quote>方今戰士無慮<num value="300000">三十萬</num>
 <pc>，</pc>若皆被堅執銳<pc>，</pc>加以弧矢之利<pc>，</pc>雖強敵<pc>，</pc>無足畏也<pc>。</pc>造弓必用良工善價<pc>。</pc>
+</quote>
 <pc>”</pc>紹興<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>提舉製造軍器所言<pc>：</pc>
-<pc>“</pc>以<num value="70">七十</num>工造全裝甲<num value="1">一</num>
+<pc>“</pc>
+<quote>以<num value="70">七十</num>工造全裝甲<num value="1">一</num>
 <pc>。</pc>又長齊頭甲每<num value="1">一</num>甲用工<num value="41">百四十一</num>
 <pc>，</pc>短齊頭甲用工<num value="74">七十四</num>
 <pc>。</pc>乞以本所全裝甲為定式<pc>。</pc>
+</quote>
 <pc>”</pc>席益言<pc>：</pc>
-<pc>“</pc>諸州造馬蝗弩<pc>，</pc>不若令造弓<pc>。</pc>
+<pc>“</pc>
+<quote>諸州造馬蝗弩<pc>，</pc>不若令造弓<pc>。</pc>
+</quote>
 <pc>”</pc>詔並改造弓弩<pc>，</pc>內馬蝗弩改手射弓<pc>。</pc>
 </p>
 </div>
@@ -588,13 +684,15 @@
 <p>紹興<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>軍器所言<pc>：</pc>
-<pc>“</pc>得旨<pc>，</pc>依禦降式造甲<pc>。</pc>緣甲之式有<num value="4">四</num>等<pc>，</pc>甲葉<num value="825">千八百二十五</num>
+<pc>“</pc>
+<quote>得旨<pc>，</pc>依禦降式造甲<pc>。</pc>緣甲之式有<num value="4">四</num>等<pc>，</pc>甲葉<num value="825">千八百二十五</num>
 <pc>，</pc>表裏磨鋥<pc>。</pc>內披膊葉<num value="504">五百四</num>
 <pc>，</pc>每葉重<num value="2">二</num>錢<num value="6">六</num>分<pc>；</pc>又甲身葉<num value="332">三百三十二</num>
 <pc>，</pc>每葉重<num value="4">四</num>錢<num value="7">七</num>分<pc>；</pc>又腿裙鶻尾葉<num value="679">六百七十九</num>
 <pc>，</pc>每葉重<num value="4">四</num>錢<num value="5">五</num>分<pc>；</pc>又兜鍪簾葉<num value="310">三百一十</num>
 <pc>，</pc>每葉重<num value="2">二</num>錢<num value="5">五</num>分<pc>。</pc>並兜鍪<num value="1">一</num>
 <pc>，</pc>杯子<pc>、</pc>眉子共<num value="1">一</num>斤<num value="1">一</num>兩<pc>，</pc>皮線結頭等重<num value="5">五</num>斤<num value="12">十二</num>兩<num value="5">五</num>錢有奇<pc>。</pc>每<num value="1">一</num>甲重<num value="40">四十</num>有<num value="9">九</num>斤<num value="12">十二</num>兩<pc>。</pc>若甲葉<num value="1">一一</num>依元領分兩<pc>，</pc>如重輕差殊<pc>，</pc>即棄不用<pc>，</pc>虛費工材<pc>。</pc>乞以新式甲葉分兩輕重通融<pc>，</pc>全裝共<num value="45">四十五</num>斤至<num value="50">五十</num>斤止<pc>。</pc>
+</quote>
 <pc>”</pc>詔勿過<num value="50">五十</num>斤<pc>。</pc>
 <measure quantity="32" unit="years">
 <num value="32">三十二</num>年</measure>
@@ -610,9 +708,12 @@
 <pc>，</pc>衢州守臣製到木鶴觜弩<num value="2000">二千</num>
 <pc>、</pc>箭<num value="100000">十萬</num>
 <pc>。</pc>又湖北<pc>、</pc>京西造納無羽箭<pc>。</pc>上曰<pc>：</pc>
-<pc>“</pc>箭不用羽<pc>，</pc>可謂精巧<pc>，</pc>其屋藏之<pc>。</pc>
+<pc>“</pc>
+<quote>箭不用羽<pc>，</pc>可謂精巧<pc>，</pc>其屋藏之<pc>。</pc>
+</quote>
 <pc>”</pc>淮東總領朱佺言<pc>：</pc>
-<pc>“</pc>鎮江<num value="1">一</num>軍<pc>，</pc>乃韓世忠部曲<pc>。</pc>世忠造克敵弓<pc>，</pc>以當敵騎衝突<pc>，</pc>其發可至<num value="100">百</num>步<pc>，</pc>其勁可穿重甲<pc>，</pc>最為利器<pc>。</pc>往歲調發<pc>，</pc>弓不免損失<pc>，</pc>存者歲久亦漸弛壞<pc>。</pc>今考諸軍見弩手<measure quantity="8842" unit="people">
+<pc>“</pc>
+<quote>鎮江<num value="1">一</num>軍<pc>，</pc>乃韓世忠部曲<pc>。</pc>世忠造克敵弓<pc>，</pc>以當敵騎衝突<pc>，</pc>其發可至<num value="100">百</num>步<pc>，</pc>其勁可穿重甲<pc>，</pc>最為利器<pc>。</pc>往歲調發<pc>，</pc>弓不免損失<pc>，</pc>存者歲久亦漸弛壞<pc>。</pc>今考諸軍見弩手<measure quantity="8842" unit="people">
 <num value="8842">八千八百四十二</num>人</measure>
 <pc>，</pc>人合用兩弓<pc>，</pc>
 <num value="1">一</num>弓<measure quantity="1" unit="day">
@@ -620,6 +721,7 @@
 <num value="1">一</num>弓備出戰<pc>，</pc>合用弓<num value="7680">萬七千六百八十</num>有<num value="4">四</num>
 <pc>，</pc>僅存<num value="6570">六千五百七十</num>有<num value="4">四</num>
 <pc>，</pc>餘皆不堪施教<pc>，</pc>乞下鎮江都統司足其額<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -628,13 +730,22 @@
 <measure quantity="15" unit="years">
 <num value="15">十五</num>年</measure>
 <pc>，</pc>工部侍郎李昌圖言<pc>：</pc>
-<pc>“</pc>弓矢之利<pc>，</pc>貴於便疾<pc>。</pc>神臂弓鬥力及遠<pc>，</pc>屢獲其用<pc>。</pc>後又又造神勁弓<pc>，</pc>及遠雖在神臂弓上<pc>，</pc>軍中多言其發遲<pc>，</pc>每神臂<num value="3">三</num>矢而神勁方能<num value="1">一</num>發<pc>，</pc>若臨敵之際<pc>，</pc>便疾反出神臂下<pc>。</pc>
+<pc>“</pc>
+<quote>弓矢之利<pc>，</pc>貴於便疾<pc>。</pc>神臂弓鬥力及遠<pc>，</pc>屢獲其用<pc>。</pc>後又又造神勁弓<pc>，</pc>及遠雖在神臂弓上<pc>，</pc>軍中多言其發遲<pc>，</pc>每神臂<num value="3">三</num>矢而神勁方能<num value="1">一</num>發<pc>，</pc>若臨敵之際<pc>，</pc>便疾反出神臂下<pc>。</pc>
+</quote>
 <pc>”</pc>上曰<pc>：</pc>
-<pc>“</pc>平原曠野宜用神勁弓<pc>，</pc>西蜀崇山峻嶺<pc>，</pc>未知孰利<pc>。</pc>
-<pc>”</pc>詔金州都統司詳議以聞<pc>。</pc>既而都統製吳挺奏<pc>：</pc>
-<pc>“</pc>神勁弓並彈子頭箭<pc>，</pc>諸軍用之誠便疾<pc>，</pc>神臂不及也<pc>。</pc>
-<pc>”</pc>詔從其便<pc>。</pc>楚州兵馬鈐轄言<pc>：</pc>
-<pc>“</pc>弩之力<pc>，</pc>勁者<num value="30">三十</num>石<pc>，</pc>次者<num value="15">十五</num>石<pc>，</pc>矢之鏃狀若鍬<pc>，</pc>所發何啻數<num value="100">百</num>步<pc>，</pc>洞穿數人<pc>。</pc>江上諸軍有弩式<pc>，</pc>皆廢不修<pc>。</pc>
+<pc>“</pc>
+<quote>平原曠野宜用神勁弓<pc>，</pc>西蜀崇山峻嶺<pc>，</pc>未知孰利<pc>。</pc>
+</quote>
+<pc>”</pc>詔<placeName>金州</placeName>都統司詳議以聞<pc>。</pc>既而都統製吳挺奏<pc>：</pc>
+<pc>“</pc>
+<quote>神勁弓並彈子頭箭<pc>，</pc>諸軍用之誠便疾<pc>，</pc>神臂不及也<pc>。</pc>
+</quote>
+<pc>”</pc>詔從其便<pc>。</pc>
+<placeName>楚州</placeName>兵馬<term>鈐轄</term>言<pc>：</pc>
+<pc>“</pc>
+<quote>弩之力<pc>，</pc>勁者<num value="30">三十</num>石<pc>，</pc>次者<num value="15">十五</num>石<pc>，</pc>矢之鏃狀若鍬<pc>，</pc>所發何啻數<num value="100">百</num>步<pc>，</pc>洞穿數人<pc>。</pc>江上諸軍有弩式<pc>，</pc>皆廢不修<pc>。</pc>
+</quote>
 <pc>”</pc>詔兩淮<pc>、</pc>荊襄沿邊城守<pc>，</pc>各製<num value="20">二十</num>枝<pc>，</pc>禦前軍器所亦如之<pc>。</pc>紹熙而後<pc>，</pc>日造器械<pc>，</pc>數目山積<pc>。</pc>
 </p>
 </div>
@@ -645,7 +756,9 @@
 <div>
 <p>鹹淳<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<pc>，</pc>沿邊州郡<pc>，</pc>因降式製回回炮<pc>，</pc>有觸類巧思<pc>，</pc>別置炮遠出其上<pc>。</pc>且為破炮之策尤奇<pc>。</pc>其法<pc>，</pc>用稻穰草成堅索<pc>，</pc>條圍<num value="4">四</num>寸<pc>，</pc>長<num value="34">三十四</num>尺<pc>，</pc>每<num value="20">二十</num>條為束<pc>，</pc>別以麻索係<num value="1">一</num>頭於樓後柱<pc>，</pc>搭過樓<pc>，</pc>下垂至地<pc>，</pc>栿梁垂<num value="4">四</num>層或<num value="5">五</num>層<pc>，</pc>周庇樓屋<pc>，</pc>沃以泥漿<pc>，</pc>火箭火炮不能侵<pc>，</pc>炮石雖<num value="100">百</num>鈞無所施矣<pc>。</pc>且輕便不費財<pc>，</pc>立名曰<pc>“</pc>護陴籬索<pc>。</pc>
+<pc>，</pc>沿邊州郡<pc>，</pc>因降式製回回炮<pc>，</pc>有觸類巧思<pc>，</pc>別置炮遠出其上<pc>。</pc>且為破炮之策尤奇<pc>。</pc>其法<pc>，</pc>用稻穰草成堅索<pc>，</pc>條圍<num value="4">四</num>寸<pc>，</pc>長<num value="34">三十四</num>尺<pc>，</pc>每<num value="20">二十</num>條為束<pc>，</pc>別以麻索係<num value="1">一</num>頭於樓後柱<pc>，</pc>搭過樓<pc>，</pc>下垂至地<pc>，</pc>栿梁垂<num value="4">四</num>層或<num value="5">五</num>層<pc>，</pc>周庇樓屋<pc>，</pc>沃以泥漿<pc>，</pc>火箭火炮不能侵<pc>，</pc>炮石雖<num value="100">百</num>鈞無所施矣<pc>。</pc>且輕便不費財<pc>，</pc>立名曰<pc>“</pc>
+<quote>護陴籬索<pc>。</pc>
+</quote>
 <pc>”</pc>是時兵紀不振<pc>，</pc>獨器甲視舊製益詳<pc>。</pc>
 </p>
 </div>

@@ -81,7 +81,9 @@
 <pc>「</pc>
 <quote>若皇太后不得配食桓帝<pc>，</pc>吾不生還矣<pc>！</pc>
 </quote>
-<pc>」</pc>既議<pc>，</pc>坐者數<num value="100">百</num>人<pc>，</pc>各瞻望良久<pc>，</pc>莫肯先言<pc>。</pc>趙忠曰<pc>：</pc>
+<pc>」</pc>既議<pc>，</pc>坐者數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>各瞻望良久<pc>，</pc>莫肯先言<pc>。</pc>趙忠曰<pc>：</pc>
 <pc>「</pc>
 <quote>議當時定<pc>！</pc>
 </quote>
@@ -159,7 +161,14 @@
 <pc>，</pc>收颯送北寺獄<pc>，</pc>使尚書令廉忠誣奏<pc>「</pc>
 <quote>颯等謀迎立悝<pc>，</pc>大逆不道</quote>
 <pc>」</pc>
-<pc>，</pc>遂詔冀州<term>刺史</term>收悝考實<pc>，</pc>迫責悝<pc>，</pc>令自殺<pc>；</pc>妃妾<num value="11">十一</num>人<pc>、</pc>子女<num value="70">七十</num>人<pc>、</pc>伎女<num value="24">二十四</num>人皆死獄中<pc>，</pc>傅<pc>、</pc>相以下悉伏誅<pc>。</pc>甫等<num value="12">十二</num>人皆以功封列侯<pc>。</pc>
+<pc>，</pc>遂詔<placeName>冀州</placeName>
+<term>刺史</term>收悝考實<pc>，</pc>迫責悝<pc>，</pc>令自殺<pc>；</pc>妃妾<measure quantity="11" unit="people">
+<num value="11">十一</num>人</measure>
+<pc>、</pc>子女<measure quantity="70" unit="people">
+<num value="70">七十</num>人</measure>
+<pc>、</pc>伎女<measure quantity="24" unit="people">
+<num value="24">二十四</num>人</measure>皆死獄中<pc>，</pc>傅<pc>、</pc>相以下悉伏誅<pc>。</pc>甫等<measure quantity="12" unit="people">
+<num value="12">十二</num>人</measure>皆以功封列侯<pc>。</pc>
 </p>
 </div>
 <div>
@@ -231,7 +240,10 @@
 <p>冬<pc>，</pc>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<pc>，</pc>太尉段熲罷<pc>。</pc>鮮卑寇幽<pc>、</pc>並<measure quantity="2" unit="prefectures">
+<pc>，</pc>太尉段熲罷<pc>。</pc>鮮卑寇<placeName>幽</placeName>
+<pc>、</pc>
+<placeName>並</placeName>
+<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>
 <pc>。</pc>
 <num value="10">癸酉</num>晦<pc>，</pc>日有食之<pc>。</pc>
@@ -285,7 +297,11 @@
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>朝議以州郡相黨<pc>，</pc>人情比周<pc>，</pc>乃制昏姻之家及兩州人士不得對相監臨<pc>，</pc>至是復有<num value="3">三</num>互法<pc>，</pc>禁忌轉密<pc>，</pc>選用艱難<pc>，</pc>幽<pc>、</pc>冀<measure quantity="2" unit="prefectures">
+<p>初<pc>，</pc>朝議以州郡相黨<pc>，</pc>人情比周<pc>，</pc>乃制昏姻之家及兩州人士不得對相監臨<pc>，</pc>至是復有<num value="3">三</num>互法<pc>，</pc>禁忌轉密<pc>，</pc>選用艱難<pc>，</pc>
+<placeName>幽</placeName>
+<pc>、</pc>
+<placeName>冀</placeName>
+<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>久缺不補<pc>。</pc>蔡邕上疏曰<pc>：</pc>
 <pc>「</pc>
 <quote>伏見幽<pc>、</pc>冀舊壤<pc>，</pc>鎧<pc>、</pc>馬所出<pc>，</pc>比年兵饑<pc>，</pc>漸至空耗<pc>。</pc>今者闕職經時<pc>，</pc>吏民延屬<pc>，</pc>而<num value="3">三</num>府選舉<pc>，</pc>逾月不定<pc>。</pc>臣怪問其故<pc>，</pc>雲避<num value="3">三</num>互<pc>。</pc>
@@ -294,7 +310,8 @@
 <num value="2">二</num>州</measure>而已<pc>。</pc>又<pc>，</pc>
 <measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>之士或復限以歲月<pc>，</pc>狐疑遲淹<pc>，</pc>兩州懸空<pc>，</pc>
-<num value="10000">萬</num>里蕭條<pc>，</pc>無所管系<pc>。</pc>愚以為<num value="3">三</num>互之禁<pc>，</pc>禁之薄者<pc>。</pc>今但申以威靈<pc>，</pc>明其憲令<pc>，</pc>對相部主<pc>，</pc>尚畏懼不敢營私<pc>；</pc>況乃<num value="3">三</num>互<pc>，</pc>何足為嫌<pc>！</pc>昔韓安國起自徒中<pc>，</pc>硃買臣出於幽賤<pc>，</pc>並以才宜<pc>，</pc>還守本邦<pc>，</pc>豈復顧循<num value="3">三</num>互<pc>，</pc>系以末制乎<pc>！</pc>臣願陛下上則先帝<pc>，</pc>蠲除近禁<pc>，</pc>其諸州<term>刺史</term>器用可換者<pc>，</pc>無拘日月<pc>、</pc>
+<measure quantity="10000" unit="LIs">
+<num value="10000">萬</num>里</measure>蕭條<pc>，</pc>無所管系<pc>。</pc>愚以為<num value="3">三</num>互之禁<pc>，</pc>禁之薄者<pc>。</pc>今但申以威靈<pc>，</pc>明其憲令<pc>，</pc>對相部主<pc>，</pc>尚畏懼不敢營私<pc>；</pc>況乃<num value="3">三</num>互<pc>，</pc>何足為嫌<pc>！</pc>昔韓安國起自徒中<pc>，</pc>硃買臣出於幽賤<pc>，</pc>並以才宜<pc>，</pc>還守本邦<pc>，</pc>豈復顧循<num value="3">三</num>互<pc>，</pc>系以末制乎<pc>！</pc>臣願陛下上則先帝<pc>，</pc>蠲除近禁<pc>，</pc>其諸州<term>刺史</term>器用可換者<pc>，</pc>無拘日月<pc>、</pc>
 <num value="3">三</num>互<pc>，</pc>以差厥中<pc>。</pc>
 </quote>
 <pc>」</pc>朝廷不從<pc>。</pc>
@@ -329,7 +346,8 @@
 <num value="5">五</num>月</measure>
 <pc>，</pc>
 <num value="4">丁卯</num>
-<pc>，</pc>赦天下<pc>。</pc>延陵園災<pc>。</pc>鮮卑寇幽州<pc>。</pc>
+<pc>，</pc>赦天下<pc>。</pc>延陵園災<pc>。</pc>鮮卑寇<placeName>幽州</placeName>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -337,7 +355,7 @@
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <pc>，</pc>弘農<pc>、</pc>
-<num value="3">三</num>輔螟<pc>。</pc>於窴王安國攻拘彌<pc>，</pc>大破之<pc>，</pc>殺其王<pc>。</pc>戊己校尉<pc>、</pc>西域長史各發兵輔立拘彌侍子定興為王<pc>，</pc>人眾裁<num value="1000">千</num>口<pc>。</pc>孝靈皇帝上之下熹平<measure quantity="5" unit="years">
+<num value="3">三</num>輔螟<pc>。</pc>於窴<persName>王安國</persName>攻拘彌<pc>，</pc>大破之<pc>，</pc>殺其王<pc>。</pc>戊己校尉<pc>、</pc>西域長史各發兵輔立拘彌侍子定興為王<pc>，</pc>人眾裁<num value="1000">千</num>口<pc>。</pc>孝靈皇帝上之下熹平<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>（</pc>
 <num value="53">丙辰</num>
@@ -348,14 +366,16 @@
 <num value="4">四</num>月</measure>
 <pc>，</pc>
 <num value="60">癸亥</num>
-<pc>，</pc>赦天下<pc>。</pc>益州郡夷反<pc>，</pc>太守李顒討平之<pc>。</pc>大雩<pc>。</pc>
+<pc>，</pc>赦天下<pc>。</pc>
+<placeName>益州</placeName>郡夷反<pc>，</pc>太守李顒討平之<pc>。</pc>大雩<pc>。</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <pc>，</pc>太尉陳耽罷<pc>，</pc>以司空許訓為太尉<pc>。</pc>閏月<pc>，</pc>永昌太守曹鸞上書曰<pc>：</pc>
 <pc>「</pc>
 <quote>夫黨人者<pc>，</pc>或耆年淵德<pc>，</pc>或衣冠英賢<pc>，</pc>皆宜股肱王室<pc>，</pc>左右大猷者也<pc>；</pc>而久被禁錮<pc>，</pc>辱在塗泥<pc>。</pc>謀反大逆尚蒙赦宥<pc>，</pc>黨人何罪<pc>，</pc>獨不開恕乎<pc>！</pc>所以災異屢見<pc>，</pc>水旱荐臻<pc>，</pc>皆由於斯<pc>。</pc>宜加沛然<pc>，</pc>以副天心<pc>。</pc>
 </quote>
-<pc>」</pc>帝省奏<pc>，</pc>大怒<pc>，</pc>即詔司隸<pc>、</pc>益州檻車收鸞<pc>，</pc>送槐裡獄<pc>，</pc>掠殺之<pc>。</pc>於是詔州郡更考黨人門生<pc>、</pc>故吏<pc>、</pc>父子<pc>、</pc>兄弟在位者<pc>，</pc>悉免官禁錮<pc>，</pc>爰及<num value="5">五</num>屬<pc>。</pc>
+<pc>」</pc>帝省奏<pc>，</pc>大怒<pc>，</pc>即詔司隸<pc>、</pc>
+<placeName>益州</placeName>檻車收鸞<pc>，</pc>送槐裡獄<pc>，</pc>掠殺之<pc>。</pc>於是詔州郡更考黨人門生<pc>、</pc>故吏<pc>、</pc>父子<pc>、</pc>兄弟在位者<pc>，</pc>悉免官禁錮<pc>，</pc>爰及<num value="5">五</num>屬<pc>。</pc>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <pc>，</pc>
@@ -371,7 +391,8 @@
 <num value="11">十一</num>月</measure>
 <pc>，</pc>
 <num value="23">丙戌</num>
-<pc>，</pc>以光祿大夫楊賜為司徒<pc>。</pc>是歲<pc>，</pc>鮮卑寇幽州<pc>。</pc>孝靈皇帝上之下熹平<measure quantity="6" unit="years">
+<pc>，</pc>以光祿大夫楊賜為司徒<pc>。</pc>是歲<pc>，</pc>鮮卑寇<placeName>幽州</placeName>
+<pc>。</pc>孝靈皇帝上之下熹平<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>（</pc>
 <num value="54">丁巳</num>
@@ -384,16 +405,22 @@
 <num value="38">辛丑</num>
 <pc>，</pc>赦天下<pc>。</pc>夏<pc>，</pc>
 <measure quantity="4" unit="months">
-<num value="4">四</num>月</measure>
+<num value="4">四</num>
+<placeName>月</placeName>
+</measure>
 <pc>，</pc>大旱<pc>，</pc>
 <measure quantity="7" unit="prefectures">
-<num value="7">七</num>州</measure>蝗<pc>。</pc>令<num value="3">三</num>公條奏長吏苛酷貪污者<pc>，</pc>罷免之<pc>。</pc>平原相漁陽陽球坐嚴酷<pc>，</pc>征詣廷尉<pc>。</pc>帝以球前為<num value="9">九</num>江太守討賊有功<pc>，</pc>特赦之<pc>，</pc>拜議郎<pc>。</pc>鮮卑寇<num value="3">三</num>邊<pc>。</pc>市賈小民有相聚為宣陵孝子者數<num value="10">十</num>人<pc>，</pc>詔皆除太子舍人<pc>。</pc>秋<pc>，</pc>
+<num value="7">七</num>州</measure>蝗<pc>。</pc>令<num value="3">三</num>公條奏長吏苛酷貪污者<pc>，</pc>罷免之<pc>。</pc>平原相漁陽陽球坐嚴酷<pc>，</pc>征詣廷尉<pc>。</pc>帝以球前為<num value="9">九</num>江太守討賊有功<pc>，</pc>特赦之<pc>，</pc>拜議郎<pc>。</pc>鮮卑寇<num value="3">三</num>邊<pc>。</pc>市賈小民有相聚為宣陵孝子者數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>詔皆除太子舍人<pc>。</pc>秋<pc>，</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <pc>，</pc>司空劉逸免<pc>，</pc>以衛尉陳球為司空<pc>。</pc>初<pc>，</pc>帝好文學<pc>，</pc>自造<pc>《</pc>
 <title>皇羲篇</title>
 <pc>》</pc>
-<num value="50">五十</num>章<pc>，</pc>因引諸生能為文賦者並待制鴻都門下<pc>。</pc>後諸為尺牘及工書鳥篆者<pc>，</pc>皆加引召<pc>，</pc>遂至數<num value="10">十</num>人<pc>。</pc>侍中祭酒樂松<pc>、</pc>賈護多引無行趣勢之徒置其間<pc>，</pc>熹陳閭裡小事<pc>；</pc>帝甚悅之<pc>，</pc>待以不次之位<pc>；</pc>又久不親行郊廟之禮<pc>。</pc>會詔群臣各陳政要<pc>，</pc>蔡邕上封事曰<pc>：</pc>
+<num value="50">五十</num>章<pc>，</pc>因引諸生能為文賦者並待制鴻都門下<pc>。</pc>後諸為尺牘及工書鳥篆者<pc>，</pc>皆加引召<pc>，</pc>遂至數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>。</pc>侍中祭酒樂松<pc>、</pc>賈護多引無行趣勢之徒置其間<pc>，</pc>熹陳閭裡小事<pc>；</pc>帝甚悅之<pc>，</pc>待以不次之位<pc>；</pc>又久不親行郊廟之禮<pc>。</pc>會詔群臣各陳政要<pc>，</pc>蔡邕上封事曰<pc>：</pc>
 <pc>「</pc>
 <quote>夫迎氣<num value="5">五</num>郊<pc>，</pc>清廟祭祀<pc>，</pc>養老辟雍<pc>，</pc>皆帝者之大業<pc>，</pc>祖宗所祗奉也<pc>。</pc>而有司數以蕃國疏喪<pc>、</pc>宮內產生及吏卒小污<pc>，</pc>廢闕不行<pc>，</pc>忘禮敬之大<pc>，</pc>任禁忌之書<pc>，</pc>拘信小故<pc>，</pc>以虧大典<pc>。</pc>自今齋制宜如故典<pc>，</pc>庶答風霆<pc>、</pc>災妖之異<pc>。</pc>又<pc>，</pc>古者取士必使諸侯歲貢<pc>。</pc>孝武之世<pc>，</pc>郡舉孝廉<pc>，</pc>又有賢良<pc>、</pc>文學之選<pc>，</pc>於是名臣輩出<pc>，</pc>文武並興<pc>。</pc>漢之得人<pc>，</pc>數路而已<pc>。</pc>夫書畫辭賦<pc>，</pc>才之小者<pc>；</pc>匡國治政<pc>，</pc>未有其能<pc>。</pc>陛下即位之初<pc>，</pc>先涉經術<pc>，</pc>聽政餘日<pc>，</pc>觀省篇章<pc>，</pc>聊以游意當代博奕<pc>，</pc>非以為教化取士之本<pc>。</pc>而諸生競利<pc>，</pc>作者鼎沸<pc>，</pc>其高者頗引經訓風喻之言<pc>，</pc>下則連偶俗語<pc>，</pc>有類徘優<pc>，</pc>或竊成文<pc>，</pc>虛冒名氏<pc>。</pc>臣每受詔於盛化門<pc>，</pc>差次錄第<pc>，</pc>其未及者<pc>，</pc>亦復隨輩皆見拜擢<pc>。</pc>既加之恩<pc>，</pc>難復收改<pc>，</pc>但守奉祿<pc>，</pc>於義已弘<pc>，</pc>不可復使治民及在州郡<pc>。</pc>昔孝宣會諸儒於石渠<pc>，</pc>章帝集學士於白虎<pc>，</pc>通經釋義<pc>，</pc>其事優大<pc>，</pc>文武之道<pc>，</pc>所宜從之<pc>。</pc>若乃不能小善<pc>，</pc>雖有可觀<pc>，</pc>孔子以為致遠則泥<pc>，</pc>君子固當志其大者<pc>。</pc>又<pc>，</pc>前<num value="1">一</num>切以宣陵孝子為太子舍人<pc>，</pc>臣聞孝文皇帝制喪服<measure quantity="36" unit="days">
 <num value="36">三十六</num>日</measure>
@@ -401,7 +428,7 @@
 </quote>
 <pc>」</pc>書奏<pc>，</pc>帝乃親迎氣北郊及行辟雍之禮<pc>。</pc>又詔宣陵孝子為舍人者悉改為丞<pc>、</pc>尉焉<pc>。</pc>護烏桓校尉夏育上言<pc>：</pc>
 <pc>「</pc>
-<quote>鮮卑寇邊<pc>，</pc>自春以來<num value="30">三十</num>餘發<pc>，</pc>請征幽州諸郡兵出塞擊之<pc>，</pc>
+<quote>鮮卑寇邊<pc>，</pc>自春以來<num value="30">三十</num>餘發<pc>，</pc>請征<placeName>幽州</placeName>諸郡兵出塞擊之<pc>，</pc>
 <num value="1">一</num>冬<pc>、</pc>
 <num value="2">二</num>春<pc>，</pc>必能禽滅<pc>。</pc>
 </quote>
@@ -414,8 +441,11 @@
 <pc>」</pc>帝不從<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>遣夏育出高柳<pc>，</pc>田晏出雲中<pc>，</pc>匈奴中郎將臧旻率南單于出雁門<pc>，</pc>各將<num value="10000">萬</num>騎<pc>，</pc>
-<num value="3">三</num>道出塞<num value="2000">二千</num>餘里<pc>。</pc>檀石槐命<num value="3">三</num>部大人各帥眾逆戰<pc>，</pc>育等大敗<pc>，</pc>喪其節傳輜重<pc>，</pc>各將數<num value="10">十</num>騎奔還<pc>，</pc>死者什<num value="56">七八</num>
+<pc>，</pc>遣夏育出高柳<pc>，</pc>田晏出雲中<pc>，</pc>匈奴中郎將臧旻率南單于出雁門<pc>，</pc>各將<measure quantity="10000" unit="riders">
+<num value="10000">萬</num>騎</measure>
+<pc>，</pc>
+<num value="3">三</num>道出塞<num value="2000">二千</num>餘里<pc>。</pc>檀石槐命<num value="3">三</num>部大人各帥眾逆戰<pc>，</pc>育等大敗<pc>，</pc>喪其節傳輜重<pc>，</pc>各將數<measure quantity="10" unit="riders">
+<num value="10">十</num>騎</measure>奔還<pc>，</pc>死者什<num value="56">七八</num>
 <pc>。</pc>
 <num value="3">三</num>將檻車征下獄<pc>，</pc>贖為庶人<pc>。</pc>冬<pc>，</pc>
 <measure quantity="10" unit="months">
@@ -487,7 +517,7 @@
 <quote>
 <pc>《</pc>
 <title>春秋言韱</title>
-<pc>》</pc>曰<pc>：</pc>『天投蜺<pc>，</pc>天下怨<pc>，</pc>海內亂<pc>。</pc>』加<num value="400">四百</num>之期<pc>，</pc>亦復垂及<pc>。</pc>今妾媵<pc>、</pc>閹尹之徒共專<date>國朝</date>
+<pc>》</pc>曰<pc>：</pc>『天投蜺<pc>，</pc>天下怨<pc>，</pc>海內亂<pc>。</pc>』加<num value="400">四百</num>之期<pc>，</pc>亦復垂及<pc>。</pc>今妾媵<pc>、</pc>閹尹之徒共專<date notBefore="9999" notAfter="9999">國朝</date>
 <pc>，</pc>欺罔日月<pc>；</pc>又<pc>，</pc>鴻都門下招會群小<pc>，</pc>造作賦說<pc>，</pc>見寵於時<pc>，</pc>更相薦說<pc>，</pc>旬月之間<pc>，</pc>並各拔擢<pc>。</pc>樂松處常伯<pc>，</pc>任芝居納言<pc>，</pc>郤儉<pc>、</pc>梁鵠各受豐爵不次之寵<pc>，</pc>而令搢紳之徒委伏畎畝<pc>，</pc>口誦堯<pc>、</pc>舜之言<pc>，</pc>身蹈絕俗之行<pc>，</pc>棄捐溝壑<pc>，</pc>不見逮及<pc>。</pc>冠履倒易<pc>，</pc>陵谷代處<pc>，</pc>幸賴皇天垂象譴告<pc>。</pc>
 <pc>《</pc>
 <title>周書</title>
@@ -541,7 +571,8 @@
 <num value="12">十二</num>月</measure>
 <pc>，</pc>
 <num value="54">丁巳</num>
-<pc>，</pc>以光祿大夫橋玄為太尉<pc>。</pc>鮮卑寇酒泉<pc>；</pc>種眾日多<pc>，</pc>緣邊莫不被毒<pc>。</pc>詔中尚方為鴻都文學樂松<pc>、</pc>江覽等<num value="32">三十二</num>人圖像立贊<pc>，</pc>以勸學者<pc>。</pc>尚書令陽球諫曰<pc>：</pc>
+<pc>，</pc>以光祿大夫橋玄為太尉<pc>。</pc>鮮卑寇酒泉<pc>；</pc>種眾日多<pc>，</pc>緣邊莫不被毒<pc>。</pc>詔中尚方為鴻都文學樂松<pc>、</pc>江覽等<measure quantity="32" unit="people">
+<num value="32">三十二</num>人</measure>圖像立贊<pc>，</pc>以勸學者<pc>。</pc>尚書令陽球諫曰<pc>：</pc>
 <pc>「</pc>
 <quote>臣案松<pc>、</pc>覽等皆出於微蔑<pc>，</pc>斗筲小人<pc>，</pc>依憑世戚<pc>，</pc>附托權豪<pc>，</pc>俛眉承睫<pc>，</pc>徼進明時<pc>。</pc>或獻賦<num value="1">一</num>篇<pc>，</pc>或鳥篆盈簡<pc>，</pc>而位升郎中<pc>，</pc>形圖丹青<pc>。</pc>亦有筆不點牘<pc>，</pc>辭不辨心<pc>，</pc>假手請字<pc>，</pc>妖偽<num value="100">百</num>品<pc>，</pc>莫不被蒙殊恩<pc>，</pc>蟬蛻滓濁<pc>。</pc>是以有識掩口<pc>，</pc>天下嗟歎<pc>。</pc>臣聞圖像之設<pc>，</pc>以昭勸戒<pc>，</pc>欲令人君動鑒得失<pc>，</pc>未聞豎子小人詐作文頌<pc>，</pc>而可妄竊天官<pc>，</pc>垂象圖素者也<pc>。</pc>今太學<pc>、</pc>東觀足以宣明聖化<pc>，</pc>願罷鴻都之選<pc>，</pc>以銷天下之謗<pc>。</pc>
 </quote>
@@ -686,10 +717,14 @@
 <num value="10">十</num>月</measure>
 <pc>，</pc>
 <num value="21">甲申</num>
-<pc>，</pc>劉郃<pc>、</pc>陳球<pc>、</pc>劉納<pc>、</pc>陽球皆下獄死<pc>。</pc>巴郡板楯蠻反<pc>，</pc>遣御史中丞蕭瑗督益州<term>刺史</term>討之<pc>，</pc>不克<pc>。</pc>
+<pc>，</pc>劉郃<pc>、</pc>陳球<pc>、</pc>劉納<pc>、</pc>陽球皆下獄死<pc>。</pc>巴郡板楯蠻反<pc>，</pc>遣御史中丞蕭瑗督<placeName>益州</placeName>
+<term>刺史</term>討之<pc>，</pc>不克<pc>。</pc>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<pc>，</pc>以光祿勳楊賜為司徒<pc>。</pc>鮮卑寇幽<pc>、</pc>並<measure quantity="2" unit="prefectures">
+<pc>，</pc>以光祿勳楊賜為司徒<pc>。</pc>鮮卑寇<placeName>幽</placeName>
+<pc>、</pc>
+<placeName>並</placeName>
+<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>
 <pc>。</pc>孝靈皇帝上之下光和<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
@@ -703,7 +738,10 @@
 <pc>，</pc>赦天下<pc>。</pc>夏<pc>，</pc>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
-<pc>，</pc>江夏蠻反<pc>。</pc>秋<pc>，</pc>酒泉地震<pc>。</pc>冬<pc>，</pc>有星孛於狼<pc>、</pc>弧<pc>。</pc>鮮卑寇幽<pc>、</pc>並<measure quantity="2" unit="prefectures">
+<pc>，</pc>江夏蠻反<pc>。</pc>秋<pc>，</pc>酒泉地震<pc>。</pc>冬<pc>，</pc>有星孛於狼<pc>、</pc>弧<pc>。</pc>鮮卑寇<placeName>幽</placeName>
+<pc>、</pc>
+<placeName>並</placeName>
+<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>
 <pc>。</pc>
 <measure quantity="12" unit="months">
@@ -717,7 +755,11 @@
 </quote>
 <pc>」</pc>書奏<pc>，</pc>帝欲止<pc>，</pc>以問侍中任芝<pc>、</pc>樂松<pc>；</pc>對曰<pc>：</pc>
 <pc>「</pc>
-<quote>昔文王之囿<num value="100">百</num>里<pc>，</pc>人以為小<pc>；</pc>齊宣<num value="5">五</num>里<pc>，</pc>人以為大<pc>。</pc>今與<num value="100">百</num>姓共之<pc>，</pc>無害於政也<pc>。</pc>
+<quote>昔文王之囿<measure quantity="100" unit="LIs">
+<num value="100">百</num>里</measure>
+<pc>，</pc>人以為小<pc>；</pc>齊宣<measure quantity="5" unit="LIs">
+<num value="5">五</num>里</measure>
+<pc>，</pc>人以為大<pc>。</pc>今與<num value="100">百</num>姓共之<pc>，</pc>無害於政也<pc>。</pc>
 </quote>
 <pc>」</pc>帝悅<pc>，</pc>遂為之<pc>。</pc>巴郡板楯蠻反<pc>。</pc>蒼梧<pc>、</pc>桂陽賊攻郡縣<pc>，</pc>零陵太守楊璇制馬車數<num value="10">十</num>乘<pc>，</pc>以排囊盛石灰於車上<pc>，</pc>系布索於馬尾<pc>；</pc>又為兵車<pc>，</pc>專彀弓弩<pc>。</pc>及戰<pc>，</pc>令馬車居前<pc>，</pc>順風鼓灰<pc>，</pc>賊不得視<pc>，</pc>因以火燒布然<pc>，</pc>馬驚<pc>，</pc>奔突賊陣<pc>，</pc>因使後車弓弩亂髮<pc>，</pc>鉦鼓鳴震<pc>，</pc>群盜波駭破散<pc>，</pc>追逐傷斬無數<pc>，</pc>梟其渠帥<pc>，</pc>郡境以清<pc>。</pc>荊州<term>刺史</term>趙凱誣奏璇實非身破賊<pc>，</pc>而妄有其功<pc>；</pc>璇與相章奏<pc>。</pc>凱有黨助<pc>，</pc>遂檻車征璇<pc>，</pc>防禁嚴密<pc>，</pc>無由自訟<pc>；</pc>乃噬臂出血<pc>，</pc>書衣為章<pc>，</pc>具陳破賊形勢<pc>，</pc>及言凱所誣狀<pc>，</pc>潛令親屬詣厥通之<pc>。</pc>詔書原璇<pc>，</pc>拜議郎<pc>；</pc>凱受誣人之罪<pc>。</pc>璇<pc>，</pc>喬之弟也<pc>。</pc>
 </p>

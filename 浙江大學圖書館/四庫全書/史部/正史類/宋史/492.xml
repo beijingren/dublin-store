@@ -24,9 +24,7 @@
 <body>
 <div type="chapter" n="492">
 <div>
-<p>
-<name key="null" type="null">◎外國</name>
-<num value="8">八</num>○吐蕃<pc>（</pc>唃廝囉董氈阿裏骨瞎征趙思忠<pc>）</pc>
+<p>◎外國<num value="8">八</num>○吐蕃<pc>（</pc>唃廝囉董氈阿裏骨瞎征趙思忠<pc>）</pc>
 </p>
 </div>
 <div>
@@ -35,113 +33,162 @@
 <pc>，</pc>其國<term>宰相</term>論恐熱以秦<pc>、</pc>原<pc>、</pc>安樂及石門等<num value="7">七</num>關來歸<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>又克成<pc>、</pc>維<pc>、</pc>扶<measure quantity="3" unit="prefectures">
+<pc>，</pc>又克成<pc>、</pc>維<pc>、</pc>
+<placeName>扶</placeName>
+<measure quantity="3" unit="prefectures">
 <num value="3">三</num>州</measure>
 <pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>其國沙州<term>刺史</term>張義潮以瓜<pc>、</pc>沙<pc>、</pc>伊<pc>、</pc>肅<measure quantity="11" unit="prefectures">
-<num value="11">十一</num>州</measure>之地來獻<pc>。</pc>唐末<pc>，</pc>瓜<pc>、</pc>沙之地複為所隔<pc>。</pc>然而其國亦自衰弱<pc>，</pc>族種分散<pc>，</pc>大者數<num value="1000">千</num>家<pc>，</pc>小者<num value="10">百十</num>家<pc>，</pc>無複統<num value="1">一</num>矣<pc>。</pc>自儀<pc>、</pc>渭<pc>、</pc>涇<pc>、</pc>原<pc>、</pc>環<pc>、</pc>慶及鎮戎<pc>、</pc>秦州暨於靈<pc>、</pc>夏皆有之<pc>，</pc>各有首領<pc>，</pc>內屬者謂之熟戶<pc>，</pc>餘謂之生戶<pc>。</pc>涼州雖為所隔<pc>，</pc>然其地自置牧守<pc>，</pc>或請命於中朝<pc>。</pc>
+<pc>，</pc>其國沙州<term>
+<placeName>刺</placeName>史</term>張義潮以瓜<pc>、</pc>沙<pc>、</pc>伊<pc>、</pc>肅<measure quantity="11" unit="prefectures">
+<num value="11">十一</num>州</measure>之地來獻<pc>。</pc>唐末<pc>，</pc>瓜<pc>、</pc>沙之地複為所隔<pc>。</pc>然而其國亦自衰弱<pc>，</pc>族種分散<pc>，</pc>大者數<measure quantity="1000" unit="households">
+<num value="1000">千</num>家</measure>
+<pc>，</pc>小者<measure quantity="10" unit="households">
+<num value="10">百十</num>家</measure>
+<pc>，</pc>無複統<num value="1">一</num>矣<pc>。</pc>自儀<pc>、</pc>渭<pc>、</pc>涇<pc>、</pc>原<pc>、</pc>環<pc>、</pc>慶及鎮戎<pc>、</pc>
+<placeName>秦州</placeName>暨於靈<pc>、</pc>夏皆有之<pc>，</pc>各有首領<pc>，</pc>內屬者謂之熟戶<pc>，</pc>餘謂之生戶<pc>。</pc>涼州雖為所隔<pc>，</pc>然其地自置牧守<pc>，</pc>或請命於中朝<pc>。</pc>
 </p>
 </div>
 <div>
-<p>天成中<pc>，</pc>權知西涼府留後孫超遣大將拓拔承誨來貢<pc>，</pc>明宗召見<pc>，</pc>承誨雲<pc>：</pc>
-<pc>“</pc>涼州東距靈武<num value="1000">千</num>裏<pc>，</pc>西北至甘州<num value="500">五百</num>裏<pc>。</pc>舊有鄆人<num value="2500">二千五百</num>為戍兵<pc>，</pc>及黃巢之亂<pc>，</pc>遂為阻絕<pc>。</pc>超及城中漢戶<num value="100">百</num>餘<pc>，</pc>皆戍兵之子孫也<pc>。</pc>其城今方幅數裏<pc>，</pc>中有縣令<pc>、</pc>判官<pc>、</pc>都押衙<pc>、</pc>都知<pc>、</pc>兵馬使<pc>，</pc>衣服言語略如漢人<pc>。</pc>
+<p>
+<date notBefore="926" notAfter="930">天成</date>中<pc>，</pc>權知西涼府留後孫超遣大將拓拔承誨來貢<pc>，</pc>明宗召見<pc>，</pc>承誨雲<pc>：</pc>
+<pc>“</pc>
+<quote>涼州東距靈武<num value="1000">千</num>裏<pc>，</pc>西北至<placeName>甘州</placeName>
+<num value="500">五百</num>裏<pc>。</pc>舊有鄆人<num value="2500">二千五百</num>為戍兵<pc>，</pc>及黃巢之亂<pc>，</pc>遂為阻絕<pc>。</pc>超及城中漢戶<num value="100">百</num>餘<pc>，</pc>皆戍兵之子孫也<pc>。</pc>其城今方幅數裏<pc>，</pc>中有縣令<pc>、</pc>判官<pc>、</pc>都押衙<pc>、</pc>都知<pc>、</pc>兵馬使<pc>，</pc>衣服言語略如漢人<pc>。</pc>
+</quote>
 <pc>”</pc>即授超涼州<term>刺史</term>
-<pc>，</pc>充河西軍節度留後<pc>。</pc>乾祐初<pc>，</pc>超卒<pc>，</pc>州人推其土人折逋嘉施權知留後<pc>，</pc>遣使來貢<pc>，</pc>即以嘉施代超為留後<pc>。</pc>
+<pc>，</pc>充河西軍節度留後<pc>。</pc>
+<date notBefore="948" notAfter="950">乾祐</date>初<pc>，</pc>超卒<pc>，</pc>州人推其土人折逋嘉施權知留後<pc>，</pc>遣使來貢<pc>，</pc>即以嘉施代超為留後<pc>。</pc>
 </p>
 </div>
 <div>
 <p>涼州郭外數<num value="10">十</num>裏<pc>，</pc>尚有漢民陷沒者耕作<pc>，</pc>餘皆吐蕃<pc>。</pc>其州帥稍失民情<pc>，</pc>則眾皆嘯聚<pc>。</pc>城內有<num value="7">七</num>級木浮圖<pc>，</pc>其帥急登之<pc>，</pc>紿其眾曰<pc>：</pc>
-<pc>“</pc>爾若迫我<pc>，</pc>我即自焚於此矣<pc>。</pc>
-<pc>”</pc>眾惜浮圖<pc>，</pc>乃盟而舍之<pc>。</pc>周廣順<measure quantity="3" unit="years">
+<pc>“</pc>
+<quote>爾若迫我<pc>，</pc>我即自焚於此矣<pc>。</pc>
+</quote>
+<pc>”</pc>眾惜浮圖<pc>，</pc>乃盟而舍之<pc>。</pc>周<date when="953">
+<date notBefore="951" notAfter="953">廣順</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>始以申帥厚為河西節度<pc>。</pc>帥厚初至涼州<pc>，</pc>奏請授吐蕃首領折逋支等官<pc>，</pc>並從之<pc>。</pc>顯德中<pc>，</pc>師厚為其所迫<pc>，</pc>擅還朝<pc>，</pc>坐貶<pc>。</pc>涼州亦不複命帥<pc>。</pc>
+</date>
+<pc>，</pc>始以申帥厚為河西節度<pc>。</pc>帥厚初至涼州<pc>，</pc>奏請授吐蕃首領折逋支等官<pc>，</pc>並從之<pc>。</pc>
+<date notBefore="954" notAfter="960">顯德</date>中<pc>，</pc>師厚為其所迫<pc>，</pc>擅還朝<pc>，</pc>坐貶<pc>。</pc>涼州亦不複命帥<pc>。</pc>
 </p>
 </div>
 <div>
-<p>建隆<measure quantity="2" unit="years">
+<p>
+<date notBefore="960" notAfter="963">建隆</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>靈武<num value="5">五</num>部以橐駝良馬致貢<pc>，</pc>來離等<num value="8">八</num>族酋長越嵬等護送入界<pc>，</pc>敕書獎諭<pc>。</pc>秦州首領尚波於傷殺采造務卒<pc>，</pc>知州高防捕係其黨<measure quantity="47" unit="people">
+<pc>，</pc>靈武<num value="5">五</num>部以橐駝良馬致貢<pc>，</pc>來離等<num value="8">八</num>族酋長越嵬等護送入界<pc>，</pc>敕書獎諭<pc>。</pc>
+<placeName>秦州</placeName>首領尚波於傷殺采造務卒<pc>，</pc>知州高防捕係其黨<measure quantity="47" unit="people">
 <num value="47">四十七</num>人</measure>
-<pc>，</pc>以狀聞<pc>。</pc>上乃以吳廷祚為雄武軍節度代防安輯之<pc>，</pc>令廷祚齎敕書賜尚波於等曰<pc>：</pc>
-<pc>“</pc>朝廷製置邊防<pc>，</pc>撫寧部落<pc>，</pc>務令安集<pc>，</pc>豈有侵漁<pc>？</pc>曩者秦州設置<num value="3">三</num>砦<pc>，</pc>止以采取材木<pc>，</pc>供億京師<pc>，</pc>雖在蕃漢之交<pc>，</pc>不妨牧放之利<pc>。</pc>汝等占據木植<pc>，</pc>傷殺軍人<pc>。</pc>近得高防奏汝等見已拘執<pc>，</pc>聽候進止<pc>。</pc>朕以汝等久輸忠順<pc>，</pc>必悔前非<pc>，</pc>特示懷柔<pc>，</pc>各從寬宥<pc>。</pc>已令吳廷祚往伸安撫及還舊地<pc>。</pc>所宜共體恩旨<pc>，</pc>各歸本族<pc>。</pc>
+<pc>，</pc>以狀聞<pc>。</pc>上乃以<persName>吳廷祚</persName>為雄武軍節度代防安輯之<pc>，</pc>令廷祚齎敕書賜尚波於等曰<pc>：</pc>
+<pc>“</pc>
+<quote>朝廷製置邊防<pc>，</pc>撫寧部落<pc>，</pc>務令安集<pc>，</pc>豈有侵漁<pc>？</pc>曩者<placeName>秦州</placeName>設置<num value="3">三</num>砦<pc>，</pc>止以采取材木<pc>，</pc>供億京師<pc>，</pc>雖在蕃漢之交<pc>，</pc>不妨牧放之利<pc>。</pc>汝等占據木植<pc>，</pc>傷殺軍人<pc>。</pc>近得高防奏汝等見已拘執<pc>，</pc>聽候進止<pc>。</pc>朕以汝等久輸忠順<pc>，</pc>必悔前非<pc>，</pc>特示懷柔<pc>，</pc>各從寬宥<pc>。</pc>已令<persName>吳廷祚</persName>往伸安撫及還舊地<pc>。</pc>所宜共體恩旨<pc>，</pc>各歸本族<pc>。</pc>
+</quote>
 <pc>”</pc>仍以錦袍銀帶賜之<pc>，</pc>尚波於等感悅<pc>。</pc>是年秋<pc>，</pc>乃獻伏羌地<pc>。</pc>
 </p>
 </div>
 <div>
-<p>乾德<measure quantity="4" unit="years">
+<p>
+<date notBefore="963" notAfter="968">乾德</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>知西涼府折逋葛支上言<pc>：</pc>
-<pc>“</pc>有回鶻<num value="200">二百</num>餘人<pc>、</pc>漢僧<num value="60">六十</num>餘人自朔方路來<pc>，</pc>為部落劫略<pc>。</pc>僧雲欲往天竺取經<pc>，</pc>並送達甘州訖<pc>。</pc>
+<pc>“</pc>
+<quote>有回鶻<num value="200">二百</num>餘人<pc>、</pc>漢僧<num value="60">六十</num>餘人自朔方路來<pc>，</pc>為部落劫略<pc>。</pc>僧雲欲往天竺取經<pc>，</pc>並送達<placeName>甘州</placeName>訖<pc>。</pc>
+</quote>
 <pc>”</pc>詔褒答之<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>首領閭逋哥<pc>、</pc>督廷<pc>、</pc>督南<pc>、</pc>割野<pc>、</pc>麻裏<measure quantity="6" unit="people">
-<num value="6">六</num>人</measure>來貢馬<pc>。</pc>開寶<measure quantity="6" unit="years">
+<num value="6">六</num>人</measure>來貢馬<pc>。</pc>
+<date notBefore="968" notAfter="976">開寶</date>
+<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>涼州令步奏官僧吝氈聲<pc>、</pc>逋勝拉蠲<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>求通道於涇州以申朝貢<pc>，</pc>詔涇州令牙將至涼州慰撫之<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
-<pc>，</pc>秦州大石<pc>、</pc>小石族寇土門<pc>，</pc>略居民<pc>，</pc>知州張炳擊走之<pc>。</pc>
+<pc>，</pc>
+<placeName>秦州</placeName>大石<pc>、</pc>小石族寇土門<pc>，</pc>略居民<pc>，</pc>知州張炳擊走之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>太平興國<measure quantity="2" unit="years">
+<p>
+<date notBefore="976" notAfter="984">太平興國</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>秦州安家族寇長山<pc>，</pc>巡檢使韋韜擊走之<pc>。</pc>
+<pc>，</pc>
+<placeName>秦州</placeName>安家族寇長山<pc>，</pc>巡檢使韋韜擊走之<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>秦州諸族數來寇略<num value="3">三</num>陽<pc>、</pc>┒穰<pc>、</pc>弓門等砦<pc>，</pc>監軍巡檢使周承晉<pc>、</pc>任德明<pc>、</pc>耿仁恩等會兵擊敗之<pc>，</pc>斬首數<num value="10">十</num>級<pc>，</pc>腰斬不用命卒<measure quantity="9" unit="people">
+<pc>，</pc>
+<placeName>秦州</placeName>諸族數來寇略<num value="3">三</num>陽<pc>、</pc>┒穰<pc>、</pc>弓門等砦<pc>，</pc>監軍巡檢使周承晉<pc>、</pc>任德明<pc>、</pc>耿仁恩等會兵擊敗之<pc>，</pc>斬首數<num value="10">十</num>級<pc>，</pc>腰斬不用命卒<measure quantity="9" unit="people">
 <num value="9">九</num>人</measure>於境上<pc>。</pc>太宗乃詔曰<pc>：</pc>
-<pc>“</pc>秦州內屬<num value="3">三</num>族等頃慕華風<pc>，</pc>聿求內附<pc>，</pc>俾之安輯<pc>，</pc>鹹遂底寧<pc>。</pc>近聞乘蕃育之資<pc>，</pc>稔寇攘之誌<pc>，</pc>敢忘大惠<pc>，</pc>來撓邊疆<pc>。</pc>豈朕信之未孚<pc>，</pc>而吏撫之不至<pc>？</pc>並蠲釁咎<pc>，</pc>特示威懷<pc>。</pc>今後或更剽剠<pc>，</pc>吏即捕治<pc>，</pc>置之於法<pc>，</pc>不須以聞<pc>。</pc>
+<pc>“</pc>
+<quote>
+<placeName>秦州</placeName>內屬<num value="3">三</num>族等頃慕華風<pc>，</pc>聿求內附<pc>，</pc>俾之安輯<pc>，</pc>鹹遂底寧<pc>。</pc>近聞乘蕃育之資<pc>，</pc>稔寇攘之誌<pc>，</pc>敢忘大惠<pc>，</pc>來撓邊疆<pc>。</pc>豈朕信之未孚<pc>，</pc>而吏撫之不至<pc>？</pc>並蠲釁咎<pc>，</pc>特示威懷<pc>。</pc>今後或更剽剠<pc>，</pc>吏即捕治<pc>，</pc>置之於法<pc>，</pc>不須以聞<pc>。</pc>
+</quote>
 <pc>”</pc>是年<pc>，</pc>又寇<num value="8">八</num>狼砦<pc>，</pc>巡檢劉崇讓擊敗之<pc>，</pc>梟其帥王泥豬首以徇<pc>。</pc>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
-<pc>，</pc>小遇族寇慶州<pc>，</pc>知州慕容德豐擊走之<pc>。</pc>
+<pc>，</pc>小遇族寇<placeName>慶州</placeName>
+<pc>，</pc>知州慕容德豐擊走之<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>諸種以馬來獻<pc>，</pc>太宗召其酋長對於崇政殿<pc>，</pc>厚加慰撫<pc>，</pc>賜以束帛<pc>，</pc>因謂<term>宰相</term>曰<pc>：</pc>
-<pc>“</pc>吐蕃言語不通<pc>，</pc>衣服異製<pc>，</pc>朕常以禽獸畜之<pc>。</pc>自唐室以來<pc>，</pc>頗為邊患<pc>。</pc>以國家兵力雄盛<pc>，</pc>聊舉偏師<pc>，</pc>便可驅逐數<num value="1000">千</num>裏外<pc>。</pc>但念其種類蕃息<pc>，</pc>安土重遷<pc>，</pc>倘因攘除<pc>，</pc>必致殺戮<pc>，</pc>所以置於度外<pc>，</pc>存而勿論也<pc>。</pc>
+<pc>“</pc>
+<quote>吐蕃言語不通<pc>，</pc>衣服異製<pc>，</pc>朕常以禽獸畜之<pc>。</pc>自唐室以來<pc>，</pc>頗為邊患<pc>。</pc>以國家兵力雄盛<pc>，</pc>聊舉偏師<pc>，</pc>便可驅逐數<num value="1000">千</num>裏外<pc>。</pc>但念其種類蕃息<pc>，</pc>安土重遷<pc>，</pc>倘因攘除<pc>，</pc>必致殺戮<pc>，</pc>所以置於度外<pc>，</pc>存而勿論也<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="9" unit="years">
-<num value="9">九</num>年</measure>秋<pc>，</pc>秦州言蕃部以羊馬來獻<pc>，</pc>各已宴犒<pc>，</pc>欲用茶絹答其直<pc>。</pc>詔從之<pc>。</pc>
+<num value="9">九</num>年</measure>秋<pc>，</pc>
+<placeName>秦州</placeName>言蕃部以羊馬來獻<pc>，</pc>各已宴犒<pc>，</pc>欲用茶絹答其直<pc>。</pc>詔從之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>淳化元年<pc>，</pc>秦州大<pc>、</pc>小馬家族獻地內附<pc>。</pc>
+<p>
+<date notBefore="990" notAfter="994">淳化</date>元年<pc>，</pc>
+<placeName>秦州</placeName>大<pc>、</pc>小馬家族獻地內附<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>權知西涼州<pc>、</pc>左廂押蕃落副使折逋阿喻丹來貢<pc>。</pc>先是<pc>，</pc>殿直丁惟清往涼州市馬<pc>，</pc>惟清至而境大豐稔<pc>，</pc>因為其所留<pc>。</pc>靈州命蕃落軍使崔仁遇往迎惟清<pc>。</pc>又吐蕃賣馬還過靈州<pc>，</pc>為黨項所略<pc>，</pc>表訴其事<pc>，</pc>因請留惟清至來年同入朝<pc>。</pc>詔答之<pc>。</pc>
+<pc>，</pc>權知西涼州<pc>、</pc>左廂押蕃落副使折逋阿喻丹來貢<pc>。</pc>先是<pc>，</pc>殿直丁惟清往涼州市馬<pc>，</pc>惟清至而境大豐稔<pc>，</pc>因為其所留<pc>。</pc>
+<placeName>靈州</placeName>命蕃落軍使崔仁遇往迎惟清<pc>。</pc>又吐蕃賣馬還過<placeName>靈州</placeName>
+<pc>，</pc>為黨項所略<pc>，</pc>表訴其事<pc>，</pc>因請留惟清至來年同入朝<pc>。</pc>詔答之<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>阿喻丹死<pc>，</pc>以其弟喻龍波為保順郎將代其任<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>折平族大首領<pc>、</pc>護遠州軍鑄督延巴率<num value="6">六</num>穀諸族馬<num value="1000">千</num>餘匹來貢<pc>。</pc>既辭<pc>，</pc>複撾登聞鼓<pc>，</pc>言儀州<num value="8">八</num>族首領逋波鵄等侵奪地土<pc>。</pc>上降敕書告諭之<pc>。</pc>知秦州溫仲舒上言<pc>，</pc>每歲伐木<pc>，</pc>多為蕃族攘奪<pc>，</pc>今已驅其部落於渭北<pc>。</pc>太宗慮生邊患<pc>，</pc>乃以知鳳翔薛惟吉對易其任<pc>，</pc>語見<pc>《</pc>
+<pc>，</pc>折平族大首領<pc>、</pc>護遠州軍鑄督延巴率<num value="6">六</num>穀諸族馬<num value="1000">千</num>餘匹來貢<pc>。</pc>既辭<pc>，</pc>複撾登聞鼓<pc>，</pc>言儀州<num value="8">八</num>族首領逋波鵄等侵奪地土<pc>。</pc>上降敕書告諭之<pc>。</pc>知<placeName>秦州</placeName>溫仲舒上言<pc>，</pc>每歲伐木<pc>，</pc>多為蕃族攘奪<pc>，</pc>今已驅其部落於渭北<pc>。</pc>太宗慮生邊患<pc>，</pc>乃以知鳳翔薛惟吉對易其任<pc>，</pc>語見<pc>《</pc>
 <title>惟吉傳</title>
 <pc>》</pc>
 <pc>。</pc>是年春<pc>，</pc>知西涼府左廂押蕃落副使折逋喻龍波<pc>、</pc>振武軍都羅族大首領並來貢馬<pc>。</pc>
 </p>
 </div>
 <div>
-<p>至道元年<pc>，</pc>涼州蕃部當尊以良馬來貢<pc>，</pc>引對慰撫<pc>，</pc>加賜當尊虎皮<num value="1">一</num>
+<p>
+<date notBefore="995" notAfter="997">至道</date>元年<pc>，</pc>涼州蕃部當尊以良馬來貢<pc>，</pc>引對慰撫<pc>，</pc>加賜當尊虎皮<num value="1">一</num>
 <pc>，</pc>歡呼致謝<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
-<pc>，</pc>折平族首領握散上言<pc>，</pc>部落為李繼遷所侵<pc>，</pc>願會兵靈州以備討擊<pc>，</pc>賜幣以答之<pc>。</pc>
+<pc>，</pc>折平族首領握散上言<pc>，</pc>部落為<persName>李繼遷</persName>所侵<pc>，</pc>願會兵<placeName>靈州</placeName>以備討擊<pc>，</pc>賜幣以答之<pc>。</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <pc>，</pc>西涼府押蕃落副使折逋喻龍波上言<pc>，</pc>蕃部頻為繼遷侵略<pc>，</pc>乃與吐蕃都部署沒暇拽於會<num value="6">六</num>穀蕃眾來朝<pc>，</pc>且獻名馬<pc>。</pc>上厚賜之<pc>。</pc>是歲<pc>，</pc>涼州複來請帥<pc>，</pc>詔以丁惟清知州事<pc>，</pc>賜以牌印<pc>。</pc>
 </p>
 </div>
 <div>
-<p>鹹平元年<measure quantity="11" unit="months">
+<p>
+<date notBefore="998" notAfter="1003">鹹平</date>元年<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
-<pc>，</pc>河西軍左廂副使<pc>、</pc>歸德將軍折逋遊龍缽來朝<pc>。</pc>遊龍缽<num value="4">四</num>世受朝命為酋<pc>，</pc>雖貢方物<pc>，</pc>未嚐自行<pc>，</pc>今始至<pc>，</pc>獻馬<num value="2000">二千</num>餘匹<pc>。</pc>河西軍即古涼州<pc>，</pc>東至故原州<num value="500">千五百</num>裏<pc>，</pc>南至雪山<pc>、</pc>吐穀渾<pc>、</pc>蘭州界<num value="350">三百五十</num>裏<pc>，</pc>西至甘州同城界<num value="600">六百</num>裏<pc>，</pc>北至部落<num value="300">三百</num>裏<pc>。</pc>周回平川<num value="2000">二千</num>裏<pc>。</pc>舊領姑臧<pc>、</pc>神烏<pc>、</pc>蕃禾<pc>、</pc>昌鬆<pc>、</pc>嘉麟<num value="5">五</num>縣<pc>，</pc>戶<num value="25693">二萬五千六百九十三</num>
+<pc>，</pc>河西軍左廂副使<pc>、</pc>歸德將軍折逋遊龍缽來朝<pc>。</pc>遊龍缽<num value="4">四</num>世受朝命為酋<pc>，</pc>雖貢方物<pc>，</pc>未嚐自行<pc>，</pc>今始至<pc>，</pc>獻馬<num value="2000">二千</num>餘匹<pc>。</pc>河西軍即古涼州<pc>，</pc>東至故<placeName>原州</placeName>
+<num value="500">千五百</num>裏<pc>，</pc>南至雪山<pc>、</pc>吐穀渾<pc>、</pc>蘭州界<num value="350">三百五十</num>裏<pc>，</pc>西至<placeName>甘州</placeName>同城界<num value="600">六百</num>裏<pc>，</pc>北至部落<num value="300">三百</num>裏<pc>。</pc>周回平川<num value="2000">二千</num>裏<pc>。</pc>舊領姑臧<pc>、</pc>神烏<pc>、</pc>蕃禾<pc>、</pc>昌鬆<pc>、</pc>嘉麟<num value="5">五</num>縣<pc>，</pc>戶<num value="25693">二萬五千六百九十三</num>
 <pc>，</pc>口<num value="128193">十二萬八千一百九十三</num>
 <pc>。</pc>今有漢民<num value="300">三百</num>戶<pc>。</pc>城周回<num value="15">十五</num>裏<pc>，</pc>如鳳形<pc>，</pc>相傳李軌舊治也<pc>。</pc>皆龍缽自述雲<pc>。</pc>詔以龍缽為安遠大將軍<pc>。</pc>
 </p>
@@ -157,15 +204,22 @@
 <pc>，</pc>知鎮戎軍李繼和言<pc>，</pc>西涼府<num value="6">六</num>穀都首領潘羅支願戮力討繼遷<pc>，</pc>請授以<term>刺史</term>
 <pc>，</pc>仍給廩祿<pc>。</pc>經略使張齊賢又請封<num value="6">六</num>穀王兼招討使<pc>。</pc>上以問<term>宰相</term>
 <pc>，</pc>皆曰<pc>：</pc>
-<pc>“</pc>羅支已為酋帥<pc>，</pc>授<term>刺史</term>太輕<pc>；</pc>未領節製<pc>，</pc>加王爵非順<pc>；</pc>招討使號不可假外夷<pc>。</pc>
-<pc>”</pc>乃以為鹽州防禦使兼靈州西麵都巡檢使<pc>。</pc>時西涼使來<pc>，</pc>且言<num value="6">六</num>穀分左右廂<pc>，</pc>左廂副使折逋遊龍缽實參羅支戎事<pc>。</pc>朝廷方務綏懷<pc>，</pc>又以龍缽領宥州<term>刺史</term>
+<pc>“</pc>
+<quote>羅支已為酋帥<pc>，</pc>授<term>刺史</term>太輕<pc>；</pc>未領節製<pc>，</pc>加王爵非順<pc>；</pc>招討使號不可假外夷<pc>。</pc>
+</quote>
+<pc>”</pc>乃以為鹽州<term>防禦使</term>兼<placeName>靈州</placeName>西麵<term>都巡檢使</term>
+<pc>。</pc>時西涼使來<pc>，</pc>且言<num value="6">六</num>穀分左右廂<pc>，</pc>左廂副使折逋遊龍缽實參羅支戎事<pc>。</pc>朝廷方務綏懷<pc>，</pc>又以龍缽領宥州<term>刺史</term>
 <pc>，</pc>
 <num value="6">六</num>族首領褚下箕等<measure quantity="3" unit="people">
-<num value="3">三</num>人</measure>為懷化將軍<pc>。</pc>其年<pc>，</pc>潘羅支遣部下李<num value="10000">萬</num>山率兵討賊<pc>，</pc>貽書繼和請師期<pc>。</pc>先是<pc>，</pc>遣宋沆<pc>、</pc>梅詢等為安撫使<pc>、</pc>副<pc>，</pc>未行<pc>，</pc>上謂<term>宰相</term>曰<pc>：</pc>
-<pc>“</pc>朕看<pc>《</pc>
+<num value="3">三</num>人</measure>為懷化將軍<pc>。</pc>其年<pc>，</pc>潘羅支遣部下李<num value="10000">萬</num>山率兵討賊<pc>，</pc>貽書繼和請師期<pc>。</pc>先是<pc>，</pc>遣宋沆<pc>、</pc>梅詢等為<term>安撫使</term>
+<pc>、</pc>副<pc>，</pc>未行<pc>，</pc>上謂<term>宰相</term>曰<pc>：</pc>
+<pc>“</pc>
+<quote>朕看<pc>《</pc>
 <title>盟會圖</title>
 <pc>》</pc>
-<pc>，</pc>頗記吐蕃反覆狼子野心之事<pc>。</pc>今已議王超等領甲馬援靈州<pc>，</pc>若難為追襲<pc>，</pc>即靈州便可製置<pc>，</pc>沆等不須遣<pc>，</pc>止走<num value="1">一</num>使以會兵告之<pc>。</pc>
+<pc>，</pc>頗記吐蕃反覆狼子野心之事<pc>。</pc>今已議王超等領甲馬援<placeName>靈州</placeName>
+<pc>，</pc>若難為追襲<pc>，</pc>即<placeName>靈州</placeName>便可製置<pc>，</pc>沆等不須遣<pc>，</pc>止走<num value="1">一</num>使以會兵告之<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -186,15 +240,22 @@
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>又遣咩逋族蕃官成逋馳騎至鎮戎軍<pc>，</pc>請會兵討賊<pc>。</pc>邊臣疑成逋詐<pc>，</pc>護送部署司<pc>，</pc>成逋懼<pc>，</pc>逸馬墜崖死<pc>。</pc>上聞<pc>，</pc>甚歎息之<pc>，</pc>曰<pc>：</pc>
-<pc>“</pc>此泥埋之子<pc>，</pc>族人畏其勇<pc>，</pc>父子皆有戰功<pc>，</pc>凡再詣闕<pc>，</pc>朕皆召見<pc>，</pc>獎其向化<pc>。</pc>
-<pc>”</pc>詔劾鎮戎官吏<pc>，</pc>仍令渭州以禮葬之<pc>。</pc>其年<pc>，</pc>原<pc>、</pc>渭蕃部<num value="32">三十二</num>族納質來歸<pc>。</pc>羅支又遣蕃官吳福聖臘來貢<pc>，</pc>表言感朝廷恩信<pc>，</pc>憤繼遷倔強<pc>，</pc>已集騎兵<num value="60000">六萬</num>
-<pc>，</pc>乞會王師收複靈州<pc>。</pc>乃以羅支為朔方軍節度<pc>、</pc>靈州西麵都巡檢使<pc>，</pc>賜以鎧甲器幣<pc>。</pc>又以吳福聖臘為安遠將軍<pc>，</pc>次首領兀佐等<measure quantity="7" unit="people">
-<num value="7">七</num>人</measure>為懷化將軍<pc>。</pc>羅支屢請王師助擊賊<pc>，</pc>議者以西涼去渭州限河路遠<pc>，</pc>不可預約師期<pc>。</pc>上曰<pc>：</pc>
-<pc>“</pc>繼遷常在地斤<num value="3">三</num>山之東<pc>，</pc>每來寇邊<pc>，</pc>及官軍出<pc>，</pc>則已遁去<pc>。</pc>使<num value="6">六</num>穀部族近塞捍禦<pc>，</pc>與官軍合勢<pc>，</pc>亦國家之利<pc>。</pc>
+<pc>“</pc>
+<quote>此泥埋之子<pc>，</pc>族人畏其勇<pc>，</pc>父子皆有戰功<pc>，</pc>凡再詣闕<pc>，</pc>朕皆召見<pc>，</pc>獎其向化<pc>。</pc>
+</quote>
+<pc>”</pc>詔劾鎮戎官吏<pc>，</pc>仍令<placeName>渭州</placeName>以禮葬之<pc>。</pc>其年<pc>，</pc>原<pc>、</pc>渭蕃部<num value="32">三十二</num>族納質來歸<pc>。</pc>羅支又遣蕃官吳福聖臘來貢<pc>，</pc>表言感朝廷恩信<pc>，</pc>憤繼遷倔強<pc>，</pc>已集騎兵<num value="60000">六萬</num>
+<pc>，</pc>乞會王師收複<placeName>靈州</placeName>
+<pc>。</pc>乃以羅支為朔方軍節度<pc>、</pc>
+<placeName>靈州</placeName>西麵<term>都巡檢使</term>
+<pc>，</pc>賜以鎧甲器幣<pc>。</pc>又以吳福聖臘為安遠將軍<pc>，</pc>次首領兀佐等<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>為懷化將軍<pc>。</pc>羅支屢請王師助擊賊<pc>，</pc>議者以西涼去<placeName>渭州</placeName>限河路遠<pc>，</pc>不可預約師期<pc>。</pc>上曰<pc>：</pc>
+<pc>“</pc>
+<quote>繼遷常在地斤<num value="3">三</num>山之東<pc>，</pc>每來寇邊<pc>，</pc>及官軍出<pc>，</pc>則已遁去<pc>。</pc>使<num value="6">六</num>穀部族近塞捍禦<pc>，</pc>與官軍合勢<pc>，</pc>亦國家之利<pc>。</pc>
+</quote>
 <pc>”</pc>降詔許之<pc>。</pc>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
-<pc>，</pc>知渭州曹瑋言隴山西延家族首領禿逋等納馬立誓<pc>，</pc>乞隨王師討賊<pc>，</pc>以漢法治蕃部<pc>，</pc>且稱其忠<pc>。</pc>詔授本族軍主<pc>。</pc>
+<pc>，</pc>知<placeName>渭州</placeName>曹瑋言隴山西延家族首領禿逋等納馬立誓<pc>，</pc>乞隨王師討賊<pc>，</pc>以漢法治蕃部<pc>，</pc>且稱其忠<pc>。</pc>詔授本族軍主<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>者龍族首領來貢名馬<pc>，</pc>上嘉其嚐與潘羅支協力抗賊<pc>，</pc>令複優待之<pc>。</pc>其年<measure quantity="11" unit="months">
@@ -203,7 +264,8 @@
 </p>
 </div>
 <div>
-<p>景德元年<measure quantity="2" unit="months">
+<p>
+<date notBefore="1004" notAfter="1007">景德</date>元年<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <pc>，</pc>遣其甥廝陀完來獻捷<pc>。</pc>
 <measure quantity="6" unit="months">
@@ -214,18 +276,22 @@
 <div>
 <p>者龍凡<num value="13">十三</num>族<pc>，</pc>而<num value="6">六</num>族附迷般囑及日逋吉羅丹<pc>。</pc>西涼府既聞羅支遇害<pc>，</pc>乃率龕穀<pc>、</pc>蘭州<pc>、</pc>宗哥<pc>、</pc>覓諾諸族攻者龍<num value="6">六</num>族<pc>，</pc>
 <num value="6">六</num>族悉竄山穀中<pc>，</pc>詔使者安集之<pc>。</pc>
-<num value="6">六</num>穀諸豪乃議立羅支弟廝鐸督為首領<pc>。</pc>且言鐸督剛決平恕<pc>，</pc>每會戎首<pc>，</pc>設觴豆飲食必先卑者<pc>，</pc>犯令雖至親不貸<pc>，</pc>數更戰討<pc>，</pc>威名甚著<pc>。</pc>詔授鐸督鹽州防禦使<pc>、</pc>靈州西麵沿邊都大巡檢使<pc>。</pc>上以遷黨未平<pc>，</pc>藉其腹背攻製<pc>，</pc>遂加鐸督朔方軍節度<pc>、</pc>押蕃落等使<pc>、</pc>西涼府<num value="6">六</num>穀大首領<pc>。</pc>
+<num value="6">六</num>穀諸豪乃議立羅支弟廝鐸督為首領<pc>。</pc>且言鐸督剛決平恕<pc>，</pc>每會戎首<pc>，</pc>設觴豆飲食必先卑者<pc>，</pc>犯令雖至親不貸<pc>，</pc>數更戰討<pc>，</pc>威名甚著<pc>。</pc>詔授鐸督鹽州<term>防禦使</term>
+<pc>、</pc>
+<placeName>靈州</placeName>西麵沿邊都大巡檢使<pc>。</pc>上以遷黨未平<pc>，</pc>藉其腹背攻製<pc>，</pc>遂加鐸督朔方軍節度<pc>、</pc>押蕃落等使<pc>、</pc>西涼府<num value="6">六</num>穀大首領<pc>。</pc>
 </p>
 </div>
 <div>
-<p>涇原路言隴山縣王<pc>、</pc>狸<pc>、</pc>延<num value="3">三</num>族歸順<pc>。</pc>又渭州言龕穀<pc>、</pc>懶家族首領尊氈磨壁餘龍及便囑等獻名馬<pc>，</pc>願率所部助討不附者<pc>；</pc>又言西涼市馬道出本族<pc>，</pc>自今保無他虞<pc>。</pc>詔賜馬直<pc>，</pc>以便囑等為郎將<pc>。</pc>石<pc>、</pc>隰州又言河西諸蕃<num value="45">四十五</num>族內附<pc>。</pc>其年<pc>，</pc>遷黨寇永寧<pc>，</pc>為藥令族合蘇擊敗之<pc>，</pc>斬首<num value="100">百</num>餘級<pc>。</pc>鎮戎軍上言<pc>，</pc>先叛去蕃官茄羅<pc>、</pc>兀贓<pc>、</pc>成王等<num value="3">三</num>族及&lt;者多&gt;移軍主率屬歸順<pc>，</pc>請獻馬贖罪<pc>，</pc>特詔宥之<pc>。</pc>
+<p>涇原路言隴山縣王<pc>、</pc>狸<pc>、</pc>延<num value="3">三</num>族歸順<pc>。</pc>又<placeName>渭州</placeName>言龕穀<pc>、</pc>懶家族首領尊氈磨壁餘龍及便囑等獻名馬<pc>，</pc>願率所部助討不附者<pc>；</pc>又言西涼市馬道出本族<pc>，</pc>自今保無他虞<pc>。</pc>詔賜馬直<pc>，</pc>以便囑等為郎將<pc>。</pc>石<pc>、</pc>
+<placeName>隰州</placeName>又言河西諸蕃<num value="45">四十五</num>族內附<pc>。</pc>其年<pc>，</pc>遷黨寇永寧<pc>，</pc>為藥令族合蘇擊敗之<pc>，</pc>斬首<num value="100">百</num>餘級<pc>。</pc>鎮戎軍上言<pc>，</pc>先叛去蕃官茄羅<pc>、</pc>兀贓<pc>、</pc>成王等<num value="3">三</num>族及&lt;者多&gt;移軍主率屬歸順<pc>，</pc>請獻馬贖罪<pc>，</pc>特詔宥之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>廝鐸督遣其甥嗬昔來貢<pc>，</pc>仍上與趙德明戰鬥功狀<pc>；</pc>又言蕃帳周斯那支有智勇<pc>，</pc>久參謀議<pc>，</pc>請授以<num value="6">六</num>穀都巡檢使<pc>。</pc>上嘉獎<pc>，</pc>從其請<pc>，</pc>仍賜茶彩<pc>。</pc>又追錄潘羅支子失吉為歸德將軍<pc>，</pc>厚賜器幣<pc>；</pc>者龍<num value="7">七</num>族首領有捍寇之勞<pc>，</pc>並月給<num value="1000">千</num>錢<pc>。</pc>舊製<pc>，</pc>弓矢兵器不入外夷<pc>。</pc>時西涼樣丹族上表求市弓矢<pc>，</pc>上以樣丹宣力西陲<pc>，</pc>委以捍蔽<pc>，</pc>特令渭州給賜<pc>。</pc>因別賜廝鐸督<pc>，</pc>以重恩意<pc>。</pc>
+<pc>，</pc>廝鐸督遣其甥嗬昔來貢<pc>，</pc>仍上與趙德明戰鬥功狀<pc>；</pc>又言蕃帳周斯那支有智勇<pc>，</pc>久參謀議<pc>，</pc>請授以<num value="6">六</num>穀<term>都巡檢使</term>
+<pc>。</pc>上嘉獎<pc>，</pc>從其請<pc>，</pc>仍賜茶彩<pc>。</pc>又追錄潘羅支子失吉為歸德將軍<pc>，</pc>厚賜器幣<pc>；</pc>者龍<num value="7">七</num>族首領有捍寇之勞<pc>，</pc>並月給<num value="1000">千</num>錢<pc>。</pc>舊製<pc>，</pc>弓矢兵器不入外夷<pc>。</pc>時西涼樣丹族上表求市弓矢<pc>，</pc>上以樣丹宣力西陲<pc>，</pc>委以捍蔽<pc>，</pc>特令<placeName>渭州</placeName>給賜<pc>。</pc>因別賜廝鐸督<pc>，</pc>以重恩意<pc>。</pc>
 </p>
 </div>
 <div>
@@ -236,19 +302,23 @@
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <pc>，</pc>鐸督又言部落疾疫<pc>。</pc>詔賜白龍腦<pc>、</pc>犀角<pc>、</pc>硫黃<pc>、</pc>安息香<pc>、</pc>白紫石英等藥<pc>，</pc>凡<num value="76">七十六</num>種<pc>。</pc>使者感悅而去<pc>。</pc>又製加鐸督檢校太傅<pc>，</pc>其族帳李波逋等<measure quantity="49" unit="people">
-<num value="49">四十九</num>人</measure>為檢校太子賓客<pc>，</pc>充本族首領<pc>。</pc>鐸督遣所部波機進賣馬<pc>，</pc>因言積官奉半歲<pc>，</pc>乞就京給賜市所須物<pc>，</pc>從之<pc>。</pc>渭州言妙娥<pc>、</pc>延家<pc>、</pc>熟嵬等族率<num value="3000">三千</num>餘帳<pc>、</pc>
-<num value="7000">萬七千</num>餘口及羊馬數<num value="10000">萬</num>款塞內附<pc>。</pc>詔遣使撫勞之<pc>，</pc>賜以袍帶茶彩<pc>，</pc>仍以折平族首領撒逋渴為順州<term>刺史</term>
+<num value="49">四十九</num>人</measure>為檢校太子賓客<pc>，</pc>充本族首領<pc>。</pc>鐸督遣所部波機進賣馬<pc>，</pc>因言積官奉半歲<pc>，</pc>乞就京給賜市所須物<pc>，</pc>從之<pc>。</pc>
+<placeName>渭州</placeName>言妙娥<pc>、</pc>延家<pc>、</pc>熟嵬等族率<num value="3000">三千</num>餘帳<pc>、</pc>
+<num value="7000">萬七千</num>餘口及羊馬數<num value="10000">萬</num>款塞內附<pc>。</pc>詔遣使撫勞之<pc>，</pc>賜以袍帶茶彩<pc>，</pc>仍以折平族首領撒逋渴為<placeName>順州</placeName>
+<term>刺史</term>
 <pc>，</pc>充本族都軍主<pc>。</pc>是年<pc>，</pc>宗家<pc>、</pc>當宗<pc>、</pc>章迷族來貢<pc>，</pc>移逋<pc>、</pc>攃父族歸附<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>詔釋西麵納質戎人<pc>。</pc>先是<pc>，</pc>諸蕃有鈔劫為惡嚐經和斷者<pc>，</pc>恐異時複叛<pc>，</pc>故收其子弟為質<pc>，</pc>乃有禁錮終身者<pc>。</pc>上憫而縱之<pc>，</pc>族帳感恩<pc>，</pc>皆稽顙自誓不為邊患<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>邊臣言趙德明謀劫西涼<pc>，</pc>襲回鶻<pc>。</pc>上以<num value="6">六</num>穀<pc>、</pc>甘州久推忠順<pc>，</pc>思撫寧之<pc>，</pc>乃遣使諭廝鐸督令援結回鶻為備<pc>，</pc>並賜鐸督茶藥<pc>、</pc>襲衣<pc>、</pc>金帶及部落物有差<pc>。</pc>鐸督奉表謝<pc>。</pc>
+<pc>，</pc>邊臣言趙德明謀劫西涼<pc>，</pc>襲回鶻<pc>。</pc>上以<num value="6">六</num>穀<pc>、</pc>
+<placeName>甘州</placeName>久推忠順<pc>，</pc>思撫寧之<pc>，</pc>乃遣使諭廝鐸督令援結回鶻為備<pc>，</pc>並賜鐸督茶藥<pc>、</pc>襲衣<pc>、</pc>金帶及部落物有差<pc>。</pc>鐸督奉表謝<pc>。</pc>
 </p>
 </div>
 <div>
-<p>大中祥符元年<measure quantity="11" unit="months">
+<p>
+<date notBefore="1008" notAfter="1016">大中祥符</date>元年<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <pc>，</pc>宗哥族大首領溫逋等來貢<pc>。</pc>
 <measure quantity="3" unit="years">
@@ -262,18 +332,22 @@
 <pc>，</pc>又遺其子來貢<pc>。</pc>其年<pc>，</pc>者龍族都首領舍欽波遣使詣闕獻馬<pc>，</pc>求賜印<pc>。</pc>詔從其請<pc>，</pc>仍優齎之<pc>。</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>知秦州張佶置大落門新砦<pc>。</pc>先是<pc>，</pc>佶欲近渭置采木場<pc>，</pc>蕃族聞之<pc>，</pc>即徙帳去<pc>。</pc>佶不能遂撫之<pc>，</pc>戎人輒悔<pc>，</pc>因鄉導鈔劫<pc>，</pc>佶深入掩擊<pc>，</pc>悉敗走<pc>。</pc>至是求和<pc>，</pc>佶不許<pc>。</pc>
+<pc>，</pc>知<placeName>秦州</placeName>張佶置大落門新砦<pc>。</pc>先是<pc>，</pc>佶欲近渭置采木場<pc>，</pc>蕃族聞之<pc>，</pc>即徙帳去<pc>。</pc>佶不能遂撫之<pc>，</pc>戎人輒悔<pc>，</pc>因鄉導鈔劫<pc>，</pc>佶深入掩擊<pc>，</pc>悉敗走<pc>。</pc>至是求和<pc>，</pc>佶不許<pc>。</pc>
 </p>
 </div>
 <div>
 <p>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
-<pc>，</pc>秦州曹瑋言熟戶郭廝敦<pc>、</pc>賞樣丹皆大族<pc>，</pc>樣丹輒作文法謀叛<pc>，</pc>廝敦密以告<pc>，</pc>約半月殺之<pc>，</pc>至是<pc>，</pc>果攜樣丹首來<pc>。</pc>上以廝敦陰害樣丹<pc>，</pc>不欲明加恩獎<pc>，</pc>以疑懼諸族<pc>。</pc>時方議築南使城<pc>，</pc>遂以廝敦獻地為名<pc>，</pc>詔授順州<term>刺史</term>
+<pc>，</pc>
+<placeName>秦州</placeName>曹瑋言熟戶郭廝敦<pc>、</pc>賞樣丹皆大族<pc>，</pc>樣丹輒作文法謀叛<pc>，</pc>廝敦密以告<pc>，</pc>約半月殺之<pc>，</pc>至是<pc>，</pc>果攜樣丹首來<pc>。</pc>上以廝敦陰害樣丹<pc>，</pc>不欲明加恩獎<pc>，</pc>以疑懼諸族<pc>。</pc>時方議築南使城<pc>，</pc>遂以廝敦獻地為名<pc>，</pc>詔授<placeName>順州</placeName>
+<term>刺史</term>
 <pc>。</pc>先是<pc>，</pc>張佶深入蕃境<pc>，</pc>邊事數擾<pc>。</pc>及瑋破魚角蟬<pc>，</pc>戮賞樣丹<num value="2">二</num>酋<pc>，</pc>由是前拒王師者伏匿避罪<pc>，</pc>瑋誘召之<pc>，</pc>許納罰首過<pc>。</pc>既而至者數<measure quantity="1000" unit="people">
 <num value="1000">千</num>人</measure>
 <pc>，</pc>凡納馬<num value="60">六十</num>匹<pc>，</pc>給以匹彩<pc>。</pc>或以少為訴者<pc>，</pc>瑋叱之曰<pc>：</pc>
-<pc>“</pc>是贖罪物<pc>，</pc>汝輩敢希利耶<pc>！</pc>
+<pc>“</pc>
+<quote>是贖罪物<pc>，</pc>汝輩敢希利耶<pc>！</pc>
+</quote>
 <pc>”</pc>戎族聞之<pc>，</pc>皆畏服<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
@@ -282,69 +356,86 @@
 <num value="9">九</num>月</measure>
 <pc>，</pc>瑋又言宗哥唃廝囉<pc>、</pc>羌族馬波叱臘魚角蟬等率馬銜山<pc>、</pc>蘭州<pc>、</pc>龕穀<pc>、</pc>氈毛山<pc>、</pc>洮河<pc>、</pc>河州羌兵至伏羌砦<num value="3">三</num>都穀<pc>，</pc>即率兵擊敗之<pc>，</pc>逐北<num value="20">二十</num>裏<pc>，</pc>斬馘<num value="1000">千</num>餘級<pc>，</pc>擒<measure quantity="7" unit="people">
 <num value="7">七</num>人</measure>
-<pc>，</pc>獲馬牛<pc>、</pc>雜畜<pc>、</pc>衣服<pc>、</pc>器仗<num value="33000">三萬三千</num>計<pc>。</pc>吹麻城張族都首領張小哥以功授順州<term>刺史</term>
+<pc>，</pc>獲馬牛<pc>、</pc>雜畜<pc>、</pc>衣服<pc>、</pc>器仗<num value="33000">三萬三千</num>計<pc>。</pc>吹麻城張族都首領張小哥以功授<placeName>順州</placeName>
+<term>刺史</term>
 <pc>。</pc>瑋又言永寧砦隴波<pc>、</pc>他廝麻<num value="2">二</num>族召納質不從命<pc>，</pc>率兵擊之<pc>，</pc>斬首<num value="200">二百</num>級<pc>。</pc>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
-<pc>，</pc>詔給秦州<num value="7">七</num>砦熟戶首領<pc>、</pc>都軍主以下<measure quantity="46" unit="people">
+<pc>，</pc>詔給<placeName>秦州</placeName>
+<num value="7">七</num>砦熟戶首領<pc>、</pc>都軍主以下<measure quantity="46" unit="people">
 <num value="46">百四十六</num>人</measure>告身<pc>。</pc>
 </p>
 </div>
 <div>
-<p>天禧元年<pc>，</pc>詔以冶坊砦都首領郭廝敦為本族巡檢<pc>，</pc>賦以奉祿<pc>。</pc>又補大馬家族阿廝鐸為本族軍主<pc>。</pc>
+<p>
+<date notBefore="1017" notAfter="1021">天禧</date>元年<pc>，</pc>詔以冶坊砦都首領郭廝敦為本族巡檢<pc>，</pc>賦以奉祿<pc>。</pc>又補大馬家族阿廝鐸為本族軍主<pc>。</pc>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
-<pc>，</pc>秦州部署言鬼留家族累歲違命<pc>，</pc>討平之<pc>。</pc>
+<pc>，</pc>
+<placeName>秦州</placeName>部署言鬼留家族累歲違命<pc>，</pc>討平之<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>又言吹麻城及河州諸族皆破宗哥文法來附<pc>。</pc>唃廝囉少衰<pc>，</pc>數為囉瞎力骨所困<pc>，</pc>今還舊地<pc>。</pc>諸砦羌族及空俞<pc>、</pc>廝雞波等納質者凡<num value="756">七百五十六</num>帳<pc>。</pc>
 </p>
 </div>
 <div>
-<p>唃廝囉者<pc>，</pc>緒出讚普之後<pc>，</pc>本名欺南陵溫逋<pc>。</pc>篯逋猶讚普也<pc>，</pc>羌語訛為篯逋<pc>。</pc>生高昌磨榆國<pc>，</pc>既<measure quantity="12" unit="years">
-<num value="12">十二</num>歲</measure>
-<pc>，</pc>河州羌何郎業賢客高昌<pc>，</pc>見廝囉貌奇偉<pc>，</pc>挈以歸<pc>，</pc>置貢刂心城<pc>，</pc>而大姓聳昌廝均又以廝囉居移公城<pc>，</pc>欲於河州立文法<pc>。</pc>河州人謂佛<pc>“</pc>唃<pc>”</pc>
-<pc>，</pc>謂兒子<pc>“</pc>廝囉<pc>”</pc>
+<p>唃廝囉者<pc>，</pc>緒出讚普之後<pc>，</pc>本名欺南陵溫逋<pc>。</pc>篯逋猶讚普也<pc>，</pc>羌語訛為篯逋<pc>。</pc>生高昌磨榆國<pc>，</pc>既<num value="12">十二</num>歲<pc>，</pc>河州羌何郎業賢客高昌<pc>，</pc>見廝囉貌奇偉<pc>，</pc>挈以歸<pc>，</pc>置貢刂心城<pc>，</pc>而大姓聳昌廝均又以廝囉居移公城<pc>，</pc>欲於河州立文法<pc>。</pc>河州人謂佛<pc>“</pc>
+<quote>唃</quote>
+<pc>”</pc>
+<pc>，</pc>謂兒子<pc>“</pc>
+<quote>廝囉</quote>
+<pc>”</pc>
 <pc>，</pc>自此名唃廝囉<pc>。</pc>於是宗哥僧李立遵<pc>、</pc>邈川大酋溫逋奇略取廝囉如廓州<pc>，</pc>尊立之<pc>。</pc>部族浸強<pc>，</pc>乃徙居宗哥城<pc>，</pc>立遵為論逋佐之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>立遵或曰李遵<pc>，</pc>或曰李立遵<pc>，</pc>又曰郢成藺逋叱<pc>。</pc>論逋者<pc>，</pc>相也<pc>。</pc>立遵念貪<pc>，</pc>且喜殺戮<pc>，</pc>國人不附<pc>，</pc>既與曹瑋戰<num value="3">三</num>都穀不勝<pc>，</pc>又襲西涼為所敗<pc>。</pc>廝囉遂與立遵不協<pc>，</pc>更徙邈川<pc>，</pc>以溫逋奇為論逋<pc>，</pc>有勝兵<num value="420000">六七萬</num>
-<pc>，</pc>與趙德明抗<pc>，</pc>希望朝廷恩命<pc>。</pc>知秦州張佶奏請拒絕<pc>。</pc>涇原鈐轄曹瑋上言<pc>，</pc>宜厚唃廝囉以扼德明<pc>。</pc>而立遵屢表求讚普號<pc>，</pc>朝議以讚普戎王也<pc>，</pc>立遵居廝囉下<pc>，</pc>不應妄予<pc>，</pc>乃用廝鐸督恩例<pc>，</pc>授立遵保順軍<term>節度使</term>
+<pc>，</pc>與趙德明抗<pc>，</pc>希望朝廷恩命<pc>。</pc>知<placeName>秦州</placeName>張佶奏請拒絕<pc>。</pc>涇原<term>鈐轄</term>曹瑋上言<pc>，</pc>宜厚唃廝囉以扼德明<pc>。</pc>而立遵屢表求讚普號<pc>，</pc>朝議以讚普戎王也<pc>，</pc>立遵居廝囉下<pc>，</pc>不應妄予<pc>，</pc>乃用廝鐸督恩例<pc>，</pc>授立遵保順軍<term>節度使</term>
 <pc>，</pc>賜襲衣<pc>、</pc>金帶<pc>、</pc>器幣<pc>、</pc>鞍馬<pc>、</pc>鎧甲等<pc>。</pc>
 </p>
 </div>
 <div>
-<p>大中祥符<measure quantity="8" unit="years">
+<p>
+<date notBefore="1008" notAfter="1016">大中祥符</date>
+<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>廝囉遺使來貢<pc>。</pc>詔賜錦袍<pc>、</pc>金帶<pc>、</pc>器幣<pc>、</pc>供帳什物<pc>、</pc>茶藥有差<pc>，</pc>凡中金<num value="7000">七千</num>兩<pc>，</pc>他物稱是<pc>。</pc>其年<pc>，</pc>廝囉立文法<pc>，</pc>聚眾數<num value="100000">十萬</num>
-<pc>，</pc>請討平夏以自效<pc>。</pc>上以戎人多詐<pc>，</pc>或生他變<pc>，</pc>命周文質監涇原軍<pc>，</pc>曹瑋知秦州兼兩路沿邊安撫使以備之<pc>。</pc>宗哥城東南至永寧<num value="915">九百一十五</num>裏<pc>，</pc>東北至西涼府<num value="500">五百</num>裏<pc>，</pc>西北至甘州<num value="500">五百</num>裏<pc>，</pc>東至蘭州<num value="300">三百</num>裏<pc>，</pc>南至河州<num value="415">四百一十五</num>裏<pc>。</pc>又東至龕穀<num value="550">五百五十</num>裏<pc>，</pc>又西南至青海<num value="400">四百</num>裏<pc>，</pc>又東至新渭州<num value="890">千八百九十</num>裏<pc>。</pc>
+<pc>，</pc>請討平夏以自效<pc>。</pc>上以戎人多詐<pc>，</pc>或生他變<pc>，</pc>命周文質監涇原軍<pc>，</pc>曹瑋知<placeName>秦州</placeName>兼兩路沿邊<term>安撫使</term>以備之<pc>。</pc>宗哥城東南至永寧<num value="915">九百一十五</num>裏<pc>，</pc>東北至西涼府<num value="500">五百</num>裏<pc>，</pc>西北至<placeName>甘州</placeName>
+<num value="500">五百</num>裏<pc>，</pc>東至蘭州<num value="300">三百</num>裏<pc>，</pc>南至河州<num value="415">四百一十五</num>裏<pc>。</pc>又東至龕穀<num value="550">五百五十</num>裏<pc>，</pc>又西南至青海<num value="400">四百</num>裏<pc>，</pc>又東至新<placeName>渭州</placeName>
+<num value="890">千八百九十</num>裏<pc>。</pc>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<pc>，</pc>廝囉<pc>、</pc>立遵等獻馬<num value="582">五百八十二</num>匹<pc>。</pc>詔賜器幣總<num value="2000">萬二千</num>計以答之<pc>。</pc>數使人至秦州求內屬<pc>。</pc>
+<pc>，</pc>廝囉<pc>、</pc>立遵等獻馬<num value="582">五百八十二</num>匹<pc>。</pc>詔賜器幣總<num value="2000">萬二千</num>計以答之<pc>。</pc>數使人至<placeName>秦州</placeName>求內屬<pc>。</pc>
 </p>
 </div>
 <div>
-<p>明道初<pc>，</pc>即授廝囉寧遠大將軍<pc>、</pc>愛州團練使<pc>，</pc>授逋奇歸化將軍<pc>。</pc>已而逋奇為亂<pc>，</pc>囚廝囉置阱中<pc>，</pc>出收不附己者<pc>，</pc>守阱人間出之<pc>。</pc>廝囉集兵殺逋奇<pc>，</pc>徙居青唐<pc>。</pc>
+<p>明道初<pc>，</pc>即授廝囉寧遠大將軍<pc>、</pc>愛州<term>團練使</term>
+<pc>，</pc>授逋奇歸化將軍<pc>。</pc>已而逋奇為亂<pc>，</pc>囚廝囉置阱中<pc>，</pc>出收不附己者<pc>，</pc>守阱人間出之<pc>。</pc>廝囉集兵殺逋奇<pc>，</pc>徙居青唐<pc>。</pc>
 </p>
 </div>
 <div>
-<p>景祐中<pc>，</pc>以廝囉為保順軍節度觀察留後<pc>，</pc>歲以奉錢令秦州就賜<pc>。</pc>元昊侵略其界<pc>，</pc>兵臨河湟<pc>，</pc>廝囉知眾寡不敵<pc>，</pc>壁鄯州不出<pc>，</pc>陰間元昊<pc>，</pc>頗得其虛實<pc>。</pc>元昊已渡河<pc>，</pc>插幟誌其淺<pc>，</pc>廝囉潛使人移植深處以誤元昊<pc>。</pc>及大戰<pc>，</pc>元昊潰而歸<pc>，</pc>士視幟渡<pc>，</pc>溺死<num value="82">十八九</num>
+<p>
+<date notBefore="1034" notAfter="1038">景祐</date>中<pc>，</pc>以廝囉為保順軍節度觀察留後<pc>，</pc>歲以奉錢令<placeName>秦州</placeName>就賜<pc>。</pc>元昊侵略其界<pc>，</pc>兵臨河湟<pc>，</pc>廝囉知眾寡不敵<pc>，</pc>壁鄯州不出<pc>，</pc>陰間元昊<pc>，</pc>頗得其虛實<pc>。</pc>元昊已渡河<pc>，</pc>插幟誌其淺<pc>，</pc>廝囉潛使人移植深處以誤元昊<pc>。</pc>及大戰<pc>，</pc>元昊潰而歸<pc>，</pc>士視幟渡<pc>，</pc>溺死<num value="82">十八九</num>
 <pc>，</pc>所鹵獲甚眾<pc>。</pc>自是<pc>，</pc>數以奇計破元昊<pc>，</pc>元昊遂不敢窺其境<pc>。</pc>及元昊取西涼府<pc>，</pc>潘羅支舊部往往歸廝囉<pc>，</pc>又得回紇種人數<num value="10000">萬</num>
 <pc>。</pc>廝囉居鄯州<pc>，</pc>西有臨穀城通青海<pc>，</pc>高昌諸國商人皆趨鄯州貿賣<pc>，</pc>以故富強<pc>。</pc>
 </p>
 </div>
 <div>
-<p>寶元元年<pc>，</pc>加保順軍<term>節度使</term>
+<p>
+<date notBefore="1038" notAfter="1040">寶元</date>元年<pc>，</pc>加保順軍<term>節度使</term>
 <pc>，</pc>仍兼邈川大首領<pc>。</pc>時以元昊反<pc>，</pc>遣左侍禁魯經持詔諭廝囉<pc>，</pc>使背擊元昊以披其勢<pc>，</pc>賜帛<num value="20000">二萬</num>匹<pc>。</pc>經還<pc>，</pc>以勞擢閣門祗候<pc>。</pc>廝囉奉詔出兵向西涼<pc>，</pc>西涼有備<pc>，</pc>廝囉知不可攻<pc>，</pc>捕殺遊邏數<measure quantity="10" unit="people">
-<num value="10">十</num>人</measure>亟還<pc>，</pc>聲言圖再舉<pc>。</pc>元昊既屢寇邊<pc>，</pc>仁宗召對魯經<pc>，</pc>欲再遣<pc>，</pc>經固辭<pc>，</pc>貶經為左班殿直<pc>。</pc>募敢使者<pc>，</pc>屯田員外郎劉渙應詔<pc>。</pc>渙至<pc>，</pc>斯囉迎導供帳甚厚<pc>，</pc>介騎士為先驅<pc>，</pc>引渙至庭<pc>。</pc>廝囉冠紫羅氈冠<pc>，</pc>服金線花袍<pc>、</pc>黃金帶<pc>、</pc>絲履<pc>，</pc>平揖不拜<pc>，</pc>延坐勞問<pc>，</pc>稱<pc>“</pc>阿舅天子安否<pc>”</pc>
+<num value="10">十</num>人</measure>亟還<pc>，</pc>聲言圖再舉<pc>。</pc>元昊既屢寇邊<pc>，</pc>仁宗召對魯經<pc>，</pc>欲再遣<pc>，</pc>經固辭<pc>，</pc>貶經為左班殿直<pc>。</pc>募敢使者<pc>，</pc>屯田<term>員外郎</term>劉渙應詔<pc>。</pc>渙至<pc>，</pc>斯囉迎導供帳甚厚<pc>，</pc>介騎士為先驅<pc>，</pc>引渙至庭<pc>。</pc>廝囉冠紫羅氈冠<pc>，</pc>服金線花袍<pc>、</pc>黃金帶<pc>、</pc>絲履<pc>，</pc>平揖不拜<pc>，</pc>延坐勞問<pc>，</pc>稱<pc>“</pc>
+<quote>阿舅天子安否</quote>
+<pc>”</pc>
 <pc>。</pc>道舊事則數<num value="12">十二</num>辰屬<pc>，</pc>曰兔年如此<pc>，</pc>馬年如此<pc>。</pc>渙傳詔<pc>，</pc>已而廝囉召酋豪大犒<pc>，</pc>約盡力無負<pc>，</pc>然終不能有大功<pc>。</pc>後累加恩兼保順河西<term>節度使</term>
 <pc>、</pc>洮涼兩州<term>刺史</term>
 <pc>，</pc>又加階勳檢校官<pc>、</pc>功臣<pc>、</pc>食邑<pc>，</pc>賜器幣鞍勒馬<pc>。</pc>
 </p>
 </div>
 <div>
-<p>嘉祐<measure quantity="3" unit="years">
+<p>
+<date notBefore="1056" notAfter="1063">嘉祐</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>摖羅部阿作等叛廝囉歸諒詐<pc>，</pc>諒祚乘此引兵攻掠境上<pc>，</pc>廝囉與戰敗之<pc>，</pc>獲酋豪<measure quantity="6" unit="people">
 <num value="6">六</num>人</measure>
@@ -352,35 +443,49 @@
 </p>
 </div>
 <div>
-<p>治平<measure quantity="2" unit="years">
+<p>
+<date notBefore="1064" notAfter="1067">治平</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>夏<pc>，</pc>羌邈奔及阿叔溪心以隴<pc>、</pc>珠<pc>、</pc>阿諾<num value="3">三</num>城叛諒祚歸廝囉<pc>，</pc>廝囉不禮<pc>，</pc>乃複歸諒祚<pc>，</pc>請兵還取所獻地<pc>，</pc>諒祚不之罪<pc>，</pc>為出<num value="10000">萬</num>餘騎隨邈奔<pc>、</pc>溪心往取<pc>，</pc>不能克<pc>，</pc>但取邈川歸丁家<num value="500">五百</num>餘帳而還<pc>。</pc>廝囉其年冬死<pc>，</pc>年<num value="69">六十九</num>
 <pc>，</pc>第<num value="3">三</num>子董氈嗣<pc>。</pc>
 </p>
 </div>
 <div>
-<p>董氈母<name key="null" type="maternal">
-<persName>曰喬</persName>
-</name>氏<pc>，</pc>廝囉<num value="3">三</num>妻<pc>。</pc>喬氏有色<pc>，</pc>居曆精城<pc>，</pc>所部可<measure quantity="420000" unit="people">
+<p>董氈母<persName>曰喬</persName>氏<pc>，</pc>廝囉<num value="3">三</num>妻<pc>。</pc>喬氏有色<pc>，</pc>居曆精城<pc>，</pc>所部可<measure quantity="420000" unit="people">
 <num value="420000">六七萬</num>人</measure>
 <pc>，</pc>號令明<pc>，</pc>人憚服之<pc>。</pc>方董氈少時<pc>，</pc>擇酋長子年與董氈相若者與之遊<pc>，</pc>衣服飲食如<num value="1">一</num>
-<pc>，</pc>以此能附其眾<pc>。</pc>董氈自<measure quantity="9" unit="years">
-<num value="9">九</num>歲</measure>廝囉為請於朝<pc>，</pc>命為會州<term>刺史</term>
-<pc>，</pc>而喬氏封太原郡君<pc>。</pc>其<num value="2">二</num>妻皆李立遵女也<pc>，</pc>生瞎氈及磨氈角<pc>。</pc>立遵死<pc>，</pc>李氏寵衰<pc>，</pc>斥為尼<pc>，</pc>置廓州<pc>，</pc>錮其子瞎氈<pc>。</pc>磨氈角結母黨李巴全竊載其母奔宗哥<pc>，</pc>廝囉不能製<pc>，</pc>磨氈角因撫有其眾<pc>。</pc>李氏以寶元<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>恩賜紫衣<pc>。</pc>磨氈角亦累奉貢<pc>，</pc>初補嚴州團練使<pc>，</pc>後以思州團練使卒<pc>。</pc>所部立其子瞎撒欺丁<pc>，</pc>李氏懼孤弱不能守<pc>，</pc>乃獻皮帛<pc>、</pc>入庫廩文籍於廝囉<pc>，</pc>廝囉因受之<pc>。</pc>嘉祐<measure quantity="3" unit="years">
+<pc>，</pc>以此能附其眾<pc>。</pc>董氈自<num value="9">九</num>歲廝囉為請於朝<pc>，</pc>命為會州<term>刺史</term>
+<pc>，</pc>而喬氏封太原郡君<pc>。</pc>其<num value="2">二</num>妻皆李立遵女也<pc>，</pc>生瞎氈及磨氈角<pc>。</pc>立遵死<pc>，</pc>李氏寵衰<pc>，</pc>斥為尼<pc>，</pc>置廓州<pc>，</pc>錮其子瞎氈<pc>。</pc>磨氈角結母黨李巴全竊載其母奔宗哥<pc>，</pc>廝囉不能製<pc>，</pc>磨氈角因撫有其眾<pc>。</pc>李氏以<date notBefore="1038" notAfter="1040">寶元</date>
+<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>恩賜紫衣<pc>。</pc>磨氈角亦累奉貢<pc>，</pc>初補<placeName>嚴州</placeName>
+<term>團練使</term>
+<pc>，</pc>後以<placeName>思州</placeName>
+<term>團練使</term>卒<pc>。</pc>所部立其子瞎撒欺丁<pc>，</pc>李氏懼孤弱不能守<pc>，</pc>乃獻皮帛<pc>、</pc>入庫廩文籍於廝囉<pc>，</pc>廝囉因受之<pc>。</pc>
+<date notBefore="1056" notAfter="1063">嘉祐</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>命欺丁為順州<term>刺史</term>
-<pc>。</pc>瞎氈居龕穀<pc>，</pc>屢通貢<pc>，</pc>授澄州團練使<pc>，</pc>先卒<pc>。</pc>子木征居河州<pc>，</pc>母弟瞎吳叱居銀川<pc>。</pc>
+<pc>，</pc>命欺丁為<placeName>順州</placeName>
+<term>刺史</term>
+<pc>。</pc>瞎氈居龕穀<pc>，</pc>屢通貢<pc>，</pc>授澄州<term>團練使</term>
+<pc>，</pc>先卒<pc>。</pc>子木征居河州<pc>，</pc>母弟瞎吳叱居銀川<pc>。</pc>
 </p>
 </div>
 <div>
-<p>廝囉地既分<pc>，</pc>董氈最強<pc>，</pc>獨有河北之地<pc>，</pc>其國大抵吐蕃遺俗也<pc>。</pc>懷恩惠<pc>，</pc>重財貨<pc>，</pc>無正朔<pc>。</pc>市易用<num value="5">五</num>穀<pc>、</pc>乳香<pc>、</pc>硇砂<pc>、</pc>罽毯<pc>、</pc>馬牛以代錢帛<pc>。</pc>貴虎豹皮<pc>，</pc>用緣飾衣裘<pc>。</pc>婦人衣錦<pc>，</pc>服緋紫青綠<pc>。</pc>尊釋氏<pc>。</pc>不知醫藥<pc>，</pc>疾病召巫覡視之<pc>，</pc>焚柴聲鼓<pc>，</pc>謂之<pc>“</pc>逐鬼<pc>”</pc>
-<pc>。</pc>信咒詛<pc>，</pc>或以決事<pc>，</pc>訟有疑<pc>，</pc>使詛之<pc>。</pc>訟者上辭牘<pc>，</pc>藉之以帛<pc>，</pc>事重則以錦<pc>。</pc>亦有鞭笞杻械諸獄具<pc>。</pc>人喜啖生物<pc>，</pc>無蔬茹醯醬<pc>，</pc>獨知用鹽為滋味<pc>，</pc>而嗜酒及茶<pc>。</pc>居板屋<pc>，</pc>富姓以氈為幕<pc>，</pc>多並水為秋遷戲<pc>。</pc>貢獻謂之<pc>“</pc>般次<pc>”</pc>
-<pc>，</pc>自言不敢有貳則曰<pc>“</pc>心白向漢<pc>”</pc>雲<pc>。</pc>其後<pc>，</pc>河州<pc>、</pc>武勝軍諸族浸驕<pc>，</pc>閉於闐諸<date when="null">國朝</date>貢道<pc>，</pc>擊奪般次<pc>。</pc>詔邊將問罪<pc>。</pc>已而董氈遣使奉貢入謝<pc>，</pc>上慰納焉<pc>。</pc>
+<p>廝囉地既分<pc>，</pc>董氈最強<pc>，</pc>獨有河北之地<pc>，</pc>其國大抵吐蕃遺俗也<pc>。</pc>懷恩惠<pc>，</pc>重財貨<pc>，</pc>無正朔<pc>。</pc>市易用<num value="5">五</num>穀<pc>、</pc>乳香<pc>、</pc>硇砂<pc>、</pc>罽毯<pc>、</pc>馬牛以代錢帛<pc>。</pc>貴虎豹皮<pc>，</pc>用緣飾衣裘<pc>。</pc>婦人衣錦<pc>，</pc>服緋紫青綠<pc>。</pc>尊釋氏<pc>。</pc>不知醫藥<pc>，</pc>疾病召巫覡視之<pc>，</pc>焚柴聲鼓<pc>，</pc>謂之<pc>“</pc>
+<quote>逐鬼</quote>
+<pc>”</pc>
+<pc>。</pc>信咒詛<pc>，</pc>或以決事<pc>，</pc>訟有疑<pc>，</pc>使詛之<pc>。</pc>訟者上辭牘<pc>，</pc>藉之以帛<pc>，</pc>事重則以錦<pc>。</pc>亦有鞭笞杻械諸獄具<pc>。</pc>人喜啖生物<pc>，</pc>無蔬茹醯醬<pc>，</pc>獨知用鹽為滋味<pc>，</pc>而嗜酒及茶<pc>。</pc>居板屋<pc>，</pc>富姓以氈為幕<pc>，</pc>多並水為秋遷戲<pc>。</pc>貢獻謂之<pc>“</pc>
+<quote>般次</quote>
+<pc>”</pc>
+<pc>，</pc>自言不敢有貳則曰<pc>“</pc>
+<quote>心白向漢</quote>
+<pc>”</pc>雲<pc>。</pc>其後<pc>，</pc>河州<pc>、</pc>武勝軍諸族浸驕<pc>，</pc>閉於闐諸<date notBefore="9999" notAfter="9999">國朝</date>貢道<pc>，</pc>擊奪般次<pc>。</pc>詔邊將問罪<pc>。</pc>已而董氈遣使奉貢入謝<pc>，</pc>上慰納焉<pc>。</pc>
 </p>
 </div>
 <div>
 <p>初<pc>，</pc>廝囉死<pc>，</pc>董氈嗣為保順軍<term>節度使</term>
-<pc>、</pc>檢校司空<pc>。</pc>神宗即位<pc>，</pc>加太保<pc>，</pc>進太傅<pc>。</pc>熙寧元年<pc>，</pc>封其母安康郡太君<pc>，</pc>以其子藺逋比為錦州<term>刺史</term>
+<pc>、</pc>檢校司空<pc>。</pc>神宗即位<pc>，</pc>加太保<pc>，</pc>進太傅<pc>。</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>元年<pc>，</pc>封其母安康郡太君<pc>，</pc>以其子藺逋比為錦州<term>刺史</term>
 <pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
@@ -393,14 +498,16 @@
 </p>
 </div>
 <div>
-<p>方鬼章犯境時<pc>，</pc>列帳訥兒溫及祿尊率部族叛附之<pc>。</pc>既來降<pc>，</pc>又陰與董氈通<pc>。</pc>元豐初<pc>，</pc>詔知岷州種諤集酋長斬之<pc>，</pc>以妻女田產賜降將俞龍珂<pc>。</pc>
+<p>方鬼章犯境時<pc>，</pc>列帳訥兒溫及祿尊率部族叛附之<pc>。</pc>既來降<pc>，</pc>又陰與董氈通<pc>。</pc>
+<date notBefore="1078" notAfter="1085">元豐</date>初<pc>，</pc>詔知岷州種諤集酋長斬之<pc>，</pc>以妻女田產賜降將俞龍珂<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>遣景青宜黨令支貢方物<pc>，</pc>以令支為珍州<term>刺史</term>
 <pc>，</pc>賜董氈錢<num value="10000">萬</num>緡<pc>，</pc>銀彩<num value="1000">千</num>計<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>邈川城主溫訥支郢成及叔溪心<pc>、</pc>弟阿令京等款塞<pc>，</pc>以郢成為會州團練使<pc>，</pc>溪心內殿崇班<pc>，</pc>令京西頭供奉官<pc>，</pc>餘族人皆殿直奉職<pc>。</pc>
+<pc>，</pc>邈川城主溫訥支郢成及叔溪心<pc>、</pc>弟阿令京等款塞<pc>，</pc>以郢成為會州<term>團練使</term>
+<pc>，</pc>溪心內殿崇班<pc>，</pc>令京西頭供奉官<pc>，</pc>餘族人皆殿直奉職<pc>。</pc>
 </p>
 </div>
 <div>
@@ -410,7 +517,8 @@
 <pc>，</pc>王師討夏<pc>，</pc>會其兵<pc>。</pc>董氈遣酋長抹征等率<measure quantity="30000" unit="people">
 <num value="30000">三萬</num>人</measure>赴黨龍耳江及隴<pc>、</pc>朱<pc>、</pc>珂諾<pc>，</pc>又集<num value="6">六</num>部兵<num value="120000">十二萬</num>
 <pc>，</pc>約以<measure quantity="8" unit="months">
-<num value="8">八</num>月</measure>分<num value="3">三</num>路與官軍會<pc>。</pc>帝以其協濟軍威<pc>，</pc>事功可紀<pc>，</pc>由常樂郡公進封武威郡王<pc>，</pc>鬼章<pc>、</pc>阿裏骨<pc>、</pc>黨令支皆團練使<pc>，</pc>心牟欽氈<pc>、</pc>阿星<pc>、</pc>李叱臘欽為<term>刺史</term>
+<num value="8">八</num>月</measure>分<num value="3">三</num>路與官軍會<pc>。</pc>帝以其協濟軍威<pc>，</pc>事功可紀<pc>，</pc>由常樂郡公進封武威郡王<pc>，</pc>鬼章<pc>、</pc>阿裏骨<pc>、</pc>黨令支皆<term>團練使</term>
+<pc>，</pc>心牟欽氈<pc>、</pc>阿星<pc>、</pc>李叱臘欽為<term>刺史</term>
 <pc>。</pc>
 </p>
 </div>
@@ -419,34 +527,44 @@
 </p>
 </div>
 <div>
-<p>哲宗立<pc>，</pc>加檢校太尉<pc>。</pc>元祐元年<pc>，</pc>卒<pc>。</pc>藺逋叱已死<pc>，</pc>養子阿裏骨嗣<pc>。</pc>
+<p>哲宗立<pc>，</pc>加檢校太尉<pc>。</pc>
+<date notBefore="1086" notAfter="1094">元祐</date>元年<pc>，</pc>卒<pc>。</pc>藺逋叱已死<pc>，</pc>養子阿裏骨嗣<pc>。</pc>
 </p>
 </div>
 <div>
-<p>阿裏骨<pc>，</pc>本於闐人<pc>。</pc>少從其母給事董氈<pc>，</pc>故養為子<pc>。</pc>元豐蘭州之戰最有功<pc>，</pc>自肅州團練使進防禦使<pc>。</pc>董氈病革<pc>，</pc>召諸酋領至青唐<pc>，</pc>謂曰<pc>：</pc>
-<pc>“</pc>吾<num value="1">一</num>子已死<pc>，</pc>惟阿裏骨母嚐事我<pc>，</pc>我視之如子<pc>。</pc>今將以種落付之<pc>，</pc>何如<pc>？</pc>
+<p>阿裏骨<pc>，</pc>本於闐人<pc>。</pc>少從其母給事董氈<pc>，</pc>故養為子<pc>。</pc>
+<date notBefore="1078" notAfter="1085">元豐</date>蘭州之戰最有功<pc>，</pc>自肅州<term>團練使</term>進<term>防禦使</term>
+<pc>。</pc>董氈病革<pc>，</pc>召諸酋領至青唐<pc>，</pc>謂曰<pc>：</pc>
+<pc>“</pc>
+<quote>吾<num value="1">一</num>子已死<pc>，</pc>惟阿裏骨母嚐事我<pc>，</pc>我視之如子<pc>。</pc>今將以種落付之<pc>，</pc>何如<pc>？</pc>
+</quote>
 <pc>”</pc>諸酋聽命<pc>。</pc>既嗣事<pc>，</pc>遣使修貢<pc>。</pc>
 </p>
 </div>
 <div>
-<p>元祐元年<pc>，</pc>以起複冠軍大將軍<pc>、</pc>檢校司空為河西軍<term>節度使</term>
+<p>
+<date notBefore="1086" notAfter="1094">元祐</date>元年<pc>，</pc>以起複冠軍大將軍<pc>、</pc>檢校司空為河西軍<term>節度使</term>
 <pc>，</pc>封寧塞郡公<pc>。</pc>裏骨頗峻刑殺<pc>，</pc>其下不遑寧<pc>。</pc>詔飭以推廣恩信<pc>，</pc>副朝廷所以封立<pc>、</pc>前人所以付與之意<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>遂逼鬼章使率眾據洮州<pc>。</pc>羌結藥密者使所部怯陵來告<pc>，</pc>裏骨執怯陵<pc>，</pc>結藥密懼<pc>，</pc>攜妻子南歸<pc>。</pc>鬼章又使其子結篯咓齪入寇<pc>，</pc>心牟欽氈<pc>、</pc>溫溪心不肯從<pc>，</pc>詔以<measure quantity="2" unit="people">
-<num value="2">二</num>人</measure>為團練使<pc>。</pc>
+<num value="2">二</num>人</measure>為<term>團練使</term>
+<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>鬼章就擒<pc>，</pc>檻送京師<pc>；</pc>尋赦之<pc>，</pc>授陪戎校尉<pc>，</pc>遣居秦州<pc>，</pc>聽招其子以自贖<pc>。</pc>
+<pc>，</pc>鬼章就擒<pc>，</pc>檻送京師<pc>；</pc>尋赦之<pc>，</pc>授陪戎校尉<pc>，</pc>遣居<placeName>秦州</placeName>
+<pc>，</pc>聽招其子以自贖<pc>。</pc>
 </p>
 </div>
 <div>
-<p>明年<pc>，</pc>裏骨奉表謝罪<pc>。</pc>詔熙河無複出兵<pc>，</pc>許貢奉如故<pc>，</pc>加金紫光祿大夫<pc>、</pc>檢校太保<pc>。</pc>其廓州主魯尊欲焚拆河橋歸漢<pc>，</pc>熙州以聞<pc>。</pc>哲宗以裏骨既通貢<pc>，</pc>不可有納叛之名<pc>，</pc>欲弗納<pc>，</pc>又封其妻溪尊勇丹為安化郡君<pc>，</pc>子邦彪篯為鄯州防禦使<pc>，</pc>弟南納支為西州<term>刺史</term>
+<p>明年<pc>，</pc>裏骨奉表謝罪<pc>。</pc>詔熙河無複出兵<pc>，</pc>許貢奉如故<pc>，</pc>加金紫光祿大夫<pc>、</pc>檢校太保<pc>。</pc>其廓州主魯尊欲焚拆河橋歸漢<pc>，</pc>熙州以聞<pc>。</pc>哲宗以裏骨既通貢<pc>，</pc>不可有納叛之名<pc>，</pc>欲弗納<pc>，</pc>又封其妻溪尊勇丹為安化郡君<pc>，</pc>子邦彪篯為鄯州<term>防禦使</term>
+<pc>，</pc>弟南納支為西州<term>刺史</term>
 <pc>。</pc>鬼章死<pc>，</pc>詔焚付其骨<pc>。</pc>
 </p>
 </div>
 <div>
-<p>紹聖元年<pc>，</pc>以師子來獻<pc>。</pc>帝慮非其土性<pc>，</pc>厚賜而還之<pc>。</pc>
+<p>
+<date notBefore="1094" notAfter="1098">紹聖</date>元年<pc>，</pc>以師子來獻<pc>。</pc>帝慮非其土性<pc>，</pc>厚賜而還之<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>卒<pc>，</pc>年<num value="57">五十七</num>
@@ -454,7 +572,8 @@
 </p>
 </div>
 <div>
-<p>瞎征<pc>，</pc>即邦彪篯也<pc>。</pc>以紹聖<measure quantity="4" unit="years">
+<p>瞎征<pc>，</pc>即邦彪篯也<pc>。</pc>以<date notBefore="1094" notAfter="1098">紹聖</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <measure quantity="1" unit="month">
 <num value="1">
@@ -468,7 +587,9 @@
 </p>
 </div>
 <div>
-<p>元符<measure quantity="2" unit="years">
+<p>
+<date notBefore="1098" notAfter="1100">元符</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
@@ -480,7 +601,8 @@
 <num value="9">九</num>月</measure>
 <pc>，</pc>贍軍至青唐<pc>，</pc>隴拶出降<pc>。</pc>以邈川為湟州<pc>，</pc>青唐為鄯州<pc>。</pc>
 <num value="2">二</num>酋雖降<pc>，</pc>然其種人本無歸漢意<pc>。</pc>議者謂<pc>：</pc>
-<pc>“</pc>今不先修邈川以東城障而遽取青唐<pc>，</pc>非計也<pc>。</pc>以今日觀之<pc>，</pc>有不可守者<num value="4">四</num>
+<pc>“</pc>
+<quote>今不先修邈川以東城障而遽取青唐<pc>，</pc>非計也<pc>。</pc>以今日觀之<pc>，</pc>有不可守者<num value="4">四</num>
 <pc>：</pc>自炳靈寺渡河至青唐<num value="400">四百</num>裏<pc>，</pc>道險地遠<pc>，</pc>緩急聲援不相及<pc>，</pc>
 <num value="1">一</num>也<pc>；</pc>羌若斷橋塞隘<pc>，</pc>我雖有<num value="1000000">百萬</num>之師<pc>，</pc>倉卒不能進<pc>，</pc>
 <num value="2">二</num>也<pc>；</pc>王贍提孤軍以入<pc>，</pc>
@@ -489,6 +611,7 @@
 <num value="1">一</num>月</measure>
 <pc>，</pc>內地無糧可運<pc>，</pc>難以久處<pc>，</pc>
 <num value="4">四</num>也<pc>。</pc>官軍自會州還者皆憔悴<pc>，</pc>衣屨穿決<pc>，</pc>器仗不全<pc>，</pc>羌視之有輕漢心<pc>，</pc>旦夕必叛<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -498,7 +621,8 @@
 <pc>，</pc>欽氈等果與青唐城中人相結<pc>，</pc>謀複奪城<pc>。</pc>山南諸羌亦叛<pc>。</pc>贍遣將破之<pc>，</pc>戮結咓齪及欽氈等<measure quantity="9" unit="people">
 <num value="9">九</num>人</measure>
 <pc>。</pc>青唐圍解而邈川益急<pc>，</pc>夏人<num value="100000">十萬</num>助之<pc>。</pc>總管王湣以死戰固守<pc>，</pc>乃得免<pc>。</pc>贍棄青唐歸<pc>，</pc>巴溫與其子溪賒羅撒據之<pc>。</pc>朝論請並棄邈川<pc>，</pc>且謂董氈無後<pc>，</pc>隴拶乃木征之子<pc>、</pc>唃廝囉嫡曾孫<pc>，</pc>最為親的<pc>。</pc>於是以隴拶為河西軍<term>節度使</term>
-<pc>、</pc>知鄯州<pc>，</pc>封武威郡公<pc>，</pc>充西蕃都護<pc>，</pc>依府州折氏世世承襲<pc>。</pc>尋賜姓名曰趙懷德<pc>；</pc>其弟邦辟勿丁咓曰懷義<pc>，</pc>為廓州團練使<pc>、</pc>同知湟州<pc>；</pc>加瞎征檢校太傅<pc>、</pc>懷遠軍<term>節度使</term>
+<pc>、</pc>知鄯州<pc>，</pc>封武威郡公<pc>，</pc>充西蕃都護<pc>，</pc>依府州折氏世世承襲<pc>。</pc>尋賜姓名曰趙懷德<pc>；</pc>其弟邦辟勿丁咓曰懷義<pc>，</pc>為廓州<term>團練使</term>
+<pc>、</pc>同知湟州<pc>；</pc>加瞎征檢校太傅<pc>、</pc>懷遠軍<term>節度使</term>
 <pc>。</pc>
 </p>
 </div>
@@ -509,8 +633,11 @@
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <pc>，</pc>懷德及所降契丹<pc>、</pc>夏國<pc>、</pc>回鶻公主入見<pc>，</pc>各賜冠服<pc>，</pc>退易之<pc>，</pc>於邇英閣前後立班謝<pc>，</pc>賜食於橫門<pc>。</pc>徽宗命輔臣呼與語<pc>，</pc>問何以招致溪巴溫<pc>，</pc>對曰<pc>：</pc>
-<pc>“</pc>譬如乳牛<pc>，</pc>係其子即母須來<pc>，</pc>係其母即子須來<pc>。</pc>俟至岷州<pc>，</pc>當遣人往諭<pc>，</pc>使之歸漢<pc>。</pc>
-<pc>”</pc>遂與瞎征俱還湟州<pc>。</pc>溪賒羅撒謀襲殺懷德<pc>，</pc>懷德奔河南<pc>。</pc>瞎征不自安<pc>，</pc>求內徙<pc>，</pc>詔居鄧州<pc>。</pc>崇寧元年<pc>，</pc>卒<pc>。</pc>
+<pc>“</pc>
+<quote>譬如乳牛<pc>，</pc>係其子即母須來<pc>，</pc>係其母即子須來<pc>。</pc>俟至岷州<pc>，</pc>當遣人往諭<pc>，</pc>使之歸漢<pc>。</pc>
+</quote>
+<pc>”</pc>遂與瞎征俱還湟州<pc>。</pc>溪賒羅撒謀襲殺懷德<pc>，</pc>懷德奔河南<pc>。</pc>瞎征不自安<pc>，</pc>求內徙<pc>，</pc>詔居<placeName>鄧州</placeName>
+<pc>。</pc>崇寧元年<pc>，</pc>卒<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>王厚複湟<pc>、</pc>鄯<pc>。</pc>懷德至京師<pc>，</pc>拜感德軍<term>節度使</term>
@@ -518,14 +645,23 @@
 </p>
 </div>
 <div>
-<p>趙思忠即瞎氈之子木征也<pc>。</pc>瞎氈死<pc>，</pc>木征不能自立<pc>，</pc>青唐族酋瞎藥雞囉及僧鹿遵迎之居洮州<pc>，</pc>欲立以服洮岷疊宕<pc>、</pc>武勝軍諸羌<pc>。</pc>秦州以其近邊<pc>，</pc>逐之<pc>，</pc>乃還河州<pc>，</pc>後徙安江城<pc>，</pc>董氈欲羈屬之<pc>，</pc>不能有也<pc>。</pc>母弟瞎吳叱<pc>，</pc>別居銀川聶家山<pc>，</pc>至和初<pc>，</pc>補本族副軍主<pc>。</pc>嘉祐中<pc>，</pc>為河州<term>刺史</term>
+<p>趙思忠即瞎氈之子木征也<pc>。</pc>瞎氈死<pc>，</pc>木征不能自立<pc>，</pc>青唐族酋瞎藥雞囉及僧鹿遵迎之居洮州<pc>，</pc>欲立以服洮岷疊宕<pc>、</pc>武勝軍諸羌<pc>。</pc>
+<placeName>秦州</placeName>以其近邊<pc>，</pc>逐之<pc>，</pc>乃還河州<pc>，</pc>後徙安江城<pc>，</pc>董氈欲羈屬之<pc>，</pc>不能有也<pc>。</pc>母弟瞎吳叱<pc>，</pc>別居銀川聶家山<pc>，</pc>至和初<pc>，</pc>補本族副軍主<pc>。</pc>
+<date notBefore="1056" notAfter="1063">嘉祐</date>中<pc>，</pc>為河州<term>刺史</term>
 <pc>。</pc>王韶經略熙河<pc>，</pc>遣僧智緣往說之<pc>，</pc>啖以厚利<pc>，</pc>因隨以兵<pc>；</pc>前後殺其老弱數<num value="1000">千</num>
-<pc>，</pc>焚族帳<num value="10000">萬</num>數<pc>，</pc>得腹心酋領<num value="10">十</num>餘人<pc>，</pc>又禽其妻子<pc>，</pc>皆不殺<pc>。</pc>遂以熙寧<measure quantity="7" unit="years">
+<pc>，</pc>焚族帳<num value="10000">萬</num>數<pc>，</pc>得腹心酋領<num value="10">十</num>餘人<pc>，</pc>又禽其妻子<pc>，</pc>皆不殺<pc>。</pc>遂以<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>舉洮<pc>、</pc>河<measure quantity="2" unit="prefectures">
-<num value="2">二</num>州</measure>來降<pc>，</pc>賜以姓名<pc>，</pc>拜榮州團練使<pc>。</pc>封其母郢成結遂寧郡太夫人<pc>，</pc>妻包氏鹹寧郡君<pc>。</pc>弟董穀賜名繼忠<pc>，</pc>補<num value="6">六</num>宅副使<pc>。</pc>結吳延征賜名濟忠<pc>，</pc>瞎吳叱曰紹忠<pc>，</pc>巴氈角曰醇忠<pc>，</pc>巴氈抹曰存忠<pc>；</pc>長子邦辟勿丁咓曰懷義<pc>，</pc>次蓋咓日秉義<pc>，</pc>皆超拜官<pc>。</pc>以思忠為秦州鈐轄<pc>，</pc>不涖事<pc>，</pc>而乞主熙河羌部<pc>，</pc>經略司以為不可<pc>。</pc>詔以<measure quantity="2" unit="prefectures">
-<num value="2">二</num>州</measure>給地<num value="50">五十</num>頃<pc>。</pc>後遷合州防禦使<pc>，</pc>卒<pc>，</pc>贈鎮洮軍節度觀察留後<pc>。</pc>
+<num value="2">二</num>州</measure>來降<pc>，</pc>賜以姓名<pc>，</pc>拜<placeName>榮州</placeName>
+<term>團練使</term>
+<pc>。</pc>封其母郢成結遂寧郡太夫人<pc>，</pc>妻包氏鹹寧郡君<pc>。</pc>弟董穀賜名繼忠<pc>，</pc>補<num value="6">六</num>宅副使<pc>。</pc>結吳延征賜名濟忠<pc>，</pc>瞎吳叱曰紹忠<pc>，</pc>巴氈角曰醇忠<pc>，</pc>巴氈抹曰存忠<pc>；</pc>長子邦辟勿丁咓曰懷義<pc>，</pc>次蓋咓日秉義<pc>，</pc>皆超拜官<pc>。</pc>以思忠為<placeName>秦州</placeName>
+<term>鈐轄</term>
+<pc>，</pc>不涖事<pc>，</pc>而乞主熙河羌部<pc>，</pc>經略司以為不可<pc>。</pc>詔以<measure quantity="2" unit="prefectures">
+<num value="2">二</num>州</measure>給地<num value="50">五十</num>頃<pc>。</pc>後遷<placeName>合州</placeName>
+<term>防禦使</term>
+<pc>，</pc>卒<pc>，</pc>贈鎮洮軍節度觀察留後<pc>。</pc>
 </p>
 </div>
 </div>

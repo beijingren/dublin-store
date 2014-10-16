@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="139">
 <div>
-<p>
-<name key="null" type="null">◎樂十</name>四<pc>（</pc>樂章<num value="8">八</num>
+<p>◎樂<num value="14">十四</num>
+<pc>（</pc>樂章<num value="8">八</num>
 <pc>）</pc>○恭上皇帝皇太後尊號下冊立皇後冊皇太子皇子冠鄉飲酒聞喜宴鹿鳴宴</p>
 </div>
 <div>
@@ -261,9 +261,7 @@
 </p>
 </div>
 <div>
-<p>慶函<num value="100">百</num>嘉<pc>，</pc>壽躋<num value="8">八</num>荒<pc>。</pc>上皇<measure quantity="10000" unit="years">
-<num value="10000">萬</num>歲</measure>
-<pc>，</pc>俾熾俾昌<pc>。</pc>冊寶詣宮中<pc>，</pc>
+<p>慶函<num value="100">百</num>嘉<pc>，</pc>壽躋<num value="8">八</num>荒<pc>。</pc>上皇<num value="10000">萬</num>歲<pc>，</pc>俾熾俾昌<pc>。</pc>冊寶詣宮中<pc>，</pc>
 <pc>《</pc>
 <title>正安</title>
 <pc>》</pc>晨趨慈幄<pc>，</pc>佳氣鬱蔥<pc>。</pc>受帝之祉<pc>，</pc>配天其崇<pc>。</pc>璧華金精<pc>，</pc>禮敷樂充<pc>。</pc>天子是若<pc>，</pc>歡聲融融<pc>。</pc>
@@ -329,9 +327,7 @@
 </p>
 </div>
 <div>
-<p>上公相儀<pc>，</pc>列辟盡恭<pc>。</pc>拜手慈宸<pc>，</pc>福如華<pc>、</pc>嵩<pc>。</pc>冊寶出門帝闕肅開<pc>，</pc>天階坦履<pc>。</pc>霓旌羽蓋<pc>，</pc>導儀護衛<pc>。</pc>匪誇雕琢<pc>，</pc>匪矜繁麗<pc>。</pc>茲謂盛儀<pc>，</pc>億載<measure quantity="1000" unit="years">
-<num value="1000">千</num>歲</measure>
-<pc>。</pc>
+<p>上公相儀<pc>，</pc>列辟盡恭<pc>。</pc>拜手慈宸<pc>，</pc>福如華<pc>、</pc>嵩<pc>。</pc>冊寶出門帝闕肅開<pc>，</pc>天階坦履<pc>。</pc>霓旌羽蓋<pc>，</pc>導儀護衛<pc>。</pc>匪誇雕琢<pc>，</pc>匪矜繁麗<pc>。</pc>茲謂盛儀<pc>，</pc>億載<num value="1000">千</num>歲<pc>。</pc>
 </p>
 </div>
 <div>
@@ -405,9 +401,7 @@
 <pc>《</pc>
 <title>乾安</title>
 <pc>》</pc>猗歟賢後<pc>，</pc>德本性成<pc>！</pc>承天致順<pc>，</pc>溯日為明<pc>。</pc>作配儷極<pc>，</pc>王化以行<pc>。</pc>
-<num value="10000">萬</num>有<measure quantity="1000" unit="years">
-<num value="1000">千</num>歲</measure>
-<pc>，</pc>奉祀宗祊<pc>。</pc>
+<num value="10000">萬</num>有<num value="1000">千</num>歲<pc>，</pc>奉祀宗祊<pc>。</pc>
 </p>
 </div>
 <div>
@@ -763,8 +757,7 @@
 </div>
 <div>
 <p>端門曉辟<pc>，</pc>瑞氣雲凝<pc>。</pc>有儼良輔<pc>，</pc>踵武造廷<pc>。</pc>肅肅王命<pc>，</pc>是將是承<pc>。</pc>登冊穆清<pc>，</pc>
-<measure quantity="10000" unit="years">
-<num value="10000">萬</num>歲</measure>永膺<pc>。</pc>冊寶出門<pc>，</pc>
+<num value="10000">萬</num>歲永膺<pc>。</pc>冊寶出門<pc>，</pc>
 <pc>《</pc>
 <title>正安</title>
 <pc>》</pc>瑤冊玉寶<pc>，</pc>爛然瑞輝<pc>。</pc>旁翼絳節<pc>，</pc>上承紫微<pc>。</pc>
@@ -840,7 +833,9 @@
 <pc>》</pc>寶坐既興<pc>，</pc>鳳輿戒行<pc>。</pc>奏解嚴辦<pc>，</pc>歸燕邃清<pc>。</pc>問安壽慈<pc>，</pc>奉齍宗祊<pc>。</pc>彌<measure quantity="10000000" unit="years">
 <num value="10000000">千萬</num>年</measure>
 <pc>，</pc>內助聖明<pc>。</pc>嘉定<measure quantity="15" unit="years">
-<num value="15">十五</num>年</measure>皇帝受<pc>“</pc>恭膺天命之寶<pc>”</pc>
+<num value="15">十五</num>年</measure>皇帝受<pc>“</pc>
+<quote>恭膺天命之寶</quote>
+<pc>”</pc>
 <num value="3">三</num>首</p>
 </div>
 <div>
@@ -865,7 +860,8 @@
 </div>
 <div>
 <p>天人協扶<pc>，</pc>
-<num value="1">一</num>統有臨<pc>。</pc>乾坤清夷<pc>，</pc>振古斯今<pc>。</pc>至道元年冊皇太子<num value="2">二</num>首太子出入<pc>，</pc>
+<num value="1">一</num>統有臨<pc>。</pc>乾坤清夷<pc>，</pc>振古斯今<pc>。</pc>
+<date notBefore="995" notAfter="997">至道</date>元年冊皇太子<num value="2">二</num>首太子出入<pc>，</pc>
 <pc>《</pc>
 <title>正安</title>
 <pc>》</pc>主鬯之重<pc>，</pc>允屬賢明<pc>。</pc>承華肇啟<pc>，</pc>上嗣騰英<pc>。</pc>
@@ -882,7 +878,9 @@
 </p>
 </div>
 <div>
-<p>天禧<measure quantity="3" unit="years">
+<p>
+<date notBefore="1017" notAfter="1021">天禧</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>冊皇太子<num value="1">一</num>首太子出入<pc>，</pc>
 <pc>《</pc>
 <title>明安</title>
@@ -1053,7 +1051,8 @@
 </p>
 </div>
 <div>
-<p>淳化鄉飲酒<num value="33">三十三</num>章鹿鳴呦呦<pc>，</pc>命侶與儔<pc>。</pc>宴樂嘉賓<pc>，</pc>既獻且壽<pc>。</pc>獻壽有序<pc>，</pc>休祉無疆<pc>。</pc>展矣君子<pc>，</pc>邦家之光<pc>。</pc>鹿鳴呦呦<pc>，</pc>在彼中林<pc>。</pc>宴樂嘉賓<pc>，</pc>式昭德音<pc>。</pc>
+<p>
+<date notBefore="990" notAfter="994">淳化</date>鄉飲酒<num value="33">三十三</num>章鹿鳴呦呦<pc>，</pc>命侶與儔<pc>。</pc>宴樂嘉賓<pc>，</pc>既獻且壽<pc>。</pc>獻壽有序<pc>，</pc>休祉無疆<pc>。</pc>展矣君子<pc>，</pc>邦家之光<pc>。</pc>鹿鳴呦呦<pc>，</pc>在彼中林<pc>。</pc>宴樂嘉賓<pc>，</pc>式昭德音<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1123,7 +1122,8 @@
 <p>右<pc>《</pc>
 <title>鵲巢</title>
 <pc>》</pc>
-<num value="6">六</num>章<pc>，</pc>章<num value="4">四</num>句<pc>。</pc>大觀聞喜宴<num value="6">六</num>首狀元以下入門<pc>，</pc>
+<num value="6">六</num>章<pc>，</pc>章<num value="4">四</num>句<pc>。</pc>
+<date notBefore="1107" notAfter="1110">大觀</date>聞喜宴<num value="6">六</num>首狀元以下入門<pc>，</pc>
 <pc>《</pc>
 <title>正安</title>
 <pc>》</pc>多士濟濟<pc>，</pc>於彼西雍<pc>。</pc>欽肅威儀<pc>，</pc>亦有斯容<pc>。</pc>

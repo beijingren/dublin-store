@@ -82,7 +82,8 @@
 </quote>
 <pc>」</pc>賜暹良馬<pc>。</pc>暹拜<pc>，</pc>馬驚走<pc>，</pc>歡親擁之<pc>，</pc>授以轡<pc>。</pc>東魏主宴於華林園<pc>，</pc>使歡擇朝廷公直者勸之酒<pc>；</pc>歡降階跪曰<pc>：</pc>
 <pc>「</pc>
-<quote>唯暹<num value="1">一</num>人可勸<pc>，</pc>並請以臣所射賜物<num value="1000">千</num>段賜之<pc>。</pc>
+<quote>唯暹<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>可勸<pc>，</pc>並請以臣所射賜物<num value="1000">千</num>段賜之<pc>。</pc>
 </quote>
 <pc>」</pc>高澄退<pc>，</pc>謂暹曰<pc>：</pc>
 <pc>「</pc>
@@ -138,9 +139,11 @@
 </p>
 </div>
 <div>
-<p>上遣交州<term>刺史</term>楊瞟討李賁<pc>，</pc>以陳霸先為司馬<pc>；</pc>命定州<term>刺史</term>蕭勃會瞟於西江<pc>。</pc>勃知軍士憚遠役<pc>，</pc>因詭說留瞟<pc>。</pc>瞟集諸將問計<pc>，</pc>霸先曰<pc>：</pc>
+<p>上遣交州<term>刺史</term>楊瞟討李賁<pc>，</pc>以陳霸先為司馬<pc>；</pc>命<placeName>定州</placeName>
+<term>刺史</term>蕭勃會瞟於西江<pc>。</pc>勃知軍士憚遠役<pc>，</pc>因詭說留瞟<pc>。</pc>瞟集諸將問計<pc>，</pc>霸先曰<pc>：</pc>
 <pc>「</pc>
-<quote>交趾叛換<pc>，</pc>罪由宗室<pc>，</pc>遂使溷亂數州<pc>，</pc>逋誅累歲<pc>。</pc>定州欲偷安目前<pc>，</pc>不顧大計<pc>。</pc>節下奉辭伐罪<pc>，</pc>當死生以之<pc>。</pc>豈可逗撓不進<pc>，</pc>長寇沮眾也<pc>！</pc>
+<quote>交趾叛換<pc>，</pc>罪由宗室<pc>，</pc>遂使溷亂數州<pc>，</pc>逋誅累歲<pc>。</pc>
+<placeName>定州</placeName>欲偷安目前<pc>，</pc>不顧大計<pc>。</pc>節下奉辭伐罪<pc>，</pc>當死生以之<pc>。</pc>豈可逗撓不進<pc>，</pc>長寇沮眾也<pc>！</pc>
 </quote>
 <pc>」</pc>遂勒兵先發<pc>。</pc>瞟以霸先為前鋒<pc>。</pc>至交州<pc>，</pc>賁帥眾<num value="30000">三萬</num>拒之<pc>，</pc>敗於硃鳶<pc>，</pc>又敗於蘇歷江口<pc>。</pc>賁奔嘉寧城<pc>，</pc>諸軍進圍之<pc>。</pc>勃<pc>，</pc>昺之子也<pc>。</pc>
 </p>
@@ -178,7 +181,7 @@
 </p>
 </div>
 <div>
-<p>東魏遣中書舍人尉瑾來聘<pc>。</pc>
+<p>東魏遣<term>中書舍人</term>尉瑾來聘<pc>。</pc>
 <num value="32">乙未</num>
 <pc>，</pc>東魏丞相歡請釋邙山俘囚桎梏<pc>，</pc>配以民間寡婦<pc>。</pc>
 </p>
@@ -249,10 +252,13 @@
 </div>
 <div>
 <p>上敦尚文雅<pc>，</pc>疏簡刑法<pc>，</pc>自公卿大臣<pc>，</pc>鹹不以鞫獄為意<pc>。</pc>奸吏招權弄法<pc>，</pc>貨賂成市<pc>，</pc>枉濫者多<pc>。</pc>大率<measure quantity="2" unit="years">
-<num value="2">二</num>歲</measure>刑已上歲至<num value="5000">五千</num>人<pc>；</pc>徙居作者具<num value="5">五</num>任<pc>，</pc>其無任者著升械<pc>；</pc>若疾病<pc>，</pc>權解之<pc>，</pc>是後囚徒或有優<pc>、</pc>劇<pc>。</pc>時王侯子弟<pc>，</pc>多驕淫不法<pc>。</pc>上年老<pc>，</pc>厭於<num value="10000">萬</num>幾<pc>。</pc>又專精佛戒<pc>，</pc>每斷重罪<pc>，</pc>則終日不懌<pc>；</pc>或謀反逆<pc>，</pc>事覺<pc>，</pc>亦泣而宥之<pc>。</pc>由是王侯益橫<pc>，</pc>或白晝殺人於都街<pc>，</pc>或暮夜公行剽掠<pc>，</pc>有罪亡命者<pc>，</pc>匿於王家<pc>，</pc>有司不敢搜捕<pc>。</pc>上深知其弊<pc>，</pc>而溺於慈愛<pc>，</pc>不能禁也<pc>。</pc>魏東陽王榮為瓜州<term>刺史</term>
+<num value="2">二</num>歲</measure>刑已上歲至<measure quantity="5000" unit="people">
+<num value="5000">五千</num>人</measure>
+<pc>；</pc>徙居作者具<num value="5">五</num>任<pc>，</pc>其無任者著升械<pc>；</pc>若疾病<pc>，</pc>權解之<pc>，</pc>是後囚徒或有優<pc>、</pc>劇<pc>。</pc>時王侯子弟<pc>，</pc>多驕淫不法<pc>。</pc>上年老<pc>，</pc>厭於<num value="10000">萬</num>幾<pc>。</pc>又專精佛戒<pc>，</pc>每斷重罪<pc>，</pc>則終日不懌<pc>；</pc>或謀反逆<pc>，</pc>事覺<pc>，</pc>亦泣而宥之<pc>。</pc>由是王侯益橫<pc>，</pc>或白晝殺人於都街<pc>，</pc>或暮夜公行剽掠<pc>，</pc>有罪亡命者<pc>，</pc>匿於王家<pc>，</pc>有司不敢搜捕<pc>。</pc>上深知其弊<pc>，</pc>而溺於慈愛<pc>，</pc>不能禁也<pc>。</pc>魏東陽王榮為瓜州<term>刺史</term>
 <pc>，</pc>與其婿鄧彥偕行<pc>。</pc>榮卒<pc>，</pc>瓜州首望表榮子康為<term>刺史</term>
 <pc>，</pc>彥殺康而奪其位<pc>。</pc>魏不能討<pc>，</pc>因以彥為<term>刺史</term>
-<pc>，</pc>屢征不至<pc>，</pc>又南通吐谷渾<pc>。</pc>丞相泰以道遠難於動眾<pc>，</pc>欲以計取之<pc>，</pc>以給事黃門侍郎申徽為河西大使<pc>，</pc>密令圖彥<pc>。</pc>徽以<num value="50">五十</num>騎行<pc>，</pc>既至<pc>，</pc>止於賓館<pc>；</pc>彥見徽單使<pc>，</pc>不以為疑<pc>。</pc>徽遣人微勸彥歸朝<pc>，</pc>彥不從<pc>；</pc>徽又使贊成其留計<pc>，</pc>彥信之<pc>，</pc>遂來至館<pc>。</pc>徽先與州主簿敦煌令狐整等密謀<pc>，</pc>執彥於坐<pc>，</pc>責而縛之<pc>；</pc>因宣詔慰諭吏民<pc>，</pc>且云<pc>「</pc>
+<pc>，</pc>屢征不至<pc>，</pc>又南通吐谷渾<pc>。</pc>丞相泰以道遠難於動眾<pc>，</pc>欲以計取之<pc>，</pc>以給事黃門侍郎申徽為河西大使<pc>，</pc>密令圖彥<pc>。</pc>徽以<measure quantity="50" unit="riders">
+<num value="50">五十</num>騎</measure>行<pc>，</pc>既至<pc>，</pc>止於賓館<pc>；</pc>彥見徽單使<pc>，</pc>不以為疑<pc>。</pc>徽遣人微勸彥歸朝<pc>，</pc>彥不從<pc>；</pc>徽又使贊成其留計<pc>，</pc>彥信之<pc>，</pc>遂來至館<pc>。</pc>徽先與州主簿敦煌令狐整等密謀<pc>，</pc>執彥於坐<pc>，</pc>責而縛之<pc>；</pc>因宣詔慰諭吏民<pc>，</pc>且云<pc>「</pc>
 <quote>大軍續至</quote>
 <pc>」</pc>
 <pc>，</pc>城中無敢動者<pc>，</pc>遂送彥於長安<pc>。</pc>泰以徽為都官尚書<pc>。</pc>
@@ -392,10 +398,12 @@
 </p>
 </div>
 <div>
-<p>上年高<pc>，</pc>諸子心不相下<pc>，</pc>互相猜忌<pc>。</pc>邵陵王綸為丹楊尹<pc>，</pc>湘東王繹在江州<pc>，</pc>武陵王紀在益州<pc>，</pc>皆權侔人主<pc>；</pc>太子綱惡之<pc>，</pc>常選精兵以衛東宮<pc>。</pc>
+<p>上年高<pc>，</pc>諸子心不相下<pc>，</pc>互相猜忌<pc>。</pc>邵陵王綸為丹楊尹<pc>，</pc>湘東王繹在江州<pc>，</pc>武陵王紀在<placeName>益州</placeName>
+<pc>，</pc>皆權侔人主<pc>；</pc>太子綱惡之<pc>，</pc>常選精兵以衛東宮<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>以綸為南徐州<term>刺史</term>
+<pc>，</pc>以綸為南<placeName>徐州</placeName>
+<term>刺史</term>
 <pc>。</pc>
 </p>
 </div>
@@ -409,7 +417,8 @@
 </div>
 <div>
 <p>魏徙并州<term>刺史</term>王思政為荊州<term>刺史</term>
-<pc>，</pc>使之舉諸將可代鎮玉壁者<pc>。</pc>思政舉晉州<term>刺史</term>韋孝寬<pc>，</pc>丞相泰從之<pc>。</pc>東魏丞相歡悉舉山東之眾<pc>，</pc>將伐魏<pc>；</pc>
+<pc>，</pc>使之舉諸將可代鎮玉壁者<pc>。</pc>思政舉<placeName>晉州</placeName>
+<term>刺史</term>韋孝寬<pc>，</pc>丞相泰從之<pc>。</pc>東魏丞相歡悉舉山東之眾<pc>，</pc>將伐魏<pc>；</pc>
 <num value="30">癸巳</num>
 <pc>，</pc>自鄴會兵於晉陽<pc>；</pc>
 <measure quantity="9" unit="months">
@@ -433,7 +442,9 @@
 <num value="12">乙亥</num>
 <pc>，</pc>以前東<placeName>揚州</placeName>
 <term>刺史</term>岳陽王察為雍州<term>刺史</term>
-<pc>。</pc>上捨察兄弟而立太子綱<pc>，</pc>內常愧之<pc>，</pc>寵亞諸子<pc>。</pc>以會稽人物殷阜<pc>，</pc>故用察兄弟迭為東<placeName>揚州</placeName>以慰其心<pc>。</pc>察兄弟亦內懷不平<pc>。</pc>察以上衰老<pc>，</pc>朝多秕政<pc>，</pc>遂蓄聚貨財<pc>，</pc>折節下士<pc>，</pc>招募勇敢<pc>，</pc>左右至數<num value="1000">千</num>人<pc>。</pc>以襄陽形勝之地<pc>，</pc>梁業所基<pc>，</pc>遇亂可以圖大功<pc>。</pc>乃克己為政<pc>，</pc>撫循士民<pc>，</pc>數施恩惠<pc>，</pc>延納規諫<pc>，</pc>所部稱治<pc>。</pc>
+<pc>。</pc>上捨察兄弟而立太子綱<pc>，</pc>內常愧之<pc>，</pc>寵亞諸子<pc>。</pc>以會稽人物殷阜<pc>，</pc>故用察兄弟迭為東<placeName>揚州</placeName>以慰其心<pc>。</pc>察兄弟亦內懷不平<pc>。</pc>察以上衰老<pc>，</pc>朝多秕政<pc>，</pc>遂蓄聚貨財<pc>，</pc>折節下士<pc>，</pc>招募勇敢<pc>，</pc>左右至數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>。</pc>以襄陽形勝之地<pc>，</pc>梁業所基<pc>，</pc>遇亂可以圖大功<pc>。</pc>乃克己為政<pc>，</pc>撫循士民<pc>，</pc>數施恩惠<pc>，</pc>延納規諫<pc>，</pc>所部稱治<pc>。</pc>
 </p>
 </div>
 <div>
@@ -468,7 +479,9 @@
 </quote>
 <pc>」</pc>珽<pc>，</pc>瑩之子也<pc>。</pc>東魏苦攻凡<measure quantity="50" unit="days">
 <num value="50">五十</num>日</measure>
-<pc>，</pc>士卒戰及病死者<num value="70000">七萬</num>人<pc>，</pc>共為<num value="1">一</num>塚<pc>。</pc>歡智力皆困<pc>，</pc>因而發疾<pc>。</pc>有星墜歡營中<pc>，</pc>士卒驚懼<pc>。</pc>
+<pc>，</pc>士卒戰及病死者<measure quantity="70000" unit="people">
+<num value="70000">七萬</num>人</measure>
+<pc>，</pc>共為<num value="1">一</num>塚<pc>。</pc>歡智力皆困<pc>，</pc>因而發疾<pc>。</pc>有星墜歡營中<pc>，</pc>士卒驚懼<pc>。</pc>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <pc>，</pc>
@@ -477,7 +490,8 @@
 </p>
 </div>
 <div>
-<p>先是<pc>，</pc>歡別使侯景將兵趣齊子嶺<pc>，</pc>魏建州<term>刺史</term>楊檦鎮車箱<pc>，</pc>恐其寇邵郡<pc>，</pc>帥騎御之<pc>。</pc>景聞檦至<pc>，</pc>斫木斷路<num value="60">六十</num>餘里<pc>，</pc>猶驚而不安<pc>，</pc>遂還河陽<pc>。</pc>
+<p>先是<pc>，</pc>歡別使侯景將兵趣齊子嶺<pc>，</pc>魏<placeName>建州</placeName>
+<term>刺史</term>楊檦鎮車箱<pc>，</pc>恐其寇邵郡<pc>，</pc>帥騎御之<pc>。</pc>景聞檦至<pc>，</pc>斫木斷路<num value="60">六十</num>餘里<pc>，</pc>猶驚而不安<pc>，</pc>遂還河陽<pc>。</pc>
 <num value="47">庚戌</num>
 <pc>，</pc>歡使段韶從太原公洋鎮鄴<pc>。</pc>
 <num value="48">辛亥</num>
@@ -516,7 +530,7 @@
 <pc>「</pc>
 <quote>儉約<pc>，</pc>所以彰其美也<pc>。</pc>
 </quote>
-<pc>」</pc>泰從之<pc>。</pc>歸葬武功<pc>，</pc>載以布車<num value="1">一</num>乘<pc>，</pc>泰與群公步送出同州郭外<pc>。</pc>泰於車後酹酒言曰<pc>：</pc>
+<pc>」</pc>泰從之<pc>。</pc>歸葬武功<pc>，</pc>載以布車<num value="1">一</num>乘<pc>，</pc>泰與群公步送出<placeName>同州</placeName>郭外<pc>。</pc>泰於車後酹酒言曰<pc>：</pc>
 <pc>「</pc>
 <quote>尚書平生為事<pc>，</pc>妻子兄弟所不知者<pc>，</pc>吾皆知之<pc>。</pc>唯爾知吾心<pc>，</pc>吾知爾志<pc>，</pc>方欲共定天下<pc>，</pc>遽捨吾去<pc>，</pc>奈何<pc>！</pc>
 </quote>

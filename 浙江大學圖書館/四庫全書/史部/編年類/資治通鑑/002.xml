@@ -69,7 +69,9 @@
 </div>
 <div>
 <p>1　〔宋休公薨<pc>，</pc>
-<persName>子桓</persName>公辟兵立〕[7]<pc>。</pc>
+<persName>
+<name key="曹丕" type="zi">子桓</name>
+</persName>公辟兵立〕[7]<pc>。</pc>
 </p>
 </div>
 <div>
@@ -115,7 +117,9 @@
 <div>
 <p>1　孝公令國中曰<pc>：</pc>
 <pc>「</pc>
-<quote>昔我穆公<pc>，</pc>自岐<pc>、</pc>雍之間修德行武<pc>，</pc>東平晉亂<pc>，</pc>以河為界<pc>，</pc>西霸戎翟<pc>，</pc>廣地<num value="1000">千</num>里<pc>，</pc>天子致伯<pc>，</pc>諸侯畢賀<pc>，</pc>為後世開業甚光美<pc>。</pc>會往者厲<pc>、</pc>躁<pc>、</pc>簡公<pc>、</pc>出子之不寧<pc>，</pc>國家內憂<pc>，</pc>未遑外事<pc>。</pc>
+<quote>昔我穆公<pc>，</pc>自岐<pc>、</pc>雍之間修德行武<pc>，</pc>東平晉亂<pc>，</pc>以河為界<pc>，</pc>西霸戎翟<pc>，</pc>廣地<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>
+<pc>，</pc>天子致伯<pc>，</pc>諸侯畢賀<pc>，</pc>為後世開業甚光美<pc>。</pc>會往者厲<pc>、</pc>躁<pc>、</pc>簡公<pc>、</pc>出子之不寧<pc>，</pc>國家內憂<pc>，</pc>未遑外事<pc>。</pc>
 <num value="3">三</num>晉攻奪我先君河西地<pc>，</pc>醜莫大焉<pc>。</pc>獻公即位<pc>，</pc>鎮撫邊境<pc>，</pc>徙治櫟陽<pc>，</pc>且欲東伐<pc>，</pc>復穆公之故地<pc>，</pc>修穆公之政令<pc>。</pc>寡人思念先君之意<pc>，</pc>常痛於心<pc>。</pc>賓客群臣有能出奇計強秦者<pc>，</pc>吾且尊官<pc>，</pc>與之分土<pc>。</pc>
 </quote>
 <pc>」</pc>於是衛公孫鞅聞是令下<pc>，</pc>乃西入秦<pc>。</pc>
@@ -195,7 +199,8 @@
 <pc>「</pc>
 <quote>能徙者予<num value="50">五十</num>金<pc>！</pc>
 </quote>
-<pc>」</pc>有<num value="1">一</num>人徙之<pc>，</pc>輒予<num value="50">五十</num>金<pc>，</pc>〔以明不欺〕[16]<pc>。</pc>乃下令<pc>。</pc>
+<pc>」</pc>有<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>徙之<pc>，</pc>輒予<num value="50">五十</num>金<pc>，</pc>〔以明不欺〕[16]<pc>。</pc>乃下令<pc>。</pc>
 </p>
 </div>
 <div>
@@ -229,7 +234,9 @@
 <pc>「</pc>
 <quote>自子之居即墨也<pc>，</pc>毀言日至<pc>。</pc>然吾使人視即墨<pc>，</pc>田野辟<pc>，</pc>人民給<pc>，</pc>官無事<pc>，</pc>東方以寧<pc>。</pc>是子不事吾左右以求助也<pc>。</pc>
 </quote>
-<pc>」</pc>封之<num value="10000">萬</num>家<pc>。</pc>召阿大夫<pc>，</pc>語之曰<pc>：</pc>
+<pc>」</pc>封之<measure quantity="10000" unit="households">
+<num value="10000">萬</num>家</measure>
+<pc>。</pc>召阿大夫<pc>，</pc>語之曰<pc>：</pc>
 <pc>「</pc>
 <quote>自子守阿<pc>，</pc>譽言日至<pc>。</pc>吾使人視阿<pc>，</pc>田野不辟<pc>，</pc>人民貧餒<pc>。</pc>昔日趙攻鄄<pc>，</pc>子不救<pc>；</pc>衛取薛陵<pc>，</pc>子不知<pc>。</pc>是子厚幣事吾左右以求譽也<pc>。</pc>
 </quote>
@@ -263,7 +270,10 @@
 </quote>
 <pc>」</pc>威王曰<pc>：</pc>
 <pc>「</pc>
-<quote>寡人之所以為寶者與王異<pc>。</pc>吾臣有檀子者<pc>，</pc>使守南城<pc>，</pc>則楚人不敢為寇<pc>，</pc>泗上<num value="12">十二</num>諸侯皆來朝<pc>；</pc>吾臣有盼子者<pc>，</pc>使守高唐<pc>，</pc>則趙人不敢東漁于河<pc>；</pc>吾吏有黔夫者<pc>，</pc>使守徐州<pc>，</pc>則燕人祭北門<pc>，</pc>趙人祭西門<pc>，</pc>徙而從者<num value="7000">七千</num>餘家<pc>；</pc>吾臣有種首者<pc>，</pc>使備盜賊<pc>，</pc>則道不拾遺<pc>。</pc>此<num value="4">四</num>臣者<pc>，</pc>將照<num value="1000">千</num>里<pc>，</pc>豈特<num value="12">十二</num>乘哉<pc>！</pc>
+<quote>寡人之所以為寶者與王異<pc>。</pc>吾臣有檀子者<pc>，</pc>使守南城<pc>，</pc>則楚人不敢為寇<pc>，</pc>泗上<num value="12">十二</num>諸侯皆來朝<pc>；</pc>吾臣有盼子者<pc>，</pc>使守高唐<pc>，</pc>則趙人不敢東漁于河<pc>；</pc>吾吏有黔夫者<pc>，</pc>使守<placeName>徐州</placeName>
+<pc>，</pc>則燕人祭北門<pc>，</pc>趙人祭西門<pc>，</pc>徙而從者<num value="7000">七千</num>餘家<pc>；</pc>吾臣有種首者<pc>，</pc>使備盜賊<pc>，</pc>則道不拾遺<pc>。</pc>此<num value="4">四</num>臣者<pc>，</pc>將照<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>
+<pc>，</pc>豈特<num value="12">十二</num>乘哉<pc>！</pc>
 </quote>
 <pc>」</pc>惠王有慚色<pc>。</pc>
 </p>
@@ -321,7 +331,9 @@
 </quote>
 <pc>」</pc>群臣莫對<pc>。</pc>江乙對曰<pc>：</pc>
 <pc>「</pc>
-<quote>虎求<num value="100">百</num>獸而食之<pc>，</pc>得狐<pc>。</pc>狐曰<pc>：</pc>『子無敢食我也<pc>。</pc>天帝使我長<num value="100">百</num>獸<pc>，</pc>今子食我<pc>，</pc>是逆天帝命也<pc>。</pc>子以我為不信<pc>，</pc>吾為子先行<pc>，</pc>子隨我後<pc>，</pc>觀<num value="100">百</num>獸之見我而敢不走乎<pc>？</pc>』虎以為然<pc>，</pc>故遂與之行<pc>。</pc>獸見之皆走<pc>。</pc>虎不知獸畏己而走也<pc>，</pc>以為畏狐也<pc>。</pc>今王之地方<num value="5000">五千</num>里<pc>，</pc>帶甲<num value="1000000">百萬</num>
+<quote>虎求<num value="100">百</num>獸而食之<pc>，</pc>得狐<pc>。</pc>狐曰<pc>：</pc>『子無敢食我也<pc>。</pc>天帝使我長<num value="100">百</num>獸<pc>，</pc>今子食我<pc>，</pc>是逆天帝命也<pc>。</pc>子以我為不信<pc>，</pc>吾為子先行<pc>，</pc>子隨我後<pc>，</pc>觀<num value="100">百</num>獸之見我而敢不走乎<pc>？</pc>』虎以為然<pc>，</pc>故遂與之行<pc>。</pc>獸見之皆走<pc>。</pc>虎不知獸畏己而走也<pc>，</pc>以為畏狐也<pc>。</pc>今王之地方<measure quantity="5000" unit="LIs">
+<num value="5000">五千</num>里</measure>
+<pc>，</pc>帶甲<num value="1000000">百萬</num>
 <pc>，</pc>而專屬之昭奚恤<pc>；</pc>故北方之畏奚恤也<pc>，</pc>其實畏王之甲兵也<pc>，</pc>猶<num value="100">百</num>獸之畏虎也<pc>。</pc>
 </quote>
 <pc>」</pc>〕[24]<pc>。</pc>
@@ -458,8 +470,10 @@
 <pc>《</pc>
 <title>兵法</title>
 <pc>》</pc>
-<pc>：</pc>『<num value="100">百</num>里而趣利者蹶上將<pc>，</pc>
-<num value="50">五十</num>里而趣利者軍半至<pc>。</pc>』</quote>
+<pc>：</pc>『<measure quantity="100" unit="LIs">
+<num value="100">百</num>里</measure>而趣利者蹶上將<pc>，</pc>
+<measure quantity="50" unit="LIs">
+<num value="50">五十</num>里</measure>而趣利者軍半至<pc>。</pc>』</quote>
 <pc>」</pc>乃使齊軍入魏地為<num value="100000">十萬</num>竈<pc>，</pc>明日為<num value="50000">五萬</num>竈<pc>，</pc>又明日為<num value="20000">二萬</num>竈<pc>。</pc>龐涓行<measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>
 <pc>，</pc>大喜曰<pc>：</pc>
@@ -538,7 +552,8 @@
 <pc>」</pc>趙良曰<pc>：</pc>
 <pc>「</pc>
 <quote>
-<num value="1000">千</num>人之諾諾<pc>，</pc>不如<num value="1">一</num>士之諤諤<pc>。</pc>僕請終燒正言而無誅<pc>，</pc>可乎<pc>？</pc>
+<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>之諾諾<pc>，</pc>不如<num value="1">一</num>士之諤諤<pc>。</pc>僕請終燒正言而無誅<pc>，</pc>可乎<pc>？</pc>
 </quote>
 <pc>」</pc>商君曰<pc>「</pc>
 <quote>諾<pc>。</pc>
@@ -574,7 +589,8 @@
 <div>
 <p>2　鄒人孟軻見魏惠王<pc>。</pc>王曰<pc>：</pc>
 <pc>「</pc>
-<quote>叟<pc>，</pc>不遠<num value="1000">千</num>里而來<pc>，</pc>亦有以利吾國乎<pc>？</pc>
+<quote>叟<pc>，</pc>不遠<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>而來<pc>，</pc>亦有以利吾國乎<pc>？</pc>
 </quote>
 <pc>」</pc>孟子曰<pc>：</pc>
 <pc>「</pc>
@@ -619,7 +635,7 @@
 </p>
 </div>
 <div>
-<p>1　〔田嬰相齊〕<pc>。</pc>齊王<pc>、</pc>魏王會于徐州以相王<pc>。</pc>〔楚王聞之<pc>，</pc>怒田嬰〕[45]<pc>。</pc>
+<p>1　〔田嬰相齊〕<pc>。</pc>齊王<pc>、</pc>魏王會于<placeName>徐州</placeName>以相王<pc>。</pc>〔楚王聞之<pc>，</pc>怒田嬰〕[45]<pc>。</pc>
 </p>
 </div>
 <div>
@@ -635,7 +651,8 @@
 </p>
 </div>
 <div>
-<p>1　楚王伐齊<pc>，</pc>〔敗齊師〕<pc>，</pc>圍徐州<pc>，</pc>〔使人逐田嬰<pc>。</pc>田嬰使張丑說楚王<pc>，</pc>楚王乃止〕[46]<pc>。</pc>
+<p>1　楚王伐齊<pc>，</pc>〔敗齊師〕<pc>，</pc>圍<placeName>徐州</placeName>
+<pc>，</pc>〔使人逐田嬰<pc>。</pc>田嬰使張丑說楚王<pc>，</pc>楚王乃止〕[46]<pc>。</pc>
 </p>
 </div>
 <div>
@@ -646,7 +663,10 @@
 <p>初<pc>，</pc>
 <placeName>洛陽</placeName>人蘇秦說秦王以兼天下之術<pc>，</pc>秦王不用其言<pc>。</pc>蘇秦乃去<pc>，</pc>說燕文公曰<pc>：</pc>
 <pc>「</pc>
-<quote>燕之所以不犯寇被甲兵者<pc>，</pc>以趙之為蔽其南也<pc>。</pc>且秦之攻燕也<pc>，</pc>戰於<num value="1000">千</num>里之外<pc>；</pc>趙之攻燕也<pc>，</pc>戰於<num value="100">百</num>里之內<pc>。</pc>夫不憂<num value="100">百</num>裡之患而重<num value="1000">千</num>里之外<pc>，</pc>計無過於此者<pc>。</pc>願大王與趙從親<pc>，</pc>天下為<num value="1">一</num>
+<quote>燕之所以不犯寇被甲兵者<pc>，</pc>以趙之為蔽其南也<pc>。</pc>且秦之攻燕也<pc>，</pc>戰於<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>之外<pc>；</pc>趙之攻燕也<pc>，</pc>戰於<measure quantity="100" unit="LIs">
+<num value="100">百</num>里</measure>之內<pc>。</pc>夫不憂<num value="100">百</num>裡之患而重<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>之外<pc>，</pc>計無過於此者<pc>。</pc>願大王與趙從親<pc>，</pc>天下為<num value="1">一</num>
 <pc>，</pc>則燕國必無患矣<pc>。</pc>
 </quote>
 <pc>」</pc>文公從之<pc>，</pc>資蘇秦車馬<pc>，</pc>以說趙肅侯曰<pc>：</pc>
@@ -678,7 +698,8 @@
 <quote>韓地方<num value="900">九百</num>餘里<pc>，</pc>帶甲數<num value="100000">十萬</num>
 <pc>，</pc>天下之強弓<pc>、</pc>勁弩<pc>、</pc>利劍皆從韓出<pc>。</pc>韓卒超足而射<pc>，</pc>
 <num value="100">百</num>發不暇止<pc>。</pc>以韓卒之勇<pc>，</pc>被堅甲<pc>，</pc>跖勁弩<pc>，</pc>帶利劍<pc>，</pc>
-<num value="1">一</num>人當<num value="100">百</num>
+<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>當<num value="100">百</num>
 <pc>，</pc>不足言也<pc>。</pc>大王事秦<pc>，</pc>秦必求宜陽<pc>、</pc>成皋<pc>。</pc>今茲效之<pc>，</pc>明年又復求割地<pc>。</pc>與則無地以給之<pc>，</pc>不與則棄前功<pc>，</pc>受後禍<pc>。</pc>且大王之地有盡而秦之求無已<pc>，</pc>以有盡之地逆無已之求<pc>，</pc>此所謂市怨結禍者也<pc>。</pc>不戰而地已削矣<pc>！</pc>鄙諺曰<pc>：</pc>『寧為雞口<pc>，</pc>無為牛後<pc>。</pc>』夫以大王之賢<pc>，</pc>挾強韓之兵<pc>，</pc>而有牛後之名<pc>，</pc>臣竊為大王羞之<pc>。</pc>
 </quote>
 <pc>」</pc>韓王從其言<pc>。</pc>
@@ -687,7 +708,9 @@
 <div>
 <p>蘇秦說魏王曰<pc>：</pc>
 <pc>「</pc>
-<quote>大王之地方<num value="1000">千</num>里<pc>，</pc>地名雖小<pc>，</pc>然而田捨<pc>、</pc>廬廡之數<pc>，</pc>曾無所芻牧<pc>。</pc>人民之眾<pc>，</pc>車馬之多<pc>，</pc>日夜行不絕<pc>，</pc>輷輷殷殷<pc>，</pc>若有<num value="3">三</num>軍之眾<pc>。</pc>臣竊量大王之國不下楚<pc>。</pc>今竊聞大王之卒<pc>，</pc>武士<num value="200000">二十萬</num>
+<quote>大王之地方<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>
+<pc>，</pc>地名雖小<pc>，</pc>然而田捨<pc>、</pc>廬廡之數<pc>，</pc>曾無所芻牧<pc>。</pc>人民之眾<pc>，</pc>車馬之多<pc>，</pc>日夜行不絕<pc>，</pc>輷輷殷殷<pc>，</pc>若有<num value="3">三</num>軍之眾<pc>。</pc>臣竊量大王之國不下楚<pc>。</pc>今竊聞大王之卒<pc>，</pc>武士<num value="200000">二十萬</num>
 <pc>，</pc>蒼頭<num value="200000">二十萬</num>
 <pc>，</pc>奮擊<num value="200000">二十萬</num>
 <pc>，</pc>廝徒<num value="100000">十萬</num>
@@ -702,12 +725,15 @@
 <quote>齊<num value="4">四</num>塞之國<pc>，</pc>地方<num value="2000">二千</num>餘里<pc>，</pc>帶甲數<num value="100000">十萬</num>
 <pc>，</pc>粟如丘山<pc>。</pc>
 <num value="3">三</num>軍之良<pc>，</pc>
-<num value="5">五</num>家之兵<pc>，</pc>進如鋒矢<pc>，</pc>戰如雷霆<pc>，</pc>解如風雨<pc>。</pc>即有軍役<pc>，</pc>未嘗倍泰山<pc>，</pc>絕清河<pc>，</pc>涉渤海也<pc>。</pc>臨菑之中<num value="70000">七萬</num>戶<pc>，</pc>臣竊度之<pc>，</pc>不下戶<num value="3">三</num>男子<pc>，</pc>不待發於遠縣<pc>，</pc>而臨菑之卒固已<num value="210000">二十一萬</num>矣<pc>。</pc>臨菑甚富而實<pc>，</pc>其民無不鬥雞<pc>、</pc>走狗<pc>、</pc>
+<measure quantity="5" unit="households">
+<num value="5">五</num>家</measure>之兵<pc>，</pc>進如鋒矢<pc>，</pc>戰如雷霆<pc>，</pc>解如風雨<pc>。</pc>即有軍役<pc>，</pc>未嘗倍泰山<pc>，</pc>絕清河<pc>，</pc>涉渤海也<pc>。</pc>臨菑之中<num value="70000">七萬</num>戶<pc>，</pc>臣竊度之<pc>，</pc>不下戶<num value="3">三</num>男子<pc>，</pc>不待發於遠縣<pc>，</pc>而臨菑之卒固已<num value="210000">二十一萬</num>矣<pc>。</pc>臨菑甚富而實<pc>，</pc>其民無不鬥雞<pc>、</pc>走狗<pc>、</pc>
 <num value="6">六</num>博<pc>、</pc>闒鞠<pc>。</pc>臨菑之塗<pc>，</pc>車轂擊<pc>，</pc>人肩摩<pc>，</pc>連衽成帷<pc>，</pc>揮汗成雨<pc>。</pc>夫韓<pc>、</pc>魏之所以重畏秦者<pc>，</pc>為與秦接境壤也<pc>。</pc>兵出而相當<pc>，</pc>不<measure quantity="10" unit="days">
 <num value="10">十</num>日</measure>而戰勝存亡之機決矣<pc>。</pc>韓<pc>、</pc>魏戰而勝秦<pc>，</pc>則兵半折<pc>，</pc>
 <num value="4">四</num>境不守<pc>；</pc>戰而不勝<pc>，</pc>則國已危亡隨其後<pc>。</pc>是故韓<pc>、</pc>魏之所以重與秦戰而輕為之臣也<pc>。</pc>今秦之攻齊則不然<pc>。</pc>倍韓<pc>、</pc>魏之地<pc>，</pc>過衛陽晉之道<pc>，</pc>經乎亢父之險<pc>，</pc>車不得方軌<pc>，</pc>騎不得比行<pc>。</pc>
-<num value="100">百</num>人守險<pc>，</pc>
-<num value="1000">千</num>人不敢過也<pc>。</pc>秦雖欲深入則狼顧<pc>，</pc>恐韓<pc>、</pc>魏之議其後也<pc>。</pc>是故恫疑<pc>、</pc>虛喝<pc>、</pc>驕矜而不敢進<pc>，</pc>則秦之不能害齊亦明矣<pc>。</pc>夫不深料秦之無奈齊何<pc>，</pc>而欲西面而事之<pc>，</pc>是群臣之計過也<pc>。</pc>今無臣事秦之名而有強國之寶<pc>，</pc>臣是故願大王少留意計之<pc>。</pc>
+<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>守險<pc>，</pc>
+<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>不敢過也<pc>。</pc>秦雖欲深入則狼顧<pc>，</pc>恐韓<pc>、</pc>魏之議其後也<pc>。</pc>是故恫疑<pc>、</pc>虛喝<pc>、</pc>驕矜而不敢進<pc>，</pc>則秦之不能害齊亦明矣<pc>。</pc>夫不深料秦之無奈齊何<pc>，</pc>而欲西面而事之<pc>，</pc>是群臣之計過也<pc>。</pc>今無臣事秦之名而有強國之寶<pc>，</pc>臣是故願大王少留意計之<pc>。</pc>
 </quote>
 <pc>」</pc>齊王許之<pc>。</pc>乃西南說楚威王曰<pc>：</pc>
 <pc>「</pc>
@@ -780,7 +806,11 @@
 </p>
 </div>
 <div>
-<p>1　趙肅侯薨<pc>，</pc>子武靈王〔雍〕立[50]<pc>。</pc>置博聞師<num value="3">三</num>人<pc>，</pc>左<pc>、</pc>右司過<num value="3">三</num>人<pc>，</pc>先問先君貴臣肥義<pc>，</pc>加其秩<pc>。</pc>
+<p>1　趙肅侯薨<pc>，</pc>子武靈王〔雍〕立[50]<pc>。</pc>置博聞師<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>左<pc>、</pc>右司過<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>先問先君貴臣肥義<pc>，</pc>加其秩<pc>。</pc>
 </p>
 </div>
 <div>
@@ -852,7 +882,9 @@
 <pc>「</pc>
 <quote>君不聞海大魚乎<pc>？</pc>網不能止<pc>，</pc>鉤不能牽<pc>，</pc>蕩而失水<pc>，</pc>則螻蟻制焉<pc>。</pc>今夫齊<pc>，</pc>亦君之水也<pc>。</pc>君長有齊<pc>，</pc>奚以薛為<pc>！</pc>苟為失齊<pc>，</pc>雖隆薛之城到於天<pc>，</pc>庸足恃乎<pc>？</pc>
 </quote>
-<pc>」</pc>乃不果城<pc>。</pc>靖郭君有子<num value="40">四十</num>〔餘〕人[54]<pc>，</pc>其賤妾之子曰文<pc>。</pc>文通儻饒智略<pc>，</pc>說靖郭君以散財養士<pc>。</pc>靖郭君使文主家待賓客<pc>，</pc>賓客爭譽其美<pc>，</pc>皆請靖郭君以文為嗣<pc>。</pc>靖郭君卒<pc>，</pc>文嗣為薛公<pc>，</pc>號曰孟嘗君<pc>。</pc>孟嘗君招致諸侯游士及有罪亡人<pc>，</pc>皆捨業厚遇之<pc>，</pc>存救其親戚<pc>。</pc>食客常數<num value="1000">千</num>人<pc>，</pc>各自以為孟嘗君親己<pc>。</pc>由是孟嘗君之名重天下<pc>。</pc>
+<pc>」</pc>乃不果城<pc>。</pc>靖郭君有子<num value="40">四十</num>〔餘〕人[54]<pc>，</pc>其賤妾之子曰文<pc>。</pc>文通儻饒智略<pc>，</pc>說靖郭君以散財養士<pc>。</pc>靖郭君使文主家待賓客<pc>，</pc>賓客爭譽其美<pc>，</pc>皆請靖郭君以文為嗣<pc>。</pc>靖郭君卒<pc>，</pc>文嗣為薛公<pc>，</pc>號曰孟嘗君<pc>。</pc>孟嘗君招致諸侯游士及有罪亡人<pc>，</pc>皆捨業厚遇之<pc>，</pc>存救其親戚<pc>。</pc>食客常數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>各自以為孟嘗君親己<pc>。</pc>由是孟嘗君之名重天下<pc>。</pc>
 </p>
 </div>
 <div>

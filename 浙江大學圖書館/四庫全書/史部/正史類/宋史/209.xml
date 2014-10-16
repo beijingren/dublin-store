@@ -24,9 +24,7 @@
 <body>
 <div type="chapter" n="209">
 <div>
-<p>
-<name key="null" type="null">◎藝文</name>
-<num value="8">八</num>孔逭<pc>《</pc>
+<p>◎藝文<num value="8">八</num>孔逭<pc>《</pc>
 <title>文苑</title>
 <pc>》</pc>
 <measure quantity="19" unit="chapters">
@@ -351,7 +349,8 @@
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>
 <pc>《</pc>
-<title>蘇州名賢雜詠</title>
+<title>
+<placeName>蘇州</placeName>名賢雜詠</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -435,11 +434,13 @@
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>
 <pc>《</pc>
-<title>大中祥符封禪祥瑞讚</title>
+<title>
+<date notBefore="1008" notAfter="1016">大中祥符</date>封禪祥瑞讚</title>
 <pc>》</pc>
 <measure quantity="5" unit="chapters">
 <num value="5">五</num>卷</measure>丁謂<pc>《</pc>
-<title>大中祥符祀汾陰祥瑞讚</title>
+<title>
+<date notBefore="1008" notAfter="1016">大中祥符</date>祀汾陰祥瑞讚</title>
 <pc>》</pc>
 <measure quantity="5" unit="chapters">
 <num value="5">五</num>卷</measure>馬文敏<pc>《</pc>
@@ -510,7 +511,9 @@
 <title>製誥</title>
 <pc>》</pc>
 <pc>（</pc>
-<num value="1">一</num>作<pc>“</pc>詔<pc>”</pc>
+<num value="1">一</num>作<pc>“</pc>
+<quote>詔</quote>
+<pc>”</pc>
 <pc>）</pc>
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>
@@ -535,7 +538,7 @@
 <num value="7">七</num>卷</measure>
 <pc>《</pc>
 <title>
-<date when="null">吳越</date>石壁集</title>
+<date notBefore="9999" notAfter="9999">吳越</date>石壁集</title>
 <pc>》</pc>
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>李慎儀<pc>《</pc>
@@ -549,13 +552,15 @@
 <p>
 <pc>《</pc>
 <title>
-<date when="null">
+<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>國初內製雜編</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
 <pc>《</pc>
-<title>建隆景德雜麻製</title>
+<title>
+<date notBefore="960" notAfter="963">建隆</date>
+<date notBefore="1004" notAfter="1007">景德</date>雜麻製</title>
 <pc>》</pc>
 <measure quantity="15" unit="chapters">
 <num value="15">十五</num>卷</measure>
@@ -851,7 +856,7 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>蕭昕<pc>《</pc>
-<title>送邢桂州詩</title>
+<title>送邢<placeName>桂州</placeName>詩</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -959,7 +964,8 @@
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
-<title>唐<num value="19">十九</num>家詩</title>
+<title>唐<measure quantity="19" unit="households">
+<num value="19">十九</num>家</measure>詩</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -978,7 +984,8 @@
 <div>
 <p>
 <pc>《</pc>
-<title>唐<num value="100">百</num>家詩選</title>
+<title>唐<measure quantity="100" unit="households">
+<num value="100">百</num>家</measure>詩選</title>
 <pc>》</pc>
 <measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>
@@ -1120,7 +1127,7 @@
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
 <title>
-<date when="null">
+<date notBefore="9999" notAfter="9999">
 <num value="3">三</num>國</date>誌文類</title>
 <pc>》</pc>
 <measure quantity="60" unit="chapters">
@@ -1145,7 +1152,8 @@
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
 <pc>《</pc>
-<title>宋<num value="200">二百</num>家詩</title>
+<title>宋<measure quantity="200" unit="households">
+<num value="200">二百</num>家</measure>詩</title>
 <pc>》</pc>
 <measure quantity="23" unit="chapters">
 <num value="23">二十三</num>卷</measure>
@@ -1221,7 +1229,8 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>曾慥<pc>《</pc>
-<title>宋<num value="100">百</num>家詩選</title>
+<title>宋<measure quantity="100" unit="households">
+<num value="100">百</num>家</measure>詩選</title>
 <pc>》</pc>
 <measure quantity="50" unit="chapters">
 <num value="50">五十</num>卷</measure>又<pc>《</pc>
@@ -1324,7 +1333,8 @@
 </div>
 <div>
 <p>汪浹<pc>《</pc>
-<title>元祐榮觀集</title>
+<title>
+<date notBefore="1086" notAfter="1094">元祐</date>榮觀集</title>
 <pc>》</pc>
 <measure quantity="5" unit="chapters">
 <num value="5">五</num>卷</measure>衛博<pc>《</pc>
@@ -1358,7 +1368,8 @@
 <pc>》</pc>
 <measure quantity="7" unit="chapters">
 <num value="7">七</num>卷</measure>畢仲遊<pc>《</pc>
-<title>元祐館職詔策詞記</title>
+<title>
+<date notBefore="1086" notAfter="1094">元祐</date>館職詔策詞記</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -1390,7 +1401,8 @@
 </div>
 <div>
 <p>洪邁<pc>《</pc>
-<title>唐<num value="1000">一千</num>家詩</title>
+<title>唐<measure quantity="1000" unit="households">
+<num value="1000">一千</num>家</measure>詩</title>
 <pc>》</pc>
 <measure quantity="100" unit="chapters">
 <num value="100">一百</num>卷</measure>
@@ -1422,7 +1434,8 @@
 <num value="10">十</num>卷</measure>
 <pc>《</pc>
 <title>
-<num value="1000">千</num>家名賢翰墨大全</title>
+<measure quantity="1000" unit="households">
+<num value="1000">千</num>家</measure>名賢翰墨大全</title>
 <pc>》</pc>
 <measure quantity="518" unit="chapters">
 <num value="518">五百一十八</num>卷</measure>
@@ -1473,7 +1486,7 @@
 <pc>》</pc>
 <pc>《</pc>
 <title>
-<date when="null">
+<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>製詞</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
@@ -1484,7 +1497,8 @@
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
 <pc>《</pc>
-<title>潤州金山寺詩</title>
+<title>
+<placeName>潤州</placeName>金山寺詩</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -1650,7 +1664,7 @@
 <pc>》</pc>
 <measure quantity="40" unit="chapters">
 <num value="40">四十</num>卷</measure>徐徽<pc>《</pc>
-<title>滁陽慶曆集</title>
+<title>滁陽<date notBefore="1041" notAfter="1048">慶曆</date>集</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -1746,7 +1760,7 @@
 <div>
 <p>孫氏<pc>《</pc>
 <title>
-<date when="null">吳</date>興詩</title>
+<date notBefore="9999" notAfter="9999">吳</date>興詩</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>
@@ -1764,7 +1778,7 @@
 <measure quantity="150" unit="chapters">
 <num value="150">一百五十</num>卷</measure>又<pc>《</pc>
 <title>
-<date when="null">國朝</date>名臣奏議</title>
+<date notBefore="9999" notAfter="9999">國朝</date>名臣奏議</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -1803,7 +1817,8 @@
 <title>桂林集</title>
 <pc>》</pc>
 <measure quantity="12" unit="chapters">
-<num value="12">十二</num>卷</measure>徐大觀<pc>《</pc>
+<num value="12">十二</num>卷</measure>徐<date notBefore="1107" notAfter="1110">大觀</date>
+<pc>《</pc>
 <title>又續集</title>
 <pc>》</pc>
 <measure quantity="4" unit="chapters">
@@ -1913,11 +1928,11 @@
 </div>
 <div>
 <p>曾肇<pc>《</pc>
-<title>滁陽慶曆前集</title>
+<title>滁陽<date notBefore="1041" notAfter="1048">慶曆</date>前集</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>吳玨<pc>《</pc>
-<title>滁陽慶曆後集</title>
+<title>滁陽<date notBefore="1041" notAfter="1048">慶曆</date>後集</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -1940,7 +1955,8 @@
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
-<title>郢州白雪樓詩</title>
+<title>
+<placeName>郢州</placeName>白雪樓詩</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -1951,7 +1967,8 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
-<pc>（</pc>蘇軾等書<pc>）</pc>
+<pc>（</pc>
+<persName>蘇軾</persName>等書<pc>）</pc>
 <pc>《</pc>
 <title>桂香集</title>
 <pc>》</pc>
@@ -2086,7 +2103,8 @@
 <div>
 <p>
 <pc>《</pc>
-<title>元祐密疏</title>
+<title>
+<date notBefore="1086" notAfter="1094">元祐</date>密疏</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -2187,13 +2205,15 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>又<pc>《</pc>
-<title>唐<num value="100">百</num>家詩選</title>
+<title>唐<measure quantity="100" unit="households">
+<num value="100">百</num>家</measure>詩選</title>
 <pc>》</pc>
 <measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>
 <pc>《</pc>
 <title>
-<num value="4">四</num>家詩選</title>
+<measure quantity="4" unit="households">
+<num value="4">四</num>家</measure>詩選</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -2231,7 +2251,9 @@
 <title>元日唱和詩</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
-<num value="1">一</num>卷</measure>孫覺<pc>《</pc>
+<num value="1">一</num>卷</measure>
+<persName>孫覺</persName>
+<pc>《</pc>
 <title>荔枝唱和詩</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
@@ -2250,7 +2272,8 @@
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>曾文<pc>《</pc>
-<title>潤州類集</title>
+<title>
+<placeName>潤州</placeName>類集</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>魏泰<pc>《</pc>
@@ -2307,11 +2330,15 @@
 <div>
 <p>
 <pc>《</pc>
-<title>紹聖<num value="3">三</num>公詩</title>
+<title>
+<date notBefore="1094" notAfter="1098">紹聖</date>
+<num value="3">三</num>公詩</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>
-<pc>（</pc>司馬光<pc>、</pc>
+<pc>（</pc>
+<persName>司馬光</persName>
+<pc>、</pc>
 <persName>歐陽修</persName>
 <pc>、</pc>馮京所著<pc>）</pc>陸經<pc>《</pc>
 <title>靜照堂詩</title>
@@ -2503,7 +2530,11 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>李允<pc>（</pc>
-<num value="1">一</num>作<pc>“</pc>元<pc>”</pc>或作<pc>“</pc>克<pc>”</pc>
+<num value="1">一</num>作<pc>“</pc>
+<quote>元</quote>
+<pc>”</pc>或作<pc>“</pc>
+<quote>克</quote>
+<pc>”</pc>
 <pc>）</pc>
 <pc>《</pc>
 <title>翰林論</title>
@@ -2641,7 +2672,9 @@
 <pc>》</pc>
 <measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>蔣之奇<pc>《</pc>
-<title>廣州<num value="10">十</num>賢讚</title>
+<title>
+<placeName>廣州</placeName>
+<num value="10">十</num>賢讚</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -2681,7 +2714,9 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>王杞<pc>（</pc>
-<num value="1">一</num>作<pc>“</pc>超<pc>”</pc>
+<num value="1">一</num>作<pc>“</pc>
+<quote>超</quote>
+<pc>”</pc>
 <pc>）</pc>
 <pc>《</pc>
 <title>詩格</title>
@@ -2708,7 +2743,9 @@
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>許文貴<pc>（</pc>
-<num value="1">一</num>作<pc>“</pc>貢<pc>”</pc>
+<num value="1">一</num>作<pc>“</pc>
+<quote>貢</quote>
+<pc>”</pc>
 <pc>）</pc>
 <pc>《</pc>
 <title>詩鑒</title>
@@ -2722,7 +2759,9 @@
 <title>續古今詩人秀句</title>
 <pc>》</pc>
 <measure quantity="2" unit="chapters">
-<num value="2">二</num>卷</measure>司馬光<pc>《</pc>
+<num value="2">二</num>卷</measure>
+<persName>司馬光</persName>
+<pc>《</pc>
 <title>續詩話</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
@@ -2810,7 +2849,9 @@
 <title>史例總論</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
-<num value="10">十</num>卷</measure>司馬光<pc>《</pc>
+<num value="10">十</num>卷</measure>
+<persName>司馬光</persName>
+<pc>《</pc>
 <title>詩話</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
@@ -2955,7 +2996,8 @@
 <num value="15">十五</num>卷</measure>
 <pc>（</pc>集者不知名<pc>）</pc>
 <pc>《</pc>
-<title>元祐詩話</title>
+<title>
+<date notBefore="1086" notAfter="1094">元祐</date>詩話</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -3331,7 +3373,8 @@
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>
 <pc>《</pc>
-<title>蘇州名賢雜詠</title>
+<title>
+<placeName>蘇州</placeName>名賢雜詠</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -3415,11 +3458,13 @@
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>
 <pc>《</pc>
-<title>大中祥符封禪祥瑞讚</title>
+<title>
+<date notBefore="1008" notAfter="1016">大中祥符</date>封禪祥瑞讚</title>
 <pc>》</pc>
 <measure quantity="5" unit="chapters">
 <num value="5">五</num>卷</measure>丁謂<pc>《</pc>
-<title>大中祥符祀汾陰祥瑞讚</title>
+<title>
+<date notBefore="1008" notAfter="1016">大中祥符</date>祀汾陰祥瑞讚</title>
 <pc>》</pc>
 <measure quantity="5" unit="chapters">
 <num value="5">五</num>卷</measure>馬文敏<pc>《</pc>
@@ -3490,7 +3535,9 @@
 <title>製誥</title>
 <pc>》</pc>
 <pc>（</pc>
-<num value="1">一</num>作<pc>“</pc>詔<pc>”</pc>
+<num value="1">一</num>作<pc>“</pc>
+<quote>詔</quote>
+<pc>”</pc>
 <pc>）</pc>
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>
@@ -3515,7 +3562,7 @@
 <num value="7">七</num>卷</measure>
 <pc>《</pc>
 <title>
-<date when="null">吳越</date>石壁集</title>
+<date notBefore="9999" notAfter="9999">吳越</date>石壁集</title>
 <pc>》</pc>
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>李慎儀<pc>《</pc>
@@ -3529,13 +3576,15 @@
 <p>
 <pc>《</pc>
 <title>
-<date when="null">
+<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>國初內製雜編</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
 <pc>《</pc>
-<title>建隆景德雜麻製</title>
+<title>
+<date notBefore="960" notAfter="963">建隆</date>
+<date notBefore="1004" notAfter="1007">景德</date>雜麻製</title>
 <pc>》</pc>
 <measure quantity="15" unit="chapters">
 <num value="15">十五</num>卷</measure>
@@ -3831,7 +3880,7 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>蕭昕<pc>《</pc>
-<title>送邢桂州詩</title>
+<title>送邢<placeName>桂州</placeName>詩</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -3939,7 +3988,8 @@
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
-<title>唐<num value="19">十九</num>家詩</title>
+<title>唐<measure quantity="19" unit="households">
+<num value="19">十九</num>家</measure>詩</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -3958,7 +4008,8 @@
 <div>
 <p>
 <pc>《</pc>
-<title>唐<num value="100">百</num>家詩選</title>
+<title>唐<measure quantity="100" unit="households">
+<num value="100">百</num>家</measure>詩選</title>
 <pc>》</pc>
 <measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>
@@ -4100,7 +4151,7 @@
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
 <title>
-<date when="null">
+<date notBefore="9999" notAfter="9999">
 <num value="3">三</num>國</date>誌文類</title>
 <pc>》</pc>
 <measure quantity="60" unit="chapters">
@@ -4125,7 +4176,8 @@
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
 <pc>《</pc>
-<title>宋<num value="200">二百</num>家詩</title>
+<title>宋<measure quantity="200" unit="households">
+<num value="200">二百</num>家</measure>詩</title>
 <pc>》</pc>
 <measure quantity="23" unit="chapters">
 <num value="23">二十三</num>卷</measure>
@@ -4201,7 +4253,8 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>曾慥<pc>《</pc>
-<title>宋<num value="100">百</num>家詩選</title>
+<title>宋<measure quantity="100" unit="households">
+<num value="100">百</num>家</measure>詩選</title>
 <pc>》</pc>
 <measure quantity="50" unit="chapters">
 <num value="50">五十</num>卷</measure>又<pc>《</pc>
@@ -4304,7 +4357,8 @@
 </div>
 <div>
 <p>汪浹<pc>《</pc>
-<title>元祐榮觀集</title>
+<title>
+<date notBefore="1086" notAfter="1094">元祐</date>榮觀集</title>
 <pc>》</pc>
 <measure quantity="5" unit="chapters">
 <num value="5">五</num>卷</measure>衛博<pc>《</pc>
@@ -4338,7 +4392,8 @@
 <pc>》</pc>
 <measure quantity="7" unit="chapters">
 <num value="7">七</num>卷</measure>畢仲遊<pc>《</pc>
-<title>元祐館職詔策詞記</title>
+<title>
+<date notBefore="1086" notAfter="1094">元祐</date>館職詔策詞記</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -4370,7 +4425,8 @@
 </div>
 <div>
 <p>洪邁<pc>《</pc>
-<title>唐<num value="1000">一千</num>家詩</title>
+<title>唐<measure quantity="1000" unit="households">
+<num value="1000">一千</num>家</measure>詩</title>
 <pc>》</pc>
 <measure quantity="100" unit="chapters">
 <num value="100">一百</num>卷</measure>
@@ -4402,7 +4458,8 @@
 <num value="10">十</num>卷</measure>
 <pc>《</pc>
 <title>
-<num value="1000">千</num>家名賢翰墨大全</title>
+<measure quantity="1000" unit="households">
+<num value="1000">千</num>家</measure>名賢翰墨大全</title>
 <pc>》</pc>
 <measure quantity="518" unit="chapters">
 <num value="518">五百一十八</num>卷</measure>
@@ -4453,7 +4510,7 @@
 <pc>》</pc>
 <pc>《</pc>
 <title>
-<date when="null">
+<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>製詞</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
@@ -4464,7 +4521,8 @@
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
 <pc>《</pc>
-<title>潤州金山寺詩</title>
+<title>
+<placeName>潤州</placeName>金山寺詩</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -4630,7 +4688,7 @@
 <pc>》</pc>
 <measure quantity="40" unit="chapters">
 <num value="40">四十</num>卷</measure>徐徽<pc>《</pc>
-<title>滁陽慶曆集</title>
+<title>滁陽<date notBefore="1041" notAfter="1048">慶曆</date>集</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -4726,7 +4784,7 @@
 <div>
 <p>孫氏<pc>《</pc>
 <title>
-<date when="null">吳</date>興詩</title>
+<date notBefore="9999" notAfter="9999">吳</date>興詩</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>
@@ -4744,7 +4802,7 @@
 <measure quantity="150" unit="chapters">
 <num value="150">一百五十</num>卷</measure>又<pc>《</pc>
 <title>
-<date when="null">國朝</date>名臣奏議</title>
+<date notBefore="9999" notAfter="9999">國朝</date>名臣奏議</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -4783,7 +4841,8 @@
 <title>桂林集</title>
 <pc>》</pc>
 <measure quantity="12" unit="chapters">
-<num value="12">十二</num>卷</measure>徐大觀<pc>《</pc>
+<num value="12">十二</num>卷</measure>徐<date notBefore="1107" notAfter="1110">大觀</date>
+<pc>《</pc>
 <title>又續集</title>
 <pc>》</pc>
 <measure quantity="4" unit="chapters">
@@ -4893,11 +4952,11 @@
 </div>
 <div>
 <p>曾肇<pc>《</pc>
-<title>滁陽慶曆前集</title>
+<title>滁陽<date notBefore="1041" notAfter="1048">慶曆</date>前集</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>吳玨<pc>《</pc>
-<title>滁陽慶曆後集</title>
+<title>滁陽<date notBefore="1041" notAfter="1048">慶曆</date>後集</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -4920,7 +4979,8 @@
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
 <pc>《</pc>
-<title>郢州白雪樓詩</title>
+<title>
+<placeName>郢州</placeName>白雪樓詩</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -4931,7 +4991,8 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
-<pc>（</pc>蘇軾等書<pc>）</pc>
+<pc>（</pc>
+<persName>蘇軾</persName>等書<pc>）</pc>
 <pc>《</pc>
 <title>桂香集</title>
 <pc>》</pc>
@@ -5066,7 +5127,8 @@
 <div>
 <p>
 <pc>《</pc>
-<title>元祐密疏</title>
+<title>
+<date notBefore="1086" notAfter="1094">元祐</date>密疏</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -5167,13 +5229,15 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>又<pc>《</pc>
-<title>唐<num value="100">百</num>家詩選</title>
+<title>唐<measure quantity="100" unit="households">
+<num value="100">百</num>家</measure>詩選</title>
 <pc>》</pc>
 <measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>
 <pc>《</pc>
 <title>
-<num value="4">四</num>家詩選</title>
+<measure quantity="4" unit="households">
+<num value="4">四</num>家</measure>詩選</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>
@@ -5211,7 +5275,9 @@
 <title>元日唱和詩</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
-<num value="1">一</num>卷</measure>孫覺<pc>《</pc>
+<num value="1">一</num>卷</measure>
+<persName>孫覺</persName>
+<pc>《</pc>
 <title>荔枝唱和詩</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
@@ -5230,7 +5296,8 @@
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>曾文<pc>《</pc>
-<title>潤州類集</title>
+<title>
+<placeName>潤州</placeName>類集</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>魏泰<pc>《</pc>
@@ -5287,11 +5354,15 @@
 <div>
 <p>
 <pc>《</pc>
-<title>紹聖<num value="3">三</num>公詩</title>
+<title>
+<date notBefore="1094" notAfter="1098">紹聖</date>
+<num value="3">三</num>公詩</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>
-<pc>（</pc>司馬光<pc>、</pc>
+<pc>（</pc>
+<persName>司馬光</persName>
+<pc>、</pc>
 <persName>歐陽修</persName>
 <pc>、</pc>馮京所著<pc>）</pc>陸經<pc>《</pc>
 <title>靜照堂詩</title>
@@ -5483,7 +5554,11 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>李允<pc>（</pc>
-<num value="1">一</num>作<pc>“</pc>元<pc>”</pc>或作<pc>“</pc>克<pc>”</pc>
+<num value="1">一</num>作<pc>“</pc>
+<quote>元</quote>
+<pc>”</pc>或作<pc>“</pc>
+<quote>克</quote>
+<pc>”</pc>
 <pc>）</pc>
 <pc>《</pc>
 <title>翰林論</title>
@@ -5621,7 +5696,9 @@
 <pc>》</pc>
 <measure quantity="20" unit="chapters">
 <num value="20">二十</num>卷</measure>蔣之奇<pc>《</pc>
-<title>廣州<num value="10">十</num>賢讚</title>
+<title>
+<placeName>廣州</placeName>
+<num value="10">十</num>賢讚</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>
@@ -5661,7 +5738,9 @@
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>王杞<pc>（</pc>
-<num value="1">一</num>作<pc>“</pc>超<pc>”</pc>
+<num value="1">一</num>作<pc>“</pc>
+<quote>超</quote>
+<pc>”</pc>
 <pc>）</pc>
 <pc>《</pc>
 <title>詩格</title>
@@ -5688,7 +5767,9 @@
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
 <num value="10">十</num>卷</measure>許文貴<pc>（</pc>
-<num value="1">一</num>作<pc>“</pc>貢<pc>”</pc>
+<num value="1">一</num>作<pc>“</pc>
+<quote>貢</quote>
+<pc>”</pc>
 <pc>）</pc>
 <pc>《</pc>
 <title>詩鑒</title>
@@ -5702,7 +5783,9 @@
 <title>續古今詩人秀句</title>
 <pc>》</pc>
 <measure quantity="2" unit="chapters">
-<num value="2">二</num>卷</measure>司馬光<pc>《</pc>
+<num value="2">二</num>卷</measure>
+<persName>司馬光</persName>
+<pc>《</pc>
 <title>續詩話</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
@@ -5790,7 +5873,9 @@
 <title>史例總論</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
-<num value="10">十</num>卷</measure>司馬光<pc>《</pc>
+<num value="10">十</num>卷</measure>
+<persName>司馬光</persName>
+<pc>《</pc>
 <title>詩話</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
@@ -5935,7 +6020,8 @@
 <num value="15">十五</num>卷</measure>
 <pc>（</pc>集者不知名<pc>）</pc>
 <pc>《</pc>
-<title>元祐詩話</title>
+<title>
+<date notBefore="1086" notAfter="1094">元祐</date>詩話</title>
 <pc>》</pc>
 <measure quantity="1" unit="chapter">
 <num value="1">一</num>卷</measure>

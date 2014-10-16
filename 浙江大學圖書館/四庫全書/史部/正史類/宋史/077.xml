@@ -24,15 +24,16 @@
 <body>
 <div type="chapter" n="77">
 <div>
-<p>
-<name key="null" type="null">　　元</name>祐<pc>《</pc>
+<p>　　<date notBefore="1086" notAfter="1094">元祐</date>
+<pc>《</pc>
 <title>觀天曆</title>
 <pc>》</pc>
 </p>
 </div>
 <div>
 <p>　　演紀上元<num value="1">甲子</num>
-<pc>，</pc>距元祐<measure quantity="7" unit="years">
+<pc>，</pc>距<date notBefore="1086" notAfter="1094">元祐</date>
+<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <num value="9">壬申</num>
 <pc>，</pc>歲積<num value="5944808">五百九十四萬四千八百八</num>算<pc>。</pc>上考往古<pc>，</pc>每年減<num value="1">一</num>
@@ -716,7 +717,9 @@
 </p>
 </div>
 <div>
-<p>　　黃道過宮太史局吳澤等補治有此<num value="1">一</num>段<pc>，</pc>開封進士吳時舉<pc>、</pc>國學進士程憙<pc>、</pc>常州<num value="100">百</num>姓張文進本並無之<pc>。</pc>
+<p>　　黃道過宮太史局吳澤等補治有此<num value="1">一</num>段<pc>，</pc>開封進士吳時舉<pc>、</pc>國學進士程憙<pc>、</pc>
+<placeName>常州</placeName>
+<num value="100">百</num>姓張文進本並無之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -919,9 +922,9 @@
 <num value="1">一</num>日</measure>
 <pc>；</pc>望若有交<pc>，</pc>虧初在日出分已前者<pc>，</pc>其定望小余雖滿日出分<pc>，</pc>亦退<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
-<pc>。</pc>又有月行<num value="9">九</num>道遲疾<pc>，</pc>曆有<num value="3">三</num>大<num value="2">二</num>小者<pc>；</pc>依盈縮累增損之<pc>，</pc>則有<num value="4">四</num>大<num value="3">三</num>小<pc>，</pc>理數然也<pc>。</pc>若俯循常儀<pc>，</pc>當察加時早晚<pc>，</pc>隨其所近而進<name key="韓愈" type="zi">
-<persName>退之</persName>
-</name>
+<pc>。</pc>又有月行<num value="9">九</num>道遲疾<pc>，</pc>曆有<num value="3">三</num>大<num value="2">二</num>小者<pc>；</pc>依盈縮累增損之<pc>，</pc>則有<num value="4">四</num>大<num value="3">三</num>小<pc>，</pc>理數然也<pc>。</pc>若俯循常儀<pc>，</pc>當察加時早晚<pc>，</pc>隨其所近而進<persName>
+<name key="韓愈" type="zi">退之</name>
+</persName>
 <pc>，</pc>使不過<num value="3">三</num>大<num value="2">二</num>小<pc>。</pc>
 </p>
 </div>

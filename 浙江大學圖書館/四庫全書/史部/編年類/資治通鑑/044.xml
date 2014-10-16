@@ -105,8 +105,10 @@
 </div>
 <div>
 <p>
-<num value="10000">萬</num>人<pc>，</pc>待兩骨都侯還<pc>，</pc>欲殺之<pc>。</pc>骨都侯且到<pc>，</pc>知其謀<pc>，</pc>亡去<pc>。</pc>單于遣<num value="10000">萬</num>騎擊之<pc>，</pc>見比眾盛<pc>，</pc>不敢進而還
-<pc>。</pc>
+<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>，</pc>待兩骨都侯還<pc>，</pc>欲殺之<pc>。</pc>骨都侯且到<pc>，</pc>知其謀<pc>，</pc>亡去<pc>。</pc>單于遣<measure quantity="10000" unit="riders">
+<num value="10000">萬</num>騎</measure>擊之<pc>，</pc>見比眾盛<pc>，</pc>不敢進而還<pc>。</pc>
 </p>
 </div>
 <div>
@@ -177,7 +179,8 @@
 <pc>「</pc>匈奴饑疫分</p>
 </div>
 <div>
-<p>爭<pc>，</pc>臣願得<num value="5000">五千</num>騎以立功<pc>。</pc>
+<p>爭<pc>，</pc>臣願得<measure quantity="5000" unit="riders">
+<num value="5000">五千</num>騎</measure>以立功<pc>。</pc>
 <pc>」</pc>帝笑曰<pc>：</pc>
 <pc>「</pc>
 <quote>常勝之家<pc>，</pc>難與慮敵<pc>，</pc>吾方自思之<pc>。</pc>
@@ -393,7 +396,9 @@
 </p>
 </div>
 <div>
-<p>是歲<pc>，</pc>遼西烏桓大人郝旦等率眾內屬<pc>，</pc>詔封烏桓渠帥為侯<pc>、</pc>王<pc>、</pc>君長者<num value="81">八十一</num>人<pc>，</pc>使居塞內<pc>，</pc>佈於緣邊</p>
+<p>是歲<pc>，</pc>遼西烏桓大人郝旦等率眾內屬<pc>，</pc>詔封烏桓渠帥為侯<pc>、</pc>王<pc>、</pc>君長者<measure quantity="81" unit="people">
+<num value="81">八十一</num>人</measure>
+<pc>，</pc>使居塞內<pc>，</pc>佈於緣邊</p>
 </div>
 <div>
 <p>諸郡<pc>，</pc>令招來種人<pc>，</pc>給其衣食<pc>，</pc>遂為漢偵候<pc>，</pc>助擊匈奴<pc>、</pc>鮮卑<pc>。</pc>時司徒掾班彪上言<pc>：</pc>
@@ -433,7 +438,9 @@
 </p>
 </div>
 <div>
-<p>詔遣中郎將段郴<pc>、</pc>副校尉王郁使南匈奴<pc>，</pc>立其庭<pc>，</pc>去<num value="5">五</num>原西部塞<num value="80">八十</num>里<pc>。</pc>使者令單于伏拜受詔<pc>，</pc>單于顧</p>
+<p>詔遣中郎將段郴<pc>、</pc>副校尉王郁使南匈奴<pc>，</pc>立其庭<pc>，</pc>去<num value="5">五</num>原西部塞<measure quantity="80" unit="LIs">
+<num value="80">八十</num>里</measure>
+<pc>。</pc>使者令單于伏拜受詔<pc>，</pc>單于顧</p>
 </div>
 <div>
 <p>望有頃<pc>，</pc>乃伏稱臣<pc>。</pc>拜訖<pc>，</pc>令譯曉使者曰<pc>：</pc>
@@ -455,10 +462,14 @@
 </div>
 <div>
 <p>
-<pc>。</pc>詔賜單于冠帶<pc>、</pc>璽綬<pc>、</pc>車馬<pc>、</pc>金帛<pc>、</pc>甲兵<pc>、</pc>什器<pc>。</pc>又轉河東米□<num value="25000">二萬五千</num>斛<pc>，</pc>牛羊<num value="36000">三萬六千</num>頭以贍給</p>
+<pc>。</pc>詔賜單于冠帶<pc>、</pc>璽綬<pc>、</pc>車馬<pc>、</pc>金帛<pc>、</pc>甲兵<pc>、</pc>什器<pc>。</pc>又轉河東米□<measure quantity="25000" unit="HUs">
+<num value="25000">二萬五千</num>斛</measure>
+<pc>，</pc>牛羊<num value="36000">三萬六千</num>頭以贍給</p>
 </div>
 <div>
-<p>之<pc>。</pc>令中郎將將弛刑<num value="50">五十</num>人<pc>，</pc>隨單于所處<pc>，</pc>參辭訟<pc>，</pc>察動靜<pc>。</pc>單于歲盡輒遣奉奏<pc>，</pc>送侍子入朝<pc>，</pc>漢遣謁</p>
+<p>之<pc>。</pc>令中郎將將弛刑<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>，</pc>隨單于所處<pc>，</pc>參辭訟<pc>，</pc>察動靜<pc>。</pc>單于歲盡輒遣奉奏<pc>，</pc>送侍子入朝<pc>，</pc>漢遣謁</p>
 </div>
 <div>
 <p>者送前侍子還單于庭<pc>，</pc>賜單于及閼氏<pc>、</pc>左<pc>、</pc>右賢王以下繒彩合<num value="10000">萬</num>匹<pc>，</pc>歲以為常<pc>。</pc>於是雲中<pc>、</pc>
@@ -473,11 +484,14 @@
 </p>
 </div>
 <div>
-<p>冬<pc>，</pc>南匈奴<num value="5">五</num>骨都侯子復將其眾<num value="3000">三千</num>人歸南部<pc>，</pc>北單于使騎追擊<pc>，</pc>悉獲其眾<pc>。</pc>南單于遣兵拒之<pc>，</pc>逆戰不</p>
+<p>冬<pc>，</pc>南匈奴<num value="5">五</num>骨都侯子復將其眾<measure quantity="3000" unit="people">
+<num value="3000">三千</num>人</measure>歸南部<pc>，</pc>北單于使騎追擊<pc>，</pc>悉獲其眾<pc>。</pc>南單于遣兵拒之<pc>，</pc>逆戰不</p>
 </div>
 <div>
 <p>利<pc>，</pc>於是復詔單于徙居西河美稷<pc>，</pc>因使段郴<pc>、</pc>王郁留西河擁護之<pc>，</pc>令西河長史歲將騎<num value="2000">二千</num>
-<pc>、</pc>弛刑<num value="500">五百</num>人</p>
+<pc>、</pc>弛刑<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>
+</p>
 </div>
 <div>
 <p>助中郎將衛護單于<pc>，</pc>冬屯夏罷<pc>，</pc>自後以為常<pc>。</pc>南單于既居西河<pc>，</pc>亦列置諸部王<pc>，</pc>助漢扞戍北地<pc>、</pc>朔方<pc>、</pc>
@@ -538,7 +552,8 @@
 </div>
 <div>
 <p>赤地<pc>，</pc>疲睏乏力<pc>，</pc>不當中國<num value="1">一</num>郡<pc>，</pc>
-<num value="10000">萬</num>里死命<pc>，</pc>縣在陛下<pc>。</pc>福不再來<pc>，</pc>時或易失<pc>，</pc>豈宜固守文德而墮武事</p>
+<measure quantity="10000" unit="LIs">
+<num value="10000">萬</num>里</measure>死命<pc>，</pc>縣在陛下<pc>。</pc>福不再來<pc>，</pc>時或易失<pc>，</pc>豈宜固守文德而墮武事</p>
 </div>
 <div>
 <p>乎<pc>！</pc>今命將臨塞<pc>，</pc>厚縣購賞<pc>，</pc>喻告高句驪<pc>、</pc>烏桓<pc>、</pc>鮮卑攻其左<pc>，</pc>發河西<num value="4">四</num>郡<pc>、</pc>天水<pc>、</pc>隴西羌<pc>、</pc>胡擊其右</p>
@@ -683,7 +698,8 @@
 <pc>「</pc>
 <quote>欲置傅者<pc>，</pc>以輔太子也<pc>；</pc>今博士不難正朕<pc>，</pc>況太子乎<pc>！</pc>
 </quote>
-<pc>」</pc>即拜佚為太子太傅<pc>，</pc>以博士桓</p>
+<pc>」</pc>即拜佚為<term>太子太傅</term>
+<pc>，</pc>以博士桓</p>
 </div>
 <div>
 <p>榮為少傅<pc>，</pc>賜以輜車<pc>、</pc>乘馬<pc>。</pc>榮大會諸生<pc>，</pc>陳其車馬<pc>、</pc>印綬<pc>，</pc>曰<pc>：</pc>
@@ -1192,7 +1208,9 @@
 <pc>」</pc>蒼懇</p>
 </div>
 <div>
-<p>辭<pc>，</pc>帝不許<pc>。</pc>又詔驃騎將軍置長史<pc>、</pc>掾史員<num value="40">四十</num>人<pc>，</pc>位在<num value="3">三</num>公上<pc>。</pc>蒼嘗薦西曹掾齊國吳良<pc>，</pc>帝曰<pc>：</pc>
+<p>辭<pc>，</pc>帝不許<pc>。</pc>又詔驃騎將軍置長史<pc>、</pc>掾史員<measure quantity="40" unit="people">
+<num value="40">四十</num>人</measure>
+<pc>，</pc>位在<num value="3">三</num>公上<pc>。</pc>蒼嘗薦西曹掾齊國吳良<pc>，</pc>帝曰<pc>：</pc>
 <pc>「</pc>薦</p>
 </div>
 <div>
@@ -1212,7 +1230,8 @@
 </div>
 <div>
 <p>月<pc>，</pc>復遣中郎將竇固監捕虜將軍馬武第<num value="2">二</num>將軍<pc>、</pc>
-<num value="40000">四萬</num>人討之<pc>。</pc>
+<measure quantity="40000" unit="people">
+<num value="40000">四萬</num>人</measure>討之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1359,7 +1378,9 @@
 <pc>》</pc>於桓榮<pc>，</pc>及即帝位<pc>，</pc>猶尊榮以師禮<pc>。</pc>嘗幸太常府<pc>，</pc>令榮坐東面<pc>，</pc>設幾杖<pc>，</pc>會<num value="100">百</num>官及榮門</p>
 </div>
 <div>
-<p>生數<num value="100">百</num>人<pc>，</pc>上親自執業<pc>；</pc>諸生或避位發難<pc>，</pc>上謙曰<pc>：</pc>
+<p>生數<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>上親自執業<pc>；</pc>諸生或避位發難<pc>，</pc>上謙曰<pc>：</pc>
 <pc>「</pc>
 <quote>太師在是<pc>。</pc>
 </quote>
@@ -1501,7 +1522,9 @@
 </div>
 <div>
 <p>
-<pc>、</pc>銚期<pc>、</pc>劉植<pc>、</pc>耿純<pc>、</pc>臧宮<pc>、</pc>馬武<pc>、</pc>劉隆<pc>，</pc>又益以王常<pc>、</pc>李通<pc>、</pc>竇融<pc>、</pc>卓茂<pc>，</pc>合<num value="32">三十二</num>人<pc>。</pc>馬援以椒房</p>
+<pc>、</pc>銚期<pc>、</pc>劉植<pc>、</pc>耿純<pc>、</pc>臧宮<pc>、</pc>馬武<pc>、</pc>劉隆<pc>，</pc>又益以王常<pc>、</pc>李通<pc>、</pc>竇融<pc>、</pc>卓茂<pc>，</pc>合<measure quantity="32" unit="people">
+<num value="32">三十二</num>人</measure>
+<pc>。</pc>馬援以椒房</p>
 </div>
 <div>
 <p>之親<pc>，</pc>獨不與焉<pc>。</pc>
@@ -1535,12 +1558,15 @@
 <div>
 <p>苦宮室小狹<pc>，</pc>但患民不安寧<pc>，</pc>宜且罷止<pc>，</pc>以應天心<pc>。</pc>
 <pc>」</pc>帝策詔報曰<pc>：</pc>
-<pc>「</pc>湯引<num value="6">六</num>事<pc>，</pc>咎在<num value="1">一</num>人<pc>，</pc>其冠<pc>、</pc>履</p>
+<pc>「</pc>湯引<num value="6">六</num>事<pc>，</pc>咎在<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>，</pc>其冠<pc>、</pc>履</p>
 </div>
 <div>
 <p>
 <pc>，</pc>勿謝<pc>！</pc>
-<pc>」</pc>又敕大匠止作諸宮<pc>，</pc>減省不急<pc>。</pc>詔因謝公卿<num value="100">百</num>僚<pc>，</pc>遂慶時澍雨<pc>。</pc>意薦全椒長劉平<pc>，</pc>詔征拜議</p>
+<pc>」</pc>又敕大匠止作諸宮<pc>，</pc>減省不急<pc>。</pc>詔因謝公卿<num value="100">百</num>僚<pc>，</pc>遂慶時澍雨<pc>。</pc>意薦全椒長<persName>劉平</persName>
+<pc>，</pc>詔征拜議</p>
 </div>
 <div>
 <p>郎<pc>。</pc>平在全椒<pc>，</pc>政有恩惠<pc>，</pc>民或增貲就賦<pc>，</pc>或減年從役<pc>。</pc>剌史<pc>、</pc>太守行部<pc>，</pc>獄無系囚<pc>，</pc>人自以得所<pc>，</pc>不</p>

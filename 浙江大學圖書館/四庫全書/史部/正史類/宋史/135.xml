@@ -24,9 +24,7 @@
 <body>
 <div type="chapter" n="135">
 <div>
-<p>
-<name key="null" type="null">◎樂<num value="10">十</num>
-</name>
+<p>◎樂<num value="10">十</num>
 <pc>（</pc>樂章<num value="4">四</num>
 <pc>）</pc>
 </p>
@@ -80,7 +78,8 @@
 <p>功德累洽<pc>，</pc>曆數會昌<pc>。</pc>孝思罔極<pc>，</pc>丕祐無疆<pc>。</pc>亞<pc>、</pc>終獻<pc>，</pc>
 <pc>《</pc>
 <title>衝安</title>
-<pc>》</pc>太初非有體<pc>，</pc>至道本無聲<pc>。</pc>降跡臨下土<pc>，</pc>成功陟上清<pc>。</pc>至仁敦動植<pc>，</pc>丕緒啟宗祊<pc>。</pc>紫禁承來格<pc>，</pc>鴻基保永寧<pc>。</pc>
+<pc>》</pc>太初非有體<pc>，</pc>
+<date notBefore="995" notAfter="997">至道</date>本無聲<pc>。</pc>降跡臨下土<pc>，</pc>成功陟上清<pc>。</pc>至仁敦動植<pc>，</pc>丕緒啟宗祊<pc>。</pc>紫禁承來格<pc>，</pc>鴻基保永寧<pc>。</pc>
 </p>
 </div>
 <div>
@@ -170,7 +169,8 @@
 <p>金奏以諧<pc>，</pc>飆遊斯格<pc>。</pc>靈監章明<pc>，</pc>皇心勵翼<pc>。</pc>肅奉雕俎<pc>，</pc>來升彩席<pc>。</pc>享德有孚<pc>，</pc>凝禧無斁<pc>。</pc>酌獻<pc>，</pc>
 <pc>《</pc>
 <title>大安</title>
-<pc>》</pc>欽崇至道<pc>，</pc>肅謁殊庭<pc>。</pc>順風而拜<pc>，</pc>明德惟馨<pc>。</pc>
+<pc>》</pc>欽崇<date notBefore="995" notAfter="997">至道</date>
+<pc>，</pc>肅謁殊庭<pc>。</pc>順風而拜<pc>，</pc>明德惟馨<pc>。</pc>
 </p>
 </div>
 <div>
@@ -178,7 +178,9 @@
 <pc>《</pc>
 <title>大安</title>
 <pc>》</pc>彼渦之壤<pc>，</pc>指李之區<pc>。</pc>
-<num value="1000">千</num>乘<num value="10000">萬</num>騎<pc>，</pc>來朝密都<pc>。</pc>躬陳芳薦<pc>，</pc>款接仙輿<pc>。</pc>飲酒受福<pc>，</pc>永耀鴻圖<pc>。</pc>
+<num value="1000">千</num>乘<measure quantity="10000" unit="riders">
+<num value="10000">萬</num>騎</measure>
+<pc>，</pc>來朝密都<pc>。</pc>躬陳芳薦<pc>，</pc>款接仙輿<pc>。</pc>飲酒受福<pc>，</pc>永耀鴻圖<pc>。</pc>
 </p>
 </div>
 <div>
@@ -204,7 +206,8 @@
 </p>
 </div>
 <div>
-<p>穆穆真宗<pc>，</pc>錫羨蕃昌<pc>。</pc>飆輪臨貺<pc>，</pc>諄誨洞彰<pc>。</pc>虔崇懿號<pc>，</pc>祗答景祥<pc>。</pc>至誠致享<pc>，</pc>降福無疆<pc>。</pc>景祐元年親享景靈宮<num value="2">二</num>首降真<pc>，</pc>
+<p>穆穆真宗<pc>，</pc>錫羨蕃昌<pc>。</pc>飆輪臨貺<pc>，</pc>諄誨洞彰<pc>。</pc>虔崇懿號<pc>，</pc>祗答景祥<pc>。</pc>至誠致享<pc>，</pc>降福無疆<pc>。</pc>
+<date notBefore="1034" notAfter="1038">景祐</date>元年親享景靈宮<num value="2">二</num>首降真<pc>，</pc>
 <pc>《</pc>
 <title>太安</title>
 <pc>》</pc>
@@ -214,7 +217,9 @@
 <p>真館奉幣<pc>，</pc>潔齊致馨<pc>。</pc>靈因斯格<pc>，</pc>社稷慶寧<pc>。</pc>送真<pc>，</pc>
 <pc>《</pc>
 <title>太安</title>
-<pc>》</pc>椒漿尊享<pc>，</pc>珍饌精祈<pc>。</pc>容杳邈<pc>，</pc>瑤輅霞飛<pc>。</pc>大觀<measure quantity="3" unit="years">
+<pc>》</pc>椒漿尊享<pc>，</pc>珍饌精祈<pc>。</pc>容杳邈<pc>，</pc>瑤輅霞飛<pc>。</pc>
+<date notBefore="1107" notAfter="1110">大觀</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>朝獻景靈宮<num value="2">二</num>首</p>
 </div>
 <div>
@@ -458,9 +463,7 @@
 <p>奉饌<pc>，</pc>
 <pc>《</pc>
 <title>吉安</title>
-<pc>》</pc>發祥仙源<pc>，</pc>流澤<num value="10000">萬</num>世<pc>。</pc>曷其報之<pc>？</pc>親饗<measure quantity="3" unit="years">
-<num value="3">三</num>歲</measure>
-<pc>。</pc>相維列卿<pc>，</pc>潔粢是饋<pc>。</pc>匪物之尚<pc>，</pc>誠之為至<pc>。</pc>再詣盥洗<pc>，</pc>
+<pc>》</pc>發祥仙源<pc>，</pc>流澤<num value="10000">萬</num>世<pc>。</pc>曷其報之<pc>？</pc>親饗<num value="3">三</num>歲<pc>。</pc>相維列卿<pc>，</pc>潔粢是饋<pc>。</pc>匪物之尚<pc>，</pc>誠之為至<pc>。</pc>再詣盥洗<pc>，</pc>
 <pc>《</pc>
 <title>乾安</title>
 <pc>》</pc>
@@ -665,7 +668,8 @@
 </p>
 </div>
 <div>
-<p>慶雲鬱鬱<pc>，</pc>鳴璆琅琅<pc>。</pc>澹其容與<pc>，</pc>申薦貳觴<pc>。</pc>奉承若宥<pc>，</pc>神其樂康<pc>。</pc>錫以多祉<pc>，</pc>源深流長<pc>。</pc>大中祥符封禪<num value="10">十</num>首<pc>（</pc>餘同南<pc>、</pc>北郊<pc>）</pc>
+<p>慶雲鬱鬱<pc>，</pc>鳴璆琅琅<pc>。</pc>澹其容與<pc>，</pc>申薦貳觴<pc>。</pc>奉承若宥<pc>，</pc>神其樂康<pc>。</pc>錫以多祉<pc>，</pc>源深流長<pc>。</pc>
+<date notBefore="1008" notAfter="1016">大中祥符</date>封禪<num value="10">十</num>首<pc>（</pc>餘同南<pc>、</pc>北郊<pc>）</pc>
 <pc>。</pc>山上圜台降神<pc>，</pc>
 <pc>《</pc>
 <title>高安</title>

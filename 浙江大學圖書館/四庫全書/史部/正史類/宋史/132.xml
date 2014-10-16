@@ -24,11 +24,9 @@
 <body>
 <div type="chapter" n="132">
 <div>
-<p>
-<name key="null" type="null">◎樂<num value="7">七</num>
-</name>
+<p>◎樂<num value="7">七</num>
 <pc>（</pc>樂章<num value="1">一</num>
-<pc>）</pc>○郊祀祈穀雩祀<num value="5">五</num>方帝感生帝建隆郊祀<num value="8">八</num>曲</p>
+<pc>）</pc>○郊祀祈穀雩祀<num value="5">五</num>方帝感生帝<date notBefore="960" notAfter="963">建隆</date>郊祀<num value="8">八</num>曲</p>
 </div>
 <div>
 <p>降神<pc>，</pc>
@@ -71,7 +69,8 @@
 <pc>》</pc>謂天蓋高<pc>，</pc>其聽孔卑<pc>。</pc>聞樂歆德<pc>，</pc>介以福禧<pc>。</pc>送神<pc>，</pc>
 <pc>《</pc>
 <title>高安</title>
-<pc>》</pc>倏兮而來<pc>，</pc>忽兮而回<pc>。</pc>雲馭杳邈<pc>，</pc>天門洞開<pc>。</pc>鹹平親郊<num value="8">八</num>首</p>
+<pc>》</pc>倏兮而來<pc>，</pc>忽兮而回<pc>。</pc>雲馭杳邈<pc>，</pc>天門洞開<pc>。</pc>
+<date notBefore="998" notAfter="1003">鹹平</date>親郊<num value="8">八</num>首</p>
 </div>
 <div>
 <p>降神<pc>，</pc>
@@ -101,9 +100,11 @@
 </p>
 </div>
 <div>
-<p>飲福<pc>，</pc>
+<p>飲<placeName>福</placeName>
+<pc>，</pc>
 <pc>《</pc>
-<title>禧安</title>
+<title>禧<placeName>安</placeName>
+</title>
 <pc>》</pc>祀帝圜丘<pc>，</pc>
 <measure quantity="9" unit="prefectures">
 <num value="9">九</num>州</measure>獻力<pc>。</pc>禮行於郊<pc>，</pc>
@@ -117,7 +118,8 @@
 <pc>》</pc>羽籥雲罷<pc>，</pc>幹戚載揚<pc>。</pc>接神有恪<pc>，</pc>錫羨無疆<pc>。</pc>送神<pc>，</pc>
 <pc>《</pc>
 <title>高安</title>
-<pc>》</pc>神駕來思<pc>，</pc>風舉雲飛<pc>。</pc>神馭歸止<pc>，</pc>天空露晞<pc>。</pc>景祐親郊<pc>，</pc>
+<pc>》</pc>神駕來思<pc>，</pc>風舉雲飛<pc>。</pc>神馭歸止<pc>，</pc>天空露晞<pc>。</pc>
+<date notBefore="1034" notAfter="1038">景祐</date>親郊<pc>，</pc>
 <num value="3">三</num>聖並侑<num value="2">二</num>首</p>
 </div>
 <div>
@@ -138,7 +140,9 @@
 <pc>》</pc>翕受駿命<pc>，</pc>震疊群方<pc>。</pc>侑祀上帝<pc>，</pc>德厚流光<pc>。</pc>酌獻<pc>，</pc>
 <pc>《</pc>
 <title>英安</title>
-<pc>》</pc>誕受靈符<pc>，</pc>肇基丕業<pc>。</pc>配享潔尊<pc>，</pc>永隆<num value="10000">萬</num>葉<pc>。</pc>元符親郊<num value="5">五</num>首<pc>（</pc>餘同鹹平<pc>，</pc>凡闕者皆用舊詞<pc>）</pc>
+<pc>》</pc>誕受靈符<pc>，</pc>肇基丕業<pc>。</pc>配享潔尊<pc>，</pc>永隆<num value="10000">萬</num>葉<pc>。</pc>
+<date notBefore="1098" notAfter="1100">元符</date>親郊<num value="5">五</num>首<pc>（</pc>餘同<date notBefore="998" notAfter="1003">鹹平</date>
+<pc>，</pc>凡闕者皆用舊詞<pc>）</pc>
 <pc>。</pc>
 </p>
 </div>
@@ -203,7 +207,7 @@
 </p>
 </div>
 <div>
-<p>高宗建炎初<pc>，</pc>國步尚艱<pc>，</pc>乃詔有司<pc>，</pc>天帝地祗及他大祀<pc>，</pc>先以時舉<pc>。</pc>太常尋奏<pc>，</pc>近已增募樂工<pc>，</pc>幹<pc>、</pc>羽<pc>、</pc>簨<pc>、</pc>虡亦備<pc>，</pc>始循舊禮<pc>，</pc>用登歌樂舞<pc>。</pc>其祀昊天上帝<pc>。</pc>
+<p>高宗<date notBefore="1127" notAfter="1130">建炎</date>初<pc>，</pc>國步尚艱<pc>，</pc>乃詔有司<pc>，</pc>天帝地祗及他大祀<pc>，</pc>先以時舉<pc>。</pc>太常尋奏<pc>，</pc>近已增募樂工<pc>，</pc>幹<pc>、</pc>羽<pc>、</pc>簨<pc>、</pc>虡亦備<pc>，</pc>始循舊禮<pc>，</pc>用登歌樂舞<pc>。</pc>其祀昊天上帝<pc>。</pc>
 </p>
 </div>
 <div>
@@ -368,7 +372,8 @@
 <pc>《</pc>
 <title>嘉安</title>
 <pc>》</pc>
-<pc>（</pc>禦製<pc>）</pc>上穹昊天<pc>，</pc>日星垂曜<pc>。</pc>照臨下土<pc>，</pc>王國是保<pc>。</pc>維玉與帛<pc>，</pc>寅恭昭報<pc>。</pc>永左右之<pc>，</pc>欽若至道<pc>。</pc>皇地祗位奠玉幣<pc>，</pc>
+<pc>（</pc>禦製<pc>）</pc>上穹昊天<pc>，</pc>日星垂曜<pc>。</pc>照臨下土<pc>，</pc>王國是保<pc>。</pc>維玉與帛<pc>，</pc>寅恭昭報<pc>。</pc>永左右之<pc>，</pc>欽若<date notBefore="995" notAfter="997">至道</date>
+<pc>。</pc>皇地祗位奠玉幣<pc>，</pc>
 <pc>《</pc>
 <title>嘉安</title>
 <pc>》</pc>
@@ -387,7 +392,7 @@
 <p>表正封略<pc>，</pc>上際下蟠<pc>。</pc>躬以大報<pc>，</pc>亦止於燔<pc>。</pc>太宗皇帝位奠玉幣<pc>，</pc>
 <pc>《</pc>
 <title>化安</title>
-<pc>》</pc>禦製<pc>。</pc>赫赫巍巍<pc>，</pc>及時純熙<pc>。</pc>昊天成命<pc>，</pc>後則受之<pc>。</pc>登邁邃古<pc>，</pc>光被聲詩<pc>。</pc>有幣陟配<pc>，</pc>孫謀所貽<pc>。</pc>
+<pc>》</pc>禦製<pc>。</pc>赫赫巍巍<pc>，</pc>及時純熙<pc>。</pc>昊<date notBefore="926" notAfter="930">天成</date>命<pc>，</pc>後則受之<pc>。</pc>登邁邃古<pc>，</pc>光被聲詩<pc>。</pc>有幣陟配<pc>，</pc>孫謀所貽<pc>。</pc>
 </p>
 </div>
 <div>
@@ -484,7 +489,11 @@
 </p>
 </div>
 <div>
-<p>兵寢刑措<pc>，</pc>時和歲豐<pc>。</pc>其膺受之<pc>，</pc>將施無窮<pc>（</pc>降壇同<pc>，</pc>止易<pc>“</pc>將<pc>”</pc>作<pc>“</pc>以<pc>”</pc>
+<p>兵寢刑措<pc>，</pc>時和歲豐<pc>。</pc>其膺受之<pc>，</pc>將施無窮<pc>（</pc>降壇同<pc>，</pc>止易<pc>“</pc>
+<quote>將</quote>
+<pc>”</pc>作<pc>“</pc>
+<quote>以</quote>
+<pc>”</pc>
 <pc>）</pc>
 <pc>。</pc>飲福<pc>，</pc>
 <pc>《</pc>
@@ -702,7 +711,8 @@
 <title>乾安</title>
 <pc>》</pc>
 <num value="8">八</num>福嗬蹕<pc>，</pc>
-<num value="1000">千</num>官景從<pc>。</pc>回軫還衡<pc>，</pc>祲威盛容<pc>。</pc>妥飾芝鳳<pc>，</pc>禦朝雲龍<pc>。</pc>歸壽慈闈<pc>，</pc>敷時民雍<pc>。</pc>景祐上辛祈穀<pc>，</pc>仁宗禦製<num value="2">二</num>首</p>
+<num value="1000">千</num>官景從<pc>。</pc>回軫還衡<pc>，</pc>祲威盛容<pc>。</pc>妥飾芝鳳<pc>，</pc>禦朝雲龍<pc>。</pc>歸壽慈闈<pc>，</pc>敷時民雍<pc>。</pc>
+<date notBefore="1034" notAfter="1038">景祐</date>上辛祈穀<pc>，</pc>仁宗禦製<num value="2">二</num>首</p>
 </div>
 <div>
 <p>太宗配位奠幣<pc>，</pc>
@@ -796,7 +806,8 @@
 </p>
 </div>
 <div>
-<p>送神有章<pc>，</pc>神心具醉<pc>。</pc>輔德惟仁<pc>，</pc>永錫元祉<pc>。</pc>景德以後祀<num value="5">五</num>方帝<num value="16">十六</num>首青帝降神<pc>，</pc>
+<p>送神有章<pc>，</pc>神心具醉<pc>。</pc>輔德惟仁<pc>，</pc>永錫元祉<pc>。</pc>
+<date notBefore="1004" notAfter="1007">景德</date>以後祀<num value="5">五</num>方帝<num value="16">十六</num>首青帝降神<pc>，</pc>
 <pc>《</pc>
 <title>高安</title>
 <pc>》</pc>
@@ -834,7 +845,8 @@
 <pc>《</pc>
 <title>嘉安</title>
 <pc>》</pc>
-<pc>（</pc>景祐用<pc>《</pc>
+<pc>（</pc>
+<date notBefore="1034" notAfter="1038">景祐</date>用<pc>《</pc>
 <title>祐安</title>
 <pc>》</pc>
 <pc>，</pc>辭亦不同<pc>）</pc>象分離位<pc>，</pc>德配炎精<pc>。</pc>景風協律<pc>，</pc>化神含生<pc>。</pc>
@@ -856,7 +868,8 @@
 <pc>《</pc>
 <title>嘉安</title>
 <pc>》</pc>
-<pc>（</pc>景祐用<pc>《</pc>
+<pc>（</pc>
+<date notBefore="1034" notAfter="1038">景祐</date>用<pc>《</pc>
 <title>祐安</title>
 <pc>》</pc>
 <pc>，</pc>辭亦不同<pc>）</pc>中央定位<pc>，</pc>厚德惟新<pc>。</pc>
@@ -880,7 +893,8 @@
 <pc>《</pc>
 <title>嘉安</title>
 <pc>》</pc>
-<pc>（</pc>景祐用<pc>《</pc>
+<pc>（</pc>
+<date notBefore="1034" notAfter="1038">景祐</date>用<pc>《</pc>
 <title>祐安</title>
 <pc>》</pc>
 <pc>，</pc>辭亦不同<pc>）</pc>
@@ -904,7 +918,8 @@
 <pc>《</pc>
 <title>嘉安</title>
 <pc>》</pc>
-<pc>（</pc>景祐用<pc>《</pc>
+<pc>（</pc>
+<date notBefore="1034" notAfter="1038">景祐</date>用<pc>《</pc>
 <title>祐安</title>
 <pc>》</pc>
 <pc>，</pc>辭亦不同<pc>）</pc>
@@ -1262,7 +1277,8 @@
 </div>
 <div>
 <p>旗纛晻靄<pc>，</pc>
-<num value="10000">萬</num>靈喧豗<pc>。</pc>獨遺祉福<pc>，</pc>用澤<num value="9">九</num>垓<pc>。</pc>乾德以後祀感生帝<num value="10">十</num>首降神<pc>，</pc>
+<num value="10000">萬</num>靈喧豗<pc>。</pc>獨遺祉福<pc>，</pc>用澤<num value="9">九</num>垓<pc>。</pc>
+<date notBefore="963" notAfter="968">乾德</date>以後祀感生帝<num value="10">十</num>首降神<pc>，</pc>
 <pc>《</pc>
 <title>大安</title>
 <pc>》</pc>和均玉管<pc>，</pc>政協璿衡<pc>。</pc>
@@ -1303,7 +1319,8 @@
 <title>廣安</title>
 <pc>》</pc>
 <num value="3">三</num>陽戒律<pc>，</pc>
-<num value="10000">萬</num>彙騰精<pc>。</pc>既蘇昆蟲<pc>，</pc>畢達勾萌<pc>。</pc>具陳犧象<pc>，</pc>式薦誠明<pc>。</pc>錫以蕃祉<pc>，</pc>永保鹹平<pc>。</pc>亞<pc>、</pc>終獻<pc>，</pc>
+<num value="10000">萬</num>彙騰精<pc>。</pc>既蘇昆蟲<pc>，</pc>畢達勾萌<pc>。</pc>具陳犧象<pc>，</pc>式薦誠明<pc>。</pc>錫以蕃祉<pc>，</pc>永保<date notBefore="998" notAfter="1003">鹹平</date>
+<pc>。</pc>亞<pc>、</pc>終獻<pc>，</pc>
 <pc>《</pc>
 <title>文安</title>
 <pc>》</pc>
@@ -1321,7 +1338,8 @@
 <p>送神<pc>，</pc>
 <pc>《</pc>
 <title>普安</title>
-<pc>》</pc>既臨下土<pc>，</pc>複歸於天<pc>。</pc>神之報貺<pc>，</pc>受福無邊<pc>。</pc>景祐祀感生帝<num value="2">二</num>首宣祖配位奠幣<pc>，</pc>
+<pc>》</pc>既臨下土<pc>，</pc>複歸於天<pc>。</pc>神之報貺<pc>，</pc>受福無邊<pc>。</pc>
+<date notBefore="1034" notAfter="1038">景祐</date>祀感生帝<num value="2">二</num>首宣祖配位奠幣<pc>，</pc>
 <pc>《</pc>
 <title>皇安</title>
 <pc>》</pc>
@@ -1333,7 +1351,8 @@
 <num value="10000">萬</num>靈來護<pc>。</pc>酌獻<pc>，</pc>
 <pc>《</pc>
 <title>肅安</title>
-<pc>》</pc>龍德而隱<pc>，</pc>源流則長<pc>。</pc>宜乎億祀<pc>，</pc>侑享彌昌<pc>。</pc>元符祀感生帝<num value="5">五</num>首</p>
+<pc>》</pc>龍德而隱<pc>，</pc>源流則長<pc>。</pc>宜乎億祀<pc>，</pc>侑享彌昌<pc>。</pc>
+<date notBefore="1098" notAfter="1100">元符</date>祀感生帝<num value="5">五</num>首</p>
 </div>
 <div>
 <p>降神<pc>，</pc>
@@ -1375,13 +1394,15 @@
 <p>帝位奠玉幣同前<pc>《</pc>
 <title>慶安</title>
 <pc>》</pc>
-<pc>，</pc>禧祖奠幣同景祐<pc>《</pc>
+<pc>，</pc>禧祖奠幣同<date notBefore="1034" notAfter="1038">景祐</date>
+<pc>《</pc>
 <title>皇安</title>
 <pc>》</pc>
-<pc>，</pc>酌獻同景祐宣祖<pc>《</pc>
+<pc>，</pc>酌獻同<date notBefore="1034" notAfter="1038">景祐</date>宣祖<pc>《</pc>
 <title>肅安</title>
 <pc>》</pc>
-<pc>，</pc>奉俎同熙寧<pc>《</pc>
+<pc>，</pc>奉俎同<date notBefore="1068" notAfter="1077">熙寧</date>
+<pc>《</pc>
 <title>鹹安</title>
 <pc>》</pc>
 <pc>。</pc>紹興以後祀感生帝<num value="16">十六</num>首降神<pc>，</pc>

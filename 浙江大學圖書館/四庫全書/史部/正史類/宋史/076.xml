@@ -24,8 +24,7 @@
 <body>
 <div type="chapter" n="76">
 <div>
-<p>
-<name key="null" type="null">　　堯</name>敕羲和制橫簫以考察星度<pc>，</pc>其機衡用玉<pc>，</pc>欲其燥濕不變<pc>，</pc>運動有常<pc>，</pc>堅久而不能廢也<pc>。</pc>至於後世<pc>，</pc>鑄銅為圓儀<pc>，</pc>以法天體<pc>。</pc>自洛下閎造<pc>《</pc>
+<p>　　堯敕羲和制橫簫以考察星度<pc>，</pc>其機衡用玉<pc>，</pc>欲其燥濕不變<pc>，</pc>運動有常<pc>，</pc>堅久而不能廢也<pc>。</pc>至於後世<pc>，</pc>鑄銅為圓儀<pc>，</pc>以法天體<pc>。</pc>自洛下閎造<pc>《</pc>
 <title>太初曆</title>
 <pc>》</pc>
 <pc>，</pc>用渾儀<pc>，</pc>及東漢孝和帝時<pc>，</pc>太史惟有赤道儀<pc>，</pc>歲時測候<pc>，</pc>頗有進退<pc>。</pc>帝以問典星待詔姚崇等<pc>，</pc>皆曰<pc>：</pc>
@@ -37,8 +36,9 @@
 <pc>，</pc>賈逵始設黃道儀<pc>。</pc>桓帝延熹<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>張衡更制之<pc>，</pc>以<num value="4">四</num>分為度<pc>。</pc>其後<pc>，</pc>陸績<pc>、</pc>王蕃<pc>、</pc>孔挺<pc>、</pc>斛蘭<pc>、</pc>梁令瓚<pc>、</pc>李淳風並嘗製作<pc>。</pc>
-<date when="null">
-<num value="5">五</num>代</date>亂亡<pc>，</pc>遺法蕩然矣<pc>。</pc>真宗祥符初<pc>，</pc>韓顯符作渾儀<pc>，</pc>但遊儀雙環夾望筒旋轉<pc>，</pc>而黃<pc>、</pc>赤道相固不動<pc>。</pc>皇祐初<pc>，</pc>又命日官舒易簡<pc>、</pc>于淵<pc>、</pc>周琮等參用淳風<pc>、</pc>令瓚之制<pc>，</pc>改鑄黃道渾儀<pc>，</pc>又為漏刻<pc>、</pc>圭表<pc>，</pc>詔翰林學士錢明逸詳其法<pc>，</pc>內侍麥允言總其工<pc>。</pc>既成<pc>，</pc>置渾儀于翰林天文院之候台<pc>，</pc>漏刻於文德殿之鐘鼓樓<pc>，</pc>圭表于司天監<pc>。</pc>帝為制<pc>《</pc>
+<date notBefore="9999" notAfter="9999">
+<num value="5">五</num>代</date>亂亡<pc>，</pc>遺法蕩然矣<pc>。</pc>真宗祥符初<pc>，</pc>韓顯符作渾儀<pc>，</pc>但遊儀雙環夾望筒旋轉<pc>，</pc>而黃<pc>、</pc>赤道相固不動<pc>。</pc>
+<date notBefore="1049" notAfter="1054">皇祐</date>初<pc>，</pc>又命日官舒易簡<pc>、</pc>于淵<pc>、</pc>周琮等參用淳風<pc>、</pc>令瓚之制<pc>，</pc>改鑄黃道渾儀<pc>，</pc>又為漏刻<pc>、</pc>圭表<pc>，</pc>詔翰林學士錢明逸詳其法<pc>，</pc>內侍麥允言總其工<pc>。</pc>既成<pc>，</pc>置渾儀于翰林天文院之候台<pc>，</pc>漏刻於文德殿之鐘鼓樓<pc>，</pc>圭表于司天監<pc>。</pc>帝為制<pc>《</pc>
 <title>渾儀總要</title>
 <pc>》</pc>
 <measure quantity="10" unit="chapters">
@@ -114,21 +114,24 @@
 </p>
 </div>
 <div>
-<p>　　皇祐漏刻</p>
+<p>　　<date notBefore="1049" notAfter="1054">皇祐</date>漏刻</p>
 </div>
 <div>
 <p>　　自黃帝觀漏水<pc>，</pc>制器取則<pc>，</pc>
 <num value="3">三</num>代因以命官<pc>，</pc>則挈壺氏其職也<pc>。</pc>後之作者<pc>，</pc>或下漏<pc>，</pc>或浮漏<pc>，</pc>或輪漏<pc>，</pc>或權衡<pc>，</pc>製作不<num value="1">一</num>
-<pc>。</pc>宋舊有刻漏及以水為權衡<pc>，</pc>置文德殿之東廡<pc>。</pc>景祐<measure quantity="3" unit="years">
+<pc>。</pc>宋舊有刻漏及以水為權衡<pc>，</pc>置文德殿之東廡<pc>。</pc>
+<date notBefore="1034" notAfter="1038">景祐</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>再加考定<pc>，</pc>而水有遲疾<pc>，</pc>用有司之請<pc>，</pc>增平水壺<num value="1">一</num>
 <pc>、</pc>渴烏<num value="2">二</num>
 <pc>、</pc>晝夜箭<num value="21">二十一</num>
-<pc>。</pc>然常以<num value="4">四</num>時日出傳卯正<num value="1">一</num>刻<pc>，</pc>又每時正已傳<num value="1">一</num>刻<pc>，</pc>至<num value="8">八</num>刻已傳次時<pc>，</pc>即<num value="2">二</num>時初末相侵殆半<pc>。</pc>皇祐初<pc>，</pc>詔舒易簡<pc>、</pc>于淵<pc>、</pc>周琮更造<pc>，</pc>其法用平水重壺均調水勢<pc>，</pc>使無遲疾<pc>。</pc>分<num value="100">百</num>刻於晝夜<pc>；</pc>冬至晝漏<num value="40">四十</num>刻<pc>，</pc>夜漏<num value="60">六十</num>刻<pc>；</pc>夏至晝漏<num value="60">六十</num>刻<pc>，</pc>夜漏<num value="40">四十</num>刻<pc>；</pc>春秋<num value="2">二</num>分晝夜各<num value="50">五十</num>刻<pc>。</pc>日未出前<num value="2">二</num>刻半為曉<pc>，</pc>日沒後<num value="2">二</num>刻半為昏<pc>，</pc>減夜<num value="5">五</num>刻以益晝漏<pc>，</pc>謂之昏旦漏刻<pc>。</pc>皆隨氣增損焉<pc>。</pc>冬至<pc>、</pc>夏至之間<pc>，</pc>晝夜長短凡差<num value="20">二十</num>刻<pc>，</pc>每差<num value="1">一</num>刻<pc>，</pc>別為<num value="1">一</num>箭<pc>，</pc>冬至互起其首<pc>，</pc>凡有<num value="41">四十一</num>箭<pc>。</pc>晝有朝<pc>、</pc>有禺<pc>、</pc>有中<pc>、</pc>有晡<pc>、</pc>有夕<pc>，</pc>夜有甲<pc>、</pc>乙<pc>、</pc>丙<pc>、</pc>丁<pc>、</pc>戊<pc>，</pc>昏旦有星中<pc>，</pc>每箭各異其數<pc>。</pc>凡黃道升降差<num value="2">二</num>度<num value="40">四十</num>分<pc>，</pc>則隨曆增減改箭<pc>。</pc>每時初行<num value="1">一</num>刻至<num value="4">四</num>刻<num value="6">六</num>分之<num value="1">一</num>為時正<pc>，</pc>終<num value="8">八</num>刻<num value="6">六</num>分之<num value="2">二</num>則交次時<pc>。</pc>今列<num value="24">二十四</num>氣<pc>、</pc>晝夜日出入辰刻<pc>、</pc>昏曉中星<pc>，</pc>以備參合<pc>。</pc>
+<pc>。</pc>然常以<num value="4">四</num>時日出傳卯正<num value="1">一</num>刻<pc>，</pc>又每時正已傳<num value="1">一</num>刻<pc>，</pc>至<num value="8">八</num>刻已傳次時<pc>，</pc>即<num value="2">二</num>時初末相侵殆半<pc>。</pc>
+<date notBefore="1049" notAfter="1054">皇祐</date>初<pc>，</pc>詔舒易簡<pc>、</pc>于淵<pc>、</pc>周琮更造<pc>，</pc>其法用平水重壺均調水勢<pc>，</pc>使無遲疾<pc>。</pc>分<num value="100">百</num>刻於晝夜<pc>；</pc>冬至晝漏<num value="40">四十</num>刻<pc>，</pc>夜漏<num value="60">六十</num>刻<pc>；</pc>夏至晝漏<num value="60">六十</num>刻<pc>，</pc>夜漏<num value="40">四十</num>刻<pc>；</pc>春秋<num value="2">二</num>分晝夜各<num value="50">五十</num>刻<pc>。</pc>日未出前<num value="2">二</num>刻半為曉<pc>，</pc>日沒後<num value="2">二</num>刻半為昏<pc>，</pc>減夜<num value="5">五</num>刻以益晝漏<pc>，</pc>謂之昏旦漏刻<pc>。</pc>皆隨氣增損焉<pc>。</pc>冬至<pc>、</pc>夏至之間<pc>，</pc>晝夜長短凡差<num value="20">二十</num>刻<pc>，</pc>每差<num value="1">一</num>刻<pc>，</pc>別為<num value="1">一</num>箭<pc>，</pc>冬至互起其首<pc>，</pc>凡有<num value="41">四十一</num>箭<pc>。</pc>晝有朝<pc>、</pc>有禺<pc>、</pc>有中<pc>、</pc>有晡<pc>、</pc>有夕<pc>，</pc>夜有甲<pc>、</pc>乙<pc>、</pc>丙<pc>、</pc>丁<pc>、</pc>戊<pc>，</pc>昏旦有星中<pc>，</pc>每箭各異其數<pc>。</pc>凡黃道升降差<num value="2">二</num>度<num value="40">四十</num>分<pc>，</pc>則隨曆增減改箭<pc>。</pc>每時初行<num value="1">一</num>刻至<num value="4">四</num>刻<num value="6">六</num>分之<num value="1">一</num>為時正<pc>，</pc>終<num value="8">八</num>刻<num value="6">六</num>分之<num value="2">二</num>則交次時<pc>。</pc>今列<num value="24">二十四</num>氣<pc>、</pc>晝夜日出入辰刻<pc>、</pc>昏曉中星<pc>，</pc>以備參合<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　皇祐圭表</p>
+<p>　　<date notBefore="1049" notAfter="1054">皇祐</date>圭表</p>
 </div>
 <div>
 <p>　　觀天地陰陽之體<pc>，</pc>以正位辨方<pc>、</pc>定時考閏<pc>，</pc>莫近乎圭表<pc>。</pc>宋何承天始立表候日景<pc>，</pc>
@@ -142,19 +145,22 @@
 <pc>》</pc>
 <pc>，</pc>用圭表測知舊曆氣節常後天<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
-<pc>。</pc>今司天監圭表乃石晉時天文參謀趙延乂所建<pc>，</pc>表既欹傾<pc>，</pc>圭亦墊陷<pc>，</pc>其於天度無所取正<pc>。</pc>皇祐初<pc>，</pc>詔周琮<pc>、</pc>于淵<pc>、</pc>舒易簡改制之<pc>，</pc>乃考古法<pc>，</pc>立<num value="8">八</num>尺銅表<pc>，</pc>厚<num value="2">二</num>寸<pc>，</pc>博<num value="4">四</num>寸<pc>，</pc>下連石圭<num value="1">一</num>丈<num value="3">三</num>尺<pc>，</pc>以盡冬至景長之數<pc>，</pc>面有雙水溝為平准<pc>，</pc>於溝雙刻尺寸分數<pc>，</pc>又刻<num value="24">二十四</num>氣岳台晷景所得尺寸<pc>，</pc>置於司天監<pc>。</pc>候之<measure quantity="3" unit="years">
+<pc>。</pc>今司天監圭表乃石晉時天文參謀趙延乂所建<pc>，</pc>表既欹傾<pc>，</pc>圭亦墊陷<pc>，</pc>其於天度無所取正<pc>。</pc>
+<date notBefore="1049" notAfter="1054">皇祐</date>初<pc>，</pc>詔周琮<pc>、</pc>于淵<pc>、</pc>舒易簡改制之<pc>，</pc>乃考古法<pc>，</pc>立<num value="8">八</num>尺銅表<pc>，</pc>厚<num value="2">二</num>寸<pc>，</pc>博<num value="4">四</num>寸<pc>，</pc>下連石圭<num value="1">一</num>丈<num value="3">三</num>尺<pc>，</pc>以盡冬至景長之數<pc>，</pc>面有雙水溝為平准<pc>，</pc>於溝雙刻尺寸分數<pc>，</pc>又刻<num value="24">二十四</num>氣岳台晷景所得尺寸<pc>，</pc>置於司天監<pc>。</pc>候之<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>知氣節比舊曆後天半日<pc>。</pc>因而成書<measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>
 <pc>，</pc>命曰<pc>《</pc>
 <title>岳台晷景新書</title>
-<pc>》</pc>論前代測候是非<pc>、</pc>步算之法頗詳<pc>。</pc>既上奏<pc>，</pc>詔翰林學士范鎮為序以識<pc>。</pc>琮以謂<num value="24">二十四</num>氣所得尺寸<pc>，</pc>比顯德<pc>《</pc>
+<pc>》</pc>論前代測候是非<pc>、</pc>步算之法頗詳<pc>。</pc>既上奏<pc>，</pc>詔翰林學士范鎮為序以識<pc>。</pc>琮以謂<num value="24">二十四</num>氣所得尺寸<pc>，</pc>比<date notBefore="954" notAfter="960">顯德</date>
+<pc>《</pc>
 <title>欽天曆</title>
 <pc>》</pc>王樸算為密<pc>。</pc>今載氣之盈縮<pc>，</pc>備採用焉<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　小雪<pc>，</pc>皇祐元年己醜<measure quantity="10" unit="months">
+<p>　　小雪<pc>，</pc>
+<date notBefore="1049" notAfter="1054">皇祐</date>元年己醜<measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <measure quantity="19" unit="days">
 <num value="19">十九</num>日</measure>
@@ -1239,7 +1245,8 @@
 <title>元嘉曆</title>
 <pc>》</pc>後<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
-<pc>，</pc>天數之正也<pc>。</pc>量檢彌年<pc>，</pc>則加減均同<pc>。</pc>異歲相課<pc>，</pc>則遠近應率<pc>。</pc>觀<num value="2">二</num>家之說<pc>，</pc>略而未通<pc>。</pc>熹平乃要取其中<pc>，</pc>而失於至前<pc>、</pc>至後之餘<pc>。</pc>大明則左右率<pc>，</pc>而失於為實<pc>、</pc>為法之數<pc>。</pc>若夫較景<pc>、</pc>定氣<pc>，</pc>曆家最為急務<pc>。</pc>觀古較驗<pc>，</pc>止以冬至前後數日之間<pc>，</pc>以定加時早晚<pc>。</pc>且景之差行<pc>，</pc>當<num value="2">二</num>至前後<pc>，</pc>進退在微芒之間<pc>。</pc>又日有變行<pc>，</pc>盈縮稍異<pc>，</pc>若以為准<pc>，</pc>則加時相背<pc>。</pc>又晉<pc>、</pc>漢曆術<pc>，</pc>多以前後所測晷要取其中<pc>，</pc>此亦差過半日<pc>。</pc>今比歲較驗<pc>，</pc>在立冬<pc>、</pc>立春景移過寸<pc>，</pc>若較取加時<pc>，</pc>則宜以其相近者通計<pc>，</pc>半之為距至泛日<pc>；</pc>乃以其晷數相減<pc>，</pc>餘者以法乘之<pc>，</pc>滿其日晷差而<num value="1">一</num>
+<pc>，</pc>天數之正也<pc>。</pc>量檢彌年<pc>，</pc>則加減均同<pc>。</pc>異歲相課<pc>，</pc>則遠近應率<pc>。</pc>觀<measure quantity="2" unit="households">
+<num value="2">二</num>家</measure>之說<pc>，</pc>略而未通<pc>。</pc>熹平乃要取其中<pc>，</pc>而失於至前<pc>、</pc>至後之餘<pc>。</pc>大明則左右率<pc>，</pc>而失於為實<pc>、</pc>為法之數<pc>。</pc>若夫較景<pc>、</pc>定氣<pc>，</pc>曆家最為急務<pc>。</pc>觀古較驗<pc>，</pc>止以冬至前後數日之間<pc>，</pc>以定加時早晚<pc>。</pc>且景之差行<pc>，</pc>當<num value="2">二</num>至前後<pc>，</pc>進退在微芒之間<pc>。</pc>又日有變行<pc>，</pc>盈縮稍異<pc>，</pc>若以為准<pc>，</pc>則加時相背<pc>。</pc>又晉<pc>、</pc>漢曆術<pc>，</pc>多以前後所測晷要取其中<pc>，</pc>此亦差過半日<pc>。</pc>今比歲較驗<pc>，</pc>在立冬<pc>、</pc>立春景移過寸<pc>，</pc>若較取加時<pc>，</pc>則宜以其相近者通計<pc>，</pc>半之為距至泛日<pc>；</pc>乃以其晷數相減<pc>，</pc>餘者以法乘之<pc>，</pc>滿其日晷差而<num value="1">一</num>
 <pc>，</pc>為刻<pc>；</pc>乃以差刻求冬至<pc>，</pc>視其前晷<pc>，</pc>多則為減<pc>，</pc>少則為加<pc>，</pc>求夏至返之<pc>。</pc>
 </p>
 </div>
@@ -1248,7 +1255,7 @@
 </p>
 </div>
 <div>
-<p>　　皇祐岳台晷景法</p>
+<p>　　<date notBefore="1049" notAfter="1054">皇祐</date>岳台晷景法</p>
 </div>
 <div>
 <p>　　按<pc>《</pc>

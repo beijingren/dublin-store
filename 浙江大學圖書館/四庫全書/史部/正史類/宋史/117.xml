@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="117">
 <div>
-<p>
-<name key="null" type="null">◎禮二</name>十<pc>（</pc>賓禮<num value="2">二</num>
+<p>◎禮<num value="20">二十</num>
+<pc>（</pc>賓禮<num value="2">二</num>
 <pc>）</pc>
 </p>
 </div>
@@ -34,24 +34,28 @@
 </div>
 <div>
 <p>入閣儀<pc>。</pc>唐製<pc>：</pc>天子日禦正衙以見群臣<pc>，</pc>必立仗<pc>。</pc>朔望薦食陵寢<pc>，</pc>不能臨前殿<pc>，</pc>則禦便殿<pc>，</pc>乃自正衙喚仗由宣政兩門而入<pc>，</pc>是謂東<pc>、</pc>西上閣門<pc>，</pc>群臣俟於正衙者因隨以入<pc>，</pc>故謂之入閣<pc>。</pc>
-<date when="null">
+<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>以來<pc>，</pc>正衙既廢<pc>，</pc>而入閣亦希闊不講<pc>，</pc>宋複行之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>建隆元年<measure quantity="8" unit="months">
+<p>
+<date notBefore="960" notAfter="963">建隆</date>元年<measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>朔<pc>，</pc>太祖常服禦崇元殿<pc>，</pc>設仗衛<pc>，</pc>文武<num value="100">百</num>官入閣<pc>，</pc>始置待製<pc>、</pc>候對官<pc>，</pc>乃以工部尚書竇儀待製<pc>，</pc>太常卿邊光範候對<pc>。</pc>仗退<pc>，</pc>賜食廊下<pc>。</pc>
 </p>
 </div>
 <div>
-<p>乾德<measure quantity="4" unit="years">
+<p>
+<date notBefore="963" notAfter="968">乾德</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>朔<pc>，</pc>常服通天冠<pc>、</pc>絳紗袍<pc>，</pc>禦崇元殿視朝<pc>，</pc>設金吾仗衛<pc>，</pc>群臣入閣<pc>。</pc>
 </p>
 </div>
 <div>
-<p>太宗淳化<measure quantity="2" unit="years">
+<p>太宗<date notBefore="990" notAfter="994">淳化</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
@@ -62,35 +66,47 @@
 <pc>。</pc>是日既明<pc>，</pc>先列文武官於殿 庭之東西<pc>，</pc>
 <num value="100">百</num>官<pc>、</pc>軍校<pc>、</pc>行軍副使等序班於正衙門外屏南階下<pc>；</pc>次<term>禦史</term>中丞<pc>、</pc>
 <num value="3">三</num>院<term>禦史</term>序立<pc>，</pc>中丞獨穿金吾班過揖兩班<pc>，</pc>
-<num value="1">一</num>揖歸本位<pc>；</pc>次監察<term>禦史</term>兩員監閣<pc>，</pc>於正衙 門外屏北階上北麵立<pc>；</pc>次中書<pc>、</pc>門下<pc>、</pc>文明翰林樞密直學士<pc>、</pc>兩省官分班立<pc>；</pc>次司天奏辰刻<pc>；</pc>次閣門版奏班齊<pc>。</pc>皇帝服靴袍乘輦<pc>，</pc>至長春殿駐輦<pc>，</pc>樞密使以下奏謁<pc>，</pc>前導至文德殿<pc>。</pc>殿上承旨索扇<pc>，</pc>卷簾<pc>。</pc>皇帝升位<pc>，</pc>扇卻<pc>，</pc>儀鸞使焚香<pc>；</pc>次文武官等拜<pc>；</pc>次司天雞唱<pc>；</pc>次閣門勘契<pc>；</pc>次閣門使承旨呼<num value="4">四</num>色官喚仗<pc>，</pc>南班有辭謝者再拜先 退<pc>，</pc>中書<pc>、</pc>門下班對揖<pc>，</pc>序立正衙門外屏北階上<pc>；</pc>次翰林學士<pc>、</pc>兩省官<pc>、</pc>中丞<pc>、</pc>侍<term>禦史</term>序立<pc>；</pc>次金吾將軍押細仗入正衙門後<pc>，</pc>橫行拜訖<pc>，</pc>分行上黃道<pc>，</pc>仗隨入<pc>，</pc>金吾 將軍至龍墀分班揖訖<pc>，</pc>序立<pc>；</pc>次吏部<pc>、</pc>兵部侍郎執文武班簿入<pc>，</pc>對揖立<pc>；</pc>次中書<pc>、</pc>門下<pc>、</pc>學士<pc>、</pc>兩省<pc>、</pc>
+<num value="1">一</num>揖歸本位<pc>；</pc>次監察<term>禦史</term>兩員監閣<pc>，</pc>於正衙 門外屏北階上北麵立<pc>；</pc>次中書<pc>、</pc>門下<pc>、</pc>文明翰林樞密直學士<pc>、</pc>兩省官分班立<pc>；</pc>次司天奏辰刻<pc>；</pc>次閣門版奏班齊<pc>。</pc>皇帝服靴袍乘輦<pc>，</pc>至長春殿駐輦<pc>，</pc>
+<term>樞密使</term>以下奏謁<pc>，</pc>前導至文德殿<pc>。</pc>殿上承旨索扇<pc>，</pc>卷簾<pc>。</pc>皇帝升位<pc>，</pc>扇卻<pc>，</pc>儀鸞使焚香<pc>；</pc>次文武官等拜<pc>；</pc>次司天雞唱<pc>；</pc>次閣門勘契<pc>；</pc>次閣門使承旨呼<num value="4">四</num>色官喚仗<pc>，</pc>南班有辭謝者再拜先 退<pc>，</pc>中書<pc>、</pc>門下班對揖<pc>，</pc>序立正衙門外屏北階上<pc>；</pc>次翰林學士<pc>、</pc>兩省官<pc>、</pc>中丞<pc>、</pc>侍<term>禦史</term>序立<pc>；</pc>次金吾將軍押細仗入正衙門後<pc>，</pc>橫行拜訖<pc>，</pc>分行上黃道<pc>，</pc>仗隨入<pc>，</pc>金吾 將軍至龍墀分班揖訖<pc>，</pc>序立<pc>；</pc>次吏部<pc>、</pc>兵部侍郎執文武班簿入<pc>，</pc>對揖立<pc>；</pc>次中書<pc>、</pc>門下<pc>、</pc>學士<pc>、</pc>兩省<pc>、</pc>
 <term>禦史</term>台官入<pc>，</pc>北麵拜訖<pc>，</pc>上黃道<pc>，</pc>將至午階<pc>，</pc>&lt;廉 攴&gt;鞾急趨赴丹墀<pc>，</pc>彈奏<term>禦史</term>至吏部侍郎南便落黃道<pc>，</pc>急趨就位<pc>；</pc>起居郎<pc>、</pc>舍人至兵部<pc>、</pc>吏部侍郎後<pc>，</pc>急趨而進<pc>，</pc>飛至香案前<pc>，</pc>皆揖訖序立<pc>；</pc>次金吾大將軍先 對揖並鞠躬<pc>，</pc>&lt;廉攴&gt;鞾行至折方石位又對揖<pc>，</pc>北行至奏事石位鞠躬<pc>，</pc>
 <num value="1">一</num>員奏軍國內外平安<pc>，</pc>倒行就位<pc>；</pc>次引文武班就位<pc>，</pc>揖訖<pc>，</pc>鞠躬<pc>，</pc>&lt;廉 攴&gt;鞾急趨入沙墀<pc>；</pc>次引侍從班橫行<pc>，</pc>
 <term>宰相</term>祝月起居畢<pc>，</pc>分班序立<pc>；</pc>文武兩班出<pc>，</pc>序立於衙門外<pc>。</pc>刑法<pc>、</pc>待製官赴監奏位<pc>，</pc>中書<pc>、</pc>門下夾香案侍立<pc>，</pc>兩省<pc>、</pc>禦 史台官<pc>、</pc>學士<pc>、</pc>兵部吏部侍郎<pc>、</pc>金吾將軍<pc>、</pc>監閣<term>禦史</term>並相次出<pc>，</pc>就衙門外立<pc>（</pc>惟學士立門側北候<term>宰相</term>
 <pc>）</pc>
 <pc>。</pc>中書<pc>、</pc>門下詣香案前奏曰<pc>：</pc>
-<pc>“</pc>中書公事<pc>，</pc>臣等已具奏聞<pc>。</pc>
+<pc>“</pc>
+<quote>中書公事<pc>，</pc>臣等已具奏聞<pc>。</pc>
+</quote>
 <pc>”</pc>訖<pc>，</pc>乃退<pc>，</pc>揖殿出<pc>。</pc>次刑法官<pc>、</pc>待製官各奏事<pc>，</pc>並宣徽使答訖<pc>，</pc>乃出就班<pc>。</pc>次彈奏官<pc>、</pc>左右史出<pc>。</pc>閣內失儀者<pc>，</pc>彈糾如式<pc>。</pc>彈奏官失儀<pc>，</pc>起居郎糾之<pc>；</pc>起居郎失儀<pc>，</pc>閣門使糾之<pc>；</pc>閣門使失儀<pc>，</pc>宣徽使糾之<pc>。</pc>凡出者皆&lt;廉攴&gt;靴急趨揖殿<pc>。</pc>次中書<pc>、</pc>門下<pc>、</pc>學士就位<pc>，</pc>閣門使宣放仗<pc>，</pc>再拜<pc>，</pc>賜廊下食<pc>，</pc>又再拜<pc>。</pc>次閣門 使奏閣內無事<pc>，</pc>文武官出<pc>，</pc>殿上索扇<pc>，</pc>垂簾<pc>，</pc>輦還宮<pc>。</pc>其賜廊下食<pc>，</pc>自左右勤政門北東西兩廊<pc>，</pc>文東武西<pc>，</pc>以北為上立定<pc>；</pc>中丞至本位<pc>，</pc>麵南<num value="1">一</num>揖<pc>，</pc>乃就坐食<pc>；</pc>至台 吏<pc>，</pc>讚乃搢笏食<pc>，</pc>食訖複讚<pc>，</pc>食畢而罷<pc>。</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>朔<pc>，</pc>命有司增黃麾仗<measure quantity="350" unit="people">
 <num value="350">三百五十</num>人</measure>
-<pc>，</pc>令文武官隨中書<pc>、</pc>門下橫行起居<pc>，</pc>徙翰林學士位於參知政事後<pc>，</pc>與<term>節度使</term>分東西揖殿 出<pc>。</pc>真宗凡<num value="3">三</num>行之<pc>，</pc>景德以後<pc>，</pc>其禮不行<pc>。</pc>仁宗從知製誥李淑議<pc>，</pc>仍讀時令<pc>，</pc>詔禮官詳定儀注<pc>，</pc>以言者謂未合典禮而罷<pc>。</pc>
+<pc>，</pc>令文武官隨中書<pc>、</pc>門下橫行起居<pc>，</pc>徙翰林學士位於參知政事後<pc>，</pc>與<term>節度使</term>分東西揖殿 出<pc>。</pc>真宗凡<num value="3">三</num>行之<pc>，</pc>
+<date notBefore="1004" notAfter="1007">景德</date>以後<pc>，</pc>其禮不行<pc>。</pc>仁宗從知製誥李淑議<pc>，</pc>仍讀時令<pc>，</pc>詔禮官詳定儀注<pc>，</pc>以言者謂未合典禮而罷<pc>。</pc>
 </p>
 </div>
 <div>
-<p>熙寧<measure quantity="3" unit="years">
+<p>
+<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>知製誥宋敏求等 言<pc>：</pc>
-<pc>“</pc>奉詔重修定閣門儀製內文德殿殿入閣儀<pc>，</pc>按今文德殿<pc>，</pc>唐宣政殿也<pc>；</pc>紫宸殿<pc>，</pc>唐紫宸殿也<pc>。</pc>然祖宗視朝<pc>，</pc>皆嚐禦文德入閣<pc>。</pc>唐製<pc>，</pc>常設仗衛於宣政殿<pc>，</pc>或遇上 坐紫宸<pc>，</pc>即喚仗入閣<pc>。</pc>如此<pc>，</pc>則當禦紫宸殿入閣<pc>，</pc>方合舊典<pc>。</pc>
-<pc>”</pc>翰林學士王珪等議<pc>：</pc>
-<pc>“</pc>按入閣者<pc>，</pc>乃唐舊日紫宸殿受常朝之儀也<pc>。</pc>唐紫宸與今同<pc>，</pc>宣政殿即今文德 殿<pc>。</pc>唐製<pc>，</pc>天子坐朝<pc>，</pc>必立仗於正衙<pc>。</pc>若止禦紫宸<pc>，</pc>即喚正衙仗自宣政殿東西閣門入<pc>，</pc>故為入閣<pc>。</pc>
-<date when="null">
+<pc>“</pc>
+<quote>奉詔重修定閣門儀製內文德殿殿入閣儀<pc>，</pc>按今文德殿<pc>，</pc>唐宣政殿也<pc>；</pc>紫宸殿<pc>，</pc>唐紫宸殿也<pc>。</pc>然祖宗視朝<pc>，</pc>皆嚐禦文德入閣<pc>。</pc>唐製<pc>，</pc>常設仗衛於宣政殿<pc>，</pc>或遇上 坐紫宸<pc>，</pc>即喚仗入閣<pc>。</pc>如此<pc>，</pc>則當禦紫宸殿入閣<pc>，</pc>方合舊典<pc>。</pc>
+</quote>
+<pc>”</pc>翰林學士<persName>王珪</persName>等議<pc>：</pc>
+<pc>“</pc>
+<quote>按入閣者<pc>，</pc>乃唐舊日紫宸殿受常朝之儀也<pc>。</pc>唐紫宸與今同<pc>，</pc>宣政殿即今文德 殿<pc>。</pc>唐製<pc>，</pc>天子坐朝<pc>，</pc>必立仗於正衙<pc>。</pc>若止禦紫宸<pc>，</pc>即喚正衙仗自宣政殿東西閣門入<pc>，</pc>故為入閣<pc>。</pc>
+<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>以來遂廢正衙立仗之製<pc>。</pc>今閣門所載入閣儀者<pc>，</pc>止是唐常朝之 儀<pc>，</pc>非盛禮也<pc>。</pc>
+</quote>
 <pc>”</pc>自是入閣之禮遂罷<pc>。</pc>
 </p>
 </div>
 <div>
 <p>敏求又言<pc>：</pc>
-<pc>“</pc>本朝惟入閣乃禦文德殿視朝<pc>，</pc>今既不用入閣儀<pc>，</pc>即文德遂闕視朝之禮<pc>。</pc>請下兩製及太常禮院<pc>，</pc>約唐製禦宣政殿<pc>，</pc>裁定朔望禦文德殿儀<pc>，</pc>以備正衙視朝之製<pc>。</pc>
+<pc>“</pc>
+<quote>本朝惟入閣乃禦文德殿視朝<pc>，</pc>今既不用入閣儀<pc>，</pc>即文德遂闕視朝之禮<pc>。</pc>請下兩製及太常禮院<pc>，</pc>約唐製禦宣政殿<pc>，</pc>裁定朔望禦文德殿儀<pc>，</pc>以備正衙視朝之製<pc>。</pc>
+</quote>
 <pc>”</pc>學士韓維等以<pc>《</pc>
 <title>入閣圖</title>
 <pc>》</pc>增損裁定上儀曰<pc>：</pc>
@@ -108,17 +124,22 @@
 <term>禦史</term>由文武班後至對立位<pc>，</pc>次引左右金吾將軍合班於宣製石南大起居<pc>，</pc>班首出班躬奏軍國內外平安<pc>，</pc>歸位再拜<pc>，</pc>各歸東西押仗位<pc>。</pc>通喝舍人於宣製石南北向 對立<pc>。</pc>舍人退於西階<pc>，</pc>次揖<term>宰臣</term>
 <pc>、</pc>親王以下<pc>，</pc>躬奏文武<num value="100">百</num>僚<pc>、</pc>
 <term>宰臣</term>某姓名以下起居<pc>，</pc>分引<term>宰臣</term>以下橫行<pc>，</pc>諸軍將校仍舊立<pc>。</pc>閣門使喝大起居<pc>，</pc>舍人引<term>宰臣</term>至儀石北<pc>，</pc>俯伏跪致詞祝月訖<pc>，</pc>其詞雲<pc>：</pc>
-<pc>“</pc>文武<num value="100">百</num>僚<pc>、</pc>
+<pc>“</pc>
+<quote>文武<num value="100">百</num>僚<pc>、</pc>
 <term>宰臣</term>全銜臣某姓名等言<pc>：</pc>孟春之吉<pc>，</pc>伏惟皇帝陛下膺受時祉<pc>，</pc>與天無窮<pc>，</pc>臣等無任歡呼抃蹈之至<pc>。</pc>
-<pc>”</pc>歸位<num value="5">五</num>拜<pc>。</pc>閣門使揖 中書由東階升殿<pc>，</pc>樞密使帶平章事以上由西階升殿侍立<pc>；</pc>給事中<num value="1">一</num>員歸左省位立<pc>；</pc>轉對官立於給事中之南<pc>（</pc>如罷轉對官<pc>，</pc>每遇<term>禦史</term>台前期牒請<pc>。</pc>文官<num value="2">二</num>員並依轉對官 例<pc>，</pc>先於閣門投進奏狀<pc>）</pc>
+</quote>
+<pc>”</pc>歸位<num value="5">五</num>拜<pc>。</pc>閣門使揖 中書由東階升殿<pc>，</pc>
+<term>樞密使</term>帶平章事以上由西階升殿侍立<pc>；</pc>給事中<num value="1">一</num>員歸左省位立<pc>；</pc>轉對官立於給事中之南<pc>（</pc>如罷轉對官<pc>，</pc>每遇<term>禦史</term>台前期牒請<pc>。</pc>文官<num value="2">二</num>員並依轉對官 例<pc>，</pc>先於閣門投進奏狀<pc>）</pc>
 <pc>；</pc>吏部侍郎及刑法官立於轉對官南<pc>；</pc>兵部侍郎於右省班南<pc>，</pc>與吏部侍郎東西相向立<pc>，</pc>搢笏<pc>，</pc>各出班籍置笏上<pc>（</pc>吏部<pc>、</pc>兵部侍郎以知審官東<pc>、</pc>西院官充<pc>，</pc>刑法官以知審刑<pc>、</pc>大理寺官充<pc>）</pc>
 <pc>；</pc>親王<pc>、</pc>使相以下分班出<pc>；</pc>引轉對官於宣製石南<pc>，</pc>宣徽使殿上承旨宣答如儀<pc>；</pc>次吏部<pc>、</pc>兵部侍郎及刑法官對揖出<pc>；</pc>次彈奏<term>禦史</term>無彈奏對揖出<pc>（</pc>如有彈奏<pc>，</pc>並如儀<pc>）</pc>
 <pc>。</pc>引給事中至宣製石南揖<pc>，</pc>躬奏殿中無事<pc>；</pc>喝祗候<pc>，</pc>揖<pc>，</pc>西出<pc>；</pc>次引修起居注官<pc>，</pc>次引排立供奉官以下各合班於宣製石南 躬<pc>；</pc>喝祗候揖<pc>，</pc>分班出<pc>；</pc>喝天武官等門外祗候<pc>，</pc>出<pc>。</pc>索扇<pc>，</pc>垂簾<pc>，</pc>皇帝降坐<pc>，</pc>鳴鞭<pc>；</pc>舍人當殿承旨放仗<pc>，</pc>
 <num value="4">四</num>色官&lt;廉攴&gt;靴急趨至宣製石南<pc>，</pc>稱奉敕放 仗<pc>。</pc>金吾將軍並判殿中省官對拜<pc>，</pc>訖<pc>，</pc>隨仗出<pc>，</pc>親王<pc>、</pc>使相<pc>、</pc>
 <term>節度使</term>至<term>刺史</term>
-<pc>、</pc>學士<pc>、</pc>台省官<pc>、</pc>諸軍將校等並序班朝堂<pc>，</pc>謝賜茶酒<pc>。</pc>帝複禦垂拱殿<pc>，</pc>中書<pc>、</pc>樞密及請對 官奏事<pc>；</pc>不引見謝<pc>、</pc>辭班<pc>。</pc>後殿坐<pc>，</pc>臨時取旨<pc>。</pc>其日遇有德音<pc>、</pc>製書<pc>、</pc>禦劄<pc>，</pc>仍候退禦垂拱殿坐<pc>，</pc>製箱出外<pc>。</pc>應正衙見<pc>、</pc>謝<pc>、</pc>辭文武臣僚<pc>，</pc>並依<term>禦史</term>台儀製喚班<pc>，</pc>依 序分入於文武班後<pc>，</pc>以北為首<pc>，</pc>分東西相向<pc>，</pc>重行異位<pc>，</pc>依見<pc>、</pc>辭<pc>、</pc>謝班序位<pc>。</pc>餘押班臣僚於班稍前押班<pc>，</pc>候刑法官對揖出<pc>，</pc>分引近前揖躬<pc>。</pc>舍人當殿宣班<pc>，</pc>引轉對 班見<pc>、</pc>謝<pc>、</pc>辭<pc>，</pc>並如紫宸儀<pc>。</pc>樞密使不帶平章事<pc>、</pc>參知政事至同簽書樞密院事<pc>、</pc>宣徽使並立於宣製石南稍北<pc>，</pc>
+<pc>、</pc>學士<pc>、</pc>台省官<pc>、</pc>諸軍將校等並序班朝堂<pc>，</pc>謝賜茶酒<pc>。</pc>帝複禦垂拱殿<pc>，</pc>中書<pc>、</pc>樞密及請對 官奏事<pc>；</pc>不引見謝<pc>、</pc>辭班<pc>。</pc>後殿坐<pc>，</pc>臨時取旨<pc>。</pc>其日遇有德音<pc>、</pc>製書<pc>、</pc>禦劄<pc>，</pc>仍候退禦垂拱殿坐<pc>，</pc>製箱出外<pc>。</pc>應正衙見<pc>、</pc>謝<pc>、</pc>辭文武臣僚<pc>，</pc>並依<term>禦史</term>台儀製喚班<pc>，</pc>依 序分入於文武班後<pc>，</pc>以北為首<pc>，</pc>分東西相向<pc>，</pc>重行異位<pc>，</pc>依見<pc>、</pc>辭<pc>、</pc>謝班序位<pc>。</pc>餘押班臣僚於班稍前押班<pc>，</pc>候刑法官對揖出<pc>，</pc>分引近前揖躬<pc>。</pc>舍人當殿宣班<pc>，</pc>引轉對 班見<pc>、</pc>謝<pc>、</pc>辭<pc>，</pc>並如紫宸儀<pc>。</pc>
+<term>樞密使</term>不帶平章事<pc>、</pc>參知政事至同簽書樞密院事<pc>、</pc>宣徽使並立於宣製石南稍北<pc>，</pc>
 <term>宰臣</term>
-<pc>、</pc>親王<pc>、</pc>樞密使帶平章事<pc>、</pc>使相係押班者<pc>，</pc>立於儀 石南<pc>，</pc>餘官並立於宣製石南<pc>，</pc>如合通喚<pc>，</pc>閣門使引並如儀<pc>。</pc>讚喝訖<pc>，</pc>係中書<pc>、</pc>樞密並揖升殿辭謝<pc>，</pc>揖<pc>，</pc>西出<pc>，</pc>其合問聖體者<pc>，</pc>並如儀<pc>；</pc>餘官分班出<pc>（</pc>彈奏<term>禦史</term>候見<pc>、</pc>謝<pc>、</pc>辭班絕<pc>，</pc>對揖出<pc>。</pc>其朝見<pc>，</pc>如謝都城門外禦筵<pc>，</pc>及召赴闕謝茶藥撫問之類<pc>，</pc>不可合班者<pc>，</pc>各依別班中謝對<pc>。</pc>賜酒食等並門賜<pc>。</pc>其係正衙見門謝辭<pc>，</pc>亦門外唱 放<pc>）</pc>
+<pc>、</pc>親王<pc>、</pc>
+<term>樞密使</term>帶平章事<pc>、</pc>使相係押班者<pc>，</pc>立於儀 石南<pc>，</pc>餘官並立於宣製石南<pc>，</pc>如合通喚<pc>，</pc>閣門使引並如儀<pc>。</pc>讚喝訖<pc>，</pc>係中書<pc>、</pc>樞密並揖升殿辭謝<pc>，</pc>揖<pc>，</pc>西出<pc>，</pc>其合問聖體者<pc>，</pc>並如儀<pc>；</pc>餘官分班出<pc>（</pc>彈奏<term>禦史</term>候見<pc>、</pc>謝<pc>、</pc>辭班絕<pc>，</pc>對揖出<pc>。</pc>其朝見<pc>，</pc>如謝都城門外禦筵<pc>，</pc>及召赴闕謝茶藥撫問之類<pc>，</pc>不可合班者<pc>，</pc>各依別班中謝對<pc>。</pc>賜酒食等並門賜<pc>。</pc>其係正衙見門謝辭<pc>，</pc>亦門外唱 放<pc>）</pc>
 <pc>。</pc>
 </p>
 </div>
@@ -133,8 +154,9 @@
 <p>其日<pc>，</pc>賜茶酒<pc>，</pc>
 <term>宰臣</term>
 <pc>、</pc>樞密於閣子<pc>，</pc>親王於本廳<pc>，</pc>使相<pc>、</pc>宣徽使<pc>、</pc>兩省官<pc>、</pc>待製<pc>、</pc>
-<num value="3">三</num>司副使<pc>、</pc>文武<num value="100">百</num>官<pc>、</pc>皇親使相以下至率府副率<pc>，</pc>及<num value="4">四</num>廂都指揮使以下至副都頭<pc>，</pc>並於朝堂<pc>（</pc>如朝堂位次不足<pc>，</pc>即於朝堂門外設次<pc>）</pc>
-<pc>。</pc>管軍<term>節度使</term>至<num value="4">四</num>廂都指揮使<pc>、</pc>
+<num value="3">三</num>司副使<pc>、</pc>文武<num value="100">百</num>官<pc>、</pc>皇親使相以下至率府副率<pc>，</pc>及<num value="4">四</num>廂<term>都指揮使</term>以下至副都頭<pc>，</pc>並於朝堂<pc>（</pc>如朝堂位次不足<pc>，</pc>即於朝堂門外設次<pc>）</pc>
+<pc>。</pc>管軍<term>節度使</term>至<num value="4">四</num>廂<term>都指揮使</term>
+<pc>、</pc>
 <term>節度使</term>
 <pc>、</pc>兩使留後至<term>刺史</term>
 <pc>，</pc>並於客省廳<pc>。</pc>
@@ -213,15 +235,20 @@
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>尚書左丞薛昂條具崇寧以來紹述熙<pc>、</pc>豐政事<pc>，</pc>各條其節目<pc>，</pc>係之月令<pc>，</pc>頒於明堂<pc>。</pc>尋詔<pc>：</pc>
-<pc>“</pc>頒月之朔<pc>，</pc>使民知寒暑燥濕之化<pc>，</pc>而<num value="10000">萬</num>裏之遠<pc>，</pc>雖驛置日行<num value="500">五百</num>裏<pc>，</pc>已不及時<pc>。</pc>其<num value="1000">千</num>裏外當前期<measure quantity="10" unit="days">
+<p>初<pc>，</pc>
+<term>尚書左丞</term>薛昂條具崇寧以來紹述熙<pc>、</pc>豐政事<pc>，</pc>各條其節目<pc>，</pc>係之月令<pc>，</pc>頒於明堂<pc>。</pc>尋詔<pc>：</pc>
+<pc>“</pc>
+<quote>頒月之朔<pc>，</pc>使民知寒暑燥濕之化<pc>，</pc>而<num value="10000">萬</num>裏之遠<pc>，</pc>雖驛置日行<num value="500">五百</num>裏<pc>，</pc>已不及時<pc>。</pc>其<num value="1000">千</num>裏外當前期<measure quantity="10" unit="days">
 <num value="10">十</num>日</measure>進呈取旨<pc>，</pc>頒布諸州長吏封掌<pc>，</pc>俟月朔宣讀之<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>宣和元年<pc>，</pc>蔡京言<pc>：</pc>
-<pc>“</pc>周觀治象於<measure quantity="1" unit="month">
+<p>
+<date notBefore="1119" notAfter="1125">宣和</date>元年<pc>，</pc>蔡京言<pc>：</pc>
+<pc>“</pc>
+<quote>周觀治象於<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>之始和<pc>，</pc>以<measure quantity="12" unit="months">
@@ -230,6 +257,7 @@
 <pc>。</pc>後世以<measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>者<pc>，</pc>祖秦朔故也<pc>。</pc>秦以<measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>為歲首<pc>，</pc>故月令以孟冬頒來歲之朔<pc>，</pc>今不當用<pc>。</pc>請以季冬頒歲運於天下<pc>。</pc>
+</quote>
 <pc>”</pc>詔自今以<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -255,36 +283,55 @@
 <div>
 <p>禦樓肆赦<pc>。</pc>每郊祀前<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
-<pc>，</pc>有司設<num value="100">百</num>官<pc>、</pc>親王<pc>、</pc>蕃國諸州朝貢使<pc>、</pc>僧道<pc>、</pc>耆老位宣德門外<pc>，</pc>太常設宮縣<pc>、</pc>鉦鼓<pc>。</pc>其日<pc>，</pc>刑部 錄諸囚以俟<pc>。</pc>駕還至宣德門內幄次<pc>，</pc>改常服<pc>，</pc>群臣就位<pc>，</pc>帝登樓禦坐<pc>，</pc>樞密使<pc>、</pc>宣徽使侍立<pc>，</pc>仗衛如儀<pc>。</pc>通事舍人引群臣橫行再拜訖<pc>，</pc>複位<pc>。</pc>侍臣宣曰<pc>“</pc>承旨<pc>”</pc>
-<pc>，</pc>舍 人詣樓前<pc>，</pc>侍臣宣敕立金雞<pc>。</pc>舍人退詣班南<pc>，</pc>宣付所司訖<pc>，</pc>太常擊鼓集囚<pc>。</pc>少府監立雞竿於樓東南隅<pc>，</pc>竿末伎人<num value="4">四</num>麵緣繩爭上<pc>，</pc>取雞口所銜絳幡<pc>，</pc>獲者即與之<pc>。</pc>樓上 以朱絲繩貫木鶴<pc>，</pc>仙人乘之<pc>，</pc>奉製書循繩而下<pc>，</pc>至地<pc>，</pc>以畫台承鶴<pc>，</pc>有司取製書置案上<pc>。</pc>閣門使承旨引案宣付中書<pc>、</pc>門下<pc>，</pc>轉授通事舍人<pc>，</pc>北麵宣雲<pc>“</pc>有製<pc>”</pc>
+<pc>，</pc>有司設<num value="100">百</num>官<pc>、</pc>親王<pc>、</pc>蕃國諸州朝貢使<pc>、</pc>僧道<pc>、</pc>耆老位宣德門外<pc>，</pc>太常設宮縣<pc>、</pc>鉦鼓<pc>。</pc>其日<pc>，</pc>刑部 錄諸囚以俟<pc>。</pc>駕還至宣德門內幄次<pc>，</pc>改常服<pc>，</pc>群臣就位<pc>，</pc>帝登樓禦坐<pc>，</pc>
+<term>樞密使</term>
+<pc>、</pc>宣徽使侍立<pc>，</pc>仗衛如儀<pc>。</pc>通事舍人引群臣橫行再拜訖<pc>，</pc>複位<pc>。</pc>侍臣宣曰<pc>“</pc>
+<quote>承旨</quote>
+<pc>”</pc>
+<pc>，</pc>舍 人詣樓前<pc>，</pc>侍臣宣敕立金雞<pc>。</pc>舍人退詣班南<pc>，</pc>宣付所司訖<pc>，</pc>太常擊鼓集囚<pc>。</pc>少府監立雞竿於樓東南隅<pc>，</pc>竿末伎人<num value="4">四</num>麵緣繩爭上<pc>，</pc>取雞口所銜絳幡<pc>，</pc>獲者即與之<pc>。</pc>樓上 以朱絲繩貫木鶴<pc>，</pc>仙人乘之<pc>，</pc>奉製書循繩而下<pc>，</pc>至地<pc>，</pc>以畫台承鶴<pc>，</pc>有司取製書置案上<pc>。</pc>閣門使承旨引案宣付中書<pc>、</pc>門下<pc>，</pc>轉授通事舍人<pc>，</pc>北麵宣雲<pc>“</pc>
+<quote>有製</quote>
+<pc>”</pc>
 <pc>，</pc>
 <num value="100">百</num>官 再拜<pc>。</pc>宣赦訖<pc>，</pc>還授中書<pc>、</pc>門下<pc>，</pc>付刑部侍郎承旨放囚<pc>，</pc>
 <num value="100">百</num>官稱賀<pc>。</pc>閣門使進詣前<pc>，</pc>承旨宣答訖<pc>，</pc>
 <num value="100">百</num>官又再拜<pc>、</pc>舞蹈<pc>，</pc>退<pc>。</pc>若德音<pc>、</pc>赦書自內出者<pc>，</pc>並如文德殿宣製 之儀<pc>。</pc>其降禦劄<pc>，</pc>亦閣門使跪授殿門外置箱中<pc>，</pc>
 <num value="100">百</num>官班定<pc>，</pc>閣門授<term>宰臣</term>讀訖<pc>，</pc>傳告<pc>，</pc>
-<num value="100">百</num>僚皆拜舞稱<measure quantity="10000" unit="years">
-<num value="10000">萬</num>歲</measure>
-<pc>。</pc>真宗宣製<pc>，</pc>有司請用儀仗<measure quantity="4000" unit="people">
+<num value="100">百</num>僚皆拜舞稱<num value="10000">萬</num>歲<pc>。</pc>真宗宣製<pc>，</pc>有司請用儀仗<measure quantity="4000" unit="people">
 <num value="4000">四千</num>人</measure>
 <pc>，</pc>自承天殿設細仗導衛<pc>，</pc>近 臣起居訖<pc>，</pc>則分左右前導之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>皇太後臨朝聽政<pc>。</pc>乾興元年<pc>，</pc>真宗崩<pc>，</pc>遺旨以皇帝尚幼<pc>，</pc>軍國事兼權取皇太後處分<pc>。</pc>
-<term>宰相</term>率<num value="100">百</num>官稱賀<pc>，</pc>複前奉慰<pc>，</pc>又慰皇 太後於簾前<pc>。</pc>有司詳定儀式<pc>：</pc>內東門拜表<pc>，</pc>合差入內都知<num value="1">一</num>員跪授傳進<pc>；</pc>皇太後所降批答<pc>，</pc>首書<pc>“</pc>覽表具之<pc>”</pc>
-<pc>，</pc>末雲<pc>“</pc>所請宜許<pc>”</pc>或<pc>“</pc>不許<pc>”</pc>
-<pc>。</pc>初<pc>，</pc>丁謂定皇太後稱<pc>“</pc>予<pc>”</pc>
-<pc>，</pc>中書與禮院參議<pc>，</pc>每下製令稱<pc>“</pc>予<pc>”</pc>
-<pc>，</pc>便殿處分稱<pc>“</pc>吾<pc>”</pc>
+<term>宰相</term>率<num value="100">百</num>官稱賀<pc>，</pc>複前奉慰<pc>，</pc>又慰皇 太後於簾前<pc>。</pc>有司詳定儀式<pc>：</pc>內東門拜表<pc>，</pc>合差入內都知<num value="1">一</num>員跪授傳進<pc>；</pc>皇太後所降批答<pc>，</pc>首書<pc>“</pc>
+<quote>覽表具之</quote>
+<pc>”</pc>
+<pc>，</pc>末雲<pc>“</pc>
+<quote>所請宜許</quote>
+<pc>”</pc>或<pc>“</pc>
+<quote>不許</quote>
+<pc>”</pc>
+<pc>。</pc>初<pc>，</pc>丁謂定皇太後稱<pc>“</pc>
+<quote>予</quote>
+<pc>”</pc>
+<pc>，</pc>中書與禮院參議<pc>，</pc>每下製令稱<pc>“</pc>
+<quote>予</quote>
+<pc>”</pc>
+<pc>，</pc>便殿處分稱<pc>“</pc>
+<quote>吾</quote>
+<pc>”</pc>
 <pc>。</pc>皇太後詔<pc>：</pc>
-<pc>“</pc>止稱‘吾’<pc>，</pc>與皇帝並禦承明殿垂簾決事<pc>。</pc>
+<pc>“</pc>
+<quote>止稱‘吾</quote>’<pc>，</pc>與皇帝並禦承明殿垂簾決事<pc>。</pc>
 <pc>”</pc>
 <num value="100">百</num>官表賀<pc>。</pc>
 </p>
 </div>
 <div>
 <p>英宗即位<pc>，</pc>輔臣請與皇太後權同聽政<pc>。</pc>禮院議<pc>：</pc>自<measure quantity="4" unit="months">
-<num value="4">四</num>月</measure>內東門小殿垂簾<pc>，</pc>兩府合班起居<pc>，</pc>以次奏事<pc>，</pc>非時召學士亦許至小殿<pc>。</pc>時帝以疾權居柔儀殿東閣西室<pc>，</pc>太後垂簾處分稱<pc>“</pc>吾<pc>”</pc>
+<num value="4">四</num>月</measure>內東門小殿垂簾<pc>，</pc>兩府合班起居<pc>，</pc>以次奏事<pc>，</pc>非時召學士亦許至小殿<pc>。</pc>時帝以疾權居柔儀殿東閣西室<pc>，</pc>太後垂簾處分稱<pc>“</pc>
+<quote>吾</quote>
+<pc>”</pc>
 <pc>，</pc>唯兩府日入候問聖體<pc>，</pc>因奏政事<pc>，</pc>退詣小殿簾外<pc>，</pc>覆奏太後<pc>。</pc>帝疾間<pc>，</pc>禦前後殿聽政<pc>，</pc>兩府退朝<pc>，</pc>猶於小殿覆奏<pc>。</pc>
 </p>
 </div>
@@ -308,19 +355,32 @@
 </div>
 <div>
 <p>徽宗即位<pc>，</pc>皇太後權同聽政<pc>。</pc>
-<num value="3">三</num>省<pc>、</pc>樞密院聚議<pc>：</pc>故事<pc>，</pc>嘉祐末<pc>，</pc>英宗請慈聖同聽政<pc>，</pc>
+<num value="3">三</num>省<pc>、</pc>樞密院聚議<pc>：</pc>故事<pc>，</pc>
+<date notBefore="1056" notAfter="1063">嘉祐</date>末<pc>，</pc>英宗請慈聖同聽政<pc>，</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>同禦內東門 小殿垂簾<pc>，</pc>至<measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <measure quantity="13" unit="days">
-<num value="13">十三</num>日</measure>英宗間日禦前後殿<pc>，</pc>輔臣奏事<pc>，</pc>退詣內東門簾前覆奏<pc>。</pc>又故事<pc>，</pc>唯慈聖不立生辰節名<pc>，</pc>不遣使契丹<pc>；</pc>若天聖<pc>、</pc>元豐則禦殿垂簾<pc>，</pc>立生辰節 名<pc>，</pc>遣使與契丹往還及避家諱等<pc>。</pc>曾布曰<pc>：</pc>
-<pc>“</pc>今上長君<pc>，</pc>豈可垂簾聽政<pc>？</pc>請如嘉祐故事<pc>。</pc>
+<num value="13">十三</num>日</measure>英宗間日禦前後殿<pc>，</pc>輔臣奏事<pc>，</pc>退詣內東門簾前覆奏<pc>。</pc>又故事<pc>，</pc>唯慈聖不立生辰節名<pc>，</pc>不遣使契丹<pc>；</pc>若天聖<pc>、</pc>
+<date notBefore="1078" notAfter="1085">元豐</date>則禦殿垂簾<pc>，</pc>立生辰節 名<pc>，</pc>遣使與契丹往還及避家諱等<pc>。</pc>曾布曰<pc>：</pc>
+<pc>“</pc>
+<quote>今上長君<pc>，</pc>豈可垂簾聽政<pc>？</pc>請如<date notBefore="1056" notAfter="1063">嘉祐</date>故事<pc>。</pc>
+</quote>
 <pc>”</pc>蔡卞曰<pc>：</pc>
-<pc>“</pc>天聖<pc>、</pc>元豐與今日皆遺製處分<pc>，</pc>非嘉祐比<pc>。</pc>
+<pc>“</pc>
+<quote>天聖<pc>、</pc>
+<date notBefore="1078" notAfter="1085">元豐</date>與今日皆遺製處分<pc>，</pc>非<date notBefore="1056" notAfter="1063">嘉祐</date>比<pc>。</pc>
+</quote>
 <pc>”</pc>布曰<pc>：</pc>
-<pc>“</pc>今日之 事<pc>，</pc>雖載遺製<pc>，</pc>實出自德音<pc>，</pc>又皆長君<pc>，</pc>正與嘉祐事相似<pc>。</pc>
-<pc>”</pc>有旨<pc>：</pc>依嘉祐<pc>、</pc>治平故事<pc>。</pc>布語同列曰<pc>：</pc>
-<pc>“</pc>奏事先太後<pc>，</pc>次覆奏皇帝<pc>，</pc>如今日所得旨<pc>。</pc>
+<pc>“</pc>
+<quote>今日之 事<pc>，</pc>雖載遺製<pc>，</pc>實出自德音<pc>，</pc>又皆長君<pc>，</pc>正與<date notBefore="1056" notAfter="1063">嘉祐</date>事相似<pc>。</pc>
+</quote>
+<pc>”</pc>有旨<pc>：</pc>依<date notBefore="1056" notAfter="1063">嘉祐</date>
+<pc>、</pc>
+<date notBefore="1064" notAfter="1067">治平</date>故事<pc>。</pc>布語同列曰<pc>：</pc>
+<pc>“</pc>
+<quote>奏事先太後<pc>，</pc>次覆奏皇帝<pc>，</pc>如今日所得旨<pc>。</pc>
+</quote>
 <pc>”</pc>遂為定式矣<pc>。</pc>尋以哲宗靈駕發引<pc>，</pc>太後手書罷同聽斷焉<pc>。</pc>
 </p>
 </div>
@@ -331,18 +391,28 @@
 <pc>》</pc>
 <pc>：</pc>前<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
-<pc>，</pc>有司於東門外量地之宜<pc>，</pc>設<num value="3">三</num>公以下文武群官等次 如常儀<pc>；</pc>典儀設皇太子答拜褥位於階下<pc>，</pc>南向<pc>，</pc>又設文武群官版位於門之外<pc>。</pc>其日<pc>，</pc>禮直官<pc>、</pc>舍人先引<num value="3">三</num>公以下文武群臣以次入<pc>，</pc>就位立定<pc>。</pc>禮直官<pc>、</pc>舍人引左庶子 詣皇太子前<pc>，</pc>跪請內嚴<pc>；</pc>少頃<pc>，</pc>又言外備<pc>。</pc>內侍褰簾<pc>，</pc>皇太子常服出次<pc>，</pc>左右侍衛如常儀<pc>。</pc>皇太子降階詣南向褥位<pc>，</pc>典儀曰<pc>“</pc>再拜<pc>”</pc>
-<pc>，</pc>讚者承傳曰<pc>“</pc>再拜<pc>”</pc>
+<pc>，</pc>有司於東門外量地之宜<pc>，</pc>設<num value="3">三</num>公以下文武群官等次 如常儀<pc>；</pc>典儀設皇太子答拜褥位於階下<pc>，</pc>南向<pc>，</pc>又設文武群官版位於門之外<pc>。</pc>其日<pc>，</pc>禮直官<pc>、</pc>舍人先引<num value="3">三</num>公以下文武群臣以次入<pc>，</pc>就位立定<pc>。</pc>禮直官<pc>、</pc>舍人引左庶子詣皇太子前<pc>，</pc>跪請內嚴<pc>；</pc>少頃<pc>，</pc>又言外備<pc>。</pc>內侍褰簾<pc>，</pc>皇太子常服出次<pc>，</pc>左右侍衛如常儀<pc>。</pc>皇太子降階詣南向褥位<pc>，</pc>典儀曰<pc>“</pc>
+<quote>再拜</quote>
+<pc>”</pc>
+<pc>，</pc>讚者承傳曰<pc>“</pc>
+<quote>再拜</quote>
+<pc>”</pc>
 <pc>，</pc>
 <num value="3">三</num>公以 下皆再拜<pc>，</pc>皇太子答拜<pc>。</pc>班首少前稱賀雲<pc>：</pc>
-<pc>“</pc>元正首祚<pc>（</pc>冬至雲<pc>“</pc>天正長至<pc>”</pc>
+<pc>“</pc>
+<quote>元正首祚<pc>（</pc>冬至雲<pc>“</pc>天正長至</quote>
+<pc>”</pc>
 <pc>）</pc>
 <pc>，</pc>景福維新<pc>。</pc>伏惟皇太子殿下<pc>，</pc>與時同休<pc>。</pc>
 <pc>”</pc>賀訖<pc>，</pc>少退<pc>，</pc>複位<pc>。</pc>左庶子前<pc>，</pc>承命詣 群臣前答雲<pc>：</pc>
-<pc>“</pc>元正首祚<pc>（</pc>冬至雲<pc>“</pc>天正長至<pc>”</pc>
+<pc>“</pc>
+<quote>元正首祚<pc>（</pc>冬至雲<pc>“</pc>天正長至</quote>
+<pc>”</pc>
 <pc>）</pc>
 <pc>，</pc>與公等均慶<pc>。</pc>
-<pc>”</pc>典儀曰<pc>“</pc>再拜<pc>”</pc>
+<pc>”</pc>典儀曰<pc>“</pc>
+<quote>再拜</quote>
+<pc>”</pc>
 <pc>，</pc>班首以下皆再拜<pc>，</pc>皇太子答拜<pc>。</pc>訖<pc>，</pc>禮直官<pc>、</pc>通事舍人引<num value="3">三</num>公以下文武<num value="100">百</num>官以 次出<pc>，</pc>內侍引皇太子升階<pc>，</pc>還次<pc>，</pc>降簾<pc>，</pc>侍衛如常儀<pc>。</pc>
 </p>
 </div>
@@ -351,19 +421,28 @@
 </p>
 </div>
 <div>
-<p>內侍引皇太子升坐<pc>，</pc>禮直官引文武宮官入<pc>，</pc>就位<pc>，</pc>重行北向立<pc>，</pc>典儀曰<pc>“</pc>再拜<pc>”</pc>
+<p>內侍引皇太子升坐<pc>，</pc>禮直官引文武宮官入<pc>，</pc>就位<pc>，</pc>重行北向立<pc>，</pc>典儀曰<pc>“</pc>
+<quote>再拜</quote>
+<pc>”</pc>
 <pc>，</pc>在位官皆再拜<pc>。</pc>左庶子少前<pc>，</pc>跪言<pc>：</pc>
-<pc>“</pc>具官某言<pc>：</pc>元正首祚<pc>（</pc>冬至雲<pc>“</pc>天正長至<pc>”</pc>
+<pc>“</pc>
+<quote>具官某言<pc>：</pc>元正首祚<pc>（</pc>冬至雲<pc>“</pc>天正長至</quote>
+<pc>”</pc>
 <pc>）</pc>
 <pc>，</pc>伏惟皇太子殿下<pc>，</pc>與時同休<pc>。</pc>
-<pc>”</pc>俯伏<pc>，</pc>興<pc>，</pc>複位<pc>。</pc>典儀曰<pc>“</pc>再拜<pc>”</pc>
+<pc>”</pc>俯伏<pc>，</pc>興<pc>，</pc>複位<pc>。</pc>典儀曰<pc>“</pc>
+<quote>再拜</quote>
+<pc>”</pc>
 <pc>，</pc>在位者皆再拜<pc>，</pc>分東西序立<pc>。</pc>左庶子少前<pc>，</pc>跪言禮畢<pc>。</pc>左右近侍降簾<pc>，</pc>皇太子降坐<pc>，</pc>宮官 退<pc>，</pc>左右侍衛以次出<pc>。</pc>
 </p>
 </div>
 <div>
-<p>皇太子與<num value="100">百</num>官相見<pc>。</pc>至道元年<pc>，</pc>有司言<pc>：</pc>
+<p>皇太子與<num value="100">百</num>官相見<pc>。</pc>
+<date notBefore="995" notAfter="997">至道</date>元年<pc>，</pc>有司言<pc>：</pc>
 <pc>“</pc>
+<quote>
 <num value="100">百</num>官見皇太子<pc>，</pc>自兩省<num value="5">五</num>品<pc>、</pc>尚書省<term>禦史</term>台<num value="4">四</num>品<pc>、</pc>諸司<num value="3">三</num>品以上皆答拜<pc>，</pc>餘悉受拜<pc>。</pc>宮官自左右庶子以下<pc>，</pc>悉用參見之儀<pc>。</pc>其宴會位在王公上<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -386,7 +465,9 @@
 <pc>。</pc>通事舍人引師<pc>、</pc>傅<pc>、</pc>保以下出<pc>，</pc>軒架<pc>《</pc>
 <title>正安之樂</title>
 <pc>》</pc>作<pc>，</pc>出門<pc>，</pc>樂止<pc>。</pc>左庶子前跪稱<pc>：</pc>
-<pc>“</pc>左庶子某言<pc>，</pc>禮畢<pc>。</pc>
+<pc>“</pc>
+<quote>左庶子某言<pc>，</pc>禮畢<pc>。</pc>
+</quote>
 <pc>”</pc>皇太子入<pc>，</pc>左 右侍衛及樂作如來儀<pc>。</pc>
 </p>
 </div>

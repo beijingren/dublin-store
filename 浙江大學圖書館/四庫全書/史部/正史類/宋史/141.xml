@@ -24,8 +24,8 @@
 <body>
 <div type="chapter" n="141">
 <div>
-<p>
-<name key="null" type="null">◎樂十</name>六<pc>（</pc>鼓吹下<pc>）</pc>○高宗郊祀大禮<num value="5">五</num>首<pc>《</pc>
+<p>◎樂<num value="16">十六</num>
+<pc>（</pc>鼓吹下<pc>）</pc>○高宗郊祀大禮<num value="5">五</num>首<pc>《</pc>
 <title>導引</title>
 <pc>》</pc>
 </p>
@@ -91,7 +91,7 @@
 <num value="100">百</num>神嬉<pc>，</pc>風馬雲車<pc>，</pc>來止來綏<pc>，</pc>誕降純禧<pc>。</pc>受神策<pc>，</pc>
 <measure quantity="10000" unit="years">
 <num value="10000">萬</num>年</measure>無極<pc>，</pc>歌頌<pc>《</pc>
-<title>昊天成命</title>
+<title>昊<date notBefore="926" notAfter="930">天成</date>命</title>
 <pc>》</pc>周詩<pc>。</pc>
 </p>
 </div>
@@ -116,7 +116,9 @@
 <div>
 <p>重華天子<pc>，</pc>長至奉神虞<pc>，</pc>
 <num value="9">九</num>奏會軒<pc>、</pc>朱<pc>。</pc>星暉雲潤東方曉<pc>，</pc>拜貺竹宮初<pc>。</pc>歸來<num value="1000">千</num>乘護皇輿<pc>，</pc>瑞景集金鋪<pc>。</pc>雞竿高唱恩書下<pc>，</pc>惠露匝中區<pc>。</pc>
+<placeName>
 <pc>《</pc>
+</placeName>
 <title>
 <measure quantity="6" unit="prefectures">
 <num value="6">六</num>州</measure>
@@ -182,7 +184,9 @@
 </p>
 </div>
 <div>
-<p>寧宗郊祀大禮<num value="4">四</num>首<pc>《</pc>
+<p>寧宗郊祀大禮<num value="4">四</num>
+<placeName>首</placeName>
+<pc>《</pc>
 <title>
 <measure quantity="6" unit="prefectures">
 <num value="6">六</num>州</measure>
@@ -235,8 +239,7 @@
 <pc>《</pc>
 <title>英</title>
 <pc>》</pc>
-<pc>。</pc>瞻龍闈<pc>，</pc>近鳳城<pc>。</pc>都人雲會<pc>，</pc>芬茀夾道歡迎<pc>。</pc>宸極尊榮<pc>。</pc>卮玉慶熙成<pc>，</pc>瓊樓天上起和聲<pc>。</pc>布春澤<pc>，</pc>洪暢寰瀛<pc>。</pc>嵩呼<measure quantity="10000" unit="years">
-<num value="10000">萬</num>歲</measure>鼇<num value="3">三</num>抃<pc>，</pc>頌升平<pc>。</pc>
+<pc>。</pc>瞻龍闈<pc>，</pc>近鳳城<pc>。</pc>都人雲會<pc>，</pc>芬茀夾道歡迎<pc>。</pc>宸極尊榮<pc>。</pc>卮玉慶熙成<pc>，</pc>瓊樓天上起和聲<pc>。</pc>布春澤<pc>，</pc>洪暢寰瀛<pc>。</pc>嵩呼<num value="10000">萬</num>歲鼇<num value="3">三</num>抃<pc>，</pc>頌升平<pc>。</pc>
 </p>
 </div>
 <div>
@@ -251,7 +254,8 @@
 <pc>《</pc>
 <title>雲門</title>
 <pc>》</pc>舞<pc>。</pc>仿佛翔坐<pc>，</pc>靈心鹹嘉娛<pc>。</pc>眾星俞<pc>，</pc>美光屬<pc>，</pc>照熉珠<pc>。</pc>清曉禦丹儀<pc>，</pc>湛恩遍浹率溥<pc>，</pc>歡聲雷動嶽鎮呼<pc>。</pc>徐命法駕<pc>，</pc>
-<num value="10000">萬</num>騎花盈路<pc>。</pc>
+<measure quantity="10000" unit="riders">
+<num value="10000">萬</num>騎</measure>花盈路<pc>。</pc>
 <num value="10000">萬</num>姓齊祝<pc>，</pc>壽同天地<pc>，</pc>事超唐<pc>、</pc>虞<pc>。</pc>看平燕雲<pc>，</pc>從此興文偃武<pc>，</pc>待重會諸侯舊東都<pc>。</pc>
 </p>
 </div>
@@ -306,9 +310,7 @@
 </div>
 <div>
 <p>新陽初應<pc>，</pc>樂事起彤庭<pc>，</pc>和氣滿吳京<pc>。</pc>家來慶東皇壽<pc>，</pc>西母共長生<pc>。</pc>金書玉篆粲龍文<pc>，</pc>前導沸歡聲<pc>。</pc>修齡無極名無盡<pc>，</pc>
-<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>
-<num value="1">一</num>回增<pc>。</pc>加上太上皇帝<pc>、</pc>太上皇後冊寶<pc>《</pc>
+<num value="1">一</num>歲<num value="1">一</num>回增<pc>。</pc>加上太上皇帝<pc>、</pc>太上皇後冊寶<pc>《</pc>
 <title>導引</title>
 <pc>》</pc>
 <num value="1">一</num>首</p>
@@ -405,7 +407,8 @@
 </p>
 </div>
 <div>
-<p>長樂晚<pc>，</pc>彩戲萊衣<pc>，</pc>奄忽夢報仙期<pc>。</pc>帝鄉渺渺乘鸞去<pc>，</pc>啼紅嬪禦不勝悲<pc>，</pc>蒼梧煙水杳難追<pc>。</pc>腸斷處<pc>，</pc>過江時<pc>。</pc>銀濤<num value="10000000">千萬</num>疊<pc>，</pc>不知何處是瑤池<pc>。</pc>
+<p>長樂晚<pc>，</pc>彩戲萊衣<pc>，</pc>奄忽夢報仙期<pc>。</pc>帝鄉渺渺乘鸞去<pc>，</pc>啼紅嬪禦不勝悲<pc>，</pc>蒼梧煙水杳難追<pc>。</pc>腸斷處<pc>，</pc>過江時<pc>。</pc>銀濤<num value="10000000">千萬</num>疊<pc>，</pc>
+<placeName>不</placeName>知何處是瑤池<pc>。</pc>
 <pc>《</pc>
 <title>
 <measure quantity="6" unit="prefectures">
@@ -492,7 +495,7 @@
 </p>
 </div>
 <div>
-<p>寒日短<pc>，</pc>草露朝晞<pc>。</pc>仙鶴下<pc>，</pc>夢雲歸<pc>。</pc>大椿亭畔蒼蒼柳<pc>，</pc>悵無由挽住天衣<pc>。</pc>昭陽深<pc>，</pc>暝鴉飛<pc>。</pc>愁帶箭<pc>，</pc>戀恩棲<pc>。</pc>笳簫<num value="3">三</num>疊奏<pc>，</pc>都人悲淚袂成帷<pc>。</pc>
+<p>寒日短<pc>，</pc>草露朝晞<pc>。</pc>仙鶴下<pc>，</pc>夢雲歸<pc>。</pc>大椿亭畔蒼蒼柳<pc>，</pc>悵無由挽住天衣<pc>。</pc>昭陽深<pc>，</pc>暝鴉飛<pc>。</pc>愁帶箭<pc>，</pc>戀恩棲<pc>。</pc>笳簫<num value="3">三</num>疊奏<pc>，</pc>都<placeName>人</placeName>悲淚袂成帷<pc>。</pc>
 <pc>《</pc>
 <title>
 <measure quantity="6" unit="prefectures">
@@ -505,8 +508,7 @@
 <p>堯傳舜<pc>，</pc>盛事<num value="1000">千</num>古難並<pc>。</pc>回龍馭<pc>，</pc>辭鳳掖<pc>，</pc>北內別有蓬<pc>、</pc>瀛<pc>。</pc>為天子父<pc>，</pc>冊鴻名<pc>，</pc>
 <measure quantity="10000" unit="years">
 <num value="10000">萬</num>年</measure>
-<measure quantity="1000" unit="years">
-<num value="1000">千</num>歲</measure>福康寧<pc>，</pc>春秋不說楚冥靈<pc>。</pc>萊衣彩戲<pc>，</pc>漢殿玉卮輕<pc>，</pc>宸遊今不見<pc>，</pc>煙外落霞明<pc>。</pc>前回<num value="44">丁未</num>
+<num value="1000">千</num>歲福康寧<pc>，</pc>春秋不說楚冥靈<pc>。</pc>萊衣彩戲<pc>，</pc>漢殿玉卮輕<pc>，</pc>宸遊今不見<pc>，</pc>煙外落霞明<pc>。</pc>前回<num value="44">丁未</num>
 <pc>，</pc>霧塞神京<pc>。</pc>正同符光武中興<pc>，</pc>擎天獨力扶傾<pc>。</pc>定宗廟<pc>，</pc>保河山<pc>，</pc>乾坤整頓庚庚<pc>。</pc>功成了<pc>，</pc>脫屣遺榮<pc>。</pc>訪崆峒<pc>，</pc>容與丹庭<pc>。</pc>笑挹塵寰<pc>，</pc>不留行<pc>。</pc>吾皇哀戀<pc>，</pc>淚血灑神旌<pc>。</pc>腸斷濤江渡<pc>，</pc>明日稽山<pc>，</pc>暮雲東望元陵<pc>。</pc>
 </p>
 </div>
@@ -542,8 +544,7 @@
 </div>
 <div>
 <p>虞觴奉主<pc>，</pc>仙馭返皇宮<pc>，</pc>禮典極欽崇<pc>。</pc>雲旗前導開清廟<pc>，</pc>龍管咽薰風<pc>。</pc>巍巍堯父告神功<pc>，</pc>追慕孝誠通<pc>。</pc>
-<num value="1000">千</num>秋<measure quantity="10000" unit="years">
-<num value="10000">萬</num>歲</measure>中興統<pc>，</pc>宗祀與天同<pc>。</pc>淳熙<measure quantity="16" unit="years">
+<num value="1000">千</num>秋<num value="10000">萬</num>歲中興統<pc>，</pc>宗祀與天同<pc>。</pc>淳熙<measure quantity="16" unit="years">
 <num value="16">十六</num>年</measure>高宗神禦奉安<pc>《</pc>
 <title>導引</title>
 <pc>》</pc>
@@ -592,7 +593,7 @@
 </div>
 <div>
 <p>
-<num value="3">三</num>弄曉<pc>，</pc>雲黯天低<pc>。</pc>攀<num value="6">六</num>引<pc>，</pc>轉悲淒<pc>。</pc>儉慈孝哲鍾天性<pc>，</pc>深仁厚澤遍群黎<pc>。</pc>東西南北傒商霓<pc>。</pc>功甫就<pc>，</pc>別宸閨<pc>。</pc>臣民<num value="1000">千</num>古恨<pc>，</pc>幾時羽衛帶潮歸<pc>！</pc>
+<num value="3">三</num>弄曉<pc>，</pc>雲黯天低<pc>。</pc>攀<num value="6">六</num>引<pc>，</pc>轉悲淒<pc>。</pc>儉慈孝哲鍾天性<pc>，</pc>深仁厚澤遍群黎<pc>。</pc>東西南北傒商霓<pc>。</pc>功甫就<pc>，</pc>別宸閨<pc>。</pc>臣民<num value="1000">千</num>古恨<pc>，</pc>幾<placeName>時</placeName>羽衛帶潮歸<pc>！</pc>
 <pc>《</pc>
 <title>
 <measure quantity="6" unit="prefectures">
@@ -605,8 +606,7 @@
 <p>明天子<pc>，</pc>昔日丕纂鴻圖<pc>。</pc>躬道德<pc>，</pc>崇學問<pc>，</pc>稽古訓<pc>，</pc>訪群儒<pc>。</pc>日親廣廈論唐<pc>、</pc>虞<pc>，</pc>講求政治想都俞<pc>，</pc>君臣<num value="1">一</num>德誌交孚<pc>。</pc>外夷效順<pc>，</pc>猶自選車徒<pc>。</pc>仁恩沾<num value="4">四</num>國<pc>，</pc>固結滿寰區<pc>。</pc>
 <measure quantity="1000" unit="years">
 <num value="1000">千</num>年</measure>宗社<pc>，</pc>
-<measure quantity="10000" unit="years">
-<num value="10000">萬</num>歲</measure>規摹<pc>。</pc>重新天命出乾符<pc>，</pc>老癃策杖相扶<pc>，</pc>願觀德化遍方隅<pc>。</pc>幸無死須臾<pc>，</pc>謂宜聖壽等嵩呼<pc>。</pc>遽登雲輿上龍湖<pc>，</pc>宸居幽寂紫雲孤<pc>。</pc>宸章寶畫<pc>，</pc>但與日星俱<pc>。</pc>龍帷鳳翣已載途<pc>，</pc>忍聽笳鼓嗟籲<pc>！</pc>
+<num value="10000">萬</num>歲規摹<pc>。</pc>重新天命出乾符<pc>，</pc>老癃策杖相扶<pc>，</pc>願觀德化遍方隅<pc>。</pc>幸無死須臾<pc>，</pc>謂宜聖壽等嵩呼<pc>。</pc>遽登雲輿上龍湖<pc>，</pc>宸居幽寂紫雲孤<pc>。</pc>宸章寶畫<pc>，</pc>但與日星俱<pc>。</pc>龍帷鳳翣已載途<pc>，</pc>忍聽笳鼓嗟籲<pc>！</pc>
 </p>
 </div>
 <div>

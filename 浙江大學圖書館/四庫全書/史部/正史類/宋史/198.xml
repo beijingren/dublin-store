@@ -24,12 +24,11 @@
 <body>
 <div type="chapter" n="198">
 <div>
-<p>
-<name key="null" type="null">◎兵十</name>二○馬政</p>
+<p>◎兵<num value="12">十二</num>○馬政</p>
 </div>
 <div>
-<p>國馬之牧<pc>，</pc>曆<date when="null">
-<num value="5">五</num>代</date>浸廢<pc>，</pc>至宋而規製備具<pc>。</pc>自建隆而後<pc>，</pc>其官司之規<pc>，</pc>廄牧之政<pc>，</pc>與夫收市之利<pc>，</pc>牧地之數<pc>，</pc>支配之等<pc>，</pc>曰券馬<pc>，</pc>曰省馬<pc>，</pc>曰馬社<pc>，</pc>曰括買<pc>，</pc>沿革盛衰<pc>，</pc>皆可得而考焉<pc>。</pc>
+<p>國馬之牧<pc>，</pc>曆<date notBefore="9999" notAfter="9999">
+<num value="5">五</num>代</date>浸廢<pc>，</pc>至宋而規製備具<pc>。</pc>自<date notBefore="960" notAfter="963">建隆</date>而後<pc>，</pc>其官司之規<pc>，</pc>廄牧之政<pc>，</pc>與夫收市之利<pc>，</pc>牧地之數<pc>，</pc>支配之等<pc>，</pc>曰券馬<pc>，</pc>曰省馬<pc>，</pc>曰馬社<pc>，</pc>曰括買<pc>，</pc>沿革盛衰<pc>，</pc>皆可得而考焉<pc>。</pc>
 </p>
 </div>
 <div>
@@ -41,27 +40,61 @@
 <pc>（</pc>曰揀中<pc>，</pc>曰不得支使<pc>，</pc>曰添價<pc>，</pc>曰明信<pc>，</pc>曰臣僚<pc>，</pc>曰諸班<pc>，</pc>曰禦龍直<pc>，</pc>曰捧日<pc>、</pc>龍衛<pc>，</pc>曰拱聖<pc>，</pc>曰驍騎<pc>，</pc>曰雲<pc>、</pc>武騎<pc>，</pc>曰天武<pc>、</pc>龍猛<pc>，</pc>曰配軍<pc>，</pc>曰雜使<pc>，</pc>曰馬鋪<pc>。</pc>
 <pc>）</pc>群號之字<num value="10">十</num>有<num value="7">七</num>
 <pc>，</pc>
-<pc>（</pc>曰<pc>“</pc>左<pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>右<pc>”</pc>
+<pc>（</pc>曰<pc>“</pc>
+<quote>左</quote>
+<pc>”</pc>
 <pc>，</pc>曰<pc>“</pc>
+<quote>右</quote>
+<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>
 <num value="1000">千</num>
+</quote>
 <pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>立<pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>水<pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>官<pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>吉<pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>天<pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>主<pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>王<pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>方<pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>與<pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>來<pc>”</pc>
 <pc>，</pc>曰<pc>“</pc>
-<num value="10000">萬</num>
+<quote>立</quote>
 <pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>小<pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>囗官<pc>”</pc>
-<pc>，</pc>曰<pc>“</pc>退<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>水</quote>
+<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>官</quote>
+<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>吉</quote>
+<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>天</quote>
+<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>主</quote>
+<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>王</quote>
+<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>方</quote>
+<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>與</quote>
+<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>來</quote>
+<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>
+<num value="10000">萬</num>
+</quote>
+<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>小</quote>
+<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>囗官</quote>
+<pc>”</pc>
+<pc>，</pc>曰<pc>“</pc>
+<quote>退</quote>
+<pc>”</pc>
 <pc>。</pc>
 <pc>）</pc>毛物之種<num value="90">九十</num>有<num value="2">二</num>
 <pc>，</pc>
@@ -86,37 +119,51 @@
 </p>
 </div>
 <div>
-<p>其官司之規<pc>，</pc>則太祖承前代之製<pc>，</pc>初置左<pc>、</pc>右飛龍<num value="2">二</num>院<pc>，</pc>以左<pc>、</pc>右飛龍<num value="2">二</num>使領之<pc>。</pc>太平興國<measure quantity="5" unit="years">
+<p>其官司之規<pc>，</pc>則太祖承前代之製<pc>，</pc>初置左<pc>、</pc>右飛龍<num value="2">二</num>院<pc>，</pc>以左<pc>、</pc>右飛龍<num value="2">二</num>使領之<pc>。</pc>
+<date notBefore="976" notAfter="984">太平興國</date>
+<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>改飛龍為天廄坊<pc>。</pc>雍熙<measure quantity="4" unit="years">
+<pc>，</pc>改飛龍為天廄坊<pc>。</pc>
+<date notBefore="984" notAfter="987">雍熙</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>改天廄為左<pc>、</pc>右騏驥院<pc>，</pc>左右天駟監<num value="4">四</num>
 <pc>、</pc>左右天廄坊<num value="2">二</num>皆隸焉<pc>。</pc>
 </p>
 </div>
 <div>
-<p>真宗鹹平元年<pc>，</pc>創置估馬司<pc>。</pc>凡市馬<pc>，</pc>掌辨其良駑<pc>，</pc>平其直<pc>，</pc>以分給諸監<pc>。</pc>
+<p>真宗<date notBefore="998" notAfter="1003">鹹平</date>元年<pc>，</pc>創置估馬司<pc>。</pc>凡市馬<pc>，</pc>掌辨其良駑<pc>，</pc>平其直<pc>，</pc>以分給諸監<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>置群牧使<pc>，</pc>以內臣勾當製置群牧司<pc>，</pc>京朝官為判官<pc>。</pc>
 </p>
 </div>
 <div>
-<p>景德<measure quantity="2" unit="years">
+<p>
+<date notBefore="1004" notAfter="1007">景德</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>改諸州牧龍坊悉為監<pc>，</pc>賜名<pc>，</pc>鑄印以給之<pc>。</pc>在外之監<num value="10">十</num>有<num value="4">四</num>
-<pc>：</pc>大名曰大名<pc>，</pc>洺州曰廣平<pc>，</pc>衛州曰淇水<pc>，</pc>並分第<num value="1">一</num>
+<pc>：</pc>大名曰大名<pc>，</pc>
+<placeName>洺州</placeName>曰廣平<pc>，</pc>衛州曰淇水<pc>，</pc>並分第<num value="1">一</num>
 <pc>、</pc>第<num value="2">二</num>
 <pc>。</pc>河南曰<placeName>洛陽</placeName>
 <pc>，</pc>
-<placeName>鄭州</placeName>曰原武<pc>，</pc>同州曰沙苑<pc>，</pc>相州曰安陽<pc>，</pc>澶州曰鎮寧<pc>，</pc>邢州曰安國<pc>，</pc>中牟曰淳澤<pc>，</pc>許州曰單鎮<pc>。</pc>
+<placeName>鄭州</placeName>曰原武<pc>，</pc>
+<placeName>同州</placeName>曰沙苑<pc>，</pc>
+<placeName>相州</placeName>曰安陽<pc>，</pc>
+<placeName>澶州</placeName>曰鎮寧<pc>，</pc>
+<placeName>邢州</placeName>曰安國<pc>，</pc>中牟曰淳澤<pc>，</pc>
+<placeName>許州</placeName>曰單鎮<pc>。</pc>
 </p>
 </div>
 <div>
 <p>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>以知樞密院陳堯叟為群牧製置使<pc>，</pc>又別置群牧使副<pc>、</pc>都監<pc>，</pc>增判官為<num value="2">二</num>員<pc>。</pc>凡廄牧之政<pc>，</pc>皆出於群牧司<pc>，</pc>自騏驥院而下<pc>，</pc>皆聽命焉<pc>。</pc>諸州有牧監<pc>，</pc>知州<pc>、</pc>通判兼領之<pc>，</pc>諸監各置勾當官<num value="2">二</num>員<pc>。</pc>又置左右廂提點<pc>。</pc>又置牧養上下監<pc>，</pc>以養療京城諸坊<pc>、</pc>監病馬<pc>。</pc>又詔左右騏驥院諸坊<pc>、</pc>監官<pc>，</pc>並以<measure quantity="3" unit="years">
+<pc>，</pc>以知樞密院陳堯叟為群牧製置使<pc>，</pc>又別置群牧使副<pc>、</pc>
+<term>都監</term>
+<pc>，</pc>增判官為<num value="2">二</num>員<pc>。</pc>凡廄牧之政<pc>，</pc>皆出於群牧司<pc>，</pc>自騏驥院而下<pc>，</pc>皆聽命焉<pc>。</pc>諸州有牧監<pc>，</pc>知州<pc>、</pc>通判兼領之<pc>，</pc>諸監各置勾當官<num value="2">二</num>員<pc>。</pc>又置左右廂提點<pc>。</pc>又置牧養上下監<pc>，</pc>以養療京城諸坊<pc>、</pc>監病馬<pc>。</pc>又詔左右騏驥院諸坊<pc>、</pc>監官<pc>，</pc>並以<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>為滿<pc>；</pc>如習知馬事願留者<pc>，</pc>群牧司以聞<pc>，</pc>而徙蒞他監焉<pc>。</pc>
 </p>
 </div>
@@ -127,36 +174,43 @@
 </p>
 </div>
 <div>
-<p>太平興國<measure quantity="4" unit="years">
+<p>
+<date notBefore="976" notAfter="984">太平興國</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>太宗觀兵於幽<pc>，</pc>得汾<pc>、</pc>晉<pc>、</pc>燕<pc>、</pc>薊之馬<num value="42000">四萬二千</num>餘匹<pc>，</pc>內皂充刃<pc>，</pc>始分置諸州牧養之<pc>。</pc>時殿直李諤坐贓<pc>，</pc>監牧許州<pc>，</pc>盜官菽<pc>，</pc>馬多死<pc>，</pc>並主吏斬於市<pc>。</pc>又詔擇豐曠地置牧龍坊<num value="8">八</num>
+<pc>，</pc>太宗觀兵於幽<pc>，</pc>得汾<pc>、</pc>晉<pc>、</pc>燕<pc>、</pc>薊之馬<num value="42000">四萬二千</num>餘匹<pc>，</pc>內皂充刃<pc>，</pc>始分置諸州牧養之<pc>。</pc>時殿直李諤坐贓<pc>，</pc>監牧<placeName>許州</placeName>
+<pc>，</pc>盜官菽<pc>，</pc>馬多死<pc>，</pc>並主吏斬於市<pc>。</pc>又詔擇豐曠地置牧龍坊<num value="8">八</num>
 <pc>，</pc>以便牧養<pc>。</pc>
 </p>
 </div>
 <div>
-<p>淳化<measure quantity="2" unit="years">
+<p>
+<date notBefore="990" notAfter="994">淳化</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<pc>，</pc>詔圉人取善馬數<num value="10">十</num>匹<pc>，</pc>於便殿設皂棧<pc>，</pc>教以秣飼<pc>，</pc>且以其法諭宰執<pc>，</pc>仍頒於諸軍<pc>。</pc>複以醫馬良方賜近臣<pc>。</pc>嚐從趙守倫之請<pc>，</pc>於諸州牧龍坊畜牝馬<num value="5000">萬五千</num>匹<pc>，</pc>逐水草牧放<pc>，</pc>不費芻秣<pc>，</pc>生駒蕃息<pc>，</pc>足資軍用<pc>。</pc>至是<pc>，</pc>守倫複言<pc>：</pc>
-<pc>“</pc>諸坊牧馬<num value="10000">萬</num>匹<pc>，</pc>歲當生駒<num value="4000">四千</num>
+<pc>，</pc>詔圉人取善馬數<num value="10">十</num>匹<pc>，</pc>於便殿設皂棧<pc>，</pc>教以秣飼<pc>，</pc>且以其法諭宰執<pc>，</pc>仍頒於諸軍<pc>。</pc>複以醫馬良方賜近臣<pc>。</pc>嚐從<persName>趙守倫</persName>之請<pc>，</pc>於諸州牧龍坊畜牝馬<num value="5000">萬五千</num>匹<pc>，</pc>逐水草牧放<pc>，</pc>不費芻秣<pc>，</pc>生駒蕃息<pc>，</pc>足資軍用<pc>。</pc>至是<pc>，</pc>守倫複言<pc>：</pc>
+<pc>“</pc>
+<quote>諸坊牧馬<num value="10000">萬</num>匹<pc>，</pc>歲當生駒<num value="4000">四千</num>
 <pc>，</pc>今歲止<num value="2500">二千五百</num>
 <pc>，</pc>典司失職<pc>，</pc>當嚴責罰<pc>。</pc>若馬<num value="100">百</num>匹歲得駒<num value="70">七十</num>
 <pc>，</pc>則加遷擢<pc>。</pc>諸坊產駒<pc>，</pc>即籍以聞<pc>。</pc>牧放軍人<pc>，</pc>當募少壯充役<pc>。</pc>
+</quote>
 <pc>”</pc>並從之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>真宗大中祥符元年<pc>，</pc>立牧監賞罰之令<pc>，</pc>外監息馬<pc>，</pc>
-<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>終以<num value="10">十</num>分為率<pc>，</pc>死<num value="1">一</num>分以上勾當官罰<measure quantity="1" unit="month">
+<p>真宗<date notBefore="1008" notAfter="1016">大中祥符</date>元年<pc>，</pc>立牧監賞罰之令<pc>，</pc>外監息馬<pc>，</pc>
+<num value="1">一</num>歲終以<num value="10">十</num>分為率<pc>，</pc>死<num value="1">一</num>分以上勾當官罰<measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>奉<pc>，</pc>餘等第決杖<pc>。</pc>牧倍多而死少者<pc>，</pc>給賞緡有差<pc>。</pc>凡生駒<num value="1">一</num>匹<pc>，</pc>兵校而下賞絹<num value="1">一</num>匹<pc>。</pc>當是時<pc>，</pc>凡內外坊<pc>、</pc>監及諸軍馬凡<num value="20">二十</num>餘<num value="10000">萬</num>匹<pc>，</pc>飼馬兵校<measure quantity="16038" unit="people">
 <num value="16038">一萬六千三十八</num>人</measure>
 <pc>。</pc>每歲京城草<num value="666000">六十六萬六千</num>圍<pc>，</pc>麩料<num value="62204">六萬二千二百四</num>石<pc>，</pc>鹽<pc>、</pc>油<pc>、</pc>藥<pc>、</pc>糖<num value="95000">九萬五千</num>餘斤<pc>、</pc>石<pc>，</pc>諸州軍不預焉<pc>。</pc>左右騏驥<num value="6">六</num>坊<pc>、</pc>監止留馬<num value="2000">二千</num>餘匹<pc>，</pc>皆春季出就牧<pc>，</pc>孟冬則別其羸病<pc>，</pc>就棧皂養飼<pc>。</pc>其尚乘之馬<pc>，</pc>唯備用者在焉<pc>。</pc>
 </p>
 </div>
 <div>
-<p>凡牧監之在河南<pc>、</pc>北<pc>，</pc>天禧後<pc>，</pc>靈昌監為河決所衝<pc>。</pc>至乾興<pc>、</pc>天聖間<pc>，</pc>兵久不試<pc>，</pc>言者多以為牧馬費廣而亡補<pc>，</pc>乃廢東平監<pc>，</pc>以其地賦民<pc>。</pc>
+<p>凡牧監之在河南<pc>、</pc>北<pc>，</pc>
+<date notBefore="1017" notAfter="1021">天禧</date>後<pc>，</pc>靈昌監為河決所衝<pc>。</pc>至乾興<pc>、</pc>天聖間<pc>，</pc>兵久不試<pc>，</pc>言者多以為牧馬費廣而亡補<pc>，</pc>乃廢東平監<pc>，</pc>以其地賦民<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>廢單鎮監<pc>。</pc>
@@ -169,9 +223,7 @@
 <p>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
-<pc>，</pc>群牧司上言<pc>：</pc>原武地廣而馬少<pc>，</pc>請增牧數<pc>。</pc>詔以淇水第<num value="2">二</num>監<measure quantity="4" unit="years">
-<num value="4">四</num>歲</measure>馬屬原武<pc>，</pc>歲取河北孳生<measure quantity="4" unit="years">
-<num value="4">四</num>歲</measure>馬分屬淇水第<num value="2">二</num>並原武監<pc>，</pc>移原武下等馬牧於靈昌鎮廢監<pc>，</pc>仍隸原武<pc>。</pc>
+<pc>，</pc>群牧司上言<pc>：</pc>原武地廣而馬少<pc>，</pc>請增牧數<pc>。</pc>詔以淇水第<num value="2">二</num>監<num value="4">四</num>歲馬屬原武<pc>，</pc>歲取河北孳生<num value="4">四</num>歲馬分屬淇水第<num value="2">二</num>並原武監<pc>，</pc>移原武下等馬牧於靈昌鎮廢監<pc>，</pc>仍隸原武<pc>。</pc>
 </p>
 </div>
 <div>
@@ -184,26 +236,33 @@
 </div>
 <div>
 <p>明道元年<pc>，</pc>議者謂<pc>：</pc>
-<pc>“</pc>自河南<num value="6">六</num>監廢<pc>，</pc>京師須馬<pc>，</pc>取之河北<pc>，</pc>道遠非便<pc>。</pc>
+<pc>“</pc>
+<quote>自河南<num value="6">六</num>監廢<pc>，</pc>京師須馬<pc>，</pc>取之河北<pc>，</pc>道遠非便<pc>。</pc>
+</quote>
 <pc>”</pc>詔遣左廂提點王舜臣往度利害<pc>。</pc>舜臣言<pc>：</pc>
-<pc>“</pc>鎮寧<pc>、</pc>靈昌<pc>、</pc>東平<pc>、</pc>淳澤<num value="4">四</num>監雖廢<pc>，</pc>然其地猶牧本監並騏驥院馬<pc>，</pc>
+<pc>“</pc>
+<quote>鎮寧<pc>、</pc>靈昌<pc>、</pc>東平<pc>、</pc>淳澤<num value="4">四</num>監雖廢<pc>，</pc>然其地猶牧本監並騏驥院馬<pc>，</pc>
 <placeName>洛陽</placeName>
 <pc>、</pc>單鎮去京師近<pc>，</pc>罷之非便<pc>。</pc>
+</quote>
 <pc>”</pc>乃詔複<num value="2">二</num>監<pc>，</pc>以牧河北孳生馬<pc>。</pc>
 </p>
 </div>
 <div>
-<p>景祐<measure quantity="2" unit="years">
+<p>
+<date notBefore="1034" notAfter="1038">景祐</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>揀河北諸監馬<num value="1900">一千九百</num>牧於趙州界<pc>，</pc>隸安陽監<pc>。</pc>既而詔廣平廢監留其<num value="1">一</num>
-<pc>，</pc>以趙州界牧馬複隸焉<pc>，</pc>所餘<num value="1">一</num>監<pc>，</pc>毋毀廄舍<pc>。</pc>
+<pc>，</pc>揀河北諸監馬<num value="1900">一千九百</num>牧於<placeName>趙州</placeName>界<pc>，</pc>隸安陽監<pc>。</pc>既而詔廣平廢監留其<num value="1">一</num>
+<pc>，</pc>以<placeName>趙州</placeName>界牧馬複隸焉<pc>，</pc>所餘<num value="1">一</num>監<pc>，</pc>毋毀廄舍<pc>。</pc>
 </p>
 </div>
 <div>
 <p>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>複以原武第<num value="2">二</num>監為單鎮<pc>，</pc>移於長葛縣<pc>，</pc>以縣令<pc>、</pc>都監兼領之<pc>。</pc>
+<pc>，</pc>複以原武第<num value="2">二</num>監為單鎮<pc>，</pc>移於長葛縣<pc>，</pc>以縣令<pc>、</pc>
+<term>都監</term>兼領之<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>詔院坊<pc>、</pc>監馬歲留備用外<pc>，</pc>餘為兩群<pc>，</pc>牧於鹹豐門外牟駝岡<pc>。</pc>
@@ -212,7 +271,8 @@
 <div>
 <p>凡收養病馬<pc>，</pc>估馬司<pc>、</pc>騏驥院取病淺者送上監<pc>，</pc>深者送下監<pc>，</pc>分<num value="10">十</num>槽醫療之<pc>。</pc>天聖<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>詔月以都監<pc>、</pc>判官<measure quantity="1" unit="people">
+<pc>，</pc>詔月以<term>都監</term>
+<pc>、</pc>判官<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>提舉<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
@@ -226,51 +286,63 @@
 </p>
 </div>
 <div>
-<p>景祐<measure quantity="2" unit="years">
+<p>
+<date notBefore="1034" notAfter="1038">景祐</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>詔以牧養監馬團群牧於陳<pc>、</pc>許州界鳳凰陂<pc>，</pc>免耗芻菽<pc>，</pc>歲以為常<pc>。</pc>
+<pc>，</pc>詔以牧養監馬團群牧於陳<pc>、</pc>
+<placeName>許州</placeName>界鳳凰陂<pc>，</pc>免耗芻菽<pc>，</pc>歲以為常<pc>。</pc>
 </p>
 </div>
 <div>
-<p>治平<measure quantity="2" unit="years">
+<p>
+<date notBefore="1064" notAfter="1067">治平</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>詔院坊<pc>、</pc>監馬之病不堪估賣者<pc>，</pc>送淇水第<num value="1">一</num>監<pc>，</pc>別為<num value="1">一</num>群以牧養之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>凡馬之孳生<pc>，</pc>則大名府<pc>、</pc>洺<pc>、</pc>衛<pc>、</pc>相州<num value="7">七</num>監多擇善種<pc>，</pc>合牝牡為群<pc>，</pc>判官歲以<measure quantity="12" unit="months">
-<num value="12">十二</num>月</measure>巡行坊<pc>、</pc>監<pc>，</pc>閱<measure quantity="2" unit="years">
-<num value="2">二</num>歲</measure>駒點印<pc>，</pc>第賞牧兵<pc>。</pc>諸軍收駒及<measure quantity="2" unit="years">
-<num value="2">二</num>歲</measure>
-<pc>，</pc>即送官<pc>。</pc>
+<p>凡馬之孳生<pc>，</pc>則大名府<pc>、</pc>洺<pc>、</pc>衛<pc>、</pc>
+<placeName>相州</placeName>
+<num value="7">七</num>監多擇善種<pc>，</pc>合牝牡為群<pc>，</pc>判官歲以<measure quantity="12" unit="months">
+<num value="12">十二</num>月</measure>巡行坊<pc>、</pc>監<pc>，</pc>閱<num value="2">二</num>歲駒點印<pc>，</pc>第賞牧兵<pc>。</pc>諸軍收駒及<num value="2">二</num>歲<pc>，</pc>即送官<pc>。</pc>
 </p>
 </div>
 <div>
 <p>天聖<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>群牧司言<pc>：</pc>
-<pc>“</pc>舊製<pc>，</pc>知州軍<pc>、</pc>通判領同群牧事<pc>，</pc>歲終較馬死數及分已上<pc>，</pc>並生駒不及<num value="4">四</num>分<pc>，</pc>並罰奉<pc>。</pc>死數少<pc>，</pc>生駒多<pc>，</pc>即奏第賞<pc>。</pc>
-<measure quantity="3" unit="years">
-<num value="3">三</num>歲</measure>都比<pc>，</pc>以該賞者聞<pc>。</pc>今請申明舊製<pc>，</pc>通判始到官<pc>，</pc>書所轄馬數<pc>，</pc>歲<num value="1">一</num>考之<pc>，</pc>官滿<pc>，</pc>較總數為賞罰<pc>。</pc>
+<pc>“</pc>
+<quote>舊製<pc>，</pc>知州軍<pc>、</pc>通判領同群牧事<pc>，</pc>歲終較馬死數及分已上<pc>，</pc>並生駒不及<num value="4">四</num>分<pc>，</pc>並罰奉<pc>。</pc>死數少<pc>，</pc>生駒多<pc>，</pc>即奏第賞<pc>。</pc>
+<num value="3">三</num>歲都比<pc>，</pc>以該賞者聞<pc>。</pc>今請申明舊製<pc>，</pc>通判始到官<pc>，</pc>書所轄馬數<pc>，</pc>歲<num value="1">一</num>考之<pc>，</pc>官滿<pc>，</pc>較總數為賞罰<pc>。</pc>
+</quote>
 <pc>”</pc>詔從之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>嘉祐<measure quantity="8" unit="years">
+<p>
+<date notBefore="1056" notAfter="1063">嘉祐</date>
+<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>群牧司言<pc>：</pc>
-<pc>“</pc>孳生<num value="7">七</num>監<pc>，</pc>每監歲定牝馬<num value="2000">二千</num>
+<pc>“</pc>
+<quote>孳生<num value="7">七</num>監<pc>，</pc>每監歲定牝馬<num value="2000">二千</num>
 <pc>，</pc>牡馬<num value="400">四百</num>
 <pc>，</pc>歲約生駒<num value="400">四百</num>
 <pc>，</pc>以為定數<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>治平<measure quantity="2" unit="years">
+<p>
+<date notBefore="1064" notAfter="1067">治平</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>諸監生駒滿<measure quantity="30" unit="months">
+<pc>“</pc>
+<quote>諸監生駒滿<measure quantity="30" unit="months">
 <num value="30">三十</num>月</measure>已上<pc>，</pc>每歲點印<pc>，</pc>選牡之良者送淇水第<num value="2">二</num>監<pc>，</pc>餘雜大馬悉送河南<num value="3">三</num>監<pc>，</pc>其淇水第<num value="2">二</num>監馬<pc>，</pc>候滿<measure quantity="60" unit="months">
 <num value="60">六十</num>月</measure>
 <pc>，</pc>給配諸監<pc>。</pc>諸監牝馬滿<measure quantity="30" unit="months">
@@ -278,6 +350,7 @@
 <pc>，</pc>本監別立群牧放<pc>，</pc>候滿<measure quantity="50" unit="months">
 <num value="50">五十</num>月</measure>
 <pc>，</pc>乃撥配他監<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -290,7 +363,15 @@
 </p>
 </div>
 <div>
-<p>宋初<pc>，</pc>市馬唯河東<pc>、</pc>陝西<pc>、</pc>川峽<num value="3">三</num>路<pc>，</pc>招馬唯吐蕃<pc>、</pc>回紇<pc>、</pc>黨項<pc>、</pc>藏牙族<pc>，</pc>白馬<pc>、</pc>鼻家<pc>、</pc>保家<pc>、</pc>名市族諸蕃<pc>。</pc>至雍熙<pc>、</pc>端拱間<pc>，</pc>河東則麟<pc>、</pc>府<pc>、</pc>豐<pc>、</pc>嵐州<pc>、</pc>岢嵐<pc>、</pc>火山軍<pc>、</pc>唐龍鎮<pc>、</pc>濁輪砦<pc>，</pc>陝西則秦<pc>、</pc>渭<pc>、</pc>涇<pc>、</pc>原<pc>、</pc>儀<pc>、</pc>延<pc>、</pc>環<pc>、</pc>慶<pc>、</pc>階州<pc>、</pc>鎮戎<pc>、</pc>保安軍<pc>、</pc>製勝關<pc>、</pc>浩府<pc>，</pc>河西則靈<pc>、</pc>綏<pc>、</pc>銀<pc>、</pc>夏州<pc>，</pc>川峽則益<pc>、</pc>文<pc>、</pc>黎<pc>、</pc>雅<pc>、</pc>戎<pc>、</pc>茂<pc>、</pc>夔州<pc>、</pc>永康軍<pc>，</pc>京東則登州<pc>。</pc>自趙德明據有河南<pc>，</pc>其收市唯麟<pc>、</pc>府<pc>、</pc>涇<pc>、</pc>原<pc>、</pc>儀<pc>、</pc>渭<pc>、</pc>秦<pc>、</pc>階<pc>、</pc>環州<pc>、</pc>岢嵐<pc>、</pc>火山<pc>、</pc>保安<pc>、</pc>保德軍<pc>。</pc>其後置場<pc>，</pc>則又止環<pc>、</pc>慶<pc>、</pc>延<pc>、</pc>渭<pc>、</pc>原<pc>、</pc>秦<pc>、</pc>階<pc>、</pc>文州<pc>、</pc>鎮戎軍而已<pc>。</pc>
+<p>宋初<pc>，</pc>市馬唯河東<pc>、</pc>陝西<pc>、</pc>川峽<num value="3">三</num>路<pc>，</pc>招馬唯吐蕃<pc>、</pc>回紇<pc>、</pc>黨項<pc>、</pc>藏牙族<pc>，</pc>白馬<pc>、</pc>鼻家<pc>、</pc>保家<pc>、</pc>名市族諸蕃<pc>。</pc>至<date notBefore="984" notAfter="987">雍熙</date>
+<pc>、</pc>
+<date notBefore="988" notAfter="989">端拱</date>間<pc>，</pc>河東則麟<pc>、</pc>府<pc>、</pc>豐<pc>、</pc>嵐州<pc>、</pc>岢嵐<pc>、</pc>火山軍<pc>、</pc>唐龍鎮<pc>、</pc>濁輪砦<pc>，</pc>陝西則秦<pc>、</pc>渭<pc>、</pc>涇<pc>、</pc>原<pc>、</pc>儀<pc>、</pc>延<pc>、</pc>環<pc>、</pc>慶<pc>、</pc>
+<placeName>階州</placeName>
+<pc>、</pc>鎮戎<pc>、</pc>保安軍<pc>、</pc>製勝關<pc>、</pc>浩府<pc>，</pc>河西則靈<pc>、</pc>綏<pc>、</pc>銀<pc>、</pc>
+<placeName>夏州</placeName>
+<pc>，</pc>川峽則益<pc>、</pc>文<pc>、</pc>黎<pc>、</pc>雅<pc>、</pc>戎<pc>、</pc>茂<pc>、</pc>夔州<pc>、</pc>永康軍<pc>，</pc>京東則登州<pc>。</pc>自趙德明據有河南<pc>，</pc>其收市唯麟<pc>、</pc>府<pc>、</pc>涇<pc>、</pc>原<pc>、</pc>儀<pc>、</pc>渭<pc>、</pc>秦<pc>、</pc>階<pc>、</pc>
+<placeName>環州</placeName>
+<pc>、</pc>岢嵐<pc>、</pc>火山<pc>、</pc>保安<pc>、</pc>保德軍<pc>。</pc>其後置場<pc>，</pc>則又止環<pc>、</pc>慶<pc>、</pc>延<pc>、</pc>渭<pc>、</pc>原<pc>、</pc>秦<pc>、</pc>階<pc>、</pc>文州<pc>、</pc>鎮戎軍而已<pc>。</pc>
 </p>
 </div>
 <div>
@@ -298,7 +379,9 @@
 </p>
 </div>
 <div>
-<p>太平興國<measure quantity="4" unit="years">
+<p>
+<date notBefore="976" notAfter="984">太平興國</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>詔市吏民馬<num value="170000">十七萬</num>匹<pc>。</pc>
 <measure quantity="6" unit="years">
@@ -307,7 +390,9 @@
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>蕃部鬻馬<pc>，</pc>官取良而棄弩<pc>，</pc>又禁其私市<pc>，</pc>歲入數既不充<pc>，</pc>且無以懷遠人<pc>。</pc>自今委長吏謹視馬之良駑<pc>，</pc>駑即印識之<pc>，</pc>許民私市焉<pc>。</pc>
+<pc>“</pc>
+<quote>蕃部鬻馬<pc>，</pc>官取良而棄弩<pc>，</pc>又禁其私市<pc>，</pc>歲入數既不充<pc>，</pc>且無以懷遠人<pc>。</pc>自今委長吏謹視馬之良駑<pc>，</pc>駑即印識之<pc>，</pc>許民私市焉<pc>。</pc>
+</quote>
 <pc>”</pc>先是<pc>，</pc>以銅錢給諸蕃馬直<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
@@ -315,31 +400,23 @@
 </p>
 </div>
 <div>
-<p>天禧中<pc>，</pc>
-<term>宰相</term>向敏中言國馬倍於先朝<pc>，</pc>廣費芻粟<pc>。</pc>乃詔以<measure quantity="13" unit="years">
-<num value="13">十三</num>歲</measure>以上配軍馬估直出賣<pc>。</pc>先是市馬以<measure quantity="3" unit="years">
-<num value="3">三</num>歲</measure>已上<pc>、</pc>
-<measure quantity="13" unit="years">
-<num value="13">十三</num>歲</measure>已下為率<pc>。</pc>天聖中<pc>，</pc>詔市<measure quantity="4" unit="years">
-<num value="4">四</num>歲</measure>已上<pc>、</pc>
-<measure quantity="10" unit="years">
-<num value="10">十</num>歲</measure>已下<pc>。</pc>既而所市不足<pc>，</pc>群牧司以為言<pc>，</pc>乃詔入券並省馬市<measure quantity="3" unit="years">
-<num value="3">三</num>歲</measure>已上<pc>、</pc>
-<measure quantity="12" unit="years">
-<num value="12">十二</num>歲</measure>已下<pc>。</pc>明年<pc>，</pc>詔府州<pc>、</pc>岢嵐軍自今省馬<measure quantity="3" unit="years">
-<num value="3">三</num>歲</measure>
-<pc>、</pc>
-<measure quantity="4" unit="years">
-<num value="4">四</num>歲</measure>者不以等第<pc>，</pc>
-<measure quantity="5" unit="years">
-<num value="5">五</num>歲</measure>已上<measure quantity="12" unit="years">
-<num value="12">十二</num>歲</measure>已下<pc>、</pc>骨格良善行者<pc>，</pc>悉許綱送估馬司<pc>，</pc>餘非上京省馬並送並州揀馬司<pc>。</pc>
+<p>
+<date notBefore="1017" notAfter="1021">天禧</date>中<pc>，</pc>
+<term>宰相</term>向敏中言國馬倍於先朝<pc>，</pc>廣費芻粟<pc>。</pc>乃詔以<num value="13">十三</num>歲以上配軍馬估直出賣<pc>。</pc>先是市馬以<num value="3">三</num>歲已上<pc>、</pc>
+<num value="13">十三</num>歲已下為率<pc>。</pc>天聖中<pc>，</pc>詔市<num value="4">四</num>歲已上<pc>、</pc>
+<num value="10">十</num>歲已下<pc>。</pc>既而所市不足<pc>，</pc>群牧司以為言<pc>，</pc>乃詔入券並省馬市<num value="3">三</num>歲已上<pc>、</pc>
+<num value="12">十二</num>歲已下<pc>。</pc>明年<pc>，</pc>詔府州<pc>、</pc>岢嵐軍自今省馬<num value="3">三</num>歲<pc>、</pc>
+<num value="4">四</num>歲者不以等第<pc>，</pc>
+<num value="5">五</num>歲已上<num value="12">十二</num>歲已下<pc>、</pc>骨格良善行者<pc>，</pc>悉許綱送估馬司<pc>，</pc>餘非上京省馬並送<placeName>並州</placeName>揀馬司<pc>。</pc>
 </p>
 </div>
 <div>
-<p>景祐元年<pc>，</pc>
+<p>
+<date notBefore="1034" notAfter="1038">景祐</date>元年<pc>，</pc>
 <term>禦史</term>中丞韓億言<pc>：</pc>
-<pc>“</pc>蕃都以馬抵永康軍中賣<pc>，</pc>所得至少<pc>，</pc>徒使羌人知蜀山川道路<pc>，</pc>非計之得<pc>。</pc>
+<pc>“</pc>
+<quote>蕃都以馬抵永康軍中賣<pc>，</pc>所得至少<pc>，</pc>徒使羌人知蜀山川道路<pc>，</pc>非計之得<pc>。</pc>
+</quote>
 <pc>”</pc>乃詔罷之<pc>。</pc>
 </p>
 </div>
@@ -348,47 +425,61 @@
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>群牧司奏河北諸軍闕馬<pc>，</pc>請製等杖<num value="6">六</num>
-<pc>，</pc>付天雄軍<pc>、</pc>真定府<pc>、</pc>定<pc>、</pc>瀛<pc>、</pc>貝<pc>、</pc>滄州<pc>，</pc>市上生馬<measure quantity="12" unit="years">
-<num value="12">十二</num>歲</measure>以下<pc>，</pc>視等第給直<pc>。</pc>馬自<num value="4">四</num>尺<num value="7">七</num>寸至<num value="4">四</num>尺<num value="2">二</num>寸<pc>，</pc>凡<num value="6">六</num>等<pc>。</pc>其直自<num value="25450">二萬五千四百五十</num>至<num value="6550">萬六千五百五十</num>
+<pc>，</pc>付天雄軍<pc>、</pc>真定府<pc>、</pc>定<pc>、</pc>瀛<pc>、</pc>貝<pc>、</pc>
+<placeName>滄州</placeName>
+<pc>，</pc>市上生馬<num value="12">十二</num>歲以下<pc>，</pc>視等第給直<pc>。</pc>馬自<num value="4">四</num>尺<num value="7">七</num>寸至<num value="4">四</num>尺<num value="2">二</num>寸<pc>，</pc>凡<num value="6">六</num>等<pc>。</pc>其直自<num value="25450">二萬五千四百五十</num>至<num value="6550">萬六千五百五十</num>
 <pc>，</pc>課自<num value="3450">萬三千四百五十</num>至<num value="8959">八千九百五十九</num>
 <pc>，</pc>
 <num value="6">六</num>等<pc>，</pc>取備邊兵戶絕錢充直<pc>。</pc>以第<num value="1">一</num>等送京師<pc>，</pc>餘就配諸軍<pc>。</pc>
 </p>
 </div>
 <div>
-<p>康定初<pc>，</pc>陝西用兵<pc>，</pc>馬不足<pc>。</pc>詔京畿<pc>、</pc>京東西<pc>、</pc>淮南<pc>、</pc>陝西路括市戰馬<pc>，</pc>馬<num value="4">四</num>尺<num value="6">六</num>寸至<num value="4">四</num>尺<num value="2">二</num>寸<pc>，</pc>其直自<num value="50000">五十千</num>至<num value="20000">二十千</num>
+<p>
+<date notBefore="1040" notAfter="1041">康定</date>初<pc>，</pc>陝西用兵<pc>，</pc>馬不足<pc>。</pc>詔京畿<pc>、</pc>京東西<pc>、</pc>淮南<pc>、</pc>陝西路括市戰馬<pc>，</pc>馬<num value="4">四</num>尺<num value="6">六</num>寸至<num value="4">四</num>尺<num value="2">二</num>寸<pc>，</pc>其直自<num value="50000">五十千</num>至<num value="20000">二十千</num>
 <pc>，</pc>凡<num value="5">五</num>等<pc>。</pc>
 <term>宰臣</term>
-<pc>、</pc>樞密使聽畜馬<num value="7">七</num>
-<pc>，</pc>參知政事<pc>、</pc>樞密副使<num value="5">五</num>
+<pc>、</pc>
+<term>樞密使</term>聽畜馬<num value="7">七</num>
+<pc>，</pc>參知政事<pc>、</pc>
+<term>樞密副使</term>
+<num value="5">五</num>
 <pc>，</pc>尚書<pc>、</pc>學士至知雜<pc>、</pc>閣門使已上<num value="3">三</num>
 <pc>，</pc>升朝官閣門祗候已上<num value="1">一</num>
 <pc>，</pc>餘命官至諸司職員<pc>、</pc>寺觀主首皆<num value="1">一</num>
 <pc>。</pc>
 <term>節度使</term>至<term>刺史</term>
-<pc>，</pc>殿前馬步軍都指揮至軍頭司散員<pc>、</pc>副兵馬使皆勿括<pc>。</pc>並邊<measure quantity="7" unit="prefectures">
+<pc>，</pc>殿前馬步軍都指揮至軍頭司散員<placeName>
+<pc>、</pc>
+</placeName>副兵馬使皆勿括<pc>。</pc>並邊<measure quantity="7" unit="prefectures">
 <num value="7">七</num>州</measure>軍免<pc>。</pc>出內庫珠償民馬直<pc>。</pc>又禁邊臣私市<pc>，</pc>闕者官給<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>河北州軍置場市馬<pc>，</pc>雖除等樣<pc>，</pc>如聞所得不廣<pc>，</pc>宜加增直<pc>。</pc>第<num value="1">一</num>等<num value="28000">二萬八千</num>
+<pc>“</pc>
+<quote>河北州軍置場市馬<pc>，</pc>雖除等樣<pc>，</pc>如聞所得不廣<pc>，</pc>宜加增直<pc>。</pc>第<num value="1">一</num>等<num value="28000">二萬八千</num>
 <pc>，</pc>第<num value="2">二</num>等<num value="26000">二萬六千</num>
 <pc>，</pc>第<num value="3">三</num>等<num value="24000">二萬四千</num>
 <pc>，</pc>第<num value="4">四</num>等以下及牝馬即依舊直<pc>。</pc>仍自第<num value="2">二</num>等以下遞減<num value="1">一</num>寸<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>慶曆<measure quantity="4" unit="years">
+<p>
+<date notBefore="1041" notAfter="1048">慶曆</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>河北點印民間馬<pc>，</pc>凡收市外<pc>，</pc>見餘<num value="20700">二萬七百</num>
+<pc>“</pc>
+<quote>河北點印民間馬<pc>，</pc>凡收市外<pc>，</pc>見餘<num value="20700">二萬七百</num>
 <pc>，</pc>除坊郭戶<num value="3">三</num>等<pc>、</pc>鄉村<num value="3">三</num>等已上養飼如舊<pc>，</pc>餘點印者悉集揀市<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>出內藏庫絹<num value="200000">二十萬</num>
-<pc>，</pc>市馬於秦州<pc>、</pc>岢嵐軍<pc>。</pc>
+<pc>，</pc>市馬於<placeName>秦州</placeName>
+<pc>、</pc>岢嵐軍<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>詔陝西<pc>、</pc>河東社馬死者<pc>，</pc>本營鬻錢以助馬直<pc>。</pc>
@@ -396,68 +487,104 @@
 </div>
 <div>
 <p>至和元年<pc>，</pc>詔<pc>；</pc>
-<pc>“</pc>蜀馬送京師<pc>，</pc>道遠多病瘠<pc>。</pc>自今以春<pc>、</pc>秋<pc>、</pc>冬部送陝西<num value="4">四</num>路總管司<pc>。</pc>
+<pc>“</pc>
+<quote>蜀馬送京師<pc>，</pc>道遠多病瘠<pc>。</pc>自今以春<pc>、</pc>秋<pc>、</pc>冬部送陝西<num value="4">四</num>路總管司<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>修陝西蕃馬驛<pc>，</pc>群牧司每季檄沿路郡縣察視之<pc>。</pc>邊州巡檢兵校<pc>，</pc>聽自市馬<pc>，</pc>官償其直<pc>。</pc>又詔陝西轉運使司以銀<num value="100000">十萬</num>兩市馬於秦州<pc>，</pc>歲以為常<pc>。</pc>
+<pc>，</pc>修陝西蕃馬驛<pc>，</pc>群牧司每季檄沿路郡縣察視之<pc>。</pc>邊州巡檢兵校<pc>，</pc>聽自市馬<pc>，</pc>官償其直<pc>。</pc>又詔陝西<term>轉運使</term>司以銀<num value="100000">十萬</num>兩市馬於<placeName>秦州</placeName>
+<pc>，</pc>歲以為常<pc>。</pc>
 </p>
 </div>
 <div>
-<p>嘉祐元年<pc>，</pc>詔<num value="3">三</num>司出絹<num value="30000">三萬</num>
-<pc>，</pc>市馬於秦州以給河東軍<pc>。</pc>
+<p>
+<date notBefore="1056" notAfter="1063">嘉祐</date>元年<pc>，</pc>詔<num value="3">三</num>司出絹<num value="30000">三萬</num>
+<pc>，</pc>市馬於<placeName>秦州</placeName>以給河東軍<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>薛向言<pc>：</pc>
-<pc>“</pc>秦州券馬至京師<pc>，</pc>給直並路費<pc>，</pc>
+<pc>“</pc>
+<quote>
+<placeName>秦州</placeName>券馬至京師<pc>，</pc>給直並路費<pc>，</pc>
 <num value="1">一</num>馬計錢數<num value="10000">萬</num>
-<pc>。</pc>請於原<pc>、</pc>渭州<pc>、</pc>德順軍置場收市<pc>，</pc>給以解鹽交引<pc>，</pc>即不耗度支縑錢<pc>。</pc>其券馬姑存<pc>，</pc>以來遠人<pc>。</pc>歲可別得良馬<num value="8000">八千</num>
+<pc>。</pc>請於原<pc>、</pc>
+<placeName>渭州</placeName>
+<pc>、</pc>德順軍置場收市<pc>，</pc>給以解鹽交引<pc>，</pc>即不耗度支縑錢<pc>。</pc>其券馬姑存<pc>，</pc>以來遠人<pc>。</pc>歲可別得良馬<num value="8000">八千</num>
 <pc>，</pc>以<num value="3000">三千</num>給沿邊軍騎<pc>，</pc>
 <num value="5000">五千</num>入群牧司<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>陝西提舉買馬監牧司奏<pc>：</pc>
-<pc>“</pc>舊製<pc>，</pc>秦州蕃漢人月募得良馬<num value="200">二百</num>至京師<pc>，</pc>給彩絹<pc>、</pc>銀碗<pc>、</pc>腰帶<pc>、</pc>錦襖子<pc>，</pc>蕃官<pc>、</pc>回紇隱藏不引至者<pc>，</pc>並以漢法論罪<pc>。</pc>歲募及<num value="2000">二千</num>
-<pc>，</pc>給賞物外<pc>，</pc>蕃都補蕃官<pc>，</pc>蕃官轉資<pc>，</pc>回紇<num value="100">百</num>姓加等給賞<pc>。</pc>今原<pc>、</pc>渭<pc>、</pc>德順軍置場市馬<pc>，</pc>請如秦州例施行<pc>。</pc>
-<pc>”</pc>詔從之<pc>。</pc>先是<pc>，</pc>詔議買馬利害<pc>。</pc>吳奎等議於秦州古渭<pc>、</pc>永寧砦及原州<pc>、</pc>德順軍各令置場<pc>，</pc>京師歲支銀<num value="40000">四萬</num>兩<pc>、</pc>絹<num value="75000">七萬五千</num>匹充馬直<pc>，</pc>不足<pc>，</pc>以解鹽鈔並雜支錢給之<pc>。</pc>詔行之<pc>。</pc>
+<pc>“</pc>
+<quote>舊製<pc>，</pc>
+<placeName>秦州</placeName>蕃漢人月募得良馬<num value="200">二百</num>至京師<pc>，</pc>給彩絹<pc>、</pc>銀碗<pc>、</pc>腰帶<pc>、</pc>錦襖子<pc>，</pc>蕃官<pc>、</pc>回紇隱藏不引至者<pc>，</pc>並以漢法論罪<pc>。</pc>歲募及<num value="2000">二千</num>
+<pc>，</pc>給賞物外<pc>，</pc>蕃都補蕃官<pc>，</pc>蕃官轉資<pc>，</pc>回紇<num value="100">百</num>姓加等給賞<pc>。</pc>今原<pc>、</pc>渭<pc>、</pc>德順軍置場市馬<pc>，</pc>請如<placeName>秦州</placeName>例施行<pc>。</pc>
+</quote>
+<pc>”</pc>詔從之<pc>。</pc>先是<pc>，</pc>詔議買馬利害<pc>。</pc>吳奎等議於<placeName>秦州</placeName>古渭<pc>、</pc>永寧砦及<placeName>原州</placeName>
+<pc>、</pc>德順軍各令置場<pc>，</pc>京師歲支銀<num value="40000">四萬</num>兩<pc>、</pc>絹<num value="75000">七萬五千</num>匹充馬直<pc>，</pc>不足<pc>，</pc>以解鹽鈔並雜支錢給之<pc>。</pc>詔行之<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>
 <term>宰臣</term>
 <persName>韓琦</persName>言<pc>：</pc>
-<pc>“</pc>秦州永寧砦舊以鈔市馬<pc>，</pc>自修古渭砦<pc>，</pc>在永寧之西<pc>，</pc>而蕃漢多互市其間<pc>，</pc>因置買馬場<pc>，</pc>凡歲用緡錢<num value="10">十</num>餘<num value="10000">萬</num>
+<pc>“</pc>
+<quote>
+<placeName>秦州</placeName>永寧砦舊以鈔市馬<pc>，</pc>自修古渭砦<pc>，</pc>在永寧之西<pc>，</pc>而蕃漢多互市其間<pc>，</pc>因置買馬場<pc>，</pc>凡歲用緡錢<num value="10">十</num>餘<num value="10000">萬</num>
 <pc>，</pc>蕩然流入虜中<pc>，</pc>實耗國用<pc>。</pc>
-<pc>”</pc>詔複置場永寧<pc>，</pc>罷古渭砦中場<pc>。</pc>蕃都馬至<pc>，</pc>徑鬻於秦州<pc>。</pc>
+</quote>
+<pc>”</pc>詔複置場永寧<pc>，</pc>罷古渭砦中場<pc>。</pc>蕃都馬至<pc>，</pc>徑鬻於<placeName>秦州</placeName>
+<pc>。</pc>
 </p>
 </div>
 <div>
-<p>治平元年<pc>，</pc>薛向請原<pc>、</pc>渭州<pc>、</pc>德順軍買馬官<pc>，</pc>永興軍養馬務<pc>，</pc>如原州<pc>、</pc>德順軍並渭州同判<pc>，</pc>
+<p>
+<date notBefore="1064" notAfter="1067">治平</date>元年<pc>，</pc>薛向請原<pc>、</pc>
+<placeName>渭州</placeName>
+<pc>、</pc>德順軍買馬官<pc>，</pc>永興軍養馬務<pc>，</pc>如<placeName>原州</placeName>
+<pc>、</pc>德順軍並<placeName>渭州</placeName>同判<pc>，</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>為任<pc>，</pc>悉以所市馬多少為殿最<pc>。</pc>又言<pc>：</pc>
-<pc>“</pc>秦州山外蕃部至原<pc>、</pc>渭州<pc>、</pc>德順軍<pc>、</pc>鎮戎軍鬻馬<pc>，</pc>充豪商錢<pc>，</pc>至秦州<pc>，</pc>所償止得<num value="600">六百</num>
-<pc>。</pc>今請於原<pc>、</pc>渭州<pc>、</pc>德順軍<pc>，</pc>官以鹽鈔博易<pc>，</pc>使得輕齎至秦州<pc>，</pc>易蜀貨以歸<pc>。</pc>蜀商以所博鹽引至岐<pc>、</pc>雍<pc>，</pc>換監銀入蜀<pc>，</pc>兩獲其便<pc>。</pc>
+<pc>“</pc>
+<quote>
+<placeName>秦州</placeName>山外蕃部至原<pc>、</pc>
+<placeName>渭州</placeName>
+<pc>、</pc>德順軍<pc>、</pc>鎮戎軍鬻馬<pc>，</pc>充豪商錢<pc>，</pc>至<placeName>秦州</placeName>
+<pc>，</pc>所償止得<num value="600">六百</num>
+<pc>。</pc>今請於原<pc>、</pc>
+<placeName>渭州</placeName>
+<pc>、</pc>德順軍<pc>，</pc>官以鹽鈔博易<pc>，</pc>使得輕齎至<placeName>秦州</placeName>
+<pc>，</pc>易蜀貨以歸<pc>。</pc>蜀商以所博鹽引至岐<pc>、</pc>雍<pc>，</pc>換監銀入蜀<pc>，</pc>兩獲其便<pc>。</pc>
+</quote>
 <pc>”</pc>群牧司請如向言施行<pc>。</pc>是歲<pc>，</pc>詔河東陝西廣銳<pc>、</pc>蕃落闕馬<pc>，</pc>複置社買<pc>，</pc>
 <num value="1">一</num>馬官給錢<num value="30000">三十千</num>
-<pc>。</pc>久之<pc>，</pc>馬不至<pc>，</pc>乃增直如慶曆詔書<pc>，</pc>第<num value="3">三</num>等<num value="35000">三十五千</num>
+<pc>。</pc>久之<pc>，</pc>馬不至<pc>，</pc>乃增直如<date notBefore="1041" notAfter="1048">慶曆</date>詔書<pc>，</pc>第<num value="3">三</num>等<num value="35000">三十五千</num>
 <pc>，</pc>第<num value="4">四</num>等<num value="28000">二十八千</num>
 <pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>以成都府路歲輸絹<num value="30000">三萬</num>給陝西監牧司<pc>。</pc>自是蕃都馬至者眾<pc>，</pc>官軍仰給焉<pc>。</pc>先是<pc>，</pc>以陝西轉運使兼本路監牧買馬事<pc>，</pc>後又以製置陝西解鹽官同主之<pc>。</pc>
+<pc>，</pc>以成都府路歲輸絹<num value="30000">三萬</num>給陝西監牧司<pc>。</pc>自是蕃都馬至者眾<pc>，</pc>官軍仰給焉<pc>。</pc>先是<pc>，</pc>以陝西<term>轉運使</term>兼本路監牧買馬事<pc>，</pc>後又以製置陝西解鹽官同主之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>大抵國初市馬<pc>，</pc>歲僅得<num value="5000">五千</num>餘匹<pc>。</pc>天聖中<pc>，</pc>蕃部省馬至<num value="34900">三萬四千九百</num>餘匹<pc>。</pc>嘉祐以前<pc>，</pc>原<pc>、</pc>渭<pc>、</pc>德順凡<measure quantity="3" unit="years">
-<num value="3">三</num>歲</measure>市馬至<num value="7100">萬七千一百</num>匹<pc>，</pc>秦州券馬歲至<num value="5000">萬五千</num>匹<pc>。</pc>
+<p>大抵國初市馬<pc>，</pc>歲僅得<num value="5000">五千</num>餘匹<pc>。</pc>天聖中<pc>，</pc>蕃部省馬至<num value="34900">三萬四千九百</num>餘匹<pc>。</pc>
+<date notBefore="1056" notAfter="1063">嘉祐</date>以前<pc>，</pc>原<pc>、</pc>渭<pc>、</pc>德順凡<num value="3">三</num>歲市馬至<num value="7100">萬七千一百</num>匹<pc>，</pc>
+<placeName>秦州</placeName>券馬歲至<num value="5000">萬五千</num>匹<pc>。</pc>
 </p>
 </div>
 <div>
-<p>凡牧地<pc>，</pc>自畿甸及近郡<pc>，</pc>使擇水草善地而標占之<pc>。</pc>淳化<pc>、</pc>景德間<pc>，</pc>內外坊<pc>、</pc>監總<num value="68000">六萬八千</num>頃<pc>，</pc>諸軍班又<num value="30900">三萬九百</num>頃不預焉<pc>。</pc>歲久官失其籍<pc>，</pc>界堠不明<pc>，</pc>廢置不常<pc>，</pc>而淪於侵冒者多矣<pc>。</pc>
+<p>凡牧地<pc>，</pc>自畿甸及近郡<pc>，</pc>使擇水草善地而標占之<pc>。</pc>
+<date notBefore="990" notAfter="994">淳化</date>
+<pc>、</pc>
+<date notBefore="1004" notAfter="1007">景德</date>間<pc>，</pc>內外坊<pc>、</pc>監總<num value="68000">六萬八千</num>頃<pc>，</pc>諸軍班又<num value="30900">三萬九百</num>頃不預焉<pc>。</pc>歲久官失其籍<pc>，</pc>界堠不明<pc>，</pc>廢置不常<pc>，</pc>而淪於侵冒者多矣<pc>。</pc>
 </p>
 </div>
 <div>
-<p>淳化<measure quantity="2" unit="years">
+<p>
+<date notBefore="990" notAfter="994">淳化</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
@@ -469,27 +596,37 @@
 </p>
 </div>
 <div>
-<p>嘉祐中<pc>，</pc>
-<persName>韓琦</persName>請括諸監牧地<pc>，</pc>留牧外<pc>，</pc>聽下戶耕佃<pc>。</pc>遣都官員外郎高訪等括河北<pc>，</pc>得閑田<num value="3350">三千三百五十</num>頃募佃<pc>，</pc>歲約得穀<num value="117800">十一萬七千八百</num>石<pc>，</pc>絹<num value="3250">三千二百五十</num>匹<pc>，</pc>草<num value="161200">十六萬一千二百</num>束<pc>。</pc>群牧司言<pc>：</pc>
-<pc>“</pc>諸監牧地間有水旱<pc>，</pc>每監牧放外<pc>，</pc>歲刈白草數<num value="10000">萬</num>束<pc>，</pc>以備冬飼<pc>。</pc>今悉賦民<pc>，</pc>異時監馬增多<pc>，</pc>及有水旱<pc>，</pc>無以轉徙牧放<pc>。</pc>
+<p>
+<date notBefore="1056" notAfter="1063">嘉祐</date>中<pc>，</pc>
+<persName>韓琦</persName>請括諸監牧地<pc>，</pc>留牧外<pc>，</pc>聽下戶耕佃<pc>。</pc>遣都官<term>員外郎</term>高訪等括河北<pc>，</pc>得閑田<num value="3350">三千三百五十</num>頃募佃<pc>，</pc>歲約得穀<num value="117800">十一萬七千八百</num>石<pc>，</pc>絹<num value="3250">三千二百五十</num>匹<pc>，</pc>草<num value="161200">十六萬一千二百</num>束<pc>。</pc>群牧司言<pc>：</pc>
+<pc>“</pc>
+<quote>諸監牧地間有水旱<pc>，</pc>每監牧放外<pc>，</pc>歲刈白草數<num value="10000">萬</num>束<pc>，</pc>以備冬飼<pc>。</pc>今悉賦民<pc>，</pc>異時監馬增多<pc>，</pc>及有水旱<pc>，</pc>無以轉徙牧放<pc>。</pc>
+</quote>
 <pc>”</pc>詔遣左右廂提點官相度<pc>，</pc>除先被侵冒已根括出地權給租佃<pc>，</pc>餘委群牧司審度存留<pc>，</pc>有閑土即募耕佃<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>群牧司言<pc>：</pc>
-<pc>“</pc>凡牧<num value="1">一</num>馬<pc>，</pc>往來踐食<pc>，</pc>占地<num value="50">五十</num>畝<pc>。</pc>諸監既無餘地<pc>，</pc>難以募耕<pc>，</pc>請存留如故<pc>。</pc>廣平廢監先賦民者<pc>，</pc>亦乞取還<pc>。</pc>
+<pc>“</pc>
+<quote>凡牧<num value="1">一</num>馬<pc>，</pc>往來踐食<pc>，</pc>占地<num value="50">五十</num>畝<pc>。</pc>諸監既無餘地<pc>，</pc>難以募耕<pc>，</pc>請存留如故<pc>。</pc>廣平廢監先賦民者<pc>，</pc>亦乞取還<pc>。</pc>
+</quote>
 <pc>”</pc>乃詔<pc>：</pc>
-<pc>“</pc>河北<pc>、</pc>京東牧監帳管草地<pc>，</pc>自今毋得縱人請射<pc>，</pc>犯者論以違製<pc>。</pc>
+<pc>“</pc>
+<quote>河北<pc>、</pc>京東牧監帳管草地<pc>，</pc>自今毋得縱人請射<pc>，</pc>犯者論以違製<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>群牧使<persName>歐陽修</persName>言<pc>：</pc>
-<pc>“</pc>唐之牧地<pc>，</pc>西起隴右金城<pc>、</pc>平涼<pc>、</pc>天水<pc>，</pc>外暨河曲之野<pc>，</pc>內則岐<pc>、</pc>幽<pc>、</pc>涇<pc>、</pc>寧<pc>，</pc>東接銀<pc>、</pc>夏<pc>，</pc>又東至於樓煩<pc>。</pc>今則沒入蕃界<pc>，</pc>淪於侵佃<pc>，</pc>不可複得<pc>。</pc>惟河東嵐<pc>、</pc>石之間<pc>，</pc>山荒甚多<pc>，</pc>汾河之側<pc>，</pc>草地亦廣<pc>，</pc>其間水草最宜牧養<pc>，</pc>此唐樓煩監地<pc>。</pc>跡此推之<pc>，</pc>則樓煩<pc>、</pc>元池<pc>、</pc>天池<num value="3">三</num>監舊地<pc>，</pc>尚冀可得<pc>。</pc>臣往年出使<pc>，</pc>嚐行威勝以東及遼州<pc>、</pc>平定軍<pc>，</pc>其地率多閑曠<pc>。</pc>河東<num value="1">一</num>路<pc>，</pc>水草甚佳<pc>，</pc>地勢高寒<pc>，</pc>必宜馬性<pc>。</pc>又京西唐<pc>、</pc>汝之間<pc>，</pc>荒地亦廣<pc>。</pc>請下河東<pc>、</pc>京西轉運司遣官審度<pc>，</pc>若可興置監牧<pc>，</pc>則河北諸監<pc>，</pc>尋可廢罷<pc>。</pc>
+<pc>“</pc>
+<quote>唐之牧地<pc>，</pc>西起隴右金城<pc>、</pc>平涼<pc>、</pc>天水<pc>，</pc>外暨河曲之野<pc>，</pc>內則岐<pc>、</pc>幽<pc>、</pc>涇<pc>、</pc>寧<pc>，</pc>東接銀<pc>、</pc>夏<pc>，</pc>又東至於樓煩<pc>。</pc>今則沒入蕃界<pc>，</pc>淪於侵佃<pc>，</pc>不可複得<pc>。</pc>惟河東嵐<pc>、</pc>石之間<pc>，</pc>山荒甚多<pc>，</pc>汾河之側<pc>，</pc>草地亦廣<pc>，</pc>其間水草最宜牧養<pc>，</pc>此唐樓煩監地<pc>。</pc>跡此推之<pc>，</pc>則樓煩<pc>、</pc>元池<pc>、</pc>天池<num value="3">三</num>監舊地<pc>，</pc>尚冀可得<pc>。</pc>臣往年出使<pc>，</pc>嚐行威勝以東及遼州<pc>、</pc>平定軍<pc>，</pc>其地率多閑曠<pc>。</pc>河東<num value="1">一</num>路<pc>，</pc>水草甚佳<pc>，</pc>地勢高寒<pc>，</pc>必宜馬性<pc>。</pc>又京西唐<pc>、</pc>汝之間<pc>，</pc>荒地亦廣<pc>。</pc>請下河東<pc>、</pc>京西轉運司遣官審度<pc>，</pc>若可興置監牧<pc>，</pc>則河北諸監<pc>，</pc>尋可廢罷<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>治平末<pc>，</pc>牧地總<num value="55000">五萬五千</num>
+<p>
+<date notBefore="1064" notAfter="1067">治平</date>末<pc>，</pc>牧地總<num value="55000">五萬五千</num>
 <pc>，</pc>河南<num value="6">六</num>監<num value="32000">三萬二千</num>
 <pc>，</pc>而河北<num value="6">六</num>監則<num value="23000">二萬三千</num>
 <pc>。</pc>
@@ -503,7 +640,9 @@
 </p>
 </div>
 <div>
-<p>慶曆<measure quantity="4" unit="years">
+<p>
+<date notBefore="1041" notAfter="1048">慶曆</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>詔陝西<pc>、</pc>河北<pc>、</pc>河東填<num value="5">五</num>分<pc>，</pc>餘路填<num value="4">四</num>分<pc>。</pc>他州軍<pc>、</pc>府界巡檢兵校聽自市<pc>，</pc>官償其直<pc>，</pc>毋過<num value="30000">三十千</num>
 <pc>。</pc>是歲<pc>，</pc>詔諸路以馬給軍士<pc>，</pc>比試武技<pc>，</pc>優者先給<pc>，</pc>比試兩給<pc>；</pc>闕馬<num value="10">十</num>匹以下全給<pc>，</pc>
@@ -511,18 +650,24 @@
 </p>
 </div>
 <div>
-<p>至和元年<pc>，</pc>詔軍士戍陝西<pc>、</pc>河東<pc>、</pc>河北填<num value="7">七</num>分<pc>，</pc>餘路填<num value="6">六</num>分<pc>。</pc>凡主兵官當借馬者<pc>，</pc>至罷兵權<pc>。</pc>殿前馬步軍都指揮使賜所借馬<num value="3">三</num>
+<p>至和元年<pc>，</pc>詔軍士戍陝西<pc>、</pc>河東<pc>、</pc>河北填<num value="7">七</num>分<pc>，</pc>餘路填<num value="6">六</num>分<pc>。</pc>凡主兵官當借馬者<pc>，</pc>至罷兵權<pc>。</pc>殿前馬步軍<term>都指揮使</term>賜所借馬<num value="3">三</num>
 <pc>，</pc>都<term>虞候</term>
-<pc>、</pc>捧日<pc>、</pc>天武<pc>、</pc>龍<pc>、</pc>神衛<num value="4">四</num>廂都指揮使<num value="2">二</num>
-<pc>，</pc>軍都指揮使<num value="1">一</num>
+<pc>、</pc>捧日<pc>、</pc>天武<pc>、</pc>龍<pc>、</pc>神衛<num value="4">四</num>廂<term>都指揮使</term>
+<num value="2">二</num>
+<pc>，</pc>軍<term>都指揮使</term>
+<num value="1">一</num>
 <pc>。</pc>外州在官當借馬者<pc>，</pc>經略使<num value="3">三</num>
-<pc>，</pc>總管<pc>、</pc>鈐轄<num value="2">二</num>
-<pc>，</pc>路分都監<pc>、</pc>承受<pc>、</pc>極邊砦至監押<pc>、</pc>都巡檢<pc>、</pc>把截<pc>、</pc>保丁指使<num value="1">一</num>
+<pc>，</pc>總管<pc>、</pc>
+<term>鈐轄</term>
+<num value="2">二</num>
+<pc>，</pc>路分<term>都監</term>
+<pc>、</pc>承受<pc>、</pc>極邊砦至監押<pc>、</pc>都巡檢<pc>、</pc>把截<pc>、</pc>保丁指使<num value="1">一</num>
 <pc>，</pc>毋得乘之他州並以假人<pc>，</pc>犯者論以違製<pc>。</pc>
 </p>
 </div>
 <div>
-<p>寶元元年<pc>，</pc>詔群臣例賜馬者<pc>，</pc>
+<p>
+<date notBefore="1038" notAfter="1040">寶元</date>元年<pc>，</pc>詔群臣例賜馬者<pc>，</pc>
 <term>宰相</term>至樞密直學士<pc>，</pc>使相至正任<term>刺史</term>
 <pc>，</pc>並皇族緣姻事當賜者<pc>，</pc>如舊製<pc>；</pc>餘給以馬直<pc>，</pc>少卿監已上<num value="35000">三十五千</num>
 <pc>，</pc>內殿承製已下<num value="23000">二十三千</num>
@@ -531,37 +676,51 @@
 </p>
 </div>
 <div>
-<p>熙寧以來<pc>，</pc>有保馬<pc>、</pc>戶馬<pc>，</pc>其後又變為給地牧馬<pc>。</pc>
+<p>
+<date notBefore="1068" notAfter="1077">熙寧</date>以來<pc>，</pc>有保馬<pc>、</pc>戶馬<pc>，</pc>其後又變為給地牧馬<pc>。</pc>
 </p>
 </div>
 <div>
-<p>神宗嚐患馬政不善<pc>，</pc>謂樞密使文彥博曰<pc>：</pc>
-<pc>“</pc>群牧官非人<pc>，</pc>無以責成效<pc>。</pc>其令中書擇使<pc>，</pc>卿舉判官<pc>，</pc>冀國馬蕃息<pc>，</pc>以給戰騎<pc>。</pc>
-<pc>”</pc>於是以比部員外郎崔台符權群牧判官<pc>，</pc>又命群牧判官劉航及台符刪定<pc>《</pc>
+<p>神宗嚐患馬政不善<pc>，</pc>謂<term>樞密使</term>文彥博曰<pc>：</pc>
+<pc>“</pc>
+<quote>群牧官非人<pc>，</pc>無以責成效<pc>。</pc>其令中書擇使<pc>，</pc>卿舉判官<pc>，</pc>冀國馬蕃息<pc>，</pc>以給戰騎<pc>。</pc>
+</quote>
+<pc>”</pc>於是以比部<term>員外郎</term>崔台符權群牧判官<pc>，</pc>又命群牧判官劉航及台符刪定<pc>《</pc>
 <title>群牧敕令</title>
 <pc>》</pc>
 <pc>，</pc>以唐製參本朝故事而奏決焉<pc>。</pc>
 </p>
 </div>
 <div>
-<p>熙寧元年<pc>，</pc>又手詔彥博等曰<pc>：</pc>
-<pc>“</pc>今諸州守貳雖同領群牧<pc>，</pc>而未嚐親蒞職事<pc>，</pc>其議更製<pc>，</pc>應監牧<pc>、</pc>郡守貳並朝廷選授<pc>，</pc>與坊<pc>、</pc>監使臣皆第其能否<pc>，</pc>製賞罰而升黜之<pc>，</pc>宜立法以聞<pc>。</pc>
+<p>
+<date notBefore="1068" notAfter="1077">熙寧</date>元年<pc>，</pc>又手詔彥博等曰<pc>：</pc>
+<pc>“</pc>
+<quote>今諸州守貳雖同領群牧<pc>，</pc>而未嚐親蒞職事<pc>，</pc>其議更製<pc>，</pc>應監牧<pc>、</pc>郡守貳並朝廷選授<pc>，</pc>與坊<pc>、</pc>監使臣皆第其能否<pc>，</pc>製賞罰而升黜之<pc>，</pc>宜立法以聞<pc>。</pc>
+</quote>
 <pc>”</pc>又手詔曰<pc>：</pc>
-<pc>“</pc>方今馬政不修<pc>，</pc>官吏無著效<pc>，</pc>豈任不久而才不盡歟<pc>？</pc>是何監牧之多<pc>，</pc>官吏之眾<pc>，</pc>而乏才之甚也<pc>！</pc>昔唐用張<measure quantity="10000" unit="years">
-<num value="10000">萬</num>歲</measure>
-<num value="3">三</num>世典群牧<pc>，</pc>恩信行乎下<pc>，</pc>故馬政修舉<pc>，</pc>後世稱為能吏<pc>。</pc>今上自提總官屬<pc>，</pc>下至坊<pc>、</pc>監使臣<pc>，</pc>既非銓擇<pc>，</pc>而遷徙迅速<pc>，</pc>謂之‘假道’<pc>，</pc>欲使官宿其業而盡其能<pc>，</pc>不可得也<pc>。</pc>為今之計者<pc>，</pc>當簡其勞能<pc>，</pc>進之以序<pc>。</pc>自坊<pc>、</pc>監而上至於群牧都監<pc>，</pc>皆課其功而第進之<pc>，</pc>以為任事者勸焉<pc>。</pc>
-<pc>”</pc>於是<pc>，</pc>樞密副使邵亢請以牧馬餘田修稼政<pc>，</pc>以資牧養之利<pc>。</pc>而群牧司言<pc>：</pc>
-<pc>“</pc>馬監草地<num value="48000">四萬八千</num>餘頃<pc>，</pc>今以<num value="50000">五萬</num>馬為率<pc>，</pc>
+<pc>“</pc>
+<quote>方今馬政不修<pc>，</pc>官吏無著效<pc>，</pc>豈任不久而才不盡歟<pc>？</pc>是何監牧之多<pc>，</pc>官吏之眾<pc>，</pc>而乏才之甚也<pc>！</pc>昔唐用張<num value="10000">萬</num>歲<num value="3">三</num>世典群牧<pc>，</pc>恩信行乎下<pc>，</pc>故馬政修舉<pc>，</pc>後世稱為能吏<pc>。</pc>今上自提總官屬<pc>，</pc>下至坊<pc>、</pc>監使臣<pc>，</pc>既非銓擇<pc>，</pc>而遷徙迅速<pc>，</pc>謂之‘假道</quote>’<pc>，</pc>欲使官宿其業而盡其能<pc>，</pc>不可得也<pc>。</pc>為今之計者<pc>，</pc>當簡其勞能<pc>，</pc>進之以序<pc>。</pc>自坊<pc>、</pc>監而上至於群牧<term>都監</term>
+<pc>，</pc>皆課其功而第進之<pc>，</pc>以為任事者勸焉<pc>。</pc>
+<pc>”</pc>於是<pc>，</pc>
+<term>樞密副使</term>邵亢請以牧馬餘田修稼政<pc>，</pc>以資牧養之利<pc>。</pc>而群牧司言<pc>：</pc>
+<pc>“</pc>
+<quote>馬監草地<num value="48000">四萬八千</num>餘頃<pc>，</pc>今以<num value="50000">五萬</num>馬為率<pc>，</pc>
 <num value="1">一</num>馬占地<num value="50">五十</num>畝<pc>，</pc>大名<pc>、</pc>廣平<num value="4">四</num>監餘田無幾<pc>，</pc>宜且仍舊<pc>。</pc>而原武<pc>、</pc>單鎮<pc>、</pc>
 <placeName>洛陽</placeName>
 <pc>、</pc>沙苑<pc>、</pc>淇水<pc>、</pc>安陽<pc>、</pc>東平等監<pc>，</pc>餘良田<num value="7000">萬七千</num>頃<pc>，</pc>可賦民以收芻粟<pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>已而樞密院又言<pc>：</pc>
-<pc>“</pc>舊製<pc>，</pc>以左<pc>、</pc>右騏驥院總司國馬<pc>。</pc>景德中<pc>，</pc>始增置群牧使副<pc>、</pc>都監<pc>、</pc>判官<pc>，</pc>以領廄牧之政<pc>。</pc>使領雖重<pc>，</pc>未嚐躬自巡察<pc>，</pc>不能周知牧畜利病<pc>，</pc>以故馬不蕃息<pc>。</pc>今宜分置官局<pc>，</pc>專任責成<pc>。</pc>
-<pc>”</pc>乃詔河南<pc>、</pc>北分置監牧使<pc>，</pc>以劉航<pc>、</pc>崔台符為之<pc>，</pc>又置都監各<num value="1">一</num>員<pc>。</pc>其在河陽者<pc>，</pc>為孳生監<pc>。</pc>凡外諸監並分屬兩使<pc>，</pc>各條上所當行者<pc>。</pc>諸官吏若牧田縣令佐<pc>，</pc>並委監牧使舉劾<pc>，</pc>專隸樞密院<pc>，</pc>不領於群牧製置<pc>。</pc>先是<pc>，</pc>群牧司請於河北<pc>、</pc>河東<pc>、</pc>陝西都總管治所各置<num value="1">一</num>監<pc>，</pc>以便給軍<pc>，</pc>乃遣官下諸路詳度<pc>。</pc>既又以知太原唐介之請<pc>，</pc>發沙苑馬<num value="500">五百</num>
+<pc>“</pc>
+<quote>舊製<pc>，</pc>以左<pc>、</pc>右騏驥院總司國馬<pc>。</pc>
+<date notBefore="1004" notAfter="1007">景德</date>中<pc>，</pc>始增置群牧使副<pc>、</pc>
+<term>都監</term>
+<pc>、</pc>判官<pc>，</pc>以領廄牧之政<pc>。</pc>使領雖重<pc>，</pc>未嚐躬自巡察<pc>，</pc>不能周知牧畜利病<pc>，</pc>以故馬不蕃息<pc>。</pc>今宜分置官局<pc>，</pc>專任責成<pc>。</pc>
+</quote>
+<pc>”</pc>乃詔河南<pc>、</pc>北分置監牧使<pc>，</pc>以劉航<pc>、</pc>崔台符為之<pc>，</pc>又置<term>都監</term>各<num value="1">一</num>員<pc>。</pc>其在河陽者<pc>，</pc>為孳生監<pc>。</pc>凡外諸監並分屬兩使<pc>，</pc>各條上所當行者<pc>。</pc>諸官吏若牧田縣令佐<pc>，</pc>並委監牧使舉劾<pc>，</pc>專隸樞密院<pc>，</pc>不領於群牧製置<pc>。</pc>先是<pc>，</pc>群牧司請於河北<pc>、</pc>河東<pc>、</pc>陝西都總管治所各置<num value="1">一</num>監<pc>，</pc>以便給軍<pc>，</pc>乃遣官下諸路詳度<pc>。</pc>既又以知太原唐介之請<pc>，</pc>發沙苑馬<num value="500">五百</num>
 <pc>，</pc>置監於交城<pc>。</pc>又分置河南<pc>、</pc>河北兩使<pc>。</pc>時上方留意牧監地<pc>，</pc>然諸監牧田皆寬衍<pc>，</pc>為人所冒占<pc>，</pc>故議者爭請收其餘資以佐芻粟<pc>。</pc>言利者乘之<pc>，</pc>始以增賦入為務<pc>。</pc>
 </p>
 </div>
@@ -601,23 +760,33 @@
 </div>
 <div>
 <p>始議廢監時<pc>，</pc>群牧製置使文彥博言<pc>：</pc>
-<pc>“</pc>議者欲賦牧地與民而收租課<pc>，</pc>散國馬於編戶而責孳息<pc>，</pc>非便<pc>。</pc>
+<pc>“</pc>
+<quote>議者欲賦牧地與民而收租課<pc>，</pc>散國馬於編戶而責孳息<pc>，</pc>非便<pc>。</pc>
+</quote>
 <pc>”</pc>詔元絳<pc>、</pc>蔡確較其利害上之<pc>。</pc>於是中書<pc>、</pc>樞密院言<pc>：</pc>
-<pc>“</pc>河南北<num value="12">十二</num>監<pc>，</pc>起熙寧<measure quantity="2" unit="years">
+<pc>“</pc>
+<quote>河南北<num value="12">十二</num>監<pc>，</pc>起<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>至<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>歲出馬<num value="1640">一千六百四十</num>匹<pc>，</pc>可給騎兵者<num value="264">二百六十四</num>
 <pc>，</pc>餘僅足配郵傳<pc>。</pc>而兩監牧吏卒雜費及所占地租<pc>，</pc>為緡錢<num value="539000">五十三萬九千</num>有奇<pc>，</pc>計所出馬為錢<num value="36400">三萬六千四百</num>餘緡而已<pc>。</pc>今<num value="9">九</num>監見馬<num value="30000">三萬</num>
 <pc>，</pc>若不更製<pc>，</pc>則日就損耗<pc>。</pc>
+</quote>
 <pc>”</pc>於是卒廢之<pc>，</pc>以其善馬分隸諸監<pc>，</pc>餘馬皆斥賣<pc>，</pc>收其地租<pc>，</pc>給市易茶本錢<pc>，</pc>分寄籍常平<pc>、</pc>出子錢<pc>，</pc>以為市馬之直<pc>。</pc>監兵<num value="5000">五千</num>
-<pc>，</pc>以為廣固指揮<pc>，</pc>修治京城焉<pc>。</pc>後遂廢高陽<pc>、</pc>真定<pc>、</pc>太原<pc>、</pc>大名<pc>、</pc>定州<num value="5">五</num>監<pc>。</pc>凡廢監錢歸市易之外<pc>，</pc>又以給熙河歲計<pc>。</pc>
+<pc>，</pc>以為廣固指揮<pc>，</pc>修治京城焉<pc>。</pc>後遂廢高陽<pc>、</pc>真定<pc>、</pc>太原<pc>、</pc>大名<pc>、</pc>
+<placeName>定州</placeName>
+<num value="5">五</num>監<pc>。</pc>凡廢監錢歸市易之外<pc>，</pc>又以給熙河歲計<pc>。</pc>
 </p>
 </div>
 <div>
-<p>諸監既廢<pc>，</pc>淤田司請廣行淤溉<pc>，</pc>增課以募耕者<pc>，</pc>而河北製置牧田所繼言<pc>，</pc>牧田沒於民者<num value="5700">五千七百</num>餘頃<pc>。</pc>乃嚴侵冒之法<pc>，</pc>而加告獲之賞<pc>，</pc>自是利入增多<pc>。</pc>元豐<measure quantity="3" unit="years">
+<p>諸監既廢<pc>，</pc>淤田司請廣行淤溉<pc>，</pc>增課以募耕者<pc>，</pc>而河北製置牧田所繼言<pc>，</pc>牧田沒於民者<num value="5700">五千七百</num>餘頃<pc>。</pc>乃嚴侵冒之法<pc>，</pc>而加告獲之賞<pc>，</pc>自是利入增多<pc>。</pc>
+<date notBefore="1078" notAfter="1085">元豐</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>廢監租錢遂至<num value="160000">百一十六萬</num>
-<pc>，</pc>自群牧使而下<pc>，</pc>賜賚有差<pc>。</pc>乃命太常博士路昌衡<pc>、</pc>秘書丞王得臣與逐路轉運司<pc>、</pc>開封府界提點司按租地<pc>，</pc>約<measure quantity="3" unit="years">
+<pc>，</pc>自群牧使而下<pc>，</pc>賜賚有差<pc>。</pc>乃命<term>太常博士</term>路昌衡<pc>、</pc>
+<term>秘書丞</term>王得臣與逐路轉運司<pc>、</pc>開封府界提點司按租地<pc>，</pc>約<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>中價以定歲額<pc>。</pc>若催督違滯<pc>，</pc>以擅支封樁法論<pc>。</pc>
 </p>
 </div>
@@ -626,56 +795,77 @@
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>手詔樞密院<pc>：</pc>
-<pc>“</pc>牧馬重事<pc>，</pc>經始之際<pc>，</pc>宜得左右近臣以總其政<pc>。</pc>今自霧澤陂牧馬所造法<pc>，</pc>始於畿內置<num value="10">十</num>監<pc>，</pc>以次推之諸路<pc>。</pc>宜令樞密院都承旨張誠<num value="1">一</num>
+<pc>“</pc>
+<quote>牧馬重事<pc>，</pc>經始之際<pc>，</pc>宜得左右近臣以總其政<pc>。</pc>今自霧澤陂牧馬所造法<pc>，</pc>始於畿內置<num value="10">十</num>監<pc>，</pc>以次推之諸路<pc>。</pc>宜令樞密院都承旨張誠<num value="1">一</num>
 <pc>、</pc>副都承旨張山甫經度製置<pc>，</pc>權不隸尚書駕部及太仆寺<pc>。</pc>有當自朝廷處分者<pc>，</pc>樞密院主之<pc>。</pc>
+</quote>
 <pc>”</pc>已而其說皆不效<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>同提舉經度製置曹誦言<pc>：</pc>
-<pc>“</pc>自崇儀副使溫從吉建議創孳生監<pc>，</pc>迨今<measure quantity="2" unit="years">
+<pc>“</pc>
+<quote>自崇儀副使溫從吉建議創孳生監<pc>，</pc>迨今<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>駒不蕃而死者益眾<pc>。</pc>
+</quote>
 <pc>”</pc>乃命<term>禦史</term>台校核<pc>，</pc>自置監以來<pc>，</pc>得駒不及<num value="1">一</num>分<num value="4">四</num>厘<pc>，</pc>馬死已<num value="10">十</num>分之<num value="6">六</num>
 <pc>。</pc>於是責議者及提舉官<pc>，</pc>而罷畿內<num value="10">十</num>監<pc>。</pc>
 </p>
 </div>
 <div>
-<p>元祐初<pc>，</pc>議興廢監<pc>，</pc>以複舊製<pc>。</pc>於是詔庫部郎中郭茂恂往陝西<pc>、</pc>河東所當置監<pc>，</pc>尋又下河北陝西轉運<pc>、</pc>提點刑獄司按行河<pc>、</pc>渭<pc>、</pc>並<pc>、</pc>晉之間牧田以聞<pc>。</pc>時已罷保甲<pc>，</pc>教騎兵<pc>，</pc>而還戶馬於民<pc>。</pc>於是右司諫王岩叟言<pc>：</pc>
-<pc>“</pc>兵之所恃在馬<pc>，</pc>而能蕃息之者<pc>，</pc>牧監也<pc>。</pc>昔廢監之初<pc>，</pc>識者皆知<measure quantity="10" unit="years">
+<p>
+<date notBefore="1086" notAfter="1094">元祐</date>初<pc>，</pc>議興廢監<pc>，</pc>以複舊製<pc>。</pc>於是詔庫部郎中郭茂恂往陝西<pc>、</pc>河東所當置監<pc>，</pc>尋又下河北陝西轉運<pc>、</pc>提點刑獄司按行河<pc>、</pc>渭<pc>、</pc>並<pc>、</pc>晉之間牧田以聞<pc>。</pc>時已罷保甲<pc>，</pc>教騎兵<pc>，</pc>而還戶馬於民<pc>。</pc>於是右司諫王岩叟言<pc>：</pc>
+<pc>“</pc>
+<quote>兵之所恃在馬<pc>，</pc>而能蕃息之者<pc>，</pc>牧監也<pc>。</pc>昔廢監之初<pc>，</pc>識者皆知<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>之後天下當乏馬<pc>。</pc>已而不待<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
 <pc>，</pc>其弊已見<pc>，</pc>此甚非國之利也<pc>。</pc>乞收還戶馬<num value="30000">三萬</num>
-<pc>，</pc>複置監如故<pc>，</pc>監牧事委之轉運官<pc>，</pc>而不專置使<pc>。</pc>今鄆州之東平<pc>，</pc>北京之大名<pc>、</pc>元城<pc>，</pc>衛州之淇水<pc>，</pc>相州之安陽<pc>，</pc>洺州之廣平監<pc>，</pc>以及瀛<pc>、</pc>定之間棚塞草地疆畫具存<pc>，</pc>使臣牧卒大半猶在<pc>，</pc>稍加招集<pc>，</pc>則指顧之間措置可定<pc>，</pc>而人免納錢之害<pc>，</pc>國收牧馬之利<pc>，</pc>豈非計之得哉<pc>？</pc>又況廢監以來<pc>，</pc>牧地之賦民者<pc>，</pc>為害多端<pc>，</pc>若複置監牧而收地入官<pc>，</pc>則<num value="100">百</num>姓戴恩<pc>，</pc>如釋重負矣<pc>。</pc>
+<pc>，</pc>複置監如故<pc>，</pc>監牧事委之轉運官<pc>，</pc>而不專置使<pc>。</pc>今<placeName>鄆州</placeName>之東平<pc>，</pc>北京之大名<pc>、</pc>元城<pc>，</pc>衛州之淇水<pc>，</pc>
+<placeName>相州</placeName>之安陽<pc>，</pc>
+<placeName>洺州</placeName>之廣平監<pc>，</pc>以及瀛<pc>、</pc>定之間棚塞草地疆畫具存<pc>，</pc>使臣牧卒大半猶在<pc>，</pc>稍加招集<pc>，</pc>則指顧之間措置可定<pc>，</pc>而人免納錢之害<pc>，</pc>國收牧馬之利<pc>，</pc>豈非計之得哉<pc>？</pc>又況廢監以來<pc>，</pc>牧地之賦民者<pc>，</pc>為害多端<pc>，</pc>若複置監牧而收地入官<pc>，</pc>則<num value="100">百</num>姓戴恩<pc>，</pc>如釋重負矣<pc>。</pc>
+</quote>
 <pc>”</pc>自是<pc>，</pc>
 <placeName>洛陽</placeName>
 <pc>、</pc>單鎮<pc>、</pc>原武<pc>、</pc>淇水<pc>、</pc>東平<pc>、</pc>安陽等監皆複<pc>。</pc>
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>熙寧中<pc>，</pc>並天駟<num value="4">四</num>監為<num value="2">二</num>
+<p>初<pc>，</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>中<pc>，</pc>並天駟<num value="4">四</num>監為<num value="2">二</num>
 <pc>，</pc>而左<pc>、</pc>右天廄坊亦罷<pc>。</pc>至是<pc>，</pc>複左<pc>、</pc>右天廄坊<pc>。</pc>時又有旨<pc>，</pc>內外馬事並隸太仆寺<pc>，</pc>不由駕部而達尚書省<pc>。</pc>兵部尚書王存<pc>、</pc>右司諫王覿言<pc>：</pc>
-<pc>“</pc>先帝講求曆代之法<pc>，</pc>正省<pc>、</pc>台<pc>、</pc>寺<pc>、</pc>監之職<pc>，</pc>上下相繼<pc>，</pc>各有統製<pc>。</pc>其間或濡滯不通<pc>，</pc>宜量加裁正<pc>，</pc>不可因而隳紊<pc>。</pc>
-<pc>”</pc>言不果行<pc>。</pc>又詔舊屬群牧司者專隸太仆寺<pc>，</pc>直達樞密院<pc>，</pc>不由尚書省及駕部<pc>。</pc>至崇寧中<pc>，</pc>始詔如元豐舊製<pc>。</pc>
+<pc>“</pc>
+<quote>先帝講求曆代之法<pc>，</pc>正省<pc>、</pc>台<pc>、</pc>寺<pc>、</pc>監之職<pc>，</pc>上下相繼<pc>，</pc>各有統製<pc>。</pc>其間或濡滯不通<pc>，</pc>宜量加裁正<pc>，</pc>不可因而隳紊<pc>。</pc>
+</quote>
+<pc>”</pc>言不果行<pc>。</pc>又詔舊屬群牧司者專隸太仆寺<pc>，</pc>直達樞密院<pc>，</pc>不由尚書省及駕部<pc>。</pc>至崇寧中<pc>，</pc>始詔如<date notBefore="1078" notAfter="1085">元豐</date>舊製<pc>。</pc>
 </p>
 </div>
 <div>
-<p>紹聖初<pc>，</pc>用事者更以其意為廢置<pc>，</pc>而時議複變<pc>。</pc>太仆寺言<pc>，</pc>府界牧田<pc>，</pc>占佃之外<pc>，</pc>尚存<num value="3000">三千</num>餘頃<pc>，</pc>議複畿內孳生<num value="10">十</num>監<pc>。</pc>詔以莊宅副使麥文丙<pc>、</pc>內殿崇班王景儉充提舉<pc>。</pc>後<measure quantity="2" unit="years">
+<p>
+<date notBefore="1094" notAfter="1098">紹聖</date>初<pc>，</pc>用事者更以其意為廢置<pc>，</pc>而時議複變<pc>。</pc>太仆寺言<pc>，</pc>府界牧田<pc>，</pc>占佃之外<pc>，</pc>尚存<num value="3000">三千</num>餘頃<pc>，</pc>議複畿內孳生<num value="10">十</num>監<pc>。</pc>詔以莊宅副使麥文丙<pc>、</pc>內殿崇班王景儉充提舉<pc>。</pc>後<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>而給地牧馬之政行矣<pc>。</pc>
 </p>
 </div>
 <div>
-<p>先是<pc>，</pc>知任縣韓筠等建議<pc>，</pc>凡授民牧田<num value="1">一</num>頃<pc>，</pc>為官牧<num value="1">一</num>馬而蠲其租<pc>。</pc>縣籍其高下<pc>、</pc>老壯<pc>、</pc>毛色<pc>，</pc>歲<num value="1">一</num>閱<pc>，</pc>亡失者責償<pc>，</pc>已佃牧田者依上養馬<pc>。</pc>知邢州張赴上其說<pc>，</pc>且謂授田<num value="1">一</num>頃為官牧<num value="1">一</num>馬<pc>，</pc>較陝西沿邊弓箭手既養馬又戍邊者為優<pc>，</pc>試之<num value="1">一</num>監<num value="1">一</num>縣<pc>，</pc>當有利而無害<pc>。</pc>樞密院是其請<pc>，</pc>且言<pc>：</pc>
-<pc>“</pc>熙寧中<pc>，</pc>罷諸監以賦民<pc>，</pc>歲收緡錢至<num value="100">百</num>餘<num value="10000">萬</num>
-<pc>。</pc>元祐初<pc>，</pc>未嚐講明利害<pc>，</pc>惟務罷元豐<pc>、</pc>熙寧之政<pc>，</pc>奪已佃之田而複舊監<pc>。</pc>桑棗井廬多所毀伐<pc>，</pc>監牧官吏為費不貲<pc>，</pc>牧卒擾民<pc>，</pc>棚井抑配<pc>，</pc>為害非<num value="1">一</num>
-<pc>。</pc>蓋自複監以來<pc>，</pc>臣僚屢陳公私之害<pc>。</pc>若循元祐倉卒更張之法<pc>，</pc>久當益弊<pc>。</pc>且左右廂今歲籍馬<num value="3000">萬三千</num>有奇<pc>，</pc>堪配軍者無幾<pc>，</pc>惟沙苑<num value="6000">六千</num>疋愈於他監<pc>。</pc>今赴等所陳授田養馬<pc>，</pc>既蠲其租不責以孳息<pc>，</pc>而不願者無所抑勒<pc>，</pc>又限以尺寸<pc>，</pc>則緩急皆可用之馬矣<pc>。</pc>
+<p>先是<pc>，</pc>知任縣韓筠等建議<pc>，</pc>凡授民牧田<num value="1">一</num>頃<pc>，</pc>為官牧<num value="1">一</num>馬而蠲其租<pc>。</pc>縣籍其高下<pc>、</pc>老壯<pc>、</pc>毛色<pc>，</pc>歲<num value="1">一</num>閱<pc>，</pc>亡失者責償<pc>，</pc>已佃牧田者依上養馬<pc>。</pc>知<placeName>邢州</placeName>張赴上其說<pc>，</pc>且謂授田<num value="1">一</num>頃為官牧<num value="1">一</num>馬<pc>，</pc>較陝西沿邊弓箭手既養馬又戍邊者為優<pc>，</pc>試之<num value="1">一</num>監<num value="1">一</num>縣<pc>，</pc>當有利而無害<pc>。</pc>樞密院是其請<pc>，</pc>且言<pc>：</pc>
+<pc>“</pc>
+<quote>
+<date notBefore="1068" notAfter="1077">熙寧</date>中<pc>，</pc>罷諸監以賦民<pc>，</pc>歲收緡錢至<num value="100">百</num>餘<num value="10000">萬</num>
+<pc>。</pc>
+<date notBefore="1086" notAfter="1094">元祐</date>初<pc>，</pc>未嚐講明利害<pc>，</pc>惟務罷<date notBefore="1078" notAfter="1085">元豐</date>
+<pc>、</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>之政<pc>，</pc>奪已佃之田而複舊監<pc>。</pc>桑棗井廬多所毀伐<pc>，</pc>監牧官吏為費不貲<pc>，</pc>牧卒擾民<pc>，</pc>棚井抑配<pc>，</pc>為害非<num value="1">一</num>
+<pc>。</pc>蓋自複監以來<pc>，</pc>臣僚屢陳公私之害<pc>。</pc>若循<date notBefore="1086" notAfter="1094">元祐</date>倉卒更張之法<pc>，</pc>久當益弊<pc>。</pc>且左右廂今歲籍馬<num value="3000">萬三千</num>有奇<pc>，</pc>堪配軍者無幾<pc>，</pc>惟沙苑<num value="6000">六千</num>疋愈於他監<pc>。</pc>今赴等所陳授田養馬<pc>，</pc>既蠲其租不責以孳息<pc>，</pc>而不願者無所抑勒<pc>，</pc>又限以尺寸<pc>，</pc>則緩急皆可用之馬矣<pc>。</pc>
+</quote>
 <pc>”</pc>乃具為條畫<pc>，</pc>下太仆寺<pc>，</pc>應監牧州縣悉行之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>時殿中侍<term>禦史</term>陳次升言<pc>：</pc>
-<pc>“</pc>給地牧馬<pc>，</pc>其初始於邢州守令之請<pc>，</pc>未嚐下監司詳度<pc>。</pc>諸路各有利害<pc>，</pc>既不可知<pc>。</pc>民居與田相遠者<pc>，</pc>難就耕牧<pc>。</pc>
+<pc>“</pc>
+<quote>給地牧馬<pc>，</pc>其初始於<placeName>邢州</placeName>守令之請<pc>，</pc>未嚐下監司詳度<pc>。</pc>諸路各有利害<pc>，</pc>既不可知<pc>。</pc>民居與田相遠者<pc>，</pc>難就耕牧<pc>。</pc>
 <num value="1">一</num>頃之地所直不多<pc>，</pc>而亡失責償<pc>，</pc>為錢<num value="200000">四五十千</num>
 <pc>，</pc>必非人情所願<pc>。</pc>
+</quote>
 <pc>”</pc>言竟不行<pc>。</pc>時同知樞密院者<pc>，</pc>曾布也<pc>。</pc>
 </p>
 </div>
@@ -686,10 +876,13 @@
 <pc>，</pc>遂廢淇水<pc>、</pc>單鎮<pc>、</pc>安陽<pc>、</pc>
 <placeName>洛陽</placeName>
 <pc>、</pc>原武監<pc>，</pc>罷提點所及左右廂<pc>，</pc>惟存東平<pc>、</pc>沙苑<num value="2">二</num>監<pc>。</pc>曾布自敘其事曰<pc>：</pc>
-<pc>“</pc>元祐中<pc>，</pc>複置監牧<pc>，</pc>兩廂所養馬止<num value="3000">萬三千</num>匹<pc>，</pc>而不堪者過半<pc>。</pc>今既以租錢置蕃落<num value="10">十</num>指揮於陝西<pc>，</pc>養馬<num value="3500">三千五百</num>
+<pc>“</pc>
+<quote>
+<date notBefore="1086" notAfter="1094">元祐</date>中<pc>，</pc>複置監牧<pc>，</pc>兩廂所養馬止<num value="3000">萬三千</num>匹<pc>，</pc>而不堪者過半<pc>。</pc>今既以租錢置蕃落<num value="10">十</num>指揮於陝西<pc>，</pc>養馬<num value="3500">三千五百</num>
 <pc>。</pc>又人戶願養者亦數<num value="1000">千</num>
 <pc>，</pc>而所存兩監各可牧<num value="10000">萬</num>馬<pc>。</pc>馬數多於舊監<pc>，</pc>而所省官吏之費非<num value="1">一</num>
 <pc>，</pc>近世良法<pc>，</pc>未之能及<pc>。</pc>
+</quote>
 <pc>”</pc>時<num value="3">三</num>省皆稱善<pc>。</pc>其後<pc>，</pc>沙苑複隸陝西買馬監牧司<pc>，</pc>而東平監仍廢<pc>。</pc>
 </p>
 </div>
@@ -699,16 +892,18 @@
 </p>
 </div>
 <div>
-<p>大觀元年<pc>，</pc>尚書省言<pc>：</pc>
-<pc>“</pc>元祐置監<pc>，</pc>馬不蕃息<pc>，</pc>而費用不貲<pc>。</pc>今沙苑最號多馬<pc>，</pc>然占牧田<num value="9000">九千</num>餘頃<pc>，</pc>芻粟<pc>、</pc>官曹歲費緡錢<num value="40">四十</num>餘<num value="10000">萬</num>
+<p>
+<date notBefore="1107" notAfter="1110">大觀</date>元年<pc>，</pc>尚書省言<pc>：</pc>
+<pc>“</pc>
+<date notBefore="1086" notAfter="1094">元祐</date>置監<pc>，</pc>馬不蕃息<pc>，</pc>而費用不貲<pc>。</pc>今沙苑最號多馬<pc>，</pc>然占牧田<num value="9000">九千</num>餘頃<pc>，</pc>芻粟<pc>、</pc>官曹歲費緡錢<num value="40">四十</num>餘<num value="10000">萬</num>
 <pc>，</pc>而牧馬止及<num value="6000">六千</num>
-<pc>。</pc>自元符元年至<measure quantity="2" unit="years">
+<pc>。</pc>自<date notBefore="1098" notAfter="1100">元符</date>元年至<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>亡失者<num value="3900">三千九百</num>
 <pc>。</pc>且素不調習<pc>，</pc>不中於用<pc>。</pc>以<num value="9000">九千</num>頃之田<pc>、</pc>
 <num value="400000">四十萬</num>緡之費<pc>，</pc>養馬而不適於用<pc>，</pc>又亡失如此<pc>，</pc>利害灼然可見<pc>。</pc>今以<num value="9000">九千</num>頃之田<pc>，</pc>計其磽瘠<pc>，</pc>
 <num value="3">三</num>分去<num value="1">一</num>
-<pc>，</pc>猶得良田<num value="6000">六千</num>頃<pc>。</pc>以直計之<pc>，</pc>頃為錢<num value="500">五百</num>餘緡<pc>，</pc>以<num value="1">一</num>頃募<num value="1">一</num>馬<pc>，</pc>則人得地利<pc>，</pc>馬得所養<pc>，</pc>可以紹述先帝隱兵於農之意<pc>。</pc>請下永興軍路提點刑獄司及同州詳度以聞<pc>。</pc>俟見實利<pc>，</pc>則<num value="6">六</num>路新邊閑田<pc>，</pc>當以次推行<pc>。</pc>時熙河蘭湟路牧馬司又請兼募願養牝馬者<pc>，</pc>每收<num value="3">三</num>駒<pc>，</pc>以其<num value="2">二</num>歸官<pc>，</pc>
+<pc>，</pc>猶得良田<num value="6000">六千</num>頃<pc>。</pc>以直計之<pc>，</pc>頃為錢<num value="500">五百</num>餘緡<pc>，</pc>以<num value="1">一</num>頃募<num value="1">一</num>馬<pc>，</pc>則人得地利<pc>，</pc>馬得所養<pc>，</pc>可以紹述先帝隱兵於農之意<pc>。</pc>請下永興軍路提點刑獄司及<placeName>同州</placeName>詳度以聞<pc>。</pc>俟見實利<pc>，</pc>則<num value="6">六</num>路新邊閑田<pc>，</pc>當以次推行<pc>。</pc>時熙河蘭湟路牧馬司又請兼募願養牝馬者<pc>，</pc>每收<num value="3">三</num>駒<pc>，</pc>以其<num value="2">二</num>歸官<pc>，</pc>
 <num value="1">一</num>充賞<pc>，</pc>詔行之<pc>。</pc>是歲<pc>，</pc>臣僚言岷州應募養馬者至<num value="10000">萬</num>餘匹<pc>，</pc>於是自守貳而下<pc>，</pc>遞賞有差<pc>。</pc>明年<pc>，</pc>詔熙河路應縣<pc>、</pc>鎮<pc>、</pc>城<pc>、</pc>砦<pc>、</pc>關<pc>、</pc>堡官並兼管幹給地牧事<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
@@ -728,7 +923,9 @@
 </p>
 </div>
 <div>
-<p>蔡京既罷政<pc>，</pc>新用事者更言其不便<pc>。</pc>宣和<measure quantity="2" unit="years">
+<p>蔡京既罷政<pc>，</pc>新用事者更言其不便<pc>。</pc>
+<date notBefore="1119" notAfter="1125">宣和</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>詔罷政和<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>以來給地牧馬條令<pc>，</pc>收見馬以給軍<pc>，</pc>應牧田及置監處並如舊製<pc>。</pc>又複東平監<pc>。</pc>凡諸監興罷不<num value="1">一</num>
@@ -754,9 +951,12 @@
 </p>
 </div>
 <div>
-<p>保甲養馬者<pc>，</pc>自熙寧<measure quantity="5" unit="years">
+<p>保甲養馬者<pc>，</pc>自<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>始<pc>。</pc>先是<pc>，</pc>中書省<pc>、</pc>樞密院議其事於上前<pc>，</pc>文彥博<pc>、</pc>吳充言<pc>：</pc>
-<pc>“</pc>國馬宜不可闕<pc>。</pc>今法<pc>，</pc>馬死者責償<pc>，</pc>恐非民願<pc>。</pc>
+<pc>“</pc>
+<quote>國馬宜不可闕<pc>。</pc>今法<pc>，</pc>馬死者責償<pc>，</pc>恐非民願<pc>。</pc>
+</quote>
 <pc>”</pc>安石以為令下而京畿投牒者已<num value="500">千五百</num>戶<pc>，</pc>決非出於驅迫<pc>，</pc>持論益堅<pc>。</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
@@ -784,17 +984,23 @@
 <num value="5">五</num>路義勇保甲養馬法</title>
 <pc>》</pc>
 <pc>。</pc>兵部言<pc>：</pc>
-<pc>“</pc>河東正軍馬<num value="9500">九千五百</num>匹<pc>，</pc>請權罷官給<pc>，</pc>以義勇保甲馬<num value="5000">五千</num>補之以合額<pc>。</pc>俟正軍馬不及<num value="5000">五千</num>
+<pc>“</pc>
+<quote>河東正軍馬<num value="9500">九千五百</num>匹<pc>，</pc>請權罷官給<pc>，</pc>以義勇保甲馬<num value="5000">五千</num>補之以合額<pc>。</pc>俟正軍馬不及<num value="5000">五千</num>
 <pc>，</pc>始行給配<pc>。</pc>
+</quote>
 <pc>”</pc>下中書<pc>、</pc>樞密院<pc>。</pc>樞密院以為<pc>：</pc>
-<pc>“</pc>官養<num value="1">一</num>馬<pc>，</pc>歲為錢<num value="27000">二十七千</num>
+<pc>“</pc>
+<quote>官養<num value="1">一</num>馬<pc>，</pc>歲為錢<num value="27000">二十七千</num>
 <pc>。</pc>民養<num value="1">一</num>馬<pc>，</pc>才免折變緣納錢<num value="6500">六千五百</num>
 <pc>，</pc>折米而輸其直<pc>，</pc>為錢<num value="14400">十四千四百</num>
 <pc>，</pc>餘皆出於民<pc>，</pc>決非所願<pc>。</pc>況減軍馬<num value="5000">五千</num>匹<pc>，</pc>邊防事宜何所取備<pc>？</pc>若存官軍馬如故<pc>，</pc>漸令民間從便牧馬<pc>，</pc>不以<num value="5000">五千</num>為限<pc>，</pc>於理為可<pc>。</pc>
+</quote>
 <pc>”</pc>中書謂<pc>：</pc>
-<pc>“</pc>官養<num value="1">一</num>馬<pc>，</pc>以中價率之<pc>，</pc>為錢<num value="27000">二十七千</num>
+<pc>“</pc>
+<quote>官養<num value="1">一</num>馬<pc>，</pc>以中價率之<pc>，</pc>為錢<num value="27000">二十七千</num>
 <pc>。</pc>募民牧養<pc>，</pc>可省雜費<num value="80000">八萬</num>餘緡<pc>。</pc>計前<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>官馬死<pc>，</pc>倍於保甲馬<pc>。</pc>而保甲有馬<pc>，</pc>可以習戰禦盜<pc>，</pc>公私兩便<pc>。</pc>
+</quote>
 <pc>”</pc>帝卒從樞密院議<pc>。</pc>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
@@ -802,7 +1008,9 @@
 </p>
 </div>
 <div>
-<p>元豐<measure quantity="6" unit="years">
+<p>
+<date notBefore="1078" notAfter="1085">元豐</date>
+<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>取河東路保甲<num value="10">十</num>分之<num value="2">二</num>以教騎戰<pc>，</pc>且以本路鹽息錢給之<pc>。</pc>每<num value="25000">二十五千</num>令市<num value="1">一</num>馬<pc>，</pc>仍以<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>為限<pc>。</pc>
@@ -833,21 +1041,26 @@
 </div>
 <div>
 <p>哲宗嗣位<pc>，</pc>言新法之不便者<pc>，</pc>以保馬為急<pc>。</pc>乃詔曰<pc>：</pc>
-<pc>“</pc>京東<pc>、</pc>西保馬<pc>，</pc>期限極寬<pc>。</pc>有司不務循守<pc>，</pc>遂致煩擾<pc>。</pc>先帝已嚐手詔詰責<pc>，</pc>今猶未能遵守<pc>。</pc>其兩路市馬年限並如元詔<pc>。</pc>
+<pc>“</pc>
+<quote>京東<pc>、</pc>西保馬<pc>，</pc>期限極寬<pc>。</pc>有司不務循守<pc>，</pc>遂致煩擾<pc>。</pc>先帝已嚐手詔詰責<pc>，</pc>今猶未能遵守<pc>。</pc>其兩路市馬年限並如元詔<pc>。</pc>
+</quote>
 <pc>”</pc>尋又詔以兩路保馬分配諸軍<pc>，</pc>餘數付太仆寺<pc>，</pc>不堪支配者斥還民戶而責官直<pc>。</pc>翔<pc>、</pc>公雅皆以罪去<pc>，</pc>而保馬遂罷<pc>。</pc>
 </p>
 </div>
 <div>
-<p>戶馬者<pc>，</pc>慶曆中<pc>，</pc>嚐詔河北民戶以物力養馬<pc>，</pc>以備官買<pc>。</pc>熙寧<measure quantity="2" unit="years">
+<p>戶馬者<pc>，</pc>
+<date notBefore="1041" notAfter="1048">慶曆</date>中<pc>，</pc>嚐詔河北民戶以物力養馬<pc>，</pc>以備官買<pc>。</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>河北察訪使曾孝寬以為言<pc>，</pc>始參考行之<pc>。</pc>是時<pc>，</pc>諸監既廢<pc>，</pc>仰給市馬<pc>，</pc>而義勇保甲馬複從官給<pc>，</pc>朝廷以乏馬為憂<pc>。</pc>
 </p>
 </div>
 <div>
-<p>元豐<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>春<pc>，</pc>以王拱辰之請<pc>，</pc>詔開封府界<pc>、</pc>京東西<pc>、</pc>河北<pc>、</pc>陝西<pc>、</pc>河東路州縣戶各計資產市馬<pc>，</pc>坊郭家產及<num value="3000">三千</num>緡<pc>、</pc>鄉村<num value="5000">五千</num>緡<pc>、</pc>若坊郭鄉村通及<num value="3000">三千</num>緡以上者<pc>，</pc>各養<num value="1">一</num>馬<pc>，</pc>增倍者馬亦如之<pc>，</pc>至<num value="3">三</num>疋止<pc>。</pc>馬以<num value="4">四</num>尺<num value="3">三</num>寸以上<pc>，</pc>齒限<measure quantity="8" unit="years">
-<num value="8">八</num>歲</measure>以下<pc>，</pc>及<measure quantity="15" unit="years">
-<num value="15">十五</num>歲</measure>則更市如初<pc>，</pc>籍於提舉司<pc>。</pc>於是諸道各上其數<pc>，</pc>開封府界<num value="4694">四千六百九十四</num>
+<p>
+<date notBefore="1078" notAfter="1085">元豐</date>
+<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>春<pc>，</pc>以王拱辰之請<pc>，</pc>詔開封府界<pc>、</pc>京東西<pc>、</pc>河北<pc>、</pc>陝西<pc>、</pc>河東路州縣戶各計資產市馬<pc>，</pc>坊郭家產及<num value="3000">三千</num>緡<pc>、</pc>鄉村<num value="5000">五千</num>緡<pc>、</pc>若坊郭鄉村通及<num value="3000">三千</num>緡以上者<pc>，</pc>各養<num value="1">一</num>馬<pc>，</pc>增倍者馬亦如之<pc>，</pc>至<num value="3">三</num>疋止<pc>。</pc>馬以<num value="4">四</num>尺<num value="3">三</num>寸以上<pc>，</pc>齒限<num value="8">八</num>歲以下<pc>，</pc>及<num value="15">十五</num>歲則更市如初<pc>，</pc>籍於提舉司<pc>。</pc>於是諸道各上其數<pc>，</pc>開封府界<num value="4694">四千六百九十四</num>
 <pc>，</pc>河北東路<num value="615">六百一十五</num>
 <pc>，</pc>西路<num value="854">八百五十四</num>
 <pc>，</pc>秦鳳等路<num value="642">六百四十二</num>
@@ -861,9 +1074,12 @@
 </p>
 </div>
 <div>
-<p>時初立法<pc>，</pc>上慮商賈乘時高直以病民<pc>，</pc>命以群牧司驍騎以上<num value="1000">千</num>疋出市<pc>，</pc>以平其直<pc>。</pc>熙寧中<pc>，</pc>嚐令德順軍蕃部養馬<pc>，</pc>帝問其利害<pc>。</pc>
+<p>時初立法<pc>，</pc>上慮商賈乘時高直以病民<pc>，</pc>命以群牧司驍騎以上<num value="1000">千</num>疋出市<pc>，</pc>以平其直<pc>。</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>中<pc>，</pc>嚐令德順軍蕃部養馬<pc>，</pc>帝問其利害<pc>。</pc>
 <persName>王安石</persName>謂<pc>：</pc>
-<pc>“</pc>今坊<pc>、</pc>監以<num value="500">五百</num>緡得<num value="1">一</num>馬<pc>，</pc>若委之熙河蕃部<pc>，</pc>當不至重費<pc>。</pc>蕃部地宜馬<pc>，</pc>且以畜牧為生<pc>，</pc>誠為便利<pc>。</pc>
+<pc>“</pc>
+<quote>今坊<pc>、</pc>監以<num value="500">五百</num>緡得<num value="1">一</num>馬<pc>，</pc>若委之熙河蕃部<pc>，</pc>當不至重費<pc>。</pc>蕃部地宜馬<pc>，</pc>且以畜牧為生<pc>，</pc>誠為便利<pc>。</pc>
+</quote>
 <pc>”</pc>已而得駒庳劣<pc>，</pc>亡失者責償<pc>，</pc>蕃部苦之<pc>，</pc>其法尋廢<pc>。</pc>至是<pc>，</pc>環慶路經略司複言已檄諸蕃部養馬<pc>，</pc>詔閱實及格者<num value="1">一</num>匹支<num value="5">五</num>縑<pc>，</pc>鄜延<pc>、</pc>秦鳳<pc>、</pc>涇原路準此<pc>。</pc>
 </p>
 </div>
@@ -880,7 +1096,8 @@
 </p>
 </div>
 <div>
-<p>至於收市<pc>，</pc>則仍嘉祐之製<pc>，</pc>置買馬司於原渭州<pc>、</pc>德順軍<pc>，</pc>而增為招市之令<pc>。</pc>後開熙河<pc>，</pc>則更於熙河置買馬司<pc>，</pc>而以秦州買馬司隸焉<pc>。</pc>
+<p>至於收市<pc>，</pc>則仍<date notBefore="1056" notAfter="1063">嘉祐</date>之製<pc>，</pc>置買馬司於原<placeName>渭州</placeName>
+<pc>、</pc>德順軍<pc>，</pc>而增為招市之令<pc>。</pc>後開熙河<pc>，</pc>則更於熙河置買馬司<pc>，</pc>而以<placeName>秦州</placeName>買馬司隸焉<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>遂置熙河路買馬場<num value="6">六</num>
@@ -889,10 +1106,14 @@
 </p>
 </div>
 <div>
-<p>熙寧<measure quantity="7" unit="years">
+<p>
+<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>熙河用兵<pc>，</pc>馬道梗絕<pc>。</pc>乃詔知成都府蔡延慶兼提舉戎<pc>、</pc>黎州買馬<pc>，</pc>以經度其事<pc>。</pc>明年<pc>，</pc>延慶言<pc>：</pc>
-<pc>“</pc>威<pc>、</pc>雅<pc>、</pc>嘉<pc>、</pc>瀘<pc>、</pc>文<pc>、</pc>龍州<pc>，</pc>地接烏蠻<pc>、</pc>西羌<pc>，</pc>皆產善馬<pc>。</pc>請委知州<pc>、</pc>砦主<pc>，</pc>以錦采<pc>、</pc>茶<pc>、</pc>絹招市<pc>。</pc>
+<pc>“</pc>
+<quote>威<pc>、</pc>雅<pc>、</pc>嘉<pc>、</pc>瀘<pc>、</pc>文<pc>、</pc>龍州<pc>，</pc>地接烏蠻<pc>、</pc>西羌<pc>，</pc>皆產善馬<pc>。</pc>請委知州<pc>、</pc>砦主<pc>，</pc>以錦采<pc>、</pc>茶<pc>、</pc>絹招市<pc>。</pc>
+</quote>
 <pc>”</pc>未及施行<pc>，</pc>會威<pc>、</pc>茂州夷人盜邊<pc>，</pc>及西邊馬已至<pc>，</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
@@ -900,28 +1121,37 @@
 </p>
 </div>
 <div>
-<p>元豐中<pc>，</pc>軍興乏馬<pc>。</pc>
+<p>
+<date notBefore="1078" notAfter="1085">元豐</date>中<pc>，</pc>軍興乏馬<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>複命知成都呂大防同成都府<pc>、</pc>利州路轉運司<pc>，</pc>經製邊郡之可市馬者<pc>，</pc>遂製嘉州中鎮砦<pc>、</pc>雅州靈關等買馬場<pc>，</pc>而馬皆不至<pc>。</pc>元祐初<pc>，</pc>乃罷之<pc>。</pc>
+<pc>，</pc>複命知成都呂大防同成都府<pc>、</pc>
+<placeName>利州</placeName>路轉運司<pc>，</pc>經製邊郡之可市馬者<pc>，</pc>遂製嘉州中鎮砦<pc>、</pc>
+<placeName>雅州</placeName>靈關等買馬場<pc>，</pc>而馬皆不至<pc>。</pc>
+<date notBefore="1086" notAfter="1094">元祐</date>初<pc>，</pc>乃罷之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>元祐中<pc>，</pc>嚐詔以蜀馬給陝西軍<pc>，</pc>以陝西馬赴京師<pc>。</pc>崇寧<measure quantity="5" unit="years">
+<p>
+<date notBefore="1086" notAfter="1094">元祐</date>中<pc>，</pc>嚐詔以蜀馬給陝西軍<pc>，</pc>以陝西馬赴京師<pc>。</pc>崇寧<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>增黎州市馬至<num value="4000">四千</num>疋<pc>。</pc>然凡雲蜀馬者<pc>，</pc>惟沈黎所市為多<pc>，</pc>其他如戎<pc>、</pc>瀘等州<pc>，</pc>歲與蠻人為市<pc>，</pc>第存優恤<pc>，</pc>數馬以給其直<pc>。</pc>大觀初<pc>，</pc>又詔播州夷界巡檢楊榮<pc>，</pc>許歲市馬<num value="50">五十</num>疋於南平軍<pc>，</pc>其給賜視戎州之數<pc>。</pc>
+<pc>，</pc>增黎州市馬至<num value="4000">四千</num>疋<pc>。</pc>然凡雲蜀馬者<pc>，</pc>惟沈黎所市為多<pc>，</pc>其他如戎<pc>、</pc>瀘等州<pc>，</pc>歲與蠻人為市<pc>，</pc>第存優恤<pc>，</pc>數馬以給其直<pc>。</pc>
+<date notBefore="1107" notAfter="1110">大觀</date>初<pc>，</pc>又詔<placeName>播州</placeName>夷界巡檢楊榮<pc>，</pc>許歲市馬<num value="50">五十</num>疋於南平軍<pc>，</pc>其給賜視<placeName>戎州</placeName>之數<pc>。</pc>
 </p>
 </div>
 <div>
-<p>熙寧中<pc>，</pc>罷券馬而專於招市<pc>，</pc>歲省<num value="3">三</num>司錢<num value="200000">二十萬</num>緡<pc>。</pc>自馬不下槽出牧<pc>，</pc>
+<p>
+<date notBefore="1068" notAfter="1077">熙寧</date>中<pc>，</pc>罷券馬而專於招市<pc>，</pc>歲省<num value="3">三</num>司錢<num value="200000">二十萬</num>緡<pc>。</pc>自馬不下槽出牧<pc>，</pc>
 <num value="3">三</num>司複給芻秣之費更相補除<pc>，</pc>而<num value="3">三</num>司歲償群牧者<pc>，</pc>為緡錢<num value="100000">十萬</num>
-<pc>，</pc>以增市馬<pc>。</pc>券馬之罷已久<pc>，</pc>紹聖初<pc>，</pc>提舉買馬陸師閔奏複行之<pc>，</pc>令蕃漢商人願以馬結券進賣者<pc>，</pc>先從諸場驗印<pc>，</pc>各具其直給券<pc>，</pc>送太仆寺償之<pc>。</pc>其說以為券馬既盛行<pc>，</pc>則綱馬可罷<pc>。</pc>行之<measure quantity="3" unit="years">
+<pc>，</pc>以增市馬<pc>。</pc>券馬之罷已久<pc>，</pc>
+<date notBefore="1094" notAfter="1098">紹聖</date>初<pc>，</pc>提舉買馬陸師閔奏複行之<pc>，</pc>令蕃漢商人願以馬結券進賣者<pc>，</pc>先從諸場驗印<pc>，</pc>各具其直給券<pc>，</pc>送太仆寺償之<pc>。</pc>其說以為券馬既盛行<pc>，</pc>則綱馬可罷<pc>。</pc>行之<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>樞密院言券馬死不及厘<pc>，</pc>而綱馬之死<num value="10">十</num>倍<pc>。</pc>乃賜師閔金帛<pc>，</pc>加集賢修撰<pc>，</pc>以賞其功<pc>。</pc>時議既不以券馬為是<pc>，</pc>主管買馬閻令亦言其枉費<pc>。</pc>然曾布力行之<pc>。</pc>崇寧中<pc>，</pc>乃詔買馬<num value="1">一</num>遵元豐法<pc>。</pc>
+<pc>，</pc>樞密院言券馬死不及厘<pc>，</pc>而綱馬之死<num value="10">十</num>倍<pc>。</pc>乃賜師閔金帛<pc>，</pc>加集賢修撰<pc>，</pc>以賞其功<pc>。</pc>時議既不以券馬為是<pc>，</pc>主管買馬閻令亦言其枉費<pc>。</pc>然曾布力行之<pc>。</pc>崇寧中<pc>，</pc>乃詔買馬<num value="1">一</num>遵<date notBefore="1078" notAfter="1085">元豐</date>法<pc>。</pc>
 </p>
 </div>
 <div>
-<p>市馬之官<pc>，</pc>自嘉祐中<pc>，</pc>始以陝西轉運使兼本路監牧買馬事<pc>，</pc>後又以製置陝西解鹽官同主之<pc>。</pc>熙寧中<pc>，</pc>始置提舉熙河路買馬<pc>，</pc>命知熙州王韶為之<pc>，</pc>而以提點刑獄為同提舉<pc>。</pc>
+<p>市馬之官<pc>，</pc>自<date notBefore="1056" notAfter="1063">嘉祐</date>中<pc>，</pc>始以陝西<term>轉運使</term>兼本路監牧買馬事<pc>，</pc>後又以製置陝西解鹽官同主之<pc>。</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>中<pc>，</pc>始置提舉熙河路買馬<pc>，</pc>命知熙州王韶為之<pc>，</pc>而以提點刑獄為同提舉<pc>。</pc>
 </p>
 </div>
 <div>
@@ -929,7 +1159,9 @@
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>提舉茶場李杞言<pc>：</pc>
-<pc>“</pc>賣茶買馬<pc>，</pc>固為<num value="1">一</num>事<pc>。</pc>乞同提舉買馬<pc>。</pc>
+<pc>“</pc>
+<quote>賣茶買馬<pc>，</pc>固為<num value="1">一</num>事<pc>。</pc>乞同提舉買馬<pc>。</pc>
+</quote>
 <pc>”</pc>詔如其請<pc>。</pc>
 <measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
@@ -937,14 +1169,18 @@
 </p>
 </div>
 <div>
-<p>元豐<measure quantity="3" unit="years">
+<p>
+<date notBefore="1078" notAfter="1085">元豐</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>複罷為提舉買馬監牧司<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>群牧判官郭茂恂言<pc>：</pc>
-<pc>“</pc>承詔議專以茶市馬<pc>，</pc>以物帛市穀<pc>，</pc>而並茶馬為<num value="1">一</num>司<pc>。</pc>臣聞頃時以茶易馬<pc>，</pc>兼用金帛<pc>，</pc>亦聽其便<pc>。</pc>近歲事局既分<pc>，</pc>專用銀絹<pc>、</pc>錢鈔<pc>，</pc>非蕃部所欲<pc>。</pc>且茶馬<num value="2">二</num>者<pc>，</pc>事實相須<pc>。</pc>請如詔便<pc>。</pc>
-<pc>”</pc>奏可<pc>。</pc>仍詔專以雅州名山茶為易馬用<pc>。</pc>自是蕃馬至者稍眾<pc>。</pc>
+<pc>“</pc>
+<quote>承詔議專以茶市馬<pc>，</pc>以物帛市穀<pc>，</pc>而並茶馬為<num value="1">一</num>司<pc>。</pc>臣聞頃時以茶易馬<pc>，</pc>兼用金帛<pc>，</pc>亦聽其便<pc>。</pc>近歲事局既分<pc>，</pc>專用銀絹<pc>、</pc>錢鈔<pc>，</pc>非蕃部所欲<pc>。</pc>且茶馬<num value="2">二</num>者<pc>，</pc>事實相須<pc>。</pc>請如詔便<pc>。</pc>
+</quote>
+<pc>”</pc>奏可<pc>。</pc>仍詔專以<placeName>雅州</placeName>名山茶為易馬用<pc>。</pc>自是蕃馬至者稍眾<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>買馬司複罷兼茶事<pc>。</pc>
@@ -958,18 +1194,26 @@
 <pc>。</pc>崇寧<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>詔曰<pc>：</pc>
-<pc>“</pc>神宗皇帝厲精庶政<pc>，</pc>經營熙河路茶馬司以致國馬<pc>，</pc>法製大備<pc>。</pc>其後監司欲侵奪其利以助糴買<pc>，</pc>故茶利不專<pc>，</pc>而馬不敷額<pc>。</pc>近雖更立條約<pc>，</pc>令茶馬司總運茶博馬之職<pc>，</pc>猶慮有司苟於目前近利<pc>，</pc>不顧悠久深害<pc>。</pc>
-<num value="3">三</num>省其謹守已行<pc>，</pc>毋輒變亂元豐成法<pc>。</pc>
+<pc>“</pc>
+<quote>神宗皇帝厲精庶政<pc>，</pc>經營熙河路茶馬司以致國馬<pc>，</pc>法製大備<pc>。</pc>其後監司欲侵奪其利以助糴買<pc>，</pc>故茶利不專<pc>，</pc>而馬不敷額<pc>。</pc>近雖更立條約<pc>，</pc>令茶馬司總運茶博馬之職<pc>，</pc>猶慮有司苟於目前近利<pc>，</pc>不顧悠久深害<pc>。</pc>
+<num value="3">三</num>省其謹守已行<pc>，</pc>毋輒變亂<date notBefore="1078" notAfter="1085">元豐</date>成法<pc>。</pc>
+</quote>
 <pc>”</pc>自是職任始<num value="1">一</num>
 <pc>。</pc>
 </p>
 </div>
 <div>
-<p>市馬之數<pc>，</pc>以時增損<pc>。</pc>初<pc>，</pc>原<pc>、</pc>渭<pc>、</pc>德順凡<measure quantity="3" unit="years">
-<num value="3">三</num>歲</measure>共市馬<num value="7100">萬七千一百</num>匹<pc>，</pc>而群牧判官王誨言<pc>：</pc>
-<pc>“</pc>嘉祐<measure quantity="6" unit="years">
-<num value="6">六</num>年</measure>以前<pc>，</pc>秦州券馬歲至者<num value="5000">萬五千</num>匹<pc>。</pc>今券馬法壞<pc>，</pc>請令增市<pc>，</pc>而優使臣之賞<pc>。</pc>
-<pc>”</pc>熙寧<measure quantity="3" unit="years">
+<p>市馬之數<pc>，</pc>以時增損<pc>。</pc>初<pc>，</pc>原<pc>、</pc>渭<pc>、</pc>德順凡<num value="3">三</num>歲共市馬<num value="7100">萬七千一百</num>匹<pc>，</pc>而群牧判官王誨言<pc>：</pc>
+<pc>“</pc>
+<quote>
+<date notBefore="1056" notAfter="1063">嘉祐</date>
+<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>以前<pc>，</pc>
+<placeName>秦州</placeName>券馬歲至者<num value="5000">萬五千</num>匹<pc>。</pc>今券馬法壞<pc>，</pc>請令增市<pc>，</pc>而優使臣之賞<pc>。</pc>
+</quote>
+<pc>”</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>乃詔涇<pc>、</pc>原<pc>、</pc>渭<pc>、</pc>德順歲買<num value="10000">萬</num>匹<pc>，</pc>
 <measure quantity="3" unit="years">
@@ -977,13 +1221,16 @@
 <title>馬政條約</title>
 <pc>》</pc>
 <pc>，</pc>詔頒行之<pc>。</pc>其後<pc>，</pc>熙河市馬歲增至<num value="5000">萬五千</num>
-<pc>。</pc>紹聖中<pc>，</pc>又增至<num value="20000">二萬</num>匹<pc>，</pc>歲費<num value="500000">五十萬</num>緡<pc>。</pc>後遂以為定額<pc>，</pc>特詔增市者不在此數<pc>。</pc>
+<pc>。</pc>
+<date notBefore="1094" notAfter="1098">紹聖</date>中<pc>，</pc>又增至<num value="20000">二萬</num>匹<pc>，</pc>歲費<num value="500000">五十萬</num>緡<pc>。</pc>後遂以為定額<pc>，</pc>特詔增市者不在此數<pc>。</pc>
 </p>
 </div>
 <div>
 <p>崇寧<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>提舉程之邵<pc>、</pc>孫鼇抃以額外市戰馬及<num value="20000">二萬</num>匹<pc>，</pc>各遷<num value="1">一</num>官<pc>。</pc>鼇抃仍賜<num value="3">三</num>品服<pc>。</pc>大觀元年<pc>，</pc>龐寅孫等又以買禦前良馬及<num value="30000">三萬</num>疋<pc>，</pc>推恩如之邵例<pc>。</pc>宣和中<pc>，</pc>宇文常<pc>、</pc>何漸等更以遵用元豐成法<pc>，</pc>省費不貲<pc>，</pc>各加職遷官<pc>。</pc>時如此類頗眾<pc>。</pc>賞典優濫<pc>，</pc>官屬利於多市馬<pc>，</pc>取充數而已<pc>。</pc>
+<pc>，</pc>提舉程之邵<pc>、</pc>孫鼇抃以額外市戰馬及<num value="20000">二萬</num>匹<pc>，</pc>各遷<num value="1">一</num>官<pc>。</pc>鼇抃仍賜<num value="3">三</num>品服<pc>。</pc>
+<date notBefore="1107" notAfter="1110">大觀</date>元年<pc>，</pc>龐寅孫等又以買禦前良馬及<num value="30000">三萬</num>疋<pc>，</pc>推恩如之邵例<pc>。</pc>
+<date notBefore="1119" notAfter="1125">宣和</date>中<pc>，</pc>宇文常<pc>、</pc>何漸等更以遵用<date notBefore="1078" notAfter="1085">元豐</date>成法<pc>，</pc>省費不貲<pc>，</pc>各加職遷官<pc>。</pc>時如此類頗眾<pc>。</pc>賞典優濫<pc>，</pc>官屬利於多市馬<pc>，</pc>取充數而已<pc>。</pc>
 </p>
 </div>
 <div>
@@ -991,31 +1238,43 @@
 </p>
 </div>
 <div>
-<p>熙寧初<pc>，</pc>樞密院言<pc>：</pc>
-<pc>“</pc>祖宗時<pc>，</pc>臣僚任邊職者<pc>，</pc>或賜帶甲馬<pc>，</pc>示不忘疆埸之事<pc>。</pc>承平日久<pc>，</pc>僥幸滋長<pc>。</pc>請應使臣閤門祗候以上<pc>，</pc>充<num value="3">三</num>路路分州軍總管<pc>、</pc>鈐轄之類<pc>，</pc>賜馬價如故<pc>，</pc>餘皆罷給<pc>。</pc>
+<p>
+<date notBefore="1068" notAfter="1077">熙寧</date>初<pc>，</pc>樞密院言<pc>：</pc>
+<pc>“</pc>
+<quote>祖宗時<pc>，</pc>臣僚任邊職者<pc>，</pc>或賜帶甲馬<pc>，</pc>示不忘疆埸之事<pc>。</pc>承平日久<pc>，</pc>僥幸滋長<pc>。</pc>請應使臣閤門祗候以上<pc>，</pc>充<num value="3">三</num>路路分州軍總管<pc>、</pc>
+<term>鈐轄</term>之類<pc>，</pc>賜馬價如故<pc>，</pc>餘皆罷給<pc>。</pc>
+</quote>
 <pc>”</pc>奏可<pc>。</pc>
 <measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
 <pc>，</pc>群牧司又言<pc>：</pc>
-<pc>“</pc>去歲給安南行營及兩省<pc>、</pc>宗室<pc>、</pc>諸班直及諸軍<pc>、</pc>諸司馬總<num value="3000">三千</num>餘匹<pc>，</pc>未支者猶<num value="2000">二千</num>
+<pc>“</pc>
+<quote>去歲給安南行營及兩省<pc>、</pc>宗室<pc>、</pc>諸班直及諸軍<pc>、</pc>諸司馬總<num value="3000">三千</num>餘匹<pc>，</pc>未支者猶<num value="2000">二千</num>
 <pc>。</pc>請裁宗室以下所給馬<pc>，</pc>諸司停給<pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>自罷監至此<pc>，</pc>始闕馬矣<pc>。</pc>
 </p>
 </div>
 <div>
-<p>熙寧初<pc>，</pc>詔河北騎軍如陝西<pc>、</pc>河東社馬例立社<pc>，</pc>更相助錢以市馬<pc>，</pc>而遞增官直<pc>。</pc>尋出奉宸庫珠<num value="10">十</num>餘<num value="10000">萬</num>以充其費<pc>。</pc>其後<pc>，</pc>陝西馬社苦於斂率<pc>。</pc>元豐中<pc>，</pc>乃詔本路罷其法<pc>，</pc>更從買馬司給之<pc>。</pc>時又諸路置將<pc>，</pc>馬不能盡給<pc>，</pc>則給其直<pc>，</pc>而委諸將自市<pc>。</pc>其在熙河蘭會路者<pc>，</pc>即以為買馬之數<pc>。</pc>
+<p>
+<date notBefore="1068" notAfter="1077">熙寧</date>初<pc>，</pc>詔河北騎軍如陝西<pc>、</pc>河東社馬例立社<pc>，</pc>更相助錢以市馬<pc>，</pc>而遞增官直<pc>。</pc>尋出奉宸庫珠<num value="10">十</num>餘<num value="10000">萬</num>以充其費<pc>。</pc>其後<pc>，</pc>陝西馬社苦於斂率<pc>。</pc>
+<date notBefore="1078" notAfter="1085">元豐</date>中<pc>，</pc>乃詔本路罷其法<pc>，</pc>更從買馬司給之<pc>。</pc>時又諸路置將<pc>，</pc>馬不能盡給<pc>，</pc>則給其直<pc>，</pc>而委諸將自市<pc>。</pc>其在熙河蘭會路者<pc>，</pc>即以為買馬之數<pc>。</pc>
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>內外諸軍給馬<pc>，</pc>例不及其元額<pc>，</pc>視其闕之多寡<pc>，</pc>以分數填配<pc>。</pc>元豐更立為定製<pc>，</pc>凡諸軍闕馬應給者<pc>，</pc>在京<pc>、</pc>府界<pc>、</pc>京東西<pc>、</pc>河東<pc>、</pc>陝西路無過<num value="10">十</num>之<num value="7">七</num>
+<p>初<pc>，</pc>內外諸軍給馬<pc>，</pc>例不及其元額<pc>，</pc>視其闕之多寡<pc>，</pc>以分數填配<pc>。</pc>
+<date notBefore="1078" notAfter="1085">元豐</date>更立為定製<pc>，</pc>凡諸軍闕馬應給者<pc>，</pc>在京<pc>、</pc>府界<pc>、</pc>京東西<pc>、</pc>河東<pc>、</pc>陝西路無過<num value="10">十</num>之<num value="7">七</num>
 <pc>，</pc>河北路<num value="10">十</num>之<num value="6">六</num>
-<pc>。</pc>然其後諸軍闕馬者多<pc>，</pc>紹聖<measure quantity="3" unit="years">
+<pc>。</pc>然其後諸軍闕馬者多<pc>，</pc>
+<date notBefore="1094" notAfter="1098">紹聖</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>乃詔提舉陸師閔於歲額外市馬<num value="30000">三萬</num>匹<pc>，</pc>給鄜延<pc>、</pc>環慶路正兵<pc>，</pc>餘支弓箭手<pc>，</pc>仍權不限分數<pc>。</pc>
 </p>
 </div>
 <div>
-<p>宣和初<pc>，</pc>真定<pc>、</pc>中山<pc>、</pc>高陽等路乏馬<pc>，</pc>複給度僧牒<pc>，</pc>令帥臣就市<pc>，</pc>以補諸軍之闕<pc>。</pc>
+<p>
+<date notBefore="1119" notAfter="1125">宣和</date>初<pc>，</pc>真定<pc>、</pc>中山<pc>、</pc>高陽等路乏馬<pc>，</pc>複給度僧牒<pc>，</pc>令帥臣就市<pc>，</pc>以補諸軍之闕<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1033,13 +1292,17 @@
 <measure quantity="19" unit="years">
 <num value="19">十九</num>年</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>馬<num value="500">五百</num>匹為<num value="1">一</num>監<pc>，</pc>牡<num value="1">一</num>而牝<num value="4">四</num>
+<pc>“</pc>
+<quote>馬<num value="500">五百</num>匹為<num value="1">一</num>監<pc>，</pc>牡<num value="1">一</num>而牝<num value="4">四</num>
 <pc>。</pc>監為<num value="4">四</num>群<pc>。</pc>歲產駒<num value="3">三</num>分及斃<num value="2">二</num>分以上<pc>，</pc>有賞罰<pc>。</pc>
+</quote>
 <pc>”</pc>帝謂輔臣曰<pc>：</pc>
-<pc>“</pc>議者言南地不宜牧馬<pc>。</pc>昨自牧養<pc>，</pc>今<measure quantity="6" unit="years">
+<pc>“</pc>
+<quote>議者言南地不宜牧馬<pc>。</pc>昨自牧養<pc>，</pc>今<measure quantity="6" unit="years">
 <num value="6">二三</num>年</measure>
 <pc>，</pc>已得馬數<num value="100">百</num>
 <pc>。</pc>
+</quote>
 <pc>”</pc>先是<pc>，</pc>川路所置馬<pc>，</pc>歲牧於鎮江<pc>。</pc>是年春<pc>，</pc>上以未見蕃息<pc>，</pc>遂分送江上諸軍<pc>。</pc>後又置監郢<pc>、</pc>鄂間<pc>，</pc>牝牡<num value="1000">千</num>
 <pc>，</pc>
 <num value="10">十</num>餘年僅生<num value="20">二十</num>駒<pc>，</pc>且不可用<pc>，</pc>乃已<pc>。</pc>故凡戰馬<pc>，</pc>悉仰秦<pc>、</pc>川<pc>、</pc>廣<num value="3">三</num>邊焉<pc>。</pc>
@@ -1049,7 +1312,11 @@
 <p>秦馬舊<num value="20000">二萬</num>
 <pc>，</pc>乾道間<pc>，</pc>秦<pc>、</pc>川買馬額歲<num value="1900">萬一千九百</num>有奇<pc>，</pc>川司<num value="6000">六千</num>
 <pc>，</pc>秦司<num value="5900">五千九百</num>
-<pc>。</pc>益<pc>、</pc>梓<pc>、</pc>利<num value="3">三</num>路漕司<pc>，</pc>歲出易馬絹<num value="104000">十萬四千</num>疋<pc>。</pc>成都<pc>、</pc>利州路<measure quantity="11" unit="prefectures">
+<pc>。</pc>益<pc>、</pc>梓<pc>、</pc>利<num value="3">三</num>路漕司<placeName>
+<pc>，</pc>
+</placeName>歲出易<placeName>馬</placeName>絹<num value="104000">十萬四千</num>疋<pc>。</pc>
+<placeName>成</placeName>都<pc>、</pc>
+<placeName>利州</placeName>路<measure quantity="11" unit="prefectures">
 <num value="11">十一</num>州</measure>
 <pc>，</pc>產茶<num value="21020000">二千一百二萬</num>斤<pc>。</pc>茶馬司所收<pc>，</pc>大較若此<pc>。</pc>慶元初<pc>，</pc>合川<pc>、</pc>秦兩司為<num value="1010">萬一千十</num>有<num value="6">六</num>
 <pc>。</pc>嘉泰末<pc>，</pc>合兩司為<num value="2094">萬二千九十四</num>
@@ -1084,10 +1351,11 @@
 </p>
 </div>
 <div>
-<p>廣馬者<pc>，</pc>建炎末<pc>，</pc>廣西提舉峒丁李棫請市馬赴行在<pc>。</pc>紹興初<pc>，</pc>隸經略司<pc>。</pc>
+<p>廣馬者<pc>，</pc>
+<date notBefore="1127" notAfter="1130">建炎</date>末<pc>，</pc>廣西提舉峒丁李棫請市馬赴行在<pc>。</pc>紹興初<pc>，</pc>隸經略司<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>即邕州置司提舉<pc>，</pc>市於羅殿<pc>、</pc>自杞<pc>、</pc>大理諸蠻<pc>。</pc>未幾<pc>，</pc>廢買馬司<pc>，</pc>帥臣領之<pc>。</pc>
+<pc>，</pc>即<placeName>邕州</placeName>置司提舉<pc>，</pc>市於羅殿<pc>、</pc>自杞<pc>、</pc>大理諸蠻<pc>。</pc>未幾<pc>，</pc>廢買馬司<pc>，</pc>帥臣領之<pc>。</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>胡舜陟為帥<pc>，</pc>歲中市馬<num value="2400">二千四百</num>
@@ -1101,10 +1369,12 @@
 <p>自杞諸蕃本自無馬<pc>，</pc>蓋轉市之南詔<pc>。</pc>南詔<pc>，</pc>大理國也<pc>。</pc>乾道<measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
 <pc>，</pc>大理人李觀音得等<measure quantity="22" unit="people">
-<num value="22">二十二</num>人</measure>至橫山砦求市馬<pc>，</pc>知邕州姚恪盛陳金帛誇示之<pc>。</pc>其人大喜<pc>，</pc>出<num value="1">一</num>文書<pc>，</pc>稱<pc>“</pc>利貞<measure quantity="2" unit="years">
+<num value="22">二十二</num>人</measure>至橫山砦求市馬<pc>，</pc>知<placeName>邕州</placeName>姚恪盛陳金帛誇示之<pc>。</pc>其人大喜<pc>，</pc>出<num value="1">一</num>文書<pc>，</pc>稱<pc>“</pc>
+<quote>利貞<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
+</quote>
 <pc>”</pc>
 <pc>，</pc>約來年以馬來<pc>。</pc>所求<pc>《</pc>
 <title>文選</title>

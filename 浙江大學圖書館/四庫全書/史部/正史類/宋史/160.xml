@@ -24,9 +24,7 @@
 <body>
 <div type="chapter" n="160">
 <div>
-<p>
-<name key="null" type="null">◎選舉</name>
-<num value="6">六</num>
+<p>◎選舉<num value="6">六</num>
 <pc>（</pc>保任考課<pc>）</pc>
 </p>
 </div>
@@ -36,33 +34,49 @@
 </p>
 </div>
 <div>
-<p>國初<pc>，</pc>保任未立限製<pc>。</pc>建隆<measure quantity="3" unit="years">
+<p>國初<pc>，</pc>保任未立限製<pc>。</pc>
+<date notBefore="960" notAfter="963">建隆</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>始詔<pc>：</pc>
-<pc>“</pc>常參官及翰林學士<pc>，</pc>舉堪充幕職<pc>、</pc>令<pc>、</pc>錄者各<measure quantity="1" unit="people">
+<pc>“</pc>
+<quote>常參官及翰林學士<pc>，</pc>舉堪充幕職<pc>、</pc>令<pc>、</pc>錄者各<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
 <pc>，</pc>條析其實<pc>，</pc>毋以親為避<pc>。</pc>
+</quote>
 <pc>”</pc>既而舉者頗因緣為奸<pc>，</pc>用知製誥高錫奏<pc>：</pc>
-<pc>“</pc>請許人訐告<pc>，</pc>得實<pc>，</pc>則有官者優擢<pc>，</pc>非仕宦者授以官<pc>，</pc>或賞緡錢<pc>；</pc>不實<pc>，</pc>則反坐之<pc>。</pc>
-<pc>”</pc>自是<pc>，</pc>或特命陶穀等舉才堪通判者<pc>，</pc>或詔翰林學士及常參官舉京官<pc>、</pc>幕職<pc>、</pc>州縣正員堪升朝者<pc>。</pc>藩鎮奏掌書記多越資敘<pc>，</pc>則詔曆兩任有文學方得奏<pc>。</pc>又令諸道節度<pc>、</pc>觀察使<pc>，</pc>於部內官選才識優茂<pc>、</pc>德行敦篤者各<measure quantity="2" unit="people">
+<pc>“</pc>
+<quote>請許人訐告<pc>，</pc>得實<pc>，</pc>則有官者優擢<pc>，</pc>非仕宦者授以官<pc>，</pc>或賞緡錢<pc>；</pc>不實<pc>，</pc>則反坐之<pc>。</pc>
+</quote>
+<pc>”</pc>自是<pc>，</pc>或特命陶穀等舉才堪通判者<pc>，</pc>或詔翰林學士及常參官舉京官<pc>、</pc>幕職<pc>、</pc>州縣正員堪升朝者<pc>。</pc>藩鎮奏掌書記多越資敘<pc>，</pc>則詔曆兩任有文學方得奏<pc>。</pc>又令諸道節度<pc>、</pc>
+<term>觀察使</term>
+<pc>，</pc>於部內官選才識優茂<pc>、</pc>德行敦篤者各<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>
-<pc>，</pc>防禦<pc>、</pc>團練使各舉<measure quantity="1" unit="people">
+<pc>，</pc>防禦<pc>、</pc>
+<term>團練使</term>各舉<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
 <pc>，</pc>遣詣闕庭<pc>，</pc>觀其器業而進用焉<pc>。</pc>凡被舉擢官<pc>，</pc>於誥命署舉主姓名<pc>，</pc>他日不如舉狀<pc>，</pc>則連坐之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>太宗尤嚴牧守之任<pc>，</pc>詔諸道使者察部內履行著聞<pc>、</pc>政術尤異<pc>、</pc>文學茂異者<pc>，</pc>州長吏擇判<pc>、</pc>司<pc>、</pc>簿<pc>、</pc>尉之清廉明幹者<pc>，</pc>具名以聞<pc>，</pc>驛召引對<pc>，</pc>授之知縣<pc>。</pc>又令閱屬部司理參軍<pc>，</pc>廉慎而明於推鞫者<pc>，</pc>舉之<pc>。</pc>雍熙<measure quantity="2" unit="years">
+<p>太宗尤嚴牧守之任<pc>，</pc>詔諸道使者察部內履行著聞<pc>、</pc>政術尤異<pc>、</pc>文學茂異者<pc>，</pc>州長吏擇判<pc>、</pc>司<pc>、</pc>簿<pc>、</pc>尉之清廉明幹者<pc>，</pc>具名以聞<pc>，</pc>驛召引對<pc>，</pc>授之知縣<pc>。</pc>又令閱屬部司理參軍<pc>，</pc>廉慎而明於推鞫者<pc>，</pc>舉之<pc>。</pc>
+<date notBefore="984" notAfter="987">雍熙</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>舉可升朝者<pc>，</pc>始令翰林學士<pc>、</pc>兩省<pc>、</pc>
 <term>禦史</term>台<pc>、</pc>尚書省官舉之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>淳化<measure quantity="3" unit="years">
+<p>
+<date notBefore="990" notAfter="994">淳化</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>令<term>宰相</term>以下至<term>禦史</term>中丞<pc>，</pc>各舉朝官<measure quantity="1" unit="people">
-<num value="1">一</num>人</measure>為轉運使<pc>，</pc>乃詔曰<pc>：</pc>
-<pc>“</pc>國家詳求幹事之吏<pc>，</pc>外分主計之司<pc>，</pc>雖曰轉輸<pc>，</pc>得兼按察<pc>，</pc>總覽郡國<pc>，</pc>職任尤重<pc>，</pc>物情舒慘<pc>，</pc>靡不由之<pc>。</pc>尚慮徼功<pc>，</pc>固當責實<pc>。</pc>凡轉運使厘革庶務<pc>，</pc>平反獄訟<pc>，</pc>漕運金穀<pc>，</pc>成績居最<pc>，</pc>及有建置之事<pc>，</pc>果利於民<pc>，</pc>令歲終以聞<pc>。</pc>非殊異者不得條奏<pc>。</pc>
+<num value="1">一</num>人</measure>為<term>轉運使</term>
+<pc>，</pc>乃詔曰<pc>：</pc>
+<pc>“</pc>
+<quote>國家詳求幹事之吏<pc>，</pc>外分主計之司<pc>，</pc>雖曰轉輸<pc>，</pc>得兼按察<pc>，</pc>總覽郡國<pc>，</pc>職任尤重<pc>，</pc>物情舒慘<pc>，</pc>靡不由之<pc>。</pc>尚慮徼功<pc>，</pc>固當責實<pc>。</pc>凡<term>轉運使</term>厘革庶務<pc>，</pc>平反獄訟<pc>，</pc>漕運金穀<pc>，</pc>成績居最<pc>，</pc>及有建置之事<pc>，</pc>果利於民<pc>，</pc>令歲終以聞<pc>。</pc>非殊異者不得條奏<pc>。</pc>
+</quote>
 <pc>”</pc>又詔<pc>：</pc>
 <num value="3">三</num>司<pc>、</pc>
 <num value="3">三</num>館職事官已升擢者<pc>，</pc>不在論薦<pc>；</pc>其有懷材外任<pc>，</pc>未為朝廷所知者<pc>，</pc>方得奏舉<pc>。</pc>始令內外官<pc>，</pc>凡所舉薦有變節逾矩者<pc>，</pc>自首則原其聯坐之罪<pc>。</pc>
@@ -70,16 +84,22 @@
 </div>
 <div>
 <p>太宗聽政之暇<pc>，</pc>每取兩省<pc>、</pc>兩製清望官名籍<pc>，</pc>擇其有德譽者<pc>，</pc>悉令舉官<pc>。</pc>所舉之人<pc>，</pc>須析其爵裏及曆任殿最以聞<pc>，</pc>不得有隱<pc>。</pc>如舉狀者有賞典<pc>，</pc>無驗者罪之<pc>。</pc>又嚐謂<term>宰臣</term>曰<pc>：</pc>
-<pc>“</pc>君子小人<pc>，</pc>趣向不同<pc>。</pc>君子畏慎<pc>，</pc>不欺暗室<pc>，</pc>名節造次靡渝<pc>；</pc>小人雖善談忠信<pc>，</pc>而履行頗僻<pc>，</pc>在官黷貨<pc>，</pc>罔畏刑罰<pc>。</pc>如薛智周以侍<term>禦史</term>守婺<pc>，</pc>政以賄成<pc>，</pc>聚斂無已<pc>，</pc>其土產富於羅<pc>，</pc>州民謂之‘羅端公’<pc>，</pc>則為治可知矣<pc>。</pc>卿等職在掄材<pc>，</pc>今令朝臣舉官<pc>，</pc>已是逐末<pc>，</pc>更不擇舉主<pc>，</pc>何由得人也<pc>。</pc>
+<pc>“</pc>
+<quote>君子小人<pc>，</pc>趣向不同<pc>。</pc>君子畏慎<pc>，</pc>不欺暗室<pc>，</pc>名節造次靡渝<pc>；</pc>小人雖善談忠信<pc>，</pc>而履行頗僻<pc>，</pc>在官黷貨<pc>，</pc>罔畏刑罰<pc>。</pc>如薛智周以侍<term>禦史</term>守婺<pc>，</pc>政以賄成<pc>，</pc>聚斂無已<pc>，</pc>其土產富於羅<pc>，</pc>州民謂之‘羅端公</quote>’<pc>，</pc>則為治可知矣<pc>。</pc>卿等職在掄材<pc>，</pc>今令朝臣舉官<pc>，</pc>已是逐末<pc>，</pc>更不擇舉主<pc>，</pc>何由得人也<pc>。</pc>
 <pc>”</pc>供奉官劉文質嚐入奏<pc>，</pc>察舉兩浙部內官高輔之<pc>、</pc>李易直<pc>、</pc>艾仲孺<pc>、</pc>梅詢<pc>、</pc>高鼎<pc>、</pc>高貽慶<pc>、</pc>薑嶼<pc>、</pc>戚綸<measure quantity="8" unit="people">
 <num value="8">八</num>人</measure>有治跡<pc>，</pc>並降璽書褒諭<pc>。</pc>帝曰<pc>：</pc>
-<pc>“</pc>文質所舉<pc>，</pc>皆良吏也<pc>。</pc>
+<pc>“</pc>
+<quote>文質所舉<pc>，</pc>皆良吏也<pc>。</pc>
+</quote>
 <pc>”</pc>特遷文質為西京作坊副使<pc>。</pc>
 </p>
 </div>
 <div>
-<p>鹹平間<pc>，</pc>秘書丞陳彭年請用唐故事舉官自代<pc>。</pc>詔樞密直學士馮拯<pc>、</pc>陳堯叟參詳之<pc>。</pc>拯等上言<pc>：</pc>
-<pc>“</pc>往製<pc>，</pc>常參官及節度<pc>、</pc>觀察<pc>、</pc>防禦<pc>、</pc>
+<p>
+<date notBefore="998" notAfter="1003">鹹平</date>間<pc>，</pc>
+<term>秘書丞</term>陳彭年請用唐故事舉官自代<pc>。</pc>詔樞密直學士馮拯<pc>、</pc>陳堯叟參詳之<pc>。</pc>拯等上言<pc>：</pc>
+<pc>“</pc>
+<quote>往製<pc>，</pc>常參官及節度<pc>、</pc>觀察<pc>、</pc>防禦<pc>、</pc>
 <term>刺史</term>
 <pc>、</pc>少尹<pc>、</pc>畿赤令並<num value="7">七</num>品以上清望官<pc>，</pc>授訖<measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>內<pc>，</pc>於<num value="4">四</num>方館上表讓<measure quantity="1" unit="people">
@@ -87,13 +107,18 @@
 <term>禦史</term>台<pc>、</pc>尚書省<num value="6">六</num>品以上<pc>，</pc>諸司<num value="4">四</num>品以上<pc>，</pc>授訖<pc>，</pc>具表讓<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>自代<pc>，</pc>於閣門投下<pc>，</pc>方得入謝<pc>。</pc>在外者<pc>，</pc>授訖<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>內<pc>，</pc>具表附驛以聞<pc>。</pc>
+</quote>
 <pc>”</pc>遂著為令<pc>。</pc>
 </p>
 </div>
 <div>
-<p>真宗初<pc>，</pc>屢詔舉官<pc>，</pc>未立常製<pc>。</pc>大中祥符<measure quantity="2" unit="years">
+<p>真宗初<pc>，</pc>屢詔舉官<pc>，</pc>未立常製<pc>。</pc>
+<date notBefore="1008" notAfter="1016">大中祥符</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>詔<pc>：</pc>
-<pc>“</pc>幕職<pc>、</pc>州縣官初任<pc>，</pc>未閑吏事<pc>，</pc>須<num value="3">三</num>任<num value="6">六</num>考<pc>，</pc>方得論薦<pc>。</pc>
+<pc>“</pc>
+<quote>幕職<pc>、</pc>州縣官初任<pc>，</pc>未閑吏事<pc>，</pc>須<num value="3">三</num>任<num value="6">六</num>考<pc>，</pc>方得論薦<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
@@ -105,7 +130,8 @@
 <num value="3">三</num>班使臣<pc>、</pc>幕職<pc>、</pc>州縣官<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
 <pc>，</pc>著其治行所宜任<pc>，</pc>令閣門<pc>、</pc>
-<term>禦史</term>台歲終會其數<pc>。</pc>如無舉狀<pc>，</pc>即具奏致罰<pc>。</pc>於冬季以差出<pc>，</pc>亦須舉官後乃入辭<pc>。</pc>諸司使副<pc>、</pc>承製<pc>、</pc>崇班曾任西北邊<pc>、</pc>川<pc>、</pc>廣鈐轄<pc>、</pc>親民者<pc>，</pc>亦仿此製<pc>。</pc>諸路轉運使副<pc>、</pc>提點刑獄官<pc>，</pc>知州<pc>、</pc>通判奏舉部內官屬<pc>，</pc>則不限人數<pc>，</pc>具在任勞績<pc>，</pc>如無可舉及顯有逾濫者<pc>，</pc>亦須指述<pc>，</pc>不得顧避<pc>。</pc>以次年<measure quantity="2" unit="months">
+<term>禦史</term>台歲終會其數<pc>。</pc>如無舉狀<pc>，</pc>即具奏致罰<pc>。</pc>於冬季以差出<pc>，</pc>亦須舉官後乃入辭<pc>。</pc>諸司使副<pc>、</pc>承製<pc>、</pc>崇班曾任西北邊<pc>、</pc>川<pc>、</pc>廣<term>鈐轄</term>
+<pc>、</pc>親民者<pc>，</pc>亦仿此製<pc>。</pc>諸路<term>轉運使</term>副<pc>、</pc>提點刑獄官<pc>，</pc>知州<pc>、</pc>通判奏舉部內官屬<pc>，</pc>則不限人數<pc>，</pc>具在任勞績<pc>，</pc>如無可舉及顯有逾濫者<pc>，</pc>亦須指述<pc>，</pc>不得顧避<pc>。</pc>以次年<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <measure quantity="25" unit="days">
 <num value="25">二十五</num>日</measure>以前到京<pc>，</pc>違期則都進奏院以名聞<pc>，</pc>論如不申考帳法<pc>。</pc>
@@ -119,7 +145,8 @@
 <num value="5">五</num>月</measure>
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>進內<pc>。</pc>明年<pc>，</pc>籍內仍計向來功過及舉主數<pc>，</pc>使臣即樞密院置籍<pc>。</pc>兩省<pc>、</pc>尚書省<pc>、</pc>
-<term>禦史</term>台官凡出使回<pc>，</pc>須采訪所至及經曆鄰近郡官治跡善惡以聞<pc>。</pc>轉運使副<pc>、</pc>提點刑獄官<pc>、</pc>知州<pc>、</pc>通判赴闕<pc>，</pc>各具前任部內官治跡能否<pc>，</pc>如鄰近及所經州縣訪聞善惡<pc>，</pc>亦許同奏<pc>，</pc>先於閣門投進<pc>，</pc>方得入見<pc>。</pc>
+<term>禦史</term>台官凡出使回<pc>，</pc>須采訪所至及經曆鄰近郡官治跡善惡以聞<pc>。</pc>
+<term>轉運使</term>副<pc>、</pc>提點刑獄官<pc>、</pc>知州<pc>、</pc>通判赴闕<pc>，</pc>各具前任部內官治跡能否<pc>，</pc>如鄰近及所經州縣訪聞善惡<pc>，</pc>亦許同奏<pc>，</pc>先於閣門投進<pc>，</pc>方得入見<pc>。</pc>
 </p>
 </div>
 <div>
@@ -131,8 +158,13 @@
 <div>
 <p>天聖<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>詔<pc>：</pc>
-<pc>“</pc>審刑院舉常參官在京刑法司者為詳議官<pc>；</pc>大理寺詳斷<pc>、</pc>刑部詳覆法直官<pc>，</pc>皆舉幕職<pc>、</pc>州縣曉法令者為之<pc>。</pc>自請試律者須<num value="5">五</num>考<pc>，</pc>有舉者<pc>，</pc>乃聽試<pc>。</pc>試律<num value="3">三</num>道<pc>，</pc>疏<num value="2">二</num>道<pc>，</pc>又斷中小獄案<num value="2">二</num>道<pc>，</pc>通者為中格<pc>。</pc>
-<pc>”</pc>時舉官擢人<pc>，</pc>不常其製<pc>。</pc>國子監闕講官<pc>，</pc>則詔諸路轉運使舉經義通明者<pc>；</pc>或欲不次用人<pc>，</pc>嚐詔近臣舉常參官曆通判無贓罪而才任繁劇者<pc>；</pc>欲官諸邊要<pc>，</pc>亦嚐詔<term>節度使</term>至閣門使<pc>、</pc>知州軍<pc>、</pc>鈐轄<pc>、</pc>諸司使<pc>，</pc>舉殿直以上材勇堪邊任者<pc>，</pc>或令<num value="3">三</num>司使下至天章閣待製舉奏之<pc>。</pc>邊有警<pc>，</pc>則詔諸路轉運使<pc>、</pc>提點刑獄舉所部官才堪將帥者<pc>；</pc>
+<pc>“</pc>
+<quote>審刑院舉常參官在京刑法司者為詳議官<pc>；</pc>大理寺詳斷<pc>、</pc>刑部詳覆法直官<pc>，</pc>皆舉幕職<pc>、</pc>州縣曉法令者為之<pc>。</pc>自請試律者須<num value="5">五</num>考<pc>，</pc>有舉者<pc>，</pc>乃聽試<pc>。</pc>試律<num value="3">三</num>道<pc>，</pc>疏<num value="2">二</num>道<pc>，</pc>又斷中小獄案<num value="2">二</num>道<pc>，</pc>通者為中格<pc>。</pc>
+</quote>
+<pc>”</pc>時舉官擢人<pc>，</pc>不常其製<pc>。</pc>國子監闕講官<pc>，</pc>則詔諸路<term>轉運使</term>舉經義通明者<pc>；</pc>或欲不次用人<pc>，</pc>嚐詔近臣舉常參官曆通判無贓罪而才任繁劇者<pc>；</pc>欲官諸邊要<pc>，</pc>亦嚐詔<term>節度使</term>至閣門使<pc>、</pc>知州軍<pc>、</pc>
+<term>鈐轄</term>
+<pc>、</pc>諸司使<pc>，</pc>舉殿直以上材勇堪邊任者<pc>，</pc>或令<num value="3">三</num>司使下至天章閣待製舉奏之<pc>。</pc>邊有警<pc>，</pc>則詔諸路<term>轉運使</term>
+<pc>、</pc>提點刑獄舉所部官才堪將帥者<pc>；</pc>
 <num value="3">三</num>路知州<pc>、</pc>通判<pc>、</pc>縣令<pc>，</pc>則詔近臣舉廉幹吏選任之<pc>，</pc>毋拘資格<pc>。</pc>至於文行之士<pc>，</pc>錢穀之才<pc>，</pc>刑名之學<pc>，</pc>各因時所求而薦焉<pc>。</pc>
 </p>
 </div>
@@ -143,14 +175,18 @@
 <num value="5">五</num>人</measure>
 <pc>，</pc>須有本部使者<pc>。</pc>
 <term>禦史</term>王端以為<pc>：</pc>
-<pc>“</pc>法<pc>，</pc>用舉者兩人<pc>，</pc>得為縣令<pc>。</pc>為令無過譴<pc>，</pc>遷職事官<pc>、</pc>知縣<pc>；</pc>又無過譴<pc>，</pc>遂得改京官<pc>。</pc>乃是用舉者兩人<pc>，</pc>保其<num value="3">三</num>任也<pc>。</pc>朝廷初無參伍考察之法<pc>，</pc>偶幸無過<pc>，</pc>輒信而遷之<pc>。</pc>是以碌碌之人<pc>，</pc>皆得自進<pc>，</pc>因仍弗革<pc>，</pc>其弊將深<pc>。</pc>
+<pc>“</pc>
+<quote>法<pc>，</pc>用舉者兩人<pc>，</pc>得為縣令<pc>。</pc>為令無過譴<pc>，</pc>遷職事官<pc>、</pc>知縣<pc>；</pc>又無過譴<pc>，</pc>遂得改京官<pc>。</pc>乃是用舉者兩人<pc>，</pc>保其<num value="3">三</num>任也<pc>。</pc>朝廷初無參伍考察之法<pc>，</pc>偶幸無過<pc>，</pc>輒信而遷之<pc>。</pc>是以碌碌之人<pc>，</pc>皆得自進<pc>，</pc>因仍弗革<pc>，</pc>其弊將深<pc>。</pc>
+</quote>
 <pc>”</pc>乃定令<pc>：</pc>被薦為令<pc>，</pc>任內複有舉者始得遷<pc>，</pc>否則如常選<pc>，</pc>毋輒升補<pc>。</pc>
 </p>
 </div>
 <div>
-<p>時增設禁限<pc>，</pc>常參官已授外任<pc>，</pc>毋得奏舉<pc>。</pc>京官見任知州<pc>、</pc>通判<pc>，</pc>升朝官兵馬都監<pc>、</pc>諸司副使以上<pc>，</pc>及在京員外郎嚐任知州<pc>、</pc>通判<pc>，</pc>諸司副使嚐任兵馬都監者<pc>，</pc>乃聽舉<pc>，</pc>流內銓複裁<pc>。</pc>內外臣僚歲舉數<pc>，</pc>文臣待製至侍<term>禦史</term>
+<p>時增設禁限<pc>，</pc>常參官已授外任<pc>，</pc>毋得奏舉<pc>。</pc>京官見任知州<pc>、</pc>通判<pc>，</pc>升朝官<term>兵馬都監</term>
+<pc>、</pc>諸司副使以上<pc>，</pc>及在京<term>員外郎</term>嚐任知州<pc>、</pc>通判<pc>，</pc>諸司副使嚐任<term>兵馬都監</term>者<pc>，</pc>乃聽舉<pc>，</pc>流內銓複裁<pc>。</pc>內外臣僚歲舉數<pc>，</pc>文臣待製至侍<term>禦史</term>
 <pc>，</pc>武臣自觀察至諸司副使<pc>，</pc>舉吏各有等數<pc>，</pc>毋得輒過<pc>；</pc>而被舉者須有本部監司<pc>、</pc>長吏<pc>、</pc>按察官<pc>，</pc>乃得磨勘<pc>。</pc>又限到官<num value="1">一</num>考<pc>，</pc>方得薦<pc>。</pc>知雜<term>禦史</term>
-<pc>、</pc>觀察使以上<pc>，</pc>歲舉京官不得過<measure quantity="2" unit="people">
+<pc>、</pc>
+<term>觀察使</term>以上<pc>，</pc>歲舉京官不得過<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>
 <pc>，</pc>其常參官毋得複舉<pc>，</pc>自是舉官之數省矣<pc>。</pc>定監司以所部州多少劇易之差<pc>，</pc>為舉令數<pc>，</pc>非本部勿舉<pc>。</pc>其後又增舉主<num value="3">三</num>員<pc>。</pc>蓋官冗之弊浸極<pc>，</pc>故保薦之法<pc>，</pc>大抵初略而後詳也<pc>。</pc>
 </p>
@@ -158,14 +194,18 @@
 <div>
 <p>英宗時<pc>，</pc>
 <term>禦史</term>中丞賈黯又言<pc>：</pc>
-<pc>“</pc>今京朝官至卿<pc>、</pc>監<pc>，</pc>凡<num value="2800">二千八百</num>餘員<pc>，</pc>而吏部奏舉磨勘選人<pc>，</pc>未引見者至<num value="250">二百五十</num>餘人<pc>。</pc>且以先朝事較之<pc>：</pc>方天聖中<pc>，</pc>法尚簡<pc>，</pc>選人以<num value="4">四</num>考改官<pc>，</pc>而諸路使者薦部吏<pc>，</pc>未有限數<pc>；</pc>而在京台閣及常參官嚐任知州<pc>、</pc>通判者<pc>，</pc>雖非部吏皆得薦<pc>。</pc>時磨勘改官者<pc>，</pc>歲才數<measure quantity="10" unit="people">
+<pc>“</pc>
+<quote>今京朝官至卿<pc>、</pc>監<pc>，</pc>凡<num value="2800">二千八百</num>餘員<pc>，</pc>而吏部奏舉磨勘選人<pc>，</pc>未引見者至<num value="250">二百五十</num>餘人<pc>。</pc>且以先朝事較之<pc>：</pc>方天聖中<pc>，</pc>法尚簡<pc>，</pc>選人以<num value="4">四</num>考改官<pc>，</pc>而諸路使者薦部吏<pc>，</pc>未有限數<pc>；</pc>而在京台閣及常參官嚐任知州<pc>、</pc>通判者<pc>，</pc>雖非部吏皆得薦<pc>。</pc>時磨勘改官者<pc>，</pc>歲才數<measure quantity="10" unit="people">
 <num value="10">十</num>人</measure>
-<pc>，</pc>後資考頗增<pc>，</pc>而知州薦吏<pc>，</pc>視屬邑多少裁定其數<pc>，</pc>常參官不許薦士<pc>。</pc>其條約漸繁<pc>，</pc>而改官者固已眾矣<pc>，</pc>然引對猶未有待次者也<pc>。</pc>皇祐中<pc>，</pc>始限監司奏舉之數<pc>，</pc>其法益密<pc>，</pc>而磨勘待次者已不減<measure quantity="420" unit="people">
+<pc>，</pc>後資考頗增<pc>，</pc>而知州薦吏<pc>，</pc>視屬邑多少裁定其數<pc>，</pc>常參官不許薦士<pc>。</pc>其條約漸繁<pc>，</pc>而改官者固已眾矣<pc>，</pc>然引對猶未有待次者也<pc>。</pc>
+<date notBefore="1049" notAfter="1054">皇祐</date>中<pc>，</pc>始限監司奏舉之數<pc>，</pc>其法益密<pc>，</pc>而磨勘待次者已不減<measure quantity="420" unit="people">
 <num value="420">六七十</num>人</measure>
-<pc>。</pc>皇祐及今才<measure quantity="10" unit="years">
+<pc>。</pc>
+<date notBefore="1049" notAfter="1054">皇祐</date>及今才<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>耳<pc>，</pc>而猥多至於<num value="3">三</num>倍<pc>。</pc>向也<pc>，</pc>法疏而其數省<pc>；</pc>今也<pc>，</pc>法密而其數增<pc>，</pc>此何故哉<pc>？</pc>正在薦吏者歲限定員<pc>，</pc>務充數而已<pc>。</pc>如郡守歲許薦<measure quantity="5" unit="people">
 <num value="5">五</num>人</measure>
 <pc>，</pc>而歲終不滿其數<pc>，</pc>則人人以為遺己<pc>。</pc>當舉者避謗畏譏<pc>，</pc>欲止不敢<pc>，</pc>此薦者所以多<pc>，</pc>而真才實廉未免慁於無能也<pc>。</pc>宜明詔天下<pc>，</pc>使有人則薦<pc>，</pc>不必滿所限之數<pc>。</pc>
+</quote>
 <pc>”</pc>天子納其言<pc>，</pc>下詔申敕<pc>。</pc>中外臣僚歲得舉京官者<pc>，</pc>視元數以<num value="3">三</num>分率之<pc>，</pc>減<num value="1">一</num>分<pc>；</pc>舉職官<pc>，</pc>有舉者<measure quantity="3" unit="people">
 <num value="3">三</num>人</measure>
 <pc>，</pc>任滿選如法<pc>。</pc>所以分減舉者數<pc>，</pc>省京官也<pc>。</pc>
@@ -173,31 +213,39 @@
 </div>
 <div>
 <p>判吏部流內銓蔡抗又言<pc>：</pc>
-<pc>“</pc>奏舉京官人<pc>，</pc>度<measure quantity="2" unit="years">
+<pc>“</pc>
+<quote>奏舉京官人<pc>，</pc>度<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>引對乃可畢<pc>，</pc>計每歲所舉<pc>，</pc>無慮<num value="900">千九百</num>員<pc>，</pc>被舉者既多<pc>，</pc>則磨勘者愈眾<pc>。</pc>且今天下員多闕少<pc>，</pc>率<measure quantity="3" unit="people">
 <num value="3">三</num>人</measure>而待<num value="1">一</num>闕<pc>，</pc>若不稍改<pc>，</pc>除吏愈難<pc>。</pc>臣以為可罷知雜<term>禦史</term>
-<pc>、</pc>觀察使以上歲得舉官法<pc>。</pc>
+<pc>、</pc>
+<term>觀察使</term>以上歲得舉官法<pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>自是舉官之數彌省矣<pc>。</pc>故事<pc>，</pc>初入<num value="2">二</num>府<pc>，</pc>舉所知者<measure quantity="3" unit="people">
 <num value="3">三</num>人</measure>
 <pc>，</pc>將以觀大臣之能<pc>。</pc>後來請謁之說勝<pc>，</pc>而薦者或不以公<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>詔<pc>：</pc>
-<pc>“</pc>中書<pc>、</pc>樞密院舉人<pc>，</pc>皆明言才業所長<pc>，</pc>堪任何事<pc>，</pc>以副朕為官擇人之意<pc>。</pc>
+<pc>“</pc>
+<quote>中書<pc>、</pc>樞密院舉人<pc>，</pc>皆明言才業所長<pc>，</pc>堪任何事<pc>，</pc>以副朕為官擇人之意<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>神宗即位<pc>，</pc>乃罷兩府初入舉官<pc>。</pc>凡薦任之法<pc>，</pc>選人用以進資改秩<pc>，</pc>京朝官用以升任<pc>，</pc>舊悉有製<pc>。</pc>熙寧後<pc>，</pc>又從而損益之<pc>，</pc>故舉皆限員<pc>，</pc>而歲又分舉<pc>，</pc>製益詳矣<pc>。</pc>定<num value="16">十六</num>路提點刑獄歲舉京官<pc>、</pc>縣令額<pc>。</pc>又詔察訪使者得舉官<pc>。</pc>選人任中都官者<pc>，</pc>舊無舉薦<pc>，</pc>始許其屬有選人<num value="6">六</num>員者<pc>，</pc>歲得舉<num value="3">三</num>員<pc>。</pc>既而帝以舊舉官往往緣求請得之<pc>，</pc>乃革去奏舉<pc>，</pc>而概以定格<pc>。</pc>詔內外舉官法皆罷<pc>，</pc>令吏部審官院參議選格<pc>。</pc>
+<p>神宗即位<pc>，</pc>乃罷兩府初入舉官<pc>。</pc>凡薦任之法<pc>，</pc>選人用以進資改秩<pc>，</pc>京朝官用以升任<pc>，</pc>舊悉有製<pc>。</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>後<pc>，</pc>又從而損益之<pc>，</pc>故舉皆限員<pc>，</pc>而歲又分舉<pc>，</pc>製益詳矣<pc>。</pc>定<num value="16">十六</num>路提點刑獄歲舉京官<pc>、</pc>縣令額<pc>。</pc>又詔察訪使者得舉官<pc>。</pc>選人任中都官者<pc>，</pc>舊無舉薦<pc>，</pc>始許其屬有選人<num value="6">六</num>員者<pc>，</pc>歲得舉<num value="3">三</num>員<pc>。</pc>既而帝以舊舉官往往緣求請得之<pc>，</pc>乃革去奏舉<pc>，</pc>而概以定格<pc>。</pc>詔內外舉官法皆罷<pc>，</pc>令吏部審官院參議選格<pc>。</pc>
 </p>
 </div>
 <div>
-<p>元祐初<pc>，</pc>左司諫王岩叟言<pc>：</pc>
-<pc>“</pc>自罷辟舉而用選格<pc>，</pc>可以見功過而不可以見人材<pc>，</pc>中外病之<pc>。</pc>於是不得已而別為之名<pc>，</pc>以用其平日之所信<pc>，</pc>故有‘踏逐申差’之目<pc>。</pc>‘踏逐’實薦舉而不與同罪<pc>，</pc>且選才薦能而謂之‘踏逐’<pc>，</pc>非雅名也<pc>。</pc>況委人以權而不容舉其所知<pc>，</pc>豈為通術<pc>？</pc>
+<p>
+<date notBefore="1086" notAfter="1094">元祐</date>初<pc>，</pc>左司諫王岩叟言<pc>：</pc>
+<pc>“</pc>
+<quote>自罷辟舉而用選格<pc>，</pc>可以見功過而不可以見人材<pc>，</pc>中外病之<pc>。</pc>於是不得已而別為之名<pc>，</pc>以用其平日之所信<pc>，</pc>故有‘踏逐申差</quote>’之目<pc>。</pc>‘<quote>踏逐</quote>’實薦舉而不與同罪<pc>，</pc>且選才薦能而謂之‘<quote>踏逐</quote>’<pc>，</pc>非雅名也<pc>。</pc>況委人以權而不容舉其所知<pc>，</pc>豈為通術<pc>？</pc>
 <pc>”</pc>遂複內外舉官法<pc>。</pc>
 </p>
 </div>
 <div>
-<p>及司馬光為相<pc>，</pc>奏曰<pc>：</pc>
+<p>及<persName>司馬光</persName>為相<pc>，</pc>奏曰<pc>：</pc>
 </p>
 </div>
 <div>
@@ -243,9 +291,10 @@
 </div>
 <div>
 <p>光又言<pc>：</pc>
-<pc>“</pc>朝廷執政惟<measure quantity="72" unit="people">
+<pc>“</pc>
+<quote>朝廷執政惟<measure quantity="72" unit="people">
 <num value="72">八九</num>人</measure>
-<pc>，</pc>若非交舊<pc>，</pc>無以知其行能<pc>。</pc>不惟涉徇私之嫌<pc>，</pc>兼所取至狹<pc>，</pc>豈足以盡天下之賢才<pc>？</pc>若采訪毀譽<pc>，</pc>則情偽<num value="10000">萬</num>端<pc>。</pc>與其聽遊談之言<pc>，</pc>曷若使之結罪保舉<pc>？</pc>故臣奏設<num value="10">十</num>科以舉士<pc>，</pc>其‘公正聰明可備監司’<pc>，</pc>誠知請屬挾私所不能無<pc>，</pc>但有不如所舉<pc>，</pc>譴責無所寬宥<pc>，</pc>則不敢妄舉矣<pc>。</pc>
+<pc>，</pc>若非交舊<pc>，</pc>無以知其行能<pc>。</pc>不惟涉徇私之嫌<pc>，</pc>兼所取至狹<pc>，</pc>豈足以盡天下之賢才<pc>？</pc>若采訪毀譽<pc>，</pc>則情偽<num value="10000">萬</num>端<pc>。</pc>與其聽遊談之言<pc>，</pc>曷若使之結罪保舉<pc>？</pc>故臣奏設<num value="10">十</num>科以舉士<pc>，</pc>其‘公正聰明可備監司</quote>’<pc>，</pc>誠知請屬挾私所不能無<pc>，</pc>但有不如所舉<pc>，</pc>譴責無所寬宥<pc>，</pc>則不敢妄舉矣<pc>。</pc>
 <pc>”</pc>詔皆從之<pc>。</pc>
 </p>
 </div>
@@ -254,7 +303,8 @@
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>殿中侍<term>禦史</term>呂陶言<pc>：</pc>
-<pc>“</pc>郡守提封<num value="1000">千</num>裏<pc>，</pc>生聚<num value="10000">萬</num>眾<pc>，</pc>所係休戚<pc>，</pc>而不察能否<pc>，</pc>
+<pc>“</pc>
+<quote>郡守提封<num value="1000">千</num>裏<pc>，</pc>生聚<num value="10000">萬</num>眾<pc>，</pc>所係休戚<pc>，</pc>而不察能否<pc>，</pc>
 <num value="1">一</num>以資格用之<pc>，</pc>凡再為半刺<pc>、</pc>有薦者<measure quantity="3" unit="people">
 <num value="3">三</num>人</measure>
 <pc>，</pc>則得之矣<pc>。</pc>不公不明<pc>，</pc>
@@ -262,17 +312,22 @@
 <pc>，</pc>是天下之民<pc>，</pc>半失其養<pc>。</pc>請令內外從臣<pc>，</pc>歲舉可為守臣者各<measure quantity="3" unit="people">
 <num value="3">三</num>人</measure>
 <pc>，</pc>略資序而采公言<pc>，</pc>庶是可以擇才庇民也<pc>。</pc>
+</quote>
 <pc>”</pc>詔<pc>：</pc>
-<pc>“</pc>內外待製<pc>、</pc>太中大夫以上<pc>，</pc>歲舉再曆通判資序<pc>、</pc>堪任知州者<measure quantity="1" unit="people">
+<pc>“</pc>
+<quote>內外待製<pc>、</pc>太中大夫以上<pc>，</pc>歲舉再曆通判資序<pc>、</pc>堪任知州者<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
 <pc>，</pc>籍於吏部<pc>。</pc>遇<num value="3">三</num>路及<measure quantity="1" unit="prefecture">
 <num value="1">一</num>州</measure>而<num value="4">四</num>縣者<pc>，</pc>其守臣有闕<pc>，</pc>先差本資序人<pc>，</pc>次案籍以及所薦者<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>頃之<pc>，</pc>侍<term>禦史</term>韓川言<pc>：</pc>
-<pc>“</pc>近太中大夫以上歲舉守臣<pc>，</pc>而薦所不及<pc>，</pc>雖課入優等<pc>，</pc>皆未預選<pc>，</pc>此倚薦以為信也<pc>。</pc>然太中大夫以上<pc>，</pc>率在京師<pc>，</pc>唯馳騖請求<pc>、</pc>因緣宛轉者<pc>，</pc>常多得之<pc>。</pc>跡遠地寒<pc>，</pc>雖曆郡久<pc>、</pc>治狀著<pc>、</pc>課入上考<pc>，</pc>偶以無薦<pc>，</pc>則反在通判下<pc>，</pc>不許入<num value="3">三</num>路及<num value="4">四</num>縣州<pc>。</pc>且州以縣之多少而分簡劇<pc>，</pc>亦未為盡<pc>。</pc>蓋繁簡在事不在縣<pc>，</pc>固有縣多而事不繁<pc>，</pc>亦有縣少而事不簡者<pc>。</pc>願參以考績之實<pc>，</pc>著為通令<pc>，</pc>仍不以縣之多少而為簡劇<pc>。</pc>
+<pc>“</pc>
+<quote>近太中大夫以上歲舉守臣<pc>，</pc>而薦所不及<pc>，</pc>雖課入優等<pc>，</pc>皆未預選<pc>，</pc>此倚薦以為信也<pc>。</pc>然太中大夫以上<pc>，</pc>率在京師<pc>，</pc>唯馳騖請求<pc>、</pc>因緣宛轉者<pc>，</pc>常多得之<pc>。</pc>跡遠地寒<pc>，</pc>雖曆郡久<pc>、</pc>治狀著<pc>、</pc>課入上考<pc>，</pc>偶以無薦<pc>，</pc>則反在通判下<pc>，</pc>不許入<num value="3">三</num>路及<num value="4">四</num>縣州<pc>。</pc>且州以縣之多少而分簡劇<pc>，</pc>亦未為盡<pc>。</pc>蓋繁簡在事不在縣<pc>，</pc>固有縣多而事不繁<pc>，</pc>亦有縣少而事不簡者<pc>。</pc>願參以考績之實<pc>，</pc>著為通令<pc>，</pc>仍不以縣之多少而為簡劇<pc>。</pc>
+</quote>
 <pc>”</pc>詔吏部立法以聞<pc>。</pc>已而歲舉積久<pc>，</pc>吏部無闕以授<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
@@ -280,93 +335,148 @@
 </p>
 </div>
 <div>
-<p>紹聖元年<pc>，</pc>右司諫朱勃言<pc>：</pc>
-<pc>“</pc>選人初受任<pc>，</pc>雖能<pc>，</pc>法未得舉為京官<pc>。</pc>而有挾權善請求者<pc>，</pc>職官<pc>、</pc>縣令舉員既足<pc>，</pc>又並改官舉員求之<pc>。</pc>
+<p>
+<date notBefore="1094" notAfter="1098">紹聖</date>元年<pc>，</pc>右司諫朱勃言<pc>：</pc>
+<pc>“</pc>
+<quote>選人初受任<pc>，</pc>雖能<pc>，</pc>法未得舉為京官<pc>。</pc>而有挾權善請求者<pc>，</pc>職官<pc>、</pc>縣令舉員既足<pc>，</pc>又並改官舉員求之<pc>。</pc>
+</quote>
 <pc>”</pc>詔<pc>：</pc>
-<pc>“</pc>曆任通及<num value="3">三</num>考<pc>，</pc>而資序已入幕職<pc>、</pc>令錄<pc>，</pc>方許舉之改官<pc>。</pc>
+<pc>“</pc>
+<quote>曆任通及<num value="3">三</num>考<pc>，</pc>而資序已入幕職<pc>、</pc>令錄<pc>，</pc>方許舉之改官<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>神宗罷薦舉<pc>，</pc>惟舉<term>禦史</term>法不廢<pc>。</pc>熙寧<measure quantity="2" unit="years">
+<p>初<pc>，</pc>神宗罷薦舉<pc>，</pc>惟舉<term>禦史</term>法不廢<pc>。</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>
 <persName>王安石</persName>言<pc>：</pc>
-<pc>“</pc>舉<term>禦史</term>法太密<pc>，</pc>故難於得人<pc>。</pc>
+<pc>“</pc>
+<quote>舉<term>禦史</term>法太密<pc>，</pc>故難於得人<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>豈執政者惡言官得人耶<pc>？</pc>
+<pc>“</pc>
+<quote>豈執政者惡言官得人耶<pc>？</pc>
+</quote>
 <pc>”</pc>於是中書悉具舊法以奏<pc>。</pc>安石曰<pc>：</pc>
-<pc>“</pc>舊法<pc>，</pc>凡執政所薦<pc>，</pc>即不得為<term>禦史</term>
+<pc>“</pc>
+<quote>舊法<pc>，</pc>凡執政所薦<pc>，</pc>即不得為<term>禦史</term>
 <pc>。</pc>執政取其平日所畏者薦之<pc>，</pc>則其人不複得言事矣<pc>，</pc>蓋法之弊如此<pc>。</pc>
+</quote>
 <pc>”</pc>帝乃令悉除舊法<pc>，</pc>
 <num value="1">一</num>委中丞舉之<pc>，</pc>而稍略其資格<pc>。</pc>趙抃曰<pc>：</pc>
-<pc>“</pc>用京官恐非體<pc>，</pc>又不委知雜<pc>，</pc>專任中丞<pc>，</pc>亦非舊製<pc>。</pc>
+<pc>“</pc>
+<quote>用京官恐非體<pc>，</pc>又不委知雜<pc>，</pc>專任中丞<pc>，</pc>亦非舊製<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>唐以布衣馬周為之<pc>，</pc>用京官何為不可<pc>？</pc>知雜<pc>，</pc>屬也<pc>，</pc>委長為是<pc>。</pc>
-<pc>”</pc>侍<term>禦史</term>劉述奏曰<pc>：</pc>
-<pc>“</pc>舊製<pc>，</pc>舉<term>禦史</term>必官升京朝<pc>，</pc>資入通判<pc>。</pc>眾學士<pc>、</pc>本台丞<pc>、</pc>知雜更互論薦<pc>，</pc>每<num value="1">一</num>闕上<pc>，</pc>
+<pc>“</pc>
+<quote>唐以布衣馬周為之<pc>，</pc>用京官何為不可<pc>？</pc>知雜<pc>，</pc>屬也<pc>，</pc>委長為是<pc>。</pc>
+</quote>
+<pc>”</pc>侍<term>禦史</term>
+<persName>劉述</persName>奏曰<pc>：</pc>
+<pc>“</pc>
+<quote>舊製<pc>，</pc>舉<term>禦史</term>必官升京朝<pc>，</pc>資入通判<pc>。</pc>眾學士<pc>、</pc>本台丞<pc>、</pc>知雜更互論薦<pc>，</pc>每<num value="1">一</num>闕上<pc>，</pc>
 <measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>而擇用<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
 <pc>。</pc>今專委中丞<pc>，</pc>則愛憎由己<pc>，</pc>公道廢於私恩<pc>；</pc>或受權臣之托<pc>，</pc>引所親厚<pc>，</pc>擅竊人主威福<pc>，</pc>此大不便<pc>。</pc>
-<pc>”</pc>弗聽<pc>。</pc>既改法<pc>，</pc>著作佐郎程顥<pc>、</pc>王子韶<pc>、</pc>謝景福方為條例司屬官<pc>，</pc>中丞呂公著薦之<pc>，</pc>遂以太子中允權監察<term>禦史</term>裏行<pc>。</pc>
+</quote>
+<pc>”</pc>弗聽<pc>。</pc>既改法<pc>，</pc>著作佐郎<persName>程顥</persName>
+<pc>、</pc>
+<persName>王子韶</persName>
+<pc>、</pc>謝景福方為條例司屬官<pc>，</pc>中丞呂公著薦之<pc>，</pc>遂以太子中允權監察<term>禦史</term>裏行<pc>。</pc>
 </p>
 </div>
 <div>
-<p>宣仁太後聽政<pc>，</pc>詔範純仁為<term>諫議大夫</term>
+<p>宣仁太後聽政<pc>，</pc>詔<persName>範純仁</persName>為<term>諫議大夫</term>
 <pc>，</pc>唐叔問<pc>、</pc>
 <persName>蘇轍</persName>為司諫<pc>，</pc>朱光庭<pc>、</pc>範祖禹為正言<pc>。</pc>章惇曰<pc>：</pc>
-<pc>“</pc>故事<pc>，</pc>諫官皆薦諸侍從<pc>，</pc>然後大臣稟奏<pc>，</pc>今得無有近習援引乎<pc>？</pc>
+<pc>“</pc>
+<quote>故事<pc>，</pc>諫官皆薦諸侍從<pc>，</pc>然後大臣稟奏<pc>，</pc>今得無有近習援引乎<pc>？</pc>
+</quote>
 <pc>”</pc>太後曰<pc>：</pc>
-<pc>“</pc>大臣實皆言之<pc>，</pc>非左右也<pc>。</pc>
+<pc>“</pc>
+<quote>大臣實皆言之<pc>，</pc>非左右也<pc>。</pc>
+</quote>
 <pc>”</pc>惇曰<pc>：</pc>
-<pc>“</pc>台諫所以糾大臣之越法者<pc>。</pc>故事<pc>，</pc>執政初除<pc>，</pc>苟有親戚及嚐被薦引者見為台臣<pc>，</pc>則皆他徙<pc>，</pc>防壅蔽也<pc>。</pc>今天子幼衝<pc>，</pc>太皇太後同聽<num value="10000">萬</num>機<pc>，</pc>故事不可違<pc>。</pc>
-<pc>”</pc>於是呂公著以範祖禹<pc>，</pc>韓縝<pc>、</pc>司馬光以範純仁<pc>，</pc>皆避親嫌<pc>。</pc>光曰<pc>：</pc>
-<pc>“</pc>純仁<pc>、</pc>祖禹實宜在諫列<pc>，</pc>不可以臣故妨賢<pc>，</pc>寧臣避位<pc>。</pc>
+<pc>“</pc>
+<quote>台諫所以糾大臣之越法者<pc>。</pc>故事<pc>，</pc>執政初除<pc>，</pc>苟有親戚及嚐被薦引者見為台臣<pc>，</pc>則皆他徙<pc>，</pc>防壅蔽也<pc>。</pc>今天子幼衝<pc>，</pc>太皇太後同聽<num value="10000">萬</num>機<pc>，</pc>故事不可違<pc>。</pc>
+</quote>
+<pc>”</pc>於是呂公著以範祖禹<pc>，</pc>韓縝<pc>、</pc>
+<persName>司馬光</persName>以<persName>範純仁</persName>
+<pc>，</pc>皆避親嫌<pc>。</pc>光曰<pc>：</pc>
+<pc>“</pc>
+<quote>純仁<pc>、</pc>祖禹實宜在諫列<pc>，</pc>不可以臣故妨賢<pc>，</pc>寧臣避位<pc>。</pc>
+</quote>
 <pc>”</pc>惇曰<pc>：</pc>
-<pc>“</pc>縝<pc>、</pc>光<pc>、</pc>公著必不私<pc>，</pc>他日有懷奸當國者<pc>，</pc>例此而引其親黨<pc>，</pc>蔽塞聰明<pc>，</pc>恐非國之福<pc>。</pc>純仁<pc>、</pc>祖禹請除他官<pc>，</pc>仍令侍從以上<pc>，</pc>各得奏舉<pc>。</pc>
+<pc>“</pc>
+<quote>縝<pc>、</pc>光<pc>、</pc>公著必不私<pc>，</pc>他日有懷奸當國者<pc>，</pc>例此而引其親黨<pc>，</pc>蔽塞聰明<pc>，</pc>恐非國之福<pc>。</pc>純仁<pc>、</pc>祖禹請除他官<pc>，</pc>仍令侍從以上<pc>，</pc>各得奏舉<pc>。</pc>
+</quote>
 <pc>”</pc>於是<pc>，</pc>詔尚書<pc>、</pc>侍郎<pc>、</pc>給舍<pc>、</pc>諫議<pc>、</pc>中丞<pc>、</pc>待製各舉諫官<num value="2">二</num>員<pc>；</pc>純仁改除天章閣待製<pc>，</pc>祖禹為著作佐郎<pc>。</pc>後又命司諫<pc>、</pc>正言<pc>、</pc>殿中侍<term>禦史</term>
 <pc>、</pc>監察<term>禦史</term>
 <pc>，</pc>並用升朝官通判資序<pc>。</pc>
 </p>
 </div>
 <div>
-<p>元祐<measure quantity="6" unit="years">
+<p>
+<date notBefore="1086" notAfter="1094">元祐</date>
+<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>
 <term>禦史</term>中丞鄭雍言<pc>：</pc>
-<pc>“</pc>舊<term>禦史</term>闕<pc>，</pc>台官得自薦<pc>，</pc>所以正名舉職也<pc>。</pc>自官製行<pc>，</pc>
+<pc>“</pc>
+<quote>舊<term>禦史</term>闕<pc>，</pc>台官得自薦<pc>，</pc>所以正名舉職也<pc>。</pc>自官製行<pc>，</pc>
 <term>禦史</term>中丞與兩省分舉<pc>，</pc>而今之兩省官屬<pc>，</pc>皆與聞門下<pc>、</pc>中書政事<pc>，</pc>其自舉非故事<pc>，</pc>且有嫌<pc>。</pc>乞專委台官<pc>，</pc>若稍涉私<pc>，</pc>自有黜典<pc>。</pc>
+</quote>
 <pc>”</pc>詔<term>禦史</term>中丞舉殿中侍<term>禦史</term>
-<num value="2">二</num>員<pc>，</pc>翰林學士<pc>、</pc>中書舍人同舉監察<term>禦史</term>
+<num value="2">二</num>員<pc>，</pc>翰林學士<pc>、</pc>
+<term>中書舍人</term>同舉監察<term>禦史</term>
 <num value="2">二</num>員<pc>，</pc>給事中亦舉<num value="2">二</num>員<pc>。</pc>雍又言<pc>：</pc>
-<pc>“</pc>風憲之地<pc>，</pc>責任宜專<pc>。</pc>若台屬多由他薦<pc>，</pc>恐非責任之本意<pc>。</pc>
+<pc>“</pc>
+<quote>風憲之地<pc>，</pc>責任宜專<pc>。</pc>若台屬多由他薦<pc>，</pc>恐非責任之本意<pc>。</pc>
+</quote>
 <pc>”</pc>詔中丞更舉監察<term>禦史</term>
 <num value="2">二</num>員<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>侍<term>禦史</term>楊畏言<pc>：</pc>
-<pc>“</pc>風憲之任<pc>，</pc>人主寄耳目焉<pc>。</pc>
+<pc>“</pc>
+<quote>風憲之任<pc>，</pc>人主寄耳目焉<pc>。</pc>
 <term>禦史</term>進用<pc>，</pc>宰執不得預<pc>，</pc>顧令兩省屬官舉之<pc>，</pc>非是<pc>。</pc>
+</quote>
 <pc>”</pc>遂寢前命<pc>。</pc>
 </p>
 </div>
 <div>
-<p>武臣薦舉立格<pc>，</pc>有枚別職任而舉之者<pc>，</pc>有概名材武而入之銓格者<pc>，</pc>又其上則<pc>“</pc>謀略膽勇可備統眾<pc>”</pc>
+<p>武臣薦舉立格<pc>，</pc>有枚別職任而舉之者<pc>，</pc>有概名材武而入之銓格者<pc>，</pc>又其上則<pc>“</pc>
+<quote>謀略膽勇可備統眾</quote>
+<pc>”</pc>
 <pc>、</pc>
-<pc>“</pc>諳練兵事可任邊寄<pc>”</pc>之類<pc>。</pc>惟邊要任使隸樞密院<pc>，</pc>餘則審官西院<pc>、</pc>
+<pc>“</pc>
+<quote>諳練兵事可任邊寄</quote>
+<pc>”</pc>之類<pc>。</pc>惟邊要任使隸樞密院<pc>，</pc>餘則審官西院<pc>、</pc>
 <num value="3">三</num>班院按格注之<pc>。</pc>其後<pc>，</pc>雖時有更易<pc>，</pc>而薦舉之所重輕<pc>，</pc>選用之所隸屬<pc>，</pc>多規此立製<pc>。</pc>
 </p>
 </div>
 <div>
-<p>建炎兵興多事<pc>，</pc>以中外有文武材略出倫<pc>，</pc>或淹布衣<pc>，</pc>或沉下僚<pc>，</pc>命侍從<pc>、</pc>監司<pc>、</pc>郡守搜訪<pc>，</pc>各舉所知<pc>，</pc>州縣禮遣赴行在<pc>。</pc>又詔舉<pc>“</pc>忠信寬博可使絕域<pc>”</pc>與<pc>“</pc>智謀勇毅能將<num value="10000">萬</num>眾<pc>”</pc>者<pc>，</pc>不以有無官資<pc>，</pc>並詣登聞檢院自陳<pc>，</pc>才謀勇略可使者<pc>，</pc>赴禦營司量材錄用<pc>。</pc>或命庶僚各舉內外官及布衣隱士才堪大用者<pc>，</pc>擢為輔弼<pc>，</pc>協濟大功<pc>；</pc>或命侍從舉可為台諫者<pc>，</pc>或舉縣令<pc>，</pc>或舉宗室<pc>；</pc>
+<p>
+<date notBefore="1127" notAfter="1130">建炎</date>兵興多事<pc>，</pc>以中外有文武材略出倫<pc>，</pc>或淹布衣<pc>，</pc>或沉下僚<pc>，</pc>命侍從<pc>、</pc>監司<pc>、</pc>郡守搜訪<pc>，</pc>各舉所知<pc>，</pc>州縣禮遣赴行在<pc>。</pc>又詔舉<pc>“</pc>
+<quote>忠信寬博可使絕域</quote>
+<pc>”</pc>與<pc>“</pc>
+<quote>智謀勇毅能將<num value="10000">萬</num>眾</quote>
+<pc>”</pc>者<pc>，</pc>不以有無官資<pc>，</pc>並詣登聞檢院自陳<pc>，</pc>才謀勇略可使者<pc>，</pc>赴禦營司量材錄用<pc>。</pc>或命庶僚各舉內外官及布衣隱士才堪大用者<pc>，</pc>擢為輔弼<pc>，</pc>協濟大功<pc>；</pc>或命侍從舉可為台諫者<pc>，</pc>或舉縣令<pc>，</pc>或舉宗室<pc>；</pc>
 <term>刺史</term>舉忠義之士能恢複土疆保護王室者<pc>；</pc>帥臣<pc>、</pc>監司<pc>、</pc>守令舉所部見任寄居待次文武官有智謀及武藝精熟者<pc>；</pc>及訪求國初功臣後裔<pc>，</pc>中興以來忠義死節之家子孫<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>以朝班多闕<pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>台諫<pc>、</pc>左右司郎官已上<pc>，</pc>各薦士<measure quantity="2" unit="people">
+<pc>“</pc>
+<quote>台諫<pc>、</pc>左右司郎官已上<pc>，</pc>各薦士<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>
 <pc>，</pc>仍令執政同選<pc>。</pc>在外待從雖在謫籍<pc>，</pc>無大過而政事才學實可用者<pc>，</pc>亦與召擢<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -374,13 +484,16 @@
 <p>紹興<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>廷臣言<pc>：</pc>
-<pc>“</pc>今右武之世<pc>，</pc>雖<num value="6">二三</num>大將<pc>，</pc>各立俊功<pc>，</pc>微賤之中<pc>，</pc>尚多奇士<pc>。</pc>願廣加薦舉<pc>，</pc>延問恢複之計<pc>。</pc>
-<pc>”</pc>帝然其言<pc>。</pc>詔觀察使以上各薦可為將帥者<measure quantity="2" unit="people">
+<pc>“</pc>
+<quote>今右武之世<pc>，</pc>雖<num value="6">二三</num>大將<pc>，</pc>各立俊功<pc>，</pc>微賤之中<pc>，</pc>尚多奇士<pc>。</pc>願廣加薦舉<pc>，</pc>延問恢複之計<pc>。</pc>
+</quote>
+<pc>”</pc>帝然其言<pc>。</pc>詔<term>觀察使</term>以上各薦可為將帥者<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>
 <pc>，</pc>樞密籍錄以備選用<pc>。</pc>又以中原士大夫隔絕滋久<pc>，</pc>流徙東南者<pc>，</pc>媒寡援疏<pc>，</pc>多致沉滯<pc>，</pc>令侍從搜訪以聞<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>複司馬光<num value="10">十</num>科<pc>，</pc>時遣<num value="5">五</num>使宣諭諸道<pc>，</pc>令訪廉潔清修可以師表吏民者<pc>。</pc>錄詔宣諭官所薦<pc>，</pc>並俟終更<pc>，</pc>令入對升擢<pc>，</pc>以勸能吏<pc>。</pc>複用舊製<pc>，</pc>侍從官受命<measure quantity="3" unit="days">
+<pc>，</pc>複<persName>司馬光</persName>
+<num value="10">十</num>科<pc>，</pc>時遣<num value="5">五</num>使宣諭諸道<pc>，</pc>令訪廉潔清修可以師表吏民者<pc>。</pc>錄詔宣諭官所薦<pc>，</pc>並俟終更<pc>，</pc>令入對升擢<pc>，</pc>以勸能吏<pc>。</pc>複用舊製<pc>，</pc>侍從官受命<measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>
 <pc>，</pc>舉官<num value="1">一</num>員自代<pc>，</pc>中書<pc>、</pc>門下省籍記姓名<pc>，</pc>每闕官<pc>，</pc>即以舉狀多者進擬<pc>。</pc>內外武臣<pc>，</pc>舉忠勇智略可自代者<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
@@ -409,13 +522,15 @@
 <measure quantity="22" unit="years">
 <num value="22">二十二</num>年</measure>
 <pc>，</pc>右<term>諫議大夫</term>林大鼐言<pc>：</pc>
-<pc>“</pc>國初<pc>，</pc>常參官皆得舉人<pc>，</pc>不限內外<pc>，</pc>亦無員數<pc>。</pc>南渡之初<pc>，</pc>恩或非泛<pc>，</pc>人得僥幸<pc>，</pc>有從軍而改秩者<pc>。</pc>有捕盜而改秩者<pc>，</pc>有以登對而改秩者<pc>。</pc>今朝廷無事<pc>，</pc>謹惜名器<pc>，</pc>惟薦舉<num value="1">一</num>路<pc>，</pc>貪躁者速化<pc>，</pc>廉靜者陸沉<pc>。</pc>今欲取考第<pc>、</pc>員數增減以便之<pc>，</pc>增<num value="1">一</num>任者減<num value="1">一</num>員<pc>，</pc>
+<pc>“</pc>
+<quote>國初<pc>，</pc>常參官皆得舉人<pc>，</pc>不限內外<pc>，</pc>亦無員數<pc>。</pc>南渡之初<pc>，</pc>恩或非泛<pc>，</pc>人得僥幸<pc>，</pc>有從軍而改秩者<pc>。</pc>有捕盜而改秩者<pc>，</pc>有以登對而改秩者<pc>。</pc>今朝廷無事<pc>，</pc>謹惜名器<pc>，</pc>惟薦舉<num value="1">一</num>路<pc>，</pc>貪躁者速化<pc>，</pc>廉靜者陸沉<pc>。</pc>今欲取考第<pc>、</pc>員數增減以便之<pc>，</pc>增<num value="1">一</num>任者減<num value="1">一</num>員<pc>，</pc>
 <num value="10">十</num>考者用<num value="4">四</num>
 <pc>，</pc>
 <num value="12">十二</num>考者用<num value="3">三</num>
 <pc>，</pc>
 <num value="15">十五</num>考者用<num value="2">二</num>
 <pc>。</pc>如減舉法<pc>，</pc>須實曆縣令<pc>，</pc>不得仍請嶽祠<pc>。</pc>其或負犯殿選<pc>，</pc>自如常坐<pc>。</pc>士有應此格者<pc>，</pc>行無玷缺<pc>，</pc>年亦蹉跎<pc>，</pc>無非孤寒老練安義分之士<pc>。</pc>望付有司條上<pc>，</pc>以弭奔競<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="25" unit="years">
 <num value="25">二十五</num>年</measure>
@@ -427,10 +542,15 @@
 <measure quantity="29" unit="years">
 <num value="29">二十九</num>年</measure>
 <pc>，</pc>聞人滋又請<pc>：</pc>
-<pc>“</pc>凡在官曆任及<num value="10">十</num>考以上<pc>，</pc>無公私罪<pc>，</pc>雖舉削不及格<pc>，</pc>許降等升改<pc>。</pc>或疑其太濫<pc>，</pc>則取吏部累年改官酌中之數<pc>，</pc>立為限隔<pc>，</pc>舉狀<pc>、</pc>年勞<pc>，</pc>參酌並用<pc>。</pc>
-<pc>”</pc>於是下其議<pc>，</pc>中書舍人洪遵<pc>、</pc>給事中王晞亮等上議曰<pc>：</pc>
-<pc>“</pc>本朝立薦舉之法<pc>，</pc>必使曆任<num value="6">六</num>考<pc>，</pc>所以遲其歲月而責其赴功<pc>，</pc>必使之舉官<num value="5">五</num>員<pc>，</pc>所以多其保任而必其可用<pc>。</pc>今如議臣所請<pc>，</pc>則有力者惟圖見次<pc>，</pc>無材者苟冀終更<pc>，</pc>出官<num value="10">十</num>餘年<pc>，</pc>可以坐待京秩<pc>。</pc>此不可<num value="1">一</num>也<pc>。</pc>今欲減改官分數以待無舉削者<pc>，</pc>則當被舉之人<pc>，</pc>必有失職淹滯之歎<pc>。</pc>此不可<num value="2">二</num>也<pc>。</pc>京官易得<pc>，</pc>馴至郎位<pc>，</pc>任子之恩<pc>，</pc>愈不可減<pc>，</pc>非所以救入流之弊<pc>。</pc>此不可<num value="3">三</num>也<pc>。</pc>夫祖宗之法非有大害<pc>，</pc>未易輕議<pc>；</pc>今<num value="1">一</num>旦取<measure quantity="200" unit="years">
+<pc>“</pc>
+<quote>凡在官曆任及<num value="10">十</num>考以上<pc>，</pc>無公私罪<pc>，</pc>雖舉削不及格<pc>，</pc>許降等升改<pc>。</pc>或疑其太濫<pc>，</pc>則取吏部累年改官酌中之數<pc>，</pc>立為限隔<pc>，</pc>舉狀<pc>、</pc>年勞<pc>，</pc>參酌並用<pc>。</pc>
+</quote>
+<pc>”</pc>於是下其議<pc>，</pc>
+<term>中書舍人</term>洪遵<pc>、</pc>給事中王晞亮等上議曰<pc>：</pc>
+<pc>“</pc>
+<quote>本朝立薦舉之法<pc>，</pc>必使曆任<num value="6">六</num>考<pc>，</pc>所以遲其歲月而責其赴功<pc>，</pc>必使之舉官<num value="5">五</num>員<pc>，</pc>所以多其保任而必其可用<pc>。</pc>今如議臣所請<pc>，</pc>則有力者惟圖見次<pc>，</pc>無材者苟冀終更<pc>，</pc>出官<num value="10">十</num>餘年<pc>，</pc>可以坐待京秩<pc>。</pc>此不可<num value="1">一</num>也<pc>。</pc>今欲減改官分數以待無舉削者<pc>，</pc>則當被舉之人<pc>，</pc>必有失職淹滯之歎<pc>。</pc>此不可<num value="2">二</num>也<pc>。</pc>京官易得<pc>，</pc>馴至郎位<pc>，</pc>任子之恩<pc>，</pc>愈不可減<pc>，</pc>非所以救入流之弊<pc>。</pc>此不可<num value="3">三</num>也<pc>。</pc>夫祖宗之法非有大害<pc>，</pc>未易輕議<pc>；</pc>今<num value="1">一</num>旦取<measure quantity="200" unit="years">
 <num value="200">二百</num>年</measure>成法而易之<pc>。</pc>此不可<num value="4">四</num>也<pc>。</pc>臣以為如故便<pc>。</pc>
+</quote>
 <pc>”</pc>滋議遂寢<pc>。</pc>
 </p>
 </div>
@@ -439,40 +559,66 @@
 <measure quantity="30" unit="years">
 <num value="30">三十</num>年</measure>
 <pc>，</pc>以武臣被薦者眾<pc>，</pc>命內外大臣所舉統製<pc>、</pc>統領官各遷<num value="1">一</num>秩<pc>，</pc>將官以下<pc>，</pc>所舉者今兩府籍記<pc>。</pc>右正言何溥言<pc>：</pc>
-<pc>“</pc>比命侍從薦舉縣令<pc>，</pc>如聞選人不可授大邑<pc>，</pc>止籍記姓名<pc>。</pc>夫論人才不拘資格<pc>，</pc>豈堪為縣令而有小大之別乎<pc>？</pc>今所舉者才也<pc>，</pc>非官也<pc>。</pc>願無拘劇易<pc>，</pc>早與選除<pc>，</pc>歲<num value="1">一</num>行之<pc>，</pc>
+<pc>“</pc>
+<quote>比命侍從薦舉縣令<pc>，</pc>如聞選人不可授大邑<pc>，</pc>止籍記姓名<pc>。</pc>夫論人才不拘資格<pc>，</pc>豈堪為縣令而有小大之別乎<pc>？</pc>今所舉者才也<pc>，</pc>非官也<pc>。</pc>願無拘劇易<pc>，</pc>早與選除<pc>，</pc>歲<num value="1">一</num>行之<pc>，</pc>
 <measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>之後<pc>，</pc>天下多賢令矣<pc>。</pc>
+</quote>
 <pc>”</pc>乃詔<pc>：</pc>
-<pc>“</pc>薦舉守令<pc>，</pc>遇見闕依次除授<pc>；</pc>如已授差遣者<pc>，</pc>任滿取旨<pc>。</pc>
+<pc>“</pc>
+<quote>薦舉守令<pc>，</pc>遇見闕依次除授<pc>；</pc>如已授差遣者<pc>，</pc>任滿取旨<pc>。</pc>
+</quote>
 <pc>”</pc>帝謂輔臣曰<pc>：</pc>
-<pc>“</pc>朕有<measure quantity="1" unit="people">
+<pc>“</pc>
+<quote>朕有<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>材簿<pc>，</pc>臣下有所薦揚<pc>，</pc>退則記其姓名<pc>。</pc>遇有選用<pc>，</pc>搜而得之<pc>，</pc>無不適當<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>孝宗嚐命內外選在任閑居待次官舉可任監司<pc>、</pc>郡守之人<pc>，</pc>以資序分<num value="2">二</num>等<pc>，</pc>
 <num value="1">一</num>見今可任<pc>，</pc>
-<num value="1">一</num>將來可任<pc>，</pc>注籍於<num value="3">三</num>省<pc>，</pc>仍作圖進呈<pc>，</pc>以憑除擢<pc>。</pc>又以武選之眾<pc>，</pc>拔擢未廣<pc>，</pc>立<pc>“</pc>謀略沉雄可任大計<pc>”</pc>
+<num value="1">一</num>將來可任<pc>，</pc>注籍於<num value="3">三</num>省<pc>，</pc>仍作圖進呈<pc>，</pc>以憑除擢<pc>。</pc>又以武選之眾<pc>，</pc>拔擢未廣<pc>，</pc>立<pc>“</pc>
+<quote>謀略沉雄可任大計</quote>
+<pc>”</pc>
 <pc>、</pc>
-<pc>“</pc>寬猛適宜可使禦眾<pc>”</pc>
+<pc>“</pc>
+<quote>寬猛適宜可使禦眾</quote>
+<pc>”</pc>
 <pc>、</pc>
-<pc>“</pc>臨陣驍勇可鼓士氣<pc>”</pc>
+<pc>“</pc>
+<quote>臨陣驍勇可鼓士氣</quote>
+<pc>”</pc>
 <pc>、</pc>
-<pc>“</pc>威信有聞可守邊郡<pc>”</pc>
+<pc>“</pc>
+<quote>威信有聞可守邊郡</quote>
+<pc>”</pc>
 <pc>、</pc>
-<pc>“</pc>思智精巧可治器械<pc>”</pc>凡<num value="5">五</num>等科目<pc>，</pc>令曾曆軍功觀察使以上各舉<measure quantity="3" unit="people">
+<pc>“</pc>
+<quote>思智精巧可治器械</quote>
+<pc>”</pc>凡<num value="5">五</num>等科目<pc>，</pc>令曾曆軍功<term>觀察使</term>以上各舉<measure quantity="3" unit="people">
 <num value="3">三</num>人</measure>
-<pc>。</pc>其<pc>“</pc>通習典章可掌朝儀<pc>”</pc>
+<pc>。</pc>其<pc>“</pc>
+<quote>通習典章可掌朝儀</quote>
+<pc>”</pc>
 <pc>、</pc>
-<pc>“</pc>練達民事可任郡寄<pc>”</pc>
+<pc>“</pc>
+<quote>練達民事可任郡寄</quote>
+<pc>”</pc>
 <pc>、</pc>
-<pc>“</pc>諳曉財計可裕民力<pc>”</pc>
+<pc>“</pc>
+<quote>諳曉財計可裕民力</quote>
+<pc>”</pc>
 <pc>、</pc>
-<pc>“</pc>持身廉潔可律貪鄙<pc>”</pc>
+<pc>“</pc>
+<quote>持身廉潔可律貪鄙</quote>
+<pc>”</pc>
 <pc>、</pc>
-<pc>“</pc>詞辨不屈可備奉使<pc>”</pc>
-<num value="5">五</num>等<pc>，</pc>令非軍功觀察使以上舉之<pc>。</pc>並隨類指陳實跡<pc>，</pc>毋得別撰褒詞<pc>。</pc>
+<pc>“</pc>
+<quote>詞辨不屈可備奉使</quote>
+<pc>”</pc>
+<num value="5">五</num>等<pc>，</pc>令非軍功<term>觀察使</term>以上舉之<pc>。</pc>並隨類指陳實跡<pc>，</pc>毋得別撰褒詞<pc>。</pc>
 </p>
 </div>
 <div>
@@ -480,13 +626,17 @@
 <num value="2">二</num>年</measure>
 <pc>，</pc>廷臣上言<pc>，</pc>謂<pc>：</pc>
 <pc>“</pc>
-<date when="null">國朝</date>視文武為<num value="1">一</num>體<pc>，</pc>故有武臣以文學換授文資<pc>，</pc>文臣以材略智謀換右職當邊寄者<pc>。</pc>蓋文武兩途<pc>，</pc>情本參商<pc>。</pc>若文臣總幹戎事<pc>，</pc>不換武階<pc>，</pc>則終以氣習相忌<pc>，</pc>有不樂從者矣<pc>。</pc>今兵塵未息<pc>，</pc>方厲恢複之圖<pc>，</pc>願博采中外有材智權略可以臨邊<pc>、</pc>可以製閫者<pc>，</pc>仿舊製改授<pc>。</pc>
+<quote>
+<date notBefore="9999" notAfter="9999">國朝</date>視文武為<num value="1">一</num>體<pc>，</pc>故有武臣以文學換授文資<pc>，</pc>文臣以材略智謀換右職當邊寄者<pc>。</pc>蓋文武兩途<pc>，</pc>情本參商<pc>。</pc>若文臣總幹戎事<pc>，</pc>不換武階<pc>，</pc>則終以氣習相忌<pc>，</pc>有不樂從者矣<pc>。</pc>今兵塵未息<pc>，</pc>方厲恢複之圖<pc>，</pc>願博采中外有材智權略可以臨邊<pc>、</pc>可以製閫者<pc>，</pc>仿舊製改授<pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>乾道以後<pc>，</pc>又選大將之家能世其武勇者<pc>，</pc>武舉及第武藝絕倫可為將佐者<pc>。</pc>會廷臣言曰<pc>：</pc>
-<pc>“</pc>方今國家之兵<pc>，</pc>東至淮海<pc>，</pc>西至川蜀<pc>，</pc>殆<num value="100">百</num>餘<num value="10000">萬</num>
+<pc>“</pc>
+<quote>方今國家之兵<pc>，</pc>東至淮海<pc>，</pc>西至川蜀<pc>，</pc>殆<num value="100">百</num>餘<num value="10000">萬</num>
 <pc>。</pc>其間可為將帥者<pc>，</pc>不在其上<pc>，</pc>則在其下<pc>，</pc>而朝廷未知振其氣<pc>、</pc>表其才也<pc>。</pc>今文臣有<measure quantity="3" unit="people">
 <num value="3">三</num>人</measure>舉主<pc>，</pc>則為之循資再任<pc>，</pc>
 <measure quantity="5" unit="people">
-<num value="5">五</num>人</measure>則為之改秩<pc>，</pc>而武臣無有焉<pc>。</pc>古語曰<pc>：</pc>‘<num value="3">三</num>辰不軌<pc>，</pc>擢士為相<pc>；</pc>蠻夷不恭<pc>，</pc>拔卒為將<pc>。</pc>’宜令都統製視監司者歲舉武臣<measure quantity="2" unit="people">
+<num value="5">五</num>人</measure>則為之改秩<pc>，</pc>而武臣無有焉<pc>。</pc>古語曰<pc>：</pc>‘<num value="3">三</num>辰不軌<pc>，</pc>擢士為相<pc>；</pc>蠻夷不恭<pc>，</pc>拔卒為將<pc>。</pc>
+</quote>’宜令都統製視監司者歲舉武臣<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>
 <pc>，</pc>視郡守者歲舉<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
@@ -502,18 +652,25 @@
 <num value="3">三</num>省詳加考察<pc>。</pc>詔如所請<pc>，</pc>仍不以內外<pc>，</pc>雜舉歲各<measure quantity="5" unit="people">
 <num value="5">五</num>人</measure>
 <pc>，</pc>保舉官及<num value="5">五</num>員以上<pc>，</pc>列銜共奏<pc>。</pc>帝曰<pc>：</pc>
-<pc>“</pc>薦舉本欲得人<pc>，</pc>又恐幹請<pc>，</pc>反長奔競<pc>。</pc>
+<pc>“</pc>
+<quote>薦舉本欲得人<pc>，</pc>又恐幹請<pc>，</pc>反長奔競<pc>。</pc>
+</quote>
 <pc>”</pc>龔茂良言<pc>：</pc>
 <pc>“</pc>
+<quote>
 <num value="3">三</num>代良法<pc>，</pc>亦不免於弊<pc>。</pc>今欲精選監司<pc>、</pc>郡守<pc>，</pc>非薦舉何由知之<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>若今雜舉<pc>，</pc>則須眾論僉允<pc>，</pc>又經中書考察而後除授<pc>，</pc>亦博采遴選之道也<pc>。</pc>
+<pc>“</pc>
+<quote>若今雜舉<pc>，</pc>則須眾論僉允<pc>，</pc>又經中書考察而後除授<pc>，</pc>亦博采遴選之道也<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>吏部請<pc>：</pc>
-<pc>“</pc>武舉軍班武藝特奏名出身<pc>，</pc>並任巡檢<pc>、</pc>駐泊<pc>、</pc>監押<pc>、</pc>知砦<pc>，</pc>比附<pc>《</pc>
+<pc>“</pc>
+<quote>武舉軍班武藝特奏名出身<pc>，</pc>並任巡檢<pc>、</pc>駐泊<pc>、</pc>監押<pc>、</pc>知砦<pc>，</pc>比附<pc>《</pc>
 <title>文臣關升條令</title>
 <pc>》</pc>
 <pc>，</pc>並實曆<num value="6">六</num>考<pc>，</pc>有舉主<measure quantity="4" unit="people">
@@ -523,7 +680,10 @@
 <pc>，</pc>聽關升親民<pc>。</pc>正副將<pc>，</pc>兩任<pc>、</pc>有舉主<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>
 <pc>，</pc>內<measure quantity="1" unit="people">
-<num value="1">一</num>人</measure>監司<pc>，</pc>亦與關升<pc>。</pc>凡升副將<pc>，</pc>視文臣初任通判資序<pc>；</pc>再關升正將<pc>，</pc>視文臣次任通判資序<pc>；</pc>關升路分副都監<pc>，</pc>視文臣初任知州資序<pc>；</pc>小郡州鈐轄<pc>，</pc>視文臣次任知州資序<pc>。</pc>
+<num value="1">一</num>人</measure>監司<pc>，</pc>亦與關升<pc>。</pc>凡升副將<pc>，</pc>視文臣初任通判資序<pc>；</pc>再關升正將<pc>，</pc>視文臣次任通判資序<pc>；</pc>關升路分副<term>都監</term>
+<pc>，</pc>視文臣初任知州資序<pc>；</pc>小郡州<term>鈐轄</term>
+<pc>，</pc>視文臣次任知州資序<pc>。</pc>
+</quote>
 <pc>”</pc>孝宗以歲舉京官數濫<pc>，</pc>於是內外薦舉改官員數<pc>，</pc>
 <num value="6">六</num>部<pc>、</pc>寺<pc>、</pc>監長貳<pc>，</pc>戶部右曹郎官等<pc>，</pc>
 <num value="3">三</num>分減<num value="1">一</num>
@@ -533,7 +693,9 @@
 </div>
 <div>
 <p>光宗時<pc>，</pc>言者謂<pc>：</pc>
-<pc>“</pc>被薦者眾<pc>，</pc>朝廷疑其私而不信<pc>，</pc>病其泛而難從<pc>，</pc>縱有賢才<pc>，</pc>不免與僥幸者並棄<pc>，</pc>請條約之<pc>。</pc>
+<pc>“</pc>
+<quote>被薦者眾<pc>，</pc>朝廷疑其私而不信<pc>，</pc>病其泛而難從<pc>，</pc>縱有賢才<pc>，</pc>不免與僥幸者並棄<pc>，</pc>請條約之<pc>。</pc>
+</quote>
 <pc>”</pc>乃命帥守<pc>、</pc>監司毋獨員薦士<pc>。</pc>時薦舉固多得人<pc>，</pc>然有或乏廉聲而舉充廉吏<pc>，</pc>或素昧平生而舉充所知<pc>，</pc>或不能文而舉可備著述<pc>。</pc>遂命臣僚自今有人則薦<pc>，</pc>無人則闕<pc>，</pc>其尤繆妄者覺察之<pc>。</pc>
 </p>
 </div>
@@ -546,11 +708,14 @@
 </p>
 </div>
 <div>
-<p>宋初<pc>，</pc>內外小職任<pc>，</pc>長吏得自奏辟<pc>。</pc>熙寧間<pc>，</pc>悉罷歸選部<pc>。</pc>然要處職任<pc>，</pc>如沿邊兵官<pc>、</pc>防河捕盜<pc>、</pc>重課額務場之類<pc>，</pc>尋又立專法聽舉<pc>，</pc>於是辟置不能全廢也<pc>。</pc>既出常格<pc>，</pc>則憸人往往因之以行其私<pc>。</pc>元祐以來<pc>，</pc>屢行屢止<pc>。</pc>蓋處心公明<pc>，</pc>則得以用其所知<pc>，</pc>固為良法<pc>；</pc>苟徇私昧理<pc>，</pc>則才不為用<pc>，</pc>請屬賄賂<pc>，</pc>無所不有矣<pc>。</pc>又孰若付之銓曹而概以公法者哉<pc>？</pc>
+<p>宋初<pc>，</pc>內外小職任<pc>，</pc>長吏得自奏辟<pc>。</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>間<pc>，</pc>悉罷歸選部<pc>。</pc>然要處職任<pc>，</pc>如沿邊兵官<pc>、</pc>防河捕盜<pc>、</pc>重課額務場之類<pc>，</pc>尋又立專法聽舉<pc>，</pc>於是辟置不能全廢也<pc>。</pc>既出常格<pc>，</pc>則憸人往往因之以行其私<pc>。</pc>
+<date notBefore="1086" notAfter="1094">元祐</date>以來<pc>，</pc>屢行屢止<pc>。</pc>蓋處心公明<pc>，</pc>則得以用其所知<pc>，</pc>固為良法<pc>；</pc>苟徇私昧理<pc>，</pc>則才不為用<pc>，</pc>請屬賄賂<pc>，</pc>無所不有矣<pc>。</pc>又孰若付之銓曹而概以公法者哉<pc>？</pc>
 </p>
 </div>
 <div>
-<p>建炎初<pc>，</pc>詔河北招撫<pc>、</pc>河東經製及安撫等使<pc>，</pc>皆得辟置將佐官屬<pc>；</pc>行在<num value="5">五</num>軍並禦營司將領<pc>，</pc>亦辟大小使臣<pc>。</pc>諸道郡縣殘破之餘<pc>，</pc>官吏解散<pc>，</pc>諸司誘人填闕<pc>，</pc>皆先領職而後奏給付身<pc>。</pc>於是州郡守將<pc>，</pc>皆假軍興之名<pc>，</pc>換易官屬<pc>，</pc>有罪籍未敘複<pc>、</pc>守選未參部者<pc>。</pc>朝論患之<pc>，</pc>乃令厘正<pc>，</pc>使歸部依格注擬<pc>。</pc>惟陝西<num value="5">五</num>路<pc>、</pc>兩河<pc>、</pc>兩淮<pc>、</pc>京東等路經略安撫司屬官聽舉辟<pc>，</pc>餘路並罷<pc>。</pc>
+<p>
+<date notBefore="1127" notAfter="1130">建炎</date>初<pc>，</pc>詔河北招撫<pc>、</pc>河東經製及安撫等使<pc>，</pc>皆得辟置將佐官屬<pc>；</pc>行在<num value="5">五</num>軍並禦營司將領<pc>，</pc>亦辟大小使臣<pc>。</pc>諸道郡縣殘破之餘<pc>，</pc>官吏解散<pc>，</pc>諸司誘人填闕<pc>，</pc>皆先領職而後奏給付身<pc>。</pc>於是州郡守將<pc>，</pc>皆假軍興之名<pc>，</pc>換易官屬<pc>，</pc>有罪籍未敘複<pc>、</pc>守選未參部者<pc>。</pc>朝論患之<pc>，</pc>乃令厘正<pc>，</pc>使歸部依格注擬<pc>。</pc>惟陝西<num value="5">五</num>路<pc>、</pc>兩河<pc>、</pc>兩淮<pc>、</pc>京東等路經略安撫司屬官聽舉辟<pc>，</pc>餘路並罷<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>初置諸鎮撫使<pc>，</pc>管內州縣官並許辟置<pc>。</pc>言者謂遠方之民<pc>，</pc>理宜綏撫<pc>。</pc>如峽州<num value="4">四</num>縣<pc>，</pc>多用軍功或胥吏補知縣<pc>，</pc>欄吏補監稅<pc>，</pc>民被其害<pc>。</pc>遂命取峽州<pc>、</pc>江陵府<pc>、</pc>荊門軍<pc>、</pc>公安軍州縣官闕<pc>，</pc>委安撫司奏辟<pc>。</pc>命<term>禦史</term>台仍舊辟舉承務郎已上官充主簿<pc>、</pc>檢法官<pc>，</pc>不限資序<pc>。</pc>
@@ -559,9 +724,11 @@
 <div>
 <p>紹興<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>臣僚又以<pc>“</pc>比年帥守<pc>、</pc>監司辟官<pc>，</pc>攙奪部注<pc>，</pc>朝廷不能奪<pc>，</pc>銓曹不能違<pc>，</pc>又多畀以添差不厘務之闕<pc>。</pc>上自監司<pc>、</pc>倅貳<pc>，</pc>下至掾屬<pc>、</pc>給使<pc>，</pc>
+<pc>，</pc>臣僚又以<pc>“</pc>
+<quote>比年帥守<pc>、</pc>監司辟官<pc>，</pc>攙奪部注<pc>，</pc>朝廷不能奪<pc>，</pc>銓曹不能違<pc>，</pc>又多畀以添差不厘務之闕<pc>。</pc>上自監司<pc>、</pc>倅貳<pc>，</pc>下至掾屬<pc>、</pc>給使<pc>，</pc>
 <num value="1">一</num>郡之中<pc>，</pc>兵官<num value="72">八九</num>員<pc>，</pc>
 <num value="1">一</num>務之中<pc>，</pc>監當<num value="42">六七</num>員<pc>，</pc>數倍於前日<pc>。</pc>存無事之官<pc>，</pc>食至重之祿<pc>，</pc>所以重困生民<pc>。</pc>請裁省其闕<pc>，</pc>否則以宮廟之祿畀之<pc>。</pc>
+</quote>
 <pc>”</pc>遂命自今已就辟差理資任者<pc>，</pc>毋得據舊闕以妨下次<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
@@ -606,15 +773,16 @@
 <num value="7">七</num>年</measure>
 <pc>、</pc>武臣<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
-<pc>，</pc>中書<pc>、</pc>樞密院取旨<pc>。</pc>其<num value="7">七</num>階選人<pc>，</pc>則考第資曆<pc>，</pc>無過犯或有勞績者遞遷<pc>，</pc>謂之<pc>“</pc>循資<pc>”</pc>
-<pc>。</pc>凡考第之法<pc>，</pc>內外選人<pc>，</pc>周<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>為<num value="1">一</num>考<pc>，</pc>欠日不得成考<pc>。</pc>
-<num value="3">三</num>考未替<pc>，</pc>更周<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>
-<pc>，</pc>書為第<num value="4">四</num>考<pc>，</pc>已書之績<pc>，</pc>不得重計<pc>。</pc>初著令<pc>，</pc>州縣戶口準見戶<num value="10">十</num>分增<num value="1">一</num>
+<pc>，</pc>中書<pc>、</pc>樞密院取旨<pc>。</pc>其<num value="7">七</num>階選人<pc>，</pc>則考第資曆<pc>，</pc>無過犯或有勞績者遞遷<pc>，</pc>謂之<pc>“</pc>
+<quote>循資</quote>
+<pc>”</pc>
+<pc>。</pc>凡考第之法<pc>，</pc>內外選人<pc>，</pc>周<num value="1">一</num>歲為<num value="1">一</num>考<pc>，</pc>欠日不得成考<pc>。</pc>
+<num value="3">三</num>考未替<pc>，</pc>更周<num value="1">一</num>歲<pc>，</pc>書為第<num value="4">四</num>考<pc>，</pc>已書之績<pc>，</pc>不得重計<pc>。</pc>初著令<pc>，</pc>州縣戶口準見戶<num value="10">十</num>分增<num value="1">一</num>
 <pc>，</pc>
 <term>刺史</term>
-<pc>、</pc>縣令進考<pc>，</pc>若耗<num value="1">一</num>分<pc>，</pc>降考<num value="1">一</num>等<pc>。</pc>建隆<measure quantity="3" unit="years">
+<pc>、</pc>縣令進考<pc>，</pc>若耗<num value="1">一</num>分<pc>，</pc>降考<num value="1">一</num>等<pc>。</pc>
+<date notBefore="960" notAfter="963">建隆</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>又以科賦有欠逾<num value="10">十</num>之<num value="1">一</num>
 <pc>，</pc>及公事曠違嚐有製受罰者<pc>，</pc>皆如耗戶口降考<pc>。</pc>吏部南曹又舉周製<pc>，</pc>請州縣官益戶增稅<pc>，</pc>受代日並書於籍<pc>，</pc>凡<num value="1000">千</num>戶以下能增<num value="100">百</num>戶減<num value="1">一</num>選<pc>，</pc>減及<num value="3">三</num>選以上<pc>，</pc>令賜章服<pc>，</pc>主簿升秩進階<pc>。</pc>能歸複逋亡之民者<pc>，</pc>亦如之<pc>。</pc>
@@ -630,21 +798,32 @@
 <num value="3">三</num>限內獲者<pc>，</pc>令<pc>、</pc>尉等第議賞<pc>；</pc>
 <num value="3">三</num>限外不獲<pc>，</pc>尉罰<measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>奉<pc>，</pc>令半之<pc>。</pc>尉<num value="3">三</num>罰<pc>、</pc>令<num value="4">四</num>罰<pc>，</pc>皆殿<num value="1">一</num>選<pc>，</pc>
-<num value="3">三</num>殿停官<pc>。</pc>令<pc>、</pc>尉與賊鬥而能盡獲者<pc>，</pc>賜緋升擢<pc>。</pc>乾德<measure quantity="4" unit="years">
+<num value="3">三</num>殿停官<pc>。</pc>令<pc>、</pc>尉與賊鬥而能盡獲者<pc>，</pc>賜緋升擢<pc>。</pc>
+<date notBefore="963" notAfter="968">乾德</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>詔諸縣令<pc>、</pc>佐有能招攜勸課<pc>，</pc>以致蕃庶民籍<pc>，</pc>租額出其元數<pc>，</pc>減<num value="1">一</num>選<pc>，</pc>仍進<num value="1">一</num>階<pc>。</pc>
 </p>
 </div>
 <div>
 <p>太宗勵精圖治<pc>，</pc>遣官分行郡縣<pc>，</pc>廉察官吏<pc>。</pc>河南府法曹參軍高丕等<pc>，</pc>皆以不勝任免官<pc>。</pc>複詔諸道察舉部內官<pc>，</pc>第其優劣為<num value="3">三</num>等<pc>：</pc>
-<pc>“</pc>政績尤異<pc>”</pc>為上<pc>，</pc>
-<pc>“</pc>職務粗治<pc>”</pc>為中<pc>，</pc>
-<pc>“</pc>臨事弛慢所蒞無狀<pc>”</pc>者為下<pc>。</pc>歲終以聞<pc>。</pc>先是<pc>，</pc>諸州掾曹及縣令<pc>、</pc>簿<pc>、</pc>尉<pc>，</pc>皆戶部南曹給印紙<pc>、</pc>曆子<pc>，</pc>俾州郡長吏書其績用愆過<pc>，</pc>秩滿<pc>，</pc>送有司差其殿最<pc>。</pc>詔有司申明<pc>，</pc>其諸州別給公據者罷之<pc>。</pc>判吏部南曹董淳言<pc>：</pc>
-<pc>“</pc>有司批書印曆<pc>，</pc>多所闕略<pc>，</pc>令漏書<num value="1">一</num>事殿<num value="1">一</num>選<pc>，</pc>
+<pc>“</pc>
+<quote>政績尤異</quote>
+<pc>”</pc>為上<pc>，</pc>
+<pc>“</pc>
+<quote>職務粗治</quote>
+<pc>”</pc>為中<pc>，</pc>
+<pc>“</pc>
+<quote>臨事弛慢所蒞無狀</quote>
+<pc>”</pc>者為下<pc>。</pc>歲終以聞<pc>。</pc>先是<pc>，</pc>諸州掾曹及縣令<pc>、</pc>簿<pc>、</pc>尉<pc>，</pc>皆戶部南曹給印紙<pc>、</pc>曆子<pc>，</pc>俾州郡長吏書其績用愆過<pc>，</pc>秩滿<pc>，</pc>送有司差其殿最<pc>。</pc>詔有司申明<pc>，</pc>其諸州別給公據者罷之<pc>。</pc>判吏部南曹董淳言<pc>：</pc>
+<pc>“</pc>
+<quote>有司批書印曆<pc>，</pc>多所闕略<pc>，</pc>令漏書<num value="1">一</num>事殿<num value="1">一</num>選<pc>，</pc>
 <num value="3">三</num>事降<num value="1">一</num>資<pc>。</pc>
+</quote>
 <pc>”</pc>自是職事官依州縣給南曹曆子<pc>，</pc>天下知州<pc>、</pc>通判<pc>、</pc>京朝官厘務於外者<pc>，</pc>給以禦前印紙<pc>，</pc>令書課績<pc>。</pc>時蔣元振知白州<pc>，</pc>為政清簡<pc>，</pc>民甚便之<pc>；</pc>秩滿<pc>，</pc>眾輒詣部使乞留<pc>，</pc>凡<num value="10">十</num>有<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
-<pc>，</pc>未受代<pc>。</pc>姚益恭清白有才幹<pc>，</pc>知鄆州須城縣<pc>，</pc>鞭相不施<pc>，</pc>境內大治<pc>。</pc>淳化初<pc>，</pc>采訪使各言其狀<pc>，</pc>下詔褒嘉<pc>，</pc>賜元振絹<num value="30">三十</num>匹<pc>、</pc>粟<num value="50">五十</num>石<pc>，</pc>賜益恭對衣<pc>、</pc>銀帶<pc>、</pc>絹<num value="50">五十</num>匹<pc>。</pc>
+<pc>，</pc>未受代<pc>。</pc>姚益恭清白有才幹<pc>，</pc>知<placeName>鄆州</placeName>須城縣<pc>，</pc>鞭相不施<pc>，</pc>境內大治<pc>。</pc>
+<date notBefore="990" notAfter="994">淳化</date>初<pc>，</pc>采訪使各言其狀<pc>，</pc>下詔褒嘉<pc>，</pc>賜元振絹<num value="30">三十</num>匹<pc>、</pc>粟<num value="50">五十</num>石<pc>，</pc>賜益恭對衣<pc>、</pc>銀帶<pc>、</pc>絹<num value="50">五十</num>匹<pc>。</pc>
 </p>
 </div>
 <div>
@@ -652,15 +831,23 @@
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>始分置磨勘之司<pc>。</pc>審官院掌京朝官<pc>，</pc>考課院掌幕職<pc>、</pc>州縣官<pc>，</pc>廢差遣院<pc>，</pc>令審官總之<pc>。</pc>乃詔<pc>：</pc>
-<pc>“</pc>郡縣有治行尤異<pc>、</pc>吏民畏服<pc>、</pc>居官廉恪<pc>、</pc>蒞事明敏<pc>、</pc>鬥訟衰息<pc>、</pc>倉廩盈羨<pc>、</pc>寇盜翦滅<pc>、</pc>部內清肅者<pc>，</pc>本道轉運司各以名聞<pc>，</pc>當驛置赴闕<pc>，</pc>親問其狀加旌賞焉<pc>。</pc>其貪冒無狀<pc>、</pc>淹延鬥訟<pc>、</pc>逾越憲度<pc>、</pc>盜賊競起<pc>、</pc>部內不治者<pc>，</pc>亦條其狀以聞<pc>，</pc>當行貶斥<pc>。</pc>
+<pc>“</pc>
+<quote>郡縣有治行尤異<pc>、</pc>吏民畏服<pc>、</pc>居官廉恪<pc>、</pc>蒞事明敏<pc>、</pc>鬥訟衰息<pc>、</pc>倉廩盈羨<pc>、</pc>寇盜翦滅<pc>、</pc>部內清肅者<pc>，</pc>本道轉運司各以名聞<pc>，</pc>當驛置赴闕<pc>，</pc>親問其狀加旌賞焉<pc>。</pc>其貪冒無狀<pc>、</pc>淹延鬥訟<pc>、</pc>逾越憲度<pc>、</pc>盜賊競起<pc>、</pc>部內不治者<pc>，</pc>亦條其狀以聞<pc>，</pc>當行貶斥<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>以翰林學士錢若水<pc>、</pc>樞密直學士劉昌言同知審官院<pc>，</pc>考覆功過<pc>，</pc>以定升降<pc>；</pc>又以判流內銓翰林學士蘇易簡<pc>、</pc>知製誥王旦等知考課院<pc>，</pc>重其職也<pc>。</pc>凡流內銓<pc>，</pc>主常調選人<pc>；</pc>考課院<pc>，</pc>主奏舉及曆任有殿最者<pc>。</pc>明年<pc>，</pc>帝親選京朝官<num value="30">三十</num>餘人<pc>，</pc>自書戒諭之言於印紙曰<pc>：</pc>
-<pc>“</pc>勤政愛民<pc>，</pc>奉法除奸<pc>，</pc>方可書為勞績<pc>。</pc>
-<pc>”</pc>且謂錢若水曰<pc>：</pc>
-<pc>“</pc>奉法除奸之言<pc>，</pc>恐諸臣未喻<pc>，</pc>因而生事<pc>，</pc>可語之曰<pc>：</pc>‘除奸之要<pc>，</pc>在乎奉法<pc>。</pc>’<pc>”</pc>至道初<pc>，</pc>罷考課院<pc>，</pc>並流內銓<pc>。</pc>
+<p>以翰林學士<persName>錢若水</persName>
+<pc>、</pc>樞密直學士劉昌言同知審官院<pc>，</pc>考覆功過<pc>，</pc>以定升降<pc>；</pc>又以判流內銓翰林學士蘇易簡<pc>、</pc>知製誥王旦等知考課院<pc>，</pc>重其職也<pc>。</pc>凡流內銓<pc>，</pc>主常調選人<pc>；</pc>考課院<pc>，</pc>主奏舉及曆任有殿最者<pc>。</pc>明年<pc>，</pc>帝親選京朝官<num value="30">三十</num>餘人<pc>，</pc>自書戒諭之言於印紙曰<pc>：</pc>
+<pc>“</pc>
+<quote>勤政愛民<pc>，</pc>奉法除奸<pc>，</pc>方可書為勞績<pc>。</pc>
+</quote>
+<pc>”</pc>且謂<persName>錢若水</persName>曰<pc>：</pc>
+<pc>“</pc>
+<quote>奉法除奸之言<pc>，</pc>恐諸臣未喻<pc>，</pc>因而生事<pc>，</pc>可語之曰<pc>：</pc>‘除奸之要<pc>，</pc>在乎奉法<pc>。</pc>
+</quote>’<pc>”</pc>
+<date notBefore="995" notAfter="997">至道</date>初<pc>，</pc>罷考課院<pc>，</pc>並流內銓<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>遣使廉察諸道長吏<pc>，</pc>得<measure quantity="8" unit="people">
@@ -671,29 +858,39 @@
 <p>真宗即位<pc>，</pc>命審官院考京朝官殿最<pc>，</pc>引對遷秩<pc>。</pc>京朝官引對磨勘<pc>，</pc>自此始<pc>。</pc>先是<pc>，</pc>每恩慶<pc>，</pc>
 <num value="100">百</num>僚多得序進<pc>。</pc>帝始罷之<pc>，</pc>惟郊祀恩許加勳<pc>、</pc>階<pc>、</pc>爵邑<pc>。</pc>帝察群臣有聞望者<pc>，</pc>得刑部郎中邊肅等<num value="20">二十</num>有<measure quantity="4" unit="people">
 <num value="4">四</num>人</measure>
-<pc>，</pc>令閣門再引對<pc>，</pc>觀其辭氣文藝<pc>，</pc>並得優升<pc>。</pc>景德初<pc>，</pc>令諸道辨察所部官吏能否<pc>，</pc>為<num value="3">三</num>等<pc>：</pc>公勤廉幹惠及民者為上<pc>，</pc>幹事而無廉譽<pc>、</pc>清白而無治聲者為次<pc>，</pc>畏懦貪猥為下<pc>。</pc>
+<pc>，</pc>令閣門再引對<pc>，</pc>觀其辭氣文藝<pc>，</pc>並得優升<pc>。</pc>
+<date notBefore="1004" notAfter="1007">景德</date>初<pc>，</pc>令諸道辨察所部官吏能否<pc>，</pc>為<num value="3">三</num>等<pc>：</pc>公勤廉幹惠及民者為上<pc>，</pc>幹事而無廉譽<pc>、</pc>清白而無治聲者為次<pc>，</pc>畏懦貪猥為下<pc>。</pc>
 </p>
 </div>
 <div>
 <p>仁宗尤矜憐下吏<pc>，</pc>以銓法選人有私罪<pc>，</pc>皆未聽磨勘<pc>，</pc>諭近臣<pc>：</pc>
-<pc>“</pc>凡‘門謝弗至’與‘對揚失儀’<pc>，</pc>其毋以為罪<pc>。</pc>
+<pc>“</pc>
+<quote>凡‘門謝弗至</quote>’與‘<quote>對揚失儀</quote>’<pc>，</pc>其毋以為罪<pc>。</pc>
 <pc>”</pc>又曰<pc>：</pc>
-<pc>“</pc>州縣秩卑<pc>，</pc>而長吏多鉤摭細故<pc>，</pc>文致之法<pc>，</pc>使不得自進<pc>，</pc>朕甚閔焉<pc>。</pc>
+<pc>“</pc>
+<quote>州縣秩卑<pc>，</pc>而長吏多鉤摭細故<pc>，</pc>文致之法<pc>，</pc>使不得自進<pc>，</pc>朕甚閔焉<pc>。</pc>
+</quote>
 <pc>”</pc>
 <term>宰相</term>王曾曰<pc>：</pc>
-<pc>“</pc>引對時<pc>，</pc>陛下酌其輕重而稍擢之<pc>，</pc>則下無滯才矣<pc>。</pc>
+<pc>“</pc>
+<quote>引對時<pc>，</pc>陛下酌其輕重而稍擢之<pc>，</pc>則下無滯才矣<pc>。</pc>
+</quote>
 <pc>”</pc>其後選人<pc>，</pc>有束鹿縣尉王得說<pc>，</pc>曆官寡過<pc>，</pc>書考最多而無保任者<pc>。</pc>帝察其孤貧<pc>，</pc>特擢為大理寺丞<pc>。</pc>天聖時<pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>文武臣僚<pc>，</pc>非有勳德善狀<pc>，</pc>不得非時進秩<pc>；</pc>非次罷免者<pc>，</pc>毋以轉官帶職為例<pc>。</pc>兩省以上<pc>，</pc>舊法<measure quantity="4" unit="years">
+<pc>“</pc>
+<quote>文武臣僚<pc>，</pc>非有勳德善狀<pc>，</pc>不得非時進秩<pc>；</pc>非次罷免者<pc>，</pc>毋以轉官帶職為例<pc>。</pc>兩省以上<pc>，</pc>舊法<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <num value="1">一</num>遷官<pc>，</pc>今具履曆聽旨<pc>。</pc>京朝官磨勘年限<pc>，</pc>有私罪及曆任嚐有罪<pc>，</pc>先以情重輕及勤績與舉者數奏聽旨<pc>；</pc>若無私犯而著最課及有舉者<pc>，</pc>皆第遷之<pc>。</pc>自請厘物務於京師<pc>，</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <num value="1">一</num>磨勘<pc>，</pc>因舉及選差勿拘<pc>。</pc>凡有善政異績<pc>，</pc>準事大小遷升<pc>，</pc>選人視此<pc>。</pc>
+</quote>
 <pc>”</pc>又定監物務入親民<pc>，</pc>次升通判<pc>，</pc>通判升知州<pc>，</pc>皆用舉者<pc>。</pc>舉數不足<pc>，</pc>毋輒關升<pc>。</pc>
 </p>
 </div>
 <div>
-<p>慶曆<measure quantity="3" unit="years">
+<p>
+<date notBefore="1041" notAfter="1048">慶曆</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>從輔臣範仲淹等奏定磨勘保任之法<pc>：</pc>自朝官至郎中<pc>、</pc>少卿<pc>，</pc>須清望官<measure quantity="5" unit="people">
 <num value="5">五</num>人</measure>保任<pc>，</pc>始得遷<pc>。</pc>其後<pc>，</pc>知諫院劉元瑜以為適長奔競<pc>，</pc>非所以養廉恥<pc>，</pc>乃罷之<pc>。</pc>
@@ -703,100 +900,131 @@
 <p>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
-<pc>，</pc>詔近臣論時政<pc>。</pc>翰林學士張方平言<pc>：</pc>
-<pc>“</pc>祖宗之時<pc>，</pc>文武官不立磨勘年歲<pc>，</pc>不為升遷次序<pc>。</pc>有才實者<pc>，</pc>從下位立見超擢<pc>，</pc>無才實者<pc>，</pc>守<num value="1">一</num>官<num value="10">十</num>餘年不轉<pc>。</pc>其任監當或知縣<pc>、</pc>通判<pc>、</pc>知州<pc>，</pc>至數任不遷<pc>。</pc>當時人皆自勉<pc>，</pc>非有勞效<pc>，</pc>知不得進<pc>。</pc>祥符之後<pc>，</pc>朝廷益循寬大<pc>，</pc>自監當入知縣<pc>，</pc>知縣入通判<pc>，</pc>通判入知州<pc>，</pc>皆以兩任為限<pc>；</pc>守官及<measure quantity="3" unit="years">
+<pc>，</pc>詔近臣論時政<pc>。</pc>翰林學士<persName>張方平</persName>言<pc>：</pc>
+<pc>“</pc>
+<quote>祖宗之時<pc>，</pc>文武官不立磨勘年歲<pc>，</pc>不為升遷次序<pc>。</pc>有才實者<pc>，</pc>從下位立見超擢<pc>，</pc>無才實者<pc>，</pc>守<num value="1">一</num>官<num value="10">十</num>餘年不轉<pc>。</pc>其任監當或知縣<pc>、</pc>通判<pc>、</pc>知州<pc>，</pc>至數任不遷<pc>。</pc>當時人皆自勉<pc>，</pc>非有勞效<pc>，</pc>知不得進<pc>。</pc>祥符之後<pc>，</pc>朝廷益循寬大<pc>，</pc>自監當入知縣<pc>，</pc>知縣入通判<pc>，</pc>通判入知州<pc>，</pc>皆以兩任為限<pc>；</pc>守官及<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>例得磨勘<pc>。</pc>先朝始行<pc>，</pc>未見有弊<pc>。</pc>及今年深<pc>，</pc>習以為常<pc>，</pc>皆謂分所宜得<pc>，</pc>無賢不肖<pc>，</pc>莫知所勸<pc>。</pc>願陛下稍革此製<pc>，</pc>其應磨勘敘遷<pc>，</pc>必有勞績<pc>；</pc>或特敕擇官保任者<pc>，</pc>即與轉遷<pc>；</pc>如無勞績又不因保任者<pc>，</pc>更增展年<pc>。</pc>其保任之法<pc>，</pc>須選擇清望有才識之人<pc>，</pc>命之舉官<pc>。</pc>如此<pc>，</pc>則是執政之臣舉清望官<pc>，</pc>委清望官舉親民官<pc>。</pc>凡官有闕<pc>，</pc>惟隨員數舉之<pc>，</pc>庶見急才愛民之意<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>嘉祐<measure quantity="6" unit="years">
+<p>
+<date notBefore="1056" notAfter="1063">嘉祐</date>
+<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>下詔曰<pc>：</pc>
-<pc>“</pc>朕觀古者治世<pc>，</pc>牧民之吏<pc>，</pc>多稱其官<pc>，</pc>而<num value="100">百</num>姓安其業<pc>。</pc>今求材之路非不廣<pc>，</pc>責善之法非不詳<pc>，</pc>而吏多失職<pc>，</pc>非稱所以為民之意<pc>。</pc>豈人材獨少而世變殊哉<pc>？</pc>殆不得久於其官故也<pc>。</pc>蓋智能才力之士<pc>，</pc>雖有興利除害<pc>、</pc>禁奸勸善之意<pc>，</pc>非假以歲月<pc>，</pc>則亦偷不為用<pc>，</pc>欲終厥功<pc>，</pc>其路無由<pc>。</pc>自今諸州縣守令<pc>，</pc>有清白不擾<pc>、</pc>政跡尤異而實惠及民者<pc>，</pc>本路若州連書同罪保舉<pc>，</pc>將政跡實狀以聞<pc>，</pc>中書門下察訪得實<pc>，</pc>許令再任<pc>。</pc>
+<pc>“</pc>
+<quote>朕觀古者治世<pc>，</pc>牧民之吏<pc>，</pc>多稱其官<pc>，</pc>而<num value="100">百</num>姓安其業<pc>。</pc>今求材之路非不廣<pc>，</pc>責善之法非不詳<pc>，</pc>而吏多失職<pc>，</pc>非稱所以為民之意<pc>。</pc>豈人材獨少而世變殊哉<pc>？</pc>殆不得久於其官故也<pc>。</pc>蓋智能才力之士<pc>，</pc>雖有興利除害<pc>、</pc>禁奸勸善之意<pc>，</pc>非假以歲月<pc>，</pc>則亦偷不為用<pc>，</pc>欲終厥功<pc>，</pc>其路無由<pc>。</pc>自今諸州縣守令<pc>，</pc>有清白不擾<pc>、</pc>政跡尤異而實惠及民者<pc>，</pc>本路若州連書同罪保舉<pc>，</pc>將政跡實狀以聞<pc>，</pc>中書門下察訪得實<pc>，</pc>許令再任<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>英宗治平<measure quantity="3" unit="years">
+<p>英宗<date notBefore="1064" notAfter="1067">治平</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>考課院言<pc>：</pc>
-<pc>“</pc>知磁州李田<pc>，</pc>再考在劣等<pc>。</pc>
-<pc>”</pc>降監淄州鹽酒稅務<pc>。</pc>坐考劣降等<pc>，</pc>自田始<pc>。</pc>考績<pc>，</pc>舊<pc>，</pc>審定殿最格法<pc>，</pc>自發運使率而下至於知州<pc>，</pc>皆歸考課院<pc>，</pc>專以監司所第等級為據<pc>；</pc>至考監司<pc>，</pc>則總其甄別部吏能否<pc>，</pc>副以采訪才行<pc>，</pc>合<num value="2">二</num>事為課<pc>，</pc>悉書<pc>“</pc>中等<pc>”</pc>
+<pc>“</pc>
+<quote>知<placeName>磁州</placeName>李田<pc>，</pc>再考在劣等<pc>。</pc>
+</quote>
+<pc>”</pc>降監<placeName>淄州</placeName>鹽酒稅務<pc>。</pc>坐考劣降等<pc>，</pc>自田始<pc>。</pc>考績<pc>，</pc>舊<pc>，</pc>審定殿最格法<pc>，</pc>自發運使率而下至於知州<pc>，</pc>皆歸考課院<pc>，</pc>專以監司所第等級為據<pc>；</pc>至考監司<pc>，</pc>則總其甄別部吏能否<pc>，</pc>副以采訪才行<pc>，</pc>合<num value="2">二</num>事為課<pc>，</pc>悉書<pc>“</pc>
+<quote>中等</quote>
+<pc>”</pc>
 <pc>，</pc>無高下<pc>。</pc>
 </p>
 </div>
 <div>
 <p>神宗即位<pc>，</pc>凡職皆有課<pc>，</pc>凡課皆責實<pc>。</pc>監司所上守臣課不占等者<pc>，</pc>展年降資<pc>；</pc>而治狀優異者<pc>，</pc>增秩賜金帛<pc>，</pc>以璽書獎勵之<pc>。</pc>若監司以上<pc>，</pc>則命<term>禦史</term>中丞<pc>、</pc>侍<term>禦史</term>考校<pc>。</pc>凡縣令之課<pc>，</pc>以斷獄平允<pc>、</pc>賦入不擾<pc>、</pc>均役屏盜<pc>、</pc>勸課農桑<pc>、</pc>振恤饑窮<pc>、</pc>導修水利<pc>、</pc>戶籍增衍<pc>、</pc>整治簿書為最<pc>，</pc>而德義清謹<pc>、</pc>公平勒恪為善<pc>，</pc>參考治行<pc>，</pc>分定上<pc>、</pc>中<pc>、</pc>下等<pc>。</pc>至其能否尤殊絕者<pc>，</pc>別立優劣<num value="2">二</num>等<pc>，</pc>歲上其狀<pc>，</pc>以詔賞罰<pc>。</pc>其入優劣者<pc>，</pc>賞罰尤峻<pc>。</pc>繼又令<pc>：</pc>
-<num value="1">一</num>路長吏<pc>，</pc>無甚臧否<pc>，</pc>不須別為優劣<num value="2">二</num>等<pc>，</pc>止因上<pc>、</pc>中<pc>、</pc>下<num value="3">三</num>等區別以聞<pc>。</pc>是時<pc>，</pc>內外官職<pc>，</pc>各從所隸司以考核<pc>，</pc>而中書皆置之籍<pc>。</pc>每歲竟<pc>，</pc>或有除授<pc>，</pc>則稽差殿最<pc>，</pc>取其尤甚者而進<name key="韓愈" type="zi">
-<persName>退之</persName>
-</name>
+<num value="1">一</num>路長吏<pc>，</pc>無甚臧否<pc>，</pc>不須別為優劣<num value="2">二</num>等<pc>，</pc>止因上<pc>、</pc>中<pc>、</pc>下<num value="3">三</num>等區別以聞<pc>。</pc>是時<pc>，</pc>內外官職<pc>，</pc>各從所隸司以考核<pc>，</pc>而中書皆置之籍<pc>。</pc>每歲竟<pc>，</pc>或有除授<pc>，</pc>則稽差殿最<pc>，</pc>取其尤甚者而進<persName>
+<name key="韓愈" type="zi">退之</name>
+</persName>
 <pc>。</pc>
 </p>
 </div>
 <div>
-<p>熙寧<measure quantity="5" unit="years">
+<p>
+<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>遂罷考課院<pc>。</pc>間遣使察訪<pc>，</pc>所至州縣<pc>，</pc>條其吏課<pc>。</pc>凡知州<pc>、</pc>通判上中書<pc>，</pc>縣令上司農<pc>，</pc>各注籍以相參考<pc>。</pc>惟侍從出守郡<pc>，</pc>聽不以考法<pc>，</pc>朝廷察其治焉<pc>。</pc>元豐元年<pc>，</pc>詔因勞效得酬賞<pc>，</pc>皆分<num value="5">五</num>等<pc>，</pc>有司受其等而差進之<pc>。</pc>初<num value="1">一</num>等<pc>，</pc>京朝官<pc>、</pc>大小使臣皆轉<num value="1">一</num>官<pc>，</pc>選人資曆深者改京朝官<pc>，</pc>資淺者循兩資<pc>。</pc>次<num value="2">二</num>等<pc>，</pc>隨其官高下升資<pc>，</pc>或減磨勘年<pc>。</pc>惟軍功<pc>、</pc>捕盜皆得改次等<pc>。</pc>京朝官自<num value="3">三</num>等以下<pc>，</pc>賞以差減<pc>。</pc>若<measure quantity="1" unit="people">
+<pc>，</pc>遂罷考課院<pc>。</pc>間遣使察訪<pc>，</pc>所至州縣<pc>，</pc>條其吏課<pc>。</pc>凡知州<pc>、</pc>通判上中書<pc>，</pc>縣令上司農<pc>，</pc>各注籍以相參考<pc>。</pc>惟侍從出守郡<pc>，</pc>聽不以考法<pc>，</pc>朝廷察其治焉<pc>。</pc>
+<date notBefore="1078" notAfter="1085">元豐</date>元年<pc>，</pc>詔因勞效得酬賞<pc>，</pc>皆分<num value="5">五</num>等<pc>，</pc>有司受其等而差進之<pc>。</pc>初<num value="1">一</num>等<pc>，</pc>京朝官<pc>、</pc>大小使臣皆轉<num value="1">一</num>官<pc>，</pc>選人資曆深者改京朝官<pc>，</pc>資淺者循兩資<pc>。</pc>次<num value="2">二</num>等<pc>，</pc>隨其官高下升資<pc>，</pc>或減磨勘年<pc>。</pc>惟軍功<pc>、</pc>捕盜皆得改次等<pc>。</pc>京朝官自<num value="3">三</num>等以下<pc>，</pc>賞以差減<pc>。</pc>若<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>而該兩賞<pc>，</pc>許累計其等以遷<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>詔<pc>：</pc>
 <pc>“</pc>
+<quote>
 <term>禦史</term>台<num value="6">六</num>察按官<pc>，</pc>以所糾劾官司稽違失職事多寡為殿最<pc>，</pc>中書置簿以時書之<pc>，</pc>任滿<pc>，</pc>取旨升黜<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>元祐初<pc>，</pc>
-<term>禦史</term>中丞劉摯言<pc>：</pc>
-<pc>“</pc>近者<pc>，</pc>朝廷主察名實<pc>，</pc>行綜核之政<pc>，</pc>下乃承之以刻<pc>；</pc>主行教化<pc>，</pc>擴寬洪之澤<pc>，</pc>而下乃為苟簡<pc>。</pc>先此追罪監司數人<pc>，</pc>為其掊斂害民耳<pc>；</pc>而昧者矯枉過正<pc>，</pc>乃欲以緩縱委靡為安靜<pc>。</pc>請申立監司考績之政<pc>，</pc>以常賦登耗<pc>、</pc>郡縣勤惰<pc>、</pc>刑獄當否<pc>、</pc>民俗休戚為之殿最<pc>，</pc>歲終用此以誅賞之<pc>。</pc>
+<p>
+<date notBefore="1086" notAfter="1094">元祐</date>初<pc>，</pc>
+<term>禦史</term>中丞<persName>劉摯</persName>言<pc>：</pc>
+<pc>“</pc>
+<quote>近者<pc>，</pc>朝廷主察名實<pc>，</pc>行綜核之政<pc>，</pc>下乃承之以刻<pc>；</pc>主行教化<pc>，</pc>擴寬洪之澤<pc>，</pc>而下乃為苟簡<pc>。</pc>先此追罪監司數人<pc>，</pc>為其掊斂害民耳<pc>；</pc>而昧者矯枉過正<pc>，</pc>乃欲以緩縱委靡為安靜<pc>。</pc>請申立監司考績之政<pc>，</pc>以常賦登耗<pc>、</pc>郡縣勤惰<pc>、</pc>刑獄當否<pc>、</pc>民俗休戚為之殿最<pc>，</pc>歲終用此以誅賞之<pc>。</pc>
+</quote>
 <pc>”</pc>文彥博又奏<pc>：</pc>
 <pc>“</pc>
+<quote>
 <pc>《</pc>
 <title>唐<num value="6">六</num>典</title>
 <pc>》</pc>所載<pc>，</pc>以德行<pc>、</pc>才用<pc>、</pc>勞效<num value="3">三</num>類察在選之士<pc>，</pc>參辨能否<pc>。</pc>今之選格特多<pc>，</pc>舉主<pc>、</pc>有軍功<pc>，</pc>斯為上矣<pc>。</pc>然舉主可求<pc>，</pc>軍功或妄<pc>，</pc>何可盡據<pc>？</pc>請委吏依仿<num value="3">三</num>類<pc>，</pc>第其才德功效<pc>，</pc>送中書門下覆驗<pc>，</pc>取其應選者<pc>，</pc>引對而去留之<pc>。</pc>
+</quote>
 <pc>”</pc>詔令近臣議<pc>，</pc>議者請用<pc>《</pc>
-<title>元豐考課令</title>
+<title>
+<date notBefore="1078" notAfter="1085">元豐</date>考課令</title>
 <pc>》</pc>
 <pc>，</pc>第為高下<pc>，</pc>以行升黜<pc>，</pc>歲毋過<measure quantity="5" unit="people">
 <num value="5">五</num>人</measure>
 <pc>。</pc>後改立縣令課<pc>，</pc>有<pc>“</pc>
-<num value="4">四</num>善<pc>”</pc>
+<quote>
+<num value="4">四</num>善</quote>
+<pc>”</pc>
 <pc>、</pc>
 <pc>“</pc>
-<num value="5">五</num>最<pc>”</pc>之目<pc>，</pc>及增損監司<pc>、</pc>轉運課格<pc>，</pc>守令為<num value="5">五</num>等減磨勘法<pc>。</pc>初<pc>，</pc>元祐嚐立吏<pc>、</pc>戶<pc>、</pc>刑<num value="3">三</num>部郎官課<pc>。</pc>崇寧間<pc>，</pc>言者乞仿周製<pc>，</pc>歲終委省<pc>、</pc>寺<pc>、</pc>監<pc>、</pc>
+<quote>
+<num value="5">五</num>最</quote>
+<pc>”</pc>之目<pc>，</pc>及增損監司<pc>、</pc>轉運課格<pc>，</pc>守令為<num value="5">五</num>等減磨勘法<pc>。</pc>初<pc>，</pc>
+<date notBefore="1086" notAfter="1094">元祐</date>嚐立吏<pc>、</pc>戶<pc>、</pc>刑<num value="3">三</num>部郎官課<pc>。</pc>崇寧間<pc>，</pc>言者乞仿周製<pc>，</pc>歲終委省<pc>、</pc>寺<pc>、</pc>監<pc>、</pc>
 <num value="6">六</num>曹之長<pc>，</pc>各考其屬<pc>，</pc>稽其官成<pc>，</pc>而<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>遂校其勤惰<pc>，</pc>行賞罰焉<pc>。</pc>
 </p>
 </div>
 <div>
-<p>大觀元年詔<pc>：</pc>
-<pc>“</pc>國家休養生民<pc>，</pc>垂<measure quantity="50" unit="years">
+<p>
+<date notBefore="1107" notAfter="1110">大觀</date>元年詔<pc>：</pc>
+<pc>“</pc>
+<quote>國家休養生民<pc>，</pc>垂<measure quantity="50" unit="years">
 <num value="50">百五十</num>年</measure>
 <pc>。</pc>生齒日繁<pc>，</pc>而戶部民籍曾不加益<pc>，</pc>州縣於進丁<pc>、</pc>入老<pc>，</pc>收落失實<pc>，</pc>以故課役不均<pc>，</pc>皆守令弛職<pc>，</pc>可申嚴<pc>《</pc>
 <title>考課法</title>
 <pc>》</pc>
 <pc>。</pc>
+</quote>
 <pc>”</pc>然其考法<pc>，</pc>因時所尚<pc>，</pc>以示誘抑<pc>。</pc>若勸學<pc>、</pc>墾田<pc>、</pc>植桑棗<pc>、</pc>振貸<pc>、</pc>葬枯<pc>、</pc>興發坑冶<pc>、</pc>奉詔無違<pc>、</pc>誘進道徒<pc>、</pc>賦稅趣辦<pc>、</pc>能按贓吏<pc>，</pc>皆因事而增品目<pc>，</pc>舊法固不易也<pc>。</pc>但奉行不皆良吏<pc>，</pc>以請謁移實者亦多<pc>。</pc>
 </p>
 </div>
 <div>
 <p>紹興<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>初詔監司<pc>、</pc>守臣舉行考課之法<pc>。</pc>時郡縣數罹兵燹<pc>，</pc>又命以<pc>“</pc>戶口增否<pc>”</pc>別立守令課<pc>，</pc>分上<pc>、</pc>中<pc>、</pc>下<num value="3">三</num>等<pc>，</pc>每等分<num value="3">三</num>甲置籍<pc>。</pc>守倅考縣令<pc>，</pc>監司考知州<pc>，</pc>考功會其已成<pc>，</pc>較其優劣而賞罰之<pc>。</pc>
+<pc>，</pc>初詔監司<pc>、</pc>守臣舉行考課之法<pc>。</pc>時郡縣數罹兵燹<pc>，</pc>又命以<pc>“</pc>
+<quote>戶口增否</quote>
+<pc>”</pc>別立守令課<pc>，</pc>分上<pc>、</pc>中<pc>、</pc>下<num value="3">三</num>等<pc>，</pc>每等分<num value="3">三</num>甲置籍<pc>。</pc>守倅考縣令<pc>，</pc>監司考知州<pc>，</pc>考功會其已成<pc>，</pc>較其優劣而賞罰之<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>立縣令<num value="4">四</num>課<pc>：</pc>曰糾正稅籍<pc>，</pc>團結民兵<pc>，</pc>勸課農桑<pc>，</pc>勸勉孝悌<pc>。</pc>
-<measure quantity="3" unit="years">
-<num value="3">三</num>歲</measure>
-<pc>，</pc>就緒者加旌賞<pc>，</pc>無善狀者汰之<pc>。</pc>
+<num value="3">三</num>歲<pc>，</pc>就緒者加旌賞<pc>，</pc>無善狀者汰之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>臣僚上言<pc>：</pc>
-<pc>“</pc>守令之治<pc>，</pc>其略有<num value="7">七</num>
+<pc>“</pc>
+<quote>守令之治<pc>，</pc>其略有<num value="7">七</num>
 <pc>：</pc>
 <num value="1">一</num>曰宣詔令<pc>，</pc>
 <num value="2">二</num>曰厚風俗<pc>，</pc>
@@ -806,8 +1034,10 @@
 <num value="6">六</num>曰興學校<pc>，</pc>
 <num value="7">七</num>曰實戶口<pc>。</pc>得人<pc>，</pc>則<num value="7">七</num>者皆舉<pc>。</pc>今之監司<pc>，</pc>實古<term>刺史</term>
 <pc>。</pc>比年守令奸貪<pc>，</pc>監司未嚐按發<pc>，</pc>玩弛之弊日甚<pc>。</pc>
+</quote>
 <pc>”</pc>而戶部侍郎張致遠亦言之<pc>。</pc>乃下詔戒飭監司<pc>，</pc>考察守令而舉按焉<pc>。</pc>頃之<pc>，</pc>有請令江<pc>、</pc>淮官久任<pc>，</pc>而課其功過者<pc>。</pc>帝曰<pc>：</pc>
-<pc>“</pc>朕昔為元帥時<pc>，</pc>見州縣官以<measure quantity="3" unit="years">
+<pc>“</pc>
+<quote>朕昔為元帥時<pc>，</pc>見州縣官以<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>為任<pc>，</pc>猶且<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>立威信<pc>，</pc>
 <measure quantity="2" unit="years">
@@ -815,13 +1045,17 @@
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>則務收人情<pc>，</pc>以為去計<pc>。</pc>今止以<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>為任<pc>，</pc>雖有葺治之心<pc>，</pc>蓋亦無暇矣<pc>，</pc>可如所奏<pc>。</pc>
+</quote>
 <pc>”</pc>是時<pc>，</pc>歲以<num value="15">十五</num>事考校監司<pc>，</pc>
 <num value="4">四</num>善<pc>、</pc>
 <num value="4">四</num>最考校縣令<pc>，</pc>違限不實者有罪<pc>。</pc>又詔監司<pc>，</pc>
-<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>再具所部知縣有無<pc>“</pc>善政顯著<pc>”</pc>
+<num value="1">一</num>歲再具所部知縣有無<pc>“</pc>
+<quote>善政顯著</quote>
+<pc>”</pc>
 <pc>、</pc>
-<pc>“</pc>繆懦不職<pc>”</pc>上之省<pc>。</pc>
+<pc>“</pc>
+<quote>繆懦不職</quote>
+<pc>”</pc>上之省<pc>。</pc>
 </p>
 </div>
 <div>
@@ -837,7 +1071,9 @@
 <measure quantity="27" unit="years">
 <num value="27">二十七</num>年</measure>
 <pc>，</pc>校書郎陳俊卿言<pc>：</pc>
-<pc>“</pc>古人各守<num value="1">一</num>官終身<pc>，</pc>使易地而居<pc>，</pc>未必盡其能也<pc>。</pc>今監司<pc>、</pc>帥守<pc>，</pc>小州換大州<pc>，</pc>東路易西路<pc>；</pc>朝廷<num value="100">百</num>執事<pc>，</pc>亦往往計日待遷<pc>，</pc>視所居之官<pc>，</pc>有如傳舍<pc>。</pc>望令有政術優異者<pc>，</pc>或增秩賜金<pc>，</pc>或待終秩而後遷<pc>。</pc>使久於其職<pc>，</pc>察其勤惰而升黜之<pc>。</pc>庶幾人安其分<pc>，</pc>而<num value="10000">萬</num>事舉矣<pc>。</pc>
+<pc>“</pc>
+<quote>古人各守<num value="1">一</num>官終身<pc>，</pc>使易地而居<pc>，</pc>未必盡其能也<pc>。</pc>今監司<pc>、</pc>帥守<pc>，</pc>小州換大州<pc>，</pc>東路易西路<pc>；</pc>朝廷<num value="100">百</num>執事<pc>，</pc>亦往往計日待遷<pc>，</pc>視所居之官<pc>，</pc>有如傳舍<pc>。</pc>望令有政術優異者<pc>，</pc>或增秩賜金<pc>，</pc>或待終秩而後遷<pc>。</pc>使久於其職<pc>，</pc>察其勤惰而升黜之<pc>。</pc>庶幾人安其分<pc>，</pc>而<num value="10000">萬</num>事舉矣<pc>。</pc>
+</quote>
 <pc>”</pc>詔<num value="3">三</num>省行之<pc>。</pc>
 </p>
 </div>
@@ -849,7 +1085,9 @@
 <num value="2">二</num>年</measure>
 <pc>，</pc>廷臣上言<pc>：</pc>
 <pc>“</pc>
-<date when="null">國朝</date>盛時<pc>，</pc>有京朝官考課<pc>，</pc>有幕職<pc>、</pc>州縣官考課<pc>，</pc>其後為審官院<pc>，</pc>為考課院<pc>，</pc>皆命中書或兩製臣僚校其能否<pc>，</pc>以施賞罰<pc>。</pc>望遵故事<pc>，</pc>應監司郡守朝辭日<pc>，</pc>別給禦前曆子<pc>。</pc>如薦賢才為幾人<pc>，</pc>若為治錢穀<pc>，</pc>若為理獄訟<pc>，</pc>興某利<pc>，</pc>除某害<pc>，</pc>各為條目<pc>，</pc>使之黽勉從事<pc>。</pc>每考<pc>，</pc>令當職官吏從實批書<pc>，</pc>代還<pc>，</pc>使藉手陛見<pc>，</pc>然後詔執事精加考核<pc>。</pc>其風績有聞者<pc>，</pc>優與增秩<pc>；</pc>所蒞無狀者<pc>，</pc>罰之無赦<pc>。</pc>則賢者效職<pc>，</pc>而中下之才<pc>，</pc>亦皆強於為善矣<pc>。</pc>
+<quote>
+<date notBefore="9999" notAfter="9999">國朝</date>盛時<pc>，</pc>有京朝官考課<pc>，</pc>有幕職<pc>、</pc>州縣官考課<pc>，</pc>其後為審官院<pc>，</pc>為考課院<pc>，</pc>皆命中書或兩製臣僚校其能否<pc>，</pc>以施賞罰<pc>。</pc>望遵故事<pc>，</pc>應監司郡守朝辭日<pc>，</pc>別給禦前曆子<pc>。</pc>如薦賢才為幾人<pc>，</pc>若為治錢穀<pc>，</pc>若為理獄訟<pc>，</pc>興某利<pc>，</pc>除某害<pc>，</pc>各為條目<pc>，</pc>使之黽勉從事<pc>。</pc>每考<pc>，</pc>令當職官吏從實批書<pc>，</pc>代還<pc>，</pc>使藉手陛見<pc>，</pc>然後詔執事精加考核<pc>。</pc>其風績有聞者<pc>，</pc>優與增秩<pc>；</pc>所蒞無狀者<pc>，</pc>罰之無赦<pc>。</pc>則賢者效職<pc>，</pc>而中下之才<pc>，</pc>亦皆強於為善矣<pc>。</pc>
+</quote>
 <pc>”</pc>帝乃命經筵官參照累朝考課之法<pc>，</pc>講而行之<pc>。</pc>
 </p>
 </div>
@@ -857,7 +1095,7 @@
 <p>淳熙<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>因臣僚言<pc>，</pc>沿邊<num value="7">七</num>路<pc>，</pc>每路以文臣<measure quantity="1" unit="people">
-<num value="1">一</num>人</measure>充安撫使以治民<pc>，</pc>武臣<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>充<term>安撫使</term>以治民<pc>，</pc>武臣<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>充都總管以治兵<pc>。</pc>分舉其職<pc>，</pc>各奏其功<pc>，</pc>任必加久<pc>，</pc>歲考優劣<pc>。</pc>
 <measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>視其規畫<pc>，</pc>
@@ -865,8 +1103,10 @@
 <num value="2">二</num>年</measure>視其成效<pc>，</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>視其大成<pc>，</pc>重議誅賞<pc>。</pc>臧否分為<num value="3">三</num>等<pc>：</pc>治效顯著者為臧<pc>，</pc>貪刻庸繆者為否<pc>，</pc>無功無過者為平<pc>。</pc>時天子留意黜陟<pc>，</pc>諸道莫敢不奉承<pc>。</pc>於是得實者皆增秩升擢<pc>，</pc>而監司<pc>、</pc>牧伯舉按稽緩者輒降黜<pc>。</pc>行之<num value="10">十</num>餘年<pc>，</pc>不免有弊<pc>，</pc>帝因諭輔臣曰<pc>：</pc>
-<pc>“</pc>臧否亦有喜怒之私<pc>，</pc>如諸司以為臧<pc>，</pc>
+<pc>“</pc>
+<quote>臧否亦有喜怒之私<pc>，</pc>如諸司以為臧<pc>，</pc>
 <num value="1">一</num>司以為否<pc>，</pc>必從眾為公<pc>，</pc>亦在精擇監司<pc>，</pc>而以台諫考察之<pc>，</pc>庶乎其可也<pc>。</pc>
+</quote>
 <pc>”</pc>光宗初<pc>，</pc>詔罷其令<pc>。</pc>
 </p>
 </div>
@@ -877,7 +1117,8 @@
 <div>
 <p>度宗鹹淳<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>命參酌舊製<pc>，</pc>凡文武官<num value="1">一</num>是以公勤<pc>、</pc>廉恪為主<pc>，</pc>而又職事修舉<pc>，</pc>斯為上等<pc>，</pc>公勤<pc>、</pc>廉恪各有<num value="1">一</num>長為中等<pc>，</pc>既無廉聲又多繆政者考下等<pc>。</pc>其要則以<term>禦史</term>台總帥閫<pc>、</pc>監司<pc>，</pc>監司總守<pc>、</pc>倅<pc>，</pc>守<pc>、</pc>倅總州縣屬官<pc>。</pc>餘如戎司及屯軍大壘<pc>，</pc>則總之製司<pc>；</pc>或無製司<pc>，</pc>則並各郡總管<pc>、</pc>鈐轄並總於帥司<pc>。</pc>以逐路所部州郡多寡之數<pc>，</pc>分隸轉運<pc>、</pc>提舉<pc>、</pc>提刑<num value="3">三</num>司<pc>。</pc>守倅月<num value="1">一</num>考州縣屬官<pc>，</pc>監司會所隸守倅<pc>，</pc>製司會戎司<pc>、</pc>軍壘<pc>，</pc>遵照舊製互用文移<pc>，</pc>會其兵甲<pc>、</pc>獄訟<pc>、</pc>金穀之數<pc>，</pc>及各司屬官書擬公事<pc>、</pc>拘榷錢物<pc>、</pc>招軍備器之數<pc>，</pc>次月置冊<pc>，</pc>各申<term>禦史</term>台上之課籍<pc>。</pc>俟至半年<pc>，</pc>類考較前<measure quantity="3" unit="years">
+<pc>，</pc>命參酌舊製<pc>，</pc>凡文武官<num value="1">一</num>是以公勤<pc>、</pc>廉恪為主<pc>，</pc>而又職事修舉<pc>，</pc>斯為上等<pc>，</pc>公勤<pc>、</pc>廉恪各有<num value="1">一</num>長為中等<pc>，</pc>既無廉聲又多繆政者考下等<pc>。</pc>其要則以<term>禦史</term>台總帥閫<pc>、</pc>監司<pc>，</pc>監司總守<pc>、</pc>倅<pc>，</pc>守<pc>、</pc>倅總州縣屬官<pc>。</pc>餘如戎司及屯軍大壘<pc>，</pc>則總之製司<pc>；</pc>或無製司<pc>，</pc>則並各郡總管<pc>、</pc>
+<term>鈐轄</term>並總於帥司<pc>。</pc>以逐路所部州郡多寡之數<pc>，</pc>分隸轉運<pc>、</pc>提舉<pc>、</pc>提刑<num value="3">三</num>司<pc>。</pc>守倅月<num value="1">一</num>考州縣屬官<pc>，</pc>監司會所隸守倅<pc>，</pc>製司會戎司<pc>、</pc>軍壘<pc>，</pc>遵照舊製互用文移<pc>，</pc>會其兵甲<pc>、</pc>獄訟<pc>、</pc>金穀之數<pc>，</pc>及各司屬官書擬公事<pc>、</pc>拘榷錢物<pc>、</pc>招軍備器之數<pc>，</pc>次月置冊<pc>，</pc>各申<term>禦史</term>台上之課籍<pc>。</pc>俟至半年<pc>，</pc>類考較前<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>定為<num value="3">三</num>等<pc>，</pc>中者無所賞罰<pc>，</pc>上者或轉官<pc>、</pc>或減磨勘<pc>，</pc>下者降官<pc>、</pc>展磨勘<pc>，</pc>各有等差<pc>。</pc>
 </p>
 </div>

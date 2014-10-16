@@ -24,13 +24,14 @@
 <body>
 <div type="chapter" n="174">
 <div>
-<p>
-<name key="null" type="null">◎食貨</name>上<num value="2">二</num>
+<p>◎食貨上<num value="2">二</num>
 <pc>（</pc>方田賦稅<pc>）</pc>
 </p>
 </div>
 <div>
-<p>方田神宗患田賦不均<pc>，</pc>熙寧<measure quantity="5" unit="years">
+<p>方田神宗患田賦不均<pc>，</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>重修定方田法<pc>，</pc>詔司農以<pc>《</pc>
 <title>均稅條約並式</title>
@@ -63,13 +64,17 @@
 </p>
 </div>
 <div>
-<p>元豐<measure quantity="5" unit="years">
+<p>
+<date notBefore="1078" notAfter="1085">元豐</date>
+<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>開封府言<pc>：</pc>
-<pc>“</pc>方田法<pc>，</pc>取稅之最不均縣先行<pc>，</pc>即<measure quantity="1" unit="prefecture">
+<pc>“</pc>
+<quote>方田法<pc>，</pc>取稅之最不均縣先行<pc>，</pc>即<measure quantity="1" unit="prefecture">
 <num value="1">一</num>州</measure>而定<num value="5">五</num>縣<pc>，</pc>歲不過兩縣<pc>，</pc>今府界<num value="19">十九</num>縣<pc>，</pc>準此行之<pc>，</pc>
 <measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>乃定<pc>。</pc>請歲方<num value="5">五</num>縣<pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>其後歲稔農隙乃行<pc>，</pc>而縣多山林者或行或否<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
@@ -81,14 +86,18 @@
 <num value="3">三</num>年</measure>
 <pc>，</pc>
 <term>宰臣</term>蔡京等言<pc>：</pc>
-<pc>“</pc>自開阡陌<pc>，</pc>使民得以田私相貿易<pc>，</pc>富者恃其有餘<pc>，</pc>厚立價以規利<pc>，</pc>貧者迫於不足<pc>，</pc>薄移稅以速售<pc>，</pc>而天下之賦調不平久矣<pc>。</pc>神宗講究方田利害<pc>，</pc>作法而推行之<pc>，</pc>方為之帳<pc>，</pc>而步畝高下丈尺不可隱<pc>；</pc>戶給之帖<pc>，</pc>而升合尺寸無所遺<pc>；</pc>以賣買<pc>，</pc>則民不能容其巧<pc>；</pc>以推收<pc>，</pc>則吏不能措其奸<pc>。</pc>今文籍具在<pc>，</pc>可舉而行<pc>。</pc>
+<pc>“</pc>
+<quote>自開阡陌<pc>，</pc>使民得以田私相貿易<pc>，</pc>富者恃其有餘<pc>，</pc>厚立價以規利<pc>，</pc>貧者迫於不足<pc>，</pc>薄移稅以速售<pc>，</pc>而天下之賦調不平久矣<pc>。</pc>神宗講究方田利害<pc>，</pc>作法而推行之<pc>，</pc>方為之帳<pc>，</pc>而步畝高下丈尺不可隱<pc>；</pc>戶給之帖<pc>，</pc>而升合尺寸無所遺<pc>；</pc>以賣買<pc>，</pc>則民不能容其巧<pc>；</pc>以推收<pc>，</pc>則吏不能措其奸<pc>。</pc>今文籍具在<pc>，</pc>可舉而行<pc>。</pc>
+</quote>
 <pc>”</pc>詔諸路提舉常平官選官習熟其法<pc>，</pc>諭州縣官吏各以豐稔日推行<pc>，</pc>自京西<pc>、</pc>北兩路始<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>指教官每<num value="3">三</num>縣加<num value="1">一</num>員<pc>，</pc>點檢官每路<num value="2">二</num>員<pc>。</pc>未幾<pc>，</pc>詔諸路添置指教官不得過<num value="3">三</num>員<pc>，</pc>又不專差點檢官<pc>，</pc>從提舉司於本路見任人內選差<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>詔罷方田<pc>。</pc>大觀<measure quantity="2" unit="years">
+<pc>，</pc>詔罷方田<pc>。</pc>
+<date notBefore="1107" notAfter="1110">大觀</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>複詔行之<pc>，</pc>
 <measure quantity="4" unit="years">
@@ -96,7 +105,9 @@
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>方田官吏非特妄增田稅<pc>，</pc>又兼不食之山方之<pc>，</pc>俾出芻草之直<pc>，</pc>民戶因時廢業失所<pc>。</pc>監司其悉改正<pc>，</pc>毋失其舊<pc>。</pc>
+<pc>“</pc>
+<quote>方田官吏非特妄增田稅<pc>，</pc>又兼不食之山方之<pc>，</pc>俾出芻草之直<pc>，</pc>民戶因時廢業失所<pc>。</pc>監司其悉改正<pc>，</pc>毋失其舊<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -104,11 +115,13 @@
 <p>政和<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>河北西路提舉常平司奏<pc>：</pc>
-<pc>“</pc>所在地色極多<pc>，</pc>不下<num value="100">百</num>數<pc>，</pc>及至均稅<pc>，</pc>不過<num value="10">十</num>等<pc>。</pc>第<num value="1">一</num>等雖出<num value="10">十</num>分之稅<pc>，</pc>地土肥沃<pc>，</pc>尚以為輕<pc>；</pc>第<num value="10">十</num>等隻均<num value="1">一</num>分<pc>，</pc>多是瘠鹵<pc>，</pc>出稅雖少<pc>，</pc>猶以為重<pc>。</pc>若不入等<pc>，</pc>則積多而至<num value="1">一</num>頃<pc>，</pc>止以柴蒿之直<pc>，</pc>為錢自<num value="100">一百</num>而至<num value="500">五百</num>
+<pc>“</pc>
+<quote>所在地色極多<pc>，</pc>不下<num value="100">百</num>數<pc>，</pc>及至均稅<pc>，</pc>不過<num value="10">十</num>等<pc>。</pc>第<num value="1">一</num>等雖出<num value="10">十</num>分之稅<pc>，</pc>地土肥沃<pc>，</pc>尚以為輕<pc>；</pc>第<num value="10">十</num>等隻均<num value="1">一</num>分<pc>，</pc>多是瘠鹵<pc>，</pc>出稅雖少<pc>，</pc>猶以為重<pc>。</pc>若不入等<pc>，</pc>則積多而至<num value="1">一</num>頃<pc>，</pc>止以柴蒿之直<pc>，</pc>為錢自<num value="100">一百</num>而至<num value="500">五百</num>
 <pc>，</pc>比次<num value="10">十</num>等<pc>，</pc>全不受稅<pc>；</pc>既收入等<pc>，</pc>但可耕之地便有<num value="1">一</num>分之稅<pc>，</pc>其間下色之地與柴蒿之地不相遠<pc>，</pc>乃<num value="1">一</num>例每畝均稅<num value="1">一</num>分<pc>，</pc>上輕下重<pc>。</pc>欲乞土色<num value="10">十</num>等如故外<pc>，</pc>折<num value="10">十</num>等之地再分上<pc>、</pc>中<pc>、</pc>下<num value="3">三</num>等<pc>，</pc>折畝均數<pc>。</pc>謂如第<num value="10">十</num>等地每<num value="10">十</num>畝合折第<num value="1">一</num>等<num value="1">一</num>畝<pc>，</pc>即<num value="10">十</num>等之上<pc>，</pc>受稅<num value="11">十一</num>
 <pc>，</pc>不改元則<pc>；</pc>
 <num value="10">十</num>等之中<pc>，</pc>數及<num value="15">十五</num>畝<pc>，</pc>
 <num value="10">十</num>等之下<pc>，</pc>數及<num value="20">二十</num>畝<pc>，</pc>方比上等受<num value="1">一</num>畝之稅<pc>，</pc>庶幾上下輕重皆均<pc>。</pc>
+</quote>
 <pc>”</pc>詔諸路概行其法<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
@@ -117,8 +130,10 @@
 </div>
 <div>
 <p>宣化元年<pc>，</pc>臣僚言<pc>：</pc>
-<pc>“</pc>方量官憚於跋履<pc>，</pc>並不躬親<pc>，</pc>行繵拍峰<pc>、</pc>驗定土色<pc>，</pc>
+<pc>“</pc>
+<quote>方量官憚於跋履<pc>，</pc>並不躬親<pc>，</pc>行繵拍峰<pc>、</pc>驗定土色<pc>，</pc>
 <num value="1">一</num>付之胥吏<pc>。</pc>致<term>禦史</term>台受訴<pc>，</pc>有<num value="200">二百</num>餘畝方為<num value="20">二十</num>畝者<pc>，</pc>有<num value="2">二</num>頃<num value="96">九十六</num>畝方為<num value="17">一十七</num>畝者<pc>，</pc>虔之瑞金縣是也<pc>。</pc>有租稅<num value="10">十</num>有<num value="3">三</num>錢而增至<num value="2">二</num>貫<num value="200">二百</num>者<pc>，</pc>有租稅<num value="27">二十七</num>錢則增至<num value="1">一</num>貫<num value="450">四百五十</num>者<pc>，</pc>虔之會昌縣者是也<pc>。</pc>詔望常平使者檢察<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
@@ -130,7 +145,7 @@
 <num value="6">六</num>月</measure>
 <pc>，</pc>秋輸毋過<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
-<pc>，</pc>遣使分道按率<pc>。</pc>其弊也<pc>，</pc>先期而苛斂<pc>，</pc>增額而繁征<pc>，</pc>至於<date when="null">
+<pc>，</pc>遣使分道按率<pc>。</pc>其弊也<pc>，</pc>先期而苛斂<pc>，</pc>增額而繁征<pc>，</pc>至於<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>極矣<pc>。</pc>
 </p>
 </div>
@@ -170,28 +185,35 @@
 <num value="3">三</num>曰茶<pc>、</pc>鹽<pc>，</pc>
 <num value="4">四</num>曰竹木<pc>、</pc>麻草<pc>、</pc>芻菜<pc>，</pc>
 <num value="5">五</num>曰果<pc>、</pc>藥<pc>、</pc>油<pc>、</pc>紙<pc>、</pc>薪<pc>、</pc>炭<pc>、</pc>漆<pc>、</pc>蠟<pc>，</pc>
-<num value="6">六</num>曰雜物<pc>。</pc>其輸有常處<pc>，</pc>而以有餘補不足<pc>，</pc>則移此輸彼<pc>，</pc>移近輸遠<pc>，</pc>謂之<pc>“</pc>支移<pc>”</pc>
-<pc>。</pc>其入有常物<pc>，</pc>而<num value="1">一</num>時所輸則變而取之<pc>，</pc>使其直輕重相當<pc>，</pc>謂之<pc>“</pc>折變<pc>”</pc>
+<num value="6">六</num>曰雜物<pc>。</pc>其輸有常處<pc>，</pc>而以有餘補不足<pc>，</pc>則移此輸彼<pc>，</pc>移近輸遠<pc>，</pc>謂之<pc>“</pc>
+<quote>支移</quote>
+<pc>”</pc>
+<pc>。</pc>其入有常物<pc>，</pc>而<num value="1">一</num>時所輸則變而取之<pc>，</pc>使其直輕重相當<pc>，</pc>謂之<pc>“</pc>
+<quote>折變</quote>
+<pc>”</pc>
 <pc>。</pc>其輸之遲速<pc>，</pc>視收成早暮而寬為之期<pc>，</pc>所以紓民力<pc>。</pc>諸州歲奏戶帳<pc>，</pc>具載其丁口<pc>，</pc>男夫<num value="20">二十</num>為丁<pc>，</pc>
 <num value="60">六十</num>為老<pc>。</pc>兩物折科物<pc>，</pc>非土地所宜而抑配者<pc>，</pc>禁之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>
-<date when="null">
+<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>以來<pc>，</pc>常檢視見墾田以定歲租<pc>。</pc>吏緣為奸<pc>，</pc>稅不均適<pc>，</pc>繇是<num value="100">百</num>姓失業<pc>，</pc>田多荒蕪<pc>。</pc>太祖即位<pc>，</pc>詔許民辟土<pc>，</pc>州縣毋得檢括<pc>，</pc>止以見佃為額<pc>。</pc>選官分蒞京畿倉瘐<pc>，</pc>及詣諸道<pc>，</pc>受民租調<pc>，</pc>有增羨者輒得罪<pc>，</pc>多入民租者或至棄市<pc>。</pc>
 </p>
 </div>
 <div>
-<p>舊諸州收稅畢<pc>，</pc>符屬縣追吏會鈔<pc>，</pc>縣吏厚斂裏胥以賂州之吏<pc>，</pc>裏胥複率於民<pc>，</pc>民甚苦之<pc>。</pc>建隆<measure quantity="4" unit="years">
+<p>舊諸州收稅畢<pc>，</pc>符屬縣追吏會鈔<pc>，</pc>縣吏厚斂裏胥以賂州之吏<pc>，</pc>裏胥複率於民<pc>，</pc>民甚苦之<pc>。</pc>
+<date notBefore="960" notAfter="963">建隆</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>乃下詔禁止<pc>。</pc>令諸州受租籍不得稱分<pc>、</pc>毫<pc>、</pc>合<pc>、</pc>龠<pc>、</pc>銖<pc>、</pc>厘<pc>、</pc>絲<pc>、</pc>忽<pc>，</pc>錢必成文<pc>，</pc>絹帛成尺<pc>，</pc>粟成升<pc>，</pc>絲綿成兩<pc>，</pc>薪蒿成束<pc>，</pc>金銀成錢<pc>。</pc>綢不滿半匹<pc>、</pc>絹不滿<num value="1">一</num>匹者<pc>，</pc>許計丈尺輸直<pc>，</pc>無得<num value="3">三</num>戶<pc>、</pc>
 <num value="5">五</num>戶聚合成匹<pc>，</pc>送納煩擾<pc>。</pc>民輸夏稅<pc>，</pc>所在遣縣尉部弓手於要路巡護<pc>，</pc>後聞擾民<pc>，</pc>罷之<pc>，</pc>止令鄉耆<pc>、</pc>壯丁防援<pc>。</pc>
 </p>
 </div>
 <div>
-<p>諸州稅籍<pc>，</pc>錄事參軍按視<pc>，</pc>判官振舉<pc>。</pc>形勢戶立別籍<pc>，</pc>通判專掌督之<pc>，</pc>
-<num value="2">二</num>稅須於<num value="3">三</num>限前半月畢輸<pc>。</pc>歲起納<num value="2">二</num>稅<pc>，</pc>前期令縣各造稅籍<pc>，</pc>具<num value="1">一</num>縣戶數<pc>、</pc>夏秋稅苗畝桑功及緣科物為帳<num value="1">一</num>
+<p>諸州稅籍<pc>，</pc>錄事參軍按<placeName>視</placeName>
+<pc>，</pc>判官振舉<pc>。</pc>形勢戶立別籍<pc>，</pc>通判專<placeName>掌</placeName>督之<pc>，</pc>
+<num value="2">二</num>稅須於<num value="3">三</num>限前半月畢輸<pc>。</pc>歲起納<num value="2">二</num>稅<pc>，</pc>前期<placeName>令</placeName>縣各造稅籍<pc>，</pc>具<num value="1">一</num>縣戶數<pc>、</pc>夏秋稅苗畝桑<placeName>功</placeName>及緣科物為帳<num value="1">一</num>
 <pc>，</pc>送州覆校定<pc>，</pc>用州印<pc>，</pc>藏長吏廳<pc>，</pc>縣籍亦用州印<pc>，</pc>給付令佐<pc>。</pc>造夏稅籍以<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -215,7 +237,7 @@
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <measure quantity="30" unit="days">
-<num value="30">三十</num>日</measure>畢<pc>。</pc>河北<pc>、</pc>河東諸州氣候差晚<pc>，</pc>
+<num value="30">三十</num>日</measure>畢<pc>。</pc>河北<pc>、</pc>河東諸州<placeName>氣</placeName>候差晚<pc>，</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <measure quantity="15" unit="days">
@@ -253,34 +275,47 @@
 </p>
 </div>
 <div>
-<p>太平興國<measure quantity="2" unit="years">
+<p>
+<date notBefore="976" notAfter="984">太平興國</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>江西轉運使言<pc>：</pc>
-<pc>“</pc>本路蠶桑數少<pc>，</pc>而金價頗低<pc>。</pc>今折徵<pc>，</pc>絹估少而傷民<pc>，</pc>金估多而傷官<pc>。</pc>金上等舊估兩<num value="10000">十千</num>
+<pc>，</pc>江西<term>轉運使</term>言<pc>：</pc>
+<pc>“</pc>
+<quote>本路蠶桑數少<pc>，</pc>而金價頗低<pc>。</pc>今折徵<pc>，</pc>絹估少而傷民<pc>，</pc>金估多而傷官<pc>。</pc>金上等舊估兩<num value="10000">十千</num>
 <pc>，</pc>今請估<num value="8000">八千</num>
 <pc>；</pc>絹上等舊估匹<num value="1000">一千</num>
 <pc>，</pc>今請估<num value="1300">一千三百</num>
 <pc>，</pc>餘以次增損<pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>鹹平<measure quantity="3" unit="years">
+<p>
+<date notBefore="998" notAfter="1003">鹹平</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>以刑部員外<pc>、</pc>直史館陳靖為京畿均田使<pc>，</pc>聽自擇京朝官<pc>，</pc>分縣據元額定稅<pc>，</pc>不得增收剩數<pc>；</pc>逃戶別立籍<pc>，</pc>令本府招誘歸業<pc>；</pc>桑功更不均檢<pc>，</pc>民戶廣令種植<pc>。</pc>尋聞居民弗諭朝旨<pc>，</pc>翦伐桑柘<pc>，</pc>即詔罷之<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>罷廣南西路轉運使馮漣上言<pc>：</pc>
-<pc>“</pc>廉<pc>、</pc>橫<pc>、</pc>賓<pc>、</pc>白州民雖墾田<pc>，</pc>未嚐輸送<pc>，</pc>已命官檢括<pc>，</pc>令盡出常租<pc>。</pc>
+<pc>，</pc>罷廣南西路<term>轉運使</term>馮漣上言<pc>：</pc>
+<pc>“</pc>
+<quote>廉<pc>、</pc>橫<pc>、</pc>賓<pc>、</pc>白州民雖墾田<pc>，</pc>未嚐輸送<pc>，</pc>已命官檢括<pc>，</pc>令盡出常租<pc>。</pc>
+</quote>
 <pc>”</pc>帝曰<pc>：</pc>
-<pc>“</pc>遠方之民<pc>，</pc>宜省徭賦<pc>。</pc>
+<pc>“</pc>
+<quote>遠方之民<pc>，</pc>宜省徭賦<pc>。</pc>
+</quote>
 <pc>”</pc>亟命停罷<pc>。</pc>知袁州何蒙請以金折本州<num value="2">二</num>稅<pc>，</pc>真宗曰<pc>：</pc>
-<pc>“</pc>若是<pc>，</pc>將盡廢耕農矣<pc>。</pc>
+<pc>“</pc>
+<quote>若是<pc>，</pc>將盡廢耕農矣<pc>。</pc>
+</quote>
 <pc>”</pc>不許<pc>。</pc>
 </p>
 </div>
 <div>
-<p>大中祥符初<pc>，</pc>連歲豐稔<pc>，</pc>邊儲有備<pc>，</pc>河北諸路稅賦<pc>，</pc>並聽於本州軍輸納<pc>。</pc>
+<p>
+<date notBefore="1008" notAfter="1016">大中祥符</date>初<pc>，</pc>連歲豐稔<pc>，</pc>邊儲有備<pc>，</pc>河北諸路稅賦<pc>，</pc>並聽於本州軍輸納<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>頒<pc>《</pc>
@@ -289,17 +324,21 @@
 <pc>。</pc>舊製<pc>，</pc>縣吏能招增戶口者<pc>，</pc>縣即升等<pc>，</pc>乃加其奉<pc>；</pc>至有析客戶為主戶者<pc>，</pc>雖登於籍<pc>，</pc>而賦稅無所增<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>詔禁之<pc>。</pc>雍熙初<pc>，</pc>嚐詔荊湖等路民輸丁錢<pc>，</pc>未成丁<pc>、</pc>已入老並身有廢疾者<pc>，</pc>免之<pc>。</pc>至是<pc>，</pc>又除兩浙<pc>、</pc>福建<pc>、</pc>荊湖<pc>、</pc>廣南舊輸身丁錢<pc>，</pc>歲凡<num value="450400">四十五萬四百</num>貫<pc>。</pc>
+<pc>，</pc>詔禁之<pc>。</pc>
+<date notBefore="984" notAfter="987">雍熙</date>初<pc>，</pc>嚐詔荊湖等路民輸丁錢<pc>，</pc>未成丁<pc>、</pc>已入老並身有廢疾者<pc>，</pc>免之<pc>。</pc>至是<pc>，</pc>又除兩浙<pc>、</pc>福建<pc>、</pc>荊湖<pc>、</pc>廣南舊輸身丁錢<pc>，</pc>歲凡<num value="450400">四十五萬四百</num>貫<pc>。</pc>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
 <pc>，</pc>詔諸路支移稅賦勿至兩次<pc>，</pc>仍許以粟<pc>、</pc>麥<pc>、</pc>蕎<pc>、</pc>菽互相折輸<pc>。</pc>
 </p>
 </div>
 <div>
-<p>凡歲賦<pc>，</pc>穀以石計<pc>，</pc>錢以緡計<pc>，</pc>帛以匹計<pc>，</pc>金銀<pc>、</pc>絲綿以兩計<pc>，</pc>槁秸<pc>、</pc>薪蒸以圍計<pc>，</pc>他物各以其數計<pc>。</pc>至道末<pc>，</pc>總<num value="70893000">七千八十九萬三千</num>
-<pc>；</pc>天禧<measure quantity="5" unit="years">
+<p>凡歲賦<pc>，</pc>穀以石計<pc>，</pc>錢以緡計<pc>，</pc>帛以匹計<pc>，</pc>金銀<pc>、</pc>絲綿以兩計<pc>，</pc>槁秸<pc>、</pc>薪蒸以圍計<pc>，</pc>他物各以其數計<pc>。</pc>
+<date notBefore="995" notAfter="997">至道</date>末<pc>，</pc>總<num value="70893000">七千八十九萬三千</num>
+<pc>；</pc>
+<date notBefore="1017" notAfter="1021">天禧</date>
+<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>視至道之數有增有減<pc>，</pc>總<num value="64530000">六千四百五十三萬</num>
+<pc>，</pc>視<date notBefore="995" notAfter="997">至道</date>之數有增有減<pc>，</pc>總<num value="64530000">六千四百五十三萬</num>
 <pc>。</pc>其折變及移輸比壤者<pc>，</pc>則視當時所須焉<pc>。</pc>
 </p>
 </div>
@@ -307,48 +346,75 @@
 <p>宋克平諸國<pc>，</pc>每以恤民為先務<pc>，</pc>累朝相承<pc>，</pc>凡無名苛細之斂<pc>，</pc>常加剗革<pc>，</pc>尺縑鬥粟<pc>，</pc>未聞有所增益<pc>。</pc>
 <num value="1">一</num>遇水旱徭役<pc>，</pc>則蠲除倚格<pc>，</pc>殆無虛歲<pc>，</pc>倚格者後或凶歉<pc>，</pc>亦輒蠲之<pc>。</pc>而又田製不立川畝轉易<pc>，</pc>丁口隱漏<pc>，</pc>兼並冒偽<pc>，</pc>未嚐考按<pc>，</pc>故賦入之利視前代為薄<pc>。</pc>丁謂嚐言<pc>：</pc>
 <num value="20">二十</num>而稅<num value="1">一</num>者有之<pc>，</pc>
-<num value="30">三十</num>而稅<num value="1">一</num>者有之<pc>。</pc>仁宗嗣位<pc>，</pc>首寬畿縣田賦<pc>，</pc>詔<num value="3">三</num>等以下戶毋遠輸<pc>。</pc>河中府<pc>、</pc>同華州請免支移<pc>，</pc>帝以問輔臣<pc>，</pc>對曰<pc>：</pc>
-<pc>“</pc>西鄙宿兵<pc>，</pc>非移用民賦則軍食不足<pc>。</pc>
+<num value="30">三十</num>而稅<num value="1">一</num>者有之<pc>。</pc>仁宗嗣位<pc>，</pc>首寬畿縣田賦<pc>，</pc>詔<num value="3">三</num>等以下戶毋遠輸<pc>。</pc>河中府<pc>、</pc>同<placeName>華州</placeName>請免支移<pc>，</pc>帝以問輔臣<pc>，</pc>對曰<pc>：</pc>
+<pc>“</pc>
+<quote>西鄙宿兵<pc>，</pc>非移用民賦則軍食不足<pc>。</pc>
+</quote>
 <pc>”</pc>特詔量減支移<pc>。</pc>
 </p>
 </div>
 <div>
 <p>
-<placeName>福州</placeName>王氏時有田<num value="1000">千</num>餘頃<pc>，</pc>謂之<pc>“</pc>官莊<pc>“</pc>
-<pc>，</pc>自太平興國中授券予民耕<pc>，</pc>歲使輸賦<pc>。</pc>至是<pc>，</pc>發運使方仲荀言<pc>：</pc>
+<placeName>福州</placeName>王氏時有田<num value="1000">千</num>餘頃<pc>，</pc>謂之<pc>“</pc>
+<quote>官莊<pc>“</pc>
+<pc>，</pc>自<date notBefore="976" notAfter="984">太平興國</date>中授券予民耕<pc>，</pc>歲使輸賦<pc>。</pc>至是<pc>，</pc>發運使方仲荀言<pc>：</pc>
 <pc>“</pc>此公田也<pc>，</pc>鬻之可得厚利<pc>。</pc>
-<pc>”</pc>遣尚書屯田員外郎幸惟慶領其事<pc>，</pc>凡售錢<num value="350000">三十五萬</num>餘緡<pc>，</pc>詔減緡錢<num value="3">三</num>之<num value="1">一</num>
+</quote>
+<pc>”</pc>遣尚書屯田<term>員外郎</term>幸惟慶領其事<pc>，</pc>凡售錢<num value="350000">三十五萬</num>餘緡<pc>，</pc>詔減緡錢<num value="3">三</num>之<num value="1">一</num>
 <pc>，</pc>期<measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>畢償<pc>。</pc>監察<term>禦史</term>朱諫以為傷民<pc>，</pc>不可<pc>。</pc>即而期盡<pc>，</pc>未償者猶<num value="128000">十二萬八千</num>餘緡<pc>，</pc>詔悉蠲之<pc>。</pc>後又詔公田重複取賦者皆罷<pc>。</pc>天聖時<pc>，</pc>貝州言<pc>：</pc>
-<pc>“</pc>民析居者例加稅<pc>，</pc>謂之‘罰稅’<pc>，</pc>他州無此比<pc>。</pc>
+<num value="3">三</num>年</measure>畢償<pc>。</pc>監察<term>禦史</term>朱諫以為傷民<pc>，</pc>不可<pc>。</pc>即而期盡<pc>，</pc>未償者猶<num value="128000">十二萬八千</num>餘緡<pc>，</pc>詔悉蠲之<pc>。</pc>後又詔公田重複取賦者皆罷<pc>。</pc>天聖時<pc>，</pc>
+<placeName>貝州</placeName>言<pc>：</pc>
+<pc>“</pc>
+<quote>民析居者例加稅<pc>，</pc>謂之‘罰稅</quote>’<pc>，</pc>他州無此比<pc>。</pc>
 <pc>”</pc>詔除之<pc>。</pc>自是<pc>，</pc>州縣有言稅之苛細無名者<pc>，</pc>蠲損甚眾<pc>。</pc>
 </p>
 </div>
 <div>
-<p>自<date when="null">唐</date>以來<pc>，</pc>民計田輸賦外<pc>，</pc>增取他物<pc>，</pc>複折為賦<pc>，</pc>謂之<pc>“</pc>雜變<pc>”</pc>
-<pc>，</pc>亦謂之<pc>“</pc>沿納<pc>”</pc>
+<p>自<date notBefore="9999" notAfter="9999">唐</date>以來<pc>，</pc>民計田輸賦外<pc>，</pc>增取他物<pc>，</pc>複折為賦<pc>，</pc>謂之<pc>“</pc>
+<quote>雜變</quote>
+<pc>”</pc>
+<pc>，</pc>亦謂之<pc>“</pc>
+<quote>沿納</quote>
+<pc>”</pc>
 <pc>。</pc>而名品煩細<pc>，</pc>其類不<num value="1">一</num>
 <pc>。</pc>官司歲附帳籍<pc>，</pc>並緣侵優<pc>，</pc>民以為患<pc>。</pc>明道中<pc>，</pc>帝躬耕籍田<pc>，</pc>因詔<num value="3">三</num>司以類並合<pc>。</pc>於是悉除諸名品<pc>，</pc>並為<num value="1">一</num>物<pc>，</pc>夏秋歲入<pc>，</pc>第分粗細<num value="2">二</num>色<pc>，</pc>
 <num value="100">百</num>姓便之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>州縣賦入有籍<pc>，</pc>歲<num value="1">一</num>置<pc>，</pc>謂之空行簿<pc>，</pc>以待歲中催科<pc>；</pc>閏年別置<pc>，</pc>謂之實行簿<pc>，</pc>以藏有司<pc>。</pc>天聖初<pc>，</pc>或言實行簿無用<pc>，</pc>而率民錢為擾<pc>，</pc>罷之<pc>。</pc>景祐元年<pc>，</pc>侍<term>禦史</term>韓瀆言<pc>：</pc>
-<pc>“</pc>天下賦入之繁<pc>，</pc>但存催科<num value="1">一</num>簿<pc>，</pc>
+<p>州縣賦入有籍<pc>，</pc>歲<num value="1">一</num>置<pc>，</pc>謂之空行簿<pc>，</pc>以待歲中催科<pc>；</pc>閏年別置<pc>，</pc>謂之實行簿<pc>，</pc>以藏有司<pc>。</pc>天聖初<pc>，</pc>或言實行簿無用<pc>，</pc>而率民錢為擾<pc>，</pc>罷之<pc>。</pc>
+<date notBefore="1034" notAfter="1038">景祐</date>元年<pc>，</pc>侍<term>禦史</term>韓瀆言<pc>：</pc>
+<pc>“</pc>
+<quote>天下賦入之繁<pc>，</pc>但存催科<num value="1">一</num>簿<pc>，</pc>
 <num value="1">一</num>有散亡<pc>，</pc>則耗登之數無從鉤考<pc>。</pc>請複置實行簿<pc>。</pc>
-<pc>”</pc>詔再閏<num value="1">一</num>造<pc>。</pc>至慶曆中複故<pc>。</pc>
+</quote>
+<pc>”</pc>詔再閏<num value="1">一</num>造<pc>。</pc>至<date notBefore="1041" notAfter="1048">慶曆</date>中複故<pc>。</pc>
 </p>
 </div>
 <div>
 <p>時患州縣賦役之煩<pc>，</pc>詔諸路上其數<pc>，</pc>俾<num value="2">二</num>府大臣合議蠲減<pc>。</pc>又詔曰<pc>：</pc>
-<pc>“</pc>稅籍有偽書逃徙<pc>，</pc>或因推割<pc>，</pc>用幸走移<pc>，</pc>若請占公田而不輸稅<pc>。</pc>如此之類<pc>，</pc>縣令<pc>、</pc>佐能究見其弊<pc>，</pc>以增賦入<pc>，</pc>量數議賞<pc>。</pc>
+<pc>“</pc>
+<quote>稅籍有偽書逃徙<pc>，</pc>或因推割<pc>，</pc>用幸走移<pc>，</pc>若請占公田而不輸稅<pc>。</pc>如此之類<pc>，</pc>縣令<pc>、</pc>佐能究見其弊<pc>，</pc>以增賦入<pc>，</pc>量數議賞<pc>。</pc>
+</quote>
 <pc>”</pc>既而諫官王素言<pc>：</pc>
-<pc>“</pc>天下田賦輕重不等<pc>，</pc>請均定<pc>。</pc>
+<pc>“</pc>
+<quote>天下田賦輕重不等<pc>，</pc>請均定<pc>。</pc>
+</quote>
 <pc>”</pc>而<persName>歐陽修</persName>亦言<pc>：</pc>
-<pc>“</pc>秘書丞孫琳嚐往洺州肥鄉縣<pc>，</pc>與大理寺丞郭諮以<num value="1000">千</num>步方田法括定民田<pc>，</pc>願詔<measure quantity="2" unit="people">
+<pc>“</pc>
+<quote>
+<term>秘書丞</term>孫琳嚐往<placeName>洺州</placeName>肥鄉縣<pc>，</pc>與大理寺丞郭諮以<num value="1000">千</num>步方田法括定民田<pc>，</pc>願詔<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>得任之<pc>。</pc>
+</quote>
 <pc>”</pc>
-<num value="3">三</num>司亦以為然<pc>，</pc>且請於亳<pc>、</pc>壽<pc>、</pc>蔡<pc>、</pc>汝<measure quantity="4" unit="prefectures">
+<num value="3">三</num>司亦以為然<pc>，</pc>且請於<placeName>亳</placeName>
+<pc>、</pc>
+<placeName>壽</placeName>
+<pc>、</pc>
+<placeName>蔡</placeName>
+<pc>、</pc>
+<placeName>汝</placeName>
+<measure quantity="4" unit="prefectures">
 <num value="4">四</num>州</measure>擇庀不均者均之<pc>。</pc>於是遣諮<placeName>蔡州</placeName>
 <pc>。</pc>諮首括<num value="1">一</num>縣<pc>，</pc>得田<num value="26930">二萬六千九百三十</num>餘頃<pc>，</pc>均其賦於民<pc>。</pc>既而諮言州縣多逃田<pc>，</pc>未可盡括<pc>，</pc>朝廷亦重勞人<pc>，</pc>遂罷<pc>。</pc>
 </p>
@@ -358,83 +424,120 @@
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>詔陝西特蠲之<pc>，</pc>且令後勿複取<pc>。</pc>既而詔河東亦然<pc>。</pc>又令諸路轉運司<pc>：</pc>
-<pc>“</pc>支移<pc>、</pc>折變<pc>，</pc>前期半歲書於榜以諭民<pc>，</pc>有未便者聽自言<pc>，</pc>主者裁之<pc>。</pc>
-<pc>”</pc>皇祐中<pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>廣西賦布<pc>，</pc>匹為錢<num value="200">二百</num>
+<pc>“</pc>
+<quote>支移<pc>、</pc>折變<pc>，</pc>前期半歲書於榜以諭民<pc>，</pc>有未便者聽自言<pc>，</pc>主者裁之<pc>。</pc>
+</quote>
+<pc>”</pc>
+<date notBefore="1049" notAfter="1054">皇祐</date>中<pc>，</pc>詔<pc>：</pc>
+<pc>“</pc>
+<quote>廣西賦布<pc>，</pc>匹為錢<num value="200">二百</num>
 <pc>。</pc>如聞有司擅損其價<pc>，</pc>重困遠人<pc>，</pc>宜令複故<pc>。</pc>
+</quote>
 <pc>”</pc>州郡歲常先奏雨足歲豐<pc>，</pc>後雖災害<pc>，</pc>不敢上聞<pc>，</pc>故民賦罕得蠲者<pc>，</pc>乃下詔申飭之<pc>。</pc>又損開封諸縣田賦<pc>，</pc>視舊額<num value="10">十</num>之<num value="3">三</num>
 <pc>，</pc>命著於法<pc>。</pc>
 </p>
 </div>
 <div>
-<p>支移<pc>、</pc>折變<pc>，</pc>貧弱者尤以為患<pc>。</pc>景祐初<pc>，</pc>嚐詔戶在第<num value="9">九</num>等免之<pc>，</pc>後孤獨戶亦皆免<pc>。</pc>至是<pc>，</pc>因下赦書<pc>，</pc>責轉運司裁損<pc>，</pc>歲終條上<pc>。</pc>其後赦書數以為言<pc>，</pc>又令折科為平估<pc>，</pc>毋得害農<pc>。</pc>久之<pc>，</pc>複詔曰<pc>：</pc>
-<pc>“</pc>如聞諸路比言折科民賦<pc>，</pc>多以所折複變他物<pc>，</pc>或增取其直<pc>，</pc>重困良農<pc>。</pc>雖屢戒敕<pc>，</pc>莫能奉宣詔令<pc>。</pc>自今有此<pc>，</pc>州長吏即時上聞<pc>。</pc>
+<p>支移<pc>、</pc>折變<pc>，</pc>貧弱者尤以為患<pc>。</pc>
+<date notBefore="1034" notAfter="1038">景祐</date>初<pc>，</pc>嚐詔戶在第<num value="9">九</num>等免之<pc>，</pc>後孤獨戶亦皆免<pc>。</pc>至是<pc>，</pc>因下赦書<pc>，</pc>責轉運司裁損<pc>，</pc>歲終條上<pc>。</pc>其後赦書數以為言<pc>，</pc>又令折科為平估<pc>，</pc>毋得害農<pc>。</pc>久之<pc>，</pc>複詔曰<pc>：</pc>
+<pc>“</pc>
+<quote>如聞諸路比言折科民賦<pc>，</pc>多以所折複變他物<pc>，</pc>或增取其直<pc>，</pc>重困良農<pc>。</pc>雖屢戒敕<pc>，</pc>莫能奉宣詔令<pc>。</pc>自今有此<pc>，</pc>州長吏即時上聞<pc>。</pc>
+</quote>
 <pc>”</pc>然有司規聚斂<pc>，</pc>罕能承帝意焉<pc>。</pc>
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>湖<pc>、</pc>廣<pc>、</pc>閩<pc>、</pc>浙因舊製歲斂丁身錢米<pc>，</pc>大中祥符間<pc>，</pc>詔除丁錢<pc>，</pc>而米輸如故<pc>。</pc>至天聖中<pc>，</pc>始並除婺<pc>、</pc>秀<measure quantity="2" unit="prefectures">
-<num value="2">二</num>州</measure>丁錢<pc>。</pc>後龐籍請罷漳<pc>、</pc>泉<pc>、</pc>興化軍丁米<pc>，</pc>有司持不可<pc>。</pc>皇祐<measure quantity="3" unit="years">
+<p>初<pc>，</pc>湖<pc>、</pc>廣<pc>、</pc>閩<pc>、</pc>浙因舊製歲斂丁身錢米<pc>，</pc>
+<date notBefore="1008" notAfter="1016">大中祥符</date>間<pc>，</pc>詔除丁錢<pc>，</pc>而米輸如故<pc>。</pc>至天聖中<pc>，</pc>始並除<placeName>婺</placeName>
+<pc>、</pc>秀<measure quantity="2" unit="prefectures">
+<num value="2">二</num>州</measure>丁錢<pc>。</pc>後<persName>龐籍</persName>請罷漳<pc>、</pc>泉<pc>、</pc>興化軍丁米<pc>，</pc>有司持不可<pc>。</pc>
+<date notBefore="1049" notAfter="1054">皇祐</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>帝命<num value="3">三</num>司首減郴永州<pc>、</pc>桂陽監丁米<pc>，</pc>以最下數<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>為準<pc>，</pc>歲減<num value="10">十</num>餘<num value="10000">萬</num>石<pc>。</pc>既而漳<pc>、</pc>泉<pc>、</pc>興化亦第損之<pc>。</pc>嘉祐<measure quantity="4" unit="years">
+<pc>，</pc>帝命<num value="3">三</num>司首減郴<placeName>永州</placeName>
+<pc>、</pc>桂陽監丁米<pc>，</pc>以最下數<num value="1">一</num>歲為準<pc>，</pc>歲減<num value="10">十</num>餘<num value="10000">萬</num>石<pc>。</pc>既而漳<pc>、</pc>泉<pc>、</pc>興化亦第損之<pc>。</pc>
+<date notBefore="1056" notAfter="1063">嘉祐</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>複命轉運司裁定郴<pc>、</pc>永<pc>、</pc>桂陽<pc>、</pc>衡<pc>、</pc>道州所輸丁米及錢絹雜物<pc>，</pc>無業者馳之<pc>，</pc>有業者減半<pc>；</pc>後雖進丁<pc>，</pc>勿複增取<pc>。</pc>時廣南猶或輸丁錢<pc>，</pc>亦命轉運司條上<pc>。</pc>自是所輸無幾矣<pc>。</pc>
 </p>
 </div>
 <div>
-<p>自郭諮均稅之法罷<pc>，</pc>論者謂朝廷徒恤<num value="1">一</num>時之勞<pc>，</pc>而失經遠之慮<pc>。</pc>至皇祐中<pc>，</pc>天下墾田視景德增<num value="417000">四十一萬七千</num>餘頃<pc>，</pc>而歲入<num value="9">九</num>穀乃減<num value="718000">七十一萬八千</num>餘石<pc>，</pc>蓋田賦不均<pc>，</pc>其弊如此<pc>。</pc>後田京知滄州<pc>，</pc>均無棣田<pc>，</pc>蔡挺知博州<pc>，</pc>均聊城<pc>、</pc>高塘田<pc>；</pc>歲增賦穀帛之類<pc>，</pc>無棣總<num value="1152">一千一百五十二</num>
+<p>自郭諮均稅之法罷<pc>，</pc>論者謂朝廷徒恤<num value="1">一</num>時之勞<pc>，</pc>而失經遠之慮<pc>。</pc>至<date notBefore="1049" notAfter="1054">皇祐</date>中<pc>，</pc>天下墾田視<date notBefore="1004" notAfter="1007">景德</date>增<num value="417000">四十一萬七千</num>餘頃<pc>，</pc>而歲入<num value="9">九</num>穀乃減<num value="718000">七十一萬八千</num>餘石<pc>，</pc>蓋田賦不均<pc>，</pc>其弊如此<pc>。</pc>後田京知<placeName>滄州</placeName>
+<pc>，</pc>均無棣田<pc>，</pc>蔡挺知<placeName>博州</placeName>
+<pc>，</pc>均聊城<pc>、</pc>高塘田<pc>；</pc>歲增賦穀帛之類<pc>，</pc>無棣總<num value="1152">一千一百五十二</num>
 <pc>，</pc>聊城<pc>、</pc>高塘總<num value="4847">萬四千八百四十七</num>
-<pc>，</pc>而滄州之民不以為便<pc>，</pc>詔輸如舊<pc>。</pc>嘉祐<measure quantity="5" unit="years">
+<pc>，</pc>而<placeName>滄州</placeName>之民不以為便<pc>，</pc>詔輸如舊<pc>。</pc>
+<date notBefore="1056" notAfter="1063">嘉祐</date>
+<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>複詔均定<pc>，</pc>遣官分行諸路<pc>，</pc>而秘書丞高本在遣中<pc>，</pc>獨以為不可均<pc>，</pc>才均數郡田而止<pc>。</pc>
+<pc>，</pc>複詔均定<pc>，</pc>遣官分行諸路<pc>，</pc>而<term>秘書丞</term>高本在遣中<pc>，</pc>獨以為不可均<pc>，</pc>才均數郡田而止<pc>。</pc>
 </p>
 </div>
 <div>
-<p>景德中<pc>，</pc>賦入之數總<num value="49169900">四千九百一十六萬九千九百</num>
-<pc>，</pc>至皇祐中<pc>，</pc>增<num value="4418665">四百四十一萬八千六百六十五</num>
-<pc>，</pc>治平中<pc>，</pc>又增<num value="14179364">一千四百一十七萬九千三百六十四</num>
-<pc>。</pc>其以赦令蠲除以便於民<pc>，</pc>若逃移<pc>、</pc>戶絕不追者<pc>，</pc>景德中總<num value="6829700">六百八十二萬九千七百</num>
-<pc>，</pc>皇祐中<num value="338457">三十三萬八千四百五十七</num>
-<pc>，</pc>治平中<num value="12298700">一千二百二十九萬八千七百</num>
+<p>
+<date notBefore="1004" notAfter="1007">景德</date>中<pc>，</pc>賦入之數總<num value="49169900">四千九百一十六萬九千九百</num>
+<pc>，</pc>至<date notBefore="1049" notAfter="1054">皇祐</date>中<pc>，</pc>增<num value="4418665">四百四十一萬八千六百六十五</num>
+<pc>，</pc>
+<date notBefore="1064" notAfter="1067">治平</date>中<pc>，</pc>又增<num value="14179364">一千四百一十七萬九千三百六十四</num>
+<pc>。</pc>其以赦令蠲除以便於民<pc>，</pc>若逃移<pc>、</pc>戶絕不追者<pc>，</pc>
+<date notBefore="1004" notAfter="1007">景德</date>中總<num value="6829700">六百八十二萬九千七百</num>
+<pc>，</pc>
+<date notBefore="1049" notAfter="1054">皇祐</date>中<num value="338457">三十三萬八千四百五十七</num>
+<pc>，</pc>
+<date notBefore="1064" notAfter="1067">治平</date>中<num value="12298700">一千二百二十九萬八千七百</num>
 <pc>。</pc>每歲以災害蠲除者<pc>，</pc>又不在是焉<pc>。</pc>
 </p>
 </div>
 <div>
-<p>神宗留意農賦<pc>，</pc>湖<pc>、</pc>廣之民舊歲輸丁米<pc>，</pc>大中祥符以後屢裁損<pc>，</pc>猶不均<pc>。</pc>熙寧<measure quantity="4" unit="years">
+<p>神宗留意農賦<pc>，</pc>湖<pc>、</pc>廣之民舊歲輸丁米<pc>，</pc>
+<date notBefore="1008" notAfter="1016">大中祥符</date>以後屢裁損<pc>，</pc>猶不均<pc>。</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>乃遣屯田員外郎周之純往廣東相度均之<pc>。</pc>元豐<measure quantity="3" unit="years">
+<pc>，</pc>乃遣屯田<term>員外郎</term>周之純往廣東相度均之<pc>。</pc>
+<date notBefore="1078" notAfter="1085">元豐</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>詔<pc>：</pc>諸路支移折稅<pc>，</pc>並具所行月日<pc>，</pc>上之中書<pc>。</pc>初<pc>，</pc>熙寧<measure quantity="8" unit="years">
+<pc>，</pc>詔<pc>：</pc>諸路支移折稅<pc>，</pc>並具所行月日<pc>，</pc>上之中書<pc>。</pc>初<pc>，</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
-<pc>，</pc>詔支移<num value="2">二</num>稅於起納錢半歲諭民<pc>，</pc>使民宿辦<pc>，</pc>無倉卒勞費<pc>。</pc>時有司往往緩期<pc>，</pc>故申約之<pc>。</pc>州縣又或今民輸錢<pc>，</pc>謂之<pc>“</pc>折斛錢<pc>”</pc>
-<pc>，</pc>而糴賤頗用傷農<pc>。</pc>海南<measure quantity="4" unit="prefectures">
-<num value="4">四</num>州</measure>軍稅籍殘缺<pc>，</pc>吏多增損<pc>，</pc>輒移稅入他戶<pc>，</pc>代輸者類不能自明<pc>。</pc>瓊州<pc>、</pc>昌化軍丁稅米<pc>，</pc>歲移輸朱崖軍<pc>，</pc>道遠<pc>，</pc>民以為苦<pc>。</pc>至是<pc>，</pc>用體量安撫朱初平等議<pc>，</pc>根括<measure quantity="4" unit="prefectures">
+<pc>，</pc>詔支移<num value="2">二</num>稅於起納錢半歲諭民<pc>，</pc>使民宿辦<pc>，</pc>無倉卒勞費<pc>。</pc>時有司往往緩期<pc>，</pc>故申約之<pc>。</pc>州縣又或今民輸錢<pc>，</pc>謂之<pc>“</pc>
+<quote>折斛錢</quote>
+<pc>”</pc>
+<pc>，</pc>而糴賤頗用<placeName>傷</placeName>農<pc>。</pc>海南<measure quantity="4" unit="prefectures">
+<num value="4">四</num>州</measure>軍稅籍殘缺<pc>，</pc>吏多增損<pc>，</pc>輒移稅入他戶<pc>，</pc>代輸者類不能自明<pc>。</pc>瓊州<pc>、</pc>昌化軍丁稅米<pc>，</pc>歲移輸朱崖軍<pc>，</pc>道遠<pc>，</pc>民以為苦<pc>。</pc>至是<pc>，</pc>用體量安撫朱初平等議<pc>，</pc>
+<placeName>根</placeName>括<measure quantity="4" unit="prefectures">
 <num value="4">四</num>州</measure>軍稅賦舊額<pc>，</pc>存其正數<pc>；</pc>
 <measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>丁稅米止令輸錢於朱崖自糴以便民<pc>。</pc>
 </p>
 </div>
 <div>
-<p>權發遣<num value="3">三</num>司戶部判官李琮根究逃絕稅役<pc>，</pc>江<pc>、</pc>浙所得逃戶凡<num value="401300">四十萬一千三百</num>有奇<pc>，</pc>為書上之<pc>。</pc>明年<pc>，</pc>除琮淮南轉運副使<pc>。</pc>兩路凡得逃絕<pc>、</pc>詭名挾佃<pc>、</pc>簿籍不載並闕丁凡<num value="475900">四十七萬五千九百</num>有奇<pc>，</pc>正稅並積負凡<num value="922200">九十二萬二千二百</num>貫<pc>、</pc>石<pc>、</pc>匹<pc>、</pc>兩有奇<pc>。</pc>琮蓋用貫石<num value="10000">萬</num>數立賞<pc>，</pc>以誘所委之吏<pc>，</pc>增加浩大<pc>，</pc>
+<p>權發遣<num value="3">三</num>司戶部判官李琮根究逃絕稅役<pc>，</pc>江<pc>、</pc>浙所得逃戶凡<num value="401300">四十萬一千三百</num>有奇<pc>，</pc>為書上之<pc>。</pc>明年<pc>，</pc>除琮淮南<term>轉運副使</term>
+<pc>。</pc>兩路凡得逃絕<pc>、</pc>詭名挾佃<pc>、</pc>簿籍不載並闕丁凡<num value="475900">四十七萬五千九百</num>有奇<pc>，</pc>正稅並積負凡<num value="922200">九十二萬二千二百</num>貫<pc>、</pc>石<pc>、</pc>匹<pc>、</pc>兩有奇<pc>。</pc>琮蓋用貫石<num value="10000">萬</num>數立賞<pc>，</pc>以誘所委之吏<pc>，</pc>增加浩大<pc>，</pc>
 <num value="3">三</num>路之民<pc>，</pc>大被其害<pc>。</pc>而唐州亦增民賦<pc>，</pc>人情騷然<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>
 <term>禦史</term>翟思言<pc>：</pc>
-<pc>“</pc>始<pc>，</pc>趙尚寬為唐守<pc>，</pc>勸民墾田<pc>，</pc>高賦繼之<pc>，</pc>流民自占者眾<pc>，</pc>凡<num value="100">百</num>畝起稅<num value="4">四</num>畝而已<pc>。</pc>稅輕而民樂輸<pc>，</pc>境內殆無曠土<pc>。</pc>近聞轉運司辟土<num value="100">百</num>畝增至<num value="20">二十</num>畝<pc>，</pc>恐其勢再致轉徙<pc>。</pc>望戒飭使者<pc>，</pc>量加以寬民<pc>。</pc>
+<pc>“</pc>
+<quote>始<pc>，</pc>趙尚寬為唐守<pc>，</pc>勸民墾田<pc>，</pc>高賦繼之<pc>，</pc>流民自占者眾<pc>，</pc>凡<num value="100">百</num>畝起稅<num value="4">四</num>畝而已<pc>。</pc>稅輕而民樂輸<pc>，</pc>境內殆無曠土<pc>。</pc>近聞轉運司辟土<num value="100">百</num>畝增至<num value="20">二十</num>畝<pc>，</pc>恐其勢再致轉徙<pc>。</pc>望戒飭使者<pc>，</pc>量加以寬民<pc>。</pc>
+</quote>
 <pc>”</pc>帝每遇水旱<pc>，</pc>輒輕馳賦租<pc>；</pc>或因赦宥<pc>，</pc>又蠲放<pc>、</pc>倚閣未嚐絕<pc>；</pc>賦輸遠方不均<pc>，</pc>皆遣使按之<pc>，</pc>率以為常<pc>。</pc>
 </p>
 </div>
 <div>
 <p>哲宗嗣位<pc>，</pc>宣仁太後同聽政<pc>，</pc>務行裕民之政<pc>，</pc>凡民有負<pc>，</pc>多所寬減<pc>。</pc>患天下積欠名目煩多<pc>，</pc>法令不<num value="1">一</num>
-<pc>，</pc>王岩叟為開封<pc>，</pc>請隨等第立貫<num value="100">百</num>為催法<pc>。</pc>兗州鄒令張文仲議其不便<pc>，</pc>遂令<num value="10">十</num>分為率<pc>，</pc>歲隨夏秋料帶納<num value="1">一</num>分<pc>，</pc>是為<measure quantity="5" unit="years">
+<pc>，</pc>王岩叟為開封<pc>，</pc>請隨等第立貫<num value="100">百</num>為催法<pc>。</pc>
+<placeName>兗州</placeName>鄒令張文仲議其不便<pc>，</pc>遂令<num value="10">十</num>分為率<pc>，</pc>歲隨夏秋料帶納<num value="1">一</num>分<pc>，</pc>是為<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <num value="10">十</num>料之法<pc>。</pc>
 </p>
 </div>
 <div>
-<p>陝西轉運使呂太忠令農戶支移<pc>，</pc>鬥輸腳錢<num value="18">十八</num>
+<p>陝西<term>轉運使</term>呂太忠令農戶支移<pc>，</pc>鬥輸腳錢<num value="18">十八</num>
 <pc>。</pc>
 <term>禦史</term>劾之<pc>，</pc>下提刑司體量<pc>，</pc>均其輕重之等<pc>。</pc>以稅賦戶籍在第<num value="1">一</num>等<pc>、</pc>第<num value="2">二</num>等者支移<num value="300">三百</num>裏<pc>，</pc>
 <num value="3">三</num>等<pc>、</pc>
@@ -443,22 +546,31 @@
 </p>
 </div>
 <div>
-<p>紹聖中<pc>，</pc>嚐詔郡縣貨物用足錢<pc>、</pc>省陌不等<pc>，</pc>折變宜用中等<pc>。</pc>俄以所在時估實值多寡不齊<pc>，</pc>難概立法<pc>，</pc>命仍舊焉<pc>。</pc>言者謂<pc>：</pc>
-<pc>“</pc>欲民不流<pc>，</pc>不若多積穀<pc>；</pc>欲多積穀<pc>，</pc>不若推行折納糶糴之法<pc>。</pc>今常平雖有折納之法<pc>，</pc>止用中價<pc>，</pc>故民不樂輸<pc>。</pc>若依和糴以實價折之<pc>，</pc>則無損於民<pc>。</pc>
+<p>
+<date notBefore="1094" notAfter="1098">紹聖</date>中<pc>，</pc>嚐詔郡縣貨物用足錢<pc>、</pc>省陌不等<pc>，</pc>折變宜用中等<pc>。</pc>俄以所在時估實值多寡不齊<pc>，</pc>難概立法<pc>，</pc>命仍舊焉<pc>。</pc>言者謂<pc>：</pc>
+<pc>“</pc>
+<quote>欲民不流<pc>，</pc>不若多積穀<pc>；</pc>欲多積穀<pc>，</pc>不若推行折納糶糴之法<pc>。</pc>今常平雖有折納之法<pc>，</pc>止用中價<pc>，</pc>故民不樂輸<pc>。</pc>若依和糴以實價折之<pc>，</pc>則無損於民<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>崇寧<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>諸路歲稔<pc>，</pc>遂行增價折納之法<pc>，</pc>支移<pc>、</pc>折變<pc>、</pc>科率<pc>、</pc>配買<pc>，</pc>皆以熙寧法從事<pc>，</pc>民以穀菽<pc>、</pc>物帛輸積負零稅者聽之<pc>。</pc>大觀<measure quantity="2" unit="years">
+<pc>，</pc>諸路歲稔<pc>，</pc>遂行增價折納之法<pc>，</pc>支移<pc>、</pc>折變<pc>、</pc>科率<pc>、</pc>配買<pc>，</pc>皆以<date notBefore="1068" notAfter="1077">熙寧</date>法從事<pc>，</pc>民以穀菽<pc>、</pc>物帛輸積負零稅者聽之<pc>。</pc>
+<date notBefore="1107" notAfter="1110">大觀</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>詔<pc>：</pc>
-<pc>“</pc>天下租賦科撥支折<pc>，</pc>當先富後貧<pc>，</pc>自近及遠<pc>。</pc>乃者漕臣失職<pc>，</pc>有不均之患<pc>，</pc>民或受害<pc>，</pc>其定為令<pc>。</pc>支移本以便邊餉<pc>，</pc>內郡罕用焉<pc>。</pc>間有移用<pc>，</pc>則任民以所費多寡自擇<pc>，</pc>故或輸本色於支移之地<pc>，</pc>或輸腳費於所居之邑<pc>。</pc>而折變之法<pc>，</pc>以納月初旬估中價準折<pc>，</pc>仍視歲之豐歉<pc>，</pc>以定物之低昂<pc>，</pc>俾官吏毋得私其輕重<pc>。</pc>
+<pc>“</pc>
+<quote>天下租賦科撥支折<pc>，</pc>當先富後貧<pc>，</pc>自近及遠<pc>。</pc>乃者漕臣失職<pc>，</pc>有不均之患<pc>，</pc>民或受害<pc>，</pc>其定為令<pc>。</pc>支移本以便邊餉<pc>，</pc>內郡罕用焉<pc>。</pc>間有移用<pc>，</pc>則任民以所費多寡自擇<pc>，</pc>故或輸本色於支移之地<pc>，</pc>或輸腳費於所居之邑<pc>。</pc>而折變之法<pc>，</pc>以納月初旬估中價準折<pc>，</pc>仍視歲之豐歉<pc>，</pc>以定物之低昂<pc>，</pc>俾官吏毋得私其輕重<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <pc>，</pc>詔曰<pc>：</pc>
-<pc>“</pc>比聞慢吏廢期<pc>，</pc>凡輸官之物<pc>，</pc>違期促限<pc>，</pc>蠶者未絲<pc>，</pc>農者未獲<pc>，</pc>追胥旁午<pc>，</pc>民無所措<pc>。</pc>自今前期督輸者<pc>，</pc>加<num value="1">一</num>等坐之<pc>；</pc>致民逃徙者<pc>，</pc>論更加等<pc>。</pc>
+<pc>“</pc>
+<quote>比聞慢吏廢期<pc>，</pc>凡輸官之物<pc>，</pc>違期促限<pc>，</pc>蠶者未絲<pc>，</pc>農者未獲<pc>，</pc>追胥旁午<pc>，</pc>民無所措<pc>。</pc>自今前期督輸者<pc>，</pc>加<num value="1">一</num>等坐之<pc>；</pc>致民逃徙者<pc>，</pc>論更加等<pc>。</pc>
+</quote>
 <pc>”</pc>舊凡以赦令蠲賦<pc>，</pc>雖多不過<num value="3">三</num>分<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
@@ -469,28 +581,38 @@
 </div>
 <div>
 <p>京西舊不支移<pc>，</pc>崇寧中<pc>，</pc>將漕者忽令民曰<pc>：</pc>
-<pc>“</pc>支移所宜同<pc>，</pc>今特免<pc>；</pc>若地裏腳費<pc>，</pc>則宜輸<pc>。</pc>
+<pc>“</pc>
+<quote>支移所宜同<pc>，</pc>今特免<pc>；</pc>若地裏腳費<pc>，</pc>則宜輸<pc>。</pc>
+</quote>
 <pc>”</pc>自是歲以為常<pc>。</pc>腳費<pc>，</pc>鬥為錢<num value="56">五十六</num>
-<pc>，</pc>比元豐即當正稅之數<pc>，</pc>而反覆紐折<pc>，</pc>數倍於昔<pc>。</pc>民至鬻牛易產猶不能繼<pc>，</pc>轉運司乃用是以取辦理之譽<pc>，</pc>言者極論其害<pc>。</pc>政和元年<pc>，</pc>遂詔應支移而所輸地裏腳錢不及鬥者<pc>，</pc>免之<pc>。</pc>尋詔<num value="5">五</num>等戶稅不及鬥者<pc>，</pc>支移皆免<pc>。</pc>
+<pc>，</pc>比<date notBefore="1078" notAfter="1085">元豐</date>即當正稅之數<pc>，</pc>而反覆紐折<pc>，</pc>數倍於昔<pc>。</pc>民至鬻牛易產猶不能繼<pc>，</pc>轉運司乃用是以取辦理之譽<pc>，</pc>言者極論其害<pc>。</pc>政和元年<pc>，</pc>遂詔應支移而所輸地裏腳錢不及鬥者<pc>，</pc>免之<pc>。</pc>尋詔<num value="5">五</num>等戶稅不及鬥者<pc>，</pc>支移皆免<pc>。</pc>
 </p>
 </div>
 <div>
-<p>時天下戶口類多不實<pc>，</pc>雖嚐立法比較鉤考<pc>，</pc>歲終會其數<pc>，</pc>按籍隱括脫漏<pc>，</pc>定賞罰之格<pc>，</pc>然蔡攸等計德<pc>、</pc>霸<measure quantity="2" unit="prefectures">
+<p>時天下戶口類多不實<pc>，</pc>雖嚐立法比較鉤考<pc>，</pc>歲終會其數<pc>，</pc>按籍隱括脫漏<pc>，</pc>定賞罰之格<pc>，</pc>然蔡攸等計德<pc>、</pc>
+<placeName>霸</placeName>
+<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>戶口之數<pc>，</pc>率<num value="3">三</num>戶<num value="4">四</num>口<pc>，</pc>則戶版訛隱<pc>，</pc>不待校而知<pc>。</pc>乃詔諸路凡奏戶口<pc>，</pc>令提刑司及提舉常平司參考保奏<pc>。</pc>而終莫能拯其弊<pc>，</pc>故租稅亦不得而均焉<pc>。</pc>
 </p>
 </div>
 <div>
-<p>是時<pc>，</pc>內外之費浸以不給<pc>，</pc>中官楊戩主後苑作<pc>，</pc>有言汝州地可為稻田者<pc>，</pc>因用其言<pc>，</pc>置務掌之<pc>，</pc>號<pc>“</pc>稻田務’<pc>。</pc>複行於府畿<pc>，</pc>易名公田<pc>。</pc>南暨襄<pc>、</pc>唐<pc>，</pc>西及澠池<pc>，</pc>北逾大河<pc>，</pc>民田有溢於初券步畝者<pc>，</pc>輒使輸公田錢<pc>。</pc>政和末<pc>，</pc>又置營繕所<pc>，</pc>亦為公田<pc>。</pc>久之<pc>，</pc>後苑<pc>、</pc>營繕所公田皆並於西城所<pc>，</pc>盡山東<pc>、</pc>河朔天荒逃田與河堤退灘租稅舉入焉<pc>，</pc>皆內侍主其事<pc>。</pc>所括為田<num value="34300">三萬四千三百</num>餘頃<pc>，</pc>民輸公田錢外<pc>，</pc>正稅不複能輸<pc>。</pc>
+<p>是時<pc>，</pc>內外之費浸以不給<pc>，</pc>中官楊戩主後苑作<pc>，</pc>有言<placeName>汝州</placeName>地可為稻田者<pc>，</pc>因用其言<pc>，</pc>置務掌之<pc>，</pc>號<pc>“</pc>
+<quote>稻田務</quote>’<pc>。</pc>複行於府畿<pc>，</pc>易名公田<pc>。</pc>南暨襄<pc>、</pc>唐<pc>，</pc>西及澠池<pc>，</pc>北逾大河<pc>，</pc>民田有溢於初券步畝者<pc>，</pc>輒使輸公田錢<pc>。</pc>政和末<pc>，</pc>又置營繕所<pc>，</pc>亦為公田<pc>。</pc>久之<pc>，</pc>後苑<pc>、</pc>營繕所公田皆並於西城所<pc>，</pc>盡山東<pc>、</pc>河朔天荒逃田與河堤退灘租稅舉入焉<pc>，</pc>皆內侍主其事<pc>。</pc>所括為田<num value="34300">三萬四千三百</num>餘頃<pc>，</pc>民輸公田錢外<pc>，</pc>正稅不複能輸<pc>。</pc>
 </p>
 </div>
 <div>
 <p>重和元年<pc>，</pc>獻言者曰<pc>：</pc>
-<pc>“</pc>物有豐匱<pc>，</pc>價有低昂<pc>，</pc>估豐賤之物<pc>，</pc>俾民輸送<pc>，</pc>折價既賤<pc>，</pc>輸官必多<pc>，</pc>則公私之利也<pc>。</pc>而州縣之吏<pc>，</pc>但計<num value="1">一</num>方所乏<pc>，</pc>不計物之有無<pc>，</pc>責民所無<pc>，</pc>其費無量<pc>。</pc>至於支移<pc>，</pc>徙豐就歉<pc>，</pc>理則宜然<pc>。</pc>豪民賕吏<pc>，</pc>故徙歉以就豐<pc>，</pc>齎挾輕貨<pc>，</pc>以賤價輸官<pc>，</pc>其利自倍<pc>；</pc>而貧下戶各免支移<pc>，</pc>估值既高<pc>，</pc>更益腳費<pc>，</pc>視富戶反重<pc>。</pc>因之逋負<pc>，</pc>困於追胥<pc>。</pc>
+<pc>“</pc>
+<quote>物有豐匱<pc>，</pc>價有低昂<pc>，</pc>估豐賤之物<pc>，</pc>俾民輸送<pc>，</pc>折價既賤<pc>，</pc>輸官必多<pc>，</pc>則公私之利也<pc>。</pc>而州縣之吏<pc>，</pc>但計<num value="1">一</num>方所乏<pc>，</pc>不計物之有無<pc>，</pc>責民所無<pc>，</pc>其費無量<pc>。</pc>至於支移<pc>，</pc>徙豐就歉<pc>，</pc>理則宜然<pc>。</pc>豪民賕吏<pc>，</pc>故徙歉以就豐<pc>，</pc>齎挾輕貨<pc>，</pc>以賤價輸官<pc>，</pc>其利自倍<pc>；</pc>而貧下戶各免支移<pc>，</pc>估值既高<pc>，</pc>更益腳費<pc>，</pc>視富戶反重<pc>。</pc>因之逋負<pc>，</pc>困於追胥<pc>。</pc>
+</quote>
 <pc>”</pc>詔申戒焉<pc>。</pc>
 </p>
 </div>
 <div>
-<p>宣和初<pc>，</pc>州縣主吏催科失職<pc>，</pc>逋租數廣<pc>，</pc>令轉運司察守貳勤惰<pc>，</pc>聽專達於內侍省<pc>。</pc>浙西逃田<pc>、</pc>天荒<pc>、</pc>草田<pc>、</pc>葑茭蕩<pc>、</pc>湖濼退灘等地<pc>，</pc>皆計籍召佃立租<pc>，</pc>以供應奉<pc>。</pc>置局命官<pc>，</pc>有<pc>“</pc>措置水利農田<pc>”</pc>之名<pc>，</pc>部使者且自督禦前租課<pc>。</pc>
+<p>
+<date notBefore="1119" notAfter="1125">宣和</date>初<pc>，</pc>州縣主吏催科失職<pc>，</pc>逋租數廣<pc>，</pc>令轉運司察守貳勤惰<pc>，</pc>聽專達於內侍省<pc>。</pc>浙西逃田<pc>、</pc>天荒<pc>、</pc>草田<pc>、</pc>葑茭蕩<pc>、</pc>湖濼退灘等地<pc>，</pc>皆計籍召佃立租<pc>，</pc>以供應奉<pc>。</pc>置局命官<pc>，</pc>有<pc>“</pc>
+<quote>措置水利農田</quote>
+<pc>”</pc>之名<pc>，</pc>部使者且自督禦前租課<pc>。</pc>
 </p>
 </div>
 <div>
@@ -498,28 +620,38 @@
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>言者論西蜀折科之弊<pc>，</pc>其略謂<pc>：</pc>
-<pc>“</pc>西蜀初稅錢<num value="300">三百</num>折絹<num value="1">一</num>匹<pc>，</pc>草<num value="10">十</num>圍計錢<num value="20">二十</num>
+<pc>“</pc>
+<quote>西蜀初稅錢<num value="300">三百</num>折絹<num value="1">一</num>匹<pc>，</pc>草<num value="10">十</num>圍計錢<num value="20">二十</num>
 <pc>。</pc>今本路絹不用本色<pc>，</pc>匹折草<num value="50">百五十</num>圍<pc>，</pc>圍估錢<num value="50">百五十</num>
 <pc>，</pc>稅錢<num value="300">三百</num>輸至<num value="23000">二十三千</num>
 <pc>。</pc>東蜀如之<pc>。</pc>仍支移新邊<pc>，</pc>謂之遠倉<pc>，</pc>民破產者眾<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>言者又論<pc>：</pc>
-<pc>“</pc>非法折變<pc>，</pc>既以絹折錢<pc>，</pc>又以錢折麥<pc>。</pc>以絹較錢<pc>，</pc>錢倍於絹<pc>；</pc>以錢較麥<pc>，</pc>麥倍於錢<pc>。</pc>展轉增加<pc>，</pc>民無所訴<pc>。</pc>
+<pc>“</pc>
+<quote>非法折變<pc>，</pc>既以絹折錢<pc>，</pc>又以錢折麥<pc>。</pc>以絹較錢<pc>，</pc>錢倍於絹<pc>；</pc>以錢較麥<pc>，</pc>麥倍於錢<pc>。</pc>展轉增加<pc>，</pc>民無所訴<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>唐<pc>、</pc>鄧<pc>、</pc>襄<pc>，</pc>汝等州<pc>，</pc>自治平後<pc>，</pc>開墾歲增<pc>，</pc>然未定稅額<pc>。</pc>元豐中<pc>，</pc>以所墾新田差為<num value="5">五</num>等輸稅<pc>，</pc>元祐元年罷之<pc>。</pc>大觀<measure quantity="3" unit="years">
+<p>唐<pc>、</pc>鄧<pc>、</pc>襄<pc>，</pc>汝等州<pc>，</pc>自<date notBefore="1064" notAfter="1067">治平</date>後<pc>，</pc>開墾歲增<pc>，</pc>然未定稅額<pc>。</pc>
+<date notBefore="1078" notAfter="1085">元豐</date>中<pc>，</pc>以所墾新田差為<num value="5">五</num>等輸稅<pc>，</pc>
+<date notBefore="1086" notAfter="1094">元祐</date>元年罷之<pc>。</pc>
+<date notBefore="1107" notAfter="1110">大觀</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>用轉運副使張徽言之請<pc>，</pc>複元豐舊製<pc>，</pc>俄又以訴者而罷<pc>。</pc>政和<measure quantity="3" unit="years">
+<pc>，</pc>用<term>轉運副使</term>張徽言之請<pc>，</pc>複<date notBefore="1078" notAfter="1085">元豐</date>舊製<pc>，</pc>俄又以訴者而罷<pc>。</pc>政和<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>轉運使王璹複言官失租賦<pc>，</pc>詔依元豐法<pc>，</pc>第折以見錢<pc>，</pc>凡得<num value="300000">三十萬</num>緡<pc>。</pc>欽宗立<pc>，</pc>詔蠲焉<pc>。</pc>舊稅租加耗<pc>，</pc>轉運司有拋樁明耗<pc>，</pc>州縣有暗樁暗耗之名<pc>，</pc>諸倉場受納<pc>，</pc>又令民輸頭子錢<pc>。</pc>熙寧以後<pc>，</pc>給納並收<pc>，</pc>其數益增焉<pc>，</pc>至是悉罷<pc>。</pc>
+<pc>，</pc>
+<term>轉運使</term>王璹複言官失租賦<pc>，</pc>詔依<date notBefore="1078" notAfter="1085">元豐</date>法<pc>，</pc>第折以見錢<pc>，</pc>凡得<num value="300000">三十萬</num>緡<pc>。</pc>欽宗立<pc>，</pc>詔蠲焉<pc>。</pc>舊稅租加耗<pc>，</pc>轉運司有拋樁明耗<pc>，</pc>州縣有暗樁暗耗之名<pc>，</pc>諸倉場受納<pc>，</pc>又令民輸頭子錢<pc>。</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>以後<pc>，</pc>給納並收<pc>，</pc>其數益增焉<pc>，</pc>至是悉罷<pc>。</pc>
 </p>
 </div>
 <div>
-<p>高宗建炎元年<measure quantity="5" unit="months">
+<p>高宗<date notBefore="1127" notAfter="1130">建炎</date>元年<measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <num value="27">庚寅</num>
 <pc>，</pc>詔<num value="2">二</num>稅並依舊法<pc>，</pc>凡<num value="100">百</num>姓欠租<pc>、</pc>閣賦及應天府夏稅<pc>，</pc>悉蠲之<pc>。</pc>
@@ -530,16 +662,20 @@
 <div>
 <p>紹興元年<measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>詔<pc>：</pc>
-<pc>“</pc>民力久困<pc>，</pc>州縣因緣為奸<pc>，</pc>今頒式諸路<pc>，</pc>凡因軍期不得已而貸於民者<pc>，</pc>並許計所用之多寡<pc>，</pc>度物力之輕重<pc>，</pc>依式開具<pc>，</pc>使民通知<pc>，</pc>毋得過數科率<pc>。</pc>
+<pc>“</pc>
+<quote>民力久困<pc>，</pc>州縣因緣為奸<pc>，</pc>今頒式諸路<pc>，</pc>凡因軍期不得已而貸於民者<pc>，</pc>並許計所用之多寡<pc>，</pc>度物力之輕重<pc>，</pc>依式開具<pc>，</pc>使民通知<pc>，</pc>毋得過數科率<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>減大觀稅額<num value="3">三</num>分之<num value="1">一</num>
+<pc>，</pc>減<date notBefore="1107" notAfter="1110">大觀</date>稅額<num value="3">三</num>分之<num value="1">一</num>
 <pc>。</pc>
 <num value="10">十</num>有<measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>
 <pc>，</pc>言者論<pc>：</pc>
-<pc>“</pc>浙西科斂之害<pc>，</pc>農末殆不聊生<pc>。</pc>鬻田而償<pc>，</pc>則無受者<pc>；</pc>棄之而遁<pc>，</pc>則質其妻孥<pc>。</pc>上下相蒙<pc>，</pc>民無所措手足<pc>。</pc>利歸貪吏<pc>，</pc>而怨歸陛下<pc>。</pc>願重科斂之罪<pc>，</pc>嚴貪墨之刑<pc>。</pc>
+<pc>“</pc>
+<quote>浙西科斂之害<pc>，</pc>農末殆不聊生<pc>。</pc>鬻田而償<pc>，</pc>則無受者<pc>；</pc>棄之而遁<pc>，</pc>則質其妻孥<pc>。</pc>上下相蒙<pc>，</pc>民無所措手足<pc>。</pc>利歸貪吏<pc>，</pc>而怨歸陛下<pc>。</pc>願重科斂之罪<pc>，</pc>嚴貪墨之刑<pc>。</pc>
+</quote>
 <pc>”</pc>詔漕司究實以聞<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
@@ -551,7 +687,9 @@
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <pc>，</pc>建盜範汝為平<pc>，</pc>詔蠲本路今年<num value="2">二</num>稅及夏科役錢<pc>。</pc>既而手詔<pc>：</pc>
-<pc>“</pc>訪聞州縣以為著令不過<num value="3">三</num>分<pc>，</pc>甚非所以稱朕惠恤之意<pc>，</pc>可以赦並免<pc>。</pc>
+<pc>“</pc>
+<quote>訪聞州縣以為著令不過<num value="3">三</num>分<pc>，</pc>甚非所以稱朕惠恤之意<pc>，</pc>可以赦並免<pc>。</pc>
+</quote>
 <pc>”</pc>
 <num value="10">十</num>有<measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>
@@ -574,7 +712,9 @@
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>右司諫王搢言<pc>：</pc>
-<pc>“</pc>諸寺院之多產者<pc>，</pc>類請求貴臣改為墳院<pc>，</pc>冀免科敷<pc>，</pc>則所科歸之下戶<pc>。</pc>
+<pc>“</pc>
+<quote>諸寺院之多產者<pc>，</pc>類請求貴臣改為墳院<pc>，</pc>冀免科敷<pc>，</pc>則所科歸之下戶<pc>。</pc>
+</quote>
 <pc>”</pc>詔戶部申嚴禁之<pc>。</pc>
 <num value="10">十</num>有<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
@@ -582,7 +722,9 @@
 <num value="2">二</num>年</measure>
 <pc>。</pc>是月<num value="45">戊申</num>
 <pc>，</pc>詔曰<pc>：</pc>
-<pc>“</pc>朕惟養兵之費<pc>，</pc>皆取於民<pc>，</pc>吾民甚苦<pc>；</pc>而吏莫之恤<pc>，</pc>夤緣軍須<pc>，</pc>掊斂無藝<pc>，</pc>朕甚悼之<pc>。</pc>監司郡守<pc>，</pc>朕所委寄以惠養元元者也<pc>，</pc>今漫不加省<pc>，</pc>複何賴焉<pc>！</pc>其各勤乃職<pc>，</pc>察民之侵漁納賄者<pc>，</pc>按劾以聞<pc>。</pc>苟庇覆弗治<pc>，</pc>朕不汝貸<pc>。</pc>
+<pc>“</pc>
+<quote>朕惟養兵之費<pc>，</pc>皆取於民<pc>，</pc>吾民甚苦<pc>；</pc>而吏莫之恤<pc>，</pc>夤緣軍須<pc>，</pc>掊斂無藝<pc>，</pc>朕甚悼之<pc>。</pc>監司郡守<pc>，</pc>朕所委寄以惠養元元者也<pc>，</pc>今漫不加省<pc>，</pc>複何賴焉<pc>！</pc>其各勤乃職<pc>，</pc>察民之侵漁納賄者<pc>，</pc>按劾以聞<pc>。</pc>苟庇覆弗治<pc>，</pc>朕不汝貸<pc>。</pc>
+</quote>
 <pc>”</pc>是歲<pc>，</pc>兩浙轉運李迨取婺秀湖州<pc>、</pc>平江府歲計寬剩錢<num value="228000">二十二萬八千</num>緡有奇<pc>，</pc>依折帛錢限起發<pc>。</pc>自是以為例<pc>。</pc>
 </p>
 </div>
@@ -605,8 +747,11 @@
 <num value="3">三</num>年</measure>
 <pc>，</pc>差徭<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>。</pc>初<pc>，</pc>劉豫之僭<pc>，</pc>凡民間蔬圃皆令<num value="3">三</num>季輸稅<pc>。</pc>宣諭官方庭實言其不便<pc>，</pc>起居舍人程克俊言<pc>：</pc>
-<pc>“</pc>河南父老苦豫煩苛久矣<pc>，</pc>賦斂及於絮縷<pc>，</pc>割剝至於果蔬<pc>。</pc>
+<pc>。</pc>初<pc>，</pc>劉豫之僭<pc>，</pc>凡民間蔬圃皆令<num value="3">三</num>季輸稅<pc>。</pc>宣諭官方庭實言其不便<pc>，</pc>
+<term>起居舍人</term>程克俊言<pc>：</pc>
+<pc>“</pc>
+<quote>河南父老苦豫煩苛久矣<pc>，</pc>賦斂及於絮縷<pc>，</pc>割剝至於果蔬<pc>。</pc>
+</quote>
 <pc>”</pc>於是詔新複州縣<pc>，</pc>取劉豫重斂之法焚之通衢<pc>。</pc>
 </p>
 </div>
@@ -616,12 +761,16 @@
 <num value="13">十三</num>年</measure>
 <pc>，</pc>淮東<term>宣撫使</term>韓世忠請以賜田及私產自昔未輸之稅並歸之官<pc>，</pc>詔獎諭而可之<pc>。</pc>初<pc>，</pc>神武右軍統製張俊乞蠲所置產凡和買<pc>、</pc>科敷<pc>，</pc>詔特從之<pc>。</pc>後<pc>，</pc>
 <num value="3">三</num>省言<pc>：</pc>
-<pc>“</pc>國家兵革未息<pc>，</pc>用度至廣<pc>，</pc>陛下哀憫元元<pc>，</pc>俾士大夫及勳戚之家與編戶等敷<pc>，</pc>蓋欲寬民力<pc>，</pc>均有無<pc>。</pc>今俊獨得免<pc>，</pc>則當均在餘戶<pc>，</pc>是使民為俊代輸也<pc>。</pc>方今大將不止俊<measure quantity="1" unit="people">
+<pc>“</pc>
+<quote>國家兵革未息<pc>，</pc>用度至廣<pc>，</pc>陛下哀憫元元<pc>，</pc>俾士大夫及勳戚之家與編戶等敷<pc>，</pc>蓋欲寬民力<pc>，</pc>均有無<pc>。</pc>今俊獨得免<pc>，</pc>則當均在餘戶<pc>，</pc>是使民為俊代輸也<pc>。</pc>方今大將不止俊<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
 <pc>，</pc>使各援例求免<pc>，</pc>何以拒之<pc>？</pc>望收還前詔<pc>。</pc>
+</quote>
 <pc>”</pc>詔從之<pc>。</pc>越數年間<pc>，</pc>俊複乞免歲輸和買絹<pc>，</pc>
 <num value="3">三</num>省擬歲賜俊絹<num value="5000">五千</num>匹<pc>，</pc>庶免起例<pc>。</pc>上以示俊<pc>，</pc>因諭之曰<pc>：</pc>
-<pc>“</pc>朕固不惜<pc>，</pc>但恐公議不可<pc>。</pc>
+<pc>“</pc>
+<quote>朕固不惜<pc>，</pc>但恐公議不可<pc>。</pc>
+</quote>
 <pc>”</pc>俊惶悚<pc>，</pc>力辭賜絹<pc>。</pc>
 </p>
 </div>
@@ -630,9 +779,11 @@
 <measure quantity="15" unit="years">
 <num value="15">十五</num>年</measure>
 <pc>，</pc>戶部議<pc>：</pc>
-<pc>“</pc>準法<pc>，</pc>輸官物用<num value="4">四</num>鈔<pc>，</pc>
+<pc>“</pc>
+<quote>準法<pc>，</pc>輸官物用<num value="4">四</num>鈔<pc>，</pc>
 <pc>（</pc>曰戶鈔<pc>，</pc>付民執憑<pc>；</pc>曰縣鈔<pc>，</pc>關縣司銷簿<pc>；</pc>曰監鈔<pc>，</pc>納官掌之<pc>；</pc>曰住鈔<pc>，</pc>倉庫藏之<pc>。</pc>所以防偽冒<pc>、</pc>備毀失也<pc>。</pc>
 <pc>）</pc>毀失縣鈔者<pc>，</pc>以監<pc>、</pc>住鈔銷鑿<pc>；</pc>若輒取戶鈔<pc>，</pc>或追驗於人戶者<pc>，</pc>科杖<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -640,8 +791,10 @@
 <p>
 <measure quantity="23" unit="years">
 <num value="23">二十三</num>年</measure>
-<pc>，</pc>知池州黃子遊言<pc>：</pc>
-<pc>“</pc>青陽縣苗<num value="56">七八</num>倍於諸縣<pc>，</pc>因<date when="null">南唐</date>嚐以縣為宋齊丘食邑<pc>，</pc>畝輸<num value="3">三</num>鬥<pc>，</pc>後遂為額<pc>。</pc>
+<pc>，</pc>知<placeName>池州</placeName>黃子遊言<pc>：</pc>
+<pc>“</pc>
+<quote>青陽縣苗<num value="56">七八</num>倍於諸縣<pc>，</pc>因<date notBefore="9999" notAfter="9999">南唐</date>嚐以縣為宋齊丘食邑<pc>，</pc>畝輸<num value="3">三</num>鬥<pc>，</pc>後遂為額<pc>。</pc>
+</quote>
 <pc>”</pc>詔減苗稅<num value="2">二</num>分有半<pc>，</pc>租米<num value="2">二</num>分<pc>。</pc>是時<pc>，</pc>兩浙州縣合輸綿<pc>、</pc>綢<pc>、</pc>稅絹<pc>、</pc>茶絹<pc>、</pc>雜錢<pc>、</pc>米<num value="6">六</num>色<pc>，</pc>皆以市價折錢<pc>，</pc>卻別科米麥<pc>，</pc>有畝輸<num value="20">四五</num>鬥者<pc>。</pc>京西括田<pc>，</pc>租加於舊<pc>。</pc>湖南有土戶錢<pc>、</pc>折絁錢<pc>、</pc>醋息錢<pc>、</pc>曲引錢<pc>，</pc>名色不<num value="1">一</num>
 <pc>。</pc>荊南戶口<num value="100000">十萬</num>
 <pc>，</pc>寇亂以來<pc>，</pc>幾無人跡<pc>。</pc>議者希朝廷意<pc>，</pc>謂流民已複<pc>，</pc>可使歲輸<num value="12">十二</num>
@@ -654,9 +807,13 @@
 <measure quantity="26" unit="years">
 <num value="26">二十六</num>年</measure>
 <pc>，</pc>先是<pc>，</pc>承議郎魯衝上書論郡邑之弊<pc>：</pc>
-<pc>“</pc>以臣前任宜興<num value="1">一</num>縣言之<pc>，</pc>漕計合收窠名<pc>，</pc>有丁鹽<pc>、</pc>坊場課利錢<pc>，</pc>租地錢<pc>，</pc>租絲租紵錢<pc>，</pc>歲入不過<num value="15000">一萬五千</num>餘緡<pc>。</pc>其發納之數<pc>，</pc>有大軍錢<pc>、</pc>上供錢<pc>、</pc>糴本錢<pc>、</pc>造船錢<pc>、</pc>軍器物料錢<pc>、</pc>天申節銀絹錢之類<pc>，</pc>歲支不啻<num value="34000">三萬四千</num>餘緡<pc>。</pc>又有見任<pc>、</pc>寄居官請奉<pc>、</pc>過往官兵批券<pc>、</pc>與非泛州郡督索拖欠<pc>，</pc>略無虛日<pc>。</pc>今之為令者<pc>，</pc>苟以寬恤為意<pc>，</pc>而拙於催科<pc>，</pc>旋踵以不職罷<pc>；</pc>能迎合上司<pc>，</pc>慘刻聚斂<pc>，</pc>則以稱職聞<pc>。</pc>是使為令者惴惴惟財賦是念<pc>，</pc>朝不謀夕<pc>，</pc>亦何暇為陛下奉行寬恤詔書<pc>、</pc>承流宣化者哉<pc>？</pc>
+<pc>“</pc>
+<quote>以臣前任宜興<num value="1">一</num>縣言之<pc>，</pc>漕計合收窠名<pc>，</pc>有丁鹽<pc>、</pc>坊場課利錢<pc>，</pc>租地錢<pc>，</pc>租絲租紵錢<pc>，</pc>歲入不過<num value="15000">一萬五千</num>餘緡<pc>。</pc>其發納之數<pc>，</pc>有大軍錢<pc>、</pc>上供錢<pc>、</pc>糴本錢<pc>、</pc>造船錢<pc>、</pc>軍器物料錢<pc>、</pc>天申節銀絹錢之類<pc>，</pc>歲支不啻<num value="34000">三萬四千</num>餘緡<pc>。</pc>又有見任<pc>、</pc>寄居官請奉<pc>、</pc>過往官兵批券<pc>、</pc>與非泛州郡督索拖欠<pc>，</pc>略無虛日<pc>。</pc>今之為令者<pc>，</pc>苟以寬恤為意<pc>，</pc>而拙於催科<pc>，</pc>旋踵以不職罷<pc>；</pc>能迎合上司<pc>，</pc>慘刻聚斂<pc>，</pc>則以稱職聞<pc>。</pc>是使為令者惴惴惟財賦是念<pc>，</pc>朝不謀夕<pc>，</pc>亦何暇為陛下奉行寬恤詔書<pc>、</pc>承流宣化者哉<pc>？</pc>
+</quote>
 <pc>”</pc>吏部侍郎許興古議<pc>：</pc>
-<pc>“</pc>今銓曹有知縣<pc>、</pc>令<num value="200">二百</num>餘闕<pc>，</pc>無願就者<pc>，</pc>正緣財賦督迫被罪<pc>，</pc>所以畏避如此<pc>。</pc>若罷獻羨餘<pc>，</pc>蠲民積欠<pc>，</pc>謹擇守臣<pc>，</pc>戒飭監司<pc>，</pc>則吏稱民安矣<pc>。</pc>
+<pc>“</pc>
+<quote>今銓曹有知縣<pc>、</pc>令<num value="200">二百</num>餘闕<pc>，</pc>無願就者<pc>，</pc>正緣財賦督迫被罪<pc>，</pc>所以畏避如此<pc>。</pc>若罷獻羨餘<pc>，</pc>蠲民積欠<pc>，</pc>謹擇守臣<pc>，</pc>戒飭監司<pc>，</pc>則吏稱民安矣<pc>。</pc>
+</quote>
 <pc>”</pc>乃詔行之<pc>。</pc>
 </p>
 </div>
@@ -665,7 +822,9 @@
 <measure quantity="29" unit="years">
 <num value="29">二十九</num>年</measure>
 <pc>，</pc>上聞江西盜賊<pc>，</pc>謂輔臣曰<pc>：</pc>
-<pc>“</pc>輕徭薄賦<pc>，</pc>所以息盜<pc>。</pc>歲之水旱<pc>，</pc>所不能免<pc>，</pc>儻不寬恤而惟務科督<pc>，</pc>豈使民不為盜之意哉<pc>？</pc>
+<pc>“</pc>
+<quote>輕徭薄賦<pc>，</pc>所以息盜<pc>。</pc>歲之水旱<pc>，</pc>所不能免<pc>，</pc>儻不寬恤而惟務科督<pc>，</pc>豈使民不為盜之意哉<pc>？</pc>
+</quote>
 <pc>”</pc>於是詔諸路州縣<pc>，</pc>紹興<measure quantity="27" unit="years">
 <num value="27">二十七</num>年</measure>以前積欠官錢<num value="3970000">三百九十七萬</num>餘緡及<num value="4">四</num>等以下官欠<pc>，</pc>悉除之<pc>。</pc>
 <measure quantity="9" unit="months">
@@ -681,8 +840,10 @@
 <num value="6">六</num>月</measure>
 <num value="15">戊寅</num>
 <pc>，</pc>孝宗受禪赦<pc>：</pc>
-<pc>“</pc>凡官司債負<pc>、</pc>房賃<pc>、</pc>租賦<pc>、</pc>和買<pc>、</pc>役錢及坊場<pc>、</pc>河渡等錢<pc>，</pc>自紹興<measure quantity="30" unit="years">
+<pc>“</pc>
+<quote>凡官司債負<pc>、</pc>房賃<pc>、</pc>租賦<pc>、</pc>和買<pc>、</pc>役錢及坊場<pc>、</pc>河渡等錢<pc>，</pc>自紹興<measure quantity="30" unit="years">
 <num value="30">三十</num>年</measure>以前並除之<pc>。</pc>諸路或假貢奉為名<pc>，</pc>漁奪民利<pc>，</pc>使所在居民以土物為苦<pc>，</pc>太上皇帝已嚐降詔禁約<pc>。</pc>自今州軍條上土貢之物<pc>，</pc>當議參酌天地<pc>、</pc>祖宗陵寢薦獻及德壽宮甘旨之奉<pc>，</pc>止許長吏修貢<pc>，</pc>其餘並罷<pc>。</pc>州縣因緣多取<pc>，</pc>以違製坐之<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
@@ -690,14 +851,17 @@
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>州縣受納秋苗<pc>，</pc>官吏多收加耗<pc>，</pc>肆為奸欺<pc>。</pc>方時艱虞<pc>，</pc>用度未足<pc>，</pc>欲減常賦而未能<pc>，</pc>豈忍使貪贓之徒重為民蠹<pc>？</pc>自今違犯官吏<pc>，</pc>並置重典<pc>，</pc>仍沒其家<pc>。</pc>
+<pc>“</pc>
+<quote>州縣受納秋苗<pc>，</pc>官吏多收加耗<pc>，</pc>肆為奸欺<pc>。</pc>方時艱虞<pc>，</pc>用度未足<pc>，</pc>欲減常賦而未能<pc>，</pc>豈忍使貪贓之徒重為民蠹<pc>？</pc>自今違犯官吏<pc>，</pc>並置重典<pc>，</pc>仍沒其家<pc>。</pc>
+</quote>
 <pc>”</pc>
 <pc>（</pc>此孝宗初詔也<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
 <div>
-<p>先是<pc>，</pc>常州宜興縣無稅產<num value="100">百</num>姓<pc>，</pc>丁輸鹽錢<num value="200">二百</num>文<pc>。</pc>下戶有墓地者<pc>，</pc>謂之墓戶<pc>，</pc>經界之時均紐正稅<pc>，</pc>又令帶輸丁鹽絹作折帛錢<pc>。</pc>至隆興元年<pc>，</pc>始用知縣薑詔言<pc>，</pc>令與晉陵<pc>、</pc>武進<pc>、</pc>無錫<num value="3">三</num>縣<num value="1">一</num>例隨產均輸<pc>。</pc>
+<p>先是<pc>，</pc>
+<placeName>常州</placeName>宜興縣無稅產<num value="100">百</num>姓<pc>，</pc>丁輸鹽錢<num value="200">二百</num>文<pc>。</pc>下戶有墓地者<pc>，</pc>謂之墓戶<pc>，</pc>經界之時均紐正稅<pc>，</pc>又令帶輸丁鹽絹作折帛錢<pc>。</pc>至隆興元年<pc>，</pc>始用知縣薑詔言<pc>，</pc>令與晉陵<pc>、</pc>武進<pc>、</pc>無錫<num value="3">三</num>縣<num value="1">一</num>例隨產均輸<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="4" unit="months">
@@ -706,16 +870,24 @@
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <pc>，</pc>詔<pc>：</pc>
-<pc>“</pc>溫<pc>、</pc>台<pc>、</pc>處<pc>、</pc>徽不通水路<pc>，</pc>其<num value="2">二</num>稅物帛<pc>，</pc>許依折法以銀折輸<pc>，</pc>數外妄有科折<pc>，</pc>計贓定罪<pc>。</pc>
+<pc>“</pc>
+<quote>溫<pc>、</pc>台<pc>、</pc>處<pc>、</pc>徽不通水路<pc>，</pc>其<num value="2">二</num>稅物帛<pc>，</pc>許依折法以銀折輸<pc>，</pc>數外妄有科折<pc>，</pc>計贓定罪<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>乾道元年<pc>，</pc>蠲興化軍<pc>“</pc>猶剩米<pc>”</pc>之半<pc>。</pc>
-<pc>（</pc>以知軍張允蹈言<pc>“</pc>自建炎<measure quantity="3" unit="years">
+<p>乾道元年<pc>，</pc>蠲興化軍<pc>“</pc>
+<quote>猶剩米</quote>
+<pc>”</pc>之半<pc>。</pc>
+<pc>（</pc>以知軍張允蹈言<pc>“</pc>
+<quote>自<date when="1129">
+<date notBefore="1127" notAfter="1130">建炎</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>本軍秋稅<pc>，</pc>歲餘軍儲外<pc>，</pc>猶剩米<num value="24400">二萬四千四百</num>餘石<pc>，</pc>供給<placeName>福州</placeName>
-<pc>，</pc>謂之‘猶剩米’<pc>。</pc>
+<pc>，</pc>謂之‘猶剩米</quote>’<pc>。</pc>
 <measure quantity="40" unit="years">
 <num value="40">四十</num>年</measure>間<pc>，</pc>水旱相仍<pc>，</pc>不複減損<pc>”</pc>
 <pc>，</pc>故有是命<pc>。</pc>至<measure quantity="8" unit="years">
@@ -747,10 +919,12 @@
 <p>淳熙<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>臣僚言<pc>：</pc>
-<pc>“</pc>湖北<num value="100">百</num>姓廣占官田<pc>，</pc>量輸常賦<pc>，</pc>似為過優<pc>，</pc>比議者欲從實起稅而開陳首之門<pc>。</pc>殊不思朝廷往年經界<pc>，</pc>獨兩淮<pc>、</pc>京西<pc>、</pc>湖北依舊<pc>。</pc>蓋以<num value="4">四</num>路被邊<pc>，</pc>土廣人稀<pc>，</pc>誘之使耕<pc>，</pc>猶懼不至<pc>，</pc>若履畝而稅<pc>，</pc>孰肯遠徙力耕<pc>，</pc>以供公上之賦哉<pc>？</pc>今湖北惟鼎<pc>、</pc>澧地接湖南<pc>，</pc>墾田稍多<pc>，</pc>自荊南<pc>、</pc>安<pc>、</pc>複<pc>、</pc>嶽<pc>、</pc>鄂<pc>、</pc>漢<pc>、</pc>沔汙萊彌望<pc>，</pc>戶口稀少<pc>，</pc>且皆江南狹鄉<num value="100">百</num>姓<pc>，</pc>扶老攜幼<pc>，</pc>遠來請佃<pc>，</pc>以田畝寬而稅賦輕也<pc>。</pc>若從議者之言<pc>，</pc>恐於公家無<num value="1">一</num>毫之益<pc>，</pc>而良民有無窮之擾矣<pc>。</pc>如臣所見<pc>，</pc>且當誘以開耕<pc>，</pc>不宜恐以增稅<pc>。</pc>使田疇盡辟<pc>，</pc>歲收滋廣<pc>，</pc>
+<pc>“</pc>
+<quote>湖北<num value="100">百</num>姓廣占官田<pc>，</pc>量輸常賦<pc>，</pc>似為過優<pc>，</pc>比議者欲從實起稅而開陳首之門<pc>。</pc>殊不思朝廷往年經界<pc>，</pc>獨兩淮<pc>、</pc>京西<pc>、</pc>湖北依舊<pc>。</pc>蓋以<num value="4">四</num>路被邊<pc>，</pc>土廣人稀<pc>，</pc>誘之使耕<pc>，</pc>猶懼不至<pc>，</pc>若履畝而稅<pc>，</pc>孰肯遠徙力耕<pc>，</pc>以供公上之賦哉<pc>？</pc>今湖北惟鼎<pc>、</pc>澧地接湖南<pc>，</pc>墾田稍多<pc>，</pc>自荊南<pc>、</pc>安<pc>、</pc>複<pc>、</pc>嶽<pc>、</pc>鄂<pc>、</pc>漢<pc>、</pc>沔汙萊彌望<pc>，</pc>戶口稀少<pc>，</pc>且皆江南狹鄉<num value="100">百</num>姓<pc>，</pc>扶老攜幼<pc>，</pc>遠來請佃<pc>，</pc>以田畝寬而稅賦輕也<pc>。</pc>若從議者之言<pc>，</pc>恐於公家無<num value="1">一</num>毫之益<pc>，</pc>而良民有無窮之擾矣<pc>。</pc>如臣所見<pc>，</pc>且當誘以開耕<pc>，</pc>不宜恐以增稅<pc>。</pc>使田疇盡辟<pc>，</pc>歲收滋廣<pc>，</pc>
 <num value="1">一</num>遇豐稔<pc>，</pc>平糴以實邊<pc>，</pc>則所省漕運亦博<pc>。</pc>望其依紹興<measure quantity="16" unit="years">
 <num value="16">十六</num>年</measure>詔旨<pc>，</pc>以<num value="10">十</num>分為率<pc>，</pc>年增輸<num value="1">一</num>分<pc>，</pc>不願開墾者<pc>，</pc>即許退田別佃<pc>。</pc>期限稍寬<pc>，</pc>取之有漸<pc>，</pc>遠民安業<pc>，</pc>
 <num value="1">一</num>路幸甚<pc>。</pc>
+</quote>
 <pc>”</pc>詔戶部議之<pc>。</pc>
 </p>
 </div>
@@ -759,22 +933,30 @@
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <pc>，</pc>臣僚言<pc>：</pc>
-<pc>“</pc>屢赦蠲積欠<pc>，</pc>以蘇疲民<pc>，</pc>州縣不能仰承德意<pc>，</pc>至變易名色以取之<pc>。</pc>宜下漕司<pc>，</pc>如合除者毋更取之於州<pc>，</pc>州毋取之於縣<pc>，</pc>縣銷民欠籍<pc>，</pc>書其名數<pc>，</pc>諭民通知<pc>。</pc>
+<pc>“</pc>
+<quote>屢赦蠲積欠<pc>，</pc>以蘇疲民<pc>，</pc>州縣不能仰承德意<pc>，</pc>至變易名色以取之<pc>。</pc>宜下漕司<pc>，</pc>如合除者毋更取之於州<pc>，</pc>州毋取之於縣<pc>，</pc>縣銷民欠籍<pc>，</pc>書其名數<pc>，</pc>諭民通知<pc>。</pc>
+</quote>
 <pc>”</pc>詔可<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>詔曰<pc>：</pc>
-<pc>“</pc>比年以來<pc>，</pc>
+<pc>“</pc>
+<quote>比年以來<pc>，</pc>
 <num value="5">五</num>穀屢登<pc>，</pc>蠶絲盈箱<pc>，</pc>嘉與海內共享阜康之樂<pc>，</pc>尚念耕夫蠶婦終歲勤動<pc>，</pc>價賤不足以償其勞<pc>。</pc>郡邑兩稅<pc>，</pc>除折帛<pc>、</pc>折變自有常製<pc>，</pc>當輸正色者<pc>，</pc>毋以重價強之折錢<pc>。</pc>若有故違<pc>，</pc>重置於法<pc>。</pc>臨安府刻石<pc>，</pc>遍賜諸路<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>以<term>諫議大夫</term>謝廓然言<pc>：</pc>
-<pc>“</pc>州縣違法科斂<pc>，</pc>侵漁日甚<pc>，</pc>其咎雖在縣令<pc>，</pc>而督迫實由郡守<pc>。</pc>縣令按劾<pc>，</pc>而郡守自如<pc>。</pc>
+<pc>“</pc>
+<quote>州縣違法科斂<pc>，</pc>侵漁日甚<pc>，</pc>其咎雖在縣令<pc>，</pc>而督迫實由郡守<pc>。</pc>縣令按劾<pc>，</pc>而郡守自如<pc>。</pc>
+</quote>
 <pc>”</pc>詔<pc>：</pc>
-<pc>“</pc>自今凡有過需橫取<pc>，</pc>監司悉行按劾<pc>，</pc>無詳於小而略於大<pc>。</pc>
+<pc>“</pc>
+<quote>自今凡有過需橫取<pc>，</pc>監司悉行按劾<pc>，</pc>無詳於小而略於大<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -782,7 +964,9 @@
 <p>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>夏<pc>，</pc>大旱<pc>。</pc>知南康軍朱熹應詔上封事言<pc>：</pc>
-<pc>“</pc>今民間<num value="2">二</num>稅之入<pc>，</pc>朝廷盡取以供軍<pc>，</pc>州縣無複贏餘<pc>，</pc>於是別立名色巧取<pc>。</pc>今民貧賦重<pc>，</pc>惟有核兵籍<pc>，</pc>廣屯田<pc>，</pc>練民兵<pc>，</pc>可以漸省列屯坐食之兵<pc>，</pc>稍損州郡供軍之數<pc>。</pc>使州縣之力浸紓<pc>，</pc>然後禁其苛斂<pc>，</pc>責其寬恤<pc>，</pc>庶幾窮困之民得保生業<pc>，</pc>無流移漂蕩之患<pc>。</pc>
+<pc>“</pc>
+<quote>今民間<num value="2">二</num>稅之入<pc>，</pc>朝廷盡取以供軍<pc>，</pc>州縣無複贏餘<pc>，</pc>於是別立名色巧取<pc>。</pc>今民貧賦重<pc>，</pc>惟有核兵籍<pc>，</pc>廣屯田<pc>，</pc>練民兵<pc>，</pc>可以漸省列屯坐食之兵<pc>，</pc>稍損州郡供軍之數<pc>。</pc>使州縣之力浸紓<pc>，</pc>然後禁其苛斂<pc>，</pc>責其寬恤<pc>，</pc>庶幾窮困之民得保生業<pc>，</pc>無流移漂蕩之患<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
@@ -790,21 +974,32 @@
 <measure quantity="11" unit="years">
 <num value="11">十一</num>年</measure>
 <pc>，</pc>戶部奏<pc>：</pc>
-<pc>“</pc>諸路州軍檢放旱傷米數近<num value="600000">六十萬</num>石<pc>。</pc>上諭王淮曰<pc>：</pc>
+<pc>“</pc>
+<quote>諸路州軍檢放旱傷米數近<num value="600000">六十萬</num>石<pc>。</pc>上諭王淮曰<pc>：</pc>
 <pc>“</pc>若盡令核實<pc>，</pc>恐他年郡縣懷疑<pc>，</pc>不複檢放<pc>。</pc>惟寧國數最多<pc>，</pc>可令漕司核實而蠲之<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
 <p>紹熙元年<pc>，</pc>臣僚言<pc>：</pc>
-<pc>“</pc>古者賦租出於民之所有<pc>，</pc>不強其所無<pc>。</pc>今之為絹者<pc>，</pc>
+<pc>“</pc>
+<quote>古者賦租出於民之所有<pc>，</pc>不強其所無<pc>。</pc>今之為絹者<pc>，</pc>
 <num value="1">一</num>倍折而為錢<pc>，</pc>再倍折而為銀<pc>。</pc>銀愈貴<pc>，</pc>錢愈艱得<pc>，</pc>穀愈不可售<pc>，</pc>使民賤糶而貴折<pc>，</pc>則大熟之歲反為民害<pc>。</pc>願詔州郡<pc>：</pc>凡多取而多折者<pc>，</pc>重置於罰<pc>；</pc>民有糶不售者<pc>，</pc>令常平就糴<pc>，</pc>異時歲歉<pc>，</pc>平價以糶<pc>。</pc>庶於民無傷<pc>，</pc>於國有補<pc>。</pc>
+</quote>
 <pc>”</pc>詔從之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>秘書監楊<num value="10000">萬</num>裏奏<pc>：</pc>
-<pc>“</pc>民輸粟於官謂之苗<pc>，</pc>舊以<num value="1">一</num>斛輸<num value="1">一</num>斛<pc>，</pc>今以<num value="2">二</num>斛輸<num value="1">一</num>斛矣<pc>。</pc>輸帛於官謂之稅<pc>，</pc>舊以正絹為稅絹<pc>，</pc>今正絹外有和買矣<pc>。</pc>舊和買官給其直<pc>，</pc>或以錢<pc>，</pc>或以鹽<pc>，</pc>今皆無之<pc>，</pc>又以絹估直而倍折其錢矣<pc>。</pc>舊稅畝<num value="1">一</num>錢輸免役<num value="1">一</num>錢<pc>，</pc>今歲增其額<pc>，</pc>不知所止矣<pc>。</pc>既<num value="1">一</num>倍其粟<pc>，</pc>數倍其帛<pc>，</pc>又數倍其錢<pc>，</pc>而又有月樁錢<pc>、</pc>版帳錢<pc>、</pc>不知幾倍於祖宗之舊<pc>，</pc>又幾倍於漢<pc>、</pc>唐之製乎<pc>。</pc>此猶東南之賦可知也<pc>，</pc>至於蜀賦之額外無名者<pc>，</pc>不可得而知也<pc>。</pc>陛下欲薄賦斂<pc>，</pc>當節用度<pc>。</pc>用節而後財可積<pc>，</pc>財積而後國可足<pc>，</pc>國足而後賦可減<pc>，</pc>賦減而後民可富<pc>，</pc>民富而後邦可寧<pc>。</pc>不然<pc>，</pc>日複日<pc>，</pc>歲複歲<pc>，</pc>臣未知其所終也<pc>。</pc>
+<pc>“</pc>
+<quote>民輸粟於官謂之苗<pc>，</pc>舊以<measure quantity="1" unit="HU">
+<num value="1">一</num>斛</measure>輸<measure quantity="1" unit="HU">
+<num value="1">一</num>斛</measure>
+<pc>，</pc>今以<measure quantity="2" unit="HUs">
+<num value="2">二</num>斛</measure>輸<measure quantity="1" unit="HU">
+<num value="1">一</num>斛</measure>矣<pc>。</pc>輸帛於官謂之稅<pc>，</pc>舊以正絹為稅絹<pc>，</pc>今正絹外有和買矣<pc>。</pc>舊和買官給其直<pc>，</pc>或以錢<pc>，</pc>或以鹽<pc>，</pc>今皆無之<pc>，</pc>又以絹估直而倍折其錢矣<pc>。</pc>舊稅畝<num value="1">一</num>錢輸免役<num value="1">一</num>錢<pc>，</pc>今歲增其額<pc>，</pc>不知所止矣<pc>。</pc>既<num value="1">一</num>倍其粟<pc>，</pc>數倍其帛<pc>，</pc>又數倍其錢<pc>，</pc>而又有月樁錢<pc>、</pc>版帳錢<pc>、</pc>不知幾倍於祖宗之舊<pc>，</pc>又幾倍於漢<pc>、</pc>唐之製乎<pc>。</pc>此猶東南之賦可知也<pc>，</pc>至於蜀賦之額外無名者<pc>，</pc>不可得而知也<pc>。</pc>陛下欲薄賦斂<pc>，</pc>當節用度<pc>。</pc>用節而後財可積<pc>，</pc>財積而後國可足<pc>，</pc>國足而後賦可減<pc>，</pc>賦減而後民可富<pc>，</pc>民富而後邦可寧<pc>。</pc>不然<pc>，</pc>日複日<pc>，</pc>歲複歲<pc>，</pc>臣未知其所終也<pc>。</pc>
+</quote>
 <pc>”</pc>
 <pc>（</pc>時金主璟新立<pc>，</pc>
 <num value="10000">萬</num>裏迓使客於淮<pc>，</pc>聞其蠲民間房園地基錢<pc>，</pc>罷鄉村官酒坊<pc>，</pc>減鹽價<pc>，</pc>除田租<pc>，</pc>使虛譽達於吾境<pc>，</pc>故因轉對而有是言也<pc>。</pc>
@@ -816,7 +1011,9 @@
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>詔曰<pc>：</pc>
-<pc>“</pc>朕惟為政之道<pc>，</pc>莫先於養民<pc>。</pc>故自即位以來<pc>，</pc>蠲除甚賦<pc>，</pc>頒宣寬條<pc>，</pc>嘉與<num value="4">四</num>方臻於安富<pc>。</pc>郡守<pc>、</pc>縣令<pc>，</pc>最近民者也<pc>。</pc>誠能拊循惠愛<pc>，</pc>以承休德<pc>，</pc>庶幾政平訟理之效<pc>。</pc>今采之人言<pc>，</pc>乃聞科斂先期<pc>，</pc>競務辦集<pc>，</pc>而民之虛實不問<pc>；</pc>追呼相繼<pc>，</pc>敢為椎剝<pc>，</pc>而民之安否不恤<pc>。</pc>財計之外<pc>，</pc>治理蔑聞<pc>，</pc>甚不稱朕委屬之意<pc>。</pc>國用有常<pc>，</pc>固在經理<pc>，</pc>而非掊克督趣以為能也<pc>。</pc>知本末先後之誼<pc>，</pc>此朕所貴於守令者<pc>。</pc>繼自今以軫恤為心<pc>，</pc>以牧養為務<pc>，</pc>俾民安業<pc>，</pc>時予汝嘉<pc>。</pc>
+<pc>“</pc>
+<quote>朕惟為政之道<pc>，</pc>莫先於養民<pc>。</pc>故自即位以來<pc>，</pc>蠲除甚賦<pc>，</pc>頒宣寬條<pc>，</pc>嘉與<num value="4">四</num>方臻於安富<pc>。</pc>郡守<pc>、</pc>縣令<pc>，</pc>最近民者也<pc>。</pc>誠能拊循惠愛<pc>，</pc>以承休德<pc>，</pc>庶幾政平訟理之效<pc>。</pc>今采之人言<pc>，</pc>乃聞科斂先期<pc>，</pc>競務辦集<pc>，</pc>而民之虛實不問<pc>；</pc>追呼相繼<pc>，</pc>敢為椎剝<pc>，</pc>而民之安否不恤<pc>。</pc>財計之外<pc>，</pc>治理蔑聞<pc>，</pc>甚不稱朕委屬之意<pc>。</pc>國用有常<pc>，</pc>固在經理<pc>，</pc>而非掊克督趣以為能也<pc>。</pc>知本末先後之誼<pc>，</pc>此朕所貴於守令者<pc>。</pc>繼自今以軫恤為心<pc>，</pc>以牧養為務<pc>，</pc>俾民安業<pc>，</pc>時予汝嘉<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -835,7 +1032,9 @@
 <div>
 <p>嘉熙<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>臣僚言<pc>：</pc>
-<pc>“</pc>陛下自登大寶以來<pc>，</pc>蠲賦之詔無歲無之<pc>，</pc>而<num value="100">百</num>姓未沾實惠<pc>。</pc>蓋民輸率先期歸於吏胥<pc>、</pc>攬戶<pc>，</pc>及遇詔下<pc>，</pc>則所放者吏胥之物<pc>，</pc>所倚閣者攬戶之錢<pc>，</pc>是以寬恤之詔雖頒<pc>，</pc>愁歎之聲如故<pc>。</pc>嚐覺漢史恤民之詔<pc>，</pc>多減明年田租<pc>。</pc>今宜仿漢故事<pc>，</pc>如遇朝廷行大惠<pc>，</pc>則以今年下詔<pc>，</pc>明年減租<pc>，</pc>示民先知減數<pc>，</pc>則吏難為欺<pc>，</pc>民拜實賜矣<pc>。</pc>
+<pc>“</pc>
+<quote>陛下自登大寶以來<pc>，</pc>蠲賦之詔無歲無之<pc>，</pc>而<num value="100">百</num>姓未沾實惠<pc>。</pc>蓋民輸率先期歸於吏胥<pc>、</pc>攬戶<pc>，</pc>及遇詔下<pc>，</pc>則所放者吏胥之物<pc>，</pc>所倚閣者攬戶之錢<pc>，</pc>是以寬恤之詔雖頒<pc>，</pc>愁歎之聲如故<pc>。</pc>嚐覺漢史恤民之詔<pc>，</pc>多減明年田租<pc>。</pc>今宜仿漢故事<pc>，</pc>如遇朝廷行大惠<pc>，</pc>則以今年下詔<pc>，</pc>明年減租<pc>，</pc>示民先知減數<pc>，</pc>則吏難為欺<pc>，</pc>民拜實賜矣<pc>。</pc>
+</quote>
 <pc>”</pc>從之<pc>。</pc>
 </p>
 </div>
@@ -843,14 +1042,14 @@
 <p>淳祐<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>監察<term>禦史</term>兼崇政殿說書陳求魯奏<pc>：</pc>
-<pc>“</pc>本朝仁政有餘<pc>，</pc>而王製未備<pc>。</pc>今之兩稅<pc>，</pc>本大曆之弊法也<pc>。</pc>常賦之入尚為病<pc>，</pc>況預借乎<pc>？</pc>預借<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>未已也<pc>，</pc>至於再<pc>，</pc>至於<num value="3">三</num>
-<pc>；</pc>預借<measure quantity="3" unit="years">
-<num value="3">三</num>歲</measure>未已也<pc>，</pc>至於<num value="4">四</num>
+<pc>“</pc>
+<quote>本朝仁政有餘<pc>，</pc>而王製未備<pc>。</pc>今之兩稅<pc>，</pc>本大曆之弊法也<pc>。</pc>常賦之入尚為病<pc>，</pc>況預借乎<pc>？</pc>預借<num value="1">一</num>歲未已也<pc>，</pc>至於再<pc>，</pc>至於<num value="3">三</num>
+<pc>；</pc>預借<num value="3">三</num>歲未已也<pc>，</pc>至於<num value="4">四</num>
 <pc>，</pc>至於<num value="5">五</num>
 <pc>。</pc>竊聞今之州縣<pc>，</pc>有借淳祐<measure quantity="14" unit="years">
 <num value="14">十四</num>年</measure>者矣<pc>。</pc>以<num value="100">百</num>畝之家計之<pc>，</pc>罄其永業<pc>，</pc>豈足支數年之借乎<pc>？</pc>操縱出於權宜<pc>，</pc>官吏得以簸弄<pc>，</pc>上下為奸<pc>，</pc>公私俱困<pc>。</pc>臣愚謂今日救弊之策<pc>，</pc>其大端有<num value="4">四</num>焉<pc>：</pc>宜采夏侯太初並省州郡之議<pc>，</pc>俾縣令得以直達於朝廷<pc>；</pc>用宋元嘉<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>為斷之法<pc>，</pc>俾縣令得以究心於撫字<pc>；</pc>法藝祖出朝紳為令之典<pc>，</pc>以重其權<pc>；</pc>遵光武擢卓茂為<num value="3">三</num>公之意<pc>，</pc>以激其氣<pc>。</pc>然後為之正其經界<pc>，</pc>明其版籍<pc>，</pc>約其妄費<pc>，</pc>裁其橫斂<pc>，</pc>則預借可革<pc>，</pc>民瘼有瘳矣<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -858,13 +1057,19 @@
 <p>鹹淳<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
 <pc>，</pc>侍<term>禦史</term>陳堅<pc>、</pc>殿中侍<term>禦史</term>陳過等奏<pc>：</pc>
-<pc>“</pc>今東南之民力竭矣<pc>，</pc>西北之邊患棘矣<pc>，</pc>諸葛亮所謂危急存亡之時也<pc>。</pc>而邸第戚畹<pc>、</pc>禦前寺觀<pc>，</pc>田連阡陌<pc>，</pc>亡慮數<num value="10000000">千萬</num>計<pc>，</pc>皆巧立名色<pc>，</pc>盡蠲<num value="2">二</num>稅<pc>。</pc>州縣乏興<pc>，</pc>鞭撻黎庶<pc>，</pc>鬻妻賣子<pc>，</pc>而鍾鳴鼎食之家<pc>，</pc>蒼頭廬兒<pc>，</pc>漿酒藿肉<pc>；</pc>琳宮梵宇之流<pc>，</pc>安居暇食<pc>，</pc>優遊死生<pc>。</pc>安平無事之時尤且不可<pc>，</pc>而況艱難多事之際乎<pc>？</pc>今欲寬邊患<pc>，</pc>當紓民力<pc>；</pc>欲紓民力<pc>，</pc>當紓州縣<pc>，</pc>則邸第<pc>、</pc>寺觀之常賦<pc>，</pc>不可姑息而不加厘正也<pc>。</pc>望與<num value="6">二三</num>大臣亟議行之<pc>。</pc>
+<pc>“</pc>
+<quote>今東南之民力竭矣<pc>，</pc>西北之邊患棘矣<pc>，</pc>諸葛亮所謂危急存亡之時也<pc>。</pc>而邸第戚畹<pc>、</pc>禦前寺觀<pc>，</pc>田連阡陌<pc>，</pc>亡慮數<num value="10000000">千萬</num>計<pc>，</pc>皆巧立名色<pc>，</pc>盡蠲<num value="2">二</num>稅<pc>。</pc>州縣乏興<pc>，</pc>鞭撻黎庶<pc>，</pc>鬻妻賣子<pc>，</pc>而鍾鳴鼎食之家<pc>，</pc>蒼頭廬兒<pc>，</pc>漿酒藿肉<pc>；</pc>琳宮梵宇之流<pc>，</pc>安居暇食<pc>，</pc>優遊死生<pc>。</pc>安平無事之時尤且不可<pc>，</pc>而況艱難多事之際乎<pc>？</pc>今欲寬邊患<pc>，</pc>當紓民力<pc>；</pc>欲紓民力<pc>，</pc>當紓州縣<pc>，</pc>則邸第<pc>、</pc>寺觀之常賦<pc>，</pc>不可姑息而不加厘正也<pc>。</pc>望與<num value="6">二三</num>大臣亟議行之<pc>。</pc>
+</quote>
 <pc>”</pc>詔可<pc>。</pc>
 </p>
 </div>
 <div>
-<p>建炎<measure quantity="2" unit="years">
+<p>
+<date when="1128">
+<date notBefore="1127" notAfter="1130">建炎</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>初複鈔旁定帖錢<pc>，</pc>命諸路提刑司掌之<pc>。</pc>紹興<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>詔偽造券旁者並依軍法<pc>。</pc>
@@ -888,36 +1093,47 @@
 <pc>，</pc>先是<pc>，</pc>諸州人戶典賣田宅契稅錢所收窠名<pc>，</pc>
 <num value="7">七</num>分隸經<pc>、</pc>總製<pc>，</pc>
 <num value="3">三</num>分屬係省<pc>。</pc>至是<pc>，</pc>總領<num value="4">四</num>川財賦王之望言<pc>，</pc>請從本所措置拘收<pc>，</pc>以供軍用<pc>，</pc>詔從之<pc>。</pc>凡嫁資<pc>、</pc>遺囑及民間葬地<pc>，</pc>皆令投契納稅<pc>，</pc>
-<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>中得錢<num value="4670000">四百六十七萬</num>餘引<pc>，</pc>而極邊所捐<num value="8">八</num>郡及盧<pc>、</pc>夔等未輸者<num value="19">十九</num>郡不與焉<pc>。</pc>乾道<measure quantity="5" unit="years">
+<num value="1">一</num>歲中得錢<num value="4670000">四百六十七萬</num>餘引<pc>，</pc>而極邊所捐<num value="8">八</num>郡及盧<pc>、</pc>夔等未輸者<num value="19">十九</num>郡不與焉<pc>。</pc>乾道<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>戶部尚書曾懷言<pc>：</pc>
 <pc>“</pc>
+<quote>
 <num value="4">四</num>川立限拘錢數<num value="1000000">百萬</num>緡<pc>，</pc>婺州亦得錢<num value="30">三十</num>餘<num value="10000">萬</num>緡<pc>，</pc>他路恬不加意<pc>。</pc>
+</quote>
 <pc>”</pc>詔<pc>：</pc>
 <pc>“</pc>
+<quote>
 <num value="100">百</num>姓白契<pc>，</pc>期<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>自陳<pc>，</pc>再期<measure quantity="100" unit="days">
 <num value="100">百</num>日</measure>輸稅<pc>，</pc>通判拘入總製帳<pc>。</pc>輸送及<num value="110000">十一萬</num>緡者<pc>，</pc>知<pc>、</pc>通推賞<pc>；</pc>違期不首<pc>，</pc>及輸錢違期者<pc>，</pc>許人告<pc>，</pc>論如律<pc>。</pc>
+</quote>
 <pc>”</pc>淳熙<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>敕令所進<pc>《</pc>
 <title>重修淳熙法</title>
 <pc>》</pc>
 <pc>，</pc>有收舟<pc>、</pc>驢<pc>、</pc>駝<pc>、</pc>馬契書之稅<pc>，</pc>帝命刪之<pc>，</pc>曰<pc>：</pc>
-<pc>“</pc>恐後世有算及舟車之言<pc>。</pc>
+<pc>“</pc>
+<quote>恐後世有算及舟車之言<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
 <div>
-<p>建炎<measure quantity="3" unit="years">
+<p>
+<date when="1129">
+<date notBefore="1127" notAfter="1130">建炎</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>張浚節製川<pc>、</pc>陝<pc>，</pc>承製以同主管川<pc>、</pc>秦茶馬趙開為隨軍轉運使<pc>，</pc>總領<num value="4">四</num>川財賦<pc>。</pc>自蜀有西師<pc>，</pc>益<pc>、</pc>利諸司已用便宜截<num value="3">三</num>路上供錢<pc>。</pc>
+</date>
+<pc>，</pc>張浚節製川<pc>、</pc>陝<pc>，</pc>承製以同主管川<pc>、</pc>秦茶馬趙開為隨軍<term>轉運使</term>
+<pc>，</pc>總領<num value="4">四</num>川財賦<pc>。</pc>自蜀有西師<pc>，</pc>益<pc>、</pc>利諸司已用便宜截<num value="3">三</num>路上供錢<pc>。</pc>
 <pc>（</pc>川峽布絹之給陝西<pc>、</pc>河東<pc>、</pc>京西者<pc>。</pc>
 <pc>）</pc>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>秋<pc>，</pc>遂盡起元豐以來諸路常平司坊場錢<pc>，</pc>
-<pc>（</pc>元豐以來封樁者<pc>。</pc>
+<num value="4">四</num>年</measure>秋<pc>，</pc>遂盡起<date notBefore="1078" notAfter="1085">元豐</date>以來諸路常平司坊場錢<pc>，</pc>
+<pc>（</pc>
+<date notBefore="1078" notAfter="1085">元豐</date>以來封樁者<pc>。</pc>
 <pc>）</pc>次科激賞絹<pc>，</pc>
 <pc>（</pc>是年初科<num value="330000">三十三萬</num>匹<pc>，</pc>俟邊事寧即罷<pc>。</pc>紹興<measure quantity="16" unit="years">
 <num value="16">十六</num>年</measure>
@@ -926,9 +1142,11 @@
 <pc>（</pc>即上<num value="3">三</num>路綱也<pc>，</pc>歲<num value="300000">三十萬</num>匹<pc>。</pc>西川匹理<num value="11">十一</num>引<pc>，</pc>東川<num value="10">十</num>引<pc>。</pc>自紹興<measure quantity="25" unit="years">
 <num value="25">二十五</num>年</measure>至慶元初<pc>，</pc>兩川並減至<num value="6">六</num>引<pc>。</pc>
 <pc>）</pc>次布估錢<pc>，</pc>
-<pc>（</pc>成都崇慶府<pc>、</pc>彭漢邛州<pc>、</pc>永康<num value="6">六</num>郡<pc>，</pc>自天聖間<pc>，</pc>官以<num value="300">三百</num>錢市布<num value="1">一</num>匹<pc>，</pc>民甚便之<pc>，</pc>後不複予錢<pc>。</pc>至是<pc>，</pc>宣撫司又令民匹輸估錢<num value="3">三</num>引<pc>，</pc>歲<num value="70">七十</num>餘<num value="10000">萬</num>匹<pc>，</pc>為錢<num value="200">二百</num>餘<num value="10000">萬</num>引<pc>。</pc>慶元初<pc>，</pc>累減至<num value="130">一百三十</num>餘<num value="10000">萬</num>引<pc>。</pc>
+<pc>（</pc>成都崇慶府<pc>、</pc>彭漢<placeName>邛州</placeName>
+<pc>、</pc>永康<num value="6">六</num>郡<pc>，</pc>自天聖間<pc>，</pc>官以<num value="300">三百</num>錢市布<num value="1">一</num>匹<pc>，</pc>民甚便之<pc>，</pc>後不複予錢<pc>。</pc>至是<pc>，</pc>宣撫司又令民匹輸估錢<num value="3">三</num>引<pc>，</pc>歲<num value="70">七十</num>餘<num value="10000">萬</num>匹<pc>，</pc>為錢<num value="200">二百</num>餘<num value="10000">萬</num>引<pc>。</pc>慶元初<pc>，</pc>累減至<num value="130">一百三十</num>餘<num value="10000">萬</num>引<pc>。</pc>
 <pc>）</pc>次常平司積年本息<pc>，</pc>
-<pc>（</pc>此熙<pc>、</pc>豐以來所謂青苗錢者<pc>。</pc>建炎元年<pc>，</pc>遣駕部員外郎喻汝礪括得<num value="800">八百</num>餘<num value="10000">萬</num>緡<pc>，</pc>至是<pc>，</pc>取以贍軍矣<pc>。</pc>
+<pc>（</pc>此熙<pc>、</pc>豐以來所謂青苗錢者<pc>。</pc>
+<date notBefore="1127" notAfter="1130">建炎</date>元年<pc>，</pc>遣駕部<term>員外郎</term>喻汝礪括得<num value="800">八百</num>餘<num value="10000">萬</num>緡<pc>，</pc>至是<pc>，</pc>取以贍軍矣<pc>。</pc>
 <pc>）</pc>次對糴米<pc>，</pc>
 <pc>（</pc>謂如戶當輸稅<num value="100">百</num>石<pc>，</pc>則又科糴<num value="100">百</num>石<pc>，</pc>故謂之對糴<pc>。</pc>
 <pc>）</pc>及他名色錢<pc>。</pc>
@@ -939,15 +1157,19 @@
 <div>
 <p>紹興<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>浚召拜尚書右仆射<pc>，</pc>以席益為<num value="4">四</num>川安撫製置大使<pc>，</pc>趙開為<num value="4">四</num>川都轉運使<pc>。</pc>益頗侵用軍期錢<pc>，</pc>開訴於朝<pc>，</pc>又數增錢引<pc>，</pc>而軍計猶不給<pc>。</pc>
+<pc>，</pc>浚召拜尚書右仆射<pc>，</pc>以席益為<num value="4">四</num>川安撫製置大使<pc>，</pc>趙開為<num value="4">四</num>川都<term>轉運使</term>
+<pc>。</pc>益頗侵用軍期錢<pc>，</pc>開訴於朝<pc>，</pc>又數增錢引<pc>，</pc>而軍計猶不給<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>以龍圖閣直學士李迨代開為都轉運使<pc>。</pc>都官員外郎馮康國言<pc>：</pc>
+<pc>，</pc>以龍圖閣直學士李迨代開為都<term>轉運使</term>
+<pc>。</pc>都官<term>員外郎</term>馮康國言<pc>：</pc>
 <pc>“</pc>
+<quote>
 <num value="4">四</num>川地狹民貧<pc>，</pc>祖宗時<pc>，</pc>正稅重者折科稍輕<pc>，</pc>正稅輕者折科稍重<pc>，</pc>
 <num value="2">二</num>者平準<pc>，</pc>所以無偏重偏輕之患<pc>。</pc>
 <num value="100">百</num>有餘年<pc>，</pc>民甚安之<pc>。</pc>近年<pc>，</pc>漕<pc>、</pc>總<num value="2">二</num>司輒更舊法<pc>，</pc>反覆紐折<pc>，</pc>取數務多<pc>，</pc>致民棄業逃移<pc>。</pc>望並罷之<pc>，</pc>
 <num value="1">一</num>遵舊製<pc>。</pc>
+</quote>
 <pc>”</pc>詔如所請<pc>，</pc>令憲臣察其不如法者<pc>。</pc>
 </p>
 </div>
@@ -968,15 +1190,20 @@
 <num value="8">八</num>年</measure>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
-<pc>，</pc>命深及宣撫司參議官陳遠猷並兼<num value="4">四</num>川轉運副使<pc>。</pc>席益以憂去<pc>，</pc>樞密直學士胡世將代之<pc>。</pc>
+<pc>，</pc>命深及宣撫司參議官陳遠猷並兼<num value="4">四</num>川<term>轉運副使</term>
+<pc>。</pc>席益以憂去<pc>，</pc>樞密直學士胡世將代之<pc>。</pc>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <pc>，</pc>鼎罷<pc>，</pc>秦檜獨相<pc>。</pc>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<pc>，</pc>和議成<pc>。</pc>簽書樞密院事樓炤宣諭陝西還<pc>，</pc>以金<num value="4000">四千</num>兩<pc>、</pc>銀<num value="200000">二十萬</num>兩輸激賞庫<pc>，</pc>皆取諸蜀者<pc>。</pc>會吳玠卒<pc>，</pc>以世將為宣撫副使<pc>，</pc>以吏部尚書張燾知成都府兼本路安撫使<pc>。</pc>上諭輔臣曰<pc>：</pc>
-<pc>“</pc>燾可付以便宜<pc>。</pc>如<num value="4">四</num>川前日橫斂<pc>，</pc>宜令減以紓民<pc>。</pc>
-<pc>”</pc>成都帥行民事<pc>，</pc>自燾始<pc>。</pc>世將奏以宣撫司參議官井度兼<num value="4">四</num>川轉運副使<pc>。</pc>
+<pc>，</pc>和議成<pc>。</pc>簽書樞密院事樓炤宣諭陝西還<pc>，</pc>以金<num value="4000">四千</num>兩<pc>、</pc>銀<num value="200000">二十萬</num>兩輸激賞庫<pc>，</pc>皆取諸蜀者<pc>。</pc>會吳玠卒<pc>，</pc>以世將為宣撫副使<pc>，</pc>以吏部尚書張燾知成都府兼本路<term>安撫使</term>
+<pc>。</pc>上諭輔臣曰<pc>：</pc>
+<pc>“</pc>
+<quote>燾可付以便宜<pc>。</pc>如<num value="4">四</num>川前日橫斂<pc>，</pc>宜令減以紓民<pc>。</pc>
+</quote>
+<pc>”</pc>成都帥行民事<pc>，</pc>自燾始<pc>。</pc>世將奏以宣撫司參議官井度兼<num value="4">四</num>川<term>轉運副使</term>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1015,18 +1242,21 @@
 <pc>。</pc>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
-<pc>，</pc>省<num value="4">四</num>川都轉運使<pc>，</pc>以其事歸宣撫司<pc>。</pc>剛中尋以事忤秦檜<pc>，</pc>於是置<num value="4">四</num>川總領所錢糧官<pc>，</pc>以太府少卿趙不棄為之<pc>。</pc>又改命不棄總領<num value="4">四</num>川宣撫司錢糧<pc>。</pc>
+<pc>，</pc>省<num value="4">四</num>川都<term>轉運使</term>
+<pc>，</pc>以其事歸宣撫司<pc>。</pc>剛中尋以事忤秦檜<pc>，</pc>於是置<num value="4">四</num>川總領所錢糧官<pc>，</pc>以太府少卿趙不棄為之<pc>。</pc>又改命不棄總領<num value="4">四</num>川宣撫司錢糧<pc>。</pc>
 <measure quantity="16" unit="years">
 <num value="16">十六</num>年</measure>
 <pc>，</pc>剛中奏減兩川米腳錢<num value="320000">三十二萬</num>緡<pc>，</pc>激賞絹<num value="20000">二萬</num>匹<pc>，</pc>免創增酒錢<num value="34000">三萬四千</num>緡<pc>。</pc>以<num value="4">四</num>川總製錢<num value="500000">五十萬</num>緡充邊費<pc>。</pc>
 <measure quantity="17" unit="years">
 <num value="17">十七</num>年</measure>
-<pc>，</pc>以戶部員外郎符行中總領<num value="4">四</num>川宣撫司錢糧<pc>，</pc>召剛中赴行在<pc>，</pc>不棄權工部侍郎<pc>，</pc>知成都府李璆權<num value="4">四</num>川宣撫司事<pc>。</pc>
+<pc>，</pc>以戶部<term>員外郎</term>符行中總領<num value="4">四</num>川宣撫司錢糧<pc>，</pc>召剛中赴行在<pc>，</pc>不棄權工部侍郎<pc>，</pc>知成都府李璆權<num value="4">四</num>川宣撫司事<pc>。</pc>
 </p>
 </div>
 <div>
 <p>先是<pc>，</pc>剛中奏<pc>：</pc>
-<pc>“</pc>本司舊貯備邊歲入錢引<num value="5815000">五百八十一萬五千</num>道<pc>，</pc>如撥供歲計<pc>，</pc>即可對減增添<pc>，</pc>寬省民力<pc>。</pc>
+<pc>“</pc>
+<quote>本司舊貯備邊歲入錢引<num value="5815000">五百八十一萬五千</num>道<pc>，</pc>如撥供歲計<pc>，</pc>即可對減增添<pc>，</pc>寬省民力<pc>。</pc>
+</quote>
 <pc>”</pc>詔李璆<pc>、</pc>符行中參酌減放<pc>。</pc>於是減<num value="4">四</num>川科敷虛額錢歲<num value="2850000">二百八十五萬</num>緡<pc>，</pc>兩川布估錢<num value="365000">三十六萬五千</num>緡<pc>，</pc>夔路鹽錢<num value="76000">七萬六千</num>緡<pc>，</pc>坊場<pc>、</pc>河度淨利抽貫稅錢<num value="46000">四萬六千</num>餘緡<pc>，</pc>又減兩川米腳錢<num value="420000">四十二萬</num>緡<pc>。</pc>時宣撫司降賜庫貯米<num value="1000000">一百萬</num>石<pc>，</pc>乃命行中酌度對糴分數均減<pc>。</pc>
 </p>
 </div>
@@ -1041,7 +1271,7 @@
 <num value="17">十七</num>年</measure>以前折估糴本等錢<num value="1290000">一百二十九萬</num>餘緡<pc>，</pc>米<num value="98700">九萬八千七百</num>餘石<pc>，</pc>綾<pc>、</pc>絹<num value="14000">一萬四千</num>餘匹<pc>。</pc>先是<pc>，</pc>自講和後<pc>，</pc>歲減錢<num value="4620000">四百六十二萬</num>緡有奇<pc>，</pc>朝廷猶以為重<pc>。</pc>
 <measure quantity="24" unit="years">
 <num value="24">二十四</num>年</measure>
-<pc>，</pc>遣戶部員外郎鍾世明同<num value="4">四</num>川製<pc>、</pc>總兩司措置裕民<pc>。</pc>
+<pc>，</pc>遣戶部<term>員外郎</term>鍾世明同<num value="4">四</num>川製<pc>、</pc>總兩司措置裕民<pc>。</pc>
 <measure quantity="25" unit="years">
 <num value="25">二十五</num>年</measure>
 <pc>，</pc>以符行中等言<pc>，</pc>減兩川絹估錢<num value="280000">二十八萬</num>緡<pc>，</pc>潼川府秋稅腳錢<num value="40000">四萬</num>緡<pc>，</pc>利路科斛腳錢<num value="120000">十二萬</num>緡<pc>，</pc>兩川米腳錢<num value="400000">四十萬</num>緡<pc>，</pc>鹽酒重額錢<num value="740000">七十四萬</num>緡<pc>，</pc>激賞絹<num value="9000">九千</num>餘匹<pc>，</pc>合<num value="160">一百六十</num>餘<num value="10000">萬</num>緡<pc>；</pc>蠲州縣紹興<measure quantity="19" unit="years">
@@ -1050,7 +1280,7 @@
 </p>
 </div>
 <div>
-<p>是時<pc>，</pc>朝廷雖蠲民舊逋<pc>，</pc>而符行中督責猶峻<pc>，</pc>蜀人怨之<pc>。</pc>於是以蕭振為<num value="4">四</num>川安撫製置使兼知成都府<pc>，</pc>行中提舉江州太平興國宮<pc>。</pc>
+<p>是時<pc>，</pc>朝廷雖蠲民舊逋<pc>，</pc>而符行中督責猶峻<pc>，</pc>蜀人怨之<pc>。</pc>於是以蕭振為<num value="4">四</num>川安撫製置使兼知成都府<pc>，</pc>行中提舉江州<date notBefore="976" notAfter="984">太平興國</date>宮<pc>。</pc>
 <measure quantity="26" unit="years">
 <num value="26">二十六</num>年</measure>
 <pc>，</pc>上以蜀民久困供億<pc>，</pc>詔製置蕭振<pc>、</pc>總領湯允恭<pc>、</pc>主管茶馬李澗<pc>、</pc>成都轉運判官許尹<pc>、</pc>潼川轉運判官王之望措置寬恤<pc>，</pc>於是之望奏減<num value="4">四</num>川上供之半<pc>。</pc>
@@ -1061,14 +1291,18 @@
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>利州舊宣撫司有積緡<num value="2000000">二百萬</num>
+<p>初<pc>，</pc>
+<placeName>利州</placeName>舊宣撫司有積緡<num value="2000000">二百萬</num>
 <pc>，</pc>守者密獻之朝<pc>，</pc>下製置司取撥<pc>。</pc>振曰<pc>：</pc>
-<pc>“</pc>此所以備水旱軍旅也<pc>，</pc>
+<pc>“</pc>
+<quote>此所以備水旱軍旅也<pc>，</pc>
 <num value="1">一</num>旦有急<pc>，</pc>又將取諸民乎<pc>？</pc>請留其半<pc>。</pc>
+</quote>
 <pc>”</pc>是歲振卒<pc>，</pc>李文會代之<pc>。</pc>
 <measure quantity="28" unit="years">
 <num value="28">二十八</num>年</measure>
-<pc>，</pc>文會卒<pc>，</pc>中書舍人王剛中代之<pc>。</pc>
+<pc>，</pc>文會卒<pc>，</pc>
+<term>中書舍人</term>王剛中代之<pc>。</pc>
 <measure quantity="29" unit="years">
 <num value="29">二十九</num>年</measure>
 <pc>，</pc>蠲<num value="4">四</num>川折估糴本積欠錢<num value="3400000">三百四十萬</num>緡<pc>。</pc>
@@ -1091,9 +1325,11 @@
 <num value="2">二</num>年</measure>瞻軍諸窠名錢物<pc>，</pc>暨退剝虧分之數<pc>，</pc>及漏底折欠等錢<pc>，</pc>並蠲之<pc>。</pc>蠲成都人戶理運對糴米腳錢<num value="350000">三十五萬</num>緡<pc>。</pc>淳熙<measure quantity="16" unit="years">
 <num value="16">十六</num>年</measure>詔<pc>：</pc>
 <pc>“</pc>
+<quote>
 <num value="4">四</num>川歲發湖<pc>、</pc>廣總領所綱運<num value="356000">百三十五萬六千</num>餘貫<pc>，</pc>自明年始<pc>，</pc>與免<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>。</pc>當議對減鹽酒之額<pc>，</pc>製置<pc>、</pc>總領同諸路轉運<pc>、</pc>提刑司條上<pc>。</pc>其湖<pc>、</pc>廣歲計<pc>，</pc>朝廷當自給之<pc>。</pc>
+</quote>
 <pc>”</pc>
 </p>
 </div>
@@ -1101,7 +1337,9 @@
 <p>紹熙<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>蠲潼川府去年被水州縣租稅<pc>，</pc>資普榮敘州<pc>、</pc>富順監凡夏輸亦如之<pc>。</pc>尋又詔<pc>：</pc>
-<pc>“</pc>本路旱傷州縣租稅<pc>，</pc>官為代輸及民已輸者<pc>，</pc>悉理今年之數<pc>。</pc>
+<pc>“</pc>
+<quote>本路旱傷州縣租稅<pc>，</pc>官為代輸及民已輸者<pc>，</pc>悉理今年之數<pc>。</pc>
+</quote>
 <pc>”</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
@@ -1122,8 +1360,9 @@
 <pc>。</pc>
 <measure quantity="11" unit="years">
 <num value="11">十一</num>年</measure>
-<pc>，</pc>蠲天水軍今年租役差科<pc>，</pc>西和州蠲<num value="10">十</num>之<num value="7">七</num>
-<pc>，</pc>成州蠲<num value="10">十</num>之<num value="6">六</num>
+<pc>，</pc>蠲天水軍今年租役差科<pc>，</pc>西<placeName>和州</placeName>蠲<num value="10">十</num>之<num value="7">七</num>
+<pc>，</pc>
+<placeName>成州</placeName>蠲<num value="10">十</num>之<num value="6">六</num>
 <pc>，</pc>將利<pc>、</pc>河池兩縣各蠲<num value="10">十</num>之<num value="5">五</num>
 <pc>，</pc>以經兵也<pc>。</pc>
 </p>

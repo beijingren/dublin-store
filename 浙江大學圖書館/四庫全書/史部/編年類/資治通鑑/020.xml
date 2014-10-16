@@ -127,13 +127,16 @@
 </div>
 <div>
 <p>5　自造白金<pc>、</pc>
-<num value="5">五</num>銖錢後<pc>，</pc>吏民之坐盜鑄金錢死者數<num value="100000">十萬</num>人<pc>，</pc>其不發覺者不可勝計<pc>，</pc>天下大抵無慮皆鑄金錢矣<pc>。</pc>犯者眾<pc>，</pc>吏不能盡誅<pc>。</pc>
+<num value="5">五</num>銖錢後<pc>，</pc>吏民之坐盜鑄金錢死者數<measure quantity="100000" unit="people">
+<num value="100000">十萬</num>人</measure>
+<pc>，</pc>其不發覺者不可勝計<pc>，</pc>天下大抵無慮皆鑄金錢矣<pc>。</pc>犯者眾<pc>，</pc>吏不能盡誅<pc>。</pc>
 </p>
 </div>
 <div>
 <p>6　<measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
-<pc>，</pc>詔遣博士褚大<pc>、</pc>徐偃等<num value="6">六</num>人分循郡國<pc>，</pc>舉兼併之徒及守<pc>、</pc>相<pc>、</pc>為吏有罪者<pc>。</pc>
+<pc>，</pc>詔遣博士褚大<pc>、</pc>徐偃等<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>分循郡國<pc>，</pc>舉兼併之徒及守<pc>、</pc>相<pc>、</pc>為吏有罪者<pc>。</pc>
 </p>
 </div>
 <div>
@@ -173,7 +176,8 @@
 </p>
 </div>
 <div>
-<p>2　濟東王彭離驕悍<pc>，</pc>昏暮<pc>，</pc>與其奴<pc>、</pc>亡命少年數<num value="10">十</num>人行剽殺人<pc>，</pc>取財物以為好<pc>，</pc>所殺發覺者<num value="100">百</num>餘人<pc>，</pc>坐廢<pc>，</pc>徙上庸<pc>。</pc>
+<p>2　濟東王彭離驕悍<pc>，</pc>昏暮<pc>，</pc>與其奴<pc>、</pc>亡命少年數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>行剽殺人<pc>，</pc>取財物以為好<pc>，</pc>所殺發覺者<num value="100">百</num>餘人<pc>，</pc>坐廢<pc>，</pc>徙上庸<pc>。</pc>
 </p>
 </div>
 <div>
@@ -237,7 +241,7 @@
 <div>
 <p>3　<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
-<pc>，</pc>以太子太傅趙周為丞相<pc>。</pc>
+<pc>，</pc>以<term>太子太傅</term>趙周為丞相<pc>。</pc>
 </p>
 </div>
 <div>
@@ -245,7 +249,7 @@
 <num value="3">三</num>月</measure>
 <pc>，</pc>
 <num value="48">辛亥</num>
-<pc>，</pc>以太子太傅石慶為御史大夫<pc>。</pc>
+<pc>，</pc>以<term>太子太傅</term>石慶為御史大夫<pc>。</pc>
 </p>
 </div>
 <div>
@@ -269,7 +273,9 @@
 <pc>「</pc>
 <quote>烏孫王昆莫本為匈奴臣<pc>，</pc>後兵稍強<pc>，</pc>不肯復朝事匈奴<pc>，</pc>匈奴攻不勝而遠之<pc>。</pc>今單于新困於漢<pc>，</pc>而故渾邪地空無人<pc>，</pc>蠻夷俗戀故地<pc>，</pc>又貪漢財物<pc>，</pc>今誠以此時厚幣賂烏孫<pc>，</pc>招以益東<pc>，</pc>居故渾邪之地<pc>，</pc>與漢結昆弟<pc>，</pc>其勢宜聽<pc>，</pc>聽則是斷匈奴右臂也<pc>。</pc>既連烏孫<pc>，</pc>自其西大夏之屬皆可招來而為外臣<pc>。</pc>
 </quote>
-<pc>」</pc>天子以為然<pc>，</pc>拜騫為中郎將<pc>，</pc>將<num value="300">三百</num>人<pc>，</pc>馬各<num value="2">二</num>匹<pc>，</pc>牛羊以<num value="10000">萬</num>數<pc>，</pc>繼金幣帛直數<num value="1000">千</num>巨<num value="10000">萬</num>
+<pc>」</pc>天子以為然<pc>，</pc>拜騫為中郎將<pc>，</pc>將<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>，</pc>馬各<num value="2">二</num>匹<pc>，</pc>牛羊以<num value="10000">萬</num>數<pc>，</pc>繼金幣帛直數<num value="1000">千</num>巨<num value="10000">萬</num>
 <pc>；</pc>多持節副使<pc>，</pc>道可便<pc>，</pc>遣之他旁國<pc>。</pc>
 </p>
 </div>
@@ -278,7 +284,9 @@
 <pc>「</pc>
 <quote>烏孫能東居故地<pc>，</pc>則漢遣公主為夫人<pc>，</pc>結為兄弟<pc>，</pc>共距匈奴<pc>，</pc>匈奴不足破也<pc>。</pc>
 </quote>
-<pc>」</pc>烏孫自以遠漢<pc>，</pc>未知其大小<pc>；</pc>素服屬匈奴日久<pc>，</pc>且又近之<pc>，</pc>其大臣皆畏匈奴<pc>，</pc>不欲移徙<pc>。</pc>騫留久之<pc>，</pc>不能得其要領<pc>，</pc>因分遣副使使大宛<pc>、</pc>康居<pc>、</pc>大月氏<pc>、</pc>大夏<pc>、</pc>安息<pc>、</pc>身毒<pc>、</pc>于闐及諸旁國<pc>，</pc>烏孫發譯道送騫還<pc>，</pc>使數<num value="10">十</num>人<pc>，</pc>馬數<num value="10">十</num>匹<pc>，</pc>隨騫報謝<pc>，</pc>因令窺漢大小<pc>。</pc>是歲<pc>，</pc>騫還<pc>，</pc>到<pc>，</pc>拜為大行<pc>。</pc>後歲餘<pc>，</pc>騫所遣使通大夏之屬者<pc>，</pc>皆頗與其人俱來<pc>，</pc>於是西域始通於漢矣<pc>。</pc>
+<pc>」</pc>烏孫自以遠漢<pc>，</pc>未知其大小<pc>；</pc>素服屬匈奴日久<pc>，</pc>且又近之<pc>，</pc>其大臣皆畏匈奴<pc>，</pc>不欲移徙<pc>。</pc>騫留久之<pc>，</pc>不能得其要領<pc>，</pc>因分遣副使使大宛<pc>、</pc>康居<pc>、</pc>大月氏<pc>、</pc>大夏<pc>、</pc>安息<pc>、</pc>身毒<pc>、</pc>于闐及諸旁國<pc>，</pc>烏孫發譯道送騫還<pc>，</pc>使數<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>馬數<num value="10">十</num>匹<pc>，</pc>隨騫報謝<pc>，</pc>因令窺漢大小<pc>。</pc>是歲<pc>，</pc>騫還<pc>，</pc>到<pc>，</pc>拜為大行<pc>。</pc>後歲餘<pc>，</pc>騫所遣使通大夏之屬者<pc>，</pc>皆頗與其人俱來<pc>，</pc>於是西域始通於漢矣<pc>。</pc>
 </p>
 </div>
 <div>
@@ -381,7 +389,9 @@
 <num value="4">四</num>月</measure>
 <pc>，</pc>
 <num value="42">乙巳</num>
-<pc>，</pc>封大為樂通侯<pc>，</pc>食邑<num value="2000">二千</num>戶<pc>，</pc>賜甲第<pc>，</pc>僮<num value="1000">千</num>人<pc>，</pc>乘輿斥車馬<pc>、</pc>帷帳<pc>、</pc>器物以充其家<pc>，</pc>又以衛長公主妻之<pc>，</pc>賫金<num value="100000">十萬</num>斤<pc>，</pc>天子親如<num value="5">五</num>利之第<pc>，</pc>使者存問共給<pc>，</pc>相屬於道<pc>。</pc>自太主<pc>、</pc>將<pc>、</pc>相以下<pc>，</pc>皆置酒其家<pc>，</pc>獻遺之<pc>。</pc>天子又刻玉印曰<pc>「</pc>
+<pc>，</pc>封大為樂通侯<pc>，</pc>食邑<num value="2000">二千</num>戶<pc>，</pc>賜甲第<pc>，</pc>僮<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>乘輿斥車馬<pc>、</pc>帷帳<pc>、</pc>器物以充其家<pc>，</pc>又以衛長公主妻之<pc>，</pc>賫金<num value="100000">十萬</num>斤<pc>，</pc>天子親如<num value="5">五</num>利之第<pc>，</pc>使者存問共給<pc>，</pc>相屬於道<pc>。</pc>自太主<pc>、</pc>將<pc>、</pc>相以下<pc>，</pc>皆置酒其家<pc>，</pc>獻遺之<pc>。</pc>天子又刻玉印曰<pc>「</pc>
 <quote>天道將軍</quote>
 <pc>」</pc>
 <pc>，</pc>使使衣羽衣<pc>，</pc>夜立白茅上<pc>；</pc>
@@ -458,7 +468,9 @@
 <p>1　冬<pc>，</pc>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
-<pc>，</pc>上祠<num value="5">五</num>畤於雍<pc>，</pc>遂逾隴<pc>，</pc>西登崆峒<pc>。</pc>隴西守以行往卒<pc>，</pc>天子從官不得食<pc>，</pc>惶恐<pc>，</pc>自殺<pc>。</pc>於是上北出蕭關<pc>，</pc>從數<num value="10000">萬</num>騎獵新秦中<pc>，</pc>以勒邊兵而歸<pc>。</pc>新秦中或<num value="1000">千</num>里無亭徼<pc>，</pc>於是誅北地太守以下<pc>。</pc>上又幸甘泉<pc>，</pc>立泰<num value="1">一</num>祠壇<pc>，</pc>所用祠具如雍<num value="1">一</num>畤而有加焉<pc>。</pc>
+<pc>，</pc>上祠<num value="5">五</num>畤於雍<pc>，</pc>遂逾隴<pc>，</pc>西登崆峒<pc>。</pc>隴西守以行往卒<pc>，</pc>天子從官不得食<pc>，</pc>惶恐<pc>，</pc>自殺<pc>。</pc>於是上北出蕭關<pc>，</pc>從數<measure quantity="10000" unit="riders">
+<num value="10000">萬</num>騎</measure>獵新秦中<pc>，</pc>以勒邊兵而歸<pc>。</pc>新秦中或<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>無亭徼<pc>，</pc>於是誅北地太守以下<pc>。</pc>上又幸甘泉<pc>，</pc>立泰<num value="1">一</num>祠壇<pc>，</pc>所用祠具如雍<num value="1">一</num>畤而有加焉<pc>。</pc>
 <num value="5">五</num>帝壇環居其下<num value="4">四</num>方地<pc>，</pc>為醊食群神從者及北斗云<pc>。</pc>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
@@ -485,20 +497,27 @@
 </p>
 </div>
 <div>
-<p>天子聞嘉不聽命<pc>，</pc>王<pc>、</pc>王太后孤弱不能制<pc>，</pc>使者怯無決<pc>；</pc>又以為王<pc>、</pc>王太后已附漢<pc>，</pc>獨呂嘉為亂<pc>，</pc>不足以興兵<pc>，</pc>欲使莊參以<num value="2000">二千</num>人往使<pc>。</pc>參曰<pc>：</pc>
+<p>天子聞嘉不聽命<pc>，</pc>王<pc>、</pc>王太后孤弱不能制<pc>，</pc>使者怯無決<pc>；</pc>又以為王<pc>、</pc>王太后已附漢<pc>，</pc>獨呂嘉為亂<pc>，</pc>不足以興兵<pc>，</pc>欲使莊參以<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>往使<pc>。</pc>參曰<pc>：</pc>
 <pc>「</pc>
 <quote>以好往<pc>，</pc>數人足矣<pc>；</pc>以武往<pc>，</pc>
-<num value="2000">二千</num>人無足以為也<pc>。</pc>
+<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>無足以為也<pc>。</pc>
 </quote>
 <pc>」</pc>辭不可<pc>，</pc>天子罷參<pc>。</pc>郟壯士故濟北相韓<num value="1000">千</num>秋奮曰<pc>：</pc>
 <pc>「</pc>
-<quote>以區區之越<pc>，</pc>又有王<pc>、</pc>王太后應<pc>，</pc>獨相呂嘉為害<pc>，</pc>願得勇士<num value="300">三百</num>人<pc>，</pc>必斬嘉以報<pc>。</pc>
+<quote>以區區之越<pc>，</pc>又有王<pc>、</pc>王太后應<pc>，</pc>獨相呂嘉為害<pc>，</pc>願得勇士<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>，</pc>必斬嘉以報<pc>。</pc>
 </quote>
-<pc>」</pc>於是天子遣<num value="1000">千</num>秋與王太后弟樛樂將<num value="2000">二千</num>人往<pc>，</pc>入越境<pc>。</pc>呂嘉等乃遂反<pc>，</pc>下令國中曰<pc>：</pc>
+<pc>」</pc>於是天子遣<num value="1000">千</num>秋與王太后弟樛樂將<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>往<pc>，</pc>入越境<pc>。</pc>呂嘉等乃遂反<pc>，</pc>下令國中曰<pc>：</pc>
 <pc>「</pc>
 <quote>王年少<pc>。</pc>太后<pc>，</pc>中國人也<pc>，</pc>又與使者亂<pc>，</pc>專欲內屬<pc>，</pc>盡持先王寶器入獻天子以自媚<pc>；</pc>多從人行<pc>，</pc>至長安<pc>，</pc>虜賣以為僮僕<pc>；</pc>取自脫<num value="1">一</num>時之利<pc>，</pc>無顧趙氏社稷<pc>、</pc>為<num value="10000">萬</num>世慮計之意<pc>。</pc>
 </quote>
-<pc>」</pc>乃與其弟將卒攻殺王<pc>、</pc>王太后及漢使者<pc>，</pc>遣人告蒼梧秦王及其諸郡縣<pc>，</pc>立明王長男越妻子術陽侯建德為王<pc>。</pc>而韓<num value="1000">千</num>秋兵入<pc>，</pc>破數小邑<pc>。</pc>其後越開直道給食<pc>，</pc>未至番禺<num value="40">四十</num>里<pc>，</pc>越以兵擊<num value="1000">千</num>秋等<pc>，</pc>遂滅之<pc>；</pc>使人函封漢使者節置塞上<pc>，</pc>好為謾辭謝罪<pc>，</pc>發兵守要害處<pc>。</pc>
+<pc>」</pc>乃與其弟將卒攻殺王<pc>、</pc>王太后及漢使者<pc>，</pc>遣人告蒼梧秦王及其諸郡縣<pc>，</pc>立明王長男越妻子術陽侯建德為王<pc>。</pc>而韓<num value="1000">千</num>秋兵入<pc>，</pc>破數小邑<pc>。</pc>其後越開直道給食<pc>，</pc>未至番禺<measure quantity="40" unit="LIs">
+<num value="40">四十</num>里</measure>
+<pc>，</pc>越以兵擊<num value="1000">千</num>秋等<pc>，</pc>遂滅之<pc>；</pc>使人函封漢使者節置塞上<pc>，</pc>好為謾辭謝罪<pc>，</pc>發兵守要害處<pc>。</pc>
 </p>
 </div>
 <div>
@@ -526,12 +545,16 @@
 </p>
 </div>
 <div>
-<p>5　秋<pc>，</pc>遣伏波將軍路博德出桂陽<pc>，</pc>下湟水<pc>；</pc>樓船將軍楊僕出豫章<pc>，</pc>下湞水<pc>；</pc>歸義越侯嚴為戈船將軍<pc>，</pc>出零陵<pc>，</pc>下離水<pc>；</pc>甲為下瀨將軍<pc>，</pc>下蒼梧<pc>；</pc>皆將罪人<pc>，</pc>江<pc>、</pc>淮以南樓船<num value="100000">十萬</num>人<pc>。</pc>越馳義侯遺別將巴<pc>、</pc>蜀罪人<pc>，</pc>發夜郎兵<pc>，</pc>下牂柯江<pc>，</pc>咸會番禺<pc>。</pc>
+<p>5　秋<pc>，</pc>遣伏波將軍路博德出桂陽<pc>，</pc>下湟水<pc>；</pc>樓船將軍楊僕出豫章<pc>，</pc>下湞水<pc>；</pc>歸義越侯嚴為戈船將軍<pc>，</pc>出零陵<pc>，</pc>下離水<pc>；</pc>甲為下瀨將軍<pc>，</pc>下蒼梧<pc>；</pc>皆將罪人<pc>，</pc>江<pc>、</pc>淮以南樓船<measure quantity="100000" unit="people">
+<num value="100000">十萬</num>人</measure>
+<pc>。</pc>越馳義侯遺別將巴<pc>、</pc>蜀罪人<pc>，</pc>發夜郎兵<pc>，</pc>下牂柯江<pc>，</pc>咸會番禺<pc>。</pc>
 </p>
 </div>
 <div>
 <p>齊相卜式上書<pc>，</pc>請父子與齊習船者往死南越<pc>。</pc>天子下詔褒美式<pc>，</pc>賜爵關內侯<pc>，</pc>金<num value="60">六十</num>斤<pc>，</pc>田<num value="10">十</num>頃<pc>，</pc>佈告天下<pc>；</pc>天下莫應<pc>。</pc>是時列侯以<num value="100">百</num>數<pc>，</pc>皆莫求從軍擊越<pc>。</pc>會<measure quantity="9" unit="months">
-<num value="9">九</num>月</measure>嘗酎<pc>，</pc>祭宗廟<pc>，</pc>列侯以令獻金助祭<pc>。</pc>少府省金<pc>，</pc>金有輕及色惡者<pc>，</pc>上皆令劾以不敬<pc>，</pc>奪爵者<num value="6">百六</num>人<pc>。</pc>
+<num value="9">九</num>月</measure>嘗酎<pc>，</pc>祭宗廟<pc>，</pc>列侯以令獻金助祭<pc>。</pc>少府省金<pc>，</pc>金有輕及色惡者<pc>，</pc>上皆令劾以不敬<pc>，</pc>奪爵者<measure quantity="6" unit="people">
+<num value="6">百六</num>人</measure>
+<pc>。</pc>
 <num value="18">辛巳</num>
 <pc>，</pc>丞相趙周坐知列侯酎金輕<pc>，</pc>下獄<pc>，</pc>自殺<pc>。</pc>
 </p>
@@ -547,16 +570,21 @@
 </p>
 </div>
 <div>
-<p>8　西羌眾<num value="100000">十萬</num>人反<pc>，</pc>與匈奴通使<pc>，</pc>攻故安<pc>，</pc>圍抱罕<pc>。</pc>匈奴入<num value="5">五</num>原<pc>，</pc>殺太守<pc>。</pc>
+<p>8　西羌眾<measure quantity="100000" unit="people">
+<num value="100000">十萬</num>人</measure>反<pc>，</pc>與匈奴通使<pc>，</pc>攻故安<pc>，</pc>圍抱罕<pc>。</pc>匈奴入<num value="5">五</num>原<pc>，</pc>殺太守<pc>。</pc>
 </p>
 </div>
 <div>
-<p>1　冬<pc>，</pc>發卒<num value="100000">十萬</num>人<pc>，</pc>遣將軍李息<pc>、</pc>郎中令徐自為征西羌<pc>，</pc>平之<pc>。</pc>
+<p>1　冬<pc>，</pc>發卒<measure quantity="100000" unit="people">
+<num value="100000">十萬</num>人</measure>
+<pc>，</pc>遣將軍李息<pc>、</pc>郎中令徐自為征西羌<pc>，</pc>平之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>2　樓船將軍楊僕入越地<pc>，</pc>先陷尋峽<pc>，</pc>破石門<pc>，</pc>挫越鋒<pc>，</pc>以數<num value="10000">萬</num>人待伏波將軍路博德至俱進<pc>，</pc>樓船居前<pc>，</pc>至番禺<pc>。</pc>南越王建德<pc>、</pc>相呂嘉城守<pc>。</pc>樓船居東南面<pc>，</pc>伏波居西北面<pc>。</pc>會暮<pc>，</pc>樓船攻敗越人<pc>，</pc>縱火燒城<pc>。</pc>伏波為營<pc>，</pc>遣使者招降者<pc>，</pc>賜印綬<pc>，</pc>復縱令相招<pc>。</pc>樓船力攻燒敵<pc>，</pc>驅而入伏波營中<pc>。</pc>黎旦<pc>，</pc>城中皆降<pc>。</pc>建德<pc>、</pc>嘉已夜亡入海<pc>，</pc>伏波遣人追之<pc>。</pc>校尉司馬蘇弘得建德<pc>，</pc>越郎都稽得嘉<pc>。</pc>戈船<pc>、</pc>下瀨將軍兵及馳義侯所發夜郎兵未下<pc>，</pc>南越已平矣<pc>。</pc>遂以其地為南海<pc>、</pc>蒼梧<pc>、</pc>鬱林<pc>、</pc>合浦<pc>、</pc>交趾<pc>、</pc>
-<num value="9">九</num>真<pc>、</pc>日南<pc>、</pc>珠崖<pc>、</pc>儋耳<num value="9">九</num>郡<pc>。</pc>師還<pc>，</pc>上益封伏波<pc>；</pc>封樓船為將梁侯<pc>，</pc>蘇弘為海常侯<pc>，</pc>都稽為臨蔡侯<pc>，</pc>及越降將蒼梧王趙光等<num value="4">四</num>人皆為侯<pc>。</pc>
+<p>2　樓船將軍楊僕入越地<pc>，</pc>先陷尋峽<pc>，</pc>破石門<pc>，</pc>挫越鋒<pc>，</pc>以數<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>待伏波將軍路博德至俱進<pc>，</pc>樓船居前<pc>，</pc>至番禺<pc>。</pc>南越王建德<pc>、</pc>相呂嘉城守<pc>。</pc>樓船居東南面<pc>，</pc>伏波居西北面<pc>。</pc>會暮<pc>，</pc>樓船攻敗越人<pc>，</pc>縱火燒城<pc>。</pc>伏波為營<pc>，</pc>遣使者招降者<pc>，</pc>賜印綬<pc>，</pc>復縱令相招<pc>。</pc>樓船力攻燒敵<pc>，</pc>驅而入伏波營中<pc>。</pc>黎旦<pc>，</pc>城中皆降<pc>。</pc>建德<pc>、</pc>嘉已夜亡入海<pc>，</pc>伏波遣人追之<pc>。</pc>校尉司馬蘇弘得建德<pc>，</pc>越郎都稽得嘉<pc>。</pc>戈船<pc>、</pc>下瀨將軍兵及馳義侯所發夜郎兵未下<pc>，</pc>南越已平矣<pc>。</pc>遂以其地為南海<pc>、</pc>蒼梧<pc>、</pc>鬱林<pc>、</pc>合浦<pc>、</pc>交趾<pc>、</pc>
+<num value="9">九</num>真<pc>、</pc>日南<pc>、</pc>珠崖<pc>、</pc>儋耳<num value="9">九</num>郡<pc>。</pc>師還<pc>，</pc>上益封伏波<pc>；</pc>封樓船為將梁侯<pc>，</pc>蘇弘為海常侯<pc>，</pc>都稽為臨蔡侯<pc>，</pc>及越降將蒼梧王趙光等<measure quantity="4" unit="people">
+<num value="4">四</num>人</measure>皆為侯<pc>。</pc>
 </p>
 </div>
 <div>
@@ -582,7 +610,8 @@
 </p>
 </div>
 <div>
-<p>6　初<pc>，</pc>東越王餘善上書<pc>，</pc>請以卒<num value="8000">八千</num>人從樓船擊呂嘉<pc>；</pc>兵至揭揚<pc>，</pc>以海風波為解<pc>，</pc>不行<pc>，</pc>持兩端<pc>，</pc>陰使南越<pc>。</pc>及漢破番禺<pc>，</pc>不至<pc>。</pc>楊僕上書願便引兵擊東越<pc>；</pc>上以士卒勞倦<pc>，</pc>不許<pc>，</pc>令諸校屯豫章<pc>、</pc>梅嶺以待命<pc>。</pc>餘善聞樓船請誅之<pc>，</pc>漢兵臨境<pc>，</pc>乃遂反<pc>，</pc>發兵距漢道<pc>，</pc>號將軍騶力等為吞漢將軍<pc>，</pc>入白沙<pc>、</pc>武林<pc>、</pc>梅嶺<pc>，</pc>殺漢<num value="3">三</num>校尉<pc>。</pc>是時<pc>，</pc>漢使大農張成<pc>、</pc>故山州侯齒將屯<pc>，</pc>弗敢擊<pc>，</pc>卻就便處<pc>，</pc>皆坐畏懦誅<pc>。</pc>餘善自稱武帝<pc>。</pc>
+<p>6　初<pc>，</pc>東越王餘善上書<pc>，</pc>請以卒<measure quantity="8000" unit="people">
+<num value="8000">八千</num>人</measure>從樓船擊呂嘉<pc>；</pc>兵至揭揚<pc>，</pc>以海風波為解<pc>，</pc>不行<pc>，</pc>持兩端<pc>，</pc>陰使南越<pc>。</pc>及漢破番禺<pc>，</pc>不至<pc>。</pc>楊僕上書願便引兵擊東越<pc>；</pc>上以士卒勞倦<pc>，</pc>不許<pc>，</pc>令諸校屯豫章<pc>、</pc>梅嶺以待命<pc>。</pc>餘善聞樓船請誅之<pc>，</pc>漢兵臨境<pc>，</pc>乃遂反<pc>，</pc>發兵距漢道<pc>，</pc>號將軍騶力等為吞漢將軍<pc>，</pc>入白沙<pc>、</pc>武林<pc>、</pc>梅嶺<pc>，</pc>殺漢<num value="3">三</num>校尉<pc>。</pc>是時<pc>，</pc>漢使大農張成<pc>、</pc>故山州侯齒將屯<pc>，</pc>弗敢擊<pc>，</pc>卻就便處<pc>，</pc>皆坐畏懦誅<pc>。</pc>餘善自稱武帝<pc>。</pc>
 </p>
 </div>
 <div>
@@ -598,7 +627,13 @@
 </p>
 </div>
 <div>
-<p>7　博望侯既以通西域尊貴<pc>，</pc>其吏士爭上書言外國奇怪利害求使<pc>。</pc>天子為其絕遠<pc>，</pc>非人所樂往<pc>，</pc>聽其言<pc>，</pc>予節<pc>，</pc>募吏民<pc>，</pc>毋問所從來<pc>，</pc>為具備人眾遣之<pc>，</pc>以廣其道<pc>。</pc>來還<pc>，</pc>不能毋侵盜幣物及使失指<pc>，</pc>天子為其習之<pc>，</pc>輒覆按致重罪<pc>，</pc>以激怒令贖<pc>，</pc>復求使<pc>，</pc>使端無窮<pc>，</pc>而輕犯法<pc>。</pc>其吏卒亦輒復盛推外國所有<pc>，</pc>言大者予節<pc>，</pc>言小者為副<pc>，</pc>故妄言無行之徒皆爭效之<pc>。</pc>其使皆貧人子<pc>，</pc>私縣官賫物<pc>，</pc>欲賤市以私其利<pc>。</pc>外國亦厭漢使<pc>，</pc>人人有言輕重<pc>，</pc>度漢兵遠不能至<pc>，</pc>而禁其食物以苦漢使<pc>。</pc>漢使乏絕<pc>，</pc>積怨至相攻擊<pc>。</pc>而樓蘭<pc>、</pc>車師<pc>，</pc>小國當空道<pc>，</pc>攻漢使王恢等尤甚<pc>，</pc>而匈奴奇兵又時遮擊之<pc>。</pc>使者爭言西域皆有城邑<pc>，</pc>兵弱易擊<pc>。</pc>於是天子遣浮沮將軍公孫賀將<num value="5000">萬五千</num>騎<pc>，</pc>出<num value="9">九</num>原<num value="2000">二千</num>餘里<pc>，</pc>至浮沮井而還<pc>；</pc>匈河將軍趙破奴將<num value="10000">萬</num>餘騎出令居數<num value="1000">千</num>里<pc>，</pc>至匈河水而還<pc>；</pc>以斥逐匈奴<pc>，</pc>不使遮漢使<pc>，</pc>皆不見匈奴<num value="1">一</num>人<pc>。</pc>乃分武威<pc>、</pc>酒泉地置張掖<pc>、</pc>敦煌郡<pc>，</pc>徙民以實之<pc>。</pc>
+<p>7　博望侯既以通西域尊貴<pc>，</pc>其吏士爭上書言外國奇怪利害求使<pc>。</pc>天子為其絕遠<pc>，</pc>非人所樂往<pc>，</pc>聽其言<pc>，</pc>予節<pc>，</pc>募吏民<pc>，</pc>毋問所從來<pc>，</pc>為具備人眾遣之<pc>，</pc>以廣其道<pc>。</pc>來還<pc>，</pc>不能毋侵盜幣物及使失指<pc>，</pc>天子為其習之<pc>，</pc>輒覆按致重罪<pc>，</pc>以激怒令贖<pc>，</pc>復求使<pc>，</pc>使端無窮<pc>，</pc>而輕犯法<pc>。</pc>其吏卒亦輒復盛推外國所有<pc>，</pc>言大者予節<pc>，</pc>言小者為副<pc>，</pc>故妄言無行之徒皆爭效之<pc>。</pc>其使皆貧人子<pc>，</pc>私縣官賫物<pc>，</pc>欲賤市以私其利<pc>。</pc>外國亦厭漢使<pc>，</pc>人人有言輕重<pc>，</pc>度漢兵遠不能至<pc>，</pc>而禁其食物以苦漢使<pc>。</pc>漢使乏絕<pc>，</pc>積怨至相攻擊<pc>。</pc>而樓蘭<pc>、</pc>車師<pc>，</pc>小國當空道<pc>，</pc>攻漢使王恢等尤甚<pc>，</pc>而匈奴奇兵又時遮擊之<pc>。</pc>使者爭言西域皆有城邑<pc>，</pc>兵弱易擊<pc>。</pc>於是天子遣浮沮將軍公孫賀將<measure quantity="5000" unit="riders">
+<num value="5000">萬五千</num>騎</measure>
+<pc>，</pc>出<num value="9">九</num>原<num value="2000">二千</num>餘里<pc>，</pc>至浮沮井而還<pc>；</pc>匈河將軍趙破奴將<num value="10000">萬</num>餘騎出令居數<measure quantity="1000" unit="LIs">
+<num value="1000">千</num>里</measure>
+<pc>，</pc>至匈河水而還<pc>；</pc>以斥逐匈奴<pc>，</pc>不使遮漢使<pc>，</pc>皆不見匈奴<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>
+<pc>。</pc>乃分武威<pc>、</pc>酒泉地置張掖<pc>、</pc>敦煌郡<pc>，</pc>徙民以實之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -671,11 +706,13 @@
 </p>
 </div>
 <div>
-<p>2　上以卜式不習文章<pc>，</pc>貶秩為太子太傅<pc>，</pc>以兒寬代為御史大夫<pc>。</pc>
+<p>2　上以卜式不習文章<pc>，</pc>貶秩為<term>太子太傅</term>
+<pc>，</pc>以兒寬代為御史大夫<pc>。</pc>
 </p>
 </div>
 <div>
-<p>3　漢兵入東越境<pc>，</pc>東越素發兵距險<pc>，</pc>使徇北將軍守武林<pc>。</pc>樓船將軍卒錢塘轅終古斬徇北將軍<pc>。</pc>故越衍侯吳陽以其邑<num value="700">七百</num>人反攻越軍於漢陽<pc>。</pc>越建成侯敖與繇王居股殺餘善<pc>，</pc>以其眾降<pc>。</pc>上封終古為御兒侯<pc>，</pc>陽為卯石侯<pc>，</pc>居股為東成侯<pc>，</pc>敖為開陵侯<pc>；</pc>又封橫海將軍說為按道侯<pc>，</pc>橫海校尉福為繚嫈侯<pc>，</pc>東越降將多軍為無錫侯<pc>。</pc>上以閩地險阻<pc>，</pc>數反覆<pc>，</pc>終為後世患<pc>，</pc>乃詔諸將悉徙其民於江<pc>、</pc>淮之間<pc>，</pc>遂虛其地<pc>。</pc>
+<p>3　漢兵入東越境<pc>，</pc>東越素發兵距險<pc>，</pc>使徇北將軍守武林<pc>。</pc>樓船將軍卒錢塘轅終古斬徇北將軍<pc>。</pc>故越衍侯吳陽以其邑<measure quantity="700" unit="people">
+<num value="700">七百</num>人</measure>反攻越軍於漢陽<pc>。</pc>越建成侯敖與繇王居股殺餘善<pc>，</pc>以其眾降<pc>。</pc>上封終古為御兒侯<pc>，</pc>陽為卯石侯<pc>，</pc>居股為東成侯<pc>，</pc>敖為開陵侯<pc>；</pc>又封橫海將軍說為按道侯<pc>，</pc>橫海校尉福為繚嫈侯<pc>，</pc>東越降將多軍為無錫侯<pc>。</pc>上以閩地險阻<pc>，</pc>數反覆<pc>，</pc>終為後世患<pc>，</pc>乃詔諸將悉徙其民於江<pc>、</pc>淮之間<pc>，</pc>遂虛其地<pc>。</pc>
 </p>
 </div>
 <div>
@@ -692,7 +729,8 @@
 </p>
 </div>
 <div>
-<p>上遂東巡海上<pc>，</pc>行禮祠<num value="8">八</num>神<pc>。</pc>齊人之上疏言神怪<pc>、</pc>奇方者以<num value="10000">萬</num>數<pc>，</pc>乃益發船<pc>，</pc>令言海中神山者數<num value="1000">千</num>人求蓬萊神人<pc>。</pc>公孫卿持節常先行<pc>，</pc>候名山<pc>，</pc>至東萊<pc>，</pc>言<pc>：</pc>
+<p>上遂東巡海上<pc>，</pc>行禮祠<num value="8">八</num>神<pc>。</pc>齊人之上疏言神怪<pc>、</pc>奇方者以<num value="10000">萬</num>數<pc>，</pc>乃益發船<pc>，</pc>令言海中神山者數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>求蓬萊神人<pc>。</pc>公孫卿持節常先行<pc>，</pc>候名山<pc>，</pc>至東萊<pc>，</pc>言<pc>：</pc>
 <pc>「</pc>
 <quote>夜見大人<pc>，</pc>長數丈<pc>，</pc>就之則不見<pc>，</pc>其跡甚大<pc>，</pc>類禽獸雲<pc>。</pc>
 </quote>
@@ -730,7 +768,8 @@
 <num value="1">一</num>日</measure>死<pc>。</pc>子侯<pc>，</pc>去病子也<pc>，</pc>上甚悼之<pc>；</pc>乃遂去<pc>，</pc>並海上<pc>，</pc>北至碣石<pc>，</pc>巡自遼西<pc>，</pc>歷北邊<pc>，</pc>至<num value="9">九</num>原<pc>。</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
-<pc>，</pc>乃至甘泉<pc>。</pc>凡周行<num value="8000">萬八千</num>里云<pc>。</pc>
+<pc>，</pc>乃至甘泉<pc>。</pc>凡周行<measure quantity="8000" unit="LIs">
+<num value="8000">萬八千</num>里</measure>云<pc>。</pc>
 </p>
 </div>
 <div>

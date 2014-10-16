@@ -24,9 +24,8 @@
 <body>
 <div type="chapter" n="21">
 <div>
-<p>
-<name key="null" type="null">　　<num value="2">二</num>
-</name>年春<measure quantity="1" unit="month">
+<p>　　<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>春<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -139,7 +138,8 @@
 <num value="43">丙午</num>
 <pc>，</pc>燕輔臣于延福宮<pc>。</pc>
 <num value="48">辛亥</num>
-<pc>，</pc>封子楃為衛國公<pc>。</pc>是歲<pc>，</pc>成都府<pc>、</pc>蘇州火<pc>。</pc>出宮女<measure quantity="383" unit="people">
+<pc>，</pc>封子楃為衛國公<pc>。</pc>是歲<pc>，</pc>成都府<pc>、</pc>
+<placeName>蘇州</placeName>火<pc>。</pc>出宮女<measure quantity="383" unit="people">
 <num value="383">三百八十三</num>人</measure>
 <pc>。</pc>高麗入貢<pc>。</pc>成都路夷人董舜咨<pc>、</pc>董彥博內附<pc>，</pc>置祺<pc>、</pc>亨<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>
@@ -209,7 +209,7 @@
 <num value="42">乙巳</num>
 <pc>，</pc>以福寧殿東建玉清和陽宮<pc>。</pc>
 <num value="43">丙午</num>
-<pc>，</pc>升定州為中山府<pc>。</pc>
+<pc>，</pc>升<placeName>定州</placeName>為中山府<pc>。</pc>
 <num value="46">己酉</num>
 <pc>，</pc>以資政殿學士薛昂為尚書右丞<pc>。</pc>
 <num value="47">庚戌</num>
@@ -237,7 +237,7 @@
 <num value="22">乙酉</num>
 <pc>，</pc>慮囚<pc>。</pc>
 <num value="33">丙申</num>
-<pc>，</pc>升蘇州為平江府<pc>。</pc>
+<pc>，</pc>升<placeName>蘇州</placeName>為平江府<pc>。</pc>
 <num value="37">庚子</num>
 <pc>，</pc>大盈倉火<pc>。</pc>
 <num value="39">壬寅</num>
@@ -266,7 +266,8 @@
 <num value="20">癸未</num>
 <pc>，</pc>升趙城縣為慶祚軍<pc>。</pc>
 <num value="21">甲申</num>
-<pc>，</pc>還王珪<pc>、</pc>孫固贈諡<pc>，</pc>追複韓忠彥<pc>、</pc>曾布<pc>、</pc>安燾<pc>、</pc>李清臣<pc>、</pc>黃履等官職<pc>。</pc>
+<pc>，</pc>還<persName>王珪</persName>
+<pc>、</pc>孫固贈諡<pc>，</pc>追複韓忠彥<pc>、</pc>曾布<pc>、</pc>安燾<pc>、</pc>李清臣<pc>、</pc>黃履等官職<pc>。</pc>
 <num value="37">庚子</num>
 <pc>，</pc>貴妃劉氏薨<pc>。</pc>
 <num value="39">壬寅</num>
@@ -279,7 +280,7 @@
 <num value="11">甲戌</num>
 <pc>，</pc>以燕樂成<pc>，</pc>進執政官<num value="1">一</num>等<pc>。</pc>
 <num value="13">丙子</num>
-<pc>，</pc>以何執中為少師<pc>。</pc>丁醜<pc>，</pc>升潤州為鎮江府<pc>。</pc>
+<pc>，</pc>以何執中為少師<pc>。</pc>丁醜<pc>，</pc>升<placeName>潤州</placeName>為鎮江府<pc>。</pc>
 <num value="15">戊寅</num>
 <pc>，</pc>封<num value="4">四</num>鎮山為王<pc>。</pc>
 </p>
@@ -351,9 +352,9 @@
 <num value="60">癸亥</num>
 <pc>，</pc>改淯井監為長寧軍<pc>。</pc>
 <num value="10">癸酉</num>
-<pc>，</pc>長<name key="曹丕" type="zi">
-<persName>子桓</persName>
-</name>冠<pc>。</pc>
+<pc>，</pc>長<persName>
+<name key="曹丕" type="zi">子桓</name>
+</persName>冠<pc>。</pc>
 </p>
 </div>
 <div>
@@ -368,7 +369,7 @@
 <num value="47">庚戌</num>
 <pc>，</pc>幸尚書省<pc>，</pc>以手詔訓誡蔡京<pc>、</pc>何執中<pc>，</pc>各官遷秩<pc>，</pc>吏賜帛有差<pc>。</pc>癸醜<pc>，</pc>閱太學<pc>、</pc>辟雍諸生雅樂<pc>。</pc>
 <num value="1">甲子</num>
-<pc>，</pc>改戎州為敘州<pc>。</pc>
+<pc>，</pc>改<placeName>戎州</placeName>為敘州<pc>。</pc>
 </p>
 </div>
 <div>
@@ -432,7 +433,8 @@
 <num value="46">己酉</num>
 <pc>，</pc>以禁中神禦殿成<pc>，</pc>減天下囚罪<num value="1">一</num>等<pc>。</pc>癸醜<pc>，</pc>定朝議<pc>、</pc>奉直大夫以<num value="80">八十</num>員為額<pc>。</pc>
 <num value="56">己未</num>
-<pc>，</pc>詔廣南市舶司歲貢真珠<pc>、</pc>犀角<pc>、</pc>象齒<pc>。</pc>是歲<pc>，</pc>相州野蠶成繭<pc>。</pc>出宮女<measure quantity="68" unit="people">
+<pc>，</pc>詔廣南市舶司歲貢真珠<pc>、</pc>犀角<pc>、</pc>象齒<pc>。</pc>是歲<pc>，</pc>
+<placeName>相州</placeName>野蠶成繭<pc>。</pc>出宮女<measure quantity="68" unit="people">
 <num value="68">六十八</num>人</measure>
 <pc>。</pc>
 </p>
@@ -444,7 +446,7 @@
 <num value="1">正</num>月</num>
 </measure>
 <num value="17">庚辰</num>
-<pc>，</pc>瀘南晏州夷反<pc>，</pc>尋詔梓州路轉運使趙遹等督兵討平之<pc>。</pc>己醜<pc>，</pc>令諸州縣置醫學<pc>，</pc>立貢額<pc>。</pc>
+<pc>，</pc>瀘南晏州夷反<pc>，</pc>尋詔<placeName>梓州</placeName>路<term>轉運使</term>趙遹等督兵討平之<pc>。</pc>己醜<pc>，</pc>令諸州縣置醫學<pc>，</pc>立貢額<pc>。</pc>
 <num value="31">甲午</num>
 <pc>，</pc>改龍州為政州<pc>。</pc>
 </p>
@@ -464,13 +466,14 @@
 <num value="16">己卯</num>
 <pc>，</pc>禦集英殿策進士<pc>。</pc>
 <num value="21">甲申</num>
-<pc>，</pc>追論至和<pc>、</pc>嘉祐定策功<pc>，</pc>封<persName>韓琦</persName>為魏郡王<pc>，</pc>複文彥博官<pc>。</pc>
+<pc>，</pc>追論至和<pc>、</pc>
+<date notBefore="1056" notAfter="1063">嘉祐</date>定策功<pc>，</pc>封<persName>韓琦</persName>為魏郡王<pc>，</pc>複文彥博官<pc>。</pc>
 <num value="24">丁亥</num>
 <pc>，</pc>詔以立皇太子<pc>，</pc>見責降文武臣僚並與牽複甄敘<pc>，</pc>凡<measure quantity="500" unit="people">
 <num value="500">千五百</num>人</measure>
 <pc>。</pc>
 <num value="29">壬辰</num>
-<pc>，</pc>升舒州為德慶軍<pc>。</pc>
+<pc>，</pc>升<placeName>舒州</placeName>為德慶軍<pc>。</pc>
 <num value="30">癸巳</num>
 <pc>，</pc>賜禮部奏名進士出身<measure quantity="670" unit="people">
 <num value="670">六百七十</num>人</measure>
@@ -487,7 +490,7 @@
 <num value="47">庚戌</num>
 <pc>，</pc>改集英殿為右文殿<pc>。</pc>
 <num value="60">癸亥</num>
-<pc>，</pc>置宣和殿學士<pc>。</pc>詔東宮講讀官罷讀史<pc>。</pc>
+<pc>，</pc>置<date notBefore="1119" notAfter="1125">宣和</date>殿學士<pc>。</pc>詔東宮講讀官罷讀史<pc>。</pc>
 </p>
 </div>
 <div>
@@ -507,7 +510,7 @@
 <num value="7">七</num>月</measure>
 <num value="5">戊辰</num>朔<pc>，</pc>日有食之<pc>。</pc>
 <num value="12">乙亥</num>
-<pc>，</pc>升汝州為陸海軍<pc>。</pc>丁醜<pc>，</pc>詔建明堂於寢殿之南<pc>。</pc>
+<pc>，</pc>升<placeName>汝州</placeName>為陸海軍<pc>。</pc>丁醜<pc>，</pc>詔建明堂於寢殿之南<pc>。</pc>
 <num value="21">甲申</num>
 <pc>，</pc>昭慶軍<term>節度使</term>蔡卞為開府儀同<num value="3">三</num>司<pc>。</pc>
 <num value="24">丁亥</num>
@@ -551,7 +554,9 @@
 <num value="57">庚申</num>
 <pc>，</pc>以平晏夷<pc>，</pc>曲赦<num value="4">四</num>川<pc>。</pc>
 <num value="60">癸亥</num>
-<pc>，</pc>置緣邊安撫司於瀘州<pc>。</pc>是歲<pc>，</pc>平江府<pc>、</pc>常<pc>、</pc>湖<pc>、</pc>秀州水<pc>。</pc>出宮女<measure quantity="50" unit="people">
+<pc>，</pc>置緣邊安撫司於<placeName>瀘州</placeName>
+<pc>。</pc>是歲<pc>，</pc>平江府<pc>、</pc>常<pc>、</pc>湖<pc>、</pc>
+<placeName>秀州</placeName>水<pc>。</pc>出宮女<measure quantity="50" unit="people">
 <num value="50">五十</num>人</measure>
 <pc>。</pc>
 </p>
@@ -652,7 +657,8 @@
 <num value="19">壬午</num>
 <pc>，</pc>詔天下監司<pc>、</pc>郡守搜訪岩穀之士<pc>，</pc>雖恢詭譎怪自晦者悉以名聞<pc>。</pc>
 <num value="24">丁亥</num>
-<pc>，</pc>幸蔡京第<pc>。</pc>己醜<pc>，</pc>升晉州為平陽<pc>、</pc>壽州為壽春<pc>、</pc>
+<pc>，</pc>幸蔡京第<pc>。</pc>己醜<pc>，</pc>升<placeName>晉州</placeName>為平陽<pc>、</pc>
+<placeName>壽州</placeName>為壽春<pc>、</pc>
 <placeName>齊州</placeName>為濟南府<pc>。</pc>
 </p>
 </div>
@@ -685,7 +691,8 @@
 <num value="37">庚子</num>
 <pc>，</pc>以禮部尚書白時中為尚書右丞<pc>。</pc>辛醜<pc>，</pc>魏國公材薨<pc>。</pc>
 <num value="45">戊申</num>
-<pc>，</pc>以侯蒙為中書侍郎<pc>，</pc>薛昂為尚書左丞<pc>。</pc>
+<pc>，</pc>以侯蒙為中書侍郎<pc>，</pc>薛昂為<term>尚書左丞</term>
+<pc>。</pc>
 <num value="56">己未</num>
 <pc>，</pc>徙封衛國公楃為鄆國公<pc>。</pc>增橫班為<num value="13">十三</num>階<pc>。</pc>
 <measure quantity="12" unit="months">
@@ -697,7 +704,9 @@
 <num value="22">乙酉</num>
 <pc>，</pc>奠<num value="9">九</num>鼎於圜像徽調閣<pc>。</pc>劉正夫為開府儀同<num value="3">三</num>司致仕<pc>。</pc>
 <num value="25">戊子</num>
-<pc>，</pc>以宗粹為開府儀同<num value="3">三</num>司<pc>。</pc>是歲<pc>，</pc>冀州<num value="3">三</num>山黃河清<pc>。</pc>出宮女<measure quantity="600" unit="people">
+<pc>，</pc>以宗粹為開府儀同<num value="3">三</num>司<pc>。</pc>是歲<pc>，</pc>
+<placeName>冀州</placeName>
+<num value="3">三</num>山黃河清<pc>。</pc>出宮女<measure quantity="600" unit="people">
 <num value="600">六百</num>人</measure>
 <pc>。</pc>高麗<pc>、</pc>占城<pc>、</pc>大食<pc>、</pc>真臘<pc>、</pc>大理<pc>、</pc>夏國入貢<pc>，</pc>茂州夷郅永壽內附<pc>。</pc>
 </p>
@@ -711,7 +720,7 @@
 <num value="34">丁酉</num>
 <pc>，</pc>于闐入貢<pc>。</pc>
 <num value="37">庚子</num>
-<pc>，</pc>以殿前都指揮使高俅為太尉<pc>。</pc>
+<pc>，</pc>以殿前<term>都指揮使</term>高俅為太尉<pc>。</pc>
 </p>
 </div>
 <div>
@@ -754,7 +763,8 @@
 <div>
 <p>　　<measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
-<num value="25">戊子</num>朔<pc>，</pc>升慶州為慶陽軍<pc>、</pc>渭州為平涼軍<pc>。</pc>己醜<pc>，</pc>如玉清和陽宮<pc>，</pc>上承天效法厚德光大後土皇地祇徽號寶冊<pc>。</pc>
+<num value="25">戊子</num>朔<pc>，</pc>升<placeName>慶州</placeName>為慶陽軍<pc>、</pc>
+<placeName>渭州</placeName>為平涼軍<pc>。</pc>己醜<pc>，</pc>如玉清和陽宮<pc>，</pc>上承天效法厚德光大後土皇地祇徽號寶冊<pc>。</pc>
 <num value="28">辛卯</num>
 <pc>，</pc>命蔡攸提舉秘書省並左右街道籙院<pc>。</pc>
 <num value="32">乙未</num>
@@ -841,8 +851,7 @@
 <num value="5">戊辰</num>
 <pc>，</pc>詔天神降于坤寧殿<pc>，</pc>刻石以紀之<pc>。</pc>
 <num value="7">庚午</num>
-<pc>，</pc>以童貫領樞密院<pc>。</pc>命戶部侍郎孟揆作<measure quantity="10000" unit="years">
-<num value="10000">萬</num>歲</measure>山<pc>。</pc>是歲<pc>，</pc>
+<pc>，</pc>以童貫領樞密院<pc>。</pc>命戶部侍郎孟揆作<num value="10000">萬</num>歲山<pc>。</pc>是歲<pc>，</pc>
 <num value="3">三</num>山河水清<pc>。</pc>出宮女<measure quantity="68" unit="people">
 <num value="68">六十八</num>人</measure>
 <pc>。</pc>
@@ -855,11 +864,12 @@
 </measure>
 <num value="21">甲申</num>朔<pc>，</pc>受定命寶於大慶殿<pc>。</pc>
 <num value="25">戊子</num>
-<pc>，</pc>封孫諶為崇國公<pc>。</pc>己醜<pc>，</pc>赦天下<pc>。</pc>應元符末上書邪中等人<pc>，</pc>依無過人例<pc>。</pc>
+<pc>，</pc>封孫諶為崇國公<pc>。</pc>己醜<pc>，</pc>赦天下<pc>。</pc>應<date notBefore="1098" notAfter="1100">元符</date>末上書邪中等人<pc>，</pc>依無過人例<pc>。</pc>
 <num value="42">乙巳</num>
 <pc>，</pc>封侄有奕為和義郡王<pc>。</pc>
 <num value="47">庚戌</num>
-<pc>，</pc>以翰林學士承旨王黼為尚書左丞<pc>。</pc>
+<pc>，</pc>以翰林學士承旨王黼為<term>尚書左丞</term>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -877,8 +887,7 @@
 <p>　　<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="23">丙戌</num>
-<pc>，</pc>詔監司<pc>、</pc>郡守自今須滿<measure quantity="3" unit="years">
-<num value="3">三</num>歲</measure>乃得代<pc>，</pc>仍毋得通理<pc>。</pc>
+<pc>，</pc>詔監司<pc>、</pc>郡守自今須滿<num value="3">三</num>歲乃得代<pc>，</pc>仍毋得通理<pc>。</pc>
 <num value="30">癸巳</num>
 <pc>，</pc>令嘉王楷赴廷對<pc>。</pc>
 <num value="33">丙申</num>
@@ -964,7 +973,7 @@
 <num value="10">癸酉</num>
 <pc>，</pc>封子椅為嘉國公<pc>。</pc>
 <num value="12">乙亥</num>
-<pc>，</pc>升兗州為襲慶府<pc>。</pc>
+<pc>，</pc>升<placeName>兗州</placeName>為襲慶府<pc>。</pc>
 </p>
 </div>
 <div>
@@ -991,7 +1000,8 @@
 <title>列子</title>
 <pc>》</pc>博士<num value="2">二</num>員<pc>。</pc>己醜<pc>，</pc>以歲當戌<pc>、</pc>月當壬為元命<pc>，</pc>降德音於天下<pc>。</pc>
 <num value="27">庚寅</num>
-<pc>，</pc>薛昂罷<pc>。</pc>以白時中為門下侍郎<pc>，</pc>王黼為中書侍郎<pc>，</pc>翰林學士承旨馮熙載為尚書左丞<pc>，</pc>刑部尚書范致虛為尚書右丞<pc>。</pc>
+<pc>，</pc>薛昂罷<pc>。</pc>以白時中為門下侍郎<pc>，</pc>王黼為中書侍郎<pc>，</pc>翰林學士承旨馮熙載為<term>尚書左丞</term>
+<pc>，</pc>刑部尚書范致虛為尚書右丞<pc>。</pc>
 <num value="29">壬辰</num>
 <pc>，</pc>禁州郡遏糴及邊將殺降以幸功賞者<pc>。</pc>
 <num value="30">癸巳</num>
@@ -1030,13 +1040,14 @@
 <num value="58">辛酉</num>
 <pc>，</pc>補上書人安堯臣官<pc>。</pc>
 <num value="6">己巳</num>
-<pc>，</pc>升梓州為潼川府<pc>。</pc>
+<pc>，</pc>升<placeName>梓州</placeName>為潼川府<pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　<measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<num value="15">戊寅</num>朔<pc>，</pc>複京西錢監<pc>。</pc>己醜<pc>，</pc>置裕民局<pc>。</pc>是歲<pc>，</pc>江<pc>、</pc>淮<pc>、</pc>荊<pc>、</pc>浙<pc>、</pc>梓州水<pc>。</pc>出宮女<measure quantity="78" unit="people">
+<num value="15">戊寅</num>朔<pc>，</pc>複京西錢監<pc>。</pc>己醜<pc>，</pc>置裕民局<pc>。</pc>是歲<pc>，</pc>江<pc>、</pc>淮<pc>、</pc>荊<pc>、</pc>浙<pc>、</pc>
+<placeName>梓州</placeName>水<pc>。</pc>出宮女<measure quantity="78" unit="people">
 <num value="78">百七十八</num>人</measure>
 <pc>。</pc>黃岩民妻<num value="1">一</num>產<num value="4">四</num>男子<pc>。</pc>于闐<pc>、</pc>高麗入貢<pc>。</pc>
 </p>

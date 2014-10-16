@@ -24,8 +24,7 @@
 <body>
 <div type="chapter" n="60">
 <div>
-<p>
-<name key="null" type="null">　　建</name>中靖國元年<measure quantity="1" unit="month">
+<p>　　建中靖國元年<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -34,7 +33,7 @@
 </p>
 </div>
 <div>
-<p>　　崇甯元年<measure quantity="3" unit="months">
+<p>　　<date notBefore="1102" notAfter="1106">崇甯</date>元年<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="17">庚辰</num>
 <pc>，</pc>星出張<pc>，</pc>如金星<pc>，</pc>西南急流<pc>，</pc>至濁沒<pc>，</pc>赤黃<pc>，</pc>有尾跡<pc>，</pc>明燭地<pc>。</pc>
@@ -143,7 +142,7 @@
 </p>
 </div>
 <div>
-<p>　　大觀元年<measure quantity="2" unit="months">
+<p>　　<date notBefore="1107" notAfter="1110">大觀</date>元年<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="4">丁卯</num>
 <pc>，</pc>星出參<pc>，</pc>如杯<pc>，</pc>西南急流<pc>，</pc>入濁沒<pc>，</pc>赤黃<pc>，</pc>無尾跡<pc>，</pc>明燭地<pc>。</pc>
@@ -210,7 +209,7 @@
 </p>
 </div>
 <div>
-<p>　　宣和元年<measure quantity="3" unit="months">
+<p>　　<date notBefore="1119" notAfter="1125">宣和</date>元年<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="4">丁卯</num>
 <pc>，</pc>星出柳<pc>，</pc>如盂<pc>，</pc>東北急流<pc>，</pc>入太微垣<pc>，</pc>赤黃<pc>，</pc>有尾跡<pc>，</pc>照地明<pc>。</pc>
@@ -290,8 +289,11 @@
 </p>
 </div>
 <div>
-<p>　　建炎<measure quantity="4" unit="years">
+<p>　　<date when="1130">
+<date notBefore="1127" notAfter="1130">建炎</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <num value="22">乙酉</num>
@@ -1221,7 +1223,8 @@
 <p>　　妖星</p>
 </div>
 <div>
-<p>　　建隆<measure quantity="2" unit="years">
+<p>　　<date notBefore="960" notAfter="963">建隆</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
@@ -1268,7 +1271,8 @@
 </div>
 <div>
 <p>　　端平<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春<pc>，</pc>天狗墜懷安金堂縣<pc>，</pc>聲如雷<pc>，</pc>
+<num value="2">二</num>年</measure>春<pc>，</pc>天狗墜懷安金堂縣<pc>，</pc>
+<placeName>聲</placeName>如雷<pc>，</pc>
 <measure quantity="3" unit="prefectures">
 <num value="3">三</num>州</measure>之人皆聞之<pc>，</pc>化爲碎石<pc>，</pc>其色紅<pc>。</pc>
 </p>
@@ -1333,7 +1337,8 @@
 <p>　　雲氣</p>
 </div>
 <div>
-<p>　　乾德<measure quantity="3" unit="years">
+<p>　　<date notBefore="963" notAfter="968">乾德</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
@@ -1342,13 +1347,14 @@
 </p>
 </div>
 <div>
-<p>　　開寶元年<measure quantity="10" unit="months">
+<p>　　<date notBefore="968" notAfter="976">開寶</date>元年<measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <num value="32">乙未</num>旦<pc>，</pc>西北起蒼白氣<num value="3">三</num>道<pc>，</pc>長<num value="20">二十</num>丈<pc>，</pc>趨東散<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　太平興國<measure quantity="4" unit="years">
+<p>　　<date notBefore="976" notAfter="984">太平興國</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
@@ -1356,7 +1362,8 @@
 </p>
 </div>
 <div>
-<p>　　雍熙<measure quantity="3" unit="years">
+<p>　　<date notBefore="984" notAfter="987">雍熙</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <measure quantity="1" unit="month">
 <num value="1">
@@ -1373,7 +1380,7 @@
 </p>
 </div>
 <div>
-<p>　　端拱元年<measure quantity="10" unit="months">
+<p>　　<date notBefore="988" notAfter="989">端拱</date>元年<measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <num value="9">壬申</num>遲明<pc>，</pc>巽上有雲過中天<pc>，</pc>連地<pc>，</pc>濃潤<pc>，</pc>前赤黃<pc>，</pc>後黑蒼色<pc>，</pc>先廣後大<pc>，</pc>行勢如截<pc>。</pc>
 <measure quantity="11" unit="months">
@@ -1382,7 +1389,8 @@
 </p>
 </div>
 <div>
-<p>　　至道<measure quantity="2" unit="years">
+<p>　　<date notBefore="995" notAfter="997">至道</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
@@ -1450,7 +1458,7 @@
 </p>
 </div>
 <div>
-<p>　　景德元年<measure quantity="3" unit="months">
+<p>　　<date notBefore="1004" notAfter="1007">景德</date>元年<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <pc>，</pc>白氣貫軒轅<pc>，</pc>蒼白氣<num value="10">十</num>餘如布亙天<pc>。</pc>
 <measure quantity="5" unit="months">
@@ -1519,7 +1527,7 @@
 </p>
 </div>
 <div>
-<p>　　大中祥符元年<measure quantity="1" unit="month">
+<p>　　<date notBefore="1008" notAfter="1016">大中祥符</date>元年<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -1560,7 +1568,8 @@
 </p>
 </div>
 <div>
-<p>　　天禧<measure quantity="2" unit="years">
+<p>　　<date notBefore="1017" notAfter="1021">天禧</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
@@ -1587,7 +1596,7 @@
 </p>
 </div>
 <div>
-<p>　　景祐元年<measure quantity="8" unit="months">
+<p>　　<date notBefore="1034" notAfter="1038">景祐</date>元年<measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <num value="59">壬戌</num>
 <pc>，</pc>青黃白氣如彗<pc>，</pc>長<num value="7">七</num>尺余<pc>，</pc>出張<pc>、</pc>翼之上<pc>，</pc>凡<measure quantity="33" unit="days">
@@ -1600,7 +1609,8 @@
 </p>
 </div>
 <div>
-<p>　　寶元<measure quantity="2" unit="years">
+<p>　　<date notBefore="1038" notAfter="1040">寶元</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="1" unit="month">
 <num value="1">
@@ -1613,7 +1623,7 @@
 </p>
 </div>
 <div>
-<p>　　康定元年<measure quantity="3" unit="months">
+<p>　　<date notBefore="1040" notAfter="1041">康定</date>元年<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="13">丙子</num>夜<pc>，</pc>東南方近濁<pc>，</pc>黑色橫亙數丈<pc>，</pc>闊尺許<pc>，</pc>良久散<pc>。</pc>
 <measure quantity="6" unit="months">
@@ -1623,7 +1633,7 @@
 </p>
 </div>
 <div>
-<p>　　慶曆元年<measure quantity="8" unit="months">
+<p>　　<date notBefore="1041" notAfter="1048">慶曆</date>元年<measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <num value="17">庚辰</num>夜<pc>，</pc>東方有白氣<pc>，</pc>長<num value="10">十</num>尺許<pc>，</pc>在星宿度中<pc>，</pc>至<measure quantity="10" unit="days">
 <num value="10">十</num>日</measure>
@@ -1687,7 +1697,8 @@
 </p>
 </div>
 <div>
-<p>　　皇祐<measure quantity="4" unit="years">
+<p>　　<date notBefore="1049" notAfter="1054">皇祐</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
@@ -1696,7 +1707,7 @@
 </p>
 </div>
 <div>
-<p>　　治平元年<measure quantity="6" unit="months">
+<p>　　<date notBefore="1064" notAfter="1067">治平</date>元年<measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <num value="55">戊午</num>夜<pc>，</pc>蒼白雲起東北方<pc>，</pc>長<num value="1">一</num>丈許<pc>，</pc>貫畢<pc>。</pc>
 <measure quantity="2" unit="years">
@@ -1754,7 +1765,7 @@
 </p>
 </div>
 <div>
-<p>　　熙甯元年<measure quantity="1" unit="month">
+<p>　　<date notBefore="1068" notAfter="1077">熙甯</date>元年<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
@@ -1872,7 +1883,8 @@
 </p>
 </div>
 <div>
-<p>　　元豐<measure quantity="2" unit="years">
+<p>　　<date notBefore="1078" notAfter="1085">元豐</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
@@ -1888,7 +1900,8 @@
 </p>
 </div>
 <div>
-<p>　　元祐<measure quantity="3" unit="years">
+<p>　　<date notBefore="1086" notAfter="1094">元祐</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
@@ -1899,7 +1912,8 @@
 </p>
 </div>
 <div>
-<p>　　紹聖<measure quantity="2" unit="years">
+<p>　　<date notBefore="1094" notAfter="1098">紹聖</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
@@ -1907,7 +1921,8 @@
 </p>
 </div>
 <div>
-<p>　　元符<measure quantity="2" unit="years">
+<p>　　<date notBefore="1098" notAfter="1100">元符</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
@@ -1915,7 +1930,7 @@
 </p>
 </div>
 <div>
-<p>　　崇甯元年<measure quantity="11" unit="months">
+<p>　　<date notBefore="1102" notAfter="1106">崇甯</date>元年<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <num value="46">己酉</num>
 <pc>，</pc>赤氣隨日沒<pc>。</pc>
@@ -1944,7 +1959,7 @@
 </p>
 </div>
 <div>
-<p>　　宣和元年<measure quantity="6" unit="months">
+<p>　　<date notBefore="1119" notAfter="1125">宣和</date>元年<measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <num value="18">辛巳</num>夜<pc>，</pc>赤氣起北方<pc>，</pc>半天如火<pc>。</pc>
 <measure quantity="7" unit="months">
@@ -2014,7 +2029,7 @@
 </p>
 </div>
 <div>
-<p>　　建炎元年<measure quantity="8" unit="months">
+<p>　　<date notBefore="1127" notAfter="1130">建炎</date>元年<measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <num value="9">壬申</num>
 <pc>，</pc>東北有赤氣<pc>。</pc>

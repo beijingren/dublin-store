@@ -24,10 +24,9 @@
 <body>
 <div type="chapter" n="82">
 <div>
-<p>
-<name key="null" type="null">　　乾</name>道<measure quantity="4" unit="years">
+<p>　　乾道<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>禮部員外郎李燾言<pc>：</pc>
+<pc>，</pc>禮部<term>員外郎</term>李燾言<pc>：</pc>
 <pc>「</pc>
 <quote>
 <pc>《</pc>
@@ -38,7 +37,8 @@
 <pc>》</pc>最號精微<pc>，</pc>用之亦不過<num value="30">三十</num>餘年<pc>，</pc>後之欲行遠也難矣<pc>。</pc>抑曆未差<pc>，</pc>無以知其失<pc>；</pc>未驗<pc>，</pc>無以知其是<pc>。</pc>仁宗用<pc>《</pc>
 <title>崇天曆</title>
 <pc>》</pc>
-<pc>，</pc>天聖至皇祐<measure quantity="4" unit="years">
+<pc>，</pc>天聖至<date notBefore="1049" notAfter="1054">皇祐</date>
+<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>日食<pc>，</pc>
@@ -62,25 +62,31 @@
 <pc>。</pc>羲叟曆學為宋第<num value="1">一</num>
 <pc>，</pc>
 <persName>歐陽修</persName>
-<pc>、</pc>司馬光輩皆遵用之<pc>。</pc>
+<pc>、</pc>
+<persName>司馬光</persName>輩皆遵用之<pc>。</pc>
 <pc>《</pc>
 <title>崇天曆</title>
 <pc>》</pc>既複用<pc>，</pc>又<measure quantity="13" unit="years">
 <num value="13">十三</num>年</measure>
-<pc>，</pc>治平<measure quantity="2" unit="years">
+<pc>，</pc>
+<date notBefore="1064" notAfter="1067">治平</date>
+<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>始改用<pc>《</pc>
 <title>明天曆</title>
 <pc>》</pc>
 <pc>，</pc>曆官周琮皆遷官<pc>。</pc>後<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>驗熙寧<measure quantity="3" unit="years">
+<pc>，</pc>驗<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>月食不效<pc>，</pc>乃詔複用<pc>《</pc>
 <title>崇天曆</title>
 <pc>》</pc>
-<pc>，</pc>奪琮等所遷官<pc>。</pc>熙寧<measure quantity="8" unit="years">
+<pc>，</pc>奪琮等所遷官<pc>。</pc>
+<date notBefore="1068" notAfter="1077">熙寧</date>
+<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>，</pc>始更用<pc>《</pc>
 <title>奉元曆</title>
@@ -114,7 +120,9 @@
 <div>
 <p>　　<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>國子司業兼權禮部侍郎程大昌<pc>、</pc>侍御史單時<pc>，</pc>秘書丞唐孚<pc>、</pc>秘書郎李木言<pc>：</pc>
+<pc>，</pc>國子司業兼權禮部侍郎程大昌<pc>、</pc>
+<term>侍御史</term>單時<pc>，</pc>
+<term>秘書丞</term>唐孚<pc>、</pc>秘書郎李木言<pc>：</pc>
 <pc>「</pc>
 <quote>都省下靈台郎充曆算官蓋堯臣<pc>、</pc>皇甫繼明<pc>、</pc>宋允恭等言<pc>：</pc>'厥今更造<pc>《</pc>
 <title>乾道新曆</title>
@@ -134,7 +142,8 @@
 </measure>內<num value="9">九</num>道太陰正對在赤道宿度<pc>，</pc>願委官與孝榮<pc>、</pc>大聲驗之<pc>。</pc>如或精密<pc>，</pc>即以所修<num value="9">九</num>道經法<pc>，</pc>請得與定驗官更集孝榮<pc>、</pc>大聲等同赴台<pc>，</pc>推步明年<num value="9">九</num>道太陰正對在赤道宿度<pc>，</pc>點定月分定驗<pc>，</pc>從其善者用之<pc>。</pc>'大昌等從大聲<pc>、</pc>孝榮所供<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
-</measure>內太陰<num value="9">九</num>道宿度<pc>，</pc>已赴太史局測驗上中旬畢<pc>，</pc>及取大聲<pc>、</pc>孝榮<pc>、</pc>堯臣等<num value="3">三</num>家所供<measure quantity="1" unit="month">
+</measure>內太陰<num value="9">九</num>道宿度<pc>，</pc>已赴太史局測驗上中旬畢<pc>，</pc>及取大聲<pc>、</pc>孝榮<pc>、</pc>堯臣等<measure quantity="3" unit="households">
+<num value="3">三</num>家</measure>所供<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>下旬太陰宿度<pc>，</pc>參照覽視<pc>，</pc>測驗疏密<pc>，</pc>堯臣<pc>、</pc>繼明<pc>、</pc>允恭請具今年太陰<num value="9">九</num>道宿度<pc>。</pc>欲依逐人所請<pc>，</pc>限<measure quantity="1" unit="month">
@@ -148,9 +157,7 @@
 </p>
 </div>
 <div>
-<p>　　孝榮自陳預定<measure quantity="24" unit="years">
-<num value="24">丁亥</num>歲</measure>
-<measure quantity="4" unit="months">
+<p>　　孝榮自陳預定<num value="24">丁亥</num>歲<measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>朔日食<pc>、</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>望月食<pc>，</pc>俱不驗<pc>。</pc>又定去年<measure quantity="2" unit="months">
@@ -199,8 +206,7 @@
 <p>　　其<num value="6">六</num>曰步交會<pc>，</pc>新曆妄設陽准<pc>、</pc>陰准等差<pc>，</pc>蓋欲苟合已往交食<pc>，</pc>其間複有不合者<pc>，</pc>則遷就天道<pc>，</pc>所以預定<num value="24">丁亥</num>
 <pc>、</pc>
 <num value="25">戊子</num>
-<measure quantity="2" unit="years">
-<num value="2">二</num>歲</measure>日月之食<pc>，</pc>便見差違<pc>。</pc>
+<num value="2">二</num>歲日月之食<pc>，</pc>便見差違<pc>。</pc>
 </p>
 </div>
 <div>
@@ -208,7 +214,7 @@
 </p>
 </div>
 <div>
-<p>　　新曆出於<date when="null">
+<p>　　新曆出於<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>民間<pc>《</pc>
 <title>
 <num value="10000">萬</num>分曆</title>
@@ -233,7 +239,8 @@
 </div>
 <div>
 <p>　　時談天者各以技術相高<pc>，</pc>互相詆毀<pc>。</pc>
-<term>諫議大夫</term>單時<pc>、</pc>秘書少監汪大猷<pc>、</pc>國子司業權禮部侍郎程大昌<pc>、</pc>秘書丞唐孚<pc>、</pc>秘書郎李木言<pc>：</pc>
+<term>諫議大夫</term>單時<pc>、</pc>秘書少監汪大猷<pc>、</pc>國子司業權禮部侍郎程大昌<pc>、</pc>
+<term>秘書丞</term>唐孚<pc>、</pc>秘書郎李木言<pc>：</pc>
 <pc>「</pc>
 <quote>
 <pc>《</pc>
@@ -269,7 +276,8 @@
 <pc>》</pc>
 <measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>
-<pc>。</pc>秋<pc>，</pc>成都曆學進士賈複自言<pc>，</pc>詔求推明熒惑<pc>、</pc>太陰<num value="2">二</num>事<pc>，</pc>轉運使資遣至臨安<pc>，</pc>願造新曆畢還蜀<pc>，</pc>仍進<pc>《</pc>
+<pc>。</pc>秋<pc>，</pc>成都曆學進士賈複自言<pc>，</pc>詔求推明熒惑<pc>、</pc>太陰<num value="2">二</num>事<pc>，</pc>
+<term>轉運使</term>資遣至臨安<pc>，</pc>願造新曆畢還蜀<pc>，</pc>仍進<pc>《</pc>
 <title>曆法<num value="9">九</num>議</title>
 <pc>》</pc>
 <pc>。</pc>孝宗嘉其志<pc>，</pc>館於京學<pc>，</pc>賜廩給<pc>。</pc>太史局李繼宗等言<pc>：</pc>
@@ -280,9 +288,9 @@
 <pc>、</pc>小分<num value="93">九十三</num>
 <pc>。</pc>賈複<pc>、</pc>劉大中等各虧初<pc>、</pc>食甚分夜不同<pc>。</pc>
 </quote>
-<pc>」</pc>詔禮部侍郎鄭聞監李繼宗等測驗<pc>。</pc>是夜<pc>，</pc>食<num value="8">八</num>分<pc>。</pc>秘書省言<pc>，</pc>靈台郎宋允恭<pc>、</pc>國學生林<name key="歐陽修" type="zi">
-<persName>永叔</persName>
-</name>
+<pc>」</pc>詔禮部侍郎鄭聞監李繼宗等測驗<pc>。</pc>是夜<pc>，</pc>食<num value="8">八</num>分<pc>。</pc>秘書省言<pc>，</pc>靈台郎宋允恭<pc>、</pc>國學生林<persName>
+<name key="歐陽修" type="zi">永叔</name>
+</persName>
 <pc>、</pc>草澤祝斌<pc>、</pc>黃夢得<pc>、</pc>吳時舉<pc>、</pc>陳彥健等各推算日食時刻<pc>、</pc>分數異同<pc>。</pc>乃詔<term>諫議大夫</term>姚憲監繼宗等測驗<measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>朔日食<pc>。</pc>憲奏時刻<pc>、</pc>分數皆差舛<pc>，</pc>繼宗<pc>、</pc>澤<pc>、</pc>大聲削降有差<pc>。</pc>
 </p>
@@ -331,9 +339,9 @@
 <num value="1">正</num>月</num>
 </measure>朔當用<num value="21">甲申</num>
 <pc>。</pc>兼今歲<measure quantity="5" unit="months">
-<num value="5">五</num>月</measure>朔<pc>，</pc>太陽交食<pc>，</pc>本局官生瞻視到天道日食<num value="4">四</num>分半<pc>：</pc>虧初西北<pc>，</pc>午時<num value="5">五</num>刻半<pc>；</pc>食甚正北<pc>，</pc>未初<num value="2">二</num>刻<pc>；</pc>複滿東北<pc>，</pc>申初<num value="1">一</num>刻<pc>。</pc>後令<name key="歐陽修" type="zi">
-<persName>永叔</persName>
-</name>等<measure quantity="5" unit="people">
+<num value="5">五</num>月</measure>朔<pc>，</pc>太陽交食<pc>，</pc>本局官生瞻視到天道日食<num value="4">四</num>分半<pc>：</pc>虧初西北<pc>，</pc>午時<num value="5">五</num>刻半<pc>；</pc>食甚正北<pc>，</pc>未初<num value="2">二</num>刻<pc>；</pc>複滿東北<pc>，</pc>申初<num value="1">一</num>刻<pc>。</pc>後令<persName>
+<name key="歐陽修" type="zi">永叔</name>
+</persName>等<measure quantity="5" unit="people">
 <num value="5">五</num>人</measure>各言<measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>朔日食分數並虧初<pc>、</pc>食甚<pc>、</pc>複滿時刻皆不同<pc>。</pc>並見行<pc>《</pc>
 <title>乾道曆</title>
@@ -561,8 +569,7 @@
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <pc>，</pc>詔<pc>：</pc>
-<measure quantity="41" unit="years">
-<num value="41">甲辰</num>歲</measure>曆字誤<pc>，</pc>令禮部更印造<pc>，</pc>頒諸安南國<pc>。</pc>繼宗<pc>、</pc>澤及荊大聲削降有差<pc>。</pc>
+<num value="41">甲辰</num>歲曆字誤<pc>，</pc>令禮部更印造<pc>，</pc>頒諸安南國<pc>。</pc>繼宗<pc>、</pc>澤及荊大聲削降有差<pc>。</pc>
 </p>
 </div>
 <div>
@@ -613,13 +620,13 @@
 <pc>「</pc>
 <quote>日月之行有疏數<pc>，</pc>故曆久不能無差<pc>，</pc>大抵月之行速<pc>，</pc>多是不及<pc>，</pc>無有過者<pc>。</pc>可遣台官<pc>、</pc>禮部官同驗之<pc>。</pc>
 </quote>
-<pc>」</pc>詔遣禮部侍郎顏<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>
+<pc>」</pc>詔遣禮部侍郎顏<persName>
+<name key="尹洙" type="zi">師魯</name>
+</persName>
 <pc>。</pc>其夜戌正<num value="2">二</num>刻<pc>，</pc>陰雲蔽月<pc>，</pc>不辨虧食<pc>。</pc>
-<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>請詔精于曆學者與太史定曆<pc>，</pc>孝宗曰<pc>：</pc>
+<persName>
+<name key="尹洙" type="zi">師魯</name>
+</persName>請詔精于曆學者與太史定曆<pc>，</pc>孝宗曰<pc>：</pc>
 <pc>「</pc>
 <quote>曆久必差<pc>，</pc>聞來年月食者<num value="2">二</num>
 <pc>，</pc>可俟驗否<pc>？</pc>
@@ -656,9 +663,9 @@
 <num value="29">二十九</num>日</measure>驗月見東方<num value="1">一</num>事<pc>，</pc>苟見月餘光<pc>，</pc>則其日不當以為晦也<pc>。</pc>又今年<measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <measure quantity="16" unit="days">
-<num value="16">十六</num>日</measure>驗月未盈<num value="1">一</num>事<pc>，</pc>苟見月體東向之光猶薄<pc>，</pc>則其日不當為望也<pc>。</pc>知晦望之差<pc>，</pc>則朔之差明矣<pc>。</pc>必使氣之與朔無毫髮之差<pc>，</pc>始可演造新曆<pc>。</pc>付禮部議<pc>，</pc>各具先見<pc>，</pc>指定太陰虧食分數<pc>、</pc>方面<pc>、</pc>辰刻<pc>，</pc>定驗折衷<pc>。</pc>詔<name key="尹洙" type="zi">
-<persName>師魯</persName>
-</name>
+<num value="16">十六</num>日</measure>驗月未盈<num value="1">一</num>事<pc>，</pc>苟見月體東向之光猶薄<pc>，</pc>則其日不當為望也<pc>。</pc>知晦望之差<pc>，</pc>則朔之差明矣<pc>。</pc>必使氣之與朔無毫髮之差<pc>，</pc>始可演造新曆<pc>。</pc>付禮部議<pc>，</pc>各具先見<pc>，</pc>指定太陰虧食分數<pc>、</pc>方面<pc>、</pc>辰刻<pc>，</pc>定驗折衷<pc>。</pc>詔<persName>
+<name key="尹洙" type="zi">師魯</name>
+</persName>
 <pc>、</pc>繼周監之<pc>。</pc>既而孝榮差<num value="1">一</num>點<pc>，</pc>繼明等差<num value="2">二</num>點<pc>，</pc>忠輔差<num value="3">三</num>點<pc>，</pc>乃罷遣之<pc>。</pc>
 </p>
 </div>
@@ -732,22 +739,19 @@
 <pc>《</pc>
 <title>淳熙曆</title>
 <pc>》</pc>立法乖疏<pc>，</pc>
-<measure quantity="43" unit="years">
-<num value="43">丙午</num>歲</measure>定望則在<measure quantity="17" unit="days">
+<num value="43">丙午</num>歲定望則在<measure quantity="17" unit="days">
 <num value="17">十七</num>日</measure>
 <pc>，</pc>太史知其不可<pc>，</pc>遂注望於<measure quantity="16" unit="days">
 <num value="16">十六</num>日</measure>下<pc>，</pc>以掩其過<pc>。</pc>臣等嘗陳請于太史局官對辨<pc>，</pc>置局更曆<pc>，</pc>迄今未行<pc>。</pc>今考<pc>《</pc>
 <title>淳熙歷經</title>
 <pc>》</pc>則又差於將來<pc>。</pc>
-<measure quantity="45" unit="years">
-<num value="45">戊申</num>歲</measure>
-<measure quantity="11" unit="months">
+<num value="45">戊申</num>歲<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>下弦則在<measure quantity="24" unit="days">
 <num value="24">二十四</num>日</measure>
 <pc>，</pc>太史局官必俟頒曆之際<pc>，</pc>又將妄退於<measure quantity="23" unit="days">
 <num value="23">二十三</num>日</measure>矣<pc>。</pc>法不足恃<pc>，</pc>必假遷就<pc>，</pc>而朔望<num value="2">二</num>弦<pc>，</pc>曆法綱紀<pc>，</pc>苟失其<num value="1">一</num>
 <pc>，</pc>則<num value="5">五</num>星盈縮<pc>、</pc>日月交會<pc>、</pc>與夫昏旦之中星<pc>、</pc>晝夜之晷刻<pc>，</pc>皆不可得而正也<pc>。</pc>渾儀<pc>、</pc>景表<pc>，</pc>壺漏之器<pc>，</pc>臣等私家無之<pc>，</pc>是以曆之成書<pc>，</pc>猶有所待<pc>。</pc>
-<date when="null">國朝</date>以來<pc>，</pc>必假創局而曆始成<pc>，</pc>請依改造大曆故事<pc>，</pc>置局更曆<pc>，</pc>以祛太史局之敝<pc>。</pc>
+<date notBefore="9999" notAfter="9999">國朝</date>以來<pc>，</pc>必假創局而曆始成<pc>，</pc>請依改造大曆故事<pc>，</pc>置局更曆<pc>，</pc>以祛太史局之敝<pc>。</pc>
 </quote>
 <pc>」</pc>事上聞<pc>，</pc>
 <term>宰相</term>王淮奏免送後省看詳<pc>，</pc>孝宗曰<pc>：</pc>
@@ -757,8 +761,7 @@
 <pc>」</pc>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
-<pc>，</pc>給事中兼修玉牒官王信亦言更曆事<pc>，</pc>以為曆法深奧<pc>，</pc>若非詳加測驗<pc>，</pc>無以見其疏密<pc>。</pc>乞令繼明與<num value="10000">萬</num>各造來年<measure quantity="1" unit="year">
-<num value="1">一</num>歲</measure>之曆<pc>，</pc>取其無差者<pc>。</pc>詔從之<pc>。</pc>
+<pc>，</pc>給事中兼修玉牒官王信亦言更曆事<pc>，</pc>以為曆法深奧<pc>，</pc>若非詳加測驗<pc>，</pc>無以見其疏密<pc>。</pc>乞令繼明與<num value="10000">萬</num>各造來年<num value="1">一</num>歲之曆<pc>，</pc>取其無差者<pc>。</pc>詔從之<pc>。</pc>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <pc>，</pc>進所造曆<pc>。</pc>淮等奏<pc>：</pc>
@@ -778,7 +781,8 @@
 <pc>「</pc>
 <quote>朔豈可差<pc>？</pc>朔差則所失多矣<pc>。</pc>
 </quote>
-<pc>」</pc>乃命吏部侍郎章森<pc>、</pc>秘書丞宋伯嘉參定以聞<pc>。</pc>
+<pc>」</pc>乃命吏部侍郎章森<pc>、</pc>
+<term>秘書丞</term>宋伯嘉參定以聞<pc>。</pc>
 </p>
 </div>
 <div>
@@ -851,7 +855,7 @@
 <pc>，</pc>今歲冬至並<measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>望<pc>，</pc>月食皆後天<num value="1">一</num>辰<pc>，</pc>請遣官測驗<pc>。</pc>
 </quote>
-<pc>」</pc>詔禮部侍郎李巘<pc>、</pc>秘書省鄧馹等視之<pc>。</pc>巘等請用太史局渾儀測驗<pc>，</pc>如乾道故事<pc>，</pc>差秘書省提舉<num value="1">一</num>員專監之<pc>。</pc>詔差秘書丞黃艾<pc>、</pc>校書郎王叔簡<pc>。</pc>
+<pc>」</pc>詔禮部侍郎李巘<pc>、</pc>秘書省鄧馹等視之<pc>。</pc>巘等請用太史局渾儀測驗<pc>，</pc>如乾道故事<pc>，</pc>差秘書省提舉<num value="1">一</num>員專監之<pc>。</pc>詔差<term>秘書丞</term>黃艾<pc>、</pc>校書郎王叔簡<pc>。</pc>
 </p>
 </div>
 <div>
@@ -954,13 +958,18 @@
 <title>會元曆</title>
 <pc>》</pc>占候多差<pc>，</pc>日官<pc>、</pc>草澤互有異同<pc>，</pc>詔禮部侍郎胡紘充提領官<pc>，</pc>正字馮履充參定官<pc>，</pc>監楊忠輔造新曆<pc>。</pc>右<term>諫議大夫</term>兼侍講姚愈言<pc>：</pc>
 <pc>「</pc>
-<quote>太史局文籍散逸<pc>，</pc>測驗之器又複不備<pc>，</pc>幾何而不疏略哉<pc>！</pc>漢元鳳間<pc>，</pc>言曆者<num value="10">十</num>有<num value="1">一</num>家<pc>，</pc>議久不決<pc>，</pc>考之經籍<pc>，</pc>驗之帝王錄<pc>，</pc>然後是非洞見<pc>。</pc>元和間<pc>，</pc>以<pc>《</pc>
+<quote>太史局文籍散逸<pc>，</pc>測驗之器又複不備<pc>，</pc>幾何而不疏略哉<pc>！</pc>漢元鳳間<pc>，</pc>言曆者<num value="10">十</num>有<measure quantity="1" unit="household">
+<num value="1">一</num>家</measure>
+<pc>，</pc>議久不決<pc>，</pc>考之經籍<pc>，</pc>驗之帝王錄<pc>，</pc>然後是非洞見<pc>。</pc>元和間<pc>，</pc>以<pc>《</pc>
 <title>太初</title>
 <pc>》</pc>違天益遠<pc>，</pc>晦朔失實<pc>，</pc>使治曆者修之<pc>，</pc>以無文證驗<pc>，</pc>雜議蜂饗起<pc>，</pc>越<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>始定<pc>。</pc>此無他<pc>，</pc>不得儒者以總其綱<pc>，</pc>故至於此也<pc>。</pc>
 <pc>《</pc>
 <title>周官</title>
-<pc>》</pc>馮相氏<pc>、</pc>保章氏志日月星辰之運動<pc>，</pc>而塚宰實總之<pc>。</pc>漢初<pc>，</pc>曆官猶宰屬也<pc>。</pc>熙甯間<pc>，</pc>司馬光<pc>、</pc>沈括皆嘗提舉司天監<pc>，</pc>故當是時歷數明審<pc>，</pc>法度嚴密<pc>。</pc>乞命儒臣常兼提舉<pc>，</pc>以專其責<pc>。</pc>
+<pc>》</pc>馮相氏<pc>、</pc>保章氏志日月星辰之運動<pc>，</pc>而塚宰實總之<pc>。</pc>漢初<pc>，</pc>曆官猶宰屬也<pc>。</pc>
+<date notBefore="1068" notAfter="1077">熙甯</date>間<pc>，</pc>
+<persName>司馬光</persName>
+<pc>、</pc>沈括皆嘗提舉司天監<pc>，</pc>故當是時歷數明審<pc>，</pc>法度嚴密<pc>。</pc>乞命儒臣常兼提舉<pc>，</pc>以專其責<pc>。</pc>
 </quote>
 <pc>」</pc>
 </p>
@@ -1110,7 +1119,7 @@
 <pc>、</pc>
 <pc>《</pc>
 <title>開元</title>
-<pc>》</pc>而至於<date when="null">
+<pc>》</pc>而至於<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>所作者<pc>，</pc>國初<pc>《</pc>
 <title>應天</title>
 <pc>》</pc>而至於<pc>《</pc>
@@ -1239,8 +1248,7 @@
 <pc>、</pc>
 <pc>《</pc>
 <title>
-<measure quantity="120" unit="years">
-<num value="120">一百二十</num>歲</measure>宮宿圖</title>
+<num value="120">一百二十</num>歲宮宿圖</title>
 <pc>》</pc>
 <pc>，</pc>凡閭閻鄙俚之說<pc>，</pc>無所不有<pc>。</pc>是豈正風俗<pc>、</pc>示<num value="4">四</num>夷之道哉<pc>！</pc>願削不經之論<pc>。</pc>
 </quote>
@@ -1288,22 +1296,19 @@
 <div>
 <p>　　<measure quantity="11" unit="years">
 <num value="11">十一</num>年</measure>
-<pc>，</pc>殿中侍御史陳垓言<pc>：</pc>
+<pc>，</pc>殿中<term>侍御史</term>陳垓言<pc>：</pc>
 <pc>「</pc>
 <quote>曆者<pc>，</pc>天地之大紀<pc>，</pc>國家之重事<pc>。</pc>今淳祐<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>冬所頒<measure quantity="11" unit="years">
 <num value="11">十一</num>年</measure>曆<pc>，</pc>稱成永祥等依<pc>《</pc>
 <title>開禧</title>
 <pc>》</pc>新曆推算<pc>，</pc>
-<measure quantity="48" unit="years">
-<num value="48">辛亥</num>歲</measure>
-<measure quantity="12" unit="months">
+<num value="48">辛亥</num>歲<measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <measure quantity="17" unit="days">
 <num value="17">十七</num>日</measure>立春在酉正<num value="1">一</num>刻<pc>，</pc>今所頒曆乃相師堯等依<pc>《</pc>
 <title>淳祐</title>
-<pc>》</pc>新曆推算<pc>，</pc>到<measure quantity="49" unit="years">
-<num value="49">壬子</num>歲</measure>立春日在申正<num value="3">三</num>刻<pc>。</pc>質諸前曆<pc>，</pc>乃差<num value="6">六</num>刻<pc>，</pc>以此頒行天下<pc>，</pc>豈不貽笑<num value="4">四</num>方<pc>！</pc>且許時演撰新曆<pc>，</pc>將以革舊曆之失<pc>。</pc>又考驗所食分數<pc>，</pc>
+<pc>》</pc>新曆推算<pc>，</pc>到<num value="49">壬子</num>歲立春日在申正<num value="3">三</num>刻<pc>。</pc>質諸前曆<pc>，</pc>乃差<num value="6">六</num>刻<pc>，</pc>以此頒行天下<pc>，</pc>豈不貽笑<num value="4">四</num>方<pc>！</pc>且許時演撰新曆<pc>，</pc>將以革舊曆之失<pc>。</pc>又考驗所食分數<pc>，</pc>
 <pc>《</pc>
 <title>開禧</title>
 <pc>》</pc>舊曆僅差<num value="2">一二</num>刻<pc>，</pc>而李德卿新曆差<num value="6">六</num>刻<num value="2">二</num>分有奇<pc>，</pc>與今頒行前後兩曆所載立春氣候分數亦差<num value="6">六</num>刻則同<pc>。</pc>由此觀之<pc>，</pc>舊曆差少<pc>，</pc>未可遽廢<pc>；</pc>新曆差多<pc>，</pc>未可輕用<pc>。</pc>
@@ -1340,7 +1345,8 @@
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>置閏皆差<measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
-<pc>。</pc>今秘書省檢閱林光世用<num value="2">二</num>家曆法各為推算<pc>。</pc>其<num value="4">四</num>曰<pc>：</pc>德卿曆與玉曆<measure quantity="49" unit="years">
+<pc>。</pc>今秘書省檢閱林光世用<measure quantity="2" unit="households">
+<num value="2">二</num>家</measure>曆法各為推算<pc>。</pc>其<num value="4">四</num>曰<pc>：</pc>德卿曆與玉曆<measure quantity="49" unit="years">
 <num value="49">壬子</num>年</measure>立春<pc>、</pc>立夏以下<num value="15">十五</num>節氣時刻皆同<pc>，</pc>雨水<pc>、</pc>驚蟄以下<num value="9">九</num>節氣各差<num value="1">一</num>刻<pc>。</pc>其<num value="5">五</num>曰<pc>：</pc>德卿推<measure quantity="49" unit="years">
 <num value="49">壬子</num>年</measure>
 <measure quantity="2" unit="months">
@@ -1413,8 +1419,7 @@
 </p>
 </div>
 <div>
-<p>　　今所頒<measure quantity="7" unit="years">
-<num value="7">庚午</num>歲</measure>曆<pc>，</pc>乃以前<measure quantity="11" unit="months">
+<p>　　今所頒<num value="7">庚午</num>歲曆<pc>，</pc>乃以前<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <measure quantity="30" unit="days">
 <num value="30">三十</num>日</measure>為冬至<pc>，</pc>又以冬至後為閏<measure quantity="11" unit="months">

@@ -41,7 +41,7 @@
 <num value="7">七</num>月</measure>
 <pc>，</pc>
 <num value="18">辛巳</num>
-<pc>，</pc>朔方奏夏州黨項入寇<pc>，</pc>擊敗之<pc>，</pc>追至賀蘭山<pc>。</pc>
+<pc>，</pc>朔方奏<placeName>夏州</placeName>黨項入寇<pc>，</pc>擊敗之<pc>，</pc>追至賀蘭山<pc>。</pc>
 </p>
 </div>
 <div>
@@ -60,7 +60,7 @@
 <p>武安<pc>、</pc>靜江<term>節度使</term>馬希聲以湖南比年大旱<pc>，</pc>命閉南嶽及境內諸神祠門<pc>，</pc>竟不雨<pc>。</pc>
 <num value="28">辛卯</num>
 <pc>，</pc>希聲卒<pc>，</pc>
-<num value="6">六</num>軍使袁詮<pc>、</pc>潘約等迎鎮南<term>節度使</term>希範於朗州而立之<pc>。</pc>
+<num value="6">六</num>軍使袁詮<pc>、</pc>潘約等迎鎮南<term>節度使</term>希範於<placeName>朗州</placeName>而立之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -72,7 +72,8 @@
 <div>
 <p>
 <num value="37">庚子</num>
-<pc>，</pc>以西京留守<pc>、</pc>同平章事李從珂為鳳翔<term>節度使</term>
+<pc>，</pc>以西京留守<pc>、</pc>
+<term>同平章事</term>李從珂為鳳翔<term>節度使</term>
 <pc>。</pc>
 </p>
 </div>
@@ -84,7 +85,9 @@
 <div>
 <p>
 <num value="44">丁未</num>
-<pc>，</pc>以門下侍郎<pc>，</pc>同平章事趙鳳同平章事<pc>，</pc>充安國<term>節度使</term>
+<pc>，</pc>以門下侍郎<pc>，</pc>
+<term>同平章事</term>趙鳳<term>同平章事</term>
+<pc>，</pc>充安國<term>節度使</term>
 <pc>。</pc>
 </p>
 </div>
@@ -108,16 +111,29 @@
 </div>
 <div>
 <p>初<pc>，</pc>安重誨欲圖兩川<pc>，</pc>自知祥殺李嚴<pc>，</pc>每除<term>刺史</term>
-<pc>，</pc>皆以東兵衛送之<pc>，</pc>小州不減<num value="500">五百</num>人<pc>，</pc>夏魯奇<pc>、</pc>李仁矩<pc>、</pc>武虔裕各數<num value="1000">千</num>人<pc>，</pc>皆以牙隊為名<pc>。</pc>及知祥克遂<pc>、</pc>閬<pc>、</pc>利<pc>、</pc>夔<pc>、</pc>黔<pc>、</pc>梓<num value="6">六</num>鎮<pc>，</pc>得東兵無慮<num value="30000">三萬</num>人<pc>，</pc>恐朝廷征還<pc>，</pc>表請其妻子<pc>。</pc>
+<pc>，</pc>皆以東兵衛送之<pc>，</pc>小州不減<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>
+<pc>，</pc>夏魯奇<pc>、</pc>李仁矩<pc>、</pc>武虔裕各數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>皆以牙隊為名<pc>。</pc>及知祥克遂<pc>、</pc>閬<pc>、</pc>利<pc>、</pc>夔<pc>、</pc>黔<pc>、</pc>梓<num value="6">六</num>鎮<pc>，</pc>得東兵無慮<measure quantity="30000" unit="people">
+<num value="30000">三萬</num>人</measure>
+<pc>，</pc>恐朝廷征還<pc>，</pc>表請其妻子<pc>。</pc>
 </p>
 </div>
 <div>
-<p>吳徐知誥廣金陵城周圍<num value="20">二十</num>里<pc>。</pc>
+<p>吳徐知誥廣金陵城周圍<measure quantity="20" unit="LIs">
+<num value="20">二十</num>里</measure>
+<pc>。</pc>
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>契丹既強<pc>，</pc>寇抄盧龍諸州皆遍<pc>，</pc>幽州城門之外<pc>，</pc>虜騎充斥<pc>。</pc>每自涿州運糧入幽州<pc>，</pc>虜多伏兵於閻溝<pc>，</pc>掠取之<pc>。</pc>及趙德鈞為<term>節度使</term>
-<pc>，</pc>城閻溝而戍之<pc>，</pc>為良鄉縣<pc>，</pc>糧道稍通<pc>。</pc>幽州東<num value="10">十</num>里之外<pc>，</pc>人不敢樵牧<pc>；</pc>德鈞於州東<num value="50">五十</num>里城潞縣而戍之<pc>，</pc>近州之民始得稼穡<pc>。</pc>至是<pc>，</pc>又於州東北<num value="100">百</num>餘里城<num value="3">三</num>河縣以通薊州運路<pc>，</pc>虜騎來爭<pc>，</pc>德鈞擊卻之<pc>。</pc>
+<p>初<pc>，</pc>契丹既強<pc>，</pc>寇抄盧龍諸州皆遍<pc>，</pc>
+<placeName>幽州</placeName>城門之外<pc>，</pc>虜騎充斥<pc>。</pc>每自<placeName>涿州</placeName>運糧入<placeName>幽州</placeName>
+<pc>，</pc>虜多伏兵於閻溝<pc>，</pc>掠取之<pc>。</pc>及趙德鈞為<term>節度使</term>
+<pc>，</pc>城閻溝而戍之<pc>，</pc>為良鄉縣<pc>，</pc>糧道稍通<pc>。</pc>
+<placeName>幽州</placeName>東<measure quantity="10" unit="LIs">
+<num value="10">十</num>里</measure>之外<pc>，</pc>人不敢樵牧<pc>；</pc>德鈞於州東<measure quantity="50" unit="LIs">
+<num value="50">五十</num>里</measure>城潞縣而戍之<pc>，</pc>近州之民始得稼穡<pc>。</pc>至是<pc>，</pc>又於州東北<num value="100">百</num>餘里城<num value="3">三</num>河縣以通<placeName>薊州</placeName>運路<pc>，</pc>虜騎來爭<pc>，</pc>德鈞擊卻之<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>
@@ -158,7 +174,8 @@
 <div>
 <p>
 <num value="53">丙辰</num>
-<pc>，</pc>幽州奏契丹屯捺剌泊<pc>。</pc>
+<pc>，</pc>
+<placeName>幽州</placeName>奏契丹屯捺剌泊<pc>。</pc>
 </p>
 </div>
 <div>
@@ -180,8 +197,11 @@
 <num value="3">三</num>辰失行不足懼<pc>，</pc>小人訛言不足懼<pc>，</pc>山崩川涸不足懼<pc>，</pc>蟊賊傷稼不足懼<pc>；</pc>賢人藏匿深可畏<pc>，</pc>
 <num value="4">四</num>民遷業深可畏<pc>，</pc>上下相徇深可畏<pc>，</pc>廉恥道消深可畏<pc>，</pc>毀譽亂真深可畏<pc>，</pc>直言蔑聞深可畏<pc>。</pc>不足懼者<pc>，</pc>願陛下存而勿論<pc>；</pc>深可畏者<pc>，</pc>願陛下修而靡忒<pc>。</pc>
 </quote>
-<pc>」</pc>優詔獎之<pc>。</pc>秦王從榮為人鷹視<pc>，</pc>輕佻峻急<pc>；</pc>既判<num value="6">六</num>軍諸衛事<pc>，</pc>復參朝政<pc>，</pc>多驕縱不法<pc>。</pc>初<pc>，</pc>安重誨為樞密使<pc>，</pc>上專屬任之<pc>。</pc>從榮及宋王從厚自襁褓與之親狎<pc>，</pc>雖典兵<pc>，</pc>常為重誨所制<pc>，</pc>畏事之<pc>。</pc>重誨死<pc>，</pc>王淑妃與宣徽使孟漢瓊宣傳帝命<pc>，</pc>范延光<pc>、</pc>趙延壽為樞密使<pc>，</pc>從榮皆輕侮之<pc>。</pc>河陽<term>節度使</term>
-<pc>、</pc>同平章事石敬瑭兼<num value="6">六</num>軍諸衛副使<pc>，</pc>其妻永寧公主與從榮異母<pc>，</pc>素相憎疾<pc>。</pc>從榮以從厚聲名出己右<pc>，</pc>尤忌之<pc>；</pc>從厚善以卑弱奉之<pc>，</pc>故嫌隙不外見<pc>。</pc>石敬瑭不欲與從榮共事<pc>，</pc>常思外補以避之<pc>。</pc>范延光<pc>、</pc>趙延壽亦慮及禍<pc>，</pc>屢辭機要<pc>，</pc>請與舊臣迭為之<pc>，</pc>上不許<pc>。</pc>會契丹欲入寇<pc>，</pc>上命擇帥臣鎮河東<pc>，</pc>延光<pc>、</pc>延壽皆曰<pc>：</pc>
+<pc>」</pc>優詔獎之<pc>。</pc>秦王從榮為人鷹視<pc>，</pc>輕佻峻急<pc>；</pc>既判<num value="6">六</num>軍諸衛事<pc>，</pc>復參朝政<pc>，</pc>多驕縱不法<pc>。</pc>初<pc>，</pc>安重誨為<term>樞密使</term>
+<pc>，</pc>上專屬任之<pc>。</pc>從榮及宋王從厚自襁褓與之親狎<pc>，</pc>雖典兵<pc>，</pc>常為重誨所制<pc>，</pc>畏事之<pc>。</pc>重誨死<pc>，</pc>王淑妃與宣徽使孟漢瓊宣傳帝命<pc>，</pc>范延光<pc>、</pc>趙延壽為<term>樞密使</term>
+<pc>，</pc>從榮皆輕侮之<pc>。</pc>河陽<term>節度使</term>
+<pc>、</pc>
+<term>同平章事</term>石敬瑭兼<num value="6">六</num>軍諸衛副使<pc>，</pc>其妻永寧公主與從榮異母<pc>，</pc>素相憎疾<pc>。</pc>從榮以從厚聲名出己右<pc>，</pc>尤忌之<pc>；</pc>從厚善以卑弱奉之<pc>，</pc>故嫌隙不外見<pc>。</pc>石敬瑭不欲與從榮共事<pc>，</pc>常思外補以避之<pc>。</pc>范延光<pc>、</pc>趙延壽亦慮及禍<pc>，</pc>屢辭機要<pc>，</pc>請與舊臣迭為之<pc>，</pc>上不許<pc>。</pc>會契丹欲入寇<pc>，</pc>上命擇帥臣鎮河東<pc>，</pc>延光<pc>、</pc>延壽皆曰<pc>：</pc>
 <pc>「</pc>
 <quote>當今帥臣可往者<pc>，</pc>獨石敬瑭<pc>、</pc>康義誠耳<pc>。</pc>
 </quote>
@@ -215,7 +235,8 @@
 <div>
 <p>
 <num value="26">己丑</num>
-<pc>，</pc>加樞密使趙延壽同平章事<pc>。</pc>
+<pc>，</pc>加<term>樞密使</term>趙延壽<term>同平章事</term>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -224,7 +245,8 @@
 </p>
 </div>
 <div>
-<p>大同<term>節度使</term>張敬達聚兵要害<pc>，</pc>契丹竟不敢南下而還<pc>。</pc>敬達<pc>，</pc>代州人也<pc>。</pc>
+<p>大同<term>節度使</term>張敬達聚兵要害<pc>，</pc>契丹竟不敢南下而還<pc>。</pc>敬達<pc>，</pc>
+<placeName>代州</placeName>人也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -243,7 +265,8 @@
 <pc>，</pc>
 <num value="55">戊午</num>
 <pc>，</pc>以康義誠為河陽<term>節度使</term>
-<pc>，</pc>兼侍衛親軍馬步都指揮使<pc>；</pc>以硃弘昭為山南東道<term>節度使</term>
+<pc>，</pc>兼侍衛親軍馬步<term>都指揮使</term>
+<pc>；</pc>以硃弘昭為山南東道<term>節度使</term>
 <pc>。</pc>
 </p>
 </div>
@@ -259,11 +282,15 @@
 <num value="25">戊子</num>
 <pc>，</pc>加秦王從榮守尚書令<pc>，</pc>兼侍中<pc>。</pc>
 <num value="27">庚寅</num>
-<pc>，</pc>以端明殿學士歸義劉昫為中書侍郎<pc>、</pc>同平章事<pc>。</pc>
+<pc>，</pc>以端明殿學士歸義劉昫為中書侍郎<pc>、</pc>
+<term>同平章事</term>
+<pc>。</pc>
 </p>
 </div>
 <div>
-<p>閩人有言真封宅龍見者<pc>，</pc>閩王延鈞更命其宅曰龍躍宮<pc>。</pc>遂詣寶皇宮受冊<pc>，</pc>備儀衛<pc>，</pc>入府<pc>，</pc>即皇帝位<pc>，</pc>國號大閩<pc>，</pc>大赦<pc>，</pc>改元龍啟<pc>；</pc>更名璘<pc>。</pc>追尊父祖<pc>，</pc>立<num value="5">五</num>廟<pc>。</pc>以其僚屬李敏為左僕射<pc>、</pc>門下侍郎<pc>，</pc>其子節度副使繼鵬為右僕射<pc>、</pc>中書侍郎<pc>，</pc>並同平章事<pc>；</pc>以親吏吳勖為樞密使<pc>。</pc>唐冊禮使裴傑<pc>、</pc>程侃適至海門<pc>，</pc>閩主以傑為如京使<pc>；</pc>侃固求北還<pc>，</pc>不許<pc>。</pc>閩主自以國小地僻<pc>，</pc>常謹事<num value="4">四</num>鄰<pc>，</pc>由是境內差安<pc>。</pc>
+<p>閩人有言真封宅龍見者<pc>，</pc>閩王延鈞更命其宅曰龍躍宮<pc>。</pc>遂詣寶皇宮受冊<pc>，</pc>備儀衛<pc>，</pc>入府<pc>，</pc>即皇帝位<pc>，</pc>國號大閩<pc>，</pc>大赦<pc>，</pc>改元龍啟<pc>；</pc>更名璘<pc>。</pc>追尊父祖<pc>，</pc>立<num value="5">五</num>廟<pc>。</pc>以其僚屬李敏為左僕射<pc>、</pc>門下侍郎<pc>，</pc>其子<term>節度副使</term>繼鵬為右僕射<pc>、</pc>中書侍郎<pc>，</pc>並<term>同平章事</term>
+<pc>；</pc>以親吏吳勖為<term>樞密使</term>
+<pc>。</pc>唐冊禮使裴傑<pc>、</pc>程侃適至海門<pc>，</pc>閩主以傑為如京使<pc>；</pc>侃固求北還<pc>，</pc>不許<pc>。</pc>閩主自以國小地僻<pc>，</pc>常謹事<num value="4">四</num>鄰<pc>，</pc>由是境內差安<pc>。</pc>
 </p>
 </div>
 <div>
@@ -284,7 +311,8 @@
 </quote>
 <pc>」</pc>對曰<pc>：</pc>
 <pc>「</pc>
-<quote>張義潮在河西<pc>，</pc>朝廷以天平軍<num value="2500">二千五百</num>人戍涼州<pc>。</pc>自黃巢之亂<pc>，</pc>涼州為黨項所隔<pc>，</pc>鄆人稍稍物故皆盡<pc>，</pc>超及城中之人皆其子孫也<pc>。</pc>
+<quote>張義潮在河西<pc>，</pc>朝廷以天平軍<measure quantity="2500" unit="people">
+<num value="2500">二千五百</num>人</measure>戍涼州<pc>。</pc>自黃巢之亂<pc>，</pc>涼州為黨項所隔<pc>，</pc>鄆人稍稍物故皆盡<pc>，</pc>超及城中之人皆其子孫也<pc>。</pc>
 </quote>
 <pc>」</pc>
 </p>
@@ -332,7 +360,8 @@
 <p>
 <num value="24">丁亥</num>
 <pc>，</pc>敕諭夏<pc>、</pc>銀<pc>、</pc>綏<pc>、</pc>宥將士吏民<pc>，</pc>以<pc>「</pc>
-<quote>夏州窮邊<pc>，</pc>李彝超年少<pc>，</pc>未能扞御<pc>，</pc>故徙之延安<pc>，</pc>從命則有李從曮<pc>、</pc>高允韜富貴之福<pc>，</pc>違命則有王都<pc>、</pc>李匡賓覆族之禍<pc>。</pc>
+<quote>
+<placeName>夏州</placeName>窮邊<pc>，</pc>李彝超年少<pc>，</pc>未能扞御<pc>，</pc>故徙之延安<pc>，</pc>從命則有李從曮<pc>、</pc>高允韜富貴之福<pc>，</pc>違命則有王都<pc>、</pc>李匡賓覆族之禍<pc>。</pc>
 </quote>
 <pc>」</pc>夏<pc>，</pc>
 <measure quantity="4" unit="months">
@@ -344,7 +373,7 @@
 <p>言事者請為親王置師傅<pc>，</pc>
 <term>宰相</term>畏秦王從榮<pc>，</pc>不敢除人<pc>，</pc>請令王自擇<pc>。</pc>秦王府判官<pc>、</pc>太子詹事王居敏薦兵部侍郎劉瓚於從榮<pc>，</pc>從榮表請之<pc>。</pc>
 <num value="50">癸丑</num>
-<pc>，</pc>以瓚為秘書監<pc>、</pc>秦王傅<pc>，</pc>前襄州支使山陽魚崇遠為記室<pc>。</pc>瓚自以左遷<pc>，</pc>泣訴<pc>，</pc>不得免<pc>。</pc>王府參佐皆新進少年<pc>，</pc>輕脫諂諛<pc>，</pc>瓚獨從容規諷<pc>，</pc>從榮不悅<pc>。</pc>瓚雖為傅<pc>，</pc>從榮<num value="1">一</num>概以僚屬待之<pc>，</pc>瓚有難色<pc>；</pc>從榮覺之<pc>，</pc>自是戒門者勿為通<pc>，</pc>月聽<num value="1">一</num>至府<pc>，</pc>或竟日不召<pc>，</pc>亦不得食<pc>。</pc>
+<pc>，</pc>以瓚為秘書監<pc>、</pc>秦王傅<pc>，</pc>前<placeName>襄州</placeName>支使山陽魚崇遠為記室<pc>。</pc>瓚自以左遷<pc>，</pc>泣訴<pc>，</pc>不得免<pc>。</pc>王府參佐皆新進少年<pc>，</pc>輕脫諂諛<pc>，</pc>瓚獨從容規諷<pc>，</pc>從榮不悅<pc>。</pc>瓚雖為傅<pc>，</pc>從榮<num value="1">一</num>概以僚屬待之<pc>，</pc>瓚有難色<pc>；</pc>從榮覺之<pc>，</pc>自是戒門者勿為通<pc>，</pc>月聽<num value="1">一</num>至府<pc>，</pc>或竟日不召<pc>，</pc>亦不得食<pc>。</pc>
 </p>
 </div>
 <div>
@@ -376,7 +405,9 @@
 </div>
 <div>
 <p>
-<num value="29">壬辰</num>夜<pc>，</pc>夏州城上舉火<pc>，</pc>比明<pc>，</pc>雜虜數<num value="1000">千</num>騎救之<pc>，</pc>安從進遣先鋒使宋溫擊走之<pc>。</pc>
+<num value="29">壬辰</num>夜<pc>，</pc>
+<placeName>夏州</placeName>城上舉火<pc>，</pc>比明<pc>，</pc>雜虜數<measure quantity="1000" unit="riders">
+<num value="1000">千</num>騎</measure>救之<pc>，</pc>安從進遣先鋒使宋溫擊走之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -393,9 +424,11 @@
 </p>
 </div>
 <div>
-<p>安從進攻夏州<pc>。</pc>州城赫連勃勃所築<pc>，</pc>堅如鐵石<pc>，</pc>斫鑿不能入<pc>。</pc>又黨項<num value="10000">萬</num>餘騎徜徉<num value="4">四</num>野<pc>，</pc>抄掠糧餉<pc>，</pc>官軍無所芻牧<pc>。</pc>山路險狹<pc>，</pc>關中民輸斗粟束蒿費錢數緡<pc>，</pc>民間困竭不能供<pc>。</pc>李彝超兄弟登城謂從進曰<pc>：</pc>
+<p>安從進攻<placeName>夏州</placeName>
+<pc>。</pc>州城赫連勃勃所築<pc>，</pc>堅如鐵石<pc>，</pc>斫鑿不能入<pc>。</pc>又黨項<num value="10000">萬</num>餘騎徜徉<num value="4">四</num>野<pc>，</pc>抄掠糧餉<pc>，</pc>官軍無所芻牧<pc>。</pc>山路險狹<pc>，</pc>關中民輸斗粟束蒿費錢數緡<pc>，</pc>民間困竭不能供<pc>。</pc>李彝超兄弟登城謂從進曰<pc>：</pc>
 <pc>「</pc>
-<quote>夏州貧瘠<pc>，</pc>非有珍寶蓄積可以充朝廷貢賦也<pc>；</pc>但以祖父世守此土<pc>，</pc>不欲失之<pc>。</pc>蕞爾孤城<pc>，</pc>勝之不武<pc>，</pc>何足煩國家勞費如此<pc>！</pc>幸為表聞<pc>，</pc>若許其自新<pc>，</pc>或使之征伐<pc>，</pc>願為眾先<pc>。</pc>
+<quote>
+<placeName>夏州</placeName>貧瘠<pc>，</pc>非有珍寶蓄積可以充朝廷貢賦也<pc>；</pc>但以祖父世守此土<pc>，</pc>不欲失之<pc>。</pc>蕞爾孤城<pc>，</pc>勝之不武<pc>，</pc>何足煩國家勞費如此<pc>！</pc>幸為表聞<pc>，</pc>若許其自新<pc>，</pc>或使之征伐<pc>，</pc>願為眾先<pc>。</pc>
 </quote>
 <pc>」</pc>上聞之<pc>，</pc>
 <num value="19">壬午</num>
@@ -403,7 +436,7 @@
 <pc>「</pc>
 <quote>仁福畏朝廷除移<pc>，</pc>揚言結契丹為援<pc>，</pc>契丹實不與之通也<pc>；</pc>致朝廷誤興是役<pc>，</pc>無功而還<pc>。</pc>
 </quote>
-<pc>」</pc>自是夏州輕朝廷<pc>，</pc>每有叛臣<pc>，</pc>必陰與之連以邀賂遺<pc>。</pc>上疾久未平<pc>，</pc>征夏州無功<pc>，</pc>軍士頗有流言<pc>，</pc>
+<pc>」</pc>自是<placeName>夏州</placeName>輕朝廷<pc>，</pc>每有叛臣<pc>，</pc>必陰與之連以邀賂遺<pc>。</pc>上疾久未平<pc>，</pc>征<placeName>夏州</placeName>無功<pc>，</pc>軍士頗有流言<pc>，</pc>
 <num value="22">乙酉</num>
 <pc>，</pc>賜在京諸軍優給有差<pc>；</pc>既賞賚無名<pc>，</pc>士卒由是益驕<pc>。</pc>
 </p>
@@ -411,7 +444,7 @@
 <div>
 <p>
 <num value="24">丁亥</num>
-<pc>，</pc>賜錢元瓘爵吳王<pc>。</pc>元瓘于兄弟甚厚<pc>，</pc>其兄中吳<pc>、</pc>建武<term>節度使</term>元璙自蘇州入見<pc>，</pc>元瓘以家人禮事之<pc>，</pc>奉觴為壽<pc>，</pc>曰<pc>：</pc>
+<pc>，</pc>賜錢元瓘爵吳王<pc>。</pc>元瓘于兄弟甚厚<pc>，</pc>其兄中吳<pc>、</pc>建武<term>節度使</term>元璙自<placeName>蘇州</placeName>入見<pc>，</pc>元瓘以家人禮事之<pc>，</pc>奉觴為壽<pc>，</pc>曰<pc>：</pc>
 <pc>「</pc>
 <quote>此兄之位也<pc>，</pc>而小子居之<pc>，</pc>兄之賜也<pc>。</pc>
 </quote>
@@ -425,7 +458,9 @@
 <div>
 <p>
 <num value="25">戊子</num>
-<pc>，</pc>閩主璘復位<pc>。</pc>初<pc>，</pc>福建中軍使薛文傑<pc>，</pc>性巧佞<pc>，</pc>璘喜奢侈<pc>，</pc>文傑以聚使用求媚<pc>，</pc>璘以為國計使<pc>，</pc>親任之<pc>。</pc>文傑陰求富民之罪<pc>，</pc>籍沒其財<pc>，</pc>被榜捶者胸背分受<pc>，</pc>仍以銅斗火熨之<pc>。</pc>建州土豪吳光入朝<pc>，</pc>文傑利其財<pc>，</pc>求其罪<pc>，</pc>將治之<pc>；</pc>光怨怒<pc>，</pc>帥其眾且<num value="10000">萬</num>人叛奔吳<pc>。</pc>
+<pc>，</pc>閩主璘復位<pc>。</pc>初<pc>，</pc>福建中軍使薛文傑<pc>，</pc>性巧佞<pc>，</pc>璘喜奢侈<pc>，</pc>文傑以聚使用求媚<pc>，</pc>璘以為國計使<pc>，</pc>親任之<pc>。</pc>文傑陰求富民之罪<pc>，</pc>籍沒其財<pc>，</pc>被榜捶者胸背分受<pc>，</pc>仍以銅斗火熨之<pc>。</pc>
+<placeName>建州</placeName>土豪吳光入朝<pc>，</pc>文傑利其財<pc>，</pc>求其罪<pc>，</pc>將治之<pc>；</pc>光怨怒<pc>，</pc>帥其眾且<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>叛奔吳<pc>。</pc>
 </p>
 </div>
 <div>
@@ -453,7 +488,8 @@
 </quote>
 <pc>」</pc>不得已<pc>，</pc>
 <num value="23">丙戌</num>
-<pc>，</pc>詔<term>宰相</term>樞密使議之<pc>。</pc>
+<pc>，</pc>詔<term>宰相</term>
+<term>樞密使</term>議之<pc>。</pc>
 <num value="4">丁卯</num>
 <pc>，</pc>從榮見上<pc>，</pc>言曰<pc>：</pc>
 <pc>「</pc>
@@ -493,13 +529,16 @@
 </p>
 </div>
 <div>
-<p>帝欲加宣徽使<pc>、</pc>判<num value="3">三</num>司馮贇同平章事<pc>；</pc>贇父名章<pc>。</pc>執政誤引故事<pc>，</pc>
+<p>帝欲加宣徽使<pc>、</pc>判<num value="3">三</num>司馮贇<term>同平章事</term>
+<pc>；</pc>贇父名章<pc>。</pc>執政誤引故事<pc>，</pc>
 <num value="27">庚寅</num>
 <pc>，</pc>加贇同中書門下<num value="2">二</num>品<pc>，</pc>充<num value="3">三</num>司使<pc>。</pc>
 </p>
 </div>
 <div>
-<p>秦王從榮請嚴衛<pc>、</pc>捧聖步騎兩指揮為牙兵<pc>。</pc>每入朝<pc>，</pc>從數<num value="100">百</num>騎<pc>，</pc>張弓挾矢<pc>，</pc>馳騁衢路<pc>；</pc>令文士試草<pc>《</pc>
+<p>秦王從榮請嚴衛<pc>、</pc>捧聖步騎兩指揮為牙兵<pc>。</pc>每入朝<pc>，</pc>從數<measure quantity="100" unit="riders">
+<num value="100">百</num>騎</measure>
+<pc>，</pc>張弓挾矢<pc>，</pc>馳騁衢路<pc>；</pc>令文士試草<pc>《</pc>
 <title>檄淮南書</title>
 <pc>》</pc>
 <pc>，</pc>陳己將廓清海內之意<pc>。</pc>從榮不快於執政<pc>，</pc>私謂所親曰<pc>：</pc>
@@ -516,14 +555,19 @@
 <pc>」</pc>
 <num value="33">丙申</num>
 <pc>，</pc>
-<num value="2">二</num>人復言於上曰<pc>：</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>復言於上曰<pc>：</pc>
 <pc>「</pc>
-<quote>臣等非敢憚勞<pc>，</pc>願與勳舊迭為之<pc>。</pc>亦不敢俱去<pc>，</pc>願聽<num value="1">一</num>人先出<pc>。</pc>若新人不稱職<pc>，</pc>復召臣<pc>，</pc>臣即至矣<pc>。</pc>
+<quote>臣等非敢憚勞<pc>，</pc>願與勳舊迭為之<pc>。</pc>亦不敢俱去<pc>，</pc>願聽<measure quantity="1" unit="people">
+<num value="1">一</num>人</measure>先出<pc>。</pc>若新人不稱職<pc>，</pc>復召臣<pc>，</pc>臣即至矣<pc>。</pc>
 </quote>
 <pc>」</pc>上乃許之<pc>。</pc>
 <num value="35">戊戌</num>
 <pc>，</pc>以延壽為宣武<term>節度使</term>
-<pc>；</pc>以山南節道<term>節度使</term>硃弘昭為樞密使<pc>、</pc>同平章事<pc>。</pc>制下<pc>，</pc>弘昭復辭<pc>，</pc>上叱之曰<pc>：</pc>
+<pc>；</pc>以山南節道<term>節度使</term>硃弘昭為<term>樞密使</term>
+<pc>、</pc>
+<term>同平章事</term>
+<pc>。</pc>制下<pc>，</pc>弘昭復辭<pc>，</pc>上叱之曰<pc>：</pc>
 <pc>「</pc>
 <quote>汝輩皆不欲在吾側<pc>，</pc>吾蓄養汝輩何為<pc>！</pc>
 </quote>
@@ -531,12 +575,17 @@
 </p>
 </div>
 <div>
-<p>吏部侍郎張文寶泛海使杭州<pc>，</pc>船壞<pc>，</pc>水工以小舟濟之<pc>，</pc>風飄至天長<pc>；</pc>從者<num value="200">二百</num>人<pc>，</pc>所存者<num value="5">五</num>人<pc>。</pc>吳主厚禮之<pc>，</pc>資以從者儀服錢幣數<num value="10000">萬</num>
+<p>吏部侍郎張文寶泛海使<placeName>杭州</placeName>
+<pc>，</pc>船壞<pc>，</pc>水工以小舟濟之<pc>，</pc>風飄至天長<pc>；</pc>從者<measure quantity="200" unit="people">
+<num value="200">二百</num>人</measure>
+<pc>，</pc>所存者<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>
+<pc>。</pc>吳主厚禮之<pc>，</pc>資以從者儀服錢幣數<num value="10000">萬</num>
 <pc>，</pc>仍為之牒錢氏<pc>，</pc>使於境上迎侯<pc>。</pc>文寶獨受飲食<pc>，</pc>餘皆辭之<pc>，</pc>曰<pc>：</pc>
 <pc>「</pc>
 <quote>本朝與吳久不通問<pc>，</pc>今既非君臣<pc>，</pc>又非賓主<pc>，</pc>若受茲物<pc>，</pc>何辭以謝<pc>！</pc>
 </quote>
-<pc>」</pc>吳主嘉之<pc>，</pc>竟達命於杭州而還<pc>。</pc>
+<pc>」</pc>吳主嘉之<pc>，</pc>竟達命於<placeName>杭州</placeName>而還<pc>。</pc>
 </p>
 </div>
 <div>
@@ -561,7 +610,7 @@
 </p>
 </div>
 <div>
-<p>閩內樞密使薛文傑說閩王抑挫諸宗室<pc>；</pc>從子繼圖不勝忿<pc>，</pc>謀反<pc>，</pc>坐誅<pc>，</pc>連坐者<num value="1000">千</num>餘人<pc>。</pc>
+<p>閩內<term>樞密使</term>薛文傑說閩王抑挫諸宗室<pc>；</pc>從子繼圖不勝忿<pc>，</pc>謀反<pc>，</pc>坐誅<pc>，</pc>連坐者<num value="1000">千</num>餘人<pc>。</pc>
 </p>
 </div>
 <div>
@@ -584,11 +633,14 @@
 <p>范延光屢因孟漢瓊<pc>、</pc>王淑妃以求出<pc>。</pc>
 <num value="57">庚申</num>
 <pc>，</pc>以延光為成德<term>節度使</term>
-<pc>，</pc>以馮贇為樞密使<pc>。</pc>帝以親軍都指揮使<pc>、</pc>同平章事康義誠為樸忠<pc>，</pc>親任之<pc>。</pc>時要近之官多求出以避秦王之禍<pc>，</pc>義誠度不能自脫<pc>，</pc>乃令其子事秦王<pc>，</pc>務以恭順持兩端<pc>，</pc>冀得自全<pc>。</pc>
+<pc>，</pc>以馮贇為<term>樞密使</term>
+<pc>。</pc>帝以親軍<term>都指揮使</term>
+<pc>、</pc>
+<term>同平章事</term>康義誠為樸忠<pc>，</pc>親任之<pc>。</pc>時要近之官多求出以避秦王之禍<pc>，</pc>義誠度不能自脫<pc>，</pc>乃令其子事秦王<pc>，</pc>務以恭順持兩端<pc>，</pc>冀得自全<pc>。</pc>
 </p>
 </div>
 <div>
-<p>權知夏州事李彝超上表謝罪<pc>，</pc>求昭雪<pc>；</pc>
+<p>權知<placeName>夏州</placeName>事李彝超上表謝罪<pc>，</pc>求昭雪<pc>；</pc>
 <num value="59">壬戌</num>
 <pc>，</pc>以彝超為定難軍節充使<pc>。</pc>
 </p>
@@ -632,7 +684,8 @@
 <quote>吾欲帥牙兵入宮中侍疾<pc>，</pc>且備非常<pc>，</pc>當止於何所<pc>？</pc>
 </quote>
 <pc>」</pc>
-<num value="2">二</num>人曰<pc>：</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>曰<pc>：</pc>
 <pc>「</pc>
 <quote>王自擇之<pc>。</pc>
 </quote>
@@ -640,12 +693,14 @@
 <pc>「</pc>
 <quote>主上<num value="10000">萬</num>福<pc>，</pc>王宜竭心忠孝<pc>，</pc>不可妄信人浮言<pc>。</pc>
 </quote>
-<pc>」</pc>從榮怒<pc>，</pc>復遣處鈞謂<num value="2">二</num>人曰<pc>：</pc>
+<pc>」</pc>從榮怒<pc>，</pc>復遣處鈞謂<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>曰<pc>：</pc>
 <pc>「</pc>
 <quote>公輩殊不愛家族邪<pc>？</pc>何敢拒我<pc>！</pc>
 </quote>
 <pc>」</pc>
-<num value="2">二</num>人患之<pc>，</pc>入告王淑妃及宣徽使孟漢瓊<pc>，</pc>鹹曰<pc>：</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>患之<pc>，</pc>入告王淑妃及宣徽使孟漢瓊<pc>，</pc>鹹曰<pc>：</pc>
 <pc>「</pc>
 <quote>茲事不得康義誠不可濟<pc>。</pc>
 </quote>
@@ -655,7 +710,8 @@
 </quote>
 <pc>」</pc>弘昭疑義誠不欲眾中言之<pc>，</pc>夜<pc>，</pc>邀至私第問之<pc>，</pc>其對如初<pc>。</pc>
 <num value="29">壬辰</num>
-<pc>，</pc>從榮自河南府常服將步騎<num value="1000">千</num>人陳於天津橋<pc>。</pc>是日黎明<pc>，</pc>從榮遣馬處鈞至馮贇第<pc>，</pc>語之曰<pc>：</pc>
+<pc>，</pc>從榮自河南府常服將步騎<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>陳於天津橋<pc>。</pc>是日黎明<pc>，</pc>從榮遣馬處鈞至馮贇第<pc>，</pc>語之曰<pc>：</pc>
 <pc>「</pc>
 <quote>吾今日決入<pc>，</pc>且居興聖宮<pc>。</pc>公輩各有宗族<pc>，</pc>處事亦宜詳允<pc>，</pc>禍福在須臾耳<pc>。</pc>
 </quote>
@@ -695,7 +751,8 @@
 <pc>「</pc>
 <quote>吾與爾父<pc>，</pc>冒矢石定天下<pc>，</pc>數脫吾於厄<pc>；</pc>從榮輩得何力<pc>，</pc>今乃為人所教<pc>，</pc>為此悖逆<pc>！</pc>我固知此曹不足付大事<pc>，</pc>當呼爾父授以兵柄耳<pc>。</pc>汝為我部閉諸門<pc>。</pc>
 </quote>
-<pc>」</pc>重吉即帥控鶴兵守宮門<pc>。</pc>孟漢瓊被甲乘馬<pc>，</pc>召馬軍都指揮使硃洪實<pc>，</pc>使將<num value="500">五百</num>騎討從榮<pc>。</pc>從榮方據胡床<pc>，</pc>坐橋上<pc>，</pc>遣左右召康義誠<pc>。</pc>端門已閉<pc>，</pc>叩左掖門<pc>，</pc>從門隙中窺之<pc>，</pc>見硃洪實引騎兵北來<pc>，</pc>走白從榮<pc>。</pc>從榮大驚<pc>，</pc>命取鐵掩心擐之<pc>，</pc>坐調弓矢<pc>。</pc>俄而騎兵大至<pc>，</pc>從榮走歸府<pc>，</pc>僚佐皆竄匿<pc>，</pc>牙兵掠嘉善坊潰去<pc>。</pc>從榮與妃劉氏匿床下<pc>，</pc>皇城使安從益就斬之<pc>，</pc>並殺其子<pc>，</pc>以其首獻<pc>。</pc>初<pc>，</pc>孫岳頗得豫內廷密謀<pc>，</pc>馮<pc>、</pc>硃患從榮狼伉<pc>，</pc>岳嘗為之極言禍福之歸<pc>；</pc>康義誠恨之<pc>，</pc>至是<pc>，</pc>乘亂密遣騎士射殺之<pc>。</pc>帝聞從榮死<pc>，</pc>悲駭<pc>，</pc>幾落御榻<pc>，</pc>絕而復甦者再<pc>，</pc>由是疾復劇<pc>。</pc>從榮<num value="1">一</num>子尚幼<pc>，</pc>養宮中<pc>，</pc>諸將請除之<pc>，</pc>帝泣曰<pc>：</pc>
+<pc>」</pc>重吉即帥控鶴兵守宮門<pc>。</pc>孟漢瓊被甲乘馬<pc>，</pc>召馬軍<term>都指揮使</term>硃洪實<pc>，</pc>使將<measure quantity="500" unit="riders">
+<num value="500">五百</num>騎</measure>討從榮<pc>。</pc>從榮方據胡床<pc>，</pc>坐橋上<pc>，</pc>遣左右召康義誠<pc>。</pc>端門已閉<pc>，</pc>叩左掖門<pc>，</pc>從門隙中窺之<pc>，</pc>見硃洪實引騎兵北來<pc>，</pc>走白從榮<pc>。</pc>從榮大驚<pc>，</pc>命取鐵掩心擐之<pc>，</pc>坐調弓矢<pc>。</pc>俄而騎兵大至<pc>，</pc>從榮走歸府<pc>，</pc>僚佐皆竄匿<pc>，</pc>牙兵掠嘉善坊潰去<pc>。</pc>從榮與妃劉氏匿床下<pc>，</pc>皇城使安從益就斬之<pc>，</pc>並殺其子<pc>，</pc>以其首獻<pc>。</pc>初<pc>，</pc>孫岳頗得豫內廷密謀<pc>，</pc>馮<pc>、</pc>硃患從榮狼伉<pc>，</pc>岳嘗為之極言禍福之歸<pc>；</pc>康義誠恨之<pc>，</pc>至是<pc>，</pc>乘亂密遣騎士射殺之<pc>。</pc>帝聞從榮死<pc>，</pc>悲駭<pc>，</pc>幾落御榻<pc>，</pc>絕而復甦者再<pc>，</pc>由是疾復劇<pc>。</pc>從榮<num value="1">一</num>子尚幼<pc>，</pc>養宮中<pc>，</pc>諸將請除之<pc>，</pc>帝泣曰<pc>：</pc>
 <pc>「</pc>
 <quote>此何罪<pc>！</pc>
 </quote>
@@ -732,8 +789,11 @@
 </quote>
 <pc>」</pc>馮贇力爭之<pc>，</pc>始議流貶<pc>。</pc>時咨議高輦已伏誅<pc>。</pc>
 <num value="34">丁酉</num>
-<pc>，</pc>元帥府判官<pc>、</pc>兵部侍郎任贊<pc>、</pc>秘書監兼王傅劉瓚<pc>、</pc>友蘇瓚<pc>、</pc>記室魚崇遠<pc>、</pc>河南少尹劉陟<pc>、</pc>判官司徒詡<pc>、</pc>推官王說等<num value="8">八</num>人並長流<pc>，</pc>河南巡官李瀚<pc>、</pc>江文蔚等<num value="6">六</num>人勒歸田裡<pc>，</pc>
-<num value="6">六</num>軍判官<pc>、</pc>太子詹事王居敏<pc>、</pc>推官郭晙並貶官<pc>。</pc>瀚<pc>，</pc>回之族曾孫也<pc>；</pc>詡<pc>，</pc>貝州人<pc>；</pc>文蔚<pc>，</pc>建安人也<pc>。</pc>文蔚奔吳<pc>，</pc>徐知誥厚禮之<pc>。</pc>
+<pc>，</pc>元帥府判官<pc>、</pc>兵部侍郎任贊<pc>、</pc>秘書監兼王傅劉瓚<pc>、</pc>友蘇瓚<pc>、</pc>記室魚崇遠<pc>、</pc>河南少尹劉陟<pc>、</pc>判官司徒詡<pc>、</pc>推官王說等<measure quantity="8" unit="people">
+<num value="8">八</num>人</measure>並長流<pc>，</pc>河南巡官李瀚<pc>、</pc>江文蔚等<measure quantity="6" unit="people">
+<num value="6">六</num>人</measure>勒歸田裡<pc>，</pc>
+<num value="6">六</num>軍判官<pc>、</pc>太子詹事王居敏<pc>、</pc>推官郭晙並貶官<pc>。</pc>瀚<pc>，</pc>回之族曾孫也<pc>；</pc>詡<pc>，</pc>
+<placeName>貝州</placeName>人<pc>；</pc>文蔚<pc>，</pc>建安人也<pc>。</pc>文蔚奔吳<pc>，</pc>徐知誥厚禮之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -742,7 +802,8 @@
 <pc>「</pc>
 <quote>大王地居上嗣<pc>，</pc>當勤修令德<pc>，</pc>奈何所為如是<pc>！</pc>勿謂父子至親為可恃<pc>，</pc>獨不見恭世子<pc>、</pc>戾太子乎<pc>！</pc>
 </quote>
-<pc>」</pc>從榮怒<pc>，</pc>出為涇州判官<pc>；</pc>及從榮敗<pc>，</pc>遠以是知名<pc>。</pc>遠<pc>，</pc>字上交<pc>，</pc>幽州人也<pc>。</pc>
+<pc>」</pc>從榮怒<pc>，</pc>出為涇州判官<pc>；</pc>及從榮敗<pc>，</pc>遠以是知名<pc>。</pc>遠<pc>，</pc>字上交<pc>，</pc>
+<placeName>幽州</placeName>人也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -753,7 +814,7 @@
 <pc>「</pc>
 <quote>某胡人<pc>，</pc>因亂為眾所推<pc>；</pc>願天早生聖人<pc>，</pc>為生民主<pc>。</pc>
 </quote>
-<pc>」</pc>在位年谷屢豐<pc>，</pc>兵革罕用<pc>，</pc>校於<date>
+<pc>」</pc>在位年谷屢豐<pc>，</pc>兵革罕用<pc>，</pc>校於<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>
 <pc>，</pc>粗為小康<pc>。</pc>
 </p>
@@ -770,7 +831,7 @@
 <pc>「</pc>
 <quote>陛下左右多奸臣<pc>，</pc>非質諸鬼神<pc>，</pc>不能知也<pc>。</pc>盛韜善視鬼<pc>，</pc>宜使察之<pc>。</pc>
 </quote>
-<pc>」</pc>閩主從之<pc>。</pc>文傑惡樞密使吳勖<pc>，</pc>勖在疾<pc>，</pc>文傑省之<pc>，</pc>曰<pc>：</pc>
+<pc>」</pc>閩主從之<pc>。</pc>文傑惡<term>樞密使</term>吳勖<pc>，</pc>勖在疾<pc>，</pc>文傑省之<pc>，</pc>曰<pc>：</pc>
 <pc>「</pc>
 <quote>主上以公久疾<pc>，</pc>欲罷公近密<pc>，</pc>僕言公但小苦頭痛耳<pc>，</pc>將愈矣<pc>。</pc>主上或遣使來問<pc>，</pc>慎勿以它疾對也<pc>。</pc>
 </quote>
@@ -786,7 +847,9 @@
 </p>
 </div>
 <div>
-<p>吳光請兵於吳<pc>，</pc>吳信州<term>刺史</term>蔣延徽不俟朝命<pc>，</pc>引兵會光攻建州<pc>，</pc>閩主遣使求救於<date>吳越</date>
+<p>吳光請兵於吳<pc>，</pc>吳<placeName>信州</placeName>
+<term>刺史</term>蔣延徽不俟朝命<pc>，</pc>引兵會光攻<placeName>建州</placeName>
+<pc>，</pc>閩主遣使求救於<date notBefore="9999" notAfter="9999">吳越</date>
 <pc>。</pc>
 </p>
 </div>
@@ -811,7 +874,8 @@
 <div>
 <p>
 <num value="53">丙辰</num>
-<pc>，</pc>以天雄左都押牙宋令詢為磁州<term>刺史</term>
+<pc>，</pc>以天雄左都押牙宋令詢為<placeName>磁州</placeName>
+<term>刺史</term>
 <pc>。</pc>硃弘昭以誅秦王立帝為己功<pc>，</pc>欲專朝政<pc>；</pc>令詢侍帝左右最久<pc>，</pc>雅為帝所親信<pc>，</pc>弘昭不欲舊人在帝側<pc>，</pc>故出之<pc>。</pc>帝不悅而無如之何<pc>。</pc>
 </p>
 </div>
@@ -838,15 +902,17 @@
 <quote>吾君延訪<pc>，</pc>鮮及吾輩<pc>，</pc>位高責重<pc>，</pc>事亦堪憂<pc>。</pc>
 </quote>
 <pc>」</pc>眾惕息不敢應<pc>。</pc>順化<term>節度使</term>
-<pc>、</pc>同平章事<pc>、</pc>判明州錢元珦驕縱不法<pc>，</pc>每請事於王府不獲<pc>，</pc>輒上書悖慢<pc>。</pc>嘗怒<num value="1">一</num>吏<pc>，</pc>置鐵床炙之<pc>，</pc>臭滿城郭<pc>。</pc>吳王元瓘遣牙將仰仁詮詣明州召之<pc>，</pc>仁詮左右慮元珦難制<pc>，</pc>勸為之備<pc>，</pc>仁詮不從<pc>，</pc>常服徑造聽事<pc>。</pc>元珦見仁詮至<pc>，</pc>股心栗<pc>，</pc>遂還錢塘<pc>，</pc>幽於別第<pc>。</pc>仁詮<pc>，</pc>湖州人也<pc>。</pc>
+<pc>、</pc>
+<term>同平章事</term>
+<pc>、</pc>判<placeName>明州</placeName>錢元珦驕縱不法<pc>，</pc>每請事於王府不獲<pc>，</pc>輒上書悖慢<pc>。</pc>嘗怒<num value="1">一</num>吏<pc>，</pc>置鐵床炙之<pc>，</pc>臭滿城郭<pc>。</pc>吳王元瓘遣牙將仰仁詮詣<placeName>明州</placeName>召之<pc>，</pc>仁詮左右慮元珦難制<pc>，</pc>勸為之備<pc>，</pc>仁詮不從<pc>，</pc>常服徑造聽事<pc>。</pc>元珦見仁詮至<pc>，</pc>股心栗<pc>，</pc>遂還錢塘<pc>，</pc>幽於別第<pc>。</pc>仁詮<pc>，</pc>湖州人也<pc>。</pc>
 </p>
 </div>
 <div>
-<p>閩主改福州為長樂府<pc>。</pc>
+<p>閩主改<placeName>福州</placeName>為長樂府<pc>。</pc>
 </p>
 </div>
 <div>
-<p>親從都指揮使王仁達有擒王延稟之功<pc>，</pc>性慷慨<pc>，</pc>言事無所避<pc>。</pc>閩主惡之<pc>，</pc>嘗私謂左右曰<pc>：</pc>
+<p>親從<term>都指揮使</term>王仁達有擒王延稟之功<pc>，</pc>性慷慨<pc>，</pc>言事無所避<pc>。</pc>閩主惡之<pc>，</pc>嘗私謂左右曰<pc>：</pc>
 <pc>「</pc>
 <quote>仁達智有餘<pc>，</pc>吾猶能御之<pc>，</pc>非少主臣也<pc>。</pc>
 </quote>
@@ -854,7 +920,8 @@
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>馬希聲<pc>、</pc>希範同日生<pc>。</pc>希聲母曰袁德妃<pc>，</pc>希範母<persName>曰陳</persName>氏<pc>。</pc>希範怨希聲先立不止<pc>，</pc>及嗣位<pc>，</pc>不禮於袁德妃<pc>。</pc>希聲母弟希旺為親從都指揮使<pc>，</pc>希範多譴責之<pc>。</pc>袁德妃請納希旦官為道士<pc>，</pc>不許<pc>，</pc>解其軍職<pc>，</pc>使居竹屋草門<pc>，</pc>不得預兄弟燕集<pc>。</pc>德妃卒<pc>，</pc>希旦憂憤而卒<pc>。</pc>
+<p>初<pc>，</pc>馬希聲<pc>、</pc>希範同日生<pc>。</pc>希聲母曰袁德妃<pc>，</pc>希範母<persName>曰陳</persName>氏<pc>。</pc>希範怨希聲先立不止<pc>，</pc>及嗣位<pc>，</pc>不禮於袁德妃<pc>。</pc>希聲母弟希旺為親從<term>都指揮使</term>
+<pc>，</pc>希範多譴責之<pc>。</pc>袁德妃請納希旦官為道士<pc>，</pc>不許<pc>，</pc>解其軍職<pc>，</pc>使居竹屋草門<pc>，</pc>不得預兄弟燕集<pc>。</pc>德妃卒<pc>，</pc>希旦憂憤而卒<pc>。</pc>
 </p>
 </div>
 <div>
@@ -868,21 +935,26 @@
 <num value="15">戊寅</num>
 <pc>，</pc>閔帝大赦<pc>，</pc>改元應順<pc>。</pc>
 <num value="19">壬午</num>
-<pc>，</pc>加河陽<term>節度使</term>兼侍衛都指揮使康義誠兼侍中<pc>，</pc>判<num value="6">六</num>軍諸衛事<pc>。</pc>
+<pc>，</pc>加河陽<term>節度使</term>兼侍衛<term>都指揮使</term>康義誠兼侍中<pc>，</pc>判<num value="6">六</num>軍諸衛事<pc>。</pc>
 </p>
 </div>
 <div>
-<p>硃弘昭<pc>、</pc>馮贇忌侍衛馬軍都指揮使<pc>、</pc>寧國<term>節度使</term>安彥威<pc>、</pc>侍衛步軍都指揮使<pc>、</pc>忠正<term>節度使</term>張從賓<pc>，</pc>
+<p>硃弘昭<pc>、</pc>馮贇忌侍衛馬軍<term>都指揮使</term>
+<pc>、</pc>寧國<term>節度使</term>安彥威<pc>、</pc>侍衛步軍<term>都指揮使</term>
+<pc>、</pc>忠正<term>節度使</term>張從賓<pc>，</pc>
 <num value="21">甲申</num>
 <pc>，</pc>出彥威為護國<term>節度使</term>
-<pc>，</pc>以捧聖馬軍都指揮使硃洪實代之<pc>；</pc>出從賓為彰義<term>節度使</term>
-<pc>，</pc>以嚴衛步軍都指揮使皇甫遇代之<pc>。</pc>彥威<pc>，</pc>崞人<pc>；</pc>遇<pc>，</pc>真定人也<pc>。</pc>
+<pc>，</pc>以捧聖馬軍<term>都指揮使</term>硃洪實代之<pc>；</pc>出從賓為彰義<term>節度使</term>
+<pc>，</pc>以嚴衛步軍<term>都指揮使</term>皇甫遇代之<pc>。</pc>彥威<pc>，</pc>崞人<pc>；</pc>遇<pc>，</pc>真定人也<pc>。</pc>
 </p>
 </div>
 <div>
 <p>
 <num value="25">戊子</num>
-<pc>，</pc>樞密使<pc>、</pc>同平章事硃弘昭<pc>、</pc>同中書門下<num value="2">二</num>品馮贇<pc>、</pc>河東<term>節度使</term>兼侍中石敬瑭並兼中書令<pc>。</pc>贇以超遷太過<pc>，</pc>堅辭不受<pc>；</pc>
+<pc>，</pc>
+<term>樞密使</term>
+<pc>、</pc>
+<term>同平章事</term>硃弘昭<pc>、</pc>同中書門下<num value="2">二</num>品馮贇<pc>、</pc>河東<term>節度使</term>兼侍中石敬瑭並兼中書令<pc>。</pc>贇以超遷太過<pc>，</pc>堅辭不受<pc>；</pc>
 <num value="26">己丑</num>
 <pc>，</pc>改兼侍中<pc>。</pc>
 </p>
@@ -896,7 +968,7 @@
 <div>
 <p>
 <num value="31">甲午</num>
-<pc>，</pc>以鎮海<pc>、</pc>鎮東<term>節度使</term>吳王元瓘為<date>吳越</date>王<pc>。</pc>
+<pc>，</pc>以鎮海<pc>、</pc>鎮東<term>節度使</term>吳王元瓘為<date notBefore="9999" notAfter="9999">吳越</date>王<pc>。</pc>
 </p>
 </div>
 <div>
@@ -906,15 +978,22 @@
 </p>
 </div>
 <div>
-<p>鳳翔<term>節度使</term>兼侍中潞王從珂<pc>，</pc>與石敬瑭少從明帝征伐<pc>，</pc>有功名<pc>，</pc>得眾心<pc>。</pc>硃弘昭<pc>、</pc>馮贇位望素出<num value="2">二</num>人下遠甚<pc>，</pc>
-<num value="1">一</num>旦執朝政<pc>，</pc>皆忌之<pc>。</pc>明宗有疾<pc>，</pc>潞王屢遣其夫人入省侍<pc>；</pc>及明宗殂<pc>，</pc>潞王辭疾不來<pc>，</pc>使臣至鳳翔者或自言伺得潞王陰事<pc>。</pc>時潞王長子重吉為控鶴都指揮使<pc>，</pc>硃<pc>、</pc>馮不欲其典禁兵<pc>，</pc>
+<p>鳳翔<term>節度使</term>兼侍中潞王從珂<pc>，</pc>與石敬瑭少從明帝征伐<pc>，</pc>有功名<pc>，</pc>得眾心<pc>。</pc>硃弘昭<pc>、</pc>馮贇位望素出<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>下遠甚<pc>，</pc>
+<num value="1">一</num>旦執朝政<pc>，</pc>皆忌之<pc>。</pc>明宗有疾<pc>，</pc>潞王屢遣其夫人入省侍<pc>；</pc>及明宗殂<pc>，</pc>潞王辭疾不來<pc>，</pc>使臣至鳳翔者或自言伺得潞王陰事<pc>。</pc>時潞王長子重吉為控鶴<term>都指揮使</term>
+<pc>，</pc>硃<pc>、</pc>馮不欲其典禁兵<pc>，</pc>
 <num value="36">己亥</num>
-<pc>，</pc>出為亳州團練使<pc>。</pc>潞王有女惠明為尼<pc>，</pc>在<placeName>洛陽</placeName>
+<pc>，</pc>出為<placeName>亳州</placeName>
+<term>團練使</term>
+<pc>。</pc>潞王有女惠明為尼<pc>，</pc>在<placeName>洛陽</placeName>
 <pc>，</pc>亦召入禁中<pc>。</pc>潞王由是疑懼<pc>。</pc>
 </p>
 </div>
 <div>
-<p>吳蔣延徽敗閩兵於浦城<pc>，</pc>遂圍建州<pc>，</pc>閩主璘遣上軍張彥柔<pc>、</pc>驃騎大將軍王延宗將兵<num value="10000">萬</num>人救建州<pc>。</pc>延宗軍及中塗<pc>，</pc>士卒不進<pc>，</pc>曰<pc>：</pc>
+<p>吳蔣延徽敗閩兵於浦城<pc>，</pc>遂圍<placeName>建州</placeName>
+<pc>，</pc>閩主璘遣上軍張彥柔<pc>、</pc>驃騎大將軍王延宗將兵<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>救<placeName>建州</placeName>
+<pc>。</pc>延宗軍及中塗<pc>，</pc>士卒不進<pc>，</pc>曰<pc>：</pc>
 <pc>「</pc>
 <quote>不得薛文傑<pc>，</pc>不能討賊<pc>。</pc>
 </quote>
@@ -929,7 +1008,7 @@
 <pc>」</pc>文傑出<pc>，</pc>繼鵬伺之於啟聖門外<pc>，</pc>以笏擊之仆地<pc>，</pc>檻車送軍前<pc>，</pc>市人爭持瓦礫擊之<pc>。</pc>文傑善術數<pc>，</pc>自雲過<measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>則無患<pc>。</pc>部送者聞之<pc>，</pc>倍道兼行<pc>，</pc>
 <measure quantity="2" unit="days">
-<num value="2">二</num>日</measure>而至<pc>，</pc>士卒見之踴躍<pc>，</pc>臠食之<pc>；</pc>閩主亟遣赦之<pc>，</pc>不及<pc>。</pc>初<pc>，</pc>文傑以為古制檻車疏闊<pc>，</pc>更為之<pc>，</pc>形如木匱<pc>，</pc>攢以鐵鋩<pc>，</pc>內向<pc>，</pc>動輒觸之<pc>。</pc>車成<pc>，</pc>文傑首自入焉<pc>。</pc>並誅盛韜<pc>。</pc>蔣延徽攻建州垂克<pc>，</pc>徐知誥以延徽吳太祖之婿<pc>，</pc>與臨川王濛素善<pc>，</pc>恐其克建州奉濛以圖興復<pc>，</pc>遣使召之<pc>。</pc>延徽亦聞閩兵及<date>吳越</date>兵將至<pc>，</pc>引兵歸<pc>；</pc>閩人追擊<pc>，</pc>敗之<pc>，</pc>士卒死亡甚眾<pc>，</pc>歸罪於都虞侯張重進<pc>，</pc>斬之<pc>。</pc>知誥貶延徽為右威衛將軍<pc>，</pc>遣使求好於閩<pc>。</pc>
+<num value="2">二</num>日</measure>而至<pc>，</pc>士卒見之踴躍<pc>，</pc>臠食之<pc>；</pc>閩主亟遣赦之<pc>，</pc>不及<pc>。</pc>初<pc>，</pc>文傑以為古制檻車疏闊<pc>，</pc>更為之<pc>，</pc>形如木匱<pc>，</pc>攢以鐵鋩<pc>，</pc>內向<pc>，</pc>動輒觸之<pc>。</pc>車成<pc>，</pc>文傑首自入焉<pc>。</pc>並誅盛韜<pc>。</pc>蔣延徽攻<placeName>建州</placeName>垂克<pc>，</pc>徐知誥以延徽吳太祖之婿<pc>，</pc>與臨川王濛素善<pc>，</pc>恐其克<placeName>建州</placeName>奉濛以圖興復<pc>，</pc>遣使召之<pc>。</pc>延徽亦聞閩兵及<date notBefore="9999" notAfter="9999">吳越</date>兵將至<pc>，</pc>引兵歸<pc>；</pc>閩人追擊<pc>，</pc>敗之<pc>，</pc>士卒死亡甚眾<pc>，</pc>歸罪於都虞侯張重進<pc>，</pc>斬之<pc>。</pc>知誥貶延徽為右威衛將軍<pc>，</pc>遣使求好於閩<pc>。</pc>
 </p>
 </div>
 <div>
@@ -939,7 +1018,7 @@
 </p>
 </div>
 <div>
-<p>安遠<term>節度使</term>符彥超奴王希全<pc>、</pc>任駕兒見朝廷多事<pc>，</pc>謀殺彥超<pc>，</pc>據安州附於吳<pc>，</pc>夜<pc>，</pc>叩門稱有急遞<pc>，</pc>彥超出至聽事<pc>，</pc>
+<p>安遠<term>節度使</term>符彥超奴王希全<pc>、</pc>任駕兒見朝廷多事<pc>，</pc>謀殺彥超<pc>，</pc>據<placeName>安州</placeName>附於吳<pc>，</pc>夜<pc>，</pc>叩門稱有急遞<pc>，</pc>彥超出至聽事<pc>，</pc>
 <num value="2">二</num>奴殺之<pc>，</pc>因以彥超之命召諸將<pc>，</pc>有不從己者輒殺之<pc>。</pc>
 <num value="46">己酉</num>旦<pc>，</pc>副使李端帥州兵討誅之<pc>，</pc>並其黨<pc>。</pc>
 </p>

@@ -43,7 +43,8 @@
 <pc>，</pc>
 <num value="33">丙申</num>
 <pc>，</pc>蜀主至成都<pc>，</pc>
-<num value="100">百</num>官及後宮迎於<num value="7">七</num>里亭<pc>。</pc>蜀主入妃嬪中作回鶻隊入宮<pc>。</pc>
+<num value="100">百</num>官及後宮迎於<measure quantity="7" unit="LIs">
+<num value="7">七</num>里</measure>亭<pc>。</pc>蜀主入妃嬪中作回鶻隊入宮<pc>。</pc>
 <num value="34">丁酉</num>
 <pc>，</pc>出見群臣於文明殿<pc>，</pc>泣下沾襟<pc>，</pc>君臣相視<pc>，</pc>竟無<num value="1">一</num>言以救國患<pc>。</pc>
 </p>
@@ -51,9 +52,16 @@
 <div>
 <p>
 <num value="35">戊戌</num>
-<pc>，</pc>李紹琛至利州<pc>，</pc>修桔柏浮梁<pc>。</pc>昭武<term>節度使</term>林思諤先棄城奔閬州<pc>，</pc>遣使請降<pc>。</pc>
+<pc>，</pc>李紹琛至<placeName>利州</placeName>
+<pc>，</pc>修桔柏浮梁<pc>。</pc>昭武<term>節度使</term>林思諤先棄城奔<placeName>閬州</placeName>
+<pc>，</pc>遣使請降<pc>。</pc>
 <num value="41">甲辰</num>
-<pc>，</pc>魏王繼岌至劍州<pc>，</pc>蜀武信<term>節度使</term>兼中書令王宗壽以遂<pc>、</pc>合<pc>、</pc>渝<pc>、</pc>瀘<pc>、</pc>昌<measure quantity="5" unit="prefectures">
+<pc>，</pc>魏王繼岌至<placeName>劍州</placeName>
+<pc>，</pc>蜀武信<term>節度使</term>兼中書令王宗壽以遂<pc>、</pc>
+<placeName>合</placeName>
+<pc>、</pc>渝<pc>、</pc>
+<placeName>瀘</placeName>
+<pc>、</pc>昌<measure quantity="5" unit="prefectures">
 <num value="5">五</num>州</measure>降<pc>。</pc>
 </p>
 </div>
@@ -66,13 +74,18 @@
 </p>
 </div>
 <div>
-<p>李紹琛進至綿州<pc>，</pc>倉庫民居已為蜀兵所燔<pc>，</pc>又斷綿江浮梁<pc>，</pc>水深<pc>，</pc>無舟楫可渡<pc>，</pc>紹琛謂李嚴曰<pc>：</pc>
+<p>李紹琛進至<placeName>綿州</placeName>
+<pc>，</pc>倉庫民居已為蜀兵所燔<pc>，</pc>又斷綿江浮梁<pc>，</pc>水深<pc>，</pc>無舟楫可渡<pc>，</pc>紹琛謂李嚴曰<pc>：</pc>
 <pc>「</pc>
-<quote>吾懸軍深入<pc>，</pc>利在速戰<pc>。</pc>乘蜀人破膽之時<pc>，</pc>但得<num value="100">百</num>騎過鹿頭關<pc>，</pc>彼且迎降不暇<pc>；</pc>若俟修繕橋樑<pc>，</pc>必留數日<pc>，</pc>或教王衍堅閉近關<pc>，</pc>折吾兵勢<pc>，</pc>倘延旬浹<pc>，</pc>則勝負未可知矣<pc>。</pc>
+<quote>吾懸軍深入<pc>，</pc>利在速戰<pc>。</pc>乘蜀人破膽之時<pc>，</pc>但得<measure quantity="100" unit="riders">
+<num value="100">百</num>騎</measure>過鹿頭關<pc>，</pc>彼且迎降不暇<pc>；</pc>若俟修繕橋樑<pc>，</pc>必留數日<pc>，</pc>或教王衍堅閉近關<pc>，</pc>折吾兵勢<pc>，</pc>倘延旬浹<pc>，</pc>則勝負未可知矣<pc>。</pc>
 </quote>
-<pc>」</pc>乃與嚴乘馬浮渡江<pc>，</pc>從兵得濟者僅<num value="1000">千</num>人<pc>，</pc>溺死者亦<num value="1000">千</num>餘人<pc>，</pc>遂入鹿關頭<pc>；</pc>
+<pc>」</pc>乃與嚴乘馬浮渡江<pc>，</pc>從兵得濟者僅<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>
+<pc>，</pc>溺死者亦<num value="1000">千</num>餘人<pc>，</pc>遂入鹿關頭<pc>；</pc>
 <num value="44">丁未</num>
-<pc>，</pc>進據漢州<pc>；</pc>居<measure quantity="3" unit="days">
+<pc>，</pc>進據<placeName>漢州</placeName>
+<pc>；</pc>居<measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>
 <pc>，</pc>後軍始至<pc>。</pc>
 </p>
@@ -92,11 +105,15 @@
 <div>
 <p>
 <num value="46">己酉</num>
-<pc>，</pc>魏王繼岌至綿州<pc>，</pc>蜀主命翰林學士李昊草降表<pc>，</pc>又命中書待郎<pc>、</pc>同平章事王鍇草降書<pc>，</pc>遣兵部侍郎歐陽彬奉之以迎繼岌及郭崇韜<pc>。</pc>
+<pc>，</pc>魏王繼岌至<placeName>綿州</placeName>
+<pc>，</pc>蜀主命翰林學士李昊草降表<pc>，</pc>又命中書待郎<pc>、</pc>
+<term>同平章事</term>王鍇草降書<pc>，</pc>遣兵部侍郎歐陽彬奉之以迎繼岌及郭崇韜<pc>。</pc>
 </p>
 </div>
 <div>
-<p>王宗弼稱蜀君臣久欲歸命<pc>，</pc>而內樞密使宋光嗣<pc>、</pc>景潤澄<pc>、</pc>宣徽使李周輅<pc>、</pc>歐陽晃熒惑蜀主<pc>；</pc>皆斬之<pc>，</pc>函首送繼岌<pc>。</pc>又責文思殿大學士<pc>、</pc>禮部尚書<pc>、</pc>成都尹韓昭佞諛<pc>，</pc>梟於金馬坊門<pc>。</pc>內外馬步都指揮使兼中書令徐延瓊<pc>、</pc>果州團練使潘在迎<pc>、</pc>嘉州<term>刺史</term>顧在珣及諸貴戚皆惶恐<pc>，</pc>傾其家金帛妓妾以賂宗弼<pc>，</pc>僅得免死<pc>。</pc>凡素所不快者<pc>，</pc>宗弼皆殺之<pc>。</pc>
+<p>王宗弼稱蜀君臣久欲歸命<pc>，</pc>而內<term>樞密使</term>宋光嗣<pc>、</pc>景潤澄<pc>、</pc>宣徽使李周輅<pc>、</pc>歐陽晃熒惑蜀主<pc>；</pc>皆斬之<pc>，</pc>函首送繼岌<pc>。</pc>又責文思殿大學士<pc>、</pc>禮部尚書<pc>、</pc>成都尹韓昭佞諛<pc>，</pc>梟於金馬坊門<pc>。</pc>內外馬步<term>都指揮使</term>兼中書令徐延瓊<pc>、</pc>
+<placeName>果州</placeName>
+<term>團練使</term>潘在迎<pc>、</pc>嘉州<term>刺史</term>顧在珣及諸貴戚皆惶恐<pc>，</pc>傾其家金帛妓妾以賂宗弼<pc>，</pc>僅得免死<pc>。</pc>凡素所不快者<pc>，</pc>宗弼皆殺之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -111,10 +128,12 @@
 </p>
 </div>
 <div>
-<p>李紹琛留漢州<measure quantity="8" unit="days">
+<p>李紹琛留<placeName>漢州</placeName>
+<measure quantity="8" unit="days">
 <num value="8">八</num>日</measure>以俟都統<pc>，</pc>
 <num value="51">甲寅</num>
-<pc>，</pc>繼岌至漢州<pc>，</pc>王宗弼迎謁<pc>；</pc>
+<pc>，</pc>繼岌至<placeName>漢州</placeName>
+<pc>，</pc>王宗弼迎謁<pc>；</pc>
 <num value="52">乙卯</num>
 <pc>，</pc>至成都<pc>。</pc>
 <num value="53">丙辰</num>
@@ -184,7 +203,7 @@
 <pc>「</pc>
 <quote>主上倚侍中如山嶽<pc>，</pc>不可離廟堂<pc>，</pc>豈肯棄元臣於蠻夷之域乎<pc>！</pc>且此非余之所敢知也<pc>，</pc>請諸人詣闕自陳<pc>。</pc>
 </quote>
-<pc>」</pc>由是繼岌與崇韜互相疑<pc>。</pc>會宋光葆自梓州來<pc>，</pc>訴王宗弼誣殺宋光嗣等<pc>。</pc>又<pc>，</pc>崇韜征犒軍錢數<num value="10000">萬</num>緡於宗弼<pc>，</pc>宗弼靳之<pc>，</pc>士卒怨怒<pc>，</pc>夜<pc>，</pc>縱火喧噪<pc>。</pc>崇韜欲誅宗弼以自明<pc>，</pc>
+<pc>」</pc>由是繼岌與崇韜互相疑<pc>。</pc>會宋光葆自<placeName>梓州</placeName>來<pc>，</pc>訴王宗弼誣殺宋光嗣等<pc>。</pc>又<pc>，</pc>崇韜征犒軍錢數<num value="10000">萬</num>緡於宗弼<pc>，</pc>宗弼靳之<pc>，</pc>士卒怨怒<pc>，</pc>夜<pc>，</pc>縱火喧噪<pc>。</pc>崇韜欲誅宗弼以自明<pc>，</pc>
 <num value="6">己巳</num>
 <pc>，</pc>白繼岌收宗弼及王宗勳<pc>、</pc>王宗渥<pc>，</pc>皆數其不忠之罪<pc>，</pc>族誅之<pc>，</pc>籍沒其家<pc>。</pc>蜀人爭食宗弼之肉<pc>。</pc>
 </p>
@@ -192,7 +211,9 @@
 <div>
 <p>
 <num value="8">辛未</num>
-<pc>，</pc>閩忠懿王審知卒<pc>，</pc>子延翰自稱威武留後<pc>。</pc>汀州民陳本聚眾<num value="30000">三萬</num>圍汀州<pc>，</pc>延翰遣右軍都監柳邕等將兵<num value="20000">二萬</num>討之<pc>。</pc>
+<pc>，</pc>閩忠懿王審知卒<pc>，</pc>子延翰自稱威武留後<pc>。</pc>
+<placeName>汀州</placeName>民陳本聚眾<num value="30000">三萬</num>圍<placeName>汀州</placeName>
+<pc>，</pc>延翰遣右軍<term>都監</term>柳邕等將兵<num value="20000">二萬</num>討之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -221,7 +242,9 @@
 <pc>」</pc>對曰<pc>：</pc>
 <pc>「</pc>
 <quote>
-<num value="2000">萬二千</num>人<pc>。</pc>
+<measure quantity="2000" unit="people">
+<num value="2000">萬二千</num>人</measure>
+<pc>。</pc>
 </quote>
 <pc>」</pc>曰<pc>：</pc>
 <pc>「</pc>
@@ -230,11 +253,14 @@
 <pc>」</pc>對曰<pc>：</pc>
 <pc>「</pc>
 <quote>
-<num value="2000">二千</num>人<pc>。</pc>
+<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>
+<pc>。</pc>
 </quote>
 <pc>」</pc>曰<pc>：</pc>
 <pc>「</pc>
-<quote>可以償<num value="10000">萬</num>人之死矣<pc>。</pc>
+<quote>可以償<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>之死矣<pc>。</pc>
 </quote>
 <pc>」</pc>皆斬之<pc>，</pc>並其子<pc>。</pc>
 </p>
@@ -243,18 +269,24 @@
 <p>
 <num value="13">丙子</num>
 <pc>，</pc>以知北都留守事孟知祥為西川<term>節度使</term>
-<pc>、</pc>同平章事<pc>，</pc>促召赴<placeName>洛陽</placeName>
+<pc>、</pc>
+<term>同平章事</term>
+<pc>，</pc>促召赴<placeName>洛陽</placeName>
 <pc>。</pc>帝議選北都留守<pc>，</pc>樞密承旨段徊等惡鄴都留守張憲<pc>，</pc>不欲其在朝廷<pc>，</pc>皆曰<pc>：</pc>
 <pc>「</pc>
 <quote>北都非張憲不可<pc>。</pc>憲雖有<term>宰相</term>器<pc>，</pc>今國家新得中原<pc>，</pc>
 <term>宰相</term>在天子目前<pc>，</pc>事有得失<pc>，</pc>可以改更<pc>，</pc>比之此都獨系<num value="1">一</num>方安危<pc>，</pc>不為重也<pc>。</pc>
 </quote>
-<pc>」</pc>乃徙憲為太原尹<pc>，</pc>知北都留守事<pc>。</pc>以戶部尚書王正言為興唐尹<pc>，</pc>知鄴都留守事<pc>。</pc>正言昏耄<pc>，</pc>帝以武德使史彥瓊為鄴都監軍<pc>。</pc>彥瓊<pc>，</pc>本伶人也<pc>，</pc>有寵於帝<pc>。</pc>魏<pc>、</pc>博等<measure quantity="6" unit="prefectures">
+<pc>」</pc>乃徙憲為太原尹<pc>，</pc>知北都留守事<pc>。</pc>以戶部尚書王正言為興唐尹<pc>，</pc>知鄴都留守事<pc>。</pc>正言昏耄<pc>，</pc>帝以武德使史彥瓊為鄴<term>都監</term>軍<pc>。</pc>彥瓊<pc>，</pc>本伶人也<placeName>
+<pc>，</pc>
+</placeName>有寵於帝<pc>。</pc>魏<pc>、</pc>博等<measure quantity="6" unit="prefectures">
 <num value="6">六</num>州</measure>軍旅金谷之政皆決於彥瓊<pc>，</pc>威福自恣<pc>，</pc>陵忽將佐<pc>，</pc>自正言以下皆諂事之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>帝得魏州銀槍效節都近<num value="8000">八千</num>人<pc>，</pc>以為親軍<pc>，</pc>皆恿悍無敵<pc>。</pc>夾河之戰<pc>，</pc>實賴其用<pc>，</pc>屢立殊功<pc>，</pc>常許以滅梁之日大加賞賚<pc>。</pc>既而河南平<pc>，</pc>雖賞賚非<num value="1">一</num>
+<p>初<pc>，</pc>帝得魏州銀槍效節都近<measure quantity="8000" unit="people">
+<num value="8000">八千</num>人</measure>
+<pc>，</pc>以為親軍<pc>，</pc>皆恿悍無敵<pc>。</pc>夾河之戰<pc>，</pc>實賴其用<pc>，</pc>屢立殊功<pc>，</pc>常許以滅梁之日大加賞賚<pc>。</pc>既而河南平<pc>，</pc>雖賞賚非<num value="1">一</num>
 <pc>，</pc>而士卒恃功<pc>，</pc>驕恣無厭<pc>，</pc>更成怨望<pc>。</pc>是歲大饑多流亡<pc>，</pc>租賦不充<pc>，</pc>道路塗潦<pc>，</pc>漕輦艱澀<pc>，</pc>東都倉廩空竭<pc>，</pc>無以給軍士<pc>。</pc>租唐使孔謙日於上東門外望諸州漕運<pc>，</pc>至者隨以給之<pc>。</pc>軍士乏食<pc>，</pc>有雇妻鬻子者<pc>，</pc>老弱采蔬於野<pc>，</pc>
 <num value="10">百十</num>為群<pc>，</pc>往往餒死<pc>，</pc>流言怨嗟<pc>，</pc>而帝游畋不息<pc>。</pc>
 <num value="16">己卯</num>
@@ -359,7 +391,8 @@
 <pc>，</pc>知祥發<placeName>洛陽</placeName>
 <pc>。</pc>帝尋復遣衣甲庫使馬彥珪馳詣成都觀崇韜去就<pc>，</pc>如奉詔班師則已<pc>，</pc>若有遷延跋扈之狀<pc>，</pc>則與繼岌圖之<pc>。</pc>彥珪見皇后<pc>，</pc>說之曰<pc>：</pc>
 <pc>「</pc>
-<quote>臣見向延嗣言蜀中事勢憂在朝夕<pc>，</pc>今上當斷不斷<pc>，</pc>夫成敗之機<pc>，</pc>間不容髮<pc>，</pc>安能緩急稟命於<num value="3000">三千</num>里外乎<pc>！</pc>
+<quote>臣見向延嗣言蜀中事勢憂在朝夕<pc>，</pc>今上當斷不斷<pc>，</pc>夫成敗之機<pc>，</pc>間不容髮<pc>，</pc>安能緩急稟命於<measure quantity="3000" unit="LIs">
+<num value="3000">三千</num>里</measure>外乎<pc>！</pc>
 </quote>
 <pc>」</pc>皇后復言於帝<pc>，</pc>帝曰<pc>：</pc>
 <pc>「</pc>
@@ -378,7 +411,7 @@
 </div>
 <div>
 <p>
-<date>吳越</date>王鏐遣使者沈□致書<pc>，</pc>以受玉冊<pc>，</pc>封<date>吳越</date>國王告於吳<pc>。</pc>吳人以其國名與己同<pc>，</pc>不受書<pc>，</pc>遣□還<pc>。</pc>仍戒境上無得通<date>吳越</date>使者及商旅<pc>。</pc>
+<date notBefore="9999" notAfter="9999">吳越</date>王鏐遣使者沈□致書<pc>，</pc>以受玉冊<pc>，</pc>封<date notBefore="9999" notAfter="9999">吳越</date>國王告於吳<pc>。</pc>吳人以其國名與己同<pc>，</pc>不受書<pc>，</pc>遣□還<pc>。</pc>仍戒境上無得通<date notBefore="9999" notAfter="9999">吳越</date>使者及商旅<pc>。</pc>
 </p>
 </div>
 <div>
@@ -390,7 +423,8 @@
 <num value="1">正</num>月</measure>
 <pc>，</pc>
 <num value="57">庚申</num>
-<pc>，</pc>魏王繼岌遣李繼曮<pc>、</pc>李嚴部送王衍及其宗族<num value="100">百</num>官數<num value="1000">千</num>人詣<placeName>洛陽</placeName>
+<pc>，</pc>魏王繼岌遣李繼曮<pc>、</pc>李嚴部送王衍及其宗族<num value="100">百</num>官數<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>詣<placeName>洛陽</placeName>
 <pc>。</pc>
 </p>
 </div>
@@ -426,13 +460,15 @@
 <pc>」</pc>相與巧陳利害<pc>，</pc>繼岌不得已從之<pc>。</pc>
 <num value="1">甲子</num>旦<pc>，</pc>從襲以繼岌之命召崇韜計事<pc>，</pc>繼岌登樓避之<pc>。</pc>崇韜方升階<pc>，</pc>繼岌從者李環撾碎其首<pc>，</pc>並殺其子廷誨<pc>、</pc>廷信<pc>。</pc>外人猶未之知<pc>。</pc>都統推官饒陽李崧謂繼岌曰<pc>：</pc>
 <pc>「</pc>
-<quote>今行軍<num value="3000">三千</num>里外<pc>，</pc>初無敕旨<pc>，</pc>擅殺大將<pc>，</pc>大王奈何行此危事<pc>！</pc>獨不能忍之至<placeName>洛陽</placeName>邪<pc>？</pc>
+<quote>今行軍<measure quantity="3000" unit="LIs">
+<num value="3000">三千</num>里</measure>外<pc>，</pc>初無敕旨<pc>，</pc>擅殺大將<pc>，</pc>大王奈何行此危事<pc>！</pc>獨不能忍之至<placeName>洛陽</placeName>邪<pc>？</pc>
 </quote>
 <pc>」</pc>繼岌曰<pc>：</pc>
 <pc>「</pc>
 <quote>公言是也<pc>，</pc>悔之無及<pc>。</pc>
 </quote>
-<pc>」</pc>崧乃召書吏數人<pc>，</pc>登樓去梯<pc>，</pc>矯為敕書<pc>，</pc>用蠟印宣之<pc>，</pc>軍中粗定<pc>。</pc>崇韜左右皆竄匿<pc>，</pc>獨掌書記滏陽張礪詣魏王府慟哭久之<pc>。</pc>繼岌命任圜代崇韜總軍政<pc>。</pc>魏王通謁李廷安獻蜀樂工<num value="200">二百</num>餘人<pc>，</pc>有嚴旭者<pc>，</pc>王衍用為蓬州<term>刺史</term>
+<pc>」</pc>崧乃召書吏數人<pc>，</pc>登樓去梯<pc>，</pc>矯為敕書<pc>，</pc>用蠟印宣之<pc>，</pc>軍中粗定<pc>。</pc>崇韜左右皆竄匿<pc>，</pc>獨掌書記滏陽張礪詣魏王府慟哭久之<pc>。</pc>繼岌命任圜代崇韜總軍政<pc>。</pc>魏王通謁李廷安獻蜀樂工<num value="200">二百</num>餘人<pc>，</pc>有嚴旭者<pc>，</pc>王衍用為<placeName>蓬州</placeName>
+<term>刺史</term>
 <pc>，</pc>帝問曰<pc>：</pc>
 <pc>「</pc>
 <quote>汝何以得<term>刺史</term>
@@ -479,15 +515,22 @@
 <pc>」</pc>宦官因共勸帝速除之<pc>，</pc>帝乃徙繼麟為義成<term>節度使</term>
 <pc>，</pc>是夜<pc>，</pc>遣蕃漢馬步使硃守殷以兵圍其第<pc>，</pc>驅繼麟出徽安門外殺之<pc>，</pc>復其姓名曰硃友謙<pc>。</pc>友謙<num value="2">二</num>子<pc>，</pc>令德為武信<term>節度使</term>
 <pc>，</pc>令錫為忠武<term>節度使</term>
-<pc>；</pc>詔魏王繼岌誅令德於遂州<pc>，</pc>鄭州<term>刺史</term>王思同誅令錫於許州<pc>，</pc>河陽<term>節度使</term>李紹奇誅其家人於河中<pc>。</pc>紹奇至其家<pc>，</pc>友謙妻張氏帥家人<num value="200">二百</num>餘口見紹奇曰<pc>：</pc>
+<pc>；</pc>詔魏王繼岌誅令德於遂州<pc>，</pc>
+<placeName>鄭州</placeName>
+<term>刺史</term>王思同誅令錫於<placeName>許州</placeName>
+<pc>，</pc>河陽<term>節度使</term>李紹奇誅其家人於河中<pc>。</pc>紹奇至其家<pc>，</pc>友謙妻張氏帥家人<num value="200">二百</num>餘口見紹奇曰<pc>：</pc>
 <pc>「</pc>
 <quote>硃氏宗族當死<pc>，</pc>願無濫及平人<pc>。</pc>
 </quote>
-<pc>」</pc>乃別其婢僕<num value="100">百</num>人<pc>，</pc>以其族<num value="100">百</num>口就刑<pc>。</pc>張氏又取鐵券以示紹奇曰<pc>：</pc>
+<pc>」</pc>乃別其婢僕<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>以其族<num value="100">百</num>口就刑<pc>。</pc>張氏又取鐵券以示紹奇曰<pc>：</pc>
 <pc>「</pc>
 <quote>此皇帝去年所賜也<pc>，</pc>我婦人<pc>，</pc>不識書<pc>，</pc>不知其何等語也<pc>。</pc>
 </quote>
-<pc>」</pc>紹奇亦為之慚<pc>。</pc>友謙舊將吏武等<num value="7">七</num>人<pc>，</pc>時為<term>刺史</term>
+<pc>」</pc>紹奇亦為之慚<pc>。</pc>友謙舊將吏武等<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>，</pc>時為<term>刺史</term>
 <pc>，</pc>皆坐族誅<pc>。</pc>時洛中諸軍饑窘<pc>，</pc>妄為謠言<pc>，</pc>伶官采之以聞於帝<pc>，</pc>故郭崇韜<pc>、</pc>硃友謙皆及於禍<pc>。</pc>成都<term>節度使</term>兼中書令李嗣源亦為謠言所屬<pc>，</pc>帝遣硃守殷察之<pc>；</pc>守殷私謂嗣源曰<pc>：</pc>
 <pc>「</pc>
 <quote>令公勳業振主<pc>，</pc>宜自圖歸籓以遠禍<pc>。</pc>
@@ -501,9 +544,10 @@
 </p>
 </div>
 <div>
-<p>魏王繼岌留馬步都指揮使陳留李仁罕<pc>、</pc>馬軍都指揮使東光潘仁嗣<pc>、</pc>左廂都指揮使趙廷隱<pc>、</pc>右廂都指揮使浚儀張業<pc>、</pc>牙內指揮使文水武漳<pc>、</pc>驍銳指揮使平恩李廷厚戍成都<pc>。</pc>
+<p>魏王繼岌留馬步<term>都指揮使</term>陳留李仁罕<pc>、</pc>馬軍<term>都指揮使</term>東光潘仁嗣<pc>、</pc>左廂<term>都指揮使</term>趙廷隱<pc>、</pc>右廂<term>都指揮使</term>浚儀張業<pc>、</pc>牙內指揮使文水武漳<pc>、</pc>驍銳指揮使平恩李廷厚戍成都<pc>。</pc>
 <num value="21">甲申</num>
-<pc>，</pc>繼岌發成都<pc>，</pc>命李紹琛帥<num value="2000">萬二千</num>人為後軍<pc>，</pc>行止常差中軍<num value="1">一</num>捨<pc>。</pc>
+<pc>，</pc>繼岌發成都<pc>，</pc>命李紹琛帥<measure quantity="2000" unit="people">
+<num value="2000">萬二千</num>人</measure>為後軍<pc>，</pc>行止常差中軍<num value="1">一</num>捨<pc>。</pc>
 </p>
 </div>
 <div>
@@ -511,16 +555,20 @@
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <pc>，</pc>
-<num value="26">己丑</num>朔<pc>，</pc>以宣徽南院使李紹宏為樞密使<pc>。</pc>
+<num value="26">己丑</num>朔<pc>，</pc>以宣徽南院使李紹宏為<term>樞密使</term>
+<pc>。</pc>
 </p>
 </div>
 <div>
-<p>魏博指揮使楊仁晸<pc>，</pc>將所部兵戍瓦橋<pc>，</pc>逾年代歸<pc>，</pc>至貝州<pc>，</pc>以鄴都空虛<pc>，</pc>恐兵至為變<pc>，</pc>敕留屯貝州<pc>。</pc>時天下莫知郭崇韜之罪<pc>，</pc>民間訛言云<pc>：</pc>
+<p>魏博指揮使楊仁晸<pc>，</pc>將所部兵戍瓦橋<pc>，</pc>逾年代歸<pc>，</pc>至<placeName>貝州</placeName>
+<pc>，</pc>以鄴都空虛<pc>，</pc>恐兵至為變<pc>，</pc>敕留屯<placeName>貝州</placeName>
+<pc>。</pc>時天下莫知郭崇韜之罪<pc>，</pc>民間訛言云<pc>：</pc>
 <pc>「</pc>
 <quote>崇韜殺繼岌<pc>，</pc>自王於蜀<pc>，</pc>故族其家<pc>。</pc>
 </quote>
-<pc>」</pc>硃友謙子建徽為澶州<term>刺史</term>
-<pc>，</pc>帝密敕鄴都監軍史彥瓊殺之<pc>。</pc>門者白留守王正言曰<pc>：</pc>
+<pc>」</pc>硃友謙子建徽為<placeName>澶州</placeName>
+<term>刺史</term>
+<pc>，</pc>帝密敕鄴<term>都監</term>軍史彥瓊殺之<pc>。</pc>門者白留守王正言曰<pc>：</pc>
 <pc>「</pc>
 <quote>史武德<time when="24:00">夜半</time>馳馬出城<pc>，</pc>不言何往<pc>。</pc>
 </quote>
@@ -532,15 +580,19 @@
 <pc>「</pc>
 <quote>主上所以有天下者<pc>，</pc>吾魏軍力也<pc>；</pc>魏軍甲不去體<pc>，</pc>馬不解鞍者<num value="10">十</num>餘年<pc>，</pc>今天下已定<pc>，</pc>天子不念舊勞<pc>，</pc>更加猜忌<pc>。</pc>遠戍逾年<pc>，</pc>方喜代歸<pc>，</pc>去家咫尺<pc>，</pc>不使相見<pc>。</pc>今聞皇后弒逆<pc>，</pc>京師已亂<pc>，</pc>將士願與公俱歸<pc>，</pc>仍表聞朝廷<pc>。</pc>若天子<num value="10000">萬</num>福<pc>，</pc>興兵致討<pc>，</pc>以吾魏博兵力足以拒之<pc>，</pc>安知不更為富貴之資乎<pc>？</pc>
 </quote>
-<pc>」</pc>仁晸不從<pc>，</pc>暉殺之<pc>；</pc>又劫小校<pc>，</pc>不從<pc>，</pc>又殺之<pc>。</pc>效節指揮使趙在禮聞亂<pc>，</pc>衣不及帶<pc>，</pc>逾垣而走<pc>，</pc>暉追及<pc>，</pc>曳其足而下之<pc>，</pc>示以<num value="2">二</num>首<pc>，</pc>在禮懼而從之<pc>。</pc>亂兵遂奉以為帥<pc>，</pc>焚掠貝州<pc>。</pc>暉<pc>，</pc>魏州人<pc>；</pc>在禮<pc>，</pc>涿州人也<pc>。</pc>詰旦<pc>，</pc>暉等擁在禮南趣臨清<pc>、</pc>永濟<pc>、</pc>館陶<pc>，</pc>所過剽掠<pc>。</pc>
-<num value="29">壬辰</num>晚<pc>，</pc>有自貝州來告軍亂將犯鄴都者<pc>，</pc>都巡檢使孫鐸等亟詣史彥瓊<pc>，</pc>請授甲乘城為備<pc>。</pc>彥瓊疑鐸等有異志<pc>，</pc>曰<pc>：</pc>
+<pc>」</pc>仁晸不從<pc>，</pc>暉殺之<pc>；</pc>又劫小校<pc>，</pc>不從<pc>，</pc>又殺之<pc>。</pc>效節指揮使趙在禮聞亂<pc>，</pc>衣不及帶<pc>，</pc>逾垣而走<pc>，</pc>暉追及<pc>，</pc>曳其足而下之<pc>，</pc>示以<num value="2">二</num>首<pc>，</pc>在禮懼而從之<pc>。</pc>亂兵遂奉以為帥<pc>，</pc>焚掠<placeName>貝州</placeName>
+<pc>。</pc>暉<pc>，</pc>魏州人<pc>；</pc>在禮<pc>，</pc>
+<placeName>涿州</placeName>人也<pc>。</pc>詰旦<pc>，</pc>暉等擁在禮南趣臨清<pc>、</pc>永濟<pc>、</pc>館陶<pc>，</pc>所過剽掠<pc>。</pc>
+<num value="29">壬辰</num>晚<pc>，</pc>有自<placeName>貝州</placeName>來告軍亂將犯鄴都者<pc>，</pc>
+<term>都巡檢使</term>孫鐸等亟詣史彥瓊<pc>，</pc>請授甲乘城為備<pc>。</pc>彥瓊疑鐸等有異志<pc>，</pc>曰<pc>：</pc>
 <pc>「</pc>
 <quote>告者雲今日賊至臨清<pc>，</pc>計程須<measure quantity="6" unit="days">
 <num value="6">六</num>日</measure>晚方至<pc>，</pc>為備未晚<pc>。</pc>
 </quote>
 <pc>」</pc>孫鐸曰<pc>：</pc>
 <pc>「</pc>
-<quote>賊既作亂<pc>，</pc>必乘吾未備<pc>，</pc>晝夜倍道<pc>，</pc>安肯計程而行<pc>！</pc>請僕射帥眾乘城<pc>，</pc>鐸募勁兵<num value="1000">千</num>人伏於王莽河逆擊之<pc>，</pc>賊既勢挫<pc>，</pc>必當離散<pc>，</pc>然後可撲討也<pc>。</pc>必俟其至城下<pc>，</pc>
+<quote>賊既作亂<pc>，</pc>必乘吾未備<pc>，</pc>晝夜倍道<pc>，</pc>安肯計程而行<pc>！</pc>請僕射帥眾乘城<pc>，</pc>鐸募勁兵<measure quantity="1000" unit="people">
+<num value="1000">千</num>人</measure>伏於王莽河逆擊之<pc>，</pc>賊既勢挫<pc>，</pc>必當離散<pc>，</pc>然後可撲討也<pc>。</pc>必俟其至城下<pc>，</pc>
 <num value="1">萬一</num>有奸人為內應<pc>，</pc>則事危矣<pc>。</pc>
 </quote>
 <pc>」</pc>彥瓊曰<pc>：</pc>
@@ -554,7 +606,9 @@
 <div>
 <p>
 <num value="30">癸巳</num>
-<pc>，</pc>賊入鄴都<pc>，</pc>孫鐸等拒戰不勝<pc>，</pc>亡去<pc>。</pc>趙在禮據宮城<pc>，</pc>署皇甫暉及軍校趙進為馬步都指揮使<pc>，</pc>縱兵大掠<pc>。</pc>進<pc>，</pc>定州人也<pc>。</pc>
+<pc>，</pc>賊入鄴都<pc>，</pc>孫鐸等拒戰不勝<pc>，</pc>亡去<pc>。</pc>趙在禮據宮城<pc>，</pc>署皇甫暉及軍校趙進為馬步<term>都指揮使</term>
+<pc>，</pc>縱兵大掠<pc>。</pc>進<pc>，</pc>
+<placeName>定州</placeName>人也<pc>。</pc>
 </p>
 </div>
 <div>
@@ -583,7 +637,7 @@
 <p>
 <num value="33">丙申</num>
 <pc>，</pc>史彥瓊至<placeName>洛陽</placeName>
-<pc>。</pc>帝問可為大將者於樞密使李紹宏<pc>，</pc>紹宏復請用李紹欽<pc>，</pc>帝許之<pc>，</pc>令條上方略<pc>。</pc>紹欽所請偏裨<pc>，</pc>皆梁舊將<pc>，</pc>己所善者<pc>，</pc>帝疑之而止<pc>。</pc>皇后曰<pc>：</pc>
+<pc>。</pc>帝問可為大將者於<term>樞密使</term>李紹宏<pc>，</pc>紹宏復請用李紹欽<pc>，</pc>帝許之<pc>，</pc>令條上方略<pc>。</pc>紹欽所請偏裨<pc>，</pc>皆梁舊將<pc>，</pc>己所善者<pc>，</pc>帝疑之而止<pc>。</pc>皇后曰<pc>：</pc>
 <pc>「</pc>
 <quote>此小事<pc>，</pc>不足煩大將<pc>，</pc>紹榮可辦也<pc>。</pc>
 </quote>
@@ -603,13 +657,13 @@
 <pc>「</pc>
 <quote>西平王何罪<pc>，</pc>闔門屠膾<pc>！</pc>我屬歸則與史武等同誅<pc>，</pc>決不復東矣<pc>。</pc>
 </quote>
-<pc>」</pc>是日<pc>，</pc>魏王繼岌至泥溪<pc>，</pc>紹琛至劍州遣人白繼岌云<pc>：</pc>
+<pc>」</pc>是日<pc>，</pc>魏王繼岌至泥溪<pc>，</pc>紹琛至<placeName>劍州</placeName>遣人白繼岌云<pc>：</pc>
 <pc>「</pc>
 <quote>河中將士號哭不止<pc>，</pc>欲為亂<pc>。</pc>
 </quote>
 <pc>」</pc>
 <num value="34">丁酉</num>
-<pc>，</pc>紹琛自劍州擁兵西還<pc>，</pc>自稱西川節度<pc>、</pc>
+<pc>，</pc>紹琛自<placeName>劍州</placeName>擁兵西還<pc>，</pc>自稱西川節度<pc>、</pc>
 <num value="3">三</num>川制置等使<pc>，</pc>移檄成都<pc>，</pc>稱奉詔代孟知祥<pc>，</pc>招諭蜀人<pc>，</pc>
 <measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>間眾至<num value="50000">五萬</num>
@@ -625,14 +679,17 @@
 <div>
 <p>
 <num value="36">己亥</num>
-<pc>，</pc>魏王繼岌至利州<pc>，</pc>李紹琛遣人斷桔柏津<pc>。</pc>繼岌聞之<pc>，</pc>以任圜為副招討使<pc>，</pc>將步騎<num value="7000">七千</num>
-<pc>，</pc>與都指揮使梁漢顒<pc>、</pc>監軍李延安追討之<pc>。</pc>
+<pc>，</pc>魏王繼岌至<placeName>利州</placeName>
+<pc>，</pc>李紹琛遣人斷桔柏津<pc>。</pc>繼岌聞之<pc>，</pc>以任圜為副招討使<pc>，</pc>將步騎<num value="7000">七千</num>
+<pc>，</pc>與<term>都指揮使</term>梁漢顒<pc>、</pc>監軍李延安追討之<pc>。</pc>
 </p>
 </div>
 <div>
 <p>
 <num value="37">庚子</num>
-<pc>，</pc>邢州左右步直兵趙太等<num value="400">四百</num>人據城自稱安國留後<pc>；</pc>詔東北面招討副使李紹真討之<pc>。</pc>
+<pc>，</pc>
+<placeName>邢州</placeName>左右步直兵趙太等<measure quantity="400" unit="people">
+<num value="400">四百</num>人</measure>據城自稱安國留後<pc>；</pc>詔東北面招討副使李紹真討之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -660,12 +717,14 @@
 </quote>
 <pc>」</pc>大發諸軍討之<pc>。</pc>
 <num value="39">壬寅</num>
-<pc>，</pc>紹榮退屯澶州<pc>。</pc>
+<pc>，</pc>紹榮退屯<placeName>澶州</placeName>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>
-<num value="41">甲辰</num>夜<pc>，</pc>從馬直軍士王溫等<num value="5">五</num>人殺軍使<pc>，</pc>謀作亂<pc>，</pc>擒斬之<pc>。</pc>從馬直指揮使郭從謙<pc>，</pc>本優人也<pc>，</pc>優名郭門高<pc>。</pc>帝與梁相拒於得勝<pc>，</pc>募勇士挑戰<pc>，</pc>從謙應募<pc>，</pc>俘斬而還<pc>，</pc>由是益有寵<pc>。</pc>帝選諸軍驍勇者為親軍<pc>，</pc>分置<num value="4">四</num>指揮<pc>，</pc>號從馬直<pc>，</pc>從謙自軍使積功至指揮使<pc>。</pc>郭崇韜方用事<pc>，</pc>從謙以叔父事之<pc>，</pc>睦王存乂以從謙為假子<pc>。</pc>及崇韜<pc>、</pc>存乂得罪<pc>，</pc>從謙數以私財饗從馬直諸校<pc>，</pc>對之流涕<pc>，</pc>言崇韜之冤<pc>。</pc>及王溫作亂<pc>，</pc>帝戲之曰<pc>：</pc>
+<num value="41">甲辰</num>夜<pc>，</pc>從馬直軍士王溫等<measure quantity="5" unit="people">
+<num value="5">五</num>人</measure>殺軍使<pc>，</pc>謀作亂<pc>，</pc>擒斬之<pc>。</pc>從馬直指揮使郭從謙<pc>，</pc>本優人也<pc>，</pc>優名郭門高<pc>。</pc>帝與梁相拒於得勝<pc>，</pc>募勇士挑戰<pc>，</pc>從謙應募<pc>，</pc>俘斬而還<pc>，</pc>由是益有寵<pc>。</pc>帝選諸軍驍勇者為親軍<pc>，</pc>分置<num value="4">四</num>指揮<pc>，</pc>號從馬直<pc>，</pc>從謙自軍使積功至指揮使<pc>。</pc>郭崇韜方用事<pc>，</pc>從謙以叔父事之<pc>，</pc>睦王存乂以從謙為假子<pc>。</pc>及崇韜<pc>、</pc>存乂得罪<pc>，</pc>從謙數以私財饗從馬直諸校<pc>，</pc>對之流涕<pc>，</pc>言崇韜之冤<pc>。</pc>及王溫作亂<pc>，</pc>帝戲之曰<pc>：</pc>
 <pc>「</pc>
 <quote>汝既負我附崇韜<pc>、</pc>存乂<pc>，</pc>又教王溫反<pc>，</pc>欲何為也<pc>？</pc>
 </quote>
@@ -690,13 +749,15 @@
 <num value="44">丁未</num>
 <pc>，</pc>李紹榮以諸道兵再攻鄴都<pc>。</pc>
 <num value="47">庚戌</num>
-<pc>，</pc>裨將楊重霸帥眾數<num value="100">百</num>登城<pc>，</pc>後無繼者<pc>，</pc>重霸等皆死<pc>。</pc>賊知不赦<pc>，</pc>堅守無降意<pc>。</pc>朝廷患之<pc>，</pc>日發中使促魏王繼岌東還<pc>。</pc>繼岌以中軍精兵皆從任圜討李紹琛<pc>，</pc>留利州待之<pc>，</pc>未得還<pc>。</pc>
+<pc>，</pc>裨將楊重霸帥眾數<num value="100">百</num>登城<pc>，</pc>後無繼者<pc>，</pc>重霸等皆死<pc>。</pc>賊知不赦<pc>，</pc>堅守無降意<pc>。</pc>朝廷患之<pc>，</pc>日發中使促魏王繼岌東還<pc>。</pc>繼岌以中軍精兵皆從任圜討李紹琛<pc>，</pc>留<placeName>利州</placeName>待之<pc>，</pc>未得還<pc>。</pc>
 </p>
 </div>
 <div>
-<p>李紹榮討趙在禮久無功<pc>，</pc>趙太據邢州未下<pc>。</pc>滄州軍亂<pc>，</pc>小校王景戡討定之<pc>，</pc>因自為留後<pc>；</pc>河朔州縣告亂者相繼<pc>。</pc>帝欲自征鄴都<pc>，</pc>
+<p>李紹榮討趙在禮久無功<pc>，</pc>趙太據<placeName>邢州</placeName>未下<pc>。</pc>
+<placeName>滄州</placeName>軍亂<pc>，</pc>小校王景戡討定之<pc>，</pc>因自為留後<pc>；</pc>河朔州縣告亂者相繼<pc>。</pc>帝欲自征鄴都<pc>，</pc>
 <term>宰相</term>
-<pc>、</pc>樞密使皆言京師根本<pc>，</pc>車駕不可輕動<pc>，</pc>帝曰<pc>：</pc>
+<pc>、</pc>
+<term>樞密使</term>皆言京師根本<pc>，</pc>車駕不可輕動<pc>，</pc>帝曰<pc>：</pc>
 <pc>「</pc>
 <quote>諸將無可使者<pc>。</pc>
 </quote>
@@ -722,19 +783,27 @@
 </p>
 </div>
 <div>
-<p>延州言綏<pc>、</pc>銀軍亂<pc>，</pc>剽州城<pc>。</pc>
+<p>
+<placeName>延州</placeName>言綏<pc>、</pc>銀軍亂<pc>，</pc>剽州城<pc>。</pc>
 </p>
 </div>
 <div>
-<p>董璋將兵<num value="20000">二萬</num>屯綿州<pc>，</pc>會任圜討李紹琛<pc>。</pc>帝遣中使崔延琛至成都<pc>，</pc>遇紹琛軍<pc>，</pc>紹之曰<pc>：</pc>
+<p>董璋將兵<num value="20000">二萬</num>屯<placeName>綿州</placeName>
+<pc>，</pc>會任圜討李紹琛<pc>。</pc>帝遣中使崔延琛至成都<pc>，</pc>遇紹琛軍<pc>，</pc>紹之曰<pc>：</pc>
 <pc>「</pc>
 <quote>吾奉詔召孟郎<pc>，</pc>公若緩兵<pc>，</pc>自當得蜀<pc>。</pc>
 </quote>
-<pc>」</pc>既至成都<pc>，</pc>勸孟知祥為戰守備<pc>。</pc>知祥浚壕樹柵<pc>，</pc>遣馬步都指揮使李仁罕將<num value="40000">四萬</num>人<pc>，</pc>驍銳指揮使李延厚將<num value="2000">二千</num>人討紹琛<pc>。</pc>延厚集其眾詢之曰<pc>：</pc>
+<pc>」</pc>既至成都<pc>，</pc>勸孟知祥為戰守備<pc>。</pc>知祥浚壕樹柵<pc>，</pc>遣馬步<term>都指揮使</term>李仁罕將<measure quantity="40000" unit="people">
+<num value="40000">四萬</num>人</measure>
+<pc>，</pc>驍銳指揮使李延厚將<measure quantity="2000" unit="people">
+<num value="2000">二千</num>人</measure>討紹琛<pc>。</pc>延厚集其眾詢之曰<pc>：</pc>
 <pc>「</pc>
 <quote>有少壯勇銳<pc>，</pc>欲立功求富貴者東<pc>！</pc>衰疾畏懦<pc>，</pc>厭行陳者西<pc>！</pc>
 </quote>
-<pc>」</pc>得選兵<num value="700">七百</num>人以行<pc>。</pc>是日<pc>，</pc>任圜軍追及紹琛於漢州<pc>，</pc>紹琛出兵逆戰<pc>；</pc>招討掌書記張礪請伏精兵於後<pc>，</pc>以贏兵誘之<pc>，</pc>圜從之<pc>，</pc>使董璋以東川贏兵先戰而卻<pc>。</pc>紹琛輕圜書生<pc>，</pc>又見其兵贏<pc>，</pc>極力追之<pc>，</pc>伏兵發<pc>，</pc>大破之<pc>，</pc>斬首數<num value="1000">千</num>級<pc>。</pc>自是紹琛入漢州<pc>，</pc>閉城不出<pc>。</pc>
+<pc>」</pc>得選兵<measure quantity="700" unit="people">
+<num value="700">七百</num>人</measure>以行<pc>。</pc>是日<pc>，</pc>任圜軍追及紹琛於<placeName>漢州</placeName>
+<pc>，</pc>紹琛出兵逆戰<pc>；</pc>招討掌書記張礪請伏精兵於後<pc>，</pc>以贏兵誘之<pc>，</pc>圜從之<pc>，</pc>使董璋以東川贏兵先戰而卻<pc>。</pc>紹琛輕圜書生<pc>，</pc>又見其兵贏<pc>，</pc>極力追之<pc>，</pc>伏兵發<pc>，</pc>大破之<pc>，</pc>斬首數<num value="1000">千</num>級<pc>。</pc>自是紹琛入<placeName>漢州</placeName>
+<pc>，</pc>閉城不出<pc>。</pc>
 </p>
 </div>
 <div>
@@ -749,7 +818,7 @@
 <div>
 <p>
 <num value="58">辛酉</num>
-<pc>，</pc>以威武節度副使王廷翰為威武<term>節度使</term>
+<pc>，</pc>以威武<term>節度副使</term>王廷翰為威武<term>節度使</term>
 <pc>。</pc>
 </p>
 </div>
@@ -767,7 +836,8 @@
 <quote>將士從主上<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
 <pc>，</pc>
-<num value="100">百</num>戰以得天下<pc>。</pc>今主上棄恩任威<pc>，</pc>貝州戍卒思歸<pc>，</pc>主上不赦<pc>，</pc>云『克城之後<pc>，</pc>當盡坑魏博之軍』<pc>；</pc>近從馬直數卒喧競<pc>，</pc>遽欲盡誅其眾<pc>。</pc>我輩初無叛心<pc>，</pc>但畏死耳<pc>。</pc>今眾議欲與城中合勢擊退諸道之軍<pc>，</pc>請主上帝河南<pc>，</pc>令公帝河北<pc>，</pc>為軍民之主<pc>。</pc>
+<num value="100">百</num>戰以得天下<pc>。</pc>今主上棄恩任威<pc>，</pc>
+<placeName>貝州</placeName>戍卒思歸<pc>，</pc>主上不赦<pc>，</pc>云『克城之後<pc>，</pc>當盡坑魏博之軍』<pc>；</pc>近從馬直數卒喧競<pc>，</pc>遽欲盡誅其眾<pc>。</pc>我輩初無叛心<pc>，</pc>但畏死耳<pc>。</pc>今眾議欲與城中合勢擊退諸道之軍<pc>，</pc>請主上帝河南<pc>，</pc>令公帝河北<pc>，</pc>為軍民之主<pc>。</pc>
 </quote>
 <pc>」</pc>嗣源泣諭之<pc>，</pc>不從<pc>。</pc>嗣源曰<pc>：</pc>
 <pc>「</pc>
@@ -789,9 +859,10 @@
 </p>
 </div>
 <div>
-<p>漢州無城塹<pc>，</pc>樹木為柵<pc>。</pc>
+<p>
+<placeName>漢州</placeName>無城塹<pc>，</pc>樹木為柵<pc>。</pc>
 <num value="2">乙丑</num>
-<pc>，</pc>任圜進攻其柵<pc>，</pc>縱火焚之<pc>，</pc>李紹琛引兵出戰於金雁橋<pc>，</pc>兵敗<pc>，</pc>與<num value="10">十</num>餘騎奔綿竹<pc>，</pc>追擒之<pc>。</pc>孟知祥自至漢州犒軍<pc>，</pc>與任圜<pc>、</pc>董璋置酒高會<pc>，</pc>引李紹琛檻車至座中<pc>，</pc>知祥自酌大卮飲之<pc>，</pc>謂曰<pc>：</pc>
+<pc>，</pc>任圜進攻其柵<pc>，</pc>縱火焚之<pc>，</pc>李紹琛引兵出戰於金雁橋<pc>，</pc>兵敗<pc>，</pc>與<num value="10">十</num>餘騎奔綿竹<pc>，</pc>追擒之<pc>。</pc>孟知祥自至<placeName>漢州</placeName>犒軍<pc>，</pc>與任圜<pc>、</pc>董璋置酒高會<pc>，</pc>引李紹琛檻車至座中<pc>，</pc>知祥自酌大卮飲之<pc>，</pc>謂曰<pc>：</pc>
 <pc>「</pc>
 <quote>公已擁節旄<pc>，</pc>又有平蜀之功<pc>，</pc>何患不富貴<pc>，</pc>而求入此檻車邪<pc>！</pc>
 </quote>
@@ -801,11 +872,16 @@
 <pc>，</pc>兵不血刃取兩川<pc>，</pc>
 <num value="1">一</num>旦無罪族誅<pc>；</pc>如紹琛輩安保首領<pc>！</pc>以此不敢歸朝耳<pc>。</pc>
 </quote>
-<pc>」</pc>魏王繼岌既獲紹琛<pc>，</pc>乃引兵倍道而東<pc>。</pc>孟知祥獲陝虢都指揮使汝陰李肇<pc>、</pc>河中都指揮使<num value="1000">千</num>乘侯弘實<pc>，</pc>以肇為牙內馬步都指揮使<pc>，</pc>弘實副之<pc>。</pc>蜀中群盜猶未息<pc>，</pc>知祥擇廉吏使治州縣<pc>，</pc>蠲除橫賦<pc>，</pc>安集流散<pc>，</pc>下寬大之令<pc>，</pc>與民更始<pc>。</pc>遣左廂都指揮使趙廷隱<pc>、</pc>右廂都指揮使張業將兵分討群盜<pc>，</pc>悉誅之<pc>。</pc>
+<pc>」</pc>魏王繼岌既獲紹琛<pc>，</pc>乃引兵倍道而東<pc>。</pc>孟知祥獲陝虢<term>都指揮使</term>汝陰李肇<pc>、</pc>河中<term>都指揮使</term>
+<num value="1000">千</num>乘侯弘實<pc>，</pc>以肇為牙內馬步<term>都指揮使</term>
+<pc>，</pc>弘實副之<pc>。</pc>蜀中群盜猶未息<pc>，</pc>知祥擇廉吏使治州縣<pc>，</pc>蠲除橫賦<pc>，</pc>安集流散<pc>，</pc>下寬大之令<pc>，</pc>與民更始<pc>。</pc>遣左廂<term>都指揮使</term>趙廷隱<pc>、</pc>右廂<term>都指揮使</term>張業將兵分討群盜<pc>，</pc>悉誅之<pc>。</pc>
 </p>
 </div>
 <div>
-<p>李嗣源之為亂兵所逼也<pc>，</pc>李紹榮有眾<num value="10000">萬</num>人<pc>，</pc>營於城南<pc>，</pc>嗣源遣牙將張虔釗<pc>、</pc>高行周等<num value="7">七</num>人相繼召之<pc>，</pc>欲與共誅亂者<pc>。</pc>紹榮疑嗣源之詐<pc>，</pc>留使者<pc>，</pc>閉壁不應<pc>。</pc>及嗣源入鄴都<pc>，</pc>遂引兵去<pc>。</pc>嗣源在魏縣<pc>，</pc>眾不滿<num value="100">百</num>
+<p>李嗣源之為亂兵所逼也<pc>，</pc>李紹榮有眾<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>，</pc>營於城南<pc>，</pc>嗣源遣牙將張虔釗<pc>、</pc>高行周等<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>相繼召之<pc>，</pc>欲與共誅亂者<pc>。</pc>紹榮疑嗣源之詐<pc>，</pc>留使者<pc>，</pc>閉壁不應<pc>。</pc>及嗣源入鄴都<pc>，</pc>遂引兵去<pc>。</pc>嗣源在魏縣<pc>，</pc>眾不滿<num value="100">百</num>
 <pc>，</pc>又無兵仗<pc>；</pc>李紹真所將鎮兵<num value="5000">五千</num>
 <pc>，</pc>聞嗣源得出<pc>，</pc>相帥歸之<pc>，</pc>由是嗣兵稍振<pc>。</pc>嗣源泣謂諸將曰<pc>：</pc>
 <pc>「</pc>
@@ -821,11 +897,14 @@
 </quote>
 <pc>」</pc>
 <num value="4">丁卯</num>
-<pc>，</pc>自魏縣南趣相州<pc>，</pc>遇馬坊使康福<pc>，</pc>得馬數<num value="1000">千</num>匹<pc>，</pc>始能成軍<pc>。</pc>福<pc>，</pc>蔚州人也<pc>。</pc>
+<pc>，</pc>自魏縣南趣<placeName>相州</placeName>
+<pc>，</pc>遇馬坊使康福<pc>，</pc>得馬數<num value="1000">千</num>匹<pc>，</pc>始能成軍<pc>。</pc>福<pc>，</pc>蔚州人也<pc>。</pc>
 </p>
 </div>
 <div>
-<p>平盧<term>節度使</term>符習將本軍攻鄴都<pc>，</pc>聞李嗣源軍潰<pc>，</pc>引兵歸<pc>。</pc>至淄州<pc>，</pc>監軍使楊希望遣兵逆擊之<pc>，</pc>習懼<pc>，</pc>復引兵而西<pc>。</pc>青州指揮使王公儼攻希望<pc>，</pc>殺之<pc>，</pc>因據其城<pc>。</pc>
+<p>平盧<term>節度使</term>符習將本軍攻鄴都<pc>，</pc>聞李嗣源軍潰<pc>，</pc>引兵歸<pc>。</pc>至<placeName>淄州</placeName>
+<pc>，</pc>監軍使楊希望遣兵逆擊之<pc>，</pc>習懼<pc>，</pc>復引兵而西<pc>。</pc>
+<placeName>青州</placeName>指揮使王公儼攻希望<pc>，</pc>殺之<pc>，</pc>因據其城<pc>。</pc>
 </p>
 </div>
 <div>
@@ -857,7 +936,8 @@
 <quote>吾夫婦君臨<num value="10000">萬</num>國<pc>，</pc>雖藉武功<pc>，</pc>亦由天命<pc>。</pc>命既在天<pc>，</pc>人如我何<pc>！</pc>
 </quote>
 <pc>」</pc>
-<term>宰相</term>又於便殿論之<pc>，</pc>後屬耳於屏風後<pc>，</pc>須臾<pc>，</pc>出妝具及<num value="3">三</num>銀盆<pc>、</pc>皇幼子<num value="3">三</num>人於外曰<pc>：</pc>
+<term>宰相</term>又於便殿論之<pc>，</pc>後屬耳於屏風後<pc>，</pc>須臾<pc>，</pc>出妝具及<num value="3">三</num>銀盆<pc>、</pc>皇幼子<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>於外曰<pc>：</pc>
 <pc>「</pc>
 <quote>人言宮中蓄積多<pc>，</pc>
 <num value="4">四</num>方貢獻隨以給賜<pc>，</pc>所餘止此耳<pc>，</pc>請鬻以贍軍<pc>！</pc>
@@ -875,9 +955,10 @@
 </quote>
 <pc>」</pc>乃釋之<pc>。</pc>帝憐從審<pc>，</pc>賜名繼璟<pc>，</pc>待之如子<pc>。</pc>是後嗣源所奏<pc>，</pc>皆為紹榮所遏<pc>，</pc>不得通<pc>，</pc>嗣源由是疑懼<pc>。</pc>石敬瑭曰<pc>：</pc>
 <pc>「</pc>
-<quote>夫事成於果決而敗於猶豫<pc>，</pc>安有上將與叛卒入賊城<pc>，</pc>而他日得保無恙乎<pc>！</pc>大梁<pc>，</pc>天下之要會也<pc>，</pc>願假<num value="300">三百</num>騎先往取之<pc>；</pc>若幸而得之<pc>，</pc>公宜引大軍亟進<pc>，</pc>如此始可自全<pc>。</pc>
+<quote>夫事成於果決而敗於猶豫<pc>，</pc>安有上將與叛卒入賊城<pc>，</pc>而他日得保無恙乎<pc>！</pc>大梁<pc>，</pc>天下之要會也<pc>，</pc>願假<measure quantity="300" unit="riders">
+<num value="300">三百</num>騎</measure>先往取之<pc>；</pc>若幸而得之<pc>，</pc>公宜引大軍亟進<pc>，</pc>如此始可自全<pc>。</pc>
 </quote>
-<pc>」</pc>突騎都指揮使康義誠曰<pc>：</pc>
+<pc>」</pc>突騎<term>都指揮使</term>康義誠曰<pc>：</pc>
 <pc>「</pc>
 <quote>主上無道<pc>，</pc>軍民怨怒<pc>，</pc>公從眾則生<pc>，</pc>守節必死<pc>。</pc>
 </quote>
@@ -885,8 +966,14 @@
 </p>
 </div>
 <div>
-<p>時齊州防禦使李紹虔<pc>、</pc>泰寧<term>節度使</term>李紹欽<pc>、</pc>貝州<term>刺史</term>李紹英屯瓦橋<pc>，</pc>北京右廂馬軍都指揮使安審通屯奉化軍<pc>，</pc>嗣源皆遣使召之<pc>。</pc>紹英<pc>，</pc>瑕丘人<pc>，</pc>本姓房<pc>，</pc>名知溫<pc>；</pc>審通<pc>，</pc>金全之侄也<pc>。</pc>嗣源家在真定<pc>，</pc>
-<term>虞候</term>將王建立先殺其監軍<pc>，</pc>由是獲全<pc>。</pc>建立<pc>，</pc>遼州人也<pc>。</pc>李從珂自橫水將所部兵由盂縣趣鎮州<pc>，</pc>與王建立軍合<pc>，</pc>倍道從嗣源<pc>。</pc>嗣源以李紹榮在衛州<pc>，</pc>謀自白皋濟河<pc>，</pc>分<num value="300">三百</num>騎使石敬瑭將之前驅<pc>，</pc>李從珂為殿<pc>，</pc>於是軍勢大盛<pc>。</pc>嗣源從子從璋自鎮州引軍而南<pc>，</pc>過邢州<pc>，</pc>邢人奉為留後<pc>。</pc>
+<p>時<placeName>齊州</placeName>
+<term>防禦使</term>李紹虔<pc>、</pc>泰寧<term>節度使</term>李紹欽<pc>、</pc>
+<placeName>貝州</placeName>
+<term>刺史</term>李紹英屯瓦橋<pc>，</pc>北京右廂馬軍<term>都指揮使</term>安審通屯奉化軍<pc>，</pc>嗣源皆遣使召之<pc>。</pc>紹英<pc>，</pc>瑕丘人<pc>，</pc>本姓房<pc>，</pc>名知溫<pc>；</pc>審通<pc>，</pc>金全之侄也<pc>。</pc>嗣源家在真定<pc>，</pc>
+<term>虞候</term>將王建立先殺其監軍<pc>，</pc>由是獲全<pc>。</pc>建立<pc>，</pc>遼州人也<pc>。</pc>李從珂自橫水將所部兵由盂縣趣<placeName>鎮州</placeName>
+<pc>，</pc>與王建立軍合<pc>，</pc>倍道從嗣源<pc>。</pc>嗣源以李紹榮在衛州<pc>，</pc>謀自白皋濟河<pc>，</pc>分<measure quantity="300" unit="riders">
+<num value="300">三百</num>騎</measure>使石敬瑭將之前驅<pc>，</pc>李從珂為殿<pc>，</pc>於是軍勢大盛<pc>。</pc>嗣源從子從璋自<placeName>鎮州</placeName>引軍而南<pc>，</pc>過<placeName>邢州</placeName>
+<pc>，</pc>邢人奉為留後<pc>。</pc>
 </p>
 </div>
 <div>
@@ -901,7 +988,8 @@
 <pc>，</pc>李紹榮自衛州至<placeName>洛陽</placeName>
 <pc>，</pc>帝如鷂店勞之<pc>。</pc>紹榮曰<pc>：</pc>
 <pc>「</pc>
-<quote>鄴都亂兵已遣其黨翟建白據博州<pc>，</pc>欲濟河襲暉<pc>、</pc>汴<pc>，</pc>願陛下幸關東招撫之<pc>。</pc>
+<quote>鄴都亂兵已遣其黨翟建白據<placeName>博州</placeName>
+<pc>，</pc>欲濟河襲暉<pc>、</pc>汴<pc>，</pc>願陛下幸關東招撫之<pc>。</pc>
 </quote>
 <pc>」</pc>帝從之<pc>。</pc>
 </p>
@@ -915,7 +1003,8 @@
 <pc>「</pc>
 <quote>王衍<num value="1">一</num>行<pc>，</pc>並從殺戳<pc>。</pc>
 </quote>
-<pc>」</pc>已印畫<pc>，</pc>樞密使張居翰覆視<pc>，</pc>就殿柱揩去<pc>「</pc>
+<pc>」</pc>已印畫<pc>，</pc>
+<term>樞密使</term>張居翰覆視<pc>，</pc>就殿柱揩去<pc>「</pc>
 <quote>行</quote>
 <pc>」</pc>字<pc>，</pc>改為<pc>「</pc>
 <quote>家</quote>
@@ -939,24 +1028,29 @@
 </div>
 <div>
 <p>
-<date>吳越</date>王鏐有疾<pc>，</pc>如衣錦軍<pc>，</pc>命鎮海<pc>、</pc>鎮東<term>節度使</term>留後傳瓘監國<pc>。</pc>吳徐溫遣使來問疾<pc>，</pc>左右勸鏐勿見<pc>，</pc>鏐曰<pc>：</pc>
+<date notBefore="9999" notAfter="9999">吳越</date>王鏐有疾<pc>，</pc>如衣錦軍<pc>，</pc>命鎮海<pc>、</pc>鎮東<term>節度使</term>留後傳瓘監國<pc>。</pc>吳徐溫遣使來問疾<pc>，</pc>左右勸鏐勿見<pc>，</pc>鏐曰<pc>：</pc>
 <pc>「</pc>
 <quote>溫陰狡<pc>，</pc>此名問疾<pc>，</pc>實使之覘我也<pc>。</pc>
 </quote>
-<pc>」</pc>強出見之<pc>。</pc>溫果聚兵欲襲<date>吳越</date>
+<pc>」</pc>強出見之<pc>。</pc>溫果聚兵欲襲<date notBefore="9999" notAfter="9999">吳越</date>
 <pc>，</pc>聞鏐疾瘳而止<pc>。</pc>鏐尋還錢塘<pc>。</pc>
 </p>
 </div>
 <div>
-<p>吳以右僕射<pc>、</pc>同平章事徐知誥為待中<pc>，</pc>右僕射嚴可求兼門下侍郎<pc>、</pc>同平章事<pc>。</pc>
+<p>吳以右僕射<pc>、</pc>
+<term>同平章事</term>徐知誥為待中<pc>，</pc>右僕射嚴可求兼門下侍郎<pc>、</pc>
+<term>同平章事</term>
+<pc>。</pc>
 <num value="17">庚辰</num>
-<pc>，</pc>帝發汜水<pc>。</pc>辛已<pc>，</pc>李嗣源至白皋<pc>，</pc>遇山東上供絹數船<pc>，</pc>取以賞軍<pc>。</pc>安重誨從者爭舟<pc>，</pc>行營馬步使陶□斬以徇<pc>，</pc>由是軍中肅然<pc>。</pc>□<pc>，</pc>許州人也<pc>。</pc>嗣源濟河<pc>，</pc>至滑洲<pc>，</pc>遣人招符習<pc>，</pc>習與嗣源會於胙城<pc>，</pc>安審通亦引兵來會<pc>。</pc>知汴州孔循遣使奉表西迎帝<pc>，</pc>亦遣使北輸密款於嗣源<pc>，</pc>曰<pc>：</pc>
+<pc>，</pc>帝發汜水<pc>。</pc>辛已<pc>，</pc>李嗣源至白皋<pc>，</pc>遇山東上供絹數船<pc>，</pc>取以賞軍<pc>。</pc>安重誨從者爭舟<pc>，</pc>行營馬步使陶□斬以徇<pc>，</pc>由是軍中肅然<pc>。</pc>□<pc>，</pc>
+<placeName>許州</placeName>人也<pc>。</pc>嗣源濟河<pc>，</pc>至滑洲<pc>，</pc>遣人招符習<pc>，</pc>習與嗣源會於胙城<pc>，</pc>安審通亦引兵來會<pc>。</pc>知汴州孔循遣使奉表西迎帝<pc>，</pc>亦遣使北輸密款於嗣源<pc>，</pc>曰<pc>：</pc>
 <pc>「</pc>
 <quote>先至者得之<pc>。</pc>
 </quote>
 <pc>」</pc>先是<pc>，</pc>帝遣騎將滿城西方鄴守汴州<pc>；</pc>石敬瑭使裨將李瓊以勁兵突入封丘門<pc>，</pc>敬瑭踵其後<pc>，</pc>自西門入<pc>，</pc>遂據其城<pc>，</pc>西方鄴請降<pc>。</pc>敬瑭使人趣嗣源<pc>；</pc>
 <num value="19">壬午</num>
-<pc>，</pc>嗣源入大梁<pc>。</pc>是日<pc>，</pc>帝至滎澤東<pc>，</pc>命龍驤指揮使姚彥溫將<num value="3000">三千</num>騎為前軍<pc>，</pc>曰<pc>：</pc>
+<pc>，</pc>嗣源入大梁<pc>。</pc>是日<pc>，</pc>帝至滎澤東<pc>，</pc>命龍驤指揮使姚彥溫將<measure quantity="3000" unit="riders">
+<num value="3000">三千</num>騎</measure>為前軍<pc>，</pc>曰<pc>：</pc>
 <pc>「</pc>
 <quote>汝曹汴人也<pc>，</pc>吾入汝境<pc>，</pc>不欲使它軍前驅<pc>，</pc>恐擾汝室家<pc>。</pc>
 </quote>
@@ -974,7 +1068,8 @@
 <quote>吾不濟矣<pc>！</pc>
 </quote>
 <pc>」</pc>即命旋師<pc>，</pc>是夜復至汜水<pc>。</pc>帝之出關也<pc>，</pc>扈從兵<num value="25000">二萬五千</num>
-<pc>，</pc>及還<pc>，</pc>已失<num value="10000">萬</num>餘人<pc>，</pc>乃留秦州都指揮使張唐以步騎<num value="3000">三千</num>守關<pc>。</pc>
+<pc>，</pc>及還<pc>，</pc>已失<num value="10000">萬</num>餘人<pc>，</pc>乃留<placeName>秦州</placeName>
+<term>都指揮使</term>張唐以步騎<num value="3000">三千</num>守關<pc>。</pc>
 <num value="20">癸未</num>
 <pc>，</pc>帝還過罌子谷<pc>，</pc>道狹<pc>，</pc>每遇衛士執兵仗者<pc>，</pc>輒以善言撫之曰<pc>：</pc>
 <pc>「</pc>
@@ -1003,7 +1098,8 @@
 <num value="23">丙戌</num>
 <pc>，</pc>
 <term>宰相</term>
-<pc>、</pc>樞密使共奉<pc>：</pc>
+<pc>、</pc>
+<term>樞密使</term>共奉<pc>：</pc>
 <pc>「</pc>
 <quote>魏王西軍將至<pc>，</pc>車駕宜且控扼汜水<pc>，</pc>收撫散兵以俟之<pc>。</pc>
 </quote>
