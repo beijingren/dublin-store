@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="zh">秋聲集</title>
+<title xml:lang="en">Sounds of Autumn</title>
+<author>
+<name>
+<choice>
+<sic>黄鎭成</sic>
+</choice>
+</name>
+</author>
+</titleStmt>
+<publicationStmt>
+<p>This document is published under a CC Attribution-Share Alike License</p>
+</publicationStmt>
+<sourceDesc>
+<p>XXX</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="chapter" n="2">
+
+<div>
+<p>
+七言絶句
+</p>
+</div>
+
+<div type="poem" n="0">
+<head>富沙道中</head>
+<l>溪<rhyme type="上">上</rhyme>
+<rhyme type="入">北</rhyme>
+<rhyme type="平">風</rhyme>
+<rhyme type="平">天</rhyme>
+<rhyme type="上">雨</rhyme>霜</l>
+<l>
+<rhyme type="上">野</rhyme>
+<rhyme type="平">田</rhyme>
+<rhyme type="平">高</rhyme>
+<rhyme type="上">下</rhyme>
+<rhyme type="上">散</rhyme>
+<rhyme type="平">牛</rhyme>
+<rhyme label="陽" type="平">羊</rhyme>
+</l>
+<l>
+<rhyme type="平">前</rhyme>
+<rhyme type="平">村</rhyme>
+<rhyme type="入">落</rhyme>
+<rhyme type="上">盡</rhyme>
+<rhyme type="平">烏</rhyme>桕<rhyme label="葉" type="入">葉</rhyme>
+</l>
+<l>
+<rhyme type="平">無</rhyme>
+<rhyme type="上">數</rhyme>
+<rhyme type="平">人</rhyme>
+<rhyme type="平">家</rhyme>
+<rhyme type="上">在</rhyme>
+<rhyme type="入">夕</rhyme>
+<rhyme label="陽" type="平">陽</rhyme>
+</l>
+</div>
+
+
+</div>
+</body>
+</text>
+</TEI>
