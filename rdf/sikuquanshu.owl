@@ -27623,4 +27623,67 @@ ClassAssertion(:Glyph :欱)
 DataPropertyAssertion(:PSY :欱 "洽"^^xsd:string)
 DataPropertyAssertion(:tone :欱 "入"^^xsd:string)
 
+
+
+
+
+
+
+
+ClassAssertion(:Glyph :溪)
+DataPropertyAssertion(:PSY :溪 "齊"^^xsd:string)
+DataPropertyAssertion(:tone :溪 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :桕)
+DataPropertyAssertion(:PSY :桕 "有"^^xsd:string)
+DataPropertyAssertion(:tone :桕 "上"^^xsd:string)
+
+ClassAssertion(:Glyph :棹)
+DataPropertyAssertion(:PSY :棹 "效"^^xsd:string)
+DataPropertyAssertion(:tone :棹 "去"^^xsd:string)
+
+ClassAssertion(:Glyph :板)
+DataPropertyAssertion(:PSY :板 "潸"^^xsd:string)
+DataPropertyAssertion(:tone :板 "上"^^xsd:string)
+
+ClassAssertion(:Glyph :乗)
+DataPropertyAssertion(:PSY :乗 "蒸"^^xsd:string)
+DataPropertyAssertion(:tone :乗 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :乗)
+DataPropertyAssertion(:PSY :乗 "徑"^^xsd:string)
+DataPropertyAssertion(:tone :乗 "去"^^xsd:string)
+
+ClassAssertion(:Glyph :生)
+DataPropertyAssertion(:PSY :生 "庚"^^xsd:string)
+DataPropertyAssertion(:tone :生 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :生)
+DataPropertyAssertion(:PSY :生 "敬"^^xsd:string)
+DataPropertyAssertion(:tone :生 "去"^^xsd:string)
+
+ClassAssertion(:Glyph :瑶)
+DataPropertyAssertion(:PSY :瑶 "蕭"^^xsd:string)
+DataPropertyAssertion(:tone :瑶 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :烟)
+DataPropertyAssertion(:PSY :烟 "眞"^^xsd:string)
+DataPropertyAssertion(:tone :烟 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :烟)
+DataPropertyAssertion(:PSY :烟 "先"^^xsd:string)
+DataPropertyAssertion(:tone :烟 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :疎)
+DataPropertyAssertion(:PSY :疎 "魚"^^xsd:string)
+DataPropertyAssertion(:tone :疎 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :疎)
+DataPropertyAssertion(:PSY :疎 "御"^^xsd:string)
+DataPropertyAssertion(:tone :疎 "去"^^xsd:string)
+
+ClassAssertion(:Glyph :掛)
+DataPropertyAssertion(:PSY :掛 "卦"^^xsd:string)
+DataPropertyAssertion(:tone :掛 "去"^^xsd:string)
+
 )
