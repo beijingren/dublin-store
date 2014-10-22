@@ -39,7 +39,9 @@
 <rhyme type="去">興</rhyme>賖</l>
 <l>
 <rhyme type="去">路</rhyme>
-<rhyme type="去">經</rhyme>棲<rhyme type="入">鶴</rhyme>
+<rhyme type="去">經</rhyme>
+<rhyme type="平">棲</rhyme>
+<rhyme type="入">鶴</rhyme>
 <rhyme label="寘" type="去">地</rhyme>
 </l>
 <l>
@@ -133,7 +135,9 @@
 <rhyme type="去">釣</rhyme>
 <rhyme label="先" type="平">船</rhyme>
 </l>
-<l>城<rhyme type="入">郭</rhyme>
+<l>
+<rhyme type="平">城</rhyme>
+<rhyme type="入">郭</rhyme>
 <rhyme type="平">心</rhyme>
 <rhyme type="平">何</rhyme>
 <rhyme label="麌" type="上">補</rhyme>
@@ -160,7 +164,9 @@
 <l>
 <rhyme type="去">夜</rhyme>
 <rhyme type="去">候</rhyme>
-<rhyme type="平">丹</rhyme>砂<rhyme label="哿" type="上">火</rhyme>
+<rhyme type="平">丹</rhyme>
+<rhyme type="平">砂</rhyme>
+<rhyme label="哿" type="上">火</rhyme>
 </l>
 <l>
 <rhyme type="平">春</rhyme>
@@ -263,9 +269,13 @@
 <rhyme type="上">野</rhyme>
 <rhyme label="隊" type="去">碓</rhyme>
 </l>
-<l>茶<rhyme type="入">熟</rhyme>
+<l>
+<rhyme type="平">茶</rhyme>
+<rhyme type="入">熟</rhyme>
 <rhyme type="去">候</rhyme>
-<rhyme type="平">山</rhyme>泉</l>
+<rhyme type="平">山</rhyme>
+<rhyme label="先" type="平">泉</rhyme>
+</l>
 <l>
 <rhyme type="入">石</rhyme>
 <rhyme type="入">榻</rhyme>
@@ -342,7 +352,9 @@
 </l>
 <l>
 <rhyme type="平">孤</rhyme>絶<rhyme type="去">正</rhyme>
-<rhyme type="平">幽</rhyme>棲</l>
+<rhyme type="平">幽</rhyme>
+<rhyme label="齊" type="平">棲</rhyme>
+</l>
 <l>
 <rhyme type="上">草</rhyme>
 <rhyme type="去">徑</rhyme>
@@ -381,7 +393,9 @@
 <l>
 <rhyme type="平">溪</rhyme>
 <rhyme type="平">添</rhyme>
-<rhyme type="上">雨</rhyme>没<rhyme label="灰" type="平">苔</rhyme>
+<rhyme type="上">雨</rhyme>
+<rhyme type="入">没</rhyme>
+<rhyme label="灰" type="平">苔</rhyme>
 </l>
 <l>
 <rhyme type="上">已</rhyme>
@@ -402,16 +416,22 @@
 <rhyme type="上">早</rhyme>
 <rhyme type="上">起</rhyme>
 <rhyme type="平">辭</rhyme>
-<rhyme type="平">林</rhyme>舘</l>
+<rhyme type="平">林</rhyme>
+<rhyme label="翰" type="去">舘</rhyme>
+</l>
 <l>
 <rhyme type="平">鄰</rhyme>
 <rhyme type="平">雞</rhyme>
 <rhyme type="上">已</rhyme>
-<rhyme type="去">再</rhyme>嘷</l>
+<rhyme type="去">再</rhyme>
+<rhyme label="豪" type="平">嘷</rhyme>
+</l>
 <l>
 <rhyme type="入">月</rhyme>
 <rhyme type="平">弦</rhyme>
-<rhyme type="去">當</rhyme>戸<rhyme label="職" type="入">直</rhyme>
+<rhyme type="去">當</rhyme>
+<rhyme type="上">戸</rhyme>
+<rhyme label="職" type="入">直</rhyme>
 </l>
 <l>
 <rhyme type="上">斗</rhyme>
@@ -419,7 +439,9 @@
 <rhyme label="豪" type="平">高</rhyme>
 </l>
 <l>
-<rhyme type="去">細</rhyme>濕<rhyme type="平">侵</rhyme>
+<rhyme type="去">細</rhyme>
+<rhyme type="入">濕</rhyme>
+<rhyme type="平">侵</rhyme>
 <rhyme type="平">藜</rhyme>
 <rhyme label="養" type="上">杖</rhyme>
 </l>
@@ -496,7 +518,9 @@
 <rhyme type="上">恐</rhyme>
 <rhyme type="平">違</rhyme>
 <rhyme type="平">溫</rhyme>凊</l>
-<l>城<rhyme type="去">中</rhyme>
+<l>
+<rhyme type="平">城</rhyme>
+<rhyme type="去">中</rhyme>
 <rhyme type="入">日</rhyme>徃<rhyme label="先" type="平">還</rhyme>
 </l>
 </div>

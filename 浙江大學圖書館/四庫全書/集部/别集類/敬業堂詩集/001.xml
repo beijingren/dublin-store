@@ -41,7 +41,7 @@
 <pc>。</pc>
 </p>
 </div>
-<div type="poem">
+<div type="poem" n="0">
 <head>遊燕不果乃作楚行</head>
 <l>
 <rhyme type="入">北</rhyme>
@@ -102,7 +102,7 @@
 <rhyme label="歌" type="平">跎</rhyme>
 </l>
 </div>
-<div type="poem">
+<div type="poem" n="0">
 <head>留別仲第德尹<num value="2">二</num>首</head>
 <lg>
 <l>
@@ -144,7 +144,9 @@
 <l>
 <rhyme type="平">門</rhyme>
 <rhyme type="上">戶</rhyme>
-<rhyme type="平">全</rhyme>生<rhyme type="平">終</rhyme>
+<rhyme type="平">全</rhyme>
+<rhyme type="去">生</rhyme>
+<rhyme type="平">終</rhyme>
 <rhyme type="入">碌</rhyme>
 <rhyme label="屋" type="入">碌</rhyme>
 </l>
@@ -257,7 +259,7 @@
 </l>
 </lg>
 </div>
-<div type="poem">
+<div type="poem" n="0">
 <head>酬別<persName>盛鶴江</persName>
 <persName>徐准</persName>江程禹聲次禹聲原韻</head>
 <l>
@@ -318,7 +320,9 @@
 <rhyme type="上">此</rhyme>
 <rhyme type="上">去</rhyme>
 <rhyme type="平">湖</rhyme>
-<rhyme type="平">湘</rhyme>烟<rhyme type="上">水</rhyme>
+<rhyme type="平">湘</rhyme>
+<rhyme type="平">烟</rhyme>
+<rhyme type="上">水</rhyme>
 <rhyme label="曷" type="入">闊</rhyme>
 </l>
 <l>
@@ -331,7 +335,7 @@
 <rhyme label="覃" type="平">潭</rhyme>
 </l>
 </div>
-<div type="poem">
+<div type="poem" n="0">
 <head>京口和韜荒兄</head>
 <lg>
 <l>
@@ -398,7 +402,7 @@
 </l>
 </lg>
 </div>
-<div type="poem">
+<div type="poem" n="0">
 <head>贈胡星卿先生胡之先東川侯海其子觀尚南康公主</head>
 <lg>
 <l>
@@ -479,7 +483,7 @@
 </l>
 </lg>
 </div>
-<div type="poem">
+<div type="poem" n="0">
 <head>題王璞菴南北遊詩卷</head>
 <lg>
 <l>
@@ -563,58 +567,46 @@
 </l>
 </lg>
 </div>
-<div type="poem">
+<div type="poem" n="0">
 <head>登金陵報恩寺塔<num value="24">二十四</num>韻</head>
 </div>
-<div type="poem">
-<head>
-金陵雜咏<num value="20">二十</num>首</head>
+<div type="poem" n="0">
+<head>金陵雜咏<num value="20">二十</num>首</head>
 </div>
-<div type="poem">
-<head>
-蕪湖關</head>
+<div type="poem" n="0">
+<head>蕪湖關</head>
 </div>
-<div type="poem">
-<head>
-題余鴻客金陵覽古集</head>
+<div type="poem" n="0">
+<head>題余鴻客金陵覽古集</head>
 </div>
-<div type="poem">
-<head>
-曉出获港</head>
+<div type="poem" n="0">
+<head>曉出获港</head>
 </div>
-<div type="poem">
-<head>
-銅陵太白樓同韜荒兄作<num value="2">二</num>首</head>
+<div type="poem" n="0">
+<head>銅陵太白樓同韜荒兄作<num value="2">二</num>首</head>
 </div>
-<div type="poem">
-<head>
-遊兵營</head>
+<div type="poem" n="0">
+<head>遊兵營</head>
 </div>
-<div type="poem">
-<head>
-那刹磯弔黃忠節公</head>
+<div type="poem" n="0">
+<head>那刹磯弔黃忠節公</head>
 </div>
-<div type="poem">
-<head>
-雨後渡攔江磯</head>
+<div type="poem" n="0">
+<head>雨後渡攔江磯</head>
 </div>
-<div type="poem">
-<head>
-小孤山</head>
+<div type="poem" n="0">
+<head>小孤山</head>
 </div>
-<div type="poem">
-<head>
-皖口</head>
+<div type="poem" n="0">
+<head>皖口</head>
 </div>
-<div type="poem">
-<head>
-路灌溝阻風</head>
+<div type="poem" n="0">
+<head>路灌溝阻風</head>
 </div>
-<div type="poem">
-<head>
-過鄱陽湖口望大孤山次黃伐檀舊韻</head>
+<div type="poem" n="0">
+<head>過鄱陽湖口望大孤山次黃伐檀舊韻</head>
 </div>
-<div type="poem">
+<div type="poem" n="0">
 <head>
 <l/>寒夜次潘岷源韻</head>
 <lg>
@@ -700,7 +692,7 @@
 </l>
 </lg>
 </div>
-<div type="poem">
+<div type="poem" n="0">
 <head>與韜荒兄竟陵分手兄至荊州余往監利滯留且<measure quantity="1" unit="month">
 <num value="1">一</num>月</measure>矣作詩以寄</head>
 <l>
@@ -815,7 +807,9 @@
 <rhyme label="陌" type="入">額</rhyme>
 </l>
 <l>
-<rhyme type="平">丹</rhyme>砂<num value="100">
+<rhyme type="平">丹</rhyme>
+<rhyme type="平">砂</rhyme>
+<num value="100">
 <rhyme type="入">百</rhyme>
 </num>煉<rhyme label="侵" type="平">金</rhyme>
 </l>
@@ -859,7 +853,9 @@
 </l>
 <l>
 <rhyme type="去">妙</rhyme>
-<rhyme type="上">解</rhyme>生<rhyme type="去">創</rhyme>
+<rhyme type="上">解</rhyme>
+<rhyme type="去">生</rhyme>
+<rhyme type="去">創</rhyme>
 <rhyme label="陌" type="入">闢</rhyme>
 </l>
 <l>
@@ -877,7 +873,7 @@
 <rhyme label="陌" type="入">擇</rhyme>
 </l>
 </div>
-<div type="poem">
+<div type="poem" n="0">
 <head>早發齊天坡</head>
 <lg>
 <l>
