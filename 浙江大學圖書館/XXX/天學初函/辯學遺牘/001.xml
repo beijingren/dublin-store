@@ -1,10 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title type="given" xml:lang="zh">辯學遺牘</title>
-            <title type="translated" xml:lang="en">Posthumous Letters Discussing the Teachings</title>
-            <title type="transliteration">Bianxue yidu</title>
+            <title xml:lang="zh">辯學遺牘</title>
+            <title xml:lang="en">Posthumous Letters Discussing the Teachings</title>
             <author>
                 <name>
                     <choice>
@@ -17,36 +16,9 @@
             <p>This document is published under a CC Attribution-Share Alike License</p>
         </publicationStmt>
         <sourceDesc>
-            <listWit>
-                <witness xml:id="BNF7084">
-                    <label>Bibliothèque nationale de France, Département des manuscrits, Chinois 7084</label>
-                    <msDesc>
-                        <msIdentifier>
-                            <settlement>France</settlement>
-                            <repository>Bibliothèque nationale de France, Département des manuscrits</repository>
-                            <idno>Chinois 7084</idno>
-                        </msIdentifier>
-                        <msContents>
-                            <msItem style="maintext">
-                                <title xml:lang="zh">虞德園銓部與利西泰先生書</title>
-                                <docAuthor>虞铨部</docAuthor>
-                            </msItem>
-                            <msItem style="maintext">
-                                <title xml:lang="zh">利先生復虞銓部書</title>
-                                <docAuthor>利瑪竇</docAuthor>
-                            </msItem>
-                            <msItem style="maintext">
-                                <title xml:lang="zh">利先生復蓮池大和尚《竹牕天說》四端</title>
-                                <docAuthor>利瑪竇</docAuthor>
-                            </msItem>
-                            <msItem style="afterword">
-                                <title xml:lang="zh">無題</title>
-                                <docAuthor>涼庵居士</docAuthor>
-                            </msItem>
-                        </msContents>           
-                    </msDesc>
-                </witness>
-            </listWit>
+<p>
+XXX
+</p>
         </sourceDesc>
     </fileDesc>
   </teiHeader>
