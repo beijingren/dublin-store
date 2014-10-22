@@ -23,9 +23,8 @@
 <text>
 <body>
 <div type="chapter" n="1">
-
 <div type="poem" n="0">
-<head>春日山行雜興【四首】</head>
+<head>春日山行雜興【<num value="4">四</num>首】</head>
 <l>
 <rhyme type="入">出</rhyme>
 <rhyme type="入">郭</rhyme>
@@ -78,7 +77,6 @@
 <rhyme type="平">胡</rhyme>
 <rhyme label="麻" type="平">麻</rhyme>
 </l>
-
 <l>
 <rhyme type="平">山</rhyme>
 <rhyme type="平">翁</rhyme>
@@ -135,7 +133,6 @@
 <rhyme type="去">釣</rhyme>
 <rhyme label="先" type="平">船</rhyme>
 </l>
-
 <l>城<rhyme type="入">郭</rhyme>
 <rhyme type="平">心</rhyme>
 <rhyme type="平">何</rhyme>
@@ -184,7 +181,6 @@
 <rhyme type="平">巢</rhyme>
 <rhyme label="支" type="平">居</rhyme>
 </l>
-
 <l>
 <rhyme type="去">夜</rhyme>
 <rhyme type="入">宿</rhyme>
@@ -242,7 +238,6 @@
 <rhyme label="問" type="去">聞</rhyme>
 </l>
 </div>
-
 <div type="poem" n="0">
 <head>春雨南田書事【<num value="3">三</num>首】</head>
 <l>
@@ -321,7 +316,9 @@
 <rhyme type="去">行</rhyme>
 <rhyme type="去">餉</rhyme>
 <rhyme type="入">汲</rhyme>
-<rhyme type="平">寒</rhyme>溪</l>
+<rhyme type="平">寒</rhyme>
+<rhyme label="齊" type="平">溪</rhyme>
+</l>
 <l>
 <rhyme type="上">野</rhyme>
 <rhyme type="去">鷺</rhyme>
@@ -381,7 +378,9 @@
 <rhyme type="平">低</rhyme>
 <rhyme label="遇" type="上">樹</rhyme>
 </l>
-<l>溪<rhyme type="平">添</rhyme>
+<l>
+<rhyme type="平">溪</rhyme>
+<rhyme type="平">添</rhyme>
 <rhyme type="上">雨</rhyme>没<rhyme label="灰" type="平">苔</rhyme>
 </l>
 <l>
@@ -397,7 +396,6 @@
 <rhyme label="灰" type="上">嵬</rhyme>
 </l>
 </div>
-
 <div type="poem" n="0">
 <head>鉛山早行</head>
 <l>
@@ -449,7 +447,6 @@
 <rhyme label="豪" type="平">濤</rhyme>
 </l>
 </div>
-
 <div type="poem" n="0">
 <head>題<num value="3">三</num>磵鄭氏耕隠所</head>
 <l>
@@ -503,8 +500,6 @@
 <rhyme type="入">日</rhyme>徃<rhyme label="先" type="平">還</rhyme>
 </l>
 </div>
-
-
 </div>
 </body>
 </text>

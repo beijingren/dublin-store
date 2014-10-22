@@ -23,16 +23,15 @@
 <text>
 <body>
 <div type="chapter" n="2">
-
 <div>
 <p>
-七言絶句
-</p>
+<num value="7">七</num>言絶句</p>
 </div>
-
 <div type="poem" n="0">
 <head>富沙道中</head>
-<l>溪<rhyme type="上">上</rhyme>
+<l>
+<rhyme type="平">溪</rhyme>
+<rhyme type="上">上</rhyme>
 <rhyme type="入">北</rhyme>
 <rhyme type="平">風</rhyme>
 <rhyme type="平">天</rhyme>
@@ -51,7 +50,9 @@
 <rhyme type="平">村</rhyme>
 <rhyme type="入">落</rhyme>
 <rhyme type="上">盡</rhyme>
-<rhyme type="平">烏</rhyme>桕<rhyme label="葉" type="入">葉</rhyme>
+<rhyme type="平">烏</rhyme>
+<rhyme type="上">桕</rhyme>
+<rhyme label="葉" type="入">葉</rhyme>
 </l>
 <l>
 <rhyme type="平">無</rhyme>
@@ -63,7 +64,6 @@
 <rhyme label="陽" type="平">陽</rhyme>
 </l>
 </div>
-
 <div type="poem" n="0">
 <head>看泉</head>
 <l>
@@ -90,8 +90,6 @@
 <rhyme label="歌" type="平">阿</rhyme>
 </l>
 </div>
-
-
 <div type="poem" n="0">
 <head>雪舟獨泛</head>
 <l>
@@ -102,7 +100,9 @@
 <rhyme label="東" type="上">空</rhyme>
 </l>
 <l>
-<rhyme type="平">瓊</rhyme>瑶<num value="10000">
+<rhyme type="平">瓊</rhyme>
+<rhyme type="平">瑶</rhyme>
+<num value="10000">
 <rhyme type="去">萬</rhyme>
 </num>
 <rhyme type="入">壑</rhyme>
@@ -121,7 +121,6 @@
 <rhyme label="東" type="平">東</rhyme>
 </l>
 </div>
-
 <div type="poem" n="0">
 <head>納涼</head>
 <l>
@@ -151,7 +150,6 @@
 <rhyme label="侵" type="平">禽</rhyme>
 </l>
 </div>
-
 <div type="poem" n="0">
 <head>春竹</head>
 <l>
@@ -181,7 +179,6 @@
 <rhyme label="先" type="平">然</rhyme>
 </l>
 </div>
-
 <div type="poem" n="0">
 <head>老僧飜經</head>
 <l>
@@ -213,7 +210,6 @@
 <rhyme label="元" type="去">論</rhyme>
 </l>
 </div>
-
 <div type="poem" n="0">
 <head>野橋</head>
 <l>
@@ -223,7 +219,9 @@
 <rhyme type="平">橋</rhyme>
 <rhyme label="先" type="平">邊</rhyme>
 </l>
-<l>疎<rhyme type="平">松</rhyme>
+<l>
+<rhyme type="去">疎</rhyme>
+<rhyme type="平">松</rhyme>
 <rhyme type="上">似</rhyme>
 <rhyme type="上">鼓</rhyme>
 <rhyme label="先" type="平">絃</rhyme>
@@ -239,10 +237,10 @@
 <rhyme type="平">林</rhyme>
 <rhyme type="去">際</rhyme>
 <rhyme type="上">起</rhyme>
-<rhyme type="平">秋</rhyme>烟</l>
+<rhyme type="平">秋</rhyme>
+<rhyme label="先" type="平">烟</rhyme>
+</l>
 </div>
-
-
 <div type="poem" n="0">
 <head>放棹</head>
 <l>
@@ -250,7 +248,9 @@
 <rhyme type="去">清</rhyme>
 <num value="1">
 <rhyme type="入">一</rhyme>
-</num>棹<rhyme label="阮" type="上">遠</rhyme>
+</num>
+<rhyme type="去">棹</rhyme>
+<rhyme label="阮" type="上">遠</rhyme>
 </l>
 <l>
 <rhyme type="平">楓</rhyme>
@@ -270,11 +270,12 @@
 <rhyme label="麻" type="平">斜</rhyme>
 </l>
 </div>
-
 <div type="poem" n="0">
 <head>雪</head>
 <l>
-<rhyme type="平">瓊</rhyme>瑶<rhyme type="平">天</rhyme>
+<rhyme type="平">瓊</rhyme>
+<rhyme type="平">瑶</rhyme>
+<rhyme type="平">天</rhyme>
 <rhyme type="去">半</rhyme>
 <rhyme label="腫" type="上">聳</rhyme>
 </l>
@@ -302,7 +303,6 @@
 <rhyme label="微" type="平">磯</rhyme>
 </l>
 </div>
-
 <div type="poem" n="0">
 <head>夕泛</head>
 <l>
@@ -315,8 +315,11 @@
 <rhyme type="去">清</rhyme>
 <num value="1">
 <rhyme type="入">一</rhyme>
-</num>棹横</l>
-<l>掛<rhyme type="去">帆</rhyme>
+</num>
+<rhyme type="去">棹</rhyme>横</l>
+<l>
+<rhyme type="去">掛</rhyme>
+<rhyme type="去">帆</rhyme>
 <rhyme type="平">延</rhyme>
 <rhyme type="去">暮</rhyme>
 <rhyme label="嘯" type="去">眺</rhyme>
@@ -325,10 +328,10 @@
 <rhyme type="平">趺</rhyme>
 <rhyme type="上">坐</rhyme>
 <rhyme type="上">待</rhyme>
-<rhyme type="平">潮</rhyme>生</l>
+<rhyme type="平">潮</rhyme>
+<rhyme label="庚" type="去">生</rhyme>
+</l>
 </div>
-
-
 <div type="poem" n="0">
 <head>野望</head>
 <l>
@@ -336,15 +339,20 @@
 <rhyme type="平">江</rhyme>
 <num value="1">
 <rhyme type="入">一</rhyme>
-</num>棹<rhyme label="阮" type="上">遠</rhyme>
+</num>
+<rhyme type="去">棹</rhyme>
+<rhyme label="阮" type="上">遠</rhyme>
 </l>
 <l>
 <rhyme type="入">接</rhyme>
-<rhyme type="去">岸</rhyme>板<rhyme type="平">橋</rhyme>
+<rhyme type="去">岸</rhyme>
+<rhyme type="上">板</rhyme>
+<rhyme type="平">橋</rhyme>
 <rhyme label="麻" type="平">斜</rhyme>
 </l>
 <l>
-<rhyme type="入">獨</rhyme>徃乗<rhyme type="平">幽</rhyme>
+<rhyme type="入">獨</rhyme>徃<rhyme type="去">乗</rhyme>
+<rhyme type="平">幽</rhyme>
 <rhyme label="徑" type="去">興</rhyme>
 </l>
 <l>
@@ -353,8 +361,6 @@
 <rhyme type="上">去</rhyme>
 <rhyme type="去">路</rhyme>賖</l>
 </div>
-
-
 </div>
 </body>
 </text>

@@ -27686,4 +27686,48 @@ ClassAssertion(:Glyph :掛)
 DataPropertyAssertion(:PSY :掛 "卦"^^xsd:string)
 DataPropertyAssertion(:tone :掛 "去"^^xsd:string)
 
+ClassAssertion(:Glyph :棲)
+DataPropertyAssertion(:PSY :棲 "齊"^^xsd:string)
+DataPropertyAssertion(:tone :棲 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :城)
+DataPropertyAssertion(:PSY :城 "庚"^^xsd:string)
+DataPropertyAssertion(:tone :城 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :砂)
+DataPropertyAssertion(:PSY :砂 "麻"^^xsd:string)
+DataPropertyAssertion(:tone :砂 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :泉)
+DataPropertyAssertion(:PSY :泉 "先"^^xsd:string)
+DataPropertyAssertion(:tone :泉 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :茶)
+DataPropertyAssertion(:PSY :茶 "麻"^^xsd:string)
+DataPropertyAssertion(:tone :茶 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :没)
+DataPropertyAssertion(:PSY :没 "月"^^xsd:string)
+DataPropertyAssertion(:tone :没 "入"^^xsd:string)
+
+ClassAssertion(:Glyph :舘)
+DataPropertyAssertion(:PSY :舘 "翰"^^xsd:string)
+DataPropertyAssertion(:tone :舘 "去"^^xsd:string)
+
+ClassAssertion(:Glyph :嘷)
+DataPropertyAssertion(:PSY :嘷 "豪"^^xsd:string)
+DataPropertyAssertion(:tone :嘷 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :戸)
+DataPropertyAssertion(:PSY :戸 "麌"^^xsd:string)
+DataPropertyAssertion(:tone :戸 "上"^^xsd:string)
+
+ClassAssertion(:Glyph :濕)
+DataPropertyAssertion(:PSY :濕 "緝"^^xsd:string)
+DataPropertyAssertion(:tone :濕 "入"^^xsd:string)
+
+ClassAssertion(:Glyph :濕)
+DataPropertyAssertion(:PSY :濕 "合"^^xsd:string)
+DataPropertyAssertion(:tone :濕 "入"^^xsd:string)
+
 )
