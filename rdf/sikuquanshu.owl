@@ -416,6 +416,9 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Person :鄧潤甫)
 	ClassAssertion(:Person :梁燾)
 	ClassAssertion(:Person :劉奉世)
+	ClassAssertion(:Person :曹元忠)
+	ClassAssertion(:Person :曹延繼)
+	ClassAssertion(:Person :張建豐)
 
 
 
@@ -621,6 +624,9 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Zhou :瓊州)
 	ClassAssertion(:Zhou :石州)
 	ClassAssertion(:Zhou :祁州)
+	ClassAssertion(:Zhou :沙州)
+	ClassAssertion(:Zhou :瓜州)
+
 
 
 
@@ -27729,5 +27735,13 @@ DataPropertyAssertion(:tone :濕 "入"^^xsd:string)
 ClassAssertion(:Glyph :濕)
 DataPropertyAssertion(:PSY :濕 "合"^^xsd:string)
 DataPropertyAssertion(:tone :濕 "入"^^xsd:string)
+
+ClassAssertion(:Glyph :踈)
+DataPropertyAssertion(:PSY :踈 "魚"^^xsd:string)
+DataPropertyAssertion(:tone :踈 "平"^^xsd:string)
+
+ClassAssertion(:Glyph :踈)
+DataPropertyAssertion(:PSY :踈 "御"^^xsd:string)
+DataPropertyAssertion(:tone :踈 "去"^^xsd:string)
 
 )
