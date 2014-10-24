@@ -625,9 +625,11 @@
 <p>
 <persName>廖剛</persName>
 <pc>，</pc>字<name key="廖剛" type="zi">用中</name>
-<pc>，</pc>南<placeName>劍州</placeName>順昌人<pc>。</pc>少從陳瓘<pc>、</pc>楊時學<pc>。</pc>登<date notBefore="1102" notAfter="1106">崇甯</date>
+<pc>，</pc>南<placeName>劍州</placeName>順昌人<pc>。</pc>少從陳瓘<pc>、</pc>楊時學<pc>。</pc>登<date when="1106">
+<date notBefore="1102" notAfter="1106">崇甯</date>
 <measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>進士第<pc>。</pc>
+<num value="5">五</num>年</measure>
+</date>進士第<pc>。</pc>
 <date notBefore="1119" notAfter="1125">宣和</date>初<pc>，</pc>自漳州司錄除國子錄<pc>，</pc>擢監察<term>禦史</term>
 <pc>。</pc>時蔡京當國<pc>，</pc>
 <name key="廖剛" type="givenName">剛</name>論奏無所避<pc>。</pc>以親老求補外<pc>，</pc>出知興化軍<pc>。</pc>欽宗即位<pc>，</pc>以右正言召<pc>。</pc>丁父憂<pc>，</pc>服闋<pc>，</pc>除工部<term>員外郎</term>
@@ -885,12 +887,16 @@
 <p>
 <persName>趙開</persName>
 <pc>，</pc>字<name key="趙開" type="zi">應祥</name>
-<pc>，</pc>普州安居人<pc>。</pc>登<date notBefore="1098" notAfter="1100">元符</date>
+<pc>，</pc>普州安居人<pc>。</pc>登<date when="1100">
+<date notBefore="1098" notAfter="1100">元符</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>進士第<pc>。</pc>
+<num value="3">三</num>年</measure>
+</date>進士第<pc>。</pc>
+<date when="1108">
 <date notBefore="1107" notAfter="1110">大觀</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>權辟廱正<pc>。</pc>用舉者改秩<pc>，</pc>即盡室如京師<pc>，</pc>買田尉氏<pc>，</pc>與<num value="4">四</num>方賢俊遊<pc>，</pc>因詗知天下利病所當罷行者<pc>。</pc>如是<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>慨然有通變救弊志<pc>。</pc>
@@ -902,9 +908,11 @@
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>除講議司檢詳官<pc>。</pc>
-<name key="趙開" type="givenName">開</name>善心計<pc>，</pc>自檢詳罷<pc>，</pc>除成都路轉運判官<pc>，</pc>遂奏罷<date notBefore="1119" notAfter="1125">宣和</date>
+<name key="趙開" type="givenName">開</name>善心計<pc>，</pc>自檢詳罷<pc>，</pc>除成都路轉運判官<pc>，</pc>遂奏罷<date when="1124">
+<date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="6" unit="years">
-<num value="6">六</num>年</measure>所增上供認額綱布<num value="100000">十萬</num>匹<pc>，</pc>減<placeName>綿州</placeName>下戶支移<placeName>利州</placeName>水腳錢<num value="10">十</num>分之<num value="3">三</num>
+<num value="6">六</num>年</measure>
+</date>所增上供認額綱布<num value="100000">十萬</num>匹<pc>，</pc>減<placeName>綿州</placeName>下戶支移<placeName>利州</placeName>水腳錢<num value="10">十</num>分之<num value="3">三</num>
 <pc>，</pc>又減蒲江<num value="6">六</num>井<date notBefore="1098" notAfter="1100">元符</date>至<date notBefore="1119" notAfter="1125">宣和</date>所增鹽額<pc>，</pc>列其次第<pc>，</pc>謂之<pc>“</pc>
 <quote>鼠尾帳</quote>
 <pc>”</pc>

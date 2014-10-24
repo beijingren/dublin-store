@@ -332,9 +332,11 @@
 <div>
 <p>　　冊文曰<pc>：</pc>
 <pc>「</pc>
-<quote>維<date notBefore="1008" notAfter="1016">大中祥符</date>
+<quote>維<date when="1011">
+<date notBefore="1008" notAfter="1016">大中祥符</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <pc>，</pc>歲次<num value="48">辛亥</num>
 <pc>，</pc>
 <measure quantity="2" unit="months">
@@ -357,9 +359,11 @@
 </div>
 <div>
 <p>　　太清宮<pc>。</pc>
+<date when="1013">
 <date notBefore="1008" notAfter="1016">大中祥符</date>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
+</date>
 <pc>，</pc>
 <placeName>亳州</placeName>父老<pc>、</pc>道釋<pc>、</pc>舉人<measure quantity="3316" unit="people">
 <num value="3316">三千三百十六</num>人</measure>詣闕<pc>，</pc>請車駕朝謁太清宮<pc>，</pc>
@@ -512,9 +516,11 @@
 </p>
 </div>
 <div>
-<p>　　帝于<date notBefore="1008" notAfter="1016">大中祥符</date>
+<p>　　帝于<date when="1012">
+<date notBefore="1008" notAfter="1016">大中祥符</date>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
+</date>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>語輔臣曰<pc>：</pc>
 <pc>「</pc>

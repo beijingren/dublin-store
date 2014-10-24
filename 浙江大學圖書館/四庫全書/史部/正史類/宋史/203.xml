@@ -4831,9 +4831,11 @@
 <pc>》</pc>
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>
-<pc>（</pc>起<date notBefore="960" notAfter="963">建隆</date>至<date notBefore="1119" notAfter="1125">宣和</date>
+<pc>（</pc>起<date notBefore="960" notAfter="963">建隆</date>至<date when="1122">
+<date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <pc>）</pc>張觀<pc>《</pc>
 <title>
 <num value="22">二十二</num>國祥異記</title>
