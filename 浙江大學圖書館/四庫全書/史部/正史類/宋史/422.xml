@@ -30,11 +30,9 @@
 <p>林勛<pc>，</pc>
 <placeName>賀州</placeName>人<pc>。</pc>政和<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>進士<pc>，</pc>為<placeName>廣州</placeName>教授<pc>。</pc>
-<date when="1129">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>獻<pc>《</pc>
@@ -95,14 +93,18 @@
 <title>法語</title>
 <pc>》</pc>
 <num value="81">八十一</num>篇行於世<pc>。</pc>
-<name key="劉才邵" type="givenName">才邵</name>以<date notBefore="1107" notAfter="1110">大觀</date>
+<name key="劉才邵" type="givenName">才邵</name>以<date when="1108">
+<date notBefore="1107" notAfter="1110">大觀</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>上舍釋褐<pc>，</pc>為<placeName>贛</placeName>
+<num value="2">二</num>年</measure>
+</date>上舍釋褐<pc>，</pc>為<placeName>贛</placeName>
 <pc>、</pc>汝<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>教授<pc>，</pc>復為湖北提舉學事管幹文字<pc>。</pc>
+<date when="1120">
 <date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>中宏詞科<pc>，</pc>遷司農寺丞<pc>。</pc>靖康元年<pc>，</pc>遷校書郎<pc>。</pc>
 </p>
 </div>
@@ -127,9 +129,11 @@
 </div>
 <div>
 <p>許忻<pc>，</pc>拱州人<pc>。</pc>
+<date when="1121">
 <date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>進士<pc>，</pc>高宗時<pc>，</pc>為吏部<term>員外郎</term>
+<num value="3">三</num>年</measure>
+</date>進士<pc>，</pc>高宗時<pc>，</pc>為吏部<term>員外郎</term>
 <pc>，</pc>有旨引見<pc>。</pc>是時<pc>，</pc>金國使人張通古在館<pc>，</pc>忻上疏極論和議不便<pc>，</pc>曰<pc>：</pc>
 </p>
 </div>

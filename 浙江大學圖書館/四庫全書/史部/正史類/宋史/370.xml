@@ -374,11 +374,9 @@
 </p>
 </div>
 <div>
-<p>　　<date when="1129">
-<date notBefore="1127" notAfter="1130">建炎</date>
+<p>　　<date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <pc>，</pc>大將范瓊擁強兵江西<pc>，</pc>召之弗來<pc>，</pc>來又不肯釋兵<pc>。</pc>知樞密院事張浚<pc>，</pc>與<name key="劉子羽" type="givenName">子羽</name>密謀誅之<pc>。</pc>
 <measure quantity="1" unit="day">
 <num value="1">一</num>日</measure>
@@ -577,11 +575,9 @@
 <pc>，</pc>
 <placeName>建州</placeName>建陽人<pc>。</pc>
 <date notBefore="1119" notAfter="1125">宣和</date>初<pc>，</pc>上舍釋褐<pc>。</pc>
-<date when="1128">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>為右正言<pc>，</pc>以論事忤執政<pc>，</pc>通判<placeName>明州</placeName>
 <pc>。</pc>
 </p>
@@ -691,9 +687,11 @@
 <p>　　<persName>胡世將</persName>
 <pc>，</pc>字<name key="胡世將" type="zi">承公</name>
 <pc>，</pc>
-<placeName>常州</placeName>晉陵人<pc>，</pc>宿之曾孫<pc>。</pc>登<date notBefore="1102" notAfter="1106">崇甯</date>
+<placeName>常州</placeName>晉陵人<pc>，</pc>宿之曾孫<pc>。</pc>登<date when="1106">
+<date notBefore="1102" notAfter="1106">崇甯</date>
 <measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>進士第<pc>。</pc>範汝為寇閩<pc>，</pc>以<name key="胡世將" type="givenName">世將</name>為監察<term>禦史</term>
+<num value="5">五</num>年</measure>
+</date>進士第<pc>。</pc>範汝為寇閩<pc>，</pc>以<name key="胡世將" type="givenName">世將</name>為監察<term>禦史</term>
 <pc>、</pc>福建路撫諭使<pc>。</pc>入境<pc>，</pc>韓世忠已平賊<pc>。</pc>遷<term>尚書</term>右司<term>員外郎</term>
 <pc>，</pc>又遷起居郎<pc>，</pc>遷<term>中書舍人</term>
 <pc>，</pc>賜<num value="3">三</num>品服<pc>，</pc>兼修政局<pc>。</pc>坐言者落職奉祠<pc>。</pc>未幾<pc>，</pc>除徽猷閣待制<pc>、</pc>知鎮江府<pc>，</pc>入為禮部侍郎<pc>，</pc>改刑部<pc>，</pc>出知<placeName>洪州</placeName>

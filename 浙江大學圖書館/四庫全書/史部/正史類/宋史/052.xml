@@ -396,9 +396,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="963" notAfter="968">乾德</date>
+<p>　　<date when="965">
+<date notBefore="963" notAfter="968">乾德</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="39">壬寅</num>朔<pc>，</pc>日當食不食<pc>。</pc>
@@ -441,9 +443,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="976" notAfter="984">太平興國</date>
+<p>　　<date when="977">
+<date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <num value="24">丁亥</num>朔<pc>，</pc>日有食之<pc>，</pc>既<pc>。</pc>
@@ -465,9 +469,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="984" notAfter="987">雍熙</date>
+<p>　　<date when="985">
+<date notBefore="984" notAfter="987">雍熙</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <num value="37">庚子</num>朔<pc>，</pc>日有食之<pc>。</pc>
@@ -479,9 +485,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="990" notAfter="994">淳化</date>
+<p>　　<date when="991">
+<date notBefore="990" notAfter="994">淳化</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>閏<measure quantity="2" unit="months">
+<num value="2">二</num>年</measure>
+</date>閏<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="8">辛未</num>朔<pc>，</pc>日有食之<pc>。</pc>
 <measure quantity="3" unit="years">
@@ -545,9 +553,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1008" notAfter="1016">大中祥符</date>
+<p>　　<date when="1009">
+<date notBefore="1008" notAfter="1016">大中祥符</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="53">丙辰</num>朔<pc>，</pc>日有食之<pc>，</pc>陰雨不見<pc>。</pc>
@@ -574,9 +584,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1017" notAfter="1021">天禧</date>
+<p>　　<date when="1019">
+<date notBefore="1017" notAfter="1021">天禧</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="55">戊午</num>朔<pc>，</pc>日有食之<pc>。</pc>
@@ -625,9 +637,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1034" notAfter="1038">景祐</date>
+<p>　　<date when="1036">
+<date notBefore="1034" notAfter="1038">景祐</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <num value="46">己酉</num>朔<pc>，</pc>日當食不食<pc>。</pc>
@@ -650,9 +664,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1041" notAfter="1048">慶曆</date>
+<p>　　<date when="1042">
+<date notBefore="1041" notAfter="1048">慶曆</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <num value="10">癸酉</num>朔<pc>，</pc>日有食之<pc>。</pc>
@@ -775,9 +791,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1086" notAfter="1094">元祐</date>
+<p>　　<date when="1087">
+<date notBefore="1086" notAfter="1094">元祐</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <num value="47">庚戌</num>朔<pc>，</pc>日有食之<pc>，</pc>陰雨不見<pc>。</pc>
@@ -805,9 +823,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1098" notAfter="1100">元符</date>
+<p>　　<date when="1100">
+<date notBefore="1098" notAfter="1100">元符</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <num value="34">丁酉</num>朔<pc>，</pc>日有食之<pc>。</pc>
@@ -866,11 +886,9 @@
 </p>
 </div>
 <div>
-<p>　　<date when="1129">
-<date notBefore="1127" notAfter="1130">建炎</date>
+<p>　　<date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <num value="43">丙午</num>朔<pc>，</pc>日食於亢<pc>。</pc>
@@ -1246,9 +1264,11 @@
 </p>
 </div>
 <div>
-<p>　　周<date notBefore="954" notAfter="960">顯德</date>
+<p>　　周<date when="960">
+<date notBefore="954" notAfter="960">顯德</date>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -1259,9 +1279,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="968" notAfter="976">開寶</date>
+<p>　　<date when="974">
+<date notBefore="968" notAfter="976">開寶</date>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -1292,9 +1314,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1038" notAfter="1040">寶元</date>
+<p>　　<date when="1039">
+<date notBefore="1038" notAfter="1040">寶元</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <num value="57">庚申</num>
@@ -1302,9 +1326,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1041" notAfter="1048">慶曆</date>
+<p>　　<date when="1048">
+<date notBefore="1041" notAfter="1048">慶曆</date>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -1314,9 +1340,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1068" notAfter="1077">熙甯</date>
+<p>　　<date when="1077">
+<date notBefore="1068" notAfter="1077">熙甯</date>
 <measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
+</date>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="28">辛卯</num>
@@ -1376,9 +1404,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1119" notAfter="1125">宣和</date>
+<p>　　<date when="1120">
+<date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -1411,11 +1441,9 @@
 </p>
 </div>
 <div>
-<p>　　<date when="1129">
-<date notBefore="1127" notAfter="1130">建炎</date>
+<p>　　<date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="16">己卯</num>
@@ -1702,15 +1730,19 @@
 </p>
 </div>
 <div>
-<p>　　自<date notBefore="1078" notAfter="1085">元豐</date>
+<p>　　自<date when="1085">
+<date notBefore="1078" notAfter="1085">元豐</date>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
+</date>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <measure quantity="5" unit="days">
-<num value="5">五</num>日</measure>訖<date notBefore="1098" notAfter="1100">元符</date>
+<num value="5">五</num>日</measure>訖<date when="1100">
+<date notBefore="1098" notAfter="1100">元符</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -1740,9 +1772,11 @@
 </p>
 </div>
 <div>
-<p>　　自<date notBefore="1098" notAfter="1100">元符</date>
+<p>　　自<date when="1100">
+<date notBefore="1098" notAfter="1100">元符</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -1777,11 +1811,9 @@
 </p>
 </div>
 <div>
-<p>　　<date when="1129">
-<date notBefore="1127" notAfter="1130">建炎</date>
+<p>　　<date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>
-</date>春<pc>、</pc>明年<measure quantity="2" unit="months">
+<num value="3">三</num>年</measure>春<pc>、</pc>明年<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="38">辛丑</num>
 <pc>，</pc>白虹貫日<pc>。</pc>
@@ -2462,9 +2494,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="976" notAfter="984">太平興國</date>
+<p>　　<date when="977">
+<date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <num value="41">甲辰</num>
@@ -2509,9 +2543,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="988" notAfter="989">端拱</date>
+<p>　　<date when="989">
+<date notBefore="988" notAfter="989">端拱</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="34">丁酉</num>
@@ -2743,9 +2779,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1041" notAfter="1048">慶曆</date>
+<p>　　<date when="1042">
+<date notBefore="1041" notAfter="1048">慶曆</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <num value="24">丁亥</num>
@@ -2769,9 +2807,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1049" notAfter="1054">皇祐</date>
+<p>　　<date when="1050">
+<date notBefore="1049" notAfter="1054">皇祐</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <num value="37">庚子</num>
@@ -3037,9 +3077,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1094" notAfter="1098">紹聖</date>
+<p>　　<date when="1096">
+<date notBefore="1094" notAfter="1098">紹聖</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <num value="40">癸卯</num>
@@ -3117,9 +3159,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1107" notAfter="1110">大觀</date>
+<p>　　<date when="1109">
+<date notBefore="1107" notAfter="1110">大觀</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <num value="23">丙戌</num>
@@ -3183,9 +3227,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1119" notAfter="1125">宣和</date>
+<p>　　<date when="1120">
+<date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="53">丙辰</num>
@@ -3205,11 +3251,9 @@
 </p>
 </div>
 <div>
-<p>　　<date when="1129">
-<date notBefore="1127" notAfter="1130">建炎</date>
+<p>　　<date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="19">壬午</num>
@@ -3890,9 +3934,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1017" notAfter="1021">天禧</date>
+<p>　　<date when="1020">
+<date notBefore="1017" notAfter="1021">天禧</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <num value="22">乙酉</num>
@@ -3993,15 +4039,19 @@
 </p>
 </div>
 <div>
-<p>　　自<date notBefore="1078" notAfter="1085">元豐</date>
+<p>　　自<date when="1085">
+<date notBefore="1078" notAfter="1085">元豐</date>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
+</date>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <measure quantity="5" unit="days">
-<num value="5">五</num>日</measure>至<date notBefore="1098" notAfter="1100">元符</date>
+<num value="5">五</num>日</measure>至<date when="1100">
+<date notBefore="1098" notAfter="1100">元符</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -4023,9 +4073,11 @@
 </p>
 </div>
 <div>
-<p>　　自<date notBefore="1098" notAfter="1100">元符</date>
+<p>　　自<date when="1100">
+<date notBefore="1098" notAfter="1100">元符</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -4048,11 +4100,9 @@
 </p>
 </div>
 <div>
-<p>　　<date when="1130">
-<date notBefore="1127" notAfter="1130">建炎</date>
+<p>　　<date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-</date>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <num value="16">己卯</num>

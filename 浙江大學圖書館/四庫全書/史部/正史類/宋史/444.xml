@@ -717,9 +717,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1098" notAfter="1100">元符</date>
+<p>　　<date when="1100">
+<date notBefore="1098" notAfter="1100">元符</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>病痹<pc>，</pc>遂致仕<pc>。</pc>既歸老<pc>，</pc>肆意于龍眠山岩壑間<pc>。</pc>雅善畫<pc>，</pc>自作<pc>《</pc>
 <title>山莊圖</title>
 <pc>》</pc>
@@ -772,9 +774,11 @@
 <div>
 <p>　　<persName>劉弇</persName>
 <pc>，</pc>字<name key="劉弇" type="zi">偉明</name>
-<pc>，</pc>吉州安福人<pc>。</pc>兒時警穎<pc>，</pc>日誦<num value="10000">萬</num>餘言<pc>。</pc>登<date notBefore="1078" notAfter="1085">元豐</date>
+<pc>，</pc>吉州安福人<pc>。</pc>兒時警穎<pc>，</pc>日誦<num value="10000">萬</num>餘言<pc>。</pc>登<date when="1079">
+<date notBefore="1078" notAfter="1085">元豐</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>進士第<pc>，</pc>繼中博學宏詞科<pc>。</pc>曆官知嘉州峨眉縣<pc>，</pc>改太學博士<pc>。</pc>
+<num value="2">二</num>年</measure>
+</date>進士第<pc>，</pc>繼中博學宏詞科<pc>。</pc>曆官知嘉州峨眉縣<pc>，</pc>改太學博士<pc>。</pc>
 <date notBefore="1098" notAfter="1100">元符</date>中<pc>，</pc>有事於南郊<pc>，</pc>
 <name key="劉弇" type="givenName">弇</name>進<pc>《</pc>
 <title>南郊大禮賦</title>

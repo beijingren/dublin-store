@@ -29,9 +29,11 @@
 <div>
 <p>章誼<pc>，</pc>字<name key="裔章誼" type="zi">宜叟</name>
 <pc>，</pc>
-<placeName>建州</placeName>浦城人<pc>。</pc>登<date notBefore="1102" notAfter="1106">崇甯</date>
+<placeName>建州</placeName>浦城人<pc>。</pc>登<date when="1105">
+<date notBefore="1102" notAfter="1106">崇甯</date>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>進士第<pc>，</pc>補<placeName>懷州</placeName>司法參軍<pc>，</pc>曆<placeName>漳</placeName>
+<num value="4">四</num>年</measure>
+</date>進士第<pc>，</pc>補<placeName>懷州</placeName>司法參軍<pc>，</pc>曆<placeName>漳</placeName>
 <pc>、</pc>台<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>教授<pc>、</pc>
 <placeName>杭州</placeName>通判<pc>。</pc>
@@ -98,12 +100,16 @@
 <div>
 <p>詔集議明堂配享<pc>，</pc>胡直儒等請合祭天地<pc>，</pc>而以太祖<pc>、</pc>太宗配<pc>。</pc>誼言<pc>：</pc>
 <pc>“</pc>
-<quote>稽之經旨則未合<pc>，</pc>參之典故則未盡<pc>，</pc>施之事帝則未為簡嚴<pc>。</pc>今國家既以太祖配天于郊<pc>，</pc>比周之後稷<pc>，</pc>則太宗宜配帝於明堂<pc>，</pc>以比周之文王<pc>。</pc>仁宗<date notBefore="1049" notAfter="1054">皇祐</date>
+<quote>稽之經旨則未合<pc>，</pc>參之典故則未盡<pc>，</pc>施之事帝則未為簡嚴<pc>。</pc>今國家既以太祖配天于郊<pc>，</pc>比周之後稷<pc>，</pc>則太宗宜配帝於明堂<pc>，</pc>以比周之文王<pc>。</pc>仁宗<date when="1050">
+<date notBefore="1049" notAfter="1054">皇祐</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>始行明堂合祭天地<pc>，</pc>並配祖宗<pc>，</pc>乃<num value="1">一</num>時變禮<pc>。</pc>至<date notBefore="1056" notAfter="1063">嘉祐</date>
+</date>
+<pc>，</pc>始行明堂合祭天地<pc>，</pc>並配祖宗<pc>，</pc>乃<num value="1">一</num>時變禮<pc>。</pc>至<date when="1062">
+<date notBefore="1056" notAfter="1063">嘉祐</date>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
+</date>
 <pc>，</pc>再行宗祀<pc>，</pc>已悟<date notBefore="1049" notAfter="1054">皇祐</date>之非<pc>，</pc>乃罷配享<pc>，</pc>仍徹地示之位<pc>，</pc>故有去並侑煩文之詔<pc>。</pc>如<date notBefore="1056" notAfter="1063">嘉祐</date>之詔<pc>，</pc>則太祖地示已不與祭<pc>；</pc>
 <date notBefore="1078" notAfter="1085">元豐</date>正祀典之詔<pc>，</pc>則悉罷群祀<pc>。</pc>臣等謂將來明堂大饗<pc>，</pc>宜專祀昊天上帝<pc>，</pc>而以太宗配<pc>。</pc>
 </quote>
@@ -244,11 +250,9 @@
 </div>
 <div>
 <p>
-<date when="1128">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>知江州<pc>，</pc>入為祠部郎<pc>，</pc>遷左司<pc>。</pc>嘗言<pc>：</pc>
 <pc>“</pc>
 <quote>中原未複<pc>，</pc>所恃長江之險<pc>，</pc>淮南實為屏蔽<pc>。</pc>沃野<measure quantity="1000" unit="LIs">
