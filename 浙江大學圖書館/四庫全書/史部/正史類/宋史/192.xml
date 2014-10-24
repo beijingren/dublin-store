@@ -98,20 +98,22 @@
 <p>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>詔開封府畿以都保置木契<pc>，</pc>左留司農寺<pc>，</pc>右付其縣<pc>，</pc>凡追胥<pc>、</pc>閱試<pc>、</pc>肄習則出契<pc>。</pc>是月<pc>，</pc>又詔行於永興<pc>、</pc>秦鳳<pc>、</pc>河北東西<pc>、</pc>河東<num value="5">五</num>路<pc>，</pc>唯毋上番<pc>。</pc>餘路止相保任<pc>，</pc>毋習武藝<pc>，</pc>內荊湖<pc>、</pc>川<pc>、</pc>廣並邊者可肄武事<pc>，</pc>令監司度之<pc>。</pc>後惟全<pc>、</pc>邵土丁<pc>、</pc>邕<pc>、</pc>欽洞丁<pc>、</pc>廣東槍手改為保甲者則肄焉<pc>。</pc>
+<pc>，</pc>詔<placeName>開封府</placeName>畿以都保置木契<pc>，</pc>左留司農寺<pc>，</pc>右付其縣<pc>，</pc>凡追胥<pc>、</pc>閱試<pc>、</pc>肄習則出契<pc>。</pc>是月<pc>，</pc>又詔行於永興<pc>、</pc>秦鳳<pc>、</pc>河北東西<pc>、</pc>河東<num value="5">五</num>路<pc>，</pc>唯毋上番<pc>。</pc>餘路止相保任<pc>，</pc>毋習武藝<pc>，</pc>內荊湖<pc>、</pc>川<pc>、</pc>廣並邊者可肄武事<pc>，</pc>令監司度之<pc>。</pc>後惟全<pc>、</pc>邵土丁<pc>、</pc>邕<pc>、</pc>欽洞丁<pc>、</pc>廣東槍手改為保甲者則肄焉<pc>。</pc>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <pc>，</pc>乃罷河北西路強壯<pc>、</pc>緣邊弓箭社係籍番上巡守者<pc>。</pc>
 </p>
 </div>
 <div>
-<p>初<pc>，</pc>開封府畿<pc>、</pc>
+<p>初<pc>，</pc>
+<placeName>開封府</placeName>畿<pc>、</pc>
 <num value="5">五</num>路保甲及<measure quantity="50000" unit="people">
 <num value="50000">五萬</num>人</measure>
 <pc>，</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<num value="1">一</num>解發<pc>，</pc>詣京師閱試命官<pc>，</pc>開封府畿<measure quantity="10" unit="people">
+<num value="1">一</num>解發<pc>，</pc>詣京師閱試命官<pc>，</pc>
+<placeName>開封府</placeName>畿<measure quantity="10" unit="people">
 <num value="10">十</num>人</measure>
 <pc>，</pc>
 <num value="5">五</num>路<measure quantity="7" unit="people">
@@ -119,7 +121,7 @@
 <pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
-<pc>，</pc>詔開封府畿及<measure quantity="10000" unit="people">
+<pc>，</pc>詔<placeName>開封府</placeName>畿及<measure quantity="10000" unit="people">
 <num value="10000">一萬</num>人</measure>
 <pc>、</pc>
 <num value="5">五</num>路及<measure quantity="15000" unit="people">
@@ -153,9 +155,11 @@
 </div>
 <div>
 <p>初<pc>，</pc>保甲隸司農<pc>，</pc>
+<date when="1075">
 <date notBefore="1068" notAfter="1077">熙寧</date>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
+</date>
 <pc>，</pc>改隸兵部<pc>，</pc>增同判<num value="1">一</num>
 <pc>、</pc>主簿<num value="2">二</num>
 <pc>、</pc>幹當公事官<num value="10">十</num>
@@ -167,8 +171,9 @@
 <num value="5">五</num>路義勇保甲敕</title>
 <pc>》</pc>
 <pc>。</pc>
-<date notBefore="1078" notAfter="1085">元豐</date>元年<pc>，</pc>翰林學士<pc>、</pc>權判尚書兵部許將修<pc>《</pc>
-<title>開封府界保甲敕</title>
+<date notBefore="1078" notAfter="1085">元豐</date>元年<pc>，</pc>翰林學士<pc>、</pc>權判<term>尚書</term>兵部許將修<pc>《</pc>
+<title>
+<placeName>開封府</placeName>界保甲敕</title>
 <pc>》</pc>
 <pc>，</pc>成書上之<pc>，</pc>詔皆頒焉<pc>。</pc>
 </p>
@@ -234,9 +239,11 @@
 <pc>。</pc>時係籍義勇<pc>、</pc>保甲及民兵凡<measure quantity="7182028" unit="people">
 <num value="7182028">七百一十八萬二千二十八</num>人</measure>雲<pc>。</pc>
 <pc>（</pc>
+<date when="1076">
 <date notBefore="1068" notAfter="1077">熙寧</date>
 <measure quantity="9" unit="years">
-<num value="9">九</num>年</measure>之數<pc>。</pc>
+<num value="9">九</num>年</measure>
+</date>之數<pc>。</pc>
 <pc>）</pc>
 </p>
 </div>
@@ -426,7 +433,7 @@
 <pc>“</pc>
 <quote>此事自不敢不密<pc>。</pc>
 </quote>
-<pc>”</pc>權知開封府韓維等言<pc>：</pc>
+<pc>”</pc>權知<placeName>開封府</placeName>韓維等言<pc>：</pc>
 <pc>“</pc>
 <quote>諸縣團結保甲<pc>，</pc>鄉民驚擾<pc>。</pc>祥符等縣已畢<pc>，</pc>其餘縣乞候農閑排定<pc>。</pc>
 </quote>
@@ -597,9 +604,11 @@
 </div>
 <div>
 <p>
+<date when="1085">
 <date notBefore="1078" notAfter="1085">元豐</date>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
+</date>
 <pc>，</pc>哲宗嗣位<pc>，</pc>知<placeName>陳州</placeName>
 <persName>司馬光</persName>上疏乞罷保甲<pc>，</pc>曰<pc>：</pc>
 </p>
@@ -768,7 +777,8 @@
 </quote>
 <pc>”</pc>閏<measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
-<pc>，</pc>詔河北東西路<pc>、</pc>永興<pc>、</pc>秦鳳等路提點刑獄兼提舉保甲<pc>，</pc>並依提刑司例各為<num value="1">一</num>司<pc>。</pc>
+<pc>，</pc>詔河北<placeName>東西路</placeName>
+<pc>、</pc>永興<pc>、</pc>秦鳳等路提點刑獄兼提舉保甲<pc>，</pc>並依提刑司例各為<num value="1">一</num>司<pc>。</pc>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <pc>，</pc>王岩叟劾狄諮<pc>、</pc>劉定奸贓狀<pc>。</pc>
@@ -785,9 +795,11 @@
 </div>
 <div>
 <p>
+<date when="1095">
 <date notBefore="1094" notAfter="1098">紹聖</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <pc>，</pc>帝問義勇<pc>、</pc>保甲數<pc>，</pc>
@@ -806,9 +818,11 @@
 </div>
 <div>
 <p>
+<date when="1099">
 <date notBefore="1098" notAfter="1100">元符</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>
@@ -890,7 +904,8 @@
 <p>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>詔河北東西<pc>、</pc>河東<pc>、</pc>永興<pc>、</pc>秦鳳路各武臣<num value="1">一</num>員充提舉保甲並兼提刑<pc>，</pc>其見專提舉保甲文臣並罷<pc>。</pc>是月<pc>，</pc>詔京畿差武臣<num value="1">一</num>員充提舉保甲兼提刑<pc>，</pc>仍差文臣提刑兼提舉保甲<pc>。</pc>
+<pc>，</pc>詔河北東西<pc>、</pc>河東<pc>、</pc>永興<pc>、</pc>
+<placeName>秦鳳路</placeName>各武臣<num value="1">一</num>員充提舉保甲並兼提刑<pc>，</pc>其見專提舉保甲文臣並罷<pc>。</pc>是月<pc>，</pc>詔京畿差武臣<num value="1">一</num>員充提舉保甲兼提刑<pc>，</pc>仍差文臣提刑兼提舉保甲<pc>。</pc>
 </p>
 </div>
 <div>
@@ -941,7 +956,7 @@
 <num value="25">二十五</num>家</measure>為<num value="1">一</num>大保<pc>，</pc>
 <measure quantity="250" unit="households">
 <num value="250">二百五十</num>家</measure>為<num value="1">一</num>都保<pc>。</pc>保各有長<pc>，</pc>都各有正<pc>，</pc>正各有副<pc>，</pc>使之相保相愛<pc>，</pc>以察奸慝<pc>。</pc>故有所行<pc>，</pc>諸自外來者<pc>，</pc>同保互告<pc>，</pc>使各相知<pc>；</pc>行止不明者<pc>，</pc>聽送所屬<pc>。</pc>保內盜賊<pc>，</pc>畫時集捕<pc>，</pc>知而不糾<pc>，</pc>又論如律<pc>。</pc>所以糾禁幾察<pc>，</pc>纖悉具備<pc>，</pc>奇邪寇盜<pc>，</pc>何所容跡<pc>？</pc>訪聞法行既久<pc>，</pc>州縣玩習弛廢<pc>，</pc>保丁開收既不以實<pc>，</pc>保長役使又不以時<pc>。</pc>如修鼓鋪<pc>、</pc>飾粉壁<pc>、</pc>守敗船<pc>、</pc>治道路<pc>、</pc>給夫役<pc>、</pc>催稅賦之類<pc>，</pc>科率騷擾不<num value="1">一</num>
-<pc>，</pc>遂使寇賊奇邪無複糾察<pc>，</pc>良法美意浸成虛文<pc>。</pc>可令尚書省於諸路提點刑獄或提舉常平官內<pc>，</pc>每路選委<num value="1">一</num>員<pc>，</pc>令專<num value="1">一</num>督責逐縣令佐<pc>，</pc>將係籍人丁開收取實<pc>；</pc>選擇保正長<pc>，</pc>各更替如法<pc>，</pc>使鈐束保丁<pc>，</pc>遞相覺察<pc>，</pc>毋得舍亡賴作過等人<pc>，</pc>遇有盜賊<pc>，</pc>畫時追捕<pc>，</pc>若有過致藏匿者<pc>，</pc>許諸人告首<pc>，</pc>仍具條揭示<pc>。</pc>
+<pc>，</pc>遂使寇賊奇邪無複糾察<pc>，</pc>良法美意浸成虛文<pc>。</pc>可令<term>尚書</term>省於諸路提點刑獄或提舉常平官內<pc>，</pc>每路選委<num value="1">一</num>員<pc>，</pc>令專<num value="1">一</num>督責逐縣令佐<pc>，</pc>將係籍人丁開收取實<pc>；</pc>選擇保正長<pc>，</pc>各更替如法<pc>，</pc>使鈐束保丁<pc>，</pc>遞相覺察<pc>，</pc>毋得舍亡賴作過等人<pc>，</pc>遇有盜賊<pc>，</pc>畫時追捕<pc>，</pc>若有過致藏匿者<pc>，</pc>許諸人告首<pc>，</pc>仍具條揭示<pc>。</pc>
 </quote>
 <pc>”</pc>
 </p>
@@ -949,7 +964,7 @@
 <div>
 <p>欽宗靖康元年<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
-<pc>，</pc>以尚書戶部侍郎錢蓋為龍圖閣學士<pc>、</pc>陝西<num value="5">五</num>路製置使<pc>，</pc>專<num value="1">一</num>措置京兆府路保甲<pc>。</pc>
+<pc>，</pc>以<term>尚書</term>戶部侍郎錢蓋為龍圖閣學士<pc>、</pc>陝西<num value="5">五</num>路製置使<pc>，</pc>專<num value="1">一</num>措置京兆府路保甲<pc>。</pc>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <pc>，</pc>
@@ -983,11 +998,9 @@
 </div>
 <div>
 <p>槍杖手<pc>（</pc>
-<date when="1128">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>令福建招<measure quantity="5000" unit="people">
 <num value="5000">五千</num>人</measure>
 <pc>。</pc>
@@ -996,11 +1009,9 @@
 </div>
 <div>
 <p>土豪<pc>（</pc>
-<date when="1130">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-</date>
 <pc>，</pc>詔諸州守臣募土豪<pc>、</pc>民兵<pc>，</pc>聽州縣守令節製<pc>。</pc>後存留強壯<pc>，</pc>餘並放散<pc>。</pc>
 <pc>）</pc>義兵<pc>（</pc>紹興<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>團集<pc>，</pc>諸州名數不等<pc>。</pc>後皆以縣令為軍正<pc>。</pc>
@@ -1018,11 +1029,9 @@
 </div>
 <div>
 <p>民兵<pc>（</pc>
-<date when="1128">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>每<measure quantity="50" unit="people">
 <num value="50">五十</num>人</measure>為<num value="1">一</num>隊<pc>，</pc>有長<pc>、</pc>副<pc>。</pc>
 <num value="1">一</num>戶取<num value="1">一</num>丁<pc>，</pc>
@@ -1067,11 +1076,9 @@
 </div>
 <div>
 <p>峒丁<pc>（</pc>
-<date when="1129">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <pc>，</pc>命江西<pc>、</pc>福建諸處總領官籍定槍杖手<pc>、</pc>峒丁人數<pc>，</pc>以備調遣<pc>。</pc>紹興中<pc>，</pc>罷之<pc>。</pc>
 <pc>）</pc>
 </p>
@@ -1079,7 +1086,8 @@
 <div>
 <p>保勝<pc>（</pc>紹興<measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>詔金<pc>、</pc>均<pc>、</pc>
+<pc>，</pc>詔<placeName>金</placeName>
+<pc>、</pc>均<pc>、</pc>
 <placeName>房</placeName>
 <measure quantity="3" unit="prefectures">
 <num value="3">三</num>州</measure>保甲分為<num value="5">五</num>軍<pc>，</pc>以保勝為名<pc>。</pc>

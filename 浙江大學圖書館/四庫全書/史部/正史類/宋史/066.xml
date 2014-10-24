@@ -29,9 +29,11 @@
 </div>
 <div>
 <p>
+<date when="961">
 <date notBefore="960" notAfter="963">建隆</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <pc>，</pc>晋州神山县北谷中有铁随水流出<pc>，</pc>方<num value="2">二</num>丈<num value="3">三</num>尺<pc>，</pc>其重<num value="7000">七千</num>斤<pc>。</pc>
@@ -54,9 +56,11 @@
 </div>
 <div>
 <p>
+<date when="996">
 <date notBefore="995" notAfter="997">至道</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <pc>，</pc>桂阳监熔银自涌成山峰状<pc>。</pc>
@@ -114,9 +118,11 @@
 </div>
 <div>
 <p>
+<date when="1052">
 <date notBefore="1049" notAfter="1054">皇祐</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <pc>，</pc>乾宁军渔人得小钟<num value="2">二</num>于河滨<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
@@ -225,9 +231,11 @@
 </div>
 <div>
 <p>
+<date when="1122">
 <date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>后<pc>，</pc>御府所藏<pc>，</pc>往往复变为石<pc>，</pc>而色类白骨<pc>，</pc>此与周宝圭占略同<pc>。</pc>
+<num value="4">四</num>年</measure>
+</date>后<pc>，</pc>御府所藏<pc>，</pc>往往复变为石<pc>，</pc>而色类白骨<pc>，</pc>此与周宝圭占略同<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <pc>，</pc>荥阳县贾谷山麒麟谷采石修明堂<pc>，</pc>得<num value="1">一</num>石有文曰<pc>“</pc>
@@ -250,7 +258,9 @@
 <placeName>
 <num value="3">三</num>
 </placeName>月</measure>
-<pc>，</pc>铸<num value="9">九</num>鼎<pc>，</pc>用金甚厚<pc>，</pc>取<measure quantity="9" unit="prefectures">
+<pc>，</pc>
+<placeName>铸</placeName>
+<num value="9">九</num>鼎<pc>，</pc>用金甚厚<pc>，</pc>取<measure quantity="9" unit="prefectures">
 <num value="9">九</num>州</measure>水土内鼎中<pc>。</pc>既奉安于<num value="9">九</num>成宫<pc>，</pc>车驾临幸<pc>，</pc>遍礼焉<pc>，</pc>至北方之宝鼎<pc>，</pc>忽漏水溢于外<pc>。</pc>刘炳谬曰<pc>：</pc>
 <pc>“</pc>
 <quote>正北在燕山<pc>，</pc>今宝鼎但取水土于<placeName>雄州</placeName>境<pc>，</pc>宜不可用<pc>。</pc>
@@ -303,9 +313,11 @@
 </div>
 <div>
 <p>
+<date when="961">
 <date notBefore="960" notAfter="963">建隆</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>京师夏旱<pc>，</pc>冬又旱<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
@@ -324,9 +336,13 @@
 <num value="1">
 <num value="1">正</num>月</num>
 </measure>
-<pc>，</pc>京师旱<pc>。</pc>夏<pc>，</pc>不雨<pc>。</pc>是岁<pc>，</pc>河南府<pc>、</pc>陕<pc>、</pc>虢<pc>、</pc>麟<pc>、</pc>博<pc>、</pc>灵州旱<pc>，</pc>河中府旱甚<pc>。</pc>
+<pc>，</pc>京师旱<pc>。</pc>夏<pc>，</pc>不雨<pc>。</pc>是岁<pc>，</pc>
+<placeName>河南府</placeName>
+<pc>、</pc>陕<pc>、</pc>虢<pc>、</pc>麟<pc>、</pc>博<pc>、</pc>灵州旱<pc>，</pc>河中府旱甚<pc>。</pc>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>春<pc>，</pc>京师不雨<pc>。</pc>江陵府<pc>、</pc>华州<pc>、</pc>涟水军旱<pc>。</pc>
+<num value="4">四</num>年</measure>春<pc>，</pc>京师不雨<pc>。</pc>
+<placeName>江陵府</placeName>
+<pc>、</pc>华州<pc>、</pc>涟水军旱<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <measure quantity="1" unit="month">
@@ -350,7 +366,9 @@
 <num value="6">六</num>年</measure>冬<pc>，</pc>京师旱<pc>。</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>京师春夏旱<pc>；</pc>冬又旱<pc>。</pc>河南府<pc>、</pc>晋<pc>、</pc>
+<pc>，</pc>京师春夏旱<pc>；</pc>冬又旱<pc>。</pc>
+<placeName>河南府</placeName>
+<pc>、</pc>晋<pc>、</pc>
 <placeName>解州</placeName>夏旱<pc>。</pc>
 <placeName>滑州</placeName>秋旱<pc>。</pc>
 <measure quantity="8" unit="years">
@@ -382,9 +400,11 @@
 </div>
 <div>
 <p>
+<date when="985">
 <date notBefore="984" notAfter="987">雍熙</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>冬<pc>，</pc>京师旱<pc>。</pc>
+<num value="2">二</num>年</measure>
+</date>冬<pc>，</pc>京师旱<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>冬<pc>，</pc>京师旱<pc>。</pc>
 <measure quantity="4" unit="years">
@@ -393,9 +413,11 @@
 </div>
 <div>
 <p>
+<date when="989">
 <date notBefore="988" notAfter="989">端拱</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <pc>，</pc>京师旱<pc>，</pc>秋<measure quantity="7" unit="months">
@@ -423,11 +445,15 @@
 </placeName>年</measure>春<pc>，</pc>京师大旱<pc>；</pc>
 <placeName>冬</placeName>
 <pc>，</pc>复大旱<pc>。</pc>是<placeName>岁</placeName>
-<pc>，</pc>河南府<pc>、</pc>
+<pc>，</pc>
+<placeName>河南府</placeName>
+<pc>、</pc>
 <placeName>京</placeName>东西河北河东陕西及亳建淮阳等<measure quantity="36" unit="prefectures">
 <num value="36">三十六</num>州</measure>军旱<pc>。</pc>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>夏<pc>，</pc>京师不雨<pc>，</pc>河南府<pc>、</pc>许汝亳滑商州旱<pc>。</pc>
+<num value="4">四</num>年</measure>夏<pc>，</pc>京师不雨<pc>，</pc>
+<placeName>河南府</placeName>
+<pc>、</pc>许汝亳滑商州旱<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
 <measure quantity="6" unit="months">
@@ -466,9 +492,12 @@
 </div>
 <div>
 <p>
+<date when="1009">
 <date notBefore="1008" notAfter="1016">大中祥符</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>春夏<pc>，</pc>京师旱<pc>。</pc>河南府及陕西路<pc>、</pc>潭<pc>、</pc>
+<num value="2">二</num>年</measure>
+</date>春夏<pc>，</pc>京师旱<pc>。</pc>
+<placeName>河南府</placeName>及陕西路<pc>、</pc>潭<pc>、</pc>
 <placeName>邢州</placeName>旱<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>夏<pc>，</pc>京师旱<pc>。</pc>江南诸路<pc>、</pc>宿州<pc>、</pc>润州旱<pc>。</pc>
@@ -476,7 +505,9 @@
 <num value="8">八</num>年</measure>
 <pc>，</pc>京师旱<pc>。</pc>
 <measure quantity="9" unit="years">
-<num value="9">九</num>年</measure>秋<pc>，</pc>京师旱<pc>。</pc>大名府<pc>、</pc>
+<num value="9">九</num>年</measure>秋<pc>，</pc>京师旱<pc>。</pc>
+<placeName>大名府</placeName>
+<pc>、</pc>
 <placeName>澶州</placeName>
 <pc>、</pc>
 <placeName>相州</placeName>旱<pc>。</pc>
@@ -511,9 +542,11 @@
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>南方大旱<pc>。</pc>
+<date when="1036">
 <date notBefore="1034" notAfter="1038">景祐</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <pc>，</pc>河北久旱<pc>，</pc>遣使诣北岳祈雨<pc>。</pc>
@@ -591,9 +624,11 @@
 </div>
 <div>
 <p>
+<date when="1060">
 <date notBefore="1056" notAfter="1063">嘉祐</date>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
+</date>
 <pc>，</pc>
 <placeName>梓州</placeName>路夏秋不雨<pc>。</pc>
 <measure quantity="7" unit="years">
@@ -643,7 +678,8 @@
 <num value="8">八</num>年</measure>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
-<pc>，</pc>真定府大旱<pc>。</pc>
+<pc>，</pc>
+<placeName>真定府</placeName>大旱<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>淮南<pc>、</pc>两浙<pc>、</pc>江南<pc>、</pc>荆湖等路旱<pc>。</pc>
@@ -739,11 +775,9 @@
 </div>
 <div>
 <p>
-<date when="1128">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>
-</date>夏<pc>，</pc>旱<pc>。</pc>
+<num value="2">二</num>年</measure>夏<pc>，</pc>旱<pc>。</pc>
 </p>
 </div>
 <div>
@@ -851,7 +885,8 @@
 <num value="7">七</num>年</measure>春<pc>，</pc>江西东<pc>、</pc>湖南北<pc>、</pc>淮南<pc>、</pc>浙<pc>、</pc>婺<placeName>秀州</placeName>皆旱<pc>；</pc>夏秋<pc>，</pc>江<pc>、</pc>洪<pc>、</pc>筠<pc>、</pc>潭<pc>、</pc>饶州<pc>、</pc>南康<pc>、</pc>兴国<pc>、</pc>临江军尤甚<pc>，</pc>首种不入<pc>。</pc>冬<pc>，</pc>不雨<pc>。</pc>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<pc>，</pc>婺<pc>、</pc>处<pc>、</pc>温<pc>、</pc>台<pc>、</pc>吉<pc>、</pc>赣州<pc>、</pc>临江<pc>、</pc>南安诸军<pc>、</pc>江陵府皆久旱<pc>，</pc>无麦苗<pc>。</pc>
+<pc>，</pc>婺<pc>、</pc>处<pc>、</pc>温<pc>、</pc>台<pc>、</pc>吉<pc>、</pc>赣州<pc>、</pc>临江<pc>、</pc>南安诸军<pc>、</pc>
+<placeName>江陵府</placeName>皆久旱<pc>，</pc>无麦苗<pc>。</pc>
 </p>
 </div>
 <div>
@@ -881,7 +916,9 @@
 <num value="4">四</num>月</measure>不雨<pc>，</pc>行都自<measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>不雨<pc>，</pc>皆至于<measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
-<pc>。</pc>绍兴<pc>、</pc>隆兴<pc>、</pc>建康<pc>、</pc>江陵府<pc>、</pc>台<pc>、</pc>婺<pc>、</pc>常<pc>、</pc>润<pc>、</pc>江<pc>、</pc>筠<pc>、</pc>抚<pc>、</pc>吉<pc>、</pc>饶<pc>、</pc>信<pc>、</pc>徽<pc>、</pc>池<pc>、</pc>舒<pc>、</pc>蕲<pc>、</pc>黄<pc>、</pc>和<pc>、</pc>浔<pc>、</pc>衡<pc>、</pc>
+<pc>。</pc>绍兴<pc>、</pc>隆兴<pc>、</pc>建康<pc>、</pc>
+<placeName>江陵府</placeName>
+<pc>、</pc>台<pc>、</pc>婺<pc>、</pc>常<pc>、</pc>润<pc>、</pc>江<pc>、</pc>筠<pc>、</pc>抚<pc>、</pc>吉<pc>、</pc>饶<pc>、</pc>信<pc>、</pc>徽<pc>、</pc>池<pc>、</pc>舒<pc>、</pc>蕲<pc>、</pc>黄<pc>、</pc>和<pc>、</pc>浔<pc>、</pc>衡<pc>、</pc>
 <placeName>永州</placeName>
 <pc>、</pc>兴国<pc>、</pc>临江<pc>、</pc>南康<pc>、</pc>无为军皆大旱<pc>，</pc>江<pc>、</pc>筠<pc>、</pc>徽<pc>、</pc>婺州<pc>、</pc>广德军<pc>、</pc>无锡县尤甚<pc>，</pc>祷雨于天地<pc>、</pc>宗庙<pc>、</pc>社稷<pc>、</pc>山川群望<pc>。</pc>
 <measure quantity="8" unit="years">
@@ -963,7 +1000,9 @@
 <pc>、</pc>广安军旱<pc>。</pc>江<pc>、</pc>浙自<measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>不雨<pc>，</pc>至于<measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>镇江<pc>、</pc>江陵府<pc>、</pc>婺<pc>、</pc>台<pc>、</pc>
+<pc>，</pc>镇江<pc>、</pc>
+<placeName>江陵府</placeName>
+<pc>、</pc>婺<pc>、</pc>台<pc>、</pc>
 <placeName>信州</placeName>
 <pc>、</pc>江西<pc>、</pc>淮东旱<pc>。</pc>
 <measure quantity="5" unit="years">
@@ -1026,7 +1065,8 @@
 </p>
 </div>
 <div>
-<p>开禧元年夏<pc>，</pc>浙东<pc>、</pc>西不雨<num value="100">百</num>余日<pc>，</pc>衢<pc>、</pc>婺<pc>、</pc>严<pc>、</pc>越<pc>、</pc>鼎<pc>、</pc>沣<pc>、</pc>忠<pc>、</pc>涪州大旱<pc>。</pc>
+<p>开禧元年夏<pc>，</pc>浙东<pc>、</pc>西不雨<num value="100">百</num>余日<pc>，</pc>衢<pc>、</pc>婺<pc>、</pc>严<pc>、</pc>越<pc>、</pc>鼎<pc>、</pc>沣<pc>、</pc>忠<pc>、</pc>
+<placeName>涪州</placeName>大旱<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>南康军<pc>、</pc>江西<pc>、</pc>湖南北郡县旱<pc>。</pc>
@@ -1143,7 +1183,8 @@
 <pc>”</pc>昶以其年<measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
-</measure>降王师<pc>，</pc>即命吕余庆知成都府<pc>，</pc>而<pc>“</pc>
+</measure>降王师<pc>，</pc>即命吕余庆知<placeName>成都府</placeName>
+<pc>，</pc>而<pc>“</pc>
 <quote>长春</quote>
 <pc>”</pc>乃太祖诞圣节名也<pc>，</pc>
 <pc>“</pc>
@@ -1218,9 +1259,11 @@
 </div>
 <div>
 <p>
+<date when="1053">
 <date notBefore="1049" notAfter="1054">皇祐</date>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -1234,14 +1277,13 @@
 </div>
 <div>
 <p>
-<date when="1129">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
-<pc>，</pc>鼎州桃源洞大水<pc>，</pc>巨石随流而下<pc>，</pc>有文曰<pc>：</pc>
+<pc>，</pc>
+<placeName>鼎州</placeName>桃源洞大水<pc>，</pc>巨石随流而下<pc>，</pc>有文曰<pc>：</pc>
 <pc>“</pc>
 <quote>无为大道<pc>，</pc>天知人情<pc>；</pc>无为窈冥<pc>，</pc>神见人形<pc>。</pc>心言意语<pc>，</pc>鬼闻人声<pc>；</pc>犯禁满盈<pc>，</pc>地收人魂<pc>。</pc>
 </quote>
@@ -1342,9 +1384,11 @@
 </div>
 <div>
 <p>
+<date when="1018">
 <date notBefore="1017" notAfter="1021">天禧</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <pc>，</pc>西京讹言有物如乌帽<pc>，</pc>夜飞入人家<pc>，</pc>又变为犬狼状<pc>。</pc>人民多恐骇<pc>，</pc>每夕重闭深处<pc>，</pc>至持兵器驱逐者<pc>。</pc>
@@ -1433,15 +1477,19 @@
 </div>
 <div>
 <p>
+<date when="962">
 <date notBefore="960" notAfter="963">建隆</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>有象至黄陂县匿林中<pc>，</pc>食民苗稼<pc>，</pc>又至安<pc>、</pc>复<pc>、</pc>襄<pc>、</pc>唐州践民田<pc>，</pc>遣使捕之<pc>。</pc>明年<measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <pc>，</pc>于南阳县获之<pc>，</pc>献其齿革<pc>。</pc>
+<date when="964">
 <date notBefore="963" notAfter="968">乾德</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <pc>，</pc>有象至澧阳<pc>、</pc>安乡等县<pc>，</pc>又有象涉江入华容县<pc>，</pc>直过阛阓门<pc>；</pc>又有象至澧州澧阳县城北<pc>。</pc>
@@ -1449,9 +1497,11 @@
 </div>
 <div>
 <p>
+<date when="966">
 <date notBefore="963" notAfter="968">乾德</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>普州兔食禾<pc>。</pc>
@@ -1462,9 +1512,11 @@
 </div>
 <div>
 <p>
+<date when="987">
 <date notBefore="984" notAfter="987">雍熙</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <pc>，</pc>有犀自黔南入万州<pc>，</pc>民捕杀之<pc>，</pc>获其皮角<pc>。</pc>
 </p>
 </div>
@@ -1476,7 +1528,8 @@
 <pc>，</pc>平陆县鸷兽伤人<pc>，</pc>遣使捕之<pc>，</pc>生献<num value="10">十</num>头<pc>。</pc>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
-<pc>，</pc>江陵府白昼虎入市<pc>，</pc>伤<measure quantity="2" unit="people">
+<pc>，</pc>
+<placeName>江陵府</placeName>白昼虎入市<pc>，</pc>伤<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>
 <pc>。</pc>
 </p>
@@ -1532,9 +1585,11 @@
 </div>
 <div>
 <p>
+<date when="1016">
 <date notBefore="1008" notAfter="1016">大中祥符</date>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
+</date>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <pc>，</pc>
@@ -1562,9 +1617,11 @@
 </div>
 <div>
 <p>
+<date when="1051">
 <date notBefore="1049" notAfter="1054">皇祐</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <pc>，</pc>
@@ -1573,9 +1630,11 @@
 </div>
 <div>
 <p>
+<date when="1058">
 <date notBefore="1056" notAfter="1063">嘉祐</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <num value="4">丁卯</num>
@@ -1620,9 +1679,11 @@
 <num value="10">十</num>月</measure>
 <pc>，</pc>
 <placeName>淄州</placeName>获黑兔<pc>。</pc>
+<date when="1125">
 <date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="7" unit="years">
-<num value="7">七</num>年</measure>秋<pc>，</pc>有狐由艮岳直入禁中<pc>，</pc>据御榻而坐<pc>，</pc>诏毁狐王庙<pc>。</pc>
+<num value="7">七</num>年</measure>
+</date>秋<pc>，</pc>有狐由艮岳直入禁中<pc>，</pc>据御榻而坐<pc>，</pc>诏毁狐王庙<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1733,9 +1794,11 @@
 </div>
 <div>
 <p>
+<date when="965">
 <date notBefore="963" notAfter="968">乾德</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <num value="16">己卯</num>夜<pc>，</pc>西方起苍白气<pc>，</pc>长<num value="50">五十</num>尺<pc>，</pc>贯天船<pc>、</pc>
@@ -1765,9 +1828,11 @@
 </div>
 <div>
 <p>
+<date when="987">
 <date notBefore="984" notAfter="987">雍熙</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -1778,9 +1843,11 @@
 </div>
 <div>
 <p>
+<date when="996">
 <date notBefore="995" notAfter="997">至道</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="13">丙子</num>夜<pc>，</pc>西方有苍白气<pc>，</pc>长短<num value="8">八</num>道<pc>，</pc>如彗扫稍<pc>，</pc>经天汉<pc>，</pc>参错如交蛇<pc>，</pc>占曰<pc>：</pc>
@@ -1950,9 +2017,11 @@
 </div>
 <div>
 <p>
+<date when="1052">
 <date notBefore="1049" notAfter="1054">皇祐</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <num value="58">辛酉</num>夜<pc>，</pc>白气起北方近浊<pc>，</pc>长<num value="5">五</num>丈许<pc>，</pc>历北斗<pc>，</pc>久之散<pc>，</pc>占曰<pc>：</pc>
@@ -1978,9 +2047,11 @@
 </div>
 <div>
 <p>
+<date when="1065">
 <date notBefore="1064" notAfter="1067">治平</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <num value="43">丙午</num>夜<pc>，</pc>西北方有白气<pc>，</pc>渐东南行<pc>，</pc>首尾至浊<pc>，</pc>贯角宿<pc>，</pc>移西北<pc>，</pc>久方散<pc>。</pc>占曰<pc>：</pc>
@@ -2000,9 +2071,11 @@
 </div>
 <div>
 <p>
+<date when="1088">
 <date notBefore="1086" notAfter="1094">元祐</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <num value="5">戊辰</num>夜<pc>，</pc>西北有白气经天<pc>，</pc>主兵<pc>，</pc>宜防西<pc>、</pc>北<num value="2">二</num>鄙<pc>。</pc>
@@ -2010,9 +2083,11 @@
 </div>
 <div>
 <p>
+<date when="1099">
 <date notBefore="1098" notAfter="1100">元符</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <num value="5">戊辰</num>夜<pc>，</pc>有白气<num value="10">十</num>道<pc>，</pc>各长<num value="5">五</num>尺<pc>，</pc>主兵及大臣黜<pc>。</pc>
@@ -2028,9 +2103,11 @@
 </div>
 <div>
 <p>
+<date when="1121">
 <date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <num value="19">壬午</num>夜<pc>，</pc>苍白气长<num value="3">三</num>丈<pc>，</pc>贯月<pc>，</pc>主其下有乱者<pc>。</pc>
@@ -2054,11 +2131,9 @@
 </div>
 <div>
 <p>
-<date when="1128">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>杜充为北京留守<pc>，</pc>天雨纸钱于营中<pc>，</pc>厚盈寸<pc>。</pc>明日<pc>，</pc>与金人战城下<pc>，</pc>败绩<pc>。</pc>纸<pc>，</pc>白祥也<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>

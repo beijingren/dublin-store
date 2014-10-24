@@ -122,9 +122,11 @@
 <p>
 <persName>李邴</persName>
 <pc>，</pc>字<name key="李邴" type="zi">漢老</name>
-<pc>，</pc>濟州任城縣人<pc>。</pc>中<date notBefore="1102" notAfter="1106">崇甯</date>
+<pc>，</pc>濟州任城縣人<pc>。</pc>中<date when="1106">
+<date notBefore="1102" notAfter="1106">崇甯</date>
 <measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>進士第<pc>，</pc>累官為<term>起居舍人</term>
+<num value="5">五</num>年</measure>
+</date>進士第<pc>，</pc>累官為<term>起居舍人</term>
 <pc>，</pc>試<term>中書舍人</term>
 <pc>。</pc>北方用兵<pc>，</pc>酬功第賞<pc>，</pc>日數<num value="1000">十百</num>
 <pc>，</pc>
@@ -154,7 +156,8 @@
 <p>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
-<pc>，</pc>拜尚書右丞<pc>，</pc>未幾<pc>，</pc>改參知政事<pc>。</pc>上巡江甯<pc>，</pc>太后<num value="6">六</num>宮往豫章<pc>，</pc>命<name key="李邴" type="givenName">邴</name>為資政殿學士<pc>、</pc>權知行台<num value="3">三</num>省樞密院事<pc>。</pc>以與呂頤浩論不合<pc>，</pc>乞罷<pc>，</pc>遂以本職提舉<placeName>杭州</placeName>洞霄宮<pc>。</pc>未閱月<pc>，</pc>起知平江府<pc>。</pc>會兄鄴失守<placeName>越州</placeName>
+<pc>，</pc>拜<term>尚書</term>右丞<pc>，</pc>未幾<pc>，</pc>改<term>參知政事</term>
+<pc>。</pc>上巡江甯<pc>，</pc>太后<num value="6">六</num>宮往豫章<pc>，</pc>命<name key="李邴" type="givenName">邴</name>為資政殿學士<pc>、</pc>權知行台<num value="3">三</num>省樞密院事<pc>。</pc>以與呂頤浩論不合<pc>，</pc>乞罷<pc>，</pc>遂以本職提舉<placeName>杭州</placeName>洞霄宮<pc>。</pc>未閱月<pc>，</pc>起知平江府<pc>。</pc>會兄鄴失守<placeName>越州</placeName>
 <pc>，</pc>坐累落職<pc>。</pc>明年<pc>，</pc>即引赦複之<pc>，</pc>又升資政殿學士<pc>。</pc>
 </p>
 </div>
@@ -241,9 +244,13 @@
 <p>
 <persName>滕康</persName>
 <pc>，</pc>字<name key="滕康" type="zi">子濟</name>
-<pc>，</pc>應天府宋城人<pc>。</pc>登<date notBefore="1102" notAfter="1106">崇甯</date>
+<pc>，</pc>
+<placeName>應天府</placeName>宋城人<pc>。</pc>登<date when="1106">
+<date notBefore="1102" notAfter="1106">崇甯</date>
 <measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>進士第<pc>，</pc>又中詞學兼茂科<pc>，</pc>除秘書省正字<pc>，</pc>遷著作佐郎<pc>、</pc>尚書工部禮部<term>員外郎</term>
+<num value="5">五</num>年</measure>
+</date>進士第<pc>，</pc>又中詞學兼茂科<pc>，</pc>除秘書省正字<pc>，</pc>遷著作佐郎<pc>、</pc>
+<term>尚書</term>工部禮部<term>員外郎</term>
 <pc>、</pc>國子司業<pc>。</pc>
 </p>
 </div>
@@ -304,15 +311,13 @@
 </div>
 <div>
 <p>
-<date when="1129">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <pc>，</pc>
 <term>宰相</term>呂頤浩議幸武昌為趨陝之計<pc>，</pc>既移蹕建<name key="滕康" type="givenName">康</name>
 <pc>，</pc>又議欲盡棄中原<pc>，</pc>徙居民于東南<pc>。</pc>
-<name key="滕康" type="givenName">康</name>力持不可<pc>，</pc>上悟而止<pc>。</pc>未幾<pc>，</pc>上請太后奉神主如江西<pc>，</pc>以參知政事李邴權知<num value="3">三</num>省樞密院事<pc>，</pc>
+<name key="滕康" type="givenName">康</name>力持不可<pc>，</pc>上悟而止<pc>。</pc>未幾<pc>，</pc>上請太后奉神主如江西<pc>，</pc>以<term>參知政事</term>李邴權知<num value="3">三</num>省樞密院事<pc>，</pc>
 <name key="滕康" type="givenName">康</name>為資政殿學士<pc>，</pc>同從衛以行<pc>。</pc>邴辭疾<pc>，</pc>又命<name key="滕康" type="givenName">康</name>權知<pc>，</pc>以劉玨為貳<pc>。</pc>賜<name key="滕康" type="givenName">康</name>褒詔<pc>，</pc>許綴宰執班奏事<pc>。</pc>
 </p>
 </div>
@@ -441,7 +446,8 @@
 <num value="4">四</num>年</measure>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
-<pc>，</pc>除參知政事<pc>，</pc>
+<pc>，</pc>除<term>參知政事</term>
+<pc>，</pc>
 <name key="張守" type="givenName">守</name>嘗薦汪伯彥<pc>，</pc>沈與求劾其短<pc>，</pc>以資政殿學士提舉洞霄宮<pc>。</pc>未幾<pc>，</pc>知紹興府<pc>。</pc>尋以內祠兼侍讀<pc>，</pc>
 <name key="張守" type="givenName">守</name>力辭<pc>，</pc>改知<placeName>福州</placeName>
 <pc>。</pc>時右司<term>員外郎</term>張宗臣請令福建築城<pc>，</pc>
@@ -504,7 +510,8 @@
 <num value="6">六</num>年</measure>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<pc>，</pc>召見<pc>，</pc>即日除參知政事<pc>，</pc>明日兼權樞密院事<pc>。</pc>
+<pc>，</pc>召見<pc>，</pc>即日除<term>參知政事</term>
+<pc>，</pc>明日兼權樞密院事<pc>。</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <pc>，</pc>張浚罷劉光世兵柄<pc>，</pc>而欲以呂祉往淮西撫諭諸軍<pc>，</pc>
@@ -593,16 +600,15 @@
 </div>
 <div>
 <p>
-<date when="1128">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>召近臣舉所知<pc>，</pc>禮部侍郎張浚以直柔應<pc>。</pc>詔授著作佐郎<pc>，</pc>尋除禮部<term>員外郎</term>
 <pc>、</pc>
 <term>起居舍人</term>
 <pc>，</pc>遷右<term>諫議大夫</term>
-<pc>。</pc>範致虛自謫籍中召入<pc>，</pc>直柔力言致虛不當複用<pc>，</pc>出知鼎州<pc>。</pc>
+<pc>。</pc>範致虛自謫籍中召入<pc>，</pc>直柔力言致虛不當複用<pc>，</pc>出知<placeName>鼎州</placeName>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -752,7 +758,8 @@
 <pc>，</pc>則凡所薦引<pc>，</pc>不問才否<num value="1">一</num>時罷黜<pc>，</pc>乃朝廷使之為朋黨<pc>，</pc>非所以愛人才<pc>、</pc>厚風俗也<pc>。</pc>
 </quote>
 <pc>”</pc>遷右司<term>員外郎</term>
-<pc>，</pc>除直顯謨閣<pc>、</pc>知夔州<pc>。</pc>丁母憂<pc>，</pc>起複<pc>，</pc>撫諭吳玠軍<pc>，</pc>除都大主管川陝茶馬<pc>，</pc>卒<pc>。</pc>
+<pc>，</pc>除直顯謨閣<pc>、</pc>知<placeName>夔州</placeName>
+<pc>。</pc>丁母憂<pc>，</pc>起複<pc>，</pc>撫諭吳玠軍<pc>，</pc>除都大主管川陝茶馬<pc>，</pc>卒<pc>。</pc>
 </p>
 </div>
 <div>

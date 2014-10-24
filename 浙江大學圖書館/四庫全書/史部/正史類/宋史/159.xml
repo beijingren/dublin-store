@@ -41,9 +41,11 @@
 <quote>川峽<pc>、</pc>嶺南<pc>、</pc>福建注授<pc>，</pc>計程外給兩月期<pc>，</pc>違則本州不得放上<pc>，</pc>遣送闕下<pc>，</pc>除籍不齒<pc>。</pc>或被疾<pc>，</pc>則所至陳牒<pc>，</pc>長吏按驗<pc>，</pc>付以公據<pc>；</pc>廢痼末損<pc>，</pc>則條狀以聞<pc>。</pc>
 </quote>
 <pc>”</pc>
+<date when="987">
 <date notBefore="984" notAfter="987">雍熙</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <pc>，</pc>又詔<pc>：</pc>
 <pc>“</pc>
 <quote>選人年<num value="60">六十</num>
@@ -64,14 +66,16 @@
 <quote>劍南州縣官<pc>，</pc>不得以族行<pc>。</pc>敢有妄稱妻為女奴<pc>，</pc>攜以之官<pc>，</pc>除名<pc>。</pc>
 </quote>
 <pc>”</pc>初<pc>，</pc>
-<placeName>榮州</placeName>司理判官鄭蛟<pc>，</pc>冒禁攜妻之任<pc>。</pc>會蜀賊李順構亂<pc>，</pc>其黨田子宣攻陷城邑<pc>，</pc>而蛟捕得之<pc>，</pc>擢為推官<pc>。</pc>至是<pc>，</pc>知<placeName>梓州</placeName>張雍奏其事<pc>，</pc>上命戮蛟<pc>，</pc>而有是詔<pc>。</pc>
+<placeName>榮州</placeName>司理判官鄭蛟<pc>，</pc>冒禁攜妻之任<pc>。</pc>會蜀賊<persName>李順</persName>構亂<pc>，</pc>其黨田子宣攻陷城邑<pc>，</pc>而蛟捕得之<pc>，</pc>擢為推官<pc>。</pc>至是<pc>，</pc>知<placeName>梓州</placeName>張雍奏其事<pc>，</pc>上命戮蛟<pc>，</pc>而有是詔<pc>。</pc>
 </p>
 </div>
 <div>
 <p>
 <date notBefore="998" notAfter="1003">鹹平</date>間<pc>，</pc>以新<pc>、</pc>恩<pc>、</pc>
 <placeName>循</placeName>
-<pc>、</pc>梅<measure quantity="4" unit="prefectures">
+<pc>、</pc>
+<placeName>梅</placeName>
+<measure quantity="4" unit="prefectures">
 <num value="4">四</num>州</measure>瘴地<pc>，</pc>選荊湖<pc>、</pc>福建人注之<pc>。</pc>吏部銓擬官<pc>，</pc>悉標其過犯<pc>，</pc>自是<pc>，</pc>凡注惡地<pc>，</pc>令不須書<pc>。</pc>又詔<pc>：</pc>
 <pc>“</pc>
 <quote>規避遐遠<pc>，</pc>違期受代<pc>，</pc>勘鞫責罰<pc>，</pc>就移遠地<pc>。</pc>
@@ -184,7 +188,8 @@
 <num value="4">四</num>人</measure>
 <pc>，</pc>皇後<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>
-<pc>。</pc>非遇推恩而特旨賜官<pc>，</pc>不用此法<pc>。</pc>凡諸妃期親守監簿<pc>，</pc>餘判<pc>、</pc>司<pc>、</pc>主簿或尉<pc>；</pc>異姓親試監簿<pc>。</pc>婉容以上有服親<pc>，</pc>才人以上小功親<pc>，</pc>並試監簿<pc>。</pc>凡大長公主<pc>、</pc>長公主<pc>、</pc>公主夫之期親<pc>，</pc>判<pc>、</pc>司<pc>、</pc>主簿或尉<pc>，</pc>餘試監簿<pc>；</pc>子<pc>，</pc>補殿中丞<pc>；</pc>孫<pc>，</pc>光祿寺丞<pc>；</pc>婿<pc>，</pc>太常寺太祝<pc>；</pc>外孫<pc>，</pc>試銜<pc>、</pc>知縣<pc>。</pc>凡親王婿<pc>，</pc>大理評事<pc>；</pc>外孫<pc>，</pc>初等職官<pc>；</pc>女之子婿<pc>，</pc>試監簿<pc>。</pc>宗室緦麻以上女之夫<pc>，</pc>試銜<pc>、</pc>知縣<pc>；</pc>袒免<pc>，</pc>判<pc>、</pc>司<pc>、</pc>主簿或尉<pc>。</pc>其願補右職<pc>，</pc>依換官法<pc>。</pc>奉禮郎即右侍禁<pc>，</pc>幕職官即左班殿直<pc>，</pc>知令<pc>、</pc>錄即右班殿直<pc>，</pc>判<pc>、</pc>司<pc>、</pc>主簿<pc>、</pc>尉即奉職<pc>，</pc>試監簿即借職<pc>。</pc>
+<pc>。</pc>非遇推恩而特旨賜官<pc>，</pc>不用此法<pc>。</pc>凡諸妃期親守監簿<pc>，</pc>餘判<pc>、</pc>司<pc>、</pc>主簿或尉<pc>；</pc>異姓親試監簿<pc>。</pc>婉容以上有服親<pc>，</pc>才人以上小功親<pc>，</pc>並試監簿<pc>。</pc>凡大長公主<pc>、</pc>長公主<pc>、</pc>公主夫之期親<pc>，</pc>判<pc>、</pc>司<pc>、</pc>主簿或尉<pc>，</pc>餘試監簿<pc>；</pc>子<pc>，</pc>補<term>殿中丞</term>
+<pc>；</pc>孫<pc>，</pc>光祿寺丞<pc>；</pc>婿<pc>，</pc>太常寺太祝<pc>；</pc>外孫<pc>，</pc>試銜<pc>、</pc>知縣<pc>。</pc>凡親王婿<pc>，</pc>大理評事<pc>；</pc>外孫<pc>，</pc>初等職官<pc>；</pc>女之子婿<pc>，</pc>試監簿<pc>。</pc>宗室緦麻以上女之夫<pc>，</pc>試銜<pc>、</pc>知縣<pc>；</pc>袒免<pc>，</pc>判<pc>、</pc>司<pc>、</pc>主簿或尉<pc>。</pc>其願補右職<pc>，</pc>依換官法<pc>。</pc>奉禮郎即右侍禁<pc>，</pc>幕職官即左班殿直<pc>，</pc>知令<pc>、</pc>錄即右班殿直<pc>，</pc>判<pc>、</pc>司<pc>、</pc>主簿<pc>、</pc>尉即奉職<pc>，</pc>試監簿即借職<pc>。</pc>
 </p>
 </div>
 <div>
@@ -192,9 +197,13 @@
 <num value="3">三</num>公<pc>、</pc>
 <term>宰相</term>子<pc>，</pc>為諸寺丞<pc>；</pc>期親<pc>，</pc>校書郎<pc>；</pc>餘親<pc>，</pc>
 <pc>（</pc>本宗大功至緦麻服者<pc>。</pc>
-<pc>）</pc>以屬遠近補試銜<pc>。</pc>使相<pc>、</pc>參知政事<pc>、</pc>樞密院使<pc>、</pc>副使<pc>、</pc>宣徽使子<pc>，</pc>為太祝<pc>、</pc>奉禮郎<pc>；</pc>期親<pc>，</pc>校書<pc>、</pc>正字<pc>；</pc>餘親<pc>，</pc>補試銜<pc>。</pc>
+<pc>）</pc>以屬遠近補試銜<pc>。</pc>使相<pc>、</pc>
+<term>參知政事</term>
+<pc>、</pc>樞密院使<pc>、</pc>副使<pc>、</pc>宣徽使子<pc>，</pc>為太祝<pc>、</pc>奉禮郎<pc>；</pc>期親<pc>，</pc>校書<pc>、</pc>正字<pc>；</pc>餘親<pc>，</pc>補試銜<pc>。</pc>
 <term>節度使</term>
-<pc>、</pc>仆射<pc>、</pc>尚書<pc>、</pc>太子<num value="3">三</num>少<pc>、</pc>
+<pc>、</pc>仆射<pc>、</pc>
+<term>尚書</term>
+<pc>、</pc>太子<num value="3">三</num>少<pc>、</pc>
 <term>禦史</term>大夫<pc>、</pc>文明殿學士<pc>、</pc>資政殿大學士子<pc>，</pc>校書郎<pc>、</pc>正字<pc>；</pc>期親<pc>，</pc>寺<pc>、</pc>監主簿<pc>；</pc>餘親<pc>，</pc>試銜<pc>。</pc>
 <num value="3">三</num>司使<pc>，</pc>翰林<pc>、</pc>資政殿侍講<pc>、</pc>龍圖閣學士<pc>，</pc>樞密直學士<pc>，</pc>太常<pc>、</pc>宗正卿<pc>，</pc>中丞<pc>，</pc>丞<pc>、</pc>郎<pc>，</pc>留後<pc>，</pc>
 <term>觀察使</term>
@@ -221,7 +230,8 @@
 </div>
 <div>
 <p>凡兼職在館閣校理<pc>、</pc>檢討<pc>，</pc>王府記室<pc>、</pc>翊善<pc>、</pc>侍講<pc>，</pc>
-<num value="3">三</num>司主判官<pc>，</pc>開封府判官<pc>、</pc>推官<pc>，</pc>江淮發運<pc>，</pc>諸路轉運<pc>，</pc>始許奏及諸親<pc>。</pc>提點刑獄<pc>，</pc>惟許奏男<pc>。</pc>其嚐以贓抵罪<pc>，</pc>得複故官<pc>。</pc>文臣至郎中及<term>員外郎</term>任館閣職<pc>，</pc>武臣至諸司副使<pc>、</pc>諸衛將軍者<pc>，</pc>止許蔭子若孫<measure quantity="1" unit="people">
+<num value="3">三</num>司主判官<pc>，</pc>
+<placeName>開封府</placeName>判官<pc>、</pc>推官<pc>，</pc>江淮發運<pc>，</pc>諸路轉運<pc>，</pc>始許奏及諸親<pc>。</pc>提點刑獄<pc>，</pc>惟許奏男<pc>。</pc>其嚐以贓抵罪<pc>，</pc>得複故官<pc>。</pc>文臣至郎中及<term>員外郎</term>任館閣職<pc>，</pc>武臣至諸司副使<pc>、</pc>諸衛將軍者<pc>，</pc>止許蔭子若孫<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
 <pc>，</pc>尚在謫籍者弗預<pc>。</pc>
 </p>
@@ -232,18 +242,23 @@
 </div>
 <div>
 <p>太宗踐極<pc>，</pc>諸州進奏者授以試銜及<num value="3">三</num>班職<pc>，</pc>初推恩授散試官者<pc>，</pc>不得赴選<pc>。</pc>
+<date when="977">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>乃詔授試銜等人特定<num value="7">七</num>選集<pc>，</pc>遂為定令<pc>。</pc>凡誕聖節及<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>大祀<pc>，</pc>皆聽奏<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
 <pc>。</pc>而<date notBefore="990" notAfter="994">淳化</date>改元恩<pc>，</pc>文班<term>中書舍人</term>
 <pc>、</pc>武班大將軍以上<pc>，</pc>並許蔭補<pc>；</pc>如遇轉品<pc>，</pc>許更蔭<num value="1">一</num>子<pc>，</pc>由是奏薦之恩始廣<pc>。</pc>每誕聖節<pc>，</pc>朝臣多請奏疏屬<pc>，</pc>不報<pc>。</pc>
+<date when="996">
 <date notBefore="995" notAfter="997">至道</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>始限以翰林學士<pc>、</pc>兩省<num value="5">五</num>品<pc>、</pc>尚書省<num value="4">四</num>品以上<pc>，</pc>賜<num value="1">一</num>子出身<pc>，</pc>此聖節奏薦例也<pc>。</pc>先是<pc>，</pc>任子得攝太祝<pc>、</pc>奉禮<pc>，</pc>未幾即補正員<pc>。</pc>帝謂<pc>：</pc>
+</date>
+<pc>，</pc>始限以翰林學士<pc>、</pc>兩省<num value="5">五</num>品<pc>、</pc>
+<term>尚書</term>省<num value="4">四</num>品以上<pc>，</pc>賜<num value="1">一</num>子出身<pc>，</pc>此聖節奏薦例也<pc>。</pc>先是<pc>，</pc>任子得攝太祝<pc>、</pc>奉禮<pc>，</pc>未幾即補正員<pc>。</pc>帝謂<pc>：</pc>
 <pc>“</pc>
 <quote>膏粱之子<pc>，</pc>不<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>坐致閨籍<pc>。</pc>
@@ -259,9 +274,11 @@
 <quote>自今求敘遷者<pc>，</pc>至殿直止<pc>。</pc>
 </quote>
 <pc>”</pc>
+<date when="1009">
 <date notBefore="1008" notAfter="1016">大中祥符</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>以門蔭授京官<pc>，</pc>年<num value="25">二十五</num>以上求差使者<pc>，</pc>令於國學受業<pc>，</pc>及<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <pc>，</pc>審官院與判監官考試其業<pc>，</pc>乃以名聞<pc>。</pc>內諸司使<pc>、</pc>副授邊任官者<pc>，</pc>陛辭時許奏子<pc>。</pc>詔樞密院定其製<pc>，</pc>凡妄名孫及從子為子求蔭者<pc>，</pc>坐之<pc>。</pc>
@@ -333,7 +350,7 @@
 <pc>。</pc>
 <term>宰臣</term>
 <pc>、</pc>
-<term>樞密使</term>兼平章事因事罷者<pc>，</pc>陳乞轉官<measure quantity="1" unit="people">
+<term>樞密使</term>兼<term>平章事</term>因事罷者<pc>，</pc>陳乞轉官<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
 <pc>，</pc>指射差遣<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>
@@ -343,7 +360,8 @@
 <num value="1">一</num>人</measure>
 <pc>。</pc>
 <num value="3">三</num>路<pc>、</pc>廣桂<term>安撫使</term>
-<pc>、</pc>知成都府<pc>、</pc>
+<pc>、</pc>知<placeName>成都府</placeName>
+<pc>、</pc>
 <placeName>梓州</placeName>差遣<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
 <pc>，</pc>親孫<pc>、</pc>子循<num value="1">一</num>資<pc>。</pc>廣南轉運<pc>、</pc>提點刑獄奏子孫或期親合入官<measure quantity="1" unit="people">
@@ -444,7 +462,8 @@
 </p>
 </div>
 <div>
-<p>政和間<pc>，</pc>尚書省定<pc>《</pc>
+<p>政和間<pc>，</pc>
+<term>尚書</term>省定<pc>《</pc>
 <title>回授格</title>
 <pc>》</pc>
 <pc>，</pc>謂無官可轉<pc>，</pc>或可轉而官高不欲轉<pc>，</pc>或事大而功效顯著為<num value="1">一</num>格<pc>，</pc>許奏補內外白身有服親<pc>；</pc>官有止法不可轉<pc>，</pc>功績次著為<num value="1">一</num>格<pc>，</pc>許奏本宗白身袒免親<pc>；</pc>官不甚高<pc>、</pc>而功績大為<num value="1">一</num>格<pc>，</pc>許奏本宗白身有服親<pc>；</pc>官不甚高<pc>、</pc>功不甚大為<num value="1">一</num>格<pc>，</pc>而分為<num value="3">三</num>
@@ -456,9 +475,11 @@
 </div>
 <div>
 <p>
+<date when="1120">
 <date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>殿中侍<term>禦史</term>張汝舟言<pc>：</pc>
 <pc>“</pc>
 <quote>今法所該補奏<pc>，</pc>與先朝同<pc>。</pc>昔之官至大夫<pc>，</pc>曆官不下<measure quantity="150" unit="years">
@@ -471,7 +492,8 @@
 <num value="20">二十</num>年</measure>
 <pc>，</pc>皆未許蔭補<pc>；</pc>雖已經奏薦<pc>，</pc>再遇郊恩年仍未及者<pc>，</pc>亦寢其奏<pc>，</pc>庶抑其濫<pc>。</pc>至於文武官及大夫以上嚐求休致<pc>，</pc>而身謝在出敕前<pc>，</pc>欲並許奏蔭<pc>，</pc>以補其不及<pc>。</pc>
 </quote>
-<pc>”</pc>尚書省文武官致仕<pc>，</pc>雖不及受敕<pc>，</pc>若無曾受蔭人<pc>，</pc>自有遺表恩<pc>。</pc>又寺<pc>、</pc>監長貳至開封少尹<pc>，</pc>係用職事蔭補<pc>，</pc>不合限年<pc>。</pc>餘從之<pc>。</pc>
+<pc>”</pc>
+<term>尚書</term>省文武官致仕<pc>，</pc>雖不及受敕<pc>，</pc>若無曾受蔭人<pc>，</pc>自有遺表恩<pc>。</pc>又寺<pc>、</pc>監長貳至開封少尹<pc>，</pc>係用職事蔭補<pc>，</pc>不合限年<pc>。</pc>餘從之<pc>。</pc>
 </p>
 </div>
 <div>
@@ -614,7 +636,7 @@
 <term>禦史</term>台<pc>、</pc>
 <num value="9">九</num>寺<pc>、</pc>
 <num value="3">三</num>監<pc>、</pc>金吾司<pc>、</pc>
-<num value="4">四</num>方館職掌<pc>，</pc>每歲遣近臣與判銓曹<pc>，</pc>就尚書同試律<num value="3">三</num>道<pc>，</pc>中者補正名<pc>，</pc>理勞考<pc>。</pc>
+<num value="4">四</num>方館職掌<pc>，</pc>每歲遣近臣與判銓曹<pc>，</pc>就<term>尚書</term>同試律<num value="3">三</num>道<pc>，</pc>中者補正名<pc>，</pc>理勞考<pc>。</pc>
 <num value="3">三</num>館<pc>、</pc>秘閣楷書<pc>，</pc>皆本司試書劄<pc>，</pc>中書覆試<pc>，</pc>補受<pc>。</pc>後以就試多懷挾傳授<pc>，</pc>乃鎖院<pc>、</pc>巡搜<pc>、</pc>糊名<pc>。</pc>凡試<num value="100">百</num>司吏人<pc>，</pc>問律及疏<pc>，</pc>既考合格<pc>，</pc>複令口誦所對<pc>，</pc>以妨其弊<pc>。</pc>其自敘勞績<pc>，</pc>臣僚為之陳請<pc>，</pc>特免口誦<pc>，</pc>謂之<pc>“</pc>
 <quote>優試</quote>
 <pc>”</pc>
@@ -697,7 +719,7 @@
 </quote>
 <pc>”</pc>堂後官多為奸髒<pc>，</pc>欲更用士之在令<pc>、</pc>錄<pc>、</pc>簿<pc>、</pc>尉選者充之<pc>；</pc>或不屑就<pc>，</pc>而所選不及數<pc>，</pc>乃如舊製<pc>。</pc>
 <date notBefore="984" notAfter="987">雍熙</date>時<pc>，</pc>以堂後官充職事官<pc>，</pc>入謝外不赴朝參<pc>，</pc>見<term>宰相</term>禮同胥吏<pc>。</pc>
-<date notBefore="988" notAfter="989">端拱</date>初<pc>，</pc>以河南府法曹參軍梁正辭<pc>、</pc>楚丘縣主簿喬蔚等<measure quantity="5" unit="people">
+<date notBefore="988" notAfter="989">端拱</date>初<pc>，</pc>以<placeName>河南府</placeName>法曹參軍梁正辭<pc>、</pc>楚丘縣主簿喬蔚等<measure quantity="5" unit="people">
 <num value="5">五</num>人</measure>為將作監丞<pc>，</pc>充中書堂後官<pc>，</pc>拔選人授京官為堂吏<pc>，</pc>自此始<pc>。</pc>
 </p>
 </div>

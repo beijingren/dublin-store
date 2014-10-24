@@ -507,7 +507,7 @@
 </p>
 </div>
 <div>
-<p>　　迥博學好古<pc>，</pc>朱熹深禮敬之<pc>。</pc>其後江陵府學教授<placeName>廬陵</placeName>彭應龍<pc>，</pc>既注<pc>《</pc>
+<p>　　迥博學好古<pc>，</pc>朱熹深禮敬之<pc>。</pc>其後<placeName>江陵府</placeName>學教授<placeName>廬陵</placeName>彭應龍<pc>，</pc>既注<pc>《</pc>
 <title>漢·律曆志</title>
 <pc>》</pc>
 <pc>，</pc>設為問答<pc>，</pc>著<pc>《</pc>
@@ -618,11 +618,9 @@
 <pc>，</pc>乃為進朔<pc>，</pc>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>大盡<pc>。</pc>
-<date when="1129">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>
-</date>定<measure quantity="11" unit="months">
+<num value="3">三</num>年</measure>定<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <measure quantity="30" unit="days">
 <num value="30">三十</num>日</measure>
@@ -635,9 +633,11 @@
 <num value="11">十一</num>日</measure>
 <pc>，</pc>若即用遠大寒戌日定之<pc>，</pc>庶不出<measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<pc>。</pc>如<date notBefore="1119" notAfter="1125">宣和</date>
+<pc>。</pc>如<date when="1123">
+<date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
+</date>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <measure quantity="27" unit="days">
@@ -790,7 +790,7 @@
 <pc>「</pc>
 <quote>造曆必先立表測景驗氣<pc>，</pc>庶幾精密<pc>。</pc>
 </quote>
-<pc>」</pc>判太史局吳澤私于孝榮<pc>，</pc>且言銅表難成<pc>、</pc>木表易壞以沮之<pc>。</pc>乃詔禮部尚書周執羔提領改造新曆<pc>，</pc>執羔亦謂測景驗氣<pc>，</pc>經涉歲月<pc>。</pc>孝榮乃采<num value="10000">萬</num>分曆<pc>，</pc>作<num value="30000">三萬</num>分以為日法<pc>，</pc>號<pc>《</pc>
+<pc>」</pc>判太史局吳澤私于孝榮<pc>，</pc>且言銅表難成<pc>、</pc>木表易壞以沮之<pc>。</pc>乃詔禮部<term>尚書</term>周執羔提領改造新曆<pc>，</pc>執羔亦謂測景驗氣<pc>，</pc>經涉歲月<pc>。</pc>孝榮乃采<num value="10000">萬</num>分曆<pc>，</pc>作<num value="30000">三萬</num>分以為日法<pc>，</pc>號<pc>《</pc>
 <title>
 <num value="7">七</num>曜細行曆</title>
 <pc>》</pc>
@@ -973,7 +973,7 @@
 </p>
 </div>
 <div>
-<p>　　又詔時與尚書禮部<term>員外郎</term>李燾同測驗<pc>，</pc>時等言<pc>：</pc>
+<p>　　又詔時與<term>尚書</term>禮部<term>員外郎</term>李燾同測驗<pc>，</pc>時等言<pc>：</pc>
 <pc>「</pc>
 <quote>先究<pc>《</pc>
 <title>統元</title>

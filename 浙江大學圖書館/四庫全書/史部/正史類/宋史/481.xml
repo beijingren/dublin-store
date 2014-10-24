@@ -42,9 +42,11 @@
 <pc>”</pc>
 <pc>，</pc>字書不載<pc>，</pc>蓋其妄作也<pc>。</pc>晉天福<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
-<pc>，</pc>卒<pc>，</pc>子玢嗣<pc>，</pc>為弟晟所殺<pc>。</pc>晟遂自立<pc>，</pc>性尤酷暴<pc>，</pc>周<date notBefore="954" notAfter="960">顯德</date>
+<pc>，</pc>卒<pc>，</pc>子玢嗣<pc>，</pc>為弟晟所殺<pc>。</pc>晟遂自立<pc>，</pc>性尤酷暴<pc>，</pc>周<date when="958">
+<date notBefore="954" notAfter="960">顯德</date>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
+</date>
 <pc>，</pc>卒<pc>，</pc>事具<pc>《</pc>
 <title>
 <date notBefore="9999" notAfter="9999">
@@ -65,7 +67,8 @@
 <pc>，</pc>女官亦有師傅<pc>、</pc>令仆之號<pc>。</pc>目<num value="100">百</num>官為<pc>“</pc>
 <quote>門外人</quote>
 <pc>”</pc>
-<pc>，</pc>群臣小過及士人<pc>、</pc>釋<pc>、</pc>道有才略可備問者<pc>，</pc>皆下蠶室<pc>，</pc>令得出入宮闈<pc>。</pc>作燒煮剝剔<pc>、</pc>刀山劍樹之刑<pc>，</pc>或令罪人鬥虎抵象<pc>。</pc>又賦斂煩重<pc>，</pc>邕民入城者人輸<num value="1">一</num>錢<pc>，</pc>瓊州米鬥稅<num value="20">四五</num>錢<pc>。</pc>置媚川都<pc>，</pc>定其課<pc>，</pc>令入海<num value="500">五百</num>尺采珠<pc>。</pc>所居宮殿以珠<pc>、</pc>玳瑁飾之<pc>。</pc>陳延壽作諸淫巧<pc>，</pc>日費數<num value="10000">萬</num>金<pc>。</pc>宮城左右離宮數<num value="10">十</num>
+<pc>，</pc>群臣小過及士人<pc>、</pc>釋<pc>、</pc>道有才略可備問者<pc>，</pc>皆下蠶室<pc>，</pc>令得出入宮闈<pc>。</pc>作燒煮剝剔<pc>、</pc>刀山劍樹之刑<pc>，</pc>或令罪人鬥虎抵象<pc>。</pc>又賦斂煩重<pc>，</pc>邕民入城者人輸<num value="1">一</num>錢<pc>，</pc>
+<placeName>瓊州</placeName>米鬥稅<num value="20">四五</num>錢<pc>。</pc>置媚川都<pc>，</pc>定其課<pc>，</pc>令入海<num value="500">五百</num>尺采珠<pc>。</pc>所居宮殿以珠<pc>、</pc>玳瑁飾之<pc>。</pc>陳延壽作諸淫巧<pc>，</pc>日費數<num value="10000">萬</num>金<pc>。</pc>宮城左右離宮數<num value="10">十</num>
 <pc>，</pc>鋹遊幸常至月餘或旬日<pc>。</pc>以豪民為課戶<pc>，</pc>供宴犒之費<pc>。</pc>
 </p>
 </div>
@@ -181,9 +184,11 @@
 </div>
 <div>
 <p>
+<date when="970">
 <date notBefore="968" notAfter="976">開寶</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>太祖命<placeName>潭州</placeName>
 <term>防禦使</term>
 <persName>潘美</persName>
@@ -276,7 +281,7 @@
 </div>
 <div>
 <p>至京<pc>，</pc>舍於<placeName>玉津園</placeName>
-<pc>，</pc>太祖遣參知政事呂餘慶問鋹翻覆及焚府庫之罪<pc>，</pc>鋹歸罪澄樞<pc>、</pc>托<pc>、</pc>崇譽<pc>。</pc>翌日<pc>，</pc>有司以帛係鋹及其官屬獻太廟<pc>、</pc>太社<pc>。</pc>太祖禦明德門<pc>，</pc>遣攝刑部尚書盧多遜宣詔責鋹<pc>，</pc>鋹對曰<pc>：</pc>
+<pc>，</pc>太祖遣<term>參知政事</term>呂餘慶問鋹翻覆及焚府庫之罪<pc>，</pc>鋹歸罪澄樞<pc>、</pc>托<pc>、</pc>崇譽<pc>。</pc>翌日<pc>，</pc>有司以帛係鋹及其官屬獻太廟<pc>、</pc>太社<pc>。</pc>太祖禦明德門<pc>，</pc>遣攝刑部<term>尚書</term>盧多遜宣詔責鋹<pc>，</pc>鋹對曰<pc>：</pc>
 <pc>“</pc>
 <quote>臣年<num value="16">十六</num>僭偽位<pc>，</pc>澄樞等皆先臣舊人<pc>，</pc>每事臣不得專<pc>，</pc>在國時臣是臣下<pc>，</pc>澄樞是國主<pc>。</pc>
 </quote>
@@ -426,7 +431,9 @@
 </div>
 <div>
 <p>潘崇徹<pc>，</pc>
-<placeName>廣州</placeName>南海人<pc>。</pc>事為內侍省局丞<pc>。</pc>頗讀兵書<pc>，</pc>立戰功<pc>。</pc>晟嚐遣大將吳懷恩伐<placeName>桂州</placeName>平之<pc>，</pc>懷恩為部下所殺<pc>，</pc>命崇徹代之<pc>。</pc>鋹襲位<pc>，</pc>加西北麵都統<pc>。</pc>歲餘<pc>，</pc>鋹頗疑崇徹<pc>，</pc>遣薛宗譽使其軍以察之<pc>。</pc>崇譽還<pc>，</pc>遂白崇徹日以伶人<num value="100">百</num>餘衣錦繡<pc>、</pc>吹玉笛<pc>，</pc>為長夜之飲<pc>，</pc>不恤軍政<pc>。</pc>鋹怒<pc>，</pc>召歸<pc>，</pc>奪其兵柄<pc>，</pc>自是居常怏怏<pc>。</pc>太祖命師度嶺<pc>，</pc>鋹複命崇徹領兵<num value="50000">五萬</num>戍賀江<pc>，</pc>崇徹不為效命<pc>。</pc>鋹敗<pc>，</pc>至京<pc>，</pc>太祖知其事<pc>，</pc>特赦之<pc>，</pc>授<placeName>汝州</placeName>別駕<pc>，</pc>卒<pc>。</pc>
+<placeName>廣州</placeName>南海人<pc>。</pc>事為內侍省局丞<pc>。</pc>頗讀兵書<pc>，</pc>立戰功<pc>。</pc>晟嚐遣大將吳懷恩伐<placeName>桂州</placeName>平之<pc>，</pc>懷恩為部下所殺<pc>，</pc>命崇徹代之<pc>。</pc>鋹襲位<pc>，</pc>加西北麵都統<pc>。</pc>歲餘<pc>，</pc>鋹頗疑崇徹<pc>，</pc>遣薛宗譽使其軍以察之<pc>。</pc>崇譽還<pc>，</pc>遂白崇徹日以伶人<num value="100">百</num>餘衣錦繡<pc>、</pc>吹玉笛<pc>，</pc>為長夜之飲<pc>，</pc>不恤軍政<pc>。</pc>鋹怒<pc>，</pc>召歸<pc>，</pc>奪其兵柄<pc>，</pc>自是居常怏怏<pc>。</pc>太祖命師度嶺<pc>，</pc>鋹複命崇徹領兵<num value="50000">五萬</num>戍賀江<pc>，</pc>崇徹不為效命<pc>。</pc>鋹敗<pc>，</pc>至京<pc>，</pc>太祖知其事<pc>，</pc>特赦之<pc>，</pc>授<placeName>汝州</placeName>
+<term>別駕</term>
+<pc>，</pc>卒<pc>。</pc>
 </p>
 </div>
 </div>

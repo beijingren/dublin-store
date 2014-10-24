@@ -48,9 +48,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1119" notAfter="1125">宣和</date>
+<p>　　<date when="1120">
+<date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>方臘反<pc>、</pc>江<pc>、</pc>浙震動<pc>，</pc>調兵<num value="4">四</num>方<pc>，</pc>
 <name key="韓世忠" type="givenName">世忠</name>以偏將從王淵討之<pc>。</pc>次<placeName>杭州</placeName>
 <pc>，</pc>賊奄至<pc>，</pc>勢張甚<pc>，</pc>大將惶怖無策<pc>。</pc>
@@ -131,11 +133,9 @@
 </p>
 </div>
 <div>
-<p>　　<date when="1128">
-<date notBefore="1127" notAfter="1130">建炎</date>
+<p>　　<date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>升定國軍承宣使<pc>。</pc>帝如<placeName>揚州</placeName>
 <pc>，</pc>
 <name key="韓世忠" type="givenName">世忠</name>以所部從<pc>。</pc>時張遇自金山來降<pc>，</pc>抵城下<pc>，</pc>不解甲<pc>，</pc>人心危懼<pc>，</pc>
@@ -147,7 +147,7 @@
 </div>
 <div>
 <p>　　金人再攻河南<pc>，</pc>翟進合<name key="韓世忠" type="givenName">世忠</name>兵夜襲悟室營<pc>，</pc>不克<pc>，</pc>反為所敗<pc>。</pc>會丁進失期<pc>，</pc>陳思恭先遁<pc>，</pc>
-<name key="韓世忠" type="givenName">世忠</name>被矢如棘<pc>，</pc>力戰得免<pc>。</pc>還汴<pc>，</pc>詰<num value="1">一</num>軍之先退者皆斬<pc>，</pc>左右懼<pc>。</pc>進由是與<name key="韓世忠" type="givenName">世忠</name>有隙<pc>，</pc>尋以叛誅<pc>。</pc>召<name key="韓世忠" type="givenName">世忠</name>還<pc>，</pc>授鄜延路副總管<pc>，</pc>加平寇左將軍<pc>，</pc>屯淮陽<pc>，</pc>會山東兵拒敵<pc>。</pc>粘罕聞<name key="韓世忠" type="givenName">世忠</name>扼淮陽<pc>，</pc>乃分兵<measure quantity="10000" unit="people">
+<name key="韓世忠" type="givenName">世忠</name>被矢如棘<pc>，</pc>力戰得免<pc>。</pc>還汴<pc>，</pc>詰<num value="1">一</num>軍之先退者皆斬<pc>，</pc>左右懼<pc>。</pc>進由是與<name key="韓世忠" type="givenName">世忠</name>有隙<pc>，</pc>尋以叛誅<pc>。</pc>召<name key="韓世忠" type="givenName">世忠</name>還<pc>，</pc>授<placeName>鄜延路</placeName>副總管<pc>，</pc>加平寇左將軍<pc>，</pc>屯淮陽<pc>，</pc>會山東兵拒敵<pc>。</pc>粘罕聞<name key="韓世忠" type="givenName">世忠</name>扼淮陽<pc>，</pc>乃分兵<measure quantity="10000" unit="people">
 <num value="10000">萬</num>人</measure>趨<placeName>揚州</placeName>
 <pc>，</pc>自以大軍迎<name key="韓世忠" type="givenName">世忠</name>戰<pc>。</pc>
 <name key="韓世忠" type="givenName">世忠</name>不敵<pc>，</pc>夜引歸<pc>，</pc>敵躡之<pc>，</pc>軍潰于沐陽<pc>，</pc>閤門宣贊舍人張遇死之<pc>。</pc>
@@ -612,7 +612,8 @@
 </p>
 </div>
 <div>
-<p>　　子彥直<pc>、</pc>彥質<pc>、</pc>彥古<pc>，</pc>皆以才見用<pc>。</pc>彥古戶部尚書<pc>。</pc>
+<p>　　子彥直<pc>、</pc>彥質<pc>、</pc>彥古<pc>，</pc>皆以才見用<pc>。</pc>彥古戶部<term>尚書</term>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -686,9 +687,11 @@
 <p>　　會當遣使于金<pc>，</pc>在廷相顧莫肯先<pc>，</pc>帝親擇以往<pc>，</pc>聞命慨然就道<pc>。</pc>方入境<pc>，</pc>金使蒲察問接國書事<pc>，</pc>論難往復數<num value="10">十</num>
 <pc>，</pc>蒲察理屈<pc>，</pc>因笑曰<pc>：</pc>
 <pc>「</pc>
-<quote>尚書能力為主<pc>。</pc>
+<quote>
+<term>尚書</term>能力為主<pc>。</pc>
 </quote>
-<pc>」</pc>既至<pc>，</pc>幾罹禍者數<pc>，</pc>守節不屈<pc>，</pc>金卒禮遣之<pc>，</pc>帝嘉歎<pc>。</pc>遷吏部侍郎<pc>，</pc>尋權工部尚書<pc>，</pc>複中大夫<pc>，</pc>改工部尚書兼知臨安府<pc>。</pc>方控辭<pc>，</pc>以言罷<pc>，</pc>提舉<date notBefore="976" notAfter="984">太平興國</date>宮<pc>，</pc>尋提舉佑神觀<pc>、</pc>奉朝請<pc>。</pc>
+<pc>」</pc>既至<pc>，</pc>幾罹禍者數<pc>，</pc>守節不屈<pc>，</pc>金卒禮遣之<pc>，</pc>帝嘉歎<pc>。</pc>遷吏部侍郎<pc>，</pc>尋權工部<term>尚書</term>
+<pc>，</pc>複中大夫<pc>，</pc>改工部<term>尚書</term>兼知臨安府<pc>。</pc>方控辭<pc>，</pc>以言罷<pc>，</pc>提舉<date notBefore="976" notAfter="984">太平興國</date>宮<pc>，</pc>尋提舉佑神觀<pc>、</pc>奉朝請<pc>。</pc>
 </p>
 </div>
 <div>
@@ -702,7 +705,8 @@
 <div>
 <p>　　淳熙<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>夏旱<pc>，</pc>應詔言<pc>，</pc>邇者濫刑<pc>，</pc>為致旱之由<pc>。</pc>明年<pc>，</pc>入對<pc>，</pc>論<num value="3">三</num>衙皆所以拱扈宸居<pc>，</pc>而司馬乃遠在數<measure quantity="100" unit="LIs">
-<num value="100">百</num>里</measure>外<pc>，</pc>乞令歸司<pc>。</pc>久之<pc>，</pc>再為戶部尚書<pc>。</pc>會歲旱<pc>，</pc>乞廣糴為先備<pc>。</pc>又乞追貶部曲曾誣陷岳飛者<pc>，</pc>以慰忠魂<pc>。</pc>以言降充敷文閣學士<pc>。</pc>帝追感<name key="韓世忠" type="givenName">世忠</name>元勳<pc>，</pc>遣使諭彥直<pc>，</pc>且謂彥直有才力<pc>，</pc>言者誣之<pc>。</pc>彥直感泣奏謝<pc>。</pc>尋提舉<num value="10000">萬</num>壽觀<pc>，</pc>有疾<pc>，</pc>帝賜之藥<pc>。</pc>進顯謨閣學士<pc>、</pc>提舉<num value="10000">萬</num>壽觀<pc>。</pc>
+<num value="100">百</num>里</measure>外<pc>，</pc>乞令歸司<pc>。</pc>久之<pc>，</pc>再為戶部<term>尚書</term>
+<pc>。</pc>會歲旱<pc>，</pc>乞廣糴為先備<pc>。</pc>又乞追貶部曲曾誣陷岳飛者<pc>，</pc>以慰忠魂<pc>。</pc>以言降充敷文閣學士<pc>。</pc>帝追感<name key="韓世忠" type="givenName">世忠</name>元勳<pc>，</pc>遣使諭彥直<pc>，</pc>且謂彥直有才力<pc>，</pc>言者誣之<pc>。</pc>彥直感泣奏謝<pc>。</pc>尋提舉<num value="10000">萬</num>壽觀<pc>，</pc>有疾<pc>，</pc>帝賜之藥<pc>。</pc>進顯謨閣學士<pc>、</pc>提舉<num value="10000">萬</num>壽觀<pc>。</pc>
 </p>
 </div>
 <div>
@@ -711,7 +715,7 @@
 <pc>》</pc>
 <pc>，</pc>為書<measure quantity="67" unit="chapters">
 <num value="67">百六十七</num>卷</measure>
-<pc>。</pc>禮部尚書尤袤修國史<pc>，</pc>白於朝<pc>，</pc>下取是書以進<pc>，</pc>光宗覽之<pc>，</pc>稱善<pc>。</pc>進龍圖閣學士<pc>、</pc>提舉<num value="10000">萬</num>壽觀<pc>，</pc>轉光祿大夫致仕<pc>。</pc>卒<pc>，</pc>特贈開府儀同<num value="3">三</num>司<pc>，</pc>賜銀絹<num value="900">九百</num>
+<pc>。</pc>禮部<term>尚書</term>尤袤修國史<pc>，</pc>白於朝<pc>，</pc>下取是書以進<pc>，</pc>光宗覽之<pc>，</pc>稱善<pc>。</pc>進龍圖閣學士<pc>、</pc>提舉<num value="10000">萬</num>壽觀<pc>，</pc>轉光祿大夫致仕<pc>。</pc>卒<pc>，</pc>特贈開府儀同<num value="3">三</num>司<pc>，</pc>賜銀絹<num value="900">九百</num>
 <pc>，</pc>爵至蘄春郡公<pc>。</pc>
 </p>
 </div>

@@ -42,9 +42,11 @@
 </div>
 <div>
 <p>
+<date when="1122">
 <date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <pc>，</pc>真定宣撫劉韐募敢戰士<pc>，</pc>
 <name key="岳飛" type="givenName">飛</name>應募<pc>。</pc>相有劇賊陶俊<pc>、</pc>賈進和<pc>，</pc>
 <name key="岳飛" type="givenName">飛</name>請<measure quantity="100" unit="riders">
@@ -522,7 +524,8 @@
 </div>
 <div>
 <p>
-<name key="岳飛" type="givenName">飛</name>遂如鼎州<pc>。</pc>黃佐招楊欽來降<pc>，</pc>
+<name key="岳飛" type="givenName">飛</name>遂如<placeName>鼎州</placeName>
+<pc>。</pc>黃佐招楊欽來降<pc>，</pc>
 <name key="岳飛" type="givenName">飛</name>喜曰<pc>：</pc>
 <pc>「</pc>
 <quote>楊欽驍悍<pc>，</pc>既降<pc>，</pc>賊腹心潰矣<pc>。</pc>
@@ -675,7 +678,7 @@
 <name key="岳飛" type="givenName">飛</name>曰<pc>：</pc>
 <pc>「</pc>
 <quote>德與瓊素不相下<pc>，</pc>
-<num value="1">一</num>旦揠之在上<pc>，</pc>則必爭<pc>。</pc>呂尚書不習軍旅<pc>，</pc>恐不足服衆<pc>。</pc>
+<num value="1">一</num>旦揠之在上<pc>，</pc>則必爭<pc>。</pc>呂<term>尚書</term>不習軍旅<pc>，</pc>恐不足服衆<pc>。</pc>
 </quote>
 <pc>」</pc>浚曰<pc>：</pc>
 <pc>「</pc>
@@ -812,7 +815,8 @@
 <pc>「</pc>
 <quote>先正國本以安人心<pc>，</pc>然後不常厥居<pc>，</pc>以示無忘復讎之意<pc>。</pc>
 </quote>
-<pc>」</pc>帝得奏<pc>，</pc>大褒其忠<pc>，</pc>授少保<pc>，</pc>河南府路<pc>、</pc>陝西<pc>、</pc>河東北路招討使<pc>，</pc>尋改河南<pc>、</pc>北諸路招討使<pc>。</pc>未幾<pc>，</pc>所遣諸將相繼奏捷<pc>。</pc>大軍在穎昌<pc>，</pc>諸將分道出戰<pc>，</pc>
+<pc>」</pc>帝得奏<pc>，</pc>大褒其忠<pc>，</pc>授少保<pc>，</pc>
+<placeName>河南府</placeName>路<pc>、</pc>陝西<pc>、</pc>河東北路招討使<pc>，</pc>尋改河南<pc>、</pc>北諸路招討使<pc>。</pc>未幾<pc>，</pc>所遣諸將相繼奏捷<pc>。</pc>大軍在穎昌<pc>，</pc>諸將分道出戰<pc>，</pc>
 <name key="岳飛" type="givenName">飛</name>自以輕騎駐郾城<pc>，</pc>兵勢甚銳<pc>。</pc>
 </p>
 </div>
@@ -971,7 +975,7 @@
 <name key="岳飛" type="givenName">飛</name>獨後<pc>，</pc>檜又用參政王次翁計<pc>，</pc>俟之<measure quantity="42" unit="days">
 <num value="42">六七</num>日</measure>
 <pc>。</pc>既至<pc>，</pc>授<term>樞密副使</term>
-<pc>，</pc>位參知政事上<pc>，</pc>
+<pc>，</pc>位<term>參知政事</term>上<pc>，</pc>
 <name key="岳飛" type="givenName">飛</name>固請還兵柄<pc>。</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>

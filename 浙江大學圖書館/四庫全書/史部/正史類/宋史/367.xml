@@ -98,7 +98,8 @@
 <div>
 <p>　　顯忠引兵至延安<pc>，</pc>總管趙惟清大呼曰<pc>：</pc>
 <pc>「</pc>
-<quote>鄜延路今複歸宋矣<pc>，</pc>已有赦書<pc>。</pc>
+<quote>
+<placeName>鄜延路</placeName>今複歸宋矣<pc>，</pc>已有赦書<pc>。</pc>
 </quote>
 <pc>」</pc>顯忠與官吏觀赦書列拜<pc>，</pc>顯忠大哭<pc>，</pc>眾皆哭<pc>，</pc>
 <num value="100">百</num>姓哭聲不絕<pc>。</pc>乃以舊部<num value="800">八百</num>餘騎往見王樞<pc>、</pc>訛<pc>，</pc>諭之曰<pc>：</pc>
@@ -290,11 +291,9 @@
 </p>
 </div>
 <div>
-<p>　　<date when="1128">
-<date notBefore="1127" notAfter="1130">建炎</date>
+<p>　　<date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>討賊徐明於嘉興<pc>，</pc>先登<pc>。</pc>主帥將屠城<pc>，</pc>存中力諫止之<pc>，</pc>戮其渠魁而已<pc>，</pc>郡賴以全<pc>。</pc>遷<placeName>榮州</placeName>
 <term>刺史</term>
 <pc>。</pc>高宗南渡<pc>，</pc>以勝捷軍從張俊守吳門<pc>；</pc>苗<pc>、</pc>劉之變<pc>，</pc>又從俊赴難<pc>。</pc>遷<placeName>貴州</placeName>
@@ -349,7 +348,7 @@
 <p>　　<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>
-<placeName>嚴州</placeName>妖賊繆羅據白馬源<pc>，</pc>殺王官<pc>，</pc>存中討平之<pc>。</pc>除帶禦器械<pc>，</pc>加保信軍承宣使<pc>、</pc>權發遣鄜延路馬步軍副總管<pc>。</pc>
+<placeName>嚴州</placeName>妖賊繆羅據白馬源<pc>，</pc>殺王官<pc>，</pc>存中討平之<pc>。</pc>除帶禦器械<pc>，</pc>加保信軍承宣使<pc>、</pc>權發遣<placeName>鄜延路</placeName>馬步軍副總管<pc>。</pc>
 </p>
 </div>
 <div>
@@ -594,7 +593,7 @@
 <div>
 <p>　　<persName>郭浩</persName>
 <pc>，</pc>字<name key="郭浩" type="zi">充道</name>
-<pc>，</pc>德順軍隴幹人<pc>。</pc>父任<num value="3">三</num>班奉職<pc>。</pc>徽宗時<pc>，</pc>充環慶路第<num value="5">五</num>將部將<pc>，</pc>嘗率<measure quantity="100" unit="riders">
+<pc>，</pc>德順軍隴幹人<pc>。</pc>父任<num value="3">三</num>班奉職<pc>。</pc>徽宗時<pc>，</pc>充<placeName>環慶路</placeName>第<num value="5">五</num>將部將<pc>，</pc>嘗率<measure quantity="100" unit="riders">
 <num value="100">百</num>騎</measure>抵<placeName>靈州</placeName>城下<pc>，</pc>夏人以<measure quantity="1000" unit="riders">
 <num value="1000">千</num>騎</measure>追之<pc>，</pc>
 <name key="郭浩" type="givenName">浩</name>手斬<measure quantity="2" unit="riders">
@@ -619,7 +618,8 @@
 <pc>「</pc>
 <quote>臣在任已聞警<pc>，</pc>慮夏人必乘間盜邊<pc>，</pc>願選將設備<pc>。</pc>
 </quote>
-<pc>」</pc>已而果攻涇原路<pc>，</pc>取西<placeName>安州</placeName>
+<pc>」</pc>已而果攻<placeName>涇原路</placeName>
+<pc>，</pc>取西<placeName>安州</placeName>
 <pc>、</pc>懷德軍<pc>。</pc>
 <date notBefore="1094" notAfter="1098">紹聖</date>開拓之地<pc>，</pc>複盡失之<pc>。</pc>種師中制置河東<pc>，</pc>辟以自隨<pc>。</pc>
 </p>
@@ -637,7 +637,7 @@
 <quote>為語汝將曰<pc>，</pc>我郭<name key="郭浩" type="givenName">浩</name>也<pc>，</pc>欲戰即來決戰<pc>。</pc>
 </quote>
 <pc>」</pc>金人遂引去<pc>。</pc>升本路兵馬<term>鈐轄</term>
-<pc>、</pc>知涇州<pc>、</pc>權主管鄜延路經略安撫<pc>。</pc>
+<pc>、</pc>知涇州<pc>、</pc>權主管<placeName>鄜延路</placeName>經略安撫<pc>。</pc>
 </p>
 </div>
 <div>
@@ -645,17 +645,18 @@
 <name key="郭浩" type="givenName">浩</name>間道之德靜<pc>，</pc>置司招收散亡<pc>，</pc>與敵對壘<pc>，</pc>
 <measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>
-<pc>，</pc>敵不能犯<pc>。</pc>再除涇原路兵馬<term>鈐轄</term>
+<pc>，</pc>敵不能犯<pc>。</pc>再除<placeName>涇原路</placeName>兵馬<term>鈐轄</term>
 <pc>、</pc>知涇州<pc>。</pc>
 <name key="郭浩" type="givenName">浩</name>去<pc>，</pc>夏人複來<pc>，</pc>權帥耿友諒僅以身免<pc>，</pc>
 <num value="1">一</num>路盡陷<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　張浚為宣撫處置使<pc>，</pc>以<name key="郭浩" type="givenName">浩</name>為秦鳳路提點刑獄<pc>、</pc>權經略使<pc>、</pc>知<placeName>秦州</placeName>
+<p>　　張浚為宣撫處置使<pc>，</pc>以<name key="郭浩" type="givenName">浩</name>為<placeName>秦鳳路</placeName>提點刑獄<pc>、</pc>權經略使<pc>、</pc>知<placeName>秦州</placeName>
 <pc>。</pc>時浚經略陝西<pc>，</pc>有言敵可討者<pc>，</pc>浚意向之<pc>。</pc>諸帥恥于不武<pc>，</pc>莫敢出言<pc>。</pc>浚檄<num value="5">五</num>路帥悉所部兵會于富平<pc>，</pc>
 <name key="郭浩" type="givenName">浩</name>獨謂敵鋒方銳<pc>，</pc>且當分守其地<pc>，</pc>掎角相援<pc>，</pc>俟釁而動<pc>。</pc>浚不聽<pc>，</pc>師出果敗<pc>，</pc>
-<num value="5">五</num>路俱陷<pc>，</pc>帥府皆徙置他所<pc>。</pc>浚複以<name key="郭浩" type="givenName">浩</name>舊官移知鳳翔府<pc>，</pc>寓治寶雞縣<pc>，</pc>又退保和尚原<pc>。</pc>金人抵原下<pc>，</pc>
+<num value="5">五</num>路俱陷<pc>，</pc>帥府皆徙置他所<pc>。</pc>浚複以<name key="郭浩" type="givenName">浩</name>舊官移知<placeName>鳳翔府</placeName>
+<pc>，</pc>寓治寶雞縣<pc>，</pc>又退保和尚原<pc>。</pc>金人抵原下<pc>，</pc>
 <name key="郭浩" type="givenName">浩</name>與吳玠隨方捍禦<pc>，</pc>蜀以安全<pc>。</pc>第功<pc>，</pc>遷正任<term>防禦使</term>
 <pc>。</pc>
 </p>
@@ -664,7 +665,8 @@
 <p>　　紹興元年<pc>，</pc>金人破饒風嶺<pc>，</pc>盜梁<pc>、</pc>洋<pc>，</pc>入鳳州<pc>，</pc>攻和尚原<pc>。</pc>
 <name key="郭浩" type="givenName">浩</name>與吳璘往援<pc>，</pc>斬獲<num value="10000">萬</num>計<pc>。</pc>遷<placeName>邠州</placeName>
 <term>觀察使</term>
-<pc>，</pc>徙知興元府<pc>。</pc>饑民相聚米倉山為亂<pc>，</pc>
+<pc>，</pc>徙知<placeName>興元府</placeName>
+<pc>。</pc>饑民相聚米倉山為亂<pc>，</pc>
 <name key="郭浩" type="givenName">浩</name>討平之<pc>。</pc>徙知<placeName>利州</placeName>
 <pc>。</pc>金人以步騎<num value="10">十</num>余<num value="10000">萬</num>破和尚原<pc>，</pc>進窺川口<pc>，</pc>抵殺金平<pc>，</pc>
 <name key="郭浩" type="givenName">浩</name>與吳玠大破之<pc>。</pc>遷彰武軍承宣使<pc>。</pc>玠按本路提點刑獄宋<measure quantity="10000" unit="years">
@@ -677,7 +679,8 @@
 <name key="郭浩" type="givenName">浩</name>獨積贏錢<num value="100000">十萬</num>緡以助戶部<pc>，</pc>朝廷嘉之<pc>，</pc>凡有奏請<pc>，</pc>得以直達<pc>。</pc>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
-<pc>，</pc>改金<pc>、</pc>洋<pc>、</pc>房州節制<pc>。</pc>
+<pc>，</pc>改金<pc>、</pc>洋<pc>、</pc>
+<placeName>房州</placeName>節制<pc>。</pc>
 </p>
 </div>
 <div>
@@ -688,7 +691,8 @@
 <num value="10">十</num>年</measure>
 <pc>，</pc>拜奉國軍<term>節度使</term>
 <pc>。</pc>
-<num value="5">五</num>路陷<pc>，</pc>徙知夔州<pc>，</pc>未行<pc>，</pc>移知<placeName>金州</placeName>
+<num value="5">五</num>路陷<pc>，</pc>徙知<placeName>夔州</placeName>
+<pc>，</pc>未行<pc>，</pc>移知<placeName>金州</placeName>
 <pc>，</pc>仍永興路經略<term>安撫使</term>
 <pc>、</pc>節制陝西河東兼措置河東路忠義軍馬<pc>。</pc>
 <measure quantity="11" unit="years">
@@ -721,9 +725,11 @@
 <pc>，</pc>字<name key="楊政" type="zi">直夫</name>
 <pc>，</pc>
 <placeName>原州</placeName>臨涇人<pc>。</pc>
+<date when="1104">
 <date notBefore="1102" notAfter="1106">崇甯</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>夏人舉國大入<pc>，</pc>父忠戰歿<pc>，</pc>
 <name key="楊政" type="givenName">政</name>甫<num value="7">七</num>歲<pc>，</pc>哀號如成人<pc>。</pc>其母奇之<pc>，</pc>曰<pc>：</pc>
 <pc>「</pc>
@@ -784,7 +790,8 @@
 <pc>」</pc>玠用其言<pc>。</pc>金人變態多端<pc>，</pc>
 <name key="楊政" type="givenName">政</name>隨機應之<pc>，</pc>連日<num value="100">百</num>余戰<pc>。</pc>敵帥督戰益急<pc>，</pc>
 <name key="楊政" type="givenName">政</name>命卒以神臂弓射之<pc>；</pc>又選甲士<num value="1000">千</num>餘出山谷<pc>，</pc>斷其兵<pc>，</pc>使不得進退<pc>；</pc>又出敵不意<pc>，</pc>夜斫其營<pc>。</pc>敵遂遁去<pc>，</pc>追至河池而還<pc>。</pc>授龍神衛<num value="4">四</num>廂<term>都指揮使</term>
-<pc>、</pc>環慶路經略<term>安撫使</term>
+<pc>、</pc>
+<placeName>環慶路</placeName>經略<term>安撫使</term>
 <pc>。</pc>
 </p>
 </div>
@@ -806,7 +813,7 @@
 <pc>，</pc>徙<placeName>利州</placeName>
 <pc>，</pc>又徙興元<pc>。</pc>會金人渝盟<pc>，</pc>
 <name key="楊政" type="givenName">政</name>建迎敵之策<pc>，</pc>兼川<pc>、</pc>陝宣撫副使司都統制<pc>。</pc>
-<name key="楊政" type="givenName">政</name>偕統制楊從義劫金人於鳳翔府城南砦<pc>，</pc>敗之<pc>，</pc>獲戰馬數<num value="100">百</num>
+<name key="楊政" type="givenName">政</name>偕統制楊從義劫金人於<placeName>鳳翔府</placeName>城南砦<pc>，</pc>敗之<pc>，</pc>獲戰馬數<num value="100">百</num>
 <pc>。</pc>母卒<pc>，</pc>起複<pc>，</pc>遂帥師趣寶雞渭水上<pc>，</pc>以拒敵沖<pc>，</pc>凡大戰<num value="7">七</num>
 <pc>，</pc>斬獲甚多<pc>。</pc>川<pc>、</pc>陝宣撫副使胡世將奏<pc>：</pc>
 <pc>「</pc>
@@ -841,7 +848,8 @@
 <measure quantity="14" unit="years">
 <num value="14">十四</num>年</measure>
 <pc>，</pc>分<placeName>利州</placeName>為東西兩路<pc>，</pc>
-<name key="楊政" type="givenName">政</name>屯興元府<pc>。</pc>久之<pc>，</pc>拜太尉<pc>。</pc>
+<name key="楊政" type="givenName">政</name>屯<placeName>興元府</placeName>
+<pc>。</pc>久之<pc>，</pc>拜太尉<pc>。</pc>
 <measure quantity="27" unit="years">
 <num value="27">二十七</num>年</measure>
 <pc>，</pc>卒<pc>，</pc>年<num value="60">六十</num>

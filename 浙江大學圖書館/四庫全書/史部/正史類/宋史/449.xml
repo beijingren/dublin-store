@@ -39,7 +39,7 @@
 <placeName>撫州</placeName>臨川人<pc>。</pc>登政和<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>進士第<pc>。</pc>曆確山主簿<pc>、</pc>仙居丞<pc>，</pc>累遷承議郎<pc>、</pc>幹辦審計司<pc>。</pc>
 <num value="2">二</num>帝北行<pc>，</pc>高宗將遣使通問<pc>，</pc>廷臣以前使者相繼受係<pc>，</pc>莫肯往<pc>。</pc>
-<name key="崔縱" type="givenName">縱</name>毅然請行<pc>，</pc>乃授朝請大夫<pc>、</pc>右文殿修撰<pc>、</pc>試工部尚書以行<pc>。</pc>比至<pc>，</pc>首以大義責金人<pc>，</pc>請還<num value="2">二</num>帝<pc>，</pc>又<num value="3">三</num>遺之書<pc>。</pc>金人怒<pc>，</pc>徙之窮荒<pc>，</pc>
+<name key="崔縱" type="givenName">縱</name>毅然請行<pc>，</pc>乃授朝請大夫<pc>、</pc>右文殿修撰<pc>、</pc>試工部<term>尚書</term>以行<pc>。</pc>比至<pc>，</pc>首以大義責金人<pc>，</pc>請還<num value="2">二</num>帝<pc>，</pc>又<num value="3">三</num>遺之書<pc>。</pc>金人怒<pc>，</pc>徙之窮荒<pc>，</pc>
 <name key="崔縱" type="givenName">縱</name>不少屈<pc>。</pc>久之<pc>，</pc>金人許南使自陳而聽其還<pc>，</pc>
 <name key="崔縱" type="givenName">縱</name>以王事未畢不忍言<pc>。</pc>又以官爵誘之<pc>，</pc>
 <name key="崔縱" type="givenName">縱</name>以恚恨成疾<pc>，</pc>竟握節以死<pc>。</pc>洪皓<pc>、</pc>張邵還<pc>，</pc>遂歸<name key="崔縱" type="givenName">縱</name>之骨<pc>。</pc>詔以兄子延年為後<pc>。</pc>
@@ -61,9 +61,11 @@
 <persName>林衝之</persName>
 <pc>，</pc>字<name key="林衝之" type="zi">和叔</name>
 <pc>，</pc>興化軍莆田人<pc>。</pc>
+<date when="1100">
 <date notBefore="1098" notAfter="1100">元符</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>進士<pc>，</pc>曆<term>禦史</term>台檢法官<pc>、</pc>大宗正丞<pc>，</pc>都官<pc>、</pc>金部郎<pc>，</pc>滯省寺者<measure quantity="10" unit="years">
+<num value="3">三</num>年</measure>
+</date>進士<pc>，</pc>曆<term>禦史</term>台檢法官<pc>、</pc>大宗正丞<pc>，</pc>都官<pc>、</pc>金部郎<pc>，</pc>滯省寺者<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
 <pc>。</pc>出守臨江<pc>、</pc>南康<pc>。</pc>
 </p>
@@ -82,9 +84,11 @@
 </div>
 <div>
 <p>鬱字襲休<pc>，</pc>
+<date when="1121">
 <date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>進士<pc>，</pc>再調福建茶司幹官<pc>。</pc>
+<num value="3">三</num>年</measure>
+</date>進士<pc>，</pc>再調福建茶司幹官<pc>。</pc>
 <placeName>建州</placeName>勤王卒自京師還<pc>，</pc>求卸甲錢<pc>，</pc>郡守逃匿<pc>，</pc>卒鼓噪取庫兵為亂<pc>，</pc>殺<term>轉運使</term>毛奎<pc>、</pc>轉運判官曾仔<pc>、</pc>主管文字沈升<pc>。</pc>鬱聞變急入諭卒<pc>，</pc>遇害<pc>。</pc>事聞<pc>，</pc>詔各與<num value="1">一</num>子官<pc>。</pc>
 </p>
 </div>
@@ -135,12 +139,11 @@
 <div>
 <p>魏行可<pc>，</pc>
 <placeName>建州</placeName>建安人<pc>。</pc>
-<date when="1128">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
-<pc>，</pc>以太學生應募奉使<pc>，</pc>補右奉議郎<pc>，</pc>假朝奉大夫<pc>、</pc>尚書禮部侍郎<pc>，</pc>充河北金人軍前通問使<pc>，</pc>仍命兼河北<pc>、</pc>京畿撫諭使<pc>。</pc>時河北紅巾賊甚眾<pc>，</pc>行可始懼為所攻<pc>，</pc>既而見使旌<pc>，</pc>皆引去<pc>。</pc>行可渡河見金人於澶淵<pc>，</pc>金人知其布衣借官<pc>，</pc>待之甚薄<pc>，</pc>因留不遣<pc>。</pc>行可嚐貽書金人<pc>，</pc>警以<pc>“</pc>
+<pc>，</pc>以太學生應募奉使<pc>，</pc>補右奉議郎<pc>，</pc>假朝奉大夫<pc>、</pc>
+<term>尚書</term>禮部侍郎<pc>，</pc>充河北金人軍前通問使<pc>，</pc>仍命兼河北<pc>、</pc>京畿撫諭使<pc>。</pc>時河北紅巾賊甚眾<pc>，</pc>行可始懼為所攻<pc>，</pc>既而見使旌<pc>，</pc>皆引去<pc>。</pc>行可渡河見金人於澶淵<pc>，</pc>金人知其布衣借官<pc>，</pc>待之甚薄<pc>，</pc>因留不遣<pc>。</pc>行可嚐貽書金人<pc>，</pc>警以<pc>“</pc>
 <quote>不戢自焚</quote>
 <pc>”</pc>之禍<pc>：</pc>
 <pc>“</pc>
@@ -291,12 +294,13 @@
 <div>
 <p>
 <persName>楊震仲</persName>字<name key="楊震仲" type="zi">革父</name>
-<pc>，</pc>成都府人<pc>。</pc>蚤負氣節<pc>，</pc>雅有誌當世<pc>。</pc>登淳熙<measure quantity="2" unit="years">
+<pc>，</pc>
+<placeName>成都府</placeName>人<pc>。</pc>蚤負氣節<pc>，</pc>雅有誌當世<pc>。</pc>登淳熙<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>進士第<pc>。</pc>知<placeName>閬州</placeName>新井縣<pc>，</pc>以惠政聞<pc>。</pc>
 </p>
 </div>
 <div>
-<p>辟興元府通判<pc>，</pc>權大安軍<pc>。</pc>吳曦叛<pc>，</pc>素聞<name key="楊震仲" type="givenName">震仲</name>名<pc>，</pc>馳檄招之<pc>，</pc>
+<p>辟<placeName>興元府</placeName>通判<pc>，</pc>權大安軍<pc>。</pc>吳曦叛<pc>，</pc>素聞<name key="楊震仲" type="givenName">震仲</name>名<pc>，</pc>馳檄招之<pc>，</pc>
 <name key="楊震仲" type="givenName">震仲</name>辭疾不行<pc>。</pc>時軍教授史次秦亦被檄<pc>，</pc>謀於<name key="楊震仲" type="givenName">震仲</name>
 <pc>，</pc>
 <name key="楊震仲" type="givenName">震仲</name>曰<pc>：</pc>
@@ -401,7 +405,8 @@
 </p>
 </div>
 <div>
-<p>如淵以便宜命<name key="高稼" type="givenName">稼</name>利路提刑司兼權興元府<pc>，</pc>製置司檄其守米倉<pc>，</pc>
+<p>如淵以便宜命<name key="高稼" type="givenName">稼</name>利路提刑司兼權<placeName>興元府</placeName>
+<pc>，</pc>製置司檄其守米倉<pc>，</pc>
 <name key="高稼" type="givenName">稼</name>移書曰<pc>：</pc>
 <pc>“</pc>
 <quote>今日之事如弈棋<pc>，</pc>所校者先後爾<pc>。</pc>苟以分水<pc>、</pc>
@@ -797,7 +802,8 @@
 <num value="4">四</num>年</measure>
 <pc>，</pc>沔州都統胡世全護糧運至虎象山<pc>，</pc>遇敵兵戰敗死<pc>。</pc>鹹淳<measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-<pc>，</pc>北兵取開州<pc>，</pc>守將龐彥海死之<pc>。</pc>德祐元年<pc>，</pc>瀘守梅應春殺判官李丁孫<pc>、</pc>推官唐奎瑞以城降<pc>，</pc>珍州守將江彥清巷戰死之<pc>。</pc>
+<pc>，</pc>北兵取<placeName>開州</placeName>
+<pc>，</pc>守將龐彥海死之<pc>。</pc>德祐元年<pc>，</pc>瀘守梅應春殺判官李丁孫<pc>、</pc>推官唐奎瑞以城降<pc>，</pc>珍州守將江彥清巷戰死之<pc>。</pc>
 </p>
 </div>
 <div>

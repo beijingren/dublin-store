@@ -126,9 +126,11 @@
 <div>
 <p>　　<persName>吳表臣</persName>
 <pc>，</pc>字<name key="吳表臣" type="zi">正仲</name>
-<pc>，</pc>永嘉人<pc>。</pc>登<date notBefore="1107" notAfter="1110">大觀</date>
+<pc>，</pc>永嘉人<pc>。</pc>登<date when="1109">
+<date notBefore="1107" notAfter="1110">大觀</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>進士第<pc>，</pc>擢通州司理<pc>。</pc>陳瓘謫居郡中<pc>，</pc>
+<num value="3">三</num>年</measure>
+</date>進士第<pc>，</pc>擢通州司理<pc>。</pc>陳瓘謫居郡中<pc>，</pc>
 <num value="1">一</num>見而器之<pc>。</pc>盛章者<pc>，</pc>朱勔黨也<pc>，</pc>嘗市婢<pc>，</pc>有武臣強取之<pc>，</pc>章誣以罪<pc>，</pc>系獄<pc>。</pc>
 <name key="吳表臣" type="givenName">表臣</name>方鞫之<pc>，</pc>郡將曰<pc>：</pc>
 <pc>「</pc>
@@ -187,7 +189,7 @@
 <quote>
 <num value="2">二</num>國公誦習甚進<pc>，</pc>卿力也<pc>。</pc>
 </quote>
-<pc>」</pc>徙禮部侍郎<pc>，</pc>遷吏部尚書兼翰林學士<pc>。</pc>時秦檜欲使使金議地界<pc>，</pc>指政事堂曰<pc>：</pc>
+<pc>」</pc>徙禮部侍郎<pc>，</pc>遷吏部<term>尚書</term>兼翰林學士<pc>。</pc>時秦檜欲使使金議地界<pc>，</pc>指政事堂曰<pc>：</pc>
 <pc>「</pc>
 <quote>歸來可坐此<pc>。</pc>
 </quote>
@@ -501,7 +503,7 @@
 <quote>金兩遣使<pc>，</pc>直許講和<pc>，</pc>非畏我而然<pc>，</pc>安知其非誘我也<pc>。</pc>且謂之屈己<pc>，</pc>則<num value="1">一</num>事既屈<pc>，</pc>必以他事來屈我<pc>。</pc>今所遣使以詔諭為名<pc>，</pc>儻欲陛下易服拜受<pc>，</pc>又欲分廷抗禮<pc>，</pc>還可從乎<pc>？</pc>苟從其<num value="2">一二</num>
 <pc>，</pc>則此後可以號令我<pc>，</pc>小有違異<pc>，</pc>即成釁端<pc>，</pc>社稷存亡<pc>，</pc>皆在其掌握矣<pc>。</pc>
 </quote>
-<pc>」</pc>時秦檜方力贊屈己之說<pc>，</pc>外議群起<pc>，</pc>計雖定而未敢行<pc>。</pc>勾龍如淵說檜<pc>，</pc>宜擇人為台官<pc>，</pc>使擊去異論<pc>，</pc>則事遂矣<pc>。</pc>於是如淵<pc>、</pc>施廷臣<pc>、</pc>莫將皆據要地<pc>，</pc>人皆駭愕<pc>。</pc>敦複同尚書張燾上疏言<pc>：</pc>
+<pc>」</pc>時秦檜方力贊屈己之說<pc>，</pc>外議群起<pc>，</pc>計雖定而未敢行<pc>。</pc>勾龍如淵說檜<pc>，</pc>宜擇人為台官<pc>，</pc>使擊去異論<pc>，</pc>則事遂矣<pc>。</pc>於是如淵<pc>、</pc>施廷臣<pc>、</pc>莫將皆據要地<pc>，</pc>人皆駭愕<pc>。</pc>敦複同<term>尚書</term>張燾上疏言<pc>：</pc>
 <pc>「</pc>
 <quote>前日如淵以附會和議得中丞<pc>，</pc>今施廷臣又以此躋橫榻<pc>，</pc>眾論沸騰<pc>，</pc>方且切齒<pc>，</pc>莫將又以此擢右史<pc>。</pc>夫如淵<pc>、</pc>廷臣庸人<pc>，</pc>但知觀望<pc>，</pc>將則奸人也<pc>，</pc>陛下奈何與此輩斷國論乎<pc>？</pc>乞加斥逐<pc>，</pc>杜群枉門<pc>，</pc>力為自治自強之策<pc>。</pc>
 </quote>
@@ -534,7 +536,7 @@
 </p>
 </div>
 <div>
-<p>　　權吏部尚書兼江<pc>、</pc>淮等路經制使<pc>。</pc>故事<pc>，</pc>侍從過<term>宰相</term>閣<pc>，</pc>既退<pc>，</pc>
+<p>　　權吏部<term>尚書</term>兼江<pc>、</pc>淮等路經制使<pc>。</pc>故事<pc>，</pc>侍從過<term>宰相</term>閣<pc>，</pc>既退<pc>，</pc>
 <term>宰相</term>必送數步<pc>。</pc>敦複見檜未嘗送<pc>，</pc>每曰<pc>：</pc>
 <pc>「</pc>
 <quote>人必自侮而後人侮之<pc>。</pc>
@@ -555,16 +557,18 @@
 <p>　　<persName>黃龜年</persName>
 <pc>，</pc>字<name key="黃龜年" type="zi">德邵</name>
 <pc>，</pc>
-<placeName>福州</placeName>永福人<pc>。</pc>登<date notBefore="1102" notAfter="1106">崇甯</date>
+<placeName>福州</placeName>永福人<pc>。</pc>登<date when="1106">
+<date notBefore="1102" notAfter="1106">崇甯</date>
 <measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>進士第<pc>，</pc>調<placeName>洺州</placeName>司理參軍<pc>，</pc>累官河北西路提舉學士<pc>。</pc>呂頤浩見而奇之<pc>，</pc>入為<term>太常博士</term>
+<num value="5">五</num>年</measure>
+</date>進士第<pc>，</pc>調<placeName>洺州</placeName>司理參軍<pc>，</pc>累官河北西路提舉學士<pc>。</pc>呂頤浩見而奇之<pc>，</pc>入為<term>太常博士</term>
 <pc>。</pc>
 </p>
 </div>
 <div>
 <p>　　靖康元年<pc>，</pc>除吏部<term>員外郎</term>
 <pc>，</pc>拜監察<term>禦史</term>
-<pc>，</pc>尋除尚書左司<term>員外郎</term>
+<pc>，</pc>尋除<term>尚書</term>左司<term>員外郎</term>
 <pc>、</pc>中書門下檢正房公事<pc>，</pc>充修政局檢討官<pc>。</pc>乞令檢正官察通進司<pc>，</pc>帝從其請<pc>。</pc>時頤浩再相<pc>，</pc>植党傾秦檜<pc>，</pc>引朱勝非奉京祠兼侍讀<pc>，</pc>恐<term>中書舍人</term>胡安國持錄黃不下<pc>，</pc>特命<name key="黃龜年" type="givenName">龜年</name>書行<pc>，</pc>議者譏其侵官<pc>。</pc>
 </p>
 </div>
@@ -759,7 +763,8 @@
 <measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>之說<pc>，</pc>願陛下早夜毋忘<pc>。</pc>
 </quote>
-<pc>」</pc>除兵部尚書<pc>。</pc>
+<pc>」</pc>除兵部<term>尚書</term>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -804,9 +809,11 @@
 </p>
 </div>
 <div>
-<p>　　登<date notBefore="1119" notAfter="1125">宣和</date>
+<p>　　登<date when="1124">
+<date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="6" unit="years">
-<num value="6">六</num>年</measure>進士第<pc>，</pc>調<placeName>嚴州</placeName>兵曹掾兼治右獄<pc>。</pc>時方臘作亂<pc>，</pc>
+<num value="6">六</num>年</measure>
+</date>進士第<pc>，</pc>調<placeName>嚴州</placeName>兵曹掾兼治右獄<pc>。</pc>時方臘作亂<pc>，</pc>
 <name key="張闡" type="givenName">闡</name>倡守禦計<pc>。</pc>有義士請身督戰<pc>，</pc>既戰<pc>，</pc>稍卻<pc>，</pc>州將怒<pc>，</pc>付<name key="張闡" type="givenName">闡</name>治<pc>，</pc>將殺之<pc>，</pc>
 <name key="張闡" type="givenName">闡</name>力爭曰<pc>：</pc>
 <pc>「</pc>
@@ -980,7 +987,7 @@
 <pc>「</pc>
 <quote>卿言是也<pc>。</pc>
 </quote>
-<pc>」</pc>頃之<pc>，</pc>除工部尚書兼侍讀<pc>。</pc>
+<pc>」</pc>頃之<pc>，</pc>除工部<term>尚書</term>兼侍讀<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1012,7 +1019,8 @@
 <div>
 <p>　　朱熹嘗言<pc>：</pc>
 <pc>「</pc>
-<quote>秦檜挾敵要君<pc>，</pc>力主和議<pc>，</pc>群言勃勃不平<pc>。</pc>檜既摧折忠臣義士之氣<pc>，</pc>遂使士大夫懷安成習<pc>。</pc>至<num value="20">癸未</num>和議<pc>，</pc>則知其非者鮮矣<pc>。</pc>朝論間有建白<pc>，</pc>率雜言利害<pc>，</pc>其言金人世仇不可和者<pc>，</pc>惟胡右史銓<pc>、</pc>張尚書<name key="張闡" type="givenName">闡</name>耳<pc>。</pc>
+<quote>秦檜挾敵要君<pc>，</pc>力主和議<pc>，</pc>群言勃勃不平<pc>。</pc>檜既摧折忠臣義士之氣<pc>，</pc>遂使士大夫懷安成習<pc>。</pc>至<num value="20">癸未</num>和議<pc>，</pc>則知其非者鮮矣<pc>。</pc>朝論間有建白<pc>，</pc>率雜言利害<pc>，</pc>其言金人世仇不可和者<pc>，</pc>惟胡右史銓<pc>、</pc>張<term>尚書</term>
+<name key="張闡" type="givenName">闡</name>耳<pc>。</pc>
 </quote>
 <pc>」</pc>子叔椿<pc>。</pc>
 </p>
@@ -1046,8 +1054,10 @@
 </p>
 </div>
 <div>
-<p>　　遷給事中<pc>、</pc>吏部尚書<pc>，</pc>言者以擬未嘗曆州縣<pc>，</pc>以龍圖閣待制知溫州<pc>。</pc>
-<term>宣撫使</term>孟庾總師討閩寇<pc>，</pc>過郡<pc>，</pc>擬趣使赴援<pc>。</pc>庾怒<pc>，</pc>命擬犒師<pc>。</pc>擬借封椿錢用之<pc>，</pc>已乃自劾<pc>。</pc>賊平<pc>，</pc>加秩<num value="1">一</num>等<pc>，</pc>召為禮部尚書<pc>，</pc>遷吏部<pc>。</pc>
+<p>　　遷給事中<pc>、</pc>吏部<term>尚書</term>
+<pc>，</pc>言者以擬未嘗曆州縣<pc>，</pc>以龍圖閣待制知溫州<pc>。</pc>
+<term>宣撫使</term>孟庾總師討閩寇<pc>，</pc>過郡<pc>，</pc>擬趣使赴援<pc>。</pc>庾怒<pc>，</pc>命擬犒師<pc>。</pc>擬借封椿錢用之<pc>，</pc>已乃自劾<pc>。</pc>賊平<pc>，</pc>加秩<num value="1">一</num>等<pc>，</pc>召為禮部<term>尚書</term>
+<pc>，</pc>遷吏部<pc>。</pc>
 </p>
 </div>
 <div>

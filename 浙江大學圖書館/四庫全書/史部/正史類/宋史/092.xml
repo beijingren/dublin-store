@@ -24,9 +24,11 @@
 <body>
 <div type="chapter" n="92">
 <div>
-<p>　　<date notBefore="1068" notAfter="1077">熙甯</date>
+<p>　　<date when="1071">
+<date notBefore="1068" notAfter="1077">熙甯</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <num value="28">辛卯</num>
@@ -105,7 +107,7 @@
 <quote>勞人以除害<pc>，</pc>所謂毒天下之民而從之者<pc>。</pc>
 </quote>
 <pc>」</pc>帝乃許春首興工<pc>，</pc>而賞懷信以度僧牒<num value="15">十五</num>道<pc>，</pc>公義與堂除<pc>；</pc>以杷法下北京<pc>，</pc>令虞部<term>員外郎</term>
-<pc>、</pc>都大提舉大名府界金堤範子淵與通判<pc>、</pc>知縣共試驗之<pc>，</pc>皆言不可用<pc>。</pc>會子淵以事至京師<pc>，</pc>安石問其故<pc>，</pc>子淵意附會<pc>，</pc>遽曰<pc>：</pc>
+<pc>、</pc>都大提舉<placeName>大名府</placeName>界金堤範子淵與通判<pc>、</pc>知縣共試驗之<pc>，</pc>皆言不可用<pc>。</pc>會子淵以事至京師<pc>，</pc>安石問其故<pc>，</pc>子淵意附會<pc>，</pc>遽曰<pc>：</pc>
 <pc>「</pc>
 <quote>法誠善<pc>，</pc>第同官議不合耳<pc>。</pc>
 </quote>
@@ -163,9 +165,11 @@
 <num value="1">正</num>月</num>
 </measure>嘗奏<pc>：</pc>
 <placeName>德州</placeName>河底淤澱<pc>，</pc>泄水稽滯<pc>，</pc>上流必至壅遏<pc>。</pc>又河勢變移<pc>，</pc>
-<num value="4">四</num>散漫流<pc>，</pc>兩岸俱被水患<pc>，</pc>若不預為經制<pc>，</pc>必溢魏<pc>、</pc>博<pc>、</pc>恩<pc>、</pc>澶等州之境<pc>。</pc>而都水略無施設<pc>，</pc>止固護東流北岸而已<pc>。</pc>適累年河流低下<pc>，</pc>官吏希省費之賞<pc>，</pc>未嘗增修堤岸<pc>，</pc>大名諸埽<pc>，</pc>皆可憂虞<pc>。</pc>謂如曹村<num value="1">一</num>埽<pc>，</pc>自<date notBefore="1068" notAfter="1077">熙寧</date>
+<num value="4">四</num>散漫流<pc>，</pc>兩岸俱被水患<pc>，</pc>若不預為經制<pc>，</pc>必溢魏<pc>、</pc>博<pc>、</pc>恩<pc>、</pc>澶等州之境<pc>。</pc>而都水略無施設<pc>，</pc>止固護東流北岸而已<pc>。</pc>適累年河流低下<pc>，</pc>官吏希省費之賞<pc>，</pc>未嘗增修堤岸<pc>，</pc>大名諸埽<pc>，</pc>皆可憂虞<pc>。</pc>謂如曹村<num value="1">一</num>埽<pc>，</pc>自<date when="1075">
+<date notBefore="1068" notAfter="1077">熙寧</date>
 <measure quantity="8" unit="years">
-<num value="8">八</num>年</measure>至今<measure quantity="3" unit="years">
+<num value="8">八</num>年</measure>
+</date>至今<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
 <pc>，</pc>雖每計春料當培低怯<pc>，</pc>而有司未嘗如約<pc>，</pc>其埽兵又皆給他役<pc>，</pc>實在者<num value="10">十</num>有<num value="56">七八</num>
 <pc>。</pc>今者果大決溢<pc>，</pc>此非天災<pc>，</pc>實人力不至也<pc>。</pc>臣前論此<pc>，</pc>並乞審擇水官<pc>。</pc>今河朔<pc>、</pc>京東州縣<pc>，</pc>人被患者莫知其數<pc>，</pc>嗷嗷籲天<pc>，</pc>上軫聖念<pc>，</pc>而水官不能自訟<pc>，</pc>猶汲汲希賞<pc>。</pc>臣前論所陳<pc>，</pc>出於至誠<pc>，</pc>本圖補報<pc>，</pc>非敢激訐也<pc>。</pc>
@@ -369,9 +373,11 @@
 <term>禦史</term>呂陶劾其<pc>「</pc>
 <quote>修堤開河<pc>，</pc>縻費巨<num value="10000">萬</num>
 <pc>，</pc>護堤壓埽之人<pc>，</pc>溺死無數<pc>。</pc>
+<date when="1083">
 <date notBefore="1078" notAfter="1085">元豐</date>
 <measure quantity="6" unit="years">
-<num value="6">六</num>年</measure>興役<pc>，</pc>至<measure quantity="7" unit="years">
+<num value="6">六</num>年</measure>
+</date>興役<pc>，</pc>至<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>功用不成<pc>。</pc>乞行廢放<pc>。</pc>
 </quote>
 <pc>」</pc>於是黜知<placeName>兗州</placeName>
@@ -482,7 +488,7 @@
 </div>
 <div>
 <p>　　<term>中書舍人</term>
-<persName>蘇轍</persName>謂右僕射呂公著曰<pc>：</pc>
+<persName>蘇轍</persName>謂<term>右僕射</term>呂公著曰<pc>：</pc>
 <pc>「</pc>
 <quote>河決而北<pc>，</pc>先帝不能回<pc>，</pc>而諸公欲回之<pc>，</pc>是自謂智勇勢力過先帝也<pc>。</pc>盍因其舊而修其未備乎<pc>？</pc>
 </quote>
@@ -523,7 +529,8 @@
 <pc>「</pc>
 <quote>聖人有<num value="3">三</num>寶<pc>：</pc>曰慈<pc>，</pc>曰儉<pc>，</pc>曰不敢為天下先<pc>。</pc>蓋天下大勢<pc>，</pc>惟人君所向<pc>，</pc>群下競趨如川流山摧<pc>，</pc>小失其道<pc>，</pc>非<num value="1">一</num>言<num value="1">一</num>力可回<pc>，</pc>故居上者不可不謹也<pc>。</pc>今聖意已有所向而為天下先矣<pc>。</pc>乞諭執政<pc>：</pc>'前日降出文字<pc>，</pc>卻且進入<pc>。</pc>'免希合之臣<pc>，</pc>妄測聖意<pc>，</pc>輕舉大役<pc>。</pc>
 </quote>
-<pc>」</pc>尚書王存等亦言<pc>：</pc>
+<pc>」</pc>
+<term>尚書</term>王存等亦言<pc>：</pc>
 <pc>「</pc>
 <quote>使大河決可東回<pc>，</pc>而北流遂斷<pc>，</pc>何惜勞民費財<pc>，</pc>以成經久之利<pc>。</pc>今孝先等自未有必然之論<pc>，</pc>但僥倖<num value="1">萬一</num>
 <pc>，</pc>以冀成功<pc>，</pc>又預求免責<pc>，</pc>若遂聽之<pc>，</pc>將有噬臍之悔<pc>。</pc>乞望選公正近臣及忠實內侍<pc>，</pc>覆行按視<pc>，</pc>審度可否<pc>，</pc>興工未晚<pc>。</pc>
@@ -663,7 +670,8 @@
 <p>　　<measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <num value="55">戊午</num>
-<pc>，</pc>尚書省言<pc>：</pc>
+<pc>，</pc>
+<term>尚書</term>省言<pc>：</pc>
 <pc>「</pc>
 <quote>大河東流<pc>，</pc>為中國之要險<pc>。</pc>自大吳決後<pc>，</pc>由界河入海<pc>，</pc>不惟淤壞塘濼<pc>，</pc>兼濁水入界河<pc>，</pc>向去淺澱<pc>，</pc>則河必北流<pc>。</pc>若河尾直注北界入海<pc>，</pc>則中國全失險阻之限<pc>，</pc>不可不為深慮<pc>。</pc>
 </quote>
@@ -681,14 +689,18 @@
 </p>
 </div>
 <div>
-<p>　　自<date notBefore="1078" notAfter="1085">元豐</date>
+<p>　　自<date when="1081">
+<date notBefore="1078" notAfter="1085">元豐</date>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>河出大吳<pc>，</pc>
+<num value="4">四</num>年</measure>
+</date>河出大吳<pc>，</pc>
 <num value="1">一</num>向就下<pc>，</pc>沖入界河<pc>，</pc>行流勢如傾建<pc>。</pc>經今<measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
-<pc>，</pc>不舍晝夜<pc>，</pc>沖刷界河<pc>，</pc>兩岸日漸開闊<pc>，</pc>連底成空<pc>，</pc>趨海之勢甚迅<pc>。</pc>雖遇<date notBefore="1078" notAfter="1085">元豐</date>
+<pc>，</pc>不舍晝夜<pc>，</pc>沖刷界河<pc>，</pc>兩岸日漸開闊<pc>，</pc>連底成空<pc>，</pc>趨海之勢甚迅<pc>。</pc>雖遇<date when="1084">
+<date notBefore="1078" notAfter="1085">元豐</date>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
+</date>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
 <pc>、</pc>
@@ -793,7 +805,8 @@
 <num value="1">正</num>月</num>
 </measure>
 <num value="24">丁亥</num>
-<pc>，</pc>梁燾言<pc>：</pc>
+<pc>，</pc>
+<persName>梁燾</persName>言<pc>：</pc>
 <pc>「</pc>
 <quote>朝廷治河<pc>，</pc>東流北流<pc>，</pc>本無<num value="1">一</num>偏之私<pc>。</pc>今東流未成<pc>，</pc>邊北之州縣未至受患<pc>，</pc>其役可緩<pc>；</pc>北流方悍<pc>，</pc>邊西之州縣<pc>，</pc>日夕可憂<pc>，</pc>其備宜急<pc>。</pc>今傾半天下之力<pc>，</pc>專事東流<pc>，</pc>而不加<num value="1">一</num>夫<num value="1">一</num>草於北流之上<pc>，</pc>得不誤國計乎<pc>！</pc>去年屢決之害<pc>，</pc>全由堤防無備<pc>。</pc>臣願嚴責水官<pc>，</pc>修治北流埽岸<pc>，</pc>使<num value="2">二</num>方均被惻隱之恩<pc>。</pc>
 </quote>

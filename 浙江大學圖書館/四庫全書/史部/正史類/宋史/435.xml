@@ -97,7 +97,8 @@
 <pc>，</pc>字<name key="朱震" type="zi">子發</name>
 <pc>，</pc>荊門軍人<pc>。</pc>登政和進士第<pc>，</pc>仕州縣以廉稱<pc>。</pc>胡安國<num value="1">一</num>見大器之<pc>，</pc>薦於高宗<pc>，</pc>召為司勳<term>員外郎</term>
 <pc>，</pc>
-<name key="朱震" type="givenName">震</name>稱疾不至<pc>。</pc>會江西製置使趙鼎入為參知政事<pc>，</pc>上諮以當世人才<pc>，</pc>鼎曰<pc>：</pc>
+<name key="朱震" type="givenName">震</name>稱疾不至<pc>。</pc>會江西製置使趙鼎入為<term>參知政事</term>
+<pc>，</pc>上諮以當世人才<pc>，</pc>鼎曰<pc>：</pc>
 <pc>“</pc>
 <quote>臣所知朱<name key="朱震" type="givenName">震</name>
 <pc>，</pc>學術深博<pc>，</pc>廉正守道<pc>，</pc>士之冠冕<pc>，</pc>使位講讀<pc>，</pc>必有益於陛下<pc>。</pc>
@@ -154,9 +155,11 @@
 <pc>》</pc>曰<pc>：</pc>‘<quote>譏始不<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>也<pc>。</pc>
 </quote>’<date notBefore="9999" notAfter="9999">國朝</date>
+<date when="1005">
 <date notBefore="1004" notAfter="1007">景德</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>真宗居明德皇後喪<pc>，</pc>既易月而除服<pc>，</pc>明年遂享太廟<pc>，</pc>合祀天地於圜丘<pc>。</pc>當時未行<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>之喪<pc>，</pc>專行以日易月之製可也<pc>，</pc>在今日行之則非也<pc>。</pc>
 <pc>”</pc>詔侍從<pc>、</pc>台諫<pc>、</pc>禮官參議<pc>，</pc>卒用<term>禦史</term>趙渙<pc>、</pc>禮部侍郎陳公輔言<pc>，</pc>大饗明堂<pc>。</pc>
@@ -219,9 +222,11 @@
 <persName>胡安國</persName>
 <pc>，</pc>字<name key="胡安國" type="zi">康侯</name>
 <pc>，</pc>建寧崇安人<pc>。</pc>入太學<pc>，</pc>以程頤之友朱長文及潁川靳裁之為師<pc>。</pc>裁之與論經史大義<pc>，</pc>深奇重之<pc>。</pc>
-<num value="3">三</num>試於禮部<pc>，</pc>中<date notBefore="1094" notAfter="1098">紹聖</date>
+<num value="3">三</num>試於禮部<pc>，</pc>中<date when="1097">
+<date notBefore="1094" notAfter="1098">紹聖</date>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>進士第<pc>。</pc>初<pc>，</pc>廷試考官定其策第<num value="1">一</num>
+<num value="4">四</num>年</measure>
+</date>進士第<pc>。</pc>初<pc>，</pc>廷試考官定其策第<num value="1">一</num>
 <pc>，</pc>宰職以無詆<date notBefore="1086" notAfter="1094">元祐</date>語<pc>，</pc>遂以何昌言冠<pc>，</pc>方天若次之<pc>，</pc>又欲以<term>宰相</term>章惇子次天若<pc>。</pc>時發策大要崇複<date notBefore="1068" notAfter="1077">熙寧</date>
 <pc>、</pc>
 <date notBefore="1078" notAfter="1085">元豐</date>之製<pc>，</pc>
@@ -315,7 +320,8 @@
 </p>
 </div>
 <div>
-<p>葉夢得知應天府<pc>，</pc>坐為蔡京所知<pc>，</pc>落職奉祠<pc>。</pc>
+<p>葉夢得知<placeName>應天府</placeName>
+<pc>，</pc>坐為蔡京所知<pc>，</pc>落職奉祠<pc>。</pc>
 <name key="胡安國" type="givenName">安國</name>言<pc>：</pc>
 <pc>“</pc>
 <quote>京罪已正<pc>，</pc>子孫編置<pc>，</pc>家財沒入<pc>，</pc>已無蔡氏矣<pc>。</pc>則向為京所引者<pc>，</pc>今皆朝廷之人<pc>，</pc>若更指為京黨<pc>，</pc>則人才見棄者眾<pc>，</pc>黨論何時而弭<pc>！</pc>
@@ -670,11 +676,9 @@
 </div>
 <div>
 <p>
-<date when="1129">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <pc>，</pc>高宗幸金陵<pc>，</pc>
 <term>樞密使</term>張浚薦為駕部郎官<pc>，</pc>尋擢起居郎<pc>。</pc>金人南侵<pc>，</pc>詔議移蹕之所<pc>，</pc>寅上書曰<pc>：</pc>
 </p>
@@ -806,14 +810,16 @@
 </p>
 </div>
 <div>
-<p>檜既忌寅<pc>，</pc>雖告老<pc>，</pc>猶憤之<pc>，</pc>坐與李光書譏訕朝政落職<pc>。</pc>右正言章複劾寅不持本生母服不孝<pc>，</pc>諫通鄰好不忠<pc>，</pc>責授<placeName>果州</placeName>團練副使<pc>、</pc>新州安置<pc>。</pc>檜死<pc>，</pc>詔自便<pc>，</pc>尋複其官<pc>。</pc>紹興<measure quantity="21" unit="years">
+<p>檜既忌寅<pc>，</pc>雖告老<pc>，</pc>猶憤之<pc>，</pc>坐與李光書譏訕朝政落職<pc>。</pc>右正言章複劾寅不持本生母服不孝<pc>，</pc>諫通鄰好不忠<pc>，</pc>責授<placeName>果州</placeName>團練副使<pc>、</pc>
+<placeName>新州</placeName>安置<pc>。</pc>檜死<pc>，</pc>詔自便<pc>，</pc>尋複其官<pc>。</pc>紹興<measure quantity="21" unit="years">
 <num value="21">二十一</num>年</measure>卒<pc>，</pc>年<num value="59">五十九</num>
 <pc>。</pc>
 </p>
 </div>
 <div>
 <p>寅誌節豪邁<pc>，</pc>初擢第<pc>，</pc>中書侍郎張邦昌欲以女妻之<pc>，</pc>不許<pc>。</pc>始<pc>，</pc>
-<name key="胡安國" type="givenName">安國</name>頗重秦檜之大節<pc>，</pc>及檜擅國<pc>，</pc>寅遂與之絕<pc>。</pc>新州謫命下<pc>，</pc>即日就道<pc>。</pc>在謫所著<pc>《</pc>
+<name key="胡安國" type="givenName">安國</name>頗重秦檜之大節<pc>，</pc>及檜擅國<pc>，</pc>寅遂與之絕<pc>。</pc>
+<placeName>新州</placeName>謫命下<pc>，</pc>即日就道<pc>。</pc>在謫所著<pc>《</pc>
 <title>讀史管見</title>
 <pc>》</pc>數<num value="100000">十萬</num>言<pc>，</pc>及<pc>《</pc>
 <title>論語詳說</title>

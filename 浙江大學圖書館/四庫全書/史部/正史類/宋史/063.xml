@@ -41,7 +41,8 @@
 <num value="1">正</num>月</num>
 </measure>
 <pc>，</pc>
-<placeName>滑州</placeName>甲仗庫火<pc>。</pc>燔儀門及軍資庫<num value="190">一百九十</num>區<pc>，</pc>兵器<pc>、</pc>錢帛並盡<pc>。</pc>開封府通許鎮民家火<pc>。</pc>燔廬舍<num value="340">三百四十</num>余區<pc>。</pc>
+<placeName>滑州</placeName>甲仗庫火<pc>。</pc>燔儀門及軍資庫<num value="190">一百九十</num>區<pc>，</pc>兵器<pc>、</pc>錢帛並盡<pc>。</pc>
+<placeName>開封府</placeName>通許鎮民家火<pc>。</pc>燔廬舍<num value="340">三百四十</num>余區<pc>。</pc>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <pc>，</pc>
@@ -57,9 +58,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="963" notAfter="968">乾德</date>
+<p>　　<date when="966">
+<date notBefore="963" notAfter="968">乾德</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <pc>，</pc>
@@ -81,9 +84,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="968" notAfter="976">開寶</date>
+<p>　　<date when="970">
+<date notBefore="968" notAfter="976">開寶</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>辰州廨火<pc>，</pc>燔軍資庫<pc>。</pc>
@@ -109,9 +114,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="976" notAfter="984">太平興國</date>
+<p>　　<date when="982">
+<date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
+</date>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>
@@ -146,9 +153,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="990" notAfter="994">淳化</date>
+<p>　　<date when="992">
+<date notBefore="990" notAfter="994">淳化</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <pc>，</pc>
@@ -235,9 +244,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1017" notAfter="1021">天禧</date>
+<p>　　<date when="1018">
+<date notBefore="1017" notAfter="1021">天禧</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="15">戊寅</num>
@@ -290,9 +301,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1034" notAfter="1038">景祐</date>
+<p>　　<date when="1036">
+<date notBefore="1034" notAfter="1038">景祐</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <num value="37">庚子</num>
@@ -305,9 +318,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1038" notAfter="1040">寶元</date>
+<p>　　<date when="1039">
+<date notBefore="1038" notAfter="1040">寶元</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>丁醜<pc>，</pc>
 <placeName>益州</placeName>火<pc>，</pc>焚民廬舍<num value="2000">二千</num>余區<pc>。</pc>
@@ -359,13 +374,16 @@
 <num value="1">正</num>月</num>
 </measure>
 <num value="19">壬午</num>
-<pc>，</pc>江寧府火<pc>。</pc>初<pc>，</pc>李景江南大建宮室<pc>、</pc>府寺<pc>，</pc>其制多仿帝室<pc>，</pc>至是<num value="1">一</num>夕而焚<pc>，</pc>唯玉燭殿獨存<pc>。</pc>
+<pc>，</pc>
+<placeName>江寧府</placeName>火<pc>。</pc>初<pc>，</pc>李景江南大建宮室<pc>、</pc>府寺<pc>，</pc>其制多仿帝室<pc>，</pc>至是<num value="1">一</num>夕而焚<pc>，</pc>唯玉燭殿獨存<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1049" notAfter="1054">皇祐</date>
+<p>　　<date when="1053">
+<date notBefore="1049" notAfter="1054">皇祐</date>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -384,9 +402,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1056" notAfter="1063">嘉祐</date>
+<p>　　<date when="1058">
+<date notBefore="1056" notAfter="1063">嘉祐</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -397,9 +417,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1064" notAfter="1067">治平</date>
+<p>　　<date when="1067">
+<date notBefore="1064" notAfter="1067">治平</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <num value="49">壬子</num>夜<pc>，</pc>睦親宮火<pc>，</pc>焚<num value="900">九百</num>餘間<pc>。</pc>
@@ -408,9 +430,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1068" notAfter="1077">熙寧</date>
+<p>　　<date when="1073">
+<date notBefore="1068" notAfter="1077">熙寧</date>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
+</date>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="33">丙申</num>
@@ -440,7 +464,8 @@
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="13">丙子</num>
-<pc>，</pc>開封府火<pc>。</pc>
+<pc>，</pc>
+<placeName>開封府</placeName>火<pc>。</pc>
 </p>
 </div>
 <div>
@@ -479,18 +504,21 @@
 <num value="6">六</num>年</measure>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<pc>，</pc>開封府火<pc>。</pc>
+<pc>，</pc>
+<placeName>開封府</placeName>火<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1094" notAfter="1098">紹聖</date>
+<p>　　<date when="1096">
+<date notBefore="1094" notAfter="1098">紹聖</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <measure quantity="7" unit="days">
 <num value="7">七</num>日</measure>
-<pc>，</pc>內尚書省火<pc>，</pc>尋撲滅<pc>。</pc>上逾執政<pc>：</pc>禁中屢火<pc>，</pc>方醮禳<pc>，</pc>已罷春宴<pc>，</pc>仍不御垂拱殿<measure quantity="3" unit="days">
+<pc>，</pc>內<term>尚書</term>省火<pc>，</pc>尋撲滅<pc>。</pc>上逾執政<pc>：</pc>禁中屢火<pc>，</pc>方醮禳<pc>，</pc>已罷春宴<pc>，</pc>仍不御垂拱殿<measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>
 <pc>。</pc>
 <measure quantity="4" unit="years">
@@ -537,7 +565,8 @@
 <num value="5">五</num>月</measure>
 <pc>，</pc>封州火<pc>，</pc>延燒公私屋<num value="682">六百八十二</num>間<pc>。</pc>
 <measure quantity="5" unit="months">
-<num value="5">五</num>月</measure>辛醜<pc>，</pc>京師大盈倉火<pc>。</pc>是歲<pc>，</pc>成都府大慈寺<pc>、</pc>溫州<placeName>絳州</placeName>皆火<pc>。</pc>
+<num value="5">五</num>月</measure>辛醜<pc>，</pc>京師大盈倉火<pc>。</pc>是歲<pc>，</pc>
+<placeName>成都府</placeName>大慈寺<pc>、</pc>溫州<placeName>絳州</placeName>皆火<pc>。</pc>
 </p>
 </div>
 <div>
@@ -549,7 +578,8 @@
 <div>
 <p>　　靖康元年<measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<num value="13">丙子</num>夜<pc>，</pc>尚書省火<pc>，</pc>延燒禮<pc>、</pc>祠<pc>、</pc>工<pc>、</pc>刑<pc>、</pc>吏部<pc>，</pc>拆尚書省牌擲火中禳之乃息<pc>。</pc>
+<num value="13">丙子</num>夜<pc>，</pc>
+<term>尚書</term>省火<pc>，</pc>延燒禮<pc>、</pc>祠<pc>、</pc>工<pc>、</pc>刑<pc>、</pc>吏部<pc>，</pc>拆<term>尚書</term>省牌擲火中禳之乃息<pc>。</pc>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
 <measure quantity="3" unit="months">
@@ -725,7 +755,8 @@
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <num value="13">丙子</num>
-<pc>，</pc>夔州大火<pc>，</pc>燔官舍<pc>、</pc>民居<pc>、</pc>寺觀<pc>，</pc>人有死者<pc>。</pc>
+<pc>，</pc>
+<placeName>夔州</placeName>大火<pc>，</pc>燔官舍<pc>、</pc>民居<pc>、</pc>寺觀<pc>，</pc>人有死者<pc>。</pc>
 </p>
 </div>
 <div>
@@ -814,7 +845,8 @@
 <num value="7">七</num>年</measure>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
-<pc>，</pc>江陵府沙市大火<pc>，</pc>燔數<measure quantity="1000" unit="households">
+<pc>，</pc>
+<placeName>江陵府</placeName>沙市大火<pc>，</pc>燔數<measure quantity="1000" unit="households">
 <num value="1000">千</num>家</measure>
 <pc>，</pc>延及船艦<pc>，</pc>死者甚衆<pc>。</pc>
 <measure quantity="8" unit="months">
@@ -843,7 +875,8 @@
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="58">辛酉</num>
-<pc>，</pc>興元府義勝軍壘舍火<pc>。</pc>
+<pc>，</pc>
+<placeName>興元府</placeName>義勝軍壘舍火<pc>。</pc>
 <measure quantity="12" unit="years">
 <num value="12">十二</num>年</measure>
 <measure quantity="8" unit="months">
@@ -864,7 +897,8 @@
 <pc>，</pc>行都寶蓮山民居火<pc>，</pc>延燒<num value="700">七百</num>餘家<pc>，</pc>救焚將校有死者<pc>。</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
-<pc>，</pc>成都府市火<pc>，</pc>燔<num value="10000">萬</num>餘家<pc>。</pc>
+<pc>，</pc>
+<placeName>成都府</placeName>市火<pc>，</pc>燔<num value="10000">萬</num>餘家<pc>。</pc>
 <measure quantity="16" unit="years">
 <num value="16">十六</num>年</measure>
 <measure quantity="9" unit="months">
@@ -983,7 +1017,7 @@
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="4">丁卯</num>
-<pc>，</pc>行都大火<pc>，</pc>燔尚書中書省<pc>、</pc>樞密院<pc>、</pc>
+<pc>，</pc>行都大火<pc>，</pc>燔<term>尚書</term>中書省<pc>、</pc>樞密院<pc>、</pc>
 <num value="6">六</num>部<pc>、</pc>右丞相府<pc>、</pc>制敕糧料院<pc>、</pc>親兵營<pc>、</pc>修內司<pc>，</pc>延及學士院<pc>、</pc>內酒庫<pc>、</pc>內宮門廡<pc>，</pc>夜召禁旅救撲<pc>。</pc>太室撤廟廡<pc>，</pc>遷神主並冊<pc>、</pc>寶于壽慈宮<pc>。</pc>翼日<num value="5">戊辰</num>旦<pc>，</pc>火及和寧門鴟吻<pc>，</pc>禁卒張隆飛梯斧之<pc>，</pc>門以不焚<pc>。</pc>火作時<pc>，</pc>分數道<pc>，</pc>燔<num value="2070">二千七十</num>餘家<pc>。</pc>又翌日<num value="6">己巳</num>
 <pc>，</pc>神主還太室<pc>。</pc>時省部皆寓治驛<pc>、</pc>寺<pc>。</pc>
 <measure quantity="4" unit="months">
@@ -1150,9 +1184,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="963" notAfter="968">乾德</date>
+<p>　　<date when="964">
+<date notBefore="963" notAfter="968">乾德</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>冬<pc>，</pc>無雪<pc>。</pc>
+<num value="2">二</num>年</measure>
+</date>冬<pc>，</pc>無雪<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>冬<pc>，</pc>無雪<pc>。</pc>
 </p>
@@ -1164,9 +1200,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="990" notAfter="994">淳化</date>
+<p>　　<date when="991">
+<date notBefore="990" notAfter="994">淳化</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>冬<pc>，</pc>京師無冰<pc>。</pc>
+<num value="2">二</num>年</measure>
+</date>冬<pc>，</pc>京師無冰<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1176,9 +1214,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1008" notAfter="1016">大中祥符</date>
+<p>　　<date when="1009">
+<date notBefore="1008" notAfter="1016">大中祥符</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>京師冬溫<pc>，</pc>無冰<pc>。</pc>
 </p>
 </div>
@@ -1189,21 +1229,27 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1056" notAfter="1063">嘉祐</date>
+<p>　　<date when="1061">
+<date notBefore="1056" notAfter="1063">嘉祐</date>
 <measure quantity="6" unit="years">
-<num value="6">六</num>年</measure>冬<pc>，</pc>京師無冰<pc>。</pc>
+<num value="6">六</num>年</measure>
+</date>冬<pc>，</pc>京師無冰<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1064" notAfter="1067">治平</date>
+<p>　　<date when="1067">
+<date notBefore="1064" notAfter="1067">治平</date>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>冬<pc>，</pc>無雪<pc>。</pc>
+<num value="4">四</num>年</measure>
+</date>冬<pc>，</pc>無雪<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1078" notAfter="1085">元豐</date>
+<p>　　<date when="1085">
+<date notBefore="1078" notAfter="1085">元豐</date>
 <measure quantity="8" unit="years">
-<num value="8">八</num>年</measure>冬<pc>，</pc>無雪<pc>。</pc>
+<num value="8">八</num>年</measure>
+</date>冬<pc>，</pc>無雪<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1274,9 +1320,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="960" notAfter="963">建隆</date>
+<p>　　<date when="961">
+<date notBefore="960" notAfter="963">建隆</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>
@@ -1284,9 +1332,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="963" notAfter="968">乾德</date>
+<p>　　<date when="966">
+<date notBefore="963" notAfter="968">乾德</date>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>閏<measure quantity="8" unit="months">
+<num value="4">四</num>年</measure>
+</date>閏<measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>黃岡縣民段贊屋柱生紫芝<num value="1">一</num>本<num value="2">二</num>莖<pc>，</pc>知州鄭守忠以獻<pc>。</pc>
 <measure quantity="12" unit="months">
@@ -1295,10 +1345,13 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="968" notAfter="976">開寶</date>
+<p>　　<date when="971">
+<date notBefore="968" notAfter="976">開寶</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-<pc>，</pc>成都府民羅達家生芝<pc>。</pc>
+</date>
+<pc>，</pc>
+<placeName>成都府</placeName>民羅達家生芝<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <measure quantity="1" unit="month">
@@ -1328,9 +1381,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="976" notAfter="984">太平興國</date>
+<p>　　<date when="977">
+<date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>青城縣民家竹<num value="1">一</num>本<pc>，</pc>上分雙莖<pc>。</pc>
@@ -1422,9 +1477,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="984" notAfter="987">雍熙</date>
+<p>　　<date when="985">
+<date notBefore="984" notAfter="987">雍熙</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <pc>，</pc>
@@ -1442,7 +1499,7 @@
 <pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>刑部尚書宋琪家牡丹<num value="3">三</num>華<pc>。</pc>
+<pc>，</pc>刑部<term>尚書</term>宋琪家牡丹<num value="3">三</num>華<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1585,9 +1642,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1004" notAfter="1007">景德</date>
+<p>　　<date when="1006">
+<date notBefore="1004" notAfter="1007">景德</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>
@@ -1727,7 +1786,8 @@
 <num value="1">一</num>莖<num value="9">九</num>葉<pc>。</pc>江陵縣民張仲家竹自根上分幹<pc>，</pc>其<num value="1">一</num>干又分<num value="3">三</num>莖<pc>，</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
-<pc>，</pc>江陵府永泰寺竹出地<num value="7">七</num>節<pc>，</pc>分爲兩莖<pc>，</pc>長丈余<pc>，</pc>知府陳堯咨以聞<pc>。</pc>
+<pc>，</pc>
+<placeName>江陵府</placeName>永泰寺竹出地<num value="7">七</num>節<pc>，</pc>分爲兩莖<pc>，</pc>長丈余<pc>，</pc>知府陳堯咨以聞<pc>。</pc>
 <placeName>華州</placeName>敷水民侯元則入華陽川石罅<pc>，</pc>得芝<num value="1">一</num>本<pc>，</pc>知州顧端以獻<pc>。</pc>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
@@ -1753,7 +1813,8 @@
 <pc>，</pc>古田縣僧舍竹<num value="1">一</num>本<pc>，</pc>上分<num value="3">三</num>莖<pc>。</pc>端昌縣民李讓家筀竹<num value="1">一</num>本<pc>，</pc>去地<num value="5">五</num>尺許<pc>，</pc>分爲<num value="2">二</num>莖<pc>，</pc>知州范應辰以聞<pc>。</pc>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
-<pc>，</pc>夔州芝草生稟舍中<pc>。</pc>
+<pc>，</pc>
+<placeName>夔州</placeName>芝草生稟舍中<pc>。</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
 <pc>，</pc>知<placeName>亳州</placeName>徐泌<pc>、</pc>知江州王文震並獻芝草<pc>。</pc>知郴州袁延慶獻芝草<num value="10">十</num>本<pc>。</pc>
@@ -1816,7 +1877,8 @@
 <num value="7">七</num>月</measure>
 <pc>，</pc>內侍石延福登<placeName>兗州</placeName>壽丘<pc>，</pc>獲芝<num value="1">一</num>本<pc>，</pc>貫草而生<pc>，</pc>又旁得<num value="30">三十</num>本<pc>。</pc>
 <placeName>亳州</placeName>
-<term>團練使</term>高漢英獻芝<num value="8">八</num>本<pc>。</pc>鼎州城門柱下生芝<num value="1">一</num>本<pc>。</pc>
+<term>團練使</term>高漢英獻芝<num value="8">八</num>本<pc>。</pc>
+<placeName>鼎州</placeName>城門柱下生芝<num value="1">一</num>本<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>繼照堂生芝<num value="1">一</num>本<pc>，</pc>紫莖黃蓋<pc>。</pc>奉祀經度制置使丁謂至眞源縣<pc>，</pc>太清宮道士<pc>、</pc>瀨陽鄉民繼獲芝<num value="80">八十</num>本以獻<pc>。</pc>
@@ -1957,7 +2019,7 @@
 <pc>，</pc>漢陽軍芝草生<num value="150">一百五十</num>餘本<pc>。</pc>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
-<pc>，</pc>嵩山崇福宮獲芝草<num value="100">一百</num>本<pc>，</pc>有重台連理<pc>、</pc>貫草者<pc>，</pc>知河南府馮拯以獻<pc>。</pc>
+<pc>，</pc>嵩山崇福宮獲芝草<num value="100">一百</num>本<pc>，</pc>有重台連理<pc>、</pc>貫草者<pc>，</pc>知<placeName>河南府</placeName>馮拯以獻<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <measure quantity="4" unit="months">
@@ -2032,9 +2094,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1034" notAfter="1038">景祐</date>
+<p>　　<date when="1035">
+<date notBefore="1034" notAfter="1038">景祐</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>嘉州芝草生<pc>。</pc>
@@ -2094,12 +2158,15 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1056" notAfter="1063">嘉祐</date>
+<p>　　<date when="1058">
+<date notBefore="1056" notAfter="1063">嘉祐</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
-<pc>，</pc>河南府芝草生<pc>。</pc>
+<pc>，</pc>
+<placeName>河南府</placeName>芝草生<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <measure quantity="1" unit="month">
@@ -2127,7 +2194,8 @@
 <num value="8">八</num>年</measure>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
-<pc>，</pc>鼎州產芝<num value="3">三</num>本<pc>，</pc>其<num value="1">一</num>類珊瑚<pc>，</pc>枝葉摎結<pc>，</pc>鹽官縣自<measure quantity="3" unit="months">
+<pc>，</pc>
+<placeName>鼎州</placeName>產芝<num value="3">三</num>本<pc>，</pc>其<num value="1">一</num>類珊瑚<pc>，</pc>枝葉摎結<pc>，</pc>鹽官縣自<measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>地產物如珠<pc>，</pc>可食<pc>；</pc>水產菜如菌<pc>，</pc>可爲菹<pc>，</pc>饑民賴之<pc>。</pc>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
@@ -2137,9 +2205,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1078" notAfter="1085">元豐</date>
+<p>　　<date when="1079">
+<date notBefore="1078" notAfter="1085">元豐</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <pc>，</pc>
@@ -2237,21 +2307,26 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1094" notAfter="1098">紹聖</date>
+<p>　　<date when="1096">
+<date notBefore="1094" notAfter="1098">紹聖</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>淄川縣生芝草<pc>，</pc>有穀<num value="10">十</num>科穿芝草生<num value="2">二</num>枝<pc>。</pc>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
-<pc>，</pc>河南府大內地生芝草<pc>。</pc>
+<pc>，</pc>
+<placeName>河南府</placeName>大內地生芝草<pc>。</pc>
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1098" notAfter="1100">元符</date>
+<p>　　<date when="1099">
+<date notBefore="1098" notAfter="1100">元符</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -2325,7 +2400,9 @@
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="25">戊子</num>
-<pc>，</pc>河南府新安縣蟾蜍背生芝草<pc>。</pc>自是而後<pc>，</pc>祥瑞日聞<pc>。</pc>玉芝產禁中殆無虛歲<pc>，</pc>凡殿宇<pc>、</pc>園苑及妃嬪位皆有之<pc>。</pc>外則中書尚書<num value="2">二</num>省<pc>、</pc>太學<pc>、</pc>醫學亦產紫芝<pc>。</pc>
+<pc>，</pc>
+<placeName>河南府</placeName>新安縣蟾蜍背生芝草<pc>。</pc>自是而後<pc>，</pc>祥瑞日聞<pc>。</pc>玉芝產禁中殆無虛歲<pc>，</pc>凡殿宇<pc>、</pc>園苑及妃嬪位皆有之<pc>。</pc>外則中書<term>尚書</term>
+<num value="2">二</num>省<pc>、</pc>太學<pc>、</pc>醫學亦產紫芝<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <measure quantity="8" unit="months">
@@ -2359,11 +2436,9 @@
 </p>
 </div>
 <div>
-<p>　　<date when="1128">
-<date notBefore="1127" notAfter="1130">建炎</date>
+<p>　　<date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <num value="40">癸卯</num>
@@ -2399,7 +2474,8 @@
 <pc>，</pc>梅州孔子廟生芝<pc>。</pc>
 <measure quantity="21" unit="years">
 <num value="21">二十一</num>年</measure>
-<pc>，</pc>紹興府學御書下生芝<pc>。</pc>番陽縣石門民家籬竹生重萼牡丹<pc>，</pc>又民家灶鼎生金色蓮華<pc>。</pc>房州治所彩山下生萱<pc>。</pc>
+<pc>，</pc>紹興府學御書下生芝<pc>。</pc>番陽縣石門民家籬竹生重萼牡丹<pc>，</pc>又民家灶鼎生金色蓮華<pc>。</pc>
+<placeName>房州</placeName>治所彩山下生萱<pc>。</pc>
 <measure quantity="10000" unit="prefectures">
 <num value="10000">萬</num>州</measure>
 <pc>、</pc>虔州放生池生蓮<pc>，</pc>皆同蒂異萼<pc>。</pc>

@@ -30,9 +30,11 @@
 <p>張鑒<pc>，</pc>字德明<pc>，</pc>
 <placeName>瀛州</placeName>
 <term>團練使</term>藏英之孫<pc>。</pc>父裔<pc>，</pc>以蔭補供奉官<pc>。</pc>鑒本將家<pc>，</pc>幼能嗜學<pc>，</pc>入衛州霖落山肄業<pc>，</pc>凡<num value="10">十</num>餘年<pc>。</pc>
+<date when="978">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>擢進士第<pc>，</pc>釋褐大理評事<pc>、</pc>監<placeName>泰州</placeName>紫墟榷務<pc>。</pc>升朝<pc>，</pc>為太子右讚善大夫<pc>、</pc>知婺州<pc>，</pc>就遷著作郎<pc>。</pc>還<pc>，</pc>拜監察<term>禦史</term>
 <pc>。</pc>奉詔決獄江左<pc>，</pc>頗雪冤滯<pc>。</pc>曆殿中侍<term>禦史</term>
 <pc>。</pc>
@@ -93,14 +95,16 @@
 <div>
 <p>初<pc>，</pc>鑒在南海<pc>，</pc>李夷庚為通判<pc>，</pc>謝德權為巡檢<pc>，</pc>皆與之不協<pc>。</pc>
 <measure quantity="2" unit="people">
-<num value="2">二</num>人</measure>密言鑒以貲付海賈<pc>，</pc>往來貿市<pc>，</pc>故徙小郡<pc>。</pc>至是<pc>，</pc>鑒自陳有親故謫瓊州<pc>，</pc>每以奉米附商舶寄贍之<pc>，</pc>又言夷庚<pc>、</pc>德權憸人貪凶之狀<pc>，</pc>上意稍釋<pc>。</pc>召還<pc>，</pc>以疾徙知<placeName>相州</placeName>
+<num value="2">二</num>人</measure>密言鑒以貲付海賈<pc>，</pc>往來貿市<pc>，</pc>故徙小郡<pc>。</pc>至是<pc>，</pc>鑒自陳有親故謫<placeName>瓊州</placeName>
+<pc>，</pc>每以奉米附商舶寄贍之<pc>，</pc>又言夷庚<pc>、</pc>德權憸人貪凶之狀<pc>，</pc>上意稍釋<pc>。</pc>召還<pc>，</pc>以疾徙知<placeName>相州</placeName>
 <pc>。</pc>有芝草生於監牧之室<pc>，</pc>鑒表其祥異<pc>，</pc>以為河朔弭兵款附之兆<pc>。</pc>優詔答之<pc>。</pc>
 <date notBefore="1004" notAfter="1007">景德</date>初<pc>，</pc>卒<pc>，</pc>年<num value="58">五十八</num>
 <pc>。</pc>
 </p>
 </div>
 <div>
-<p>子士廉為殿中丞<pc>，</pc>士宗太子洗馬<pc>，</pc>士程屯田<term>員外郎</term>
+<p>子士廉為<term>殿中丞</term>
+<pc>，</pc>士宗太子洗馬<pc>，</pc>士程屯田<term>員外郎</term>
 <pc>。</pc>
 </p>
 </div>
@@ -111,11 +115,15 @@
 <pc>，</pc>
 <placeName>曹州</placeName>濟陰人<pc>。</pc>
 <date notBefore="968" notAfter="976">開寶</date>中<pc>，</pc>以<pc>《</pc>
-<title>尚書</title>
+<title>
+<term>尚書</term>
+</title>
 <pc>》</pc>擢第<pc>，</pc>調補將陵尉<pc>。</pc>曆<placeName>隰州</placeName>推官<pc>、</pc>將作監丞<pc>、</pc>知潯州<pc>。</pc>
+<date when="978">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>召還<pc>，</pc>為著作佐郎<pc>、</pc>通判唐州<pc>。</pc>
+<num value="3">三</num>年</measure>
+</date>召還<pc>，</pc>為著作佐郎<pc>、</pc>通判唐州<pc>。</pc>
 </p>
 </div>
 <div>
@@ -128,7 +136,8 @@
 <quote>諸子生長深宮<pc>，</pc>未知世務<pc>，</pc>必資良士讚導<pc>，</pc>使日聞忠孝之道<pc>。</pc>汝等皆朕所慎簡<pc>，</pc>各宜勉之<pc>。</pc>
 </quote>
 <pc>”</pc>
-<name key="姚坦" type="givenName">坦</name>曆殿中丞<pc>、</pc>倉部<term>員外郎</term>
+<name key="姚坦" type="givenName">坦</name>曆<term>殿中丞</term>
+<pc>、</pc>倉部<term>員外郎</term>
 <pc>，</pc>賜金紫<pc>。</pc>遷本曹郎中<pc>，</pc>轉考功<pc>，</pc>仍為益王府翊善<pc>。</pc>
 </p>
 </div>
@@ -196,18 +205,23 @@
 <pc>，</pc>字<name key="索湘" type="zi">巨川</name>
 <pc>，</pc>
 <placeName>滄州</placeName>鹽山人<pc>。</pc>
+<date when="973">
 <date notBefore="968" notAfter="976">開寶</date>
 <measure quantity="6" unit="years">
-<num value="6">六</num>年</measure>進士<pc>，</pc>釋褐<placeName>鄆州</placeName>司理參軍<pc>。</pc>
+<num value="6">六</num>年</measure>
+</date>進士<pc>，</pc>釋褐<placeName>鄆州</placeName>司理參軍<pc>。</pc>
 <placeName>齊州</placeName>有大獄<pc>，</pc>連逮者<measure quantity="500" unit="people">
 <num value="500">千五百</num>人</measure>
 <pc>，</pc>有司不能決<pc>。</pc>
 <name key="索湘" type="givenName">湘</name>受詔推鞫<pc>，</pc>事隨以白<pc>。</pc>
+<date when="979">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <pc>，</pc>
-<term>轉運使</term>和峴薦其能<pc>，</pc>遷太仆寺丞<pc>，</pc>充度支巡官<pc>。</pc>改太子右讚善大夫<pc>，</pc>轉殿中丞<pc>，</pc>充推官<pc>，</pc>拜監察<term>禦史</term>
+<term>轉運使</term>和峴薦其能<pc>，</pc>遷太仆寺丞<pc>，</pc>充度支巡官<pc>。</pc>改太子右讚善大夫<pc>，</pc>轉<term>殿中丞</term>
+<pc>，</pc>充推官<pc>，</pc>拜監察<term>禦史</term>
 <pc>。</pc>
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
@@ -224,9 +238,11 @@
 <date notBefore="984" notAfter="987">雍熙</date>中<pc>，</pc>召為<term>鹽鐵判官</term>
 <pc>，</pc>改駕部<term>員外郎</term>
 <pc>。</pc>
+<date when="989">
 <date notBefore="988" notAfter="989">端拱</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>河北治方田<pc>，</pc>命副樊知古為招置營田使<pc>。</pc>會議罷<pc>，</pc>複為河北<term>轉運使</term>
 <pc>。</pc>轉虞部郎中<pc>，</pc>選為將作少監<pc>。</pc>居無何<pc>，</pc>有訟其擅易庫縑以自用者<pc>，</pc>坐授膳部<term>員外郎</term>
 <pc>、</pc>知<placeName>相州</placeName>
@@ -237,7 +253,8 @@
 <name key="索湘" type="givenName">湘</name>擇州軍得精銳<measure quantity="300" unit="people">
 <num value="300">三百</num>人</measure>
 <pc>，</pc>偵其入境<pc>，</pc>即掩擊而盡擒之<pc>。</pc>
-<term>轉運使</term>王嗣宗以狀聞<pc>，</pc>詔複舊官<pc>，</pc>命為河東<term>轉運使</term>
+<term>轉運使</term>
+<persName>王嗣宗</persName>以狀聞<pc>，</pc>詔複舊官<pc>，</pc>命為河東<term>轉運使</term>
 <pc>。</pc>
 <name key="索湘" type="givenName">湘</name>以<placeName>忻州</placeName>推官石宗道<pc>、</pc>憲州錄事胡則為幹職<pc>，</pc>命以自隨<pc>，</pc>所至州郡<pc>，</pc>勾檢其簿領焉<pc>。</pc>
 <measure quantity="2" unit="people">
@@ -268,9 +285,11 @@
 </div>
 <div>
 <p>
+<date when="999">
 <date notBefore="998" notAfter="1003">鹹平</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>入為戶部使<pc>。</pc>受詔詳定<num value="3">三</num>司編敕<pc>，</pc>坐與王扶交相請托<pc>，</pc>擅易板籍<pc>，</pc>責授將作少監<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
@@ -289,15 +308,20 @@
 <pc>，</pc>字<name key="宋太初" type="zi">永初</name>
 <pc>，</pc>
 <placeName>澤州</placeName>晉城人<pc>。</pc>
+<date when="978">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>舉進士<pc>，</pc>解褐大理評事<pc>、</pc>通判<placeName>戎州</placeName>
+<num value="3">三</num>年</measure>
+</date>舉進士<pc>，</pc>解褐大理評事<pc>、</pc>通判<placeName>戎州</placeName>
 <pc>，</pc>以善政聞<pc>。</pc>有詔褒美<pc>，</pc>遷將作監丞<pc>、</pc>讚善大夫<pc>、</pc>通判<placeName>晉州</placeName>
 <pc>，</pc>轉太常丞<pc>。</pc>
+<date when="986">
 <date notBefore="984" notAfter="987">雍熙</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>通判成都府<pc>，</pc>賜緋魚<pc>。</pc>會詔求直言<pc>，</pc>著<pc>《</pc>
+</date>
+<pc>，</pc>通判<placeName>成都府</placeName>
+<pc>，</pc>賜緋魚<pc>。</pc>會詔求直言<pc>，</pc>著<pc>《</pc>
 <title>守成箴</title>
 <pc>》</pc>以獻<pc>。</pc>
 <date notBefore="990" notAfter="994">淳化</date>初<pc>，</pc>遷監察<term>禦史</term>
@@ -330,7 +354,8 @@
 <div>
 <p>真宗嗣位<pc>，</pc>召還<pc>，</pc>複命經度陝西饋運事<pc>。</pc>
 <date notBefore="998" notAfter="1003">鹹平</date>初<pc>，</pc>拜右<term>諫議大夫</term>
-<pc>、</pc>知江陵府<pc>。</pc>蠻寇擾動<pc>，</pc>
+<pc>、</pc>知<placeName>江陵府</placeName>
+<pc>。</pc>蠻寇擾動<pc>，</pc>
 <name key="宋太初" type="givenName">太初</name>以便宜製遏<pc>，</pc>詔獎之<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
@@ -348,9 +373,11 @@
 <measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>
 <pc>。</pc>
+<date when="1007">
 <date notBefore="1004" notAfter="1007">景德</date>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>卒<pc>，</pc>年<num value="62">六十二</num>
+<num value="4">四</num>年</measure>
+</date>卒<pc>，</pc>年<num value="62">六十二</num>
 <pc>。</pc>錄其弟繼讓試校書郎<pc>。</pc>
 </p>
 </div>
@@ -372,16 +399,20 @@
 <div>
 <p>
 <persName>盧之翰</persName>字<name key="盧之翰" type="zi">維周</name>
-<pc>，</pc>祁州人<pc>。</pc>曾祖玄暉<pc>，</pc>鴻臚卿<pc>。</pc>祖知誨<pc>，</pc>天雄軍掌書記<pc>。</pc>父宏<pc>，</pc>
+<pc>，</pc>
+<placeName>祁州</placeName>人<pc>。</pc>曾祖玄暉<pc>，</pc>鴻臚卿<pc>。</pc>祖知誨<pc>，</pc>天雄軍掌書記<pc>。</pc>父宏<pc>，</pc>
 <placeName>蔡州</placeName>防禦判官<pc>。</pc>
 <name key="盧之翰" type="givenName">之翰</name>少篤學<pc>，</pc>家貧<pc>，</pc>客遊<placeName>單州</placeName>
 <pc>，</pc>
 <term>防禦使</term>劉乙館於門下<pc>。</pc>乙徙錢塘<pc>，</pc>
 <name key="盧之翰" type="givenName">之翰</name>隨寓其郡<pc>。</pc>
+<date when="979">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>舉進士<pc>，</pc>不得解<pc>，</pc>詣登聞自陳<pc>，</pc>詔聽附京兆府解試<pc>。</pc>明年登第<pc>，</pc>解褐大理評事<pc>、</pc>知臨安縣<pc>，</pc>
-<num value="3">三</num>遷殿中丞<pc>，</pc>通判<placeName>洺州</placeName>
+<num value="4">四</num>年</measure>
+</date>舉進士<pc>，</pc>不得解<pc>，</pc>詣登聞自陳<pc>，</pc>詔聽附京兆府解試<pc>。</pc>明年登第<pc>，</pc>解褐大理評事<pc>、</pc>知臨安縣<pc>，</pc>
+<num value="3">三</num>遷<term>殿中丞</term>
+<pc>，</pc>通判<placeName>洺州</placeName>
 <pc>。</pc>
 </p>
 </div>
@@ -396,7 +427,8 @@
 <pc>。</pc>又改陝西<term>轉運使</term>
 <pc>，</pc>遷吏部<term>員外郎</term>
 <pc>。</pc>
-<date notBefore="995" notAfter="997">至道</date>初<pc>，</pc>李順亂蜀<pc>，</pc>命兼西川安撫<term>轉運使</term>
+<date notBefore="995" notAfter="997">至道</date>初<pc>，</pc>
+<persName>李順</persName>亂蜀<pc>，</pc>命兼西川安撫<term>轉運使</term>
 <pc>。</pc>賊平<pc>，</pc>還任<pc>。</pc>
 </p>
 </div>
@@ -442,14 +474,17 @@
 </div>
 <div>
 <p>
+<date when="983">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="8" unit="years">
-<num value="8">八</num>年</measure>登進士第<pc>，</pc>除修武主簿<pc>。</pc>遷大理評事<pc>、</pc>知<placeName>梓州</placeName>錄事參軍事<pc>。</pc>州將表薦<pc>，</pc>轉光祿寺丞<pc>。</pc>留<num value="1">一</num>歲<pc>，</pc>代歸<pc>。</pc>獻所著文<pc>，</pc>召試翰林<pc>，</pc>改著作佐郎<pc>、</pc>通判<placeName>潁州</placeName>
-<pc>。</pc>丁外艱<pc>，</pc>起知州事<pc>。</pc>召拜殿中丞<pc>，</pc>使川<pc>、</pc>陝均稅<pc>。</pc>次渝<pc>、</pc>涪<pc>，</pc>聞夔州廣武卒謀亂<pc>，</pc>乃乘舸泛江<pc>，</pc>
+<num value="8">八</num>年</measure>
+</date>登進士第<pc>，</pc>除修武主簿<pc>。</pc>遷大理評事<pc>、</pc>知<placeName>梓州</placeName>錄事參軍事<pc>。</pc>州將表薦<pc>，</pc>轉光祿寺丞<pc>。</pc>留<num value="1">一</num>歲<pc>，</pc>代歸<pc>。</pc>獻所著文<pc>，</pc>召試翰林<pc>，</pc>改著作佐郎<pc>、</pc>通判<placeName>潁州</placeName>
+<pc>。</pc>丁外艱<pc>，</pc>起知州事<pc>。</pc>召拜<term>殿中丞</term>
+<pc>，</pc>使川<pc>、</pc>陝均稅<pc>。</pc>次渝<pc>、</pc>涪<pc>，</pc>聞<placeName>夔州</placeName>廣武卒謀亂<pc>，</pc>乃乘舸泛江<pc>，</pc>
 <num value="1">一</num>夕數<num value="100">百</num>裏<pc>，</pc>以計平之<pc>。</pc>授陝西<term>轉運副使</term>
 <pc>，</pc>許便宜從事<pc>。</pc>會歲歉<pc>，</pc>誘豪民出粟<measure quantity="30000" unit="HUs">
 <num value="30000">三萬</num>斛</measure>
-<pc>，</pc>活饑民<num value="86000">八萬六千</num>口<pc>。</pc>既而李順亂西蜀<pc>，</pc>秦隴賊趙包聚徒數<num value="1000">千</num>
+<pc>，</pc>活饑民<num value="86000">八萬六千</num>口<pc>。</pc>既而<persName>李順</persName>亂西蜀<pc>，</pc>秦隴賊趙包聚徒數<num value="1000">千</num>
 <pc>，</pc>將趨劍閣以附之<pc>。</pc>文寶移書蜀郡<pc>，</pc>分兵討襲<pc>，</pc>獲其渠魁<pc>，</pc>餘黨殲焉<pc>。</pc>
 </p>
 </div>
@@ -519,7 +554,8 @@
 </div>
 <div>
 <p>真宗即位<pc>，</pc>徙京山<pc>。</pc>
-<date notBefore="998" notAfter="1003">鹹平</date>中召還<pc>，</pc>授殿中丞<pc>，</pc>掌京南榷貨<pc>。</pc>時<placeName>慶州</placeName>發兵護芻糧詣<placeName>靈州</placeName>
+<date notBefore="998" notAfter="1003">鹹平</date>中召還<pc>，</pc>授<term>殿中丞</term>
+<pc>，</pc>掌京南榷貨<pc>。</pc>時<placeName>慶州</placeName>發兵護芻糧詣<placeName>靈州</placeName>
 <pc>，</pc>文寶素知山川險易<pc>，</pc>上言必為繼遷所敗<pc>。</pc>未幾<pc>，</pc>果如其奏<pc>。</pc>
 <term>轉運使</term>陳緯沒於賊<pc>，</pc>繼遷進陷清遠軍<pc>。</pc>時文寶丁內艱<pc>，</pc>服未闋<pc>，</pc>即命相府召詢其策略<pc>。</pc>文寶因獻<pc>《</pc>
 <title>河西隴右圖</title>
@@ -551,7 +587,7 @@
 <num value="3">三</num>年</measure>
 <pc>，</pc>召還<pc>，</pc>未至<pc>，</pc>遇疾<pc>，</pc>表求藩郡散秩<pc>。</pc>詔聽不除其籍<pc>，</pc>續奉養疾<pc>，</pc>以其子<placeName>鄆州</placeName>推官於陵為大理寺丞<pc>、</pc>知襄城縣<pc>，</pc>以便其養<pc>。</pc>
 <date notBefore="1008" notAfter="1016">大中祥符</date>初<pc>，</pc>改兵部<term>員外郎</term>
-<pc>。</pc>車駕祀汾陰還<pc>，</pc>文寶至<placeName>鄭州</placeName>請見<pc>。</pc>上以其久疾<pc>，</pc>除忠武軍行軍司馬<pc>。</pc>文寶不就<pc>，</pc>以前官歸襄城別墅<pc>。</pc>
+<pc>。</pc>車駕祀汾陰還<pc>，</pc>文寶至<placeName>鄭州</placeName>請見<pc>。</pc>上以其久疾<pc>，</pc>除<placeName>忠武軍</placeName>行軍司馬<pc>。</pc>文寶不就<pc>，</pc>以前官歸襄城別墅<pc>。</pc>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
 <pc>，</pc>卒<pc>，</pc>年<num value="61">六十一</num>
@@ -586,18 +622,22 @@
 <div>
 <p>
 <name key="王子輿" type="givenName">子輿</name>少業文詞<pc>，</pc>
+<date when="983">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="8" unit="years">
-<num value="8">八</num>年</measure>舉進士<pc>，</pc>解褐北海主簿<pc>。</pc>曆大理評事<pc>，</pc>知臨海縣<pc>，</pc>改光祿寺丞<pc>。</pc>使西蜀決獄還<pc>，</pc>知興國軍<pc>。</pc>
+<num value="8">八</num>年</measure>
+</date>舉進士<pc>，</pc>解褐北海主簿<pc>。</pc>曆大理評事<pc>，</pc>知臨海縣<pc>，</pc>改光祿寺丞<pc>。</pc>使西蜀決獄還<pc>，</pc>知興國軍<pc>。</pc>
 <date notBefore="990" notAfter="994">淳化</date>中<pc>，</pc>雷有終為江<pc>、</pc>浙<pc>、</pc>荊湖茶鹽製置使<pc>，</pc>奏<name key="王子輿" type="givenName">子輿</name>為判官<pc>。</pc>轉太子中允<pc>，</pc>改著作郎<pc>，</pc>江<pc>、</pc>淮<pc>、</pc>兩浙製置茶鹽<pc>，</pc>就轉<term>太常博士</term>
 <pc>。</pc>真宗即位<pc>，</pc>遷殿中侍<term>禦史</term>
 <pc>。</pc>因入對<pc>，</pc>與<num value="3">三</num>司論列利害<pc>，</pc>以<name key="王子輿" type="givenName">子輿</name>為長<pc>。</pc>轉度支<term>員外郎</term>
 <pc>。</pc>
 <name key="王子輿" type="givenName">子輿</name>以每事上計司<pc>，</pc>移報稽滯<pc>，</pc>求兼省職<pc>，</pc>乃命為<term>鹽鐵判官</term>
 <pc>，</pc>仍領製置<pc>，</pc>增歲課<num value="50">五十</num>餘<num value="10000">萬</num>貫<pc>。</pc>
+<date when="1000">
 <date notBefore="998" notAfter="1003">鹹平</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>就命兼充淮南<term>轉運使</term>
 <pc>。</pc>
 </p>
@@ -641,27 +681,34 @@
 </div>
 <div>
 <p>
+<date when="985">
 <date notBefore="984" notAfter="987">雍熙</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>舉進士第<pc>，</pc>解褐<placeName>邛州</placeName>軍事推官<pc>。</pc>就改永康軍判官<pc>，</pc>遷大理評事<pc>、</pc>通判<placeName>眉州</placeName>
+<num value="2">二</num>年</measure>
+</date>舉進士第<pc>，</pc>解褐<placeName>邛州</placeName>軍事推官<pc>。</pc>就改永康軍判官<pc>，</pc>遷大理評事<pc>、</pc>通判<placeName>眉州</placeName>
 <pc>，</pc>轉太仆寺丞<pc>。</pc>代還<pc>，</pc>對便殿<pc>，</pc>因言<pc>：</pc>
 <pc>“</pc>
 <quote>蜀地富庶<pc>，</pc>安寧已久<pc>，</pc>
 <placeName>益州</placeName>長吏<pc>，</pc>望慎擇其人<pc>。</pc>
 </quote>
-<pc>”</pc>上嘉之<pc>，</pc>改太子中允<pc>。</pc>未幾<pc>，</pc>李順果為亂<pc>，</pc>複召見<pc>，</pc>麵賜緋魚<pc>。</pc>尋為<num value="3">三</num>門發運司水陸<term>轉運使</term>
-<pc>，</pc>通判大名府<pc>。</pc>連丁家難<pc>，</pc>起知建安軍<pc>。</pc>
+<pc>”</pc>上嘉之<pc>，</pc>改太子中允<pc>。</pc>未幾<pc>，</pc>
+<persName>李順</persName>果為亂<pc>，</pc>複召見<pc>，</pc>麵賜緋魚<pc>。</pc>尋為<num value="3">三</num>門發運司水陸<term>轉運使</term>
+<pc>，</pc>通判<placeName>大名府</placeName>
+<pc>。</pc>連丁家難<pc>，</pc>起知建安軍<pc>。</pc>
 </p>
 </div>
 <div>
 <p>先是<pc>，</pc>天長軍及<placeName>揚州</placeName>
 <num value="6">六</num>合縣民輸賦非便<pc>，</pc>
 <name key="劉綜" type="givenName">綜</name>奏請降天長軍為縣<pc>，</pc>隸<placeName>揚州</placeName>
-<pc>，</pc>以<num value="6">六</num>合縣隸建安軍<pc>，</pc>自是民力均濟<pc>。</pc>時淮南<term>轉運使</term>王嗣宗兼發運事<pc>，</pc>規畫多迂滯<pc>。</pc>
+<pc>，</pc>以<num value="6">六</num>合縣隸建安軍<pc>，</pc>自是民力均濟<pc>。</pc>時淮南<term>轉運使</term>
+<persName>王嗣宗</persName>兼發運事<pc>，</pc>規畫多迂滯<pc>。</pc>
 <name key="劉綜" type="givenName">綜</name>因上言請複置都大發運司<pc>，</pc>專幹其職<pc>。</pc>
+<date when="996">
 <date notBefore="995" notAfter="997">至道</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>遷太常丞<pc>，</pc>職事修舉<pc>，</pc>多稱薦之者<pc>。</pc>
 </p>
 </div>
@@ -719,9 +766,11 @@
 <pc>，</pc>再為河北<term>轉運使</term>
 <pc>。</pc>時兩河用兵<pc>，</pc>邊事煩急<pc>，</pc>轉漕之任<pc>，</pc>尤所倚辦<pc>。</pc>
 <name key="劉綜" type="givenName">綜</name>繼領其職<pc>，</pc>號為詳練<pc>。</pc>至是眷矚甚厚<pc>，</pc>警急之際<pc>，</pc>輒資其奏處<pc>。</pc>契丹請和<pc>，</pc>乃遣近臣諭以擢用之意<pc>。</pc>
+<date when="1006">
 <date notBefore="1004" notAfter="1007">景德</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>召拜戶部<term>員外郎</term>
 <pc>、</pc>樞密直學士<pc>、</pc>勾當<num value="3">三</num>班院<pc>。</pc>
 <name key="劉綜" type="givenName">綜</name>言<pc>：</pc>
@@ -739,12 +788,15 @@
 </div>
 <div>
 <p>
+<date when="1011">
 <date notBefore="1008" notAfter="1016">大中祥符</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <pc>，</pc>館伴契丹使<pc>，</pc>因作<pc>《</pc>
 <title>大雪歌</title>
-<pc>》</pc>以獻<pc>。</pc>即命同知貢舉<pc>，</pc>以李宗諤代為館伴使<pc>。</pc>俄權知開封府<pc>。</pc>
+<pc>》</pc>以獻<pc>。</pc>即命同知貢舉<pc>，</pc>以李宗諤代為館伴使<pc>。</pc>俄權知<placeName>開封府</placeName>
+<pc>。</pc>
 <name key="劉綜" type="givenName">綜</name>以貴要交結富民<pc>，</pc>為之請求<pc>，</pc>或托為親屬<pc>，</pc>奏授試秩<pc>，</pc>緣此謁見官司<pc>，</pc>頗紊公政<pc>，</pc>因建議請加抑止<pc>。</pc>又文武官居遠任<pc>，</pc>而家屬寓京師<pc>，</pc>其子孫弟侄無賴者<pc>，</pc>望嚴行約束<pc>，</pc>並其交遊輩劾罪<pc>，</pc>從之<pc>。</pc>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
@@ -759,9 +811,11 @@
 <div>
 <p>
 <name key="劉綜" type="givenName">綜</name>強敏有吏材<pc>，</pc>所至抑挫豪右<pc>，</pc>振舉文法<pc>，</pc>時稱幹治<pc>。</pc>然尚氣好勝<pc>，</pc>不為物論所許<pc>。</pc>子建中<pc>、</pc>正中<pc>，</pc>並讚善大夫<pc>。</pc>弟綽<pc>，</pc>
+<date when="992">
 <date notBefore="990" notAfter="994">淳化</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>進士<pc>，</pc>官刑部郎中<pc>。</pc>
+<num value="3">三</num>年</measure>
+</date>進士<pc>，</pc>官刑部郎中<pc>。</pc>
 </p>
 </div>
 <div>
@@ -775,9 +829,11 @@
 </div>
 <div>
 <p>
+<date when="983">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
+</date>
 <pc>，</pc>
 <name key="卞袞" type="givenName">袞</name>登進士第<pc>，</pc>累遷大理評事<pc>、</pc>知將樂縣<pc>，</pc>改光祿寺丞<pc>、</pc>通判<placeName>泗州</placeName>
 <pc>。</pc>遷著作佐郎<pc>、</pc>廣南轉運司承受公事<pc>，</pc>俄通判<placeName>宣州</placeName>
@@ -788,9 +844,11 @@
 <pc>，</pc>為淮南<term>轉運副使</term>
 <pc>、</pc>同荊湖發運使<pc>，</pc>以幹職聞<pc>，</pc>就加殿中侍<term>禦史</term>
 <pc>。</pc>入判<num value="3">三</num>司開拆司<pc>，</pc>再為淮南<term>轉運使</term>兼發運使<pc>。</pc>
+<date when="1003">
 <date notBefore="998" notAfter="1003">鹹平</date>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
+</date>
 <pc>，</pc>並<num value="3">三</num>司使之職而分置副貳<pc>，</pc>以<name key="卞袞" type="givenName">袞</name>為刑部<term>員外郎</term>
 <pc>，</pc>充鹽鐵副使<pc>。</pc>
 <date notBefore="1004" notAfter="1007">景德</date>初<pc>，</pc>疽發於背卒<pc>，</pc>年<num value="45">四十五</num>
@@ -853,9 +911,11 @@
 <measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>
 <pc>。</pc>
+<date when="985">
 <date notBefore="984" notAfter="987">雍熙</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>改江南<term>轉運副使</term>
 <pc>。</pc>洪<pc>、</pc>吉上供運船水損物<pc>，</pc>主吏懼罪<pc>，</pc>故覆舟<pc>，</pc>鞫獄者按以欺盜<pc>，</pc>當流死者數<measure quantity="100" unit="people">
 <num value="100">百</num>人</measure>
@@ -872,20 +932,24 @@
 <pc>“</pc>
 <quote>蜀民浮窳易搖<pc>，</pc>宜擇忠厚者撫之<pc>，</pc>為預備<pc>。</pc>
 </quote>
-<pc>”</pc>既而李順叛<pc>，</pc>眾頗伏其先見<pc>。</pc>命知審官院<pc>，</pc>遷<term>禦史</term>中丞<pc>，</pc>以疾固讓<pc>，</pc>不許<pc>。</pc>占謝日<pc>，</pc>命坐勞問<pc>，</pc>出良藥賜之曰<pc>：</pc>
+<pc>”</pc>既而<persName>李順</persName>叛<pc>，</pc>眾頗伏其先見<pc>。</pc>命知審官院<pc>，</pc>遷<term>禦史</term>中丞<pc>，</pc>以疾固讓<pc>，</pc>不許<pc>。</pc>占謝日<pc>，</pc>命坐勞問<pc>，</pc>出良藥賜之曰<pc>：</pc>
 <pc>“</pc>
 <quote>此朕所服得驗者<pc>。</pc>
 </quote>
 <pc>”</pc>後驤以久病不能振職<pc>。</pc>真宗即位<pc>，</pc>改兵部侍郎<pc>。</pc>屢求小郡養疾<pc>，</pc>因入朝失儀<pc>，</pc>為<term>禦史</term>所糾<pc>，</pc>特詔不問<pc>，</pc>命知<placeName>單州</placeName>
 <pc>。</pc>
+<date when="999">
 <date notBefore="998" notAfter="1003">鹹平</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>卒<pc>，</pc>年<num value="57">五十七</num>
-<pc>。</pc>贈工部尚書<pc>。</pc>賜其子宗壽出身<pc>。</pc>
+<num value="2">二</num>年</measure>
+</date>卒<pc>，</pc>年<num value="57">五十七</num>
+<pc>。</pc>贈工部<term>尚書</term>
+<pc>。</pc>賜其子宗壽出身<pc>。</pc>
 </p>
 </div>
 <div>
-<p>驤雖無他才略<pc>，</pc>而人以儒厚長者稱之<pc>。</pc>宗壽後為殿中丞<pc>。</pc>
+<p>驤雖無他才略<pc>，</pc>而人以儒厚長者稱之<pc>。</pc>宗壽後為<term>殿中丞</term>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -904,9 +968,11 @@
 </div>
 <div>
 <p>
+<date when="986">
 <date notBefore="984" notAfter="987">雍熙</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>命將巡邊<pc>，</pc>以<name key="裴莊" type="givenName">莊</name>掌隨軍糧料<pc>。</pc>內客省使楊守<num value="1">一</num>稱薦之<pc>，</pc>授大理寺丞<pc>。</pc>時遷雲<pc>、</pc>朔降戶於汝<pc>、</pc>洛<pc>，</pc>遣<name key="裴莊" type="givenName">莊</name>安輯之<pc>。</pc>俄通判<placeName>忻州</placeName>
 <pc>，</pc>未上道<pc>，</pc>會魏鹹信出鎮<placeName>澶州</placeName>
 <pc>，</pc>改命為通判<pc>。</pc>未逾年<pc>，</pc>鹹信表其能<pc>，</pc>遷太子中允<pc>。</pc>
@@ -929,9 +995,11 @@
 </div>
 <div>
 <p>
+<date when="992">
 <date notBefore="990" notAfter="994">淳化</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>召訪以邊事<pc>，</pc>稱旨<pc>，</pc>麵賜緋魚<pc>，</pc>令授清資官<pc>。</pc>翌日<pc>，</pc>拜監察<term>禦史</term>
 <pc>、</pc>荊湖南路<term>轉運使</term>
 <pc>。</pc>未行<pc>，</pc>改<num value="3">三</num>司<term>鹽鐵判官</term>
@@ -940,7 +1008,8 @@
 <pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>李順亂蜀<pc>，</pc>命與雷有終並兼峽路隨軍轉運<pc>、</pc>同知兵馬事<pc>。</pc>或言<name key="裴莊" type="givenName">莊</name>本蜀人<pc>，</pc>不宜此任<pc>，</pc>上益倚信之<pc>，</pc>許以便宜<pc>。</pc>事平<pc>，</pc>轉殿中侍<term>禦史</term>
+<pc>，</pc>
+<persName>李順</persName>亂蜀<pc>，</pc>命與雷有終並兼峽路隨軍轉運<pc>、</pc>同知兵馬事<pc>。</pc>或言<name key="裴莊" type="givenName">莊</name>本蜀人<pc>，</pc>不宜此任<pc>，</pc>上益倚信之<pc>，</pc>許以便宜<pc>。</pc>事平<pc>，</pc>轉殿中侍<term>禦史</term>
 <pc>，</pc>曆工部<pc>、</pc>司封<num value="2">二</num>
 <term>員外郎</term>
 <pc>，</pc>特召問討賊方略<pc>。</pc>
@@ -948,9 +1017,11 @@
 </div>
 <div>
 <p>
+<date when="996">
 <date notBefore="995" notAfter="997">至道</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>遣將<num value="5">五</num>路出討<persName>李繼遷</persName>
 <pc>，</pc>
 <name key="裴莊" type="givenName">莊</name>陰料師出無功<pc>，</pc>因請加恩繼遷<pc>，</pc>俟其倔強拒命<pc>，</pc>則按甲塞外<pc>，</pc>俘擒未晚<pc>。</pc>既而諸將果敗績<pc>。</pc>俄遷祠部郎中<pc>。</pc>真宗即位<pc>，</pc>遷度支<pc>，</pc>充河東<term>轉運使</term>
@@ -970,9 +1041,11 @@
 </div>
 <div>
 <p>
+<date when="999">
 <date notBefore="998" notAfter="1003">鹹平</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>命巡撫江南<pc>。</pc>使還<pc>，</pc>言<placeName>池州</placeName>
 <pc>、</pc>興國軍得良吏<pc>，</pc>餘無足稱者<pc>。</pc>且言<pc>：</pc>
 <pc>“</pc>
@@ -1021,9 +1094,11 @@
 <pc>，</pc>出知<placeName>襄州</placeName>
 <pc>。</pc>明年<pc>，</pc>車駕幸南京<pc>，</pc>
 <name key="裴莊" type="givenName">莊</name>以逮事太宗恩例<pc>，</pc>授太府卿<pc>，</pc>權判西京留司<term>禦史</term>台<pc>。</pc>
+<date when="1018">
 <date notBefore="1017" notAfter="1021">天禧</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>入判刑部<pc>，</pc>以疾分司西京<pc>。</pc>郊祀<pc>，</pc>改光祿卿<pc>，</pc>求歸上都<pc>，</pc>以便醫藥<pc>。</pc>卒<pc>，</pc>年<num value="81">八十一</num>
 <pc>。</pc>錄其孫慶孫<pc>，</pc>試將作監主簿<pc>。</pc>
 </p>
@@ -1031,9 +1106,11 @@
 <div>
 <p>
 <name key="裴莊" type="givenName">莊</name>有吏幹<pc>，</pc>頗無清操<pc>，</pc>慷慨敢言<pc>，</pc>太宗獎其忠讜<pc>，</pc>多所聽納<pc>。</pc>好為規畫<pc>，</pc>然寡學術<pc>。</pc>嚐建議請置廣聽院西垣學士<pc>，</pc>聞者嗤之<pc>。</pc>晚年退居<pc>，</pc>製棺櫝以自隨<pc>。</pc>喜接賓客<pc>，</pc>終日無倦<pc>。</pc>子奐<pc>，</pc>
+<date when="1000">
 <date notBefore="998" notAfter="1003">鹹平</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>進士<pc>，</pc>屯田郎中<pc>；</pc>稷<pc>，</pc>左班殿直<pc>、</pc>閣門祗候<pc>。</pc>
+<num value="3">三</num>年</measure>
+</date>進士<pc>，</pc>屯田郎中<pc>；</pc>稷<pc>，</pc>左班殿直<pc>、</pc>閣門祗候<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1042,9 +1119,11 @@
 <pc>，</pc>字<name key="牛冕" type="zi">君儀</name>
 <pc>，</pc>
 <placeName>徐州</placeName>彭城人<pc>。</pc>
+<date when="978">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>進士<pc>，</pc>解褐將作監丞<pc>、</pc>通判郴州<pc>，</pc>徙<placeName>和州</placeName>
+<num value="3">三</num>年</measure>
+</date>進士<pc>，</pc>解褐將作監丞<pc>、</pc>通判郴州<pc>，</pc>徙<placeName>和州</placeName>
 <pc>。</pc>加左讚善大夫<pc>，</pc>遷太常丞<pc>、</pc>知<placeName>滁州</placeName>
 <pc>，</pc>以勤政聞<pc>。</pc>召歸<pc>，</pc>轉監察<term>禦史</term>
 <pc>。</pc>
@@ -1071,7 +1150,7 @@
 <p>
 <date notBefore="998" notAfter="1003">鹹平</date>元年<pc>，</pc>選知<placeName>益州</placeName>
 <pc>，</pc>仍拜右<term>諫議大夫</term>
-<pc>。</pc>兩川自李順平後<pc>，</pc>民罹困苦<pc>，</pc>未安其業<pc>，</pc>朝廷緩於矜恤<pc>，</pc>故戍卒乘符昭壽之虐<pc>，</pc>嘯集為亂<pc>。</pc>
+<pc>。</pc>兩川自<persName>李順</persName>平後<pc>，</pc>民罹困苦<pc>，</pc>未安其業<pc>，</pc>朝廷緩於矜恤<pc>，</pc>故戍卒乘符昭壽之虐<pc>，</pc>嘯集為亂<pc>。</pc>
 <name key="牛冕" type="givenName">冕</name>與<term>轉運使</term>張適委城奔<placeName>漢州</placeName>
 <pc>，</pc>詔遣赴闕<pc>，</pc>至京兆<pc>，</pc>劾其罪<pc>，</pc>並削籍<pc>，</pc>
 <name key="牛冕" type="givenName">冕</name>流儋州<pc>，</pc>適為連州參軍<pc>。</pc>
@@ -1082,7 +1161,9 @@
 <pc>、</pc>
 <placeName>海</placeName>
 <measure quantity="2" unit="prefectures">
-<num value="2">二</num>州</measure>別駕<pc>、</pc>淮南<term>節度副使</term>
+<num value="2">二</num>州</measure>
+<term>別駕</term>
+<pc>、</pc>淮南<term>節度副使</term>
 <pc>。</pc>
 </p>
 </div>
@@ -1095,14 +1176,17 @@
 </quote>
 <pc>”</pc>即起知漣水軍<pc>，</pc>俄複為祠部<term>員外郎</term>
 <pc>，</pc>卒<pc>，</pc>年<num value="64">六十四</num>
-<pc>。</pc>子昭儉<pc>，</pc>至殿中丞<pc>。</pc>
+<pc>。</pc>子昭儉<pc>，</pc>至<term>殿中丞</term>
+<pc>。</pc>
 </p>
 </div>
 <div>
 <p>張適者<pc>，</pc>
+<date when="980">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>進士<pc>。</pc>任藩郡<pc>，</pc>有治績<pc>，</pc>以廉敏稱<pc>。</pc>為水部<term>員外郎</term>
+<num value="5">五</num>年</measure>
+</date>進士<pc>。</pc>任藩郡<pc>，</pc>有治績<pc>，</pc>以廉敏稱<pc>。</pc>為水部<term>員外郎</term>
 <pc>、</pc>知<placeName>鄜州</placeName>
 <pc>。</pc>獲對<pc>，</pc>太宗喜其詞氣俊邁<pc>，</pc>賜緋魚<pc>。</pc>旋改京東<term>轉運副使</term>
 <pc>，</pc>加直集賢院<pc>，</pc>
@@ -1119,7 +1203,8 @@
 <pc>，</pc>字<persName>
 <name key="欒崇吉" type="zi">世昌</name>
 </persName>
-<pc>，</pc>開封封丘人<pc>。</pc>少為吏部令史<pc>，</pc>上書言事<pc>，</pc>調補臨淄主簿<pc>。</pc>會令坐贓敗<pc>，</pc>即命<name key="欒崇吉" type="givenName">崇吉</name>代之<pc>。</pc>複以書判優等<pc>，</pc>改<placeName>舒州</placeName>團練判官<pc>，</pc>未行<pc>，</pc>留為中書刑房堂後官<pc>，</pc>改太子右讚善大夫<pc>，</pc>出掌<placeName>揚州</placeName>榷務<pc>。</pc>未幾<pc>，</pc>遷殿中丞<pc>，</pc>複為堂後官兼提點<num value="5">五</num>房公事<pc>。</pc>
+<pc>，</pc>開封封丘人<pc>。</pc>少為吏部令史<pc>，</pc>上書言事<pc>，</pc>調補臨淄主簿<pc>。</pc>會令坐贓敗<pc>，</pc>即命<name key="欒崇吉" type="givenName">崇吉</name>代之<pc>。</pc>複以書判優等<pc>，</pc>改<placeName>舒州</placeName>團練判官<pc>，</pc>未行<pc>，</pc>留為中書刑房堂後官<pc>，</pc>改太子右讚善大夫<pc>，</pc>出掌<placeName>揚州</placeName>榷務<pc>。</pc>未幾<pc>，</pc>遷<term>殿中丞</term>
+<pc>，</pc>複為堂後官兼提點<num value="5">五</num>房公事<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1138,7 +1223,9 @@
 <name key="欒崇吉" type="givenName">崇吉</name>至<pc>，</pc>奏罷之<pc>。</pc>以疾徙濠州<pc>，</pc>遷衛尉少卿<pc>，</pc>以將作監致仕<pc>，</pc>卒<pc>。</pc>子<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>
 <pc>：</pc>源<pc>，</pc>虞部<term>員外郎</term>
-<pc>。</pc>沂<pc>，</pc>殿中丞<pc>。</pc>
+<pc>。</pc>沂<pc>，</pc>
+<term>殿中丞</term>
+<pc>。</pc>
 </p>
 </div>
 <div>
@@ -1161,12 +1248,16 @@
 <pc>》</pc>
 <pc>、</pc>
 <pc>《</pc>
-<title>尚書</title>
+<title>
+<term>尚書</term>
+</title>
 <pc>》</pc>
 <pc>。</pc>周太祖召見<pc>，</pc>發篇試之<pc>，</pc>賜束帛以賞其精習<pc>。</pc>
+<date when="975">
 <date notBefore="968" notAfter="976">開寶</date>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
+</date>
 <pc>，</pc>擢<pc>《</pc>
 <title>
 <num value="3">三</num>傳</title>
@@ -1180,7 +1271,8 @@
 <term>宰相</term>呂蒙正稱其有經術<pc>，</pc>宜任學官<pc>。</pc>會蜀叛<pc>，</pc>方籍其吏資授西川<term>轉運使</term>
 <pc>。</pc>
 <date notBefore="995" notAfter="997">至道</date>初<pc>，</pc>徙荊湖北路<pc>。</pc>時賊方平<pc>，</pc>夔<pc>、</pc>峽猶聚官軍<pc>，</pc>供饋出於荊楚<pc>，</pc>
-<name key="袁逢吉" type="givenName">逢吉</name>憚涉遠<pc>，</pc>不赴軍前計度<pc>，</pc>坐乏糧餉<pc>，</pc>罷職知夔州<pc>。</pc>會遣使川<pc>、</pc>陝采訪<pc>，</pc>因條上知州<pc>、</pc>通判有治跡者<measure quantity="7" unit="people">
+<name key="袁逢吉" type="givenName">逢吉</name>憚涉遠<pc>，</pc>不赴軍前計度<pc>，</pc>坐乏糧餉<pc>，</pc>罷職知<placeName>夔州</placeName>
+<pc>。</pc>會遣使川<pc>、</pc>陝采訪<pc>，</pc>因條上知州<pc>、</pc>通判有治跡者<measure quantity="7" unit="people">
 <num value="7">七</num>人</measure>
 <pc>，</pc>
 <name key="袁逢吉" type="givenName">逢吉</name>與朱協<pc>、</pc>李虛己<pc>、</pc>薛顏<pc>、</pc>邵曄<pc>、</pc>查道<pc>、</pc>劉檢預焉<pc>，</pc>皆賜詔褒諭<pc>。</pc>曆司門<pc>、</pc>庫部<num value="2">二</num>郎中<pc>。</pc>
@@ -1223,9 +1315,11 @@
 <pc>，</pc>字<name key="韓國華" type="zi">光弼</name>
 <pc>，</pc>
 <placeName>相州</placeName>安陽人<pc>。</pc>
+<date when="977">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>舉進士<pc>，</pc>解褐大理評事<pc>、</pc>通判<placeName>瀘州</placeName>
+<num value="2">二</num>年</measure>
+</date>舉進士<pc>，</pc>解褐大理評事<pc>、</pc>通判<placeName>瀘州</placeName>
 <pc>，</pc>就遷右讚善大夫<pc>。</pc>代還<pc>，</pc>除彰德軍節度判官<pc>。</pc>遷著作佐郎<pc>、</pc>監察<term>禦史</term>
 <pc>。</pc>
 </p>
@@ -1234,9 +1328,11 @@
 <p>
 <date notBefore="984" notAfter="987">雍熙</date>中<pc>，</pc>假太常少卿使高麗<pc>。</pc>時太宗將北征<pc>，</pc>以高麗接遼境<pc>，</pc>屢為其所侵<pc>，</pc>命齎詔諭之<pc>，</pc>且令發兵西會<pc>。</pc>既至<pc>，</pc>其俗頗獷驁<pc>，</pc>恃險遷延<pc>，</pc>未即奉詔<pc>。</pc>
 <name key="韓國華" type="givenName">國華</name>移檄<pc>，</pc>諭以朝廷威德<pc>，</pc>宜亟守臣節<pc>，</pc>否則天兵東下<pc>，</pc>無以逃責<pc>。</pc>於是俯伏聽命<pc>。</pc>使還<pc>，</pc>賜緋魚<pc>。</pc>
+<date when="986">
 <date notBefore="984" notAfter="987">雍熙</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>改右拾遺<pc>、</pc>直史館<pc>，</pc>判鼓司<pc>、</pc>登聞院<pc>，</pc>俄充<num value="3">三</num>司開拆推官<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
@@ -1246,9 +1342,11 @@
 </div>
 <div>
 <p>
+<date when="991">
 <date notBefore="990" notAfter="994">淳化</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>契丹請和<pc>，</pc>朝議疑其非實<pc>，</pc>遣<name key="韓國華" type="givenName">國華</name>使河朔以察之<pc>。</pc>既至<pc>，</pc>盡得其詐以聞<pc>。</pc>每歲後苑賞花<pc>，</pc>
 <num value="3">三</num>館學士皆得預<pc>。</pc>
 <measure quantity="3" unit="years">
@@ -1267,7 +1365,7 @@
 </div>
 <div>
 <p>
-<date notBefore="1004" notAfter="1007">景德</date>中<pc>，</pc>假秘書監使契丹<pc>，</pc>又為江南巡撫<pc>，</pc>入權開封府判官<pc>。</pc>真宗朝陵<pc>，</pc>魏鹹信自<placeName>曹州</placeName>召入扈從<pc>，</pc>命<name key="韓國華" type="givenName">國華</name>權州事<pc>。</pc>俄改太常少卿<pc>、</pc>出知<placeName>泉州</placeName>
+<date notBefore="1004" notAfter="1007">景德</date>中<pc>，</pc>假秘書監使契丹<pc>，</pc>又為江南巡撫<pc>，</pc>入權<placeName>開封府</placeName>判官<pc>。</pc>真宗朝陵<pc>，</pc>魏鹹信自<placeName>曹州</placeName>召入扈從<pc>，</pc>命<name key="韓國華" type="givenName">國華</name>權州事<pc>。</pc>俄改太常少卿<pc>、</pc>出知<placeName>泉州</placeName>
 <pc>。</pc>
 <date notBefore="1008" notAfter="1016">大中祥符</date>初<pc>，</pc>遷右<term>諫議大夫</term>
 <pc>。</pc>
@@ -1292,9 +1390,11 @@
 <title>春秋左氏傳</title>
 <pc>》</pc>
 <pc>。</pc>李煜時<pc>，</pc>舉進士不第<pc>，</pc>因獻書言事<pc>，</pc>署錄事參軍<pc>。</pc>入宋<pc>，</pc>授<placeName>洺州</placeName>推官<pc>。</pc>
+<date when="980">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
+</date>
 <pc>，</pc>調遂寧令<pc>。</pc>時太宗親征契丹還<pc>，</pc>作詩以獻<pc>。</pc>召見賞歎<pc>，</pc>授右讚善大夫<pc>，</pc>
 <num value="3">三</num>遷至水部<term>員外郎</term>
 <pc>、</pc>通判廬州<pc>。</pc>時郡中火燔廨舍<pc>，</pc>榷務俱盡<pc>。</pc>
@@ -1336,16 +1436,22 @@
 </div>
 <div>
 <p>宋初<pc>，</pc>介俶子惟濟入覲<pc>，</pc>歸<pc>，</pc>署營田副使<pc>。</pc>
+<date when="978">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>從俶歸朝<pc>，</pc>授鴻臚卿<pc>。</pc>曆知<placeName>陳州</placeName>
-<pc>、</pc>興元府<pc>。</pc>知禮母年<num value="80">八十</num>餘<pc>，</pc>居宛丘<pc>，</pc>懇求歸養<pc>。</pc>退處<measure quantity="10" unit="years">
+<pc>、</pc>
+<placeName>興元府</placeName>
+<pc>。</pc>知禮母年<num value="80">八十</num>餘<pc>，</pc>居宛丘<pc>，</pc>懇求歸養<pc>。</pc>退處<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
 <pc>，</pc>縉紳稱其孝<pc>。</pc>及母服除<pc>，</pc>表請納祿<pc>。</pc>
+<date when="997">
 <date notBefore="995" notAfter="997">至道</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>以工部侍郎致仕<pc>。</pc>知禮自幼至白首<pc>，</pc>歲讀<pc>《</pc>
 <title>
 <num value="5">五</num>經</title>
@@ -1372,7 +1478,8 @@
 <p>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
-<pc>，</pc>改給事中<pc>、</pc>權知開封府<pc>。</pc>既受命<pc>，</pc>召戒之曰<pc>：</pc>
+<pc>，</pc>改給事中<pc>、</pc>權知<placeName>開封府</placeName>
+<pc>。</pc>既受命<pc>，</pc>召戒之曰<pc>：</pc>
 <pc>“</pc>
 <quote>京府浩穰<pc>，</pc>凡事太速則誤<pc>，</pc>太緩則滯<pc>，</pc>惟須酌中耳<pc>。</pc>請屬<num value="1">一</num>無所受<pc>。</pc>
 </quote>
@@ -1388,9 +1495,11 @@
 <term>宰相</term>寇準以弟之女妻之<pc>。</pc>寇氏卒<pc>，</pc>故相李沆家複婿之<pc>。</pc>曆官以賄聞<pc>，</pc>頗恃姻援驕縱<pc>，</pc>被服如公侯家<pc>，</pc>以是欺蠹小民<pc>。</pc>知太康縣<pc>，</pc>民有詣府訴家產者<pc>，</pc>清納其賄<pc>，</pc>時已罷任<pc>，</pc>即逃居他所<pc>。</pc>銳嚐就清貸白金<num value="70">七十</num>兩<pc>，</pc>清以多納賄賂<pc>，</pc>事將敗<pc>，</pc>求以為助<pc>。</pc>時方鞫盧氏獄<pc>，</pc>從吉請對<pc>，</pc>發其事<pc>，</pc>欲以自解<pc>。</pc>逮清等係獄<pc>，</pc>命比部<term>員外郎</term>劉宗吉<pc>、</pc>
 <term>禦史</term>江仲甫劾之<pc>。</pc>清枉法當死<pc>，</pc>特杖脊黥麵<pc>，</pc>配沙門島<pc>；</pc>銳又削衛尉寺丞<pc>。</pc>從吉坐首露在已發<pc>，</pc>當贖銅<pc>，</pc>特削<term>諫議大夫</term>
 <pc>。</pc>
+<date when="1019">
 <date notBefore="1017" notAfter="1021">天禧</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>起為衛尉卿<pc>。</pc>明年<pc>，</pc>判登聞鼓院<pc>。</pc>坐與寇準親善<pc>，</pc>以光祿卿致仕<pc>。</pc>未幾卒<pc>，</pc>年<num value="70">七十</num>
 <pc>。</pc>
 </p>

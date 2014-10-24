@@ -30,11 +30,9 @@
 <p>林勛<pc>，</pc>
 <placeName>賀州</placeName>人<pc>。</pc>政和<measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>進士<pc>，</pc>為<placeName>廣州</placeName>教授<pc>。</pc>
-<date when="1129">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <pc>，</pc>獻<pc>《</pc>
@@ -95,14 +93,18 @@
 <title>法語</title>
 <pc>》</pc>
 <num value="81">八十一</num>篇行於世<pc>。</pc>
-<name key="劉才邵" type="givenName">才邵</name>以<date notBefore="1107" notAfter="1110">大觀</date>
+<name key="劉才邵" type="givenName">才邵</name>以<date when="1108">
+<date notBefore="1107" notAfter="1110">大觀</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>上舍釋褐<pc>，</pc>為<placeName>贛</placeName>
+<num value="2">二</num>年</measure>
+</date>上舍釋褐<pc>，</pc>為<placeName>贛</placeName>
 <pc>、</pc>汝<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>教授<pc>，</pc>復為湖北提舉學事管幹文字<pc>。</pc>
+<date when="1120">
 <date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>中宏詞科<pc>，</pc>遷司農寺丞<pc>。</pc>靖康元年<pc>，</pc>遷校書郎<pc>。</pc>
 </p>
 </div>
@@ -118,7 +120,8 @@
 <pc>，</pc>未幾<pc>，</pc>為<term>中書舍人</term>兼權直學士院<pc>。</pc>帝稱其能文<pc>，</pc>時宰忌之<pc>，</pc>出知漳州<pc>。</pc>即城東開渠<num value="10">十</num>有<num value="4">四</num>
 <pc>，</pc>為閘與鬥門以瀦匯決<pc>，</pc>溉田數<num value="1000">千</num>畝<pc>。</pc>民甚德之<pc>。</pc>兩奉祠<pc>。</pc>紹興<measure quantity="25" unit="years">
 <num value="25">二十五</num>年</measure>
-<pc>，</pc>召拜工部侍郎兼直學士院<pc>，</pc>尋權吏部尚書<pc>。</pc>以疾請祠<pc>，</pc>加顯謨閣直學士<pc>。</pc>卒<pc>，</pc>贈通奉大夫<pc>。</pc>
+<pc>，</pc>召拜工部侍郎兼直學士院<pc>，</pc>尋權吏部<term>尚書</term>
+<pc>。</pc>以疾請祠<pc>，</pc>加顯謨閣直學士<pc>。</pc>卒<pc>，</pc>贈通奉大夫<pc>。</pc>
 <name key="劉才邵" type="givenName">才邵</name>氣和貌恭<pc>，</pc>方權臣用事之時<pc>，</pc>雍容遜避<pc>，</pc>以保名節<pc>。</pc>所著<pc>《</pc>
 <title>檆溪居士集</title>
 <pc>》</pc>行世<pc>。</pc>
@@ -126,9 +129,11 @@
 </div>
 <div>
 <p>許忻<pc>，</pc>拱州人<pc>。</pc>
+<date when="1121">
 <date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>進士<pc>，</pc>高宗時<pc>，</pc>為吏部<term>員外郎</term>
+<num value="3">三</num>年</measure>
+</date>進士<pc>，</pc>高宗時<pc>，</pc>為吏部<term>員外郎</term>
 <pc>，</pc>有旨引見<pc>。</pc>是時<pc>，</pc>金國使人張通古在館<pc>，</pc>忻上疏極論和議不便<pc>，</pc>曰<pc>：</pc>
 </p>
 </div>
@@ -417,7 +422,9 @@
 <p>遷浙西提舉常平<pc>，</pc>又遷<term>秘書丞</term>
 <pc>，</pc>升秘書省著作郎<pc>，</pc>尋為軍器少監兼權左司郎官<pc>。</pc>遷國子司業兼國史編修<pc>、</pc>實錄檢討<pc>，</pc>兼權直舍人院<pc>，</pc>遷<term>起居舍人</term>
 <pc>，</pc>兼職依舊<pc>。</pc>權吏部侍郎<pc>，</pc>直學士院兼同修國史<pc>、</pc>實錄院同修撰<pc>，</pc>兼權<term>中書舍人</term>
-<pc>。</pc>遷禮部侍郎仍兼侍讀<pc>，</pc>權刑部尚書<pc>，</pc>封休寧縣男<pc>。</pc>授禮部尚書兼同修國史<pc>、</pc>實錄院同修撰<pc>，</pc>兼權吏部尚書<pc>，</pc>拜翰林學士<pc>、</pc>知制誥<pc>，</pc>兼修玉牒官<pc>，</pc>進封子<pc>。</pc>
+<pc>。</pc>遷禮部侍郎仍兼侍讀<pc>，</pc>權刑部<term>尚書</term>
+<pc>，</pc>封休寧縣男<pc>。</pc>授禮部<term>尚書</term>兼同修國史<pc>、</pc>實錄院同修撰<pc>，</pc>兼權吏部<term>尚書</term>
+<pc>，</pc>拜翰林學士<pc>、</pc>知制誥<pc>，</pc>兼修玉牒官<pc>，</pc>進封子<pc>。</pc>
 <num value="5">五</num>上疏丐祠<pc>，</pc>以煥章閣學士<pc>、</pc>知建寧府<pc>，</pc>授福建路招捕使<pc>。</pc>以舊職提舉玉隆<num value="10000">萬</num>壽宮<pc>，</pc>進封伯<pc>。</pc>進敷文閣學士<pc>、</pc>知寧國府<pc>，</pc>改知贛州<pc>，</pc>皆不赴<pc>。</pc>進封新安郡侯<pc>，</pc>加寶文閣學士<pc>、</pc>知<placeName>福州</placeName>兼福建<term>安撫使</term>
 <pc>。</pc>再奉祠<pc>，</pc>又加龍圖閣學士<pc>。</pc>以端明殿學士致仕<pc>，</pc>卒<pc>，</pc>年<num value="70">七十</num>有<num value="9">九</num>
 <pc>，</pc>贈特進<pc>、</pc>少師<pc>。</pc>
@@ -512,7 +519,8 @@
 </div>
 <div>
 <p>德祐元年<pc>，</pc>遷秘書監<pc>，</pc>尋拜右正言<pc>、</pc>左司諫<pc>、</pc>殿中侍<term>禦史</term>
-<pc>。</pc>益王即位海上<pc>，</pc>拜吏部尚書<pc>、</pc>給事中<pc>。</pc>厓山兵敗<pc>，</pc>走安南<pc>。</pc>越<measure quantity="4" unit="years">
+<pc>。</pc>益王即位海上<pc>，</pc>拜吏部<term>尚書</term>
+<pc>、</pc>給事中<pc>。</pc>厓山兵敗<pc>，</pc>走安南<pc>。</pc>越<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>卒<pc>，</pc>年<num value="70">七十</num>有<num value="2">二</num>
 <pc>。</pc>
 </p>
@@ -600,7 +608,8 @@
 </p>
 </div>
 <div>
-<p>李知孝<pc>，</pc>字孝章<pc>，</pc>參知政事光之孫<pc>。</pc>嘉定<measure quantity="4" unit="years">
+<p>李知孝<pc>，</pc>字孝章<pc>，</pc>
+<term>參知政事</term>光之孫<pc>。</pc>嘉定<measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>進士<pc>。</pc>嘗為右丞相府主管文字<pc>，</pc>不以為恥<pc>。</pc>差充幹辦諸司審計司<pc>，</pc>拜監察<term>禦史</term>
 <pc>。</pc>
 </p>
@@ -645,7 +654,7 @@
 <pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-<pc>，</pc>遷工部尚書兼侍讀<pc>。</pc>越月<pc>，</pc>進兵部<pc>。</pc>明年<pc>，</pc>理宗親政<pc>，</pc>以寶謨閣直學士出知寧國<pc>，</pc>後省駁之<pc>，</pc>令提舉嵩山崇福宮<pc>。</pc>端平初<pc>，</pc>監察<term>禦史</term>洪咨夔<pc>、</pc>權直舍人院吳泳交章論駁<pc>，</pc>鐫秩罷祠<pc>。</pc>泳復封駁<pc>，</pc>繼送婺州居住<pc>。</pc>殿中侍<term>禦史</term>王遂且論之<pc>，</pc>再鐫秩<pc>，</pc>徙瑞州<pc>。</pc>
+<pc>，</pc>遷工部<term>尚書</term>兼侍讀<pc>。</pc>越月<pc>，</pc>進兵部<pc>。</pc>明年<pc>，</pc>理宗親政<pc>，</pc>以寶謨閣直學士出知寧國<pc>，</pc>後省駁之<pc>，</pc>令提舉嵩山崇福宮<pc>。</pc>端平初<pc>，</pc>監察<term>禦史</term>洪咨夔<pc>、</pc>權直舍人院吳泳交章論駁<pc>，</pc>鐫秩罷祠<pc>。</pc>泳復封駁<pc>，</pc>繼送婺州居住<pc>。</pc>殿中侍<term>禦史</term>王遂且論之<pc>，</pc>再鐫秩<pc>，</pc>徙瑞州<pc>。</pc>
 </p>
 </div>
 <div>

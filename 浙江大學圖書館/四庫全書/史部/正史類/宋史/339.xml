@@ -131,9 +131,11 @@
 <pc>「</pc>
 <quote>進士來年秋試<pc>，</pc>日月無幾<pc>，</pc>而議不時決<pc>。</pc>詩賦雖小技<pc>，</pc>比次聲律<pc>，</pc>用功不淺<pc>。</pc>至於治經<pc>，</pc>誦讀講解<pc>，</pc>尤不輕易<pc>。</pc>要之<pc>，</pc>來年皆未可施行<pc>。</pc>乞來年科場<pc>，</pc>
 <num value="1">一</num>切如舊<pc>，</pc>惟經義兼取注疏及諸家論議<pc>，</pc>或出己見<pc>，</pc>不專用王氏學<pc>。</pc>仍罷律義<pc>，</pc>令舉人知有定論<pc>，</pc>
-<num value="1">一</num>意為學<pc>，</pc>以待選試<pc>，</pc>然後徐議<date notBefore="1086" notAfter="1094">元祐</date>
+<num value="1">一</num>意為學<pc>，</pc>以待選試<pc>，</pc>然後徐議<date when="1090">
+<date notBefore="1086" notAfter="1094">元祐</date>
 <measure quantity="5" unit="years">
-<num value="5">五</num>年</measure>以後科舉格式<pc>，</pc>未為晚也<pc>。</pc>
+<num value="5">五</num>年</measure>
+</date>以後科舉格式<pc>，</pc>未為晚也<pc>。</pc>
 </quote>
 <pc>」</pc>光皆不能從<pc>。</pc>
 </p>
@@ -215,7 +217,8 @@
 </quote>
 <pc>」</pc>乃具以白宰執<pc>，</pc>請據實立額<pc>，</pc>俟吏之年滿轉出<pc>，</pc>或事故死亡者勿補<pc>，</pc>及額而止<pc>。</pc>不過<measure quantity="10" unit="years">
 <num value="10">十</num>年</measure>
-<pc>，</pc>羨額當盡<pc>。</pc>功雖稍緩<pc>，</pc>而見吏知非身患<pc>，</pc>不復怨矣<pc>。</pc>呂大防命諸司吏任永壽與省吏數人典之<pc>，</pc>遂背轍議以立額<pc>，</pc>日裁損吏員<pc>，</pc>複以好惡改易諸局次<pc>。</pc>永壽複以贓刺配<pc>，</pc>大防略依轍議行之<pc>。</pc>代軾為翰林學士<pc>，</pc>尋權吏部尚書<pc>。</pc>使契丹<pc>，</pc>館客者侍讀學士王師儒能誦洵<pc>、</pc>軾之文及轍<pc>《</pc>
+<pc>，</pc>羨額當盡<pc>。</pc>功雖稍緩<pc>，</pc>而見吏知非身患<pc>，</pc>不復怨矣<pc>。</pc>呂大防命諸司吏任永壽與省吏數人典之<pc>，</pc>遂背轍議以立額<pc>，</pc>日裁損吏員<pc>，</pc>複以好惡改易諸局次<pc>。</pc>永壽複以贓刺配<pc>，</pc>大防略依轍議行之<pc>。</pc>代軾為翰林學士<pc>，</pc>尋權吏部<term>尚書</term>
+<pc>。</pc>使契丹<pc>，</pc>館客者侍讀學士王師儒能誦洵<pc>、</pc>軾之文及轍<pc>《</pc>
 <title>茯苓賦</title>
 <pc>》</pc>
 <pc>，</pc>恨不得見全集<pc>。</pc>使還<pc>，</pc>為<term>禦史</term>中丞<pc>。</pc>
@@ -301,7 +304,7 @@
 <p>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-<pc>，</pc>拜尚書右丞<pc>，</pc>進門下侍郎<pc>。</pc>初<pc>，</pc>夏人來賀登極<pc>，</pc>相繼求和<pc>，</pc>且議地界<pc>。</pc>朝廷許約<pc>，</pc>地界已定<pc>，</pc>付以歲賜<pc>。</pc>久之<pc>，</pc>議不決<pc>。</pc>明年<pc>，</pc>夏人以兵襲涇原<pc>。</pc>殺掠弓箭手數<measure quantity="1000" unit="people">
+<pc>，</pc>拜<term>尚書</term>右丞<pc>，</pc>進門下侍郎<pc>。</pc>初<pc>，</pc>夏人來賀登極<pc>，</pc>相繼求和<pc>，</pc>且議地界<pc>。</pc>朝廷許約<pc>，</pc>地界已定<pc>，</pc>付以歲賜<pc>。</pc>久之<pc>，</pc>議不決<pc>。</pc>明年<pc>，</pc>夏人以兵襲涇原<pc>。</pc>殺掠弓箭手數<measure quantity="1000" unit="people">
 <num value="1000">千</num>人</measure>
 <pc>，</pc>朝廷忍之不問<pc>，</pc>遣使往賜策命<pc>。</pc>夏人受禮倨慢<pc>，</pc>以地界為辭<pc>，</pc>不復入謝<pc>，</pc>再犯涇原<pc>。</pc>
 <measure quantity="4" unit="years">
@@ -351,8 +354,10 @@
 </p>
 </div>
 <div>
-<p>時<num value="3">三</num>省除李清臣吏部尚書<pc>，</pc>給事中范祖禹封還詔書<pc>，</pc>且言姚勔亦言之<pc>。</pc>
-<num value="3">三</num>省複除蒲宗孟兵部尚書<pc>。</pc>轍奏<pc>：</pc>
+<p>時<num value="3">三</num>省除<persName>李清臣</persName>吏部<term>尚書</term>
+<pc>，</pc>給事中范祖禹封還詔書<pc>，</pc>且言姚勔亦言之<pc>。</pc>
+<num value="3">三</num>省複除蒲宗孟兵部<term>尚書</term>
+<pc>。</pc>轍奏<pc>：</pc>
 <pc>「</pc>
 <quote>前除清臣<pc>，</pc>給諫紛然<pc>，</pc>爭之未定<pc>。</pc>今又用宗孟<pc>，</pc>恐不便<pc>。</pc>
 </quote>
@@ -362,11 +367,12 @@
 </quote>
 <pc>」</pc>轍曰<pc>：</pc>
 <pc>「</pc>
-<quote>尚書闕官已數年<pc>，</pc>何嘗闕事<pc>？</pc>今日用此<measure quantity="2" unit="people">
+<quote>
+<term>尚書</term>闕官已數年<pc>，</pc>何嘗闕事<pc>？</pc>今日用此<measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>
 <pc>，</pc>正與去年用鄧溫伯無異<pc>。</pc>此<measure quantity="3" unit="people">
 <num value="3">三</num>人</measure>者<pc>，</pc>非有大惡<pc>，</pc>但昔與<persName>王珪</persName>
-<pc>、</pc>蔡確輩並進<pc>，</pc>意思與今日聖政不合<pc>。</pc>見今尚書共闕<measure quantity="4" unit="people">
+<pc>、</pc>蔡確輩並進<pc>，</pc>意思與今日聖政不合<pc>。</pc>見今<term>尚書</term>共闕<measure quantity="4" unit="people">
 <num value="4">四</num>人</measure>
 <pc>，</pc>若並用似此<measure quantity="4" unit="people">
 <num value="4">四</num>人</measure>
@@ -377,8 +383,10 @@
 </div>
 <div>
 <p>
-<date notBefore="1094" notAfter="1098">紹聖</date>初<pc>，</pc>哲宗起李清臣為<term>中書舍人</term>
-<pc>，</pc>鄧潤甫為<term>尚書左丞</term>
+<date notBefore="1094" notAfter="1098">紹聖</date>初<pc>，</pc>哲宗起<persName>李清臣</persName>為<term>中書舍人</term>
+<pc>，</pc>
+<persName>鄧潤甫</persName>為<term>
+<term>尚書</term>左丞</term>
 <pc>。</pc>
 <measure quantity="2" unit="people">
 <num value="2">二</num>人</measure>久在外<pc>，</pc>不得志<pc>，</pc>稍複言熙<pc>、</pc>豐事以激怒哲宗意<pc>。</pc>會廷試進士<pc>，</pc>清臣撰策題<pc>，</pc>即為邪說<pc>。</pc>轍諫曰<pc>：</pc>
@@ -403,7 +411,9 @@
 <date notBefore="1078" notAfter="1085">元豐</date>諸臣皆會於朝<pc>，</pc>再責知袁州<pc>。</pc>未至<pc>，</pc>降朝議大夫<pc>、</pc>試少府監<pc>，</pc>分司南京<pc>，</pc>筠州居住<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>又責化州別駕<pc>，</pc>
+<pc>，</pc>又責<placeName>化州</placeName>
+<term>別駕</term>
+<pc>，</pc>
 <placeName>雷州</placeName>安置<pc>，</pc>移循州<pc>。</pc>徽宗即位<pc>，</pc>徙<placeName>永州</placeName>
 <pc>、</pc>
 <placeName>嶽州</placeName>

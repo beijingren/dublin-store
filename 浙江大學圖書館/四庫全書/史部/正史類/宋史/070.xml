@@ -819,9 +819,11 @@
 <p>
 <num value="5">五</num>點擊鐘<num value="100">一百</num>聲<pc>。</pc>雞唱<pc>、</pc>擊鼓<pc>，</pc>是謂攢點<pc>，</pc>至<num value="8">八</num>刻後為卯時正<pc>，</pc>
 <num value="4">四</num>時皆用此法<pc>。</pc>禁鐘又別有更點在長春殿門之外<pc>，</pc>玉清昭應宮<pc>、</pc>景靈宮<pc>、</pc>會靈觀<pc>、</pc>祥源觀及宗廟陵寢亦皆置焉<pc>，</pc>而更以鼓為節<pc>，</pc>點以鉦為節<pc>。</pc>
+<date when="1010">
 <date notBefore="1008" notAfter="1016">大中祥符</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>春官正韓顯符上<pc>《</pc>
 <title>銅渾儀法要</title>
 <pc>》</pc>
@@ -830,9 +832,11 @@
 </div>
 <div>
 <p>殿前報時雞唱<pc>，</pc>唐朝舊有詞<pc>，</pc>朱梁以來<pc>，</pc>因而廢棄<pc>，</pc>止唱和音<pc>。</pc>
+<date when="1007">
 <date notBefore="1004" notAfter="1007">景德</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <pc>，</pc>司天監請複用舊詞<pc>，</pc>遂詔兩制詳定<pc>，</pc>付之習唱<pc>。</pc>每大禮<pc>、</pc>禦殿<pc>、</pc>登樓<pc>、</pc>入閣<pc>、</pc>內宴<pc>、</pc>晝改時<pc>、</pc>夜改更則用之<pc>，</pc>常時改刻<pc>、</pc>改點則不用<pc>。</pc>
 </p>
 </div>
@@ -1379,9 +1383,11 @@
 </div>
 <div>
 <p>
+<date when="989">
 <date notBefore="988" notAfter="989">端拱</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <num value="56">己未</num>
@@ -1401,9 +1407,11 @@
 <pc>」</pc>
 <date notBefore="995" notAfter="997">至道</date>元年<pc>，</pc>昭晏又上言<pc>：</pc>
 <pc>「</pc>
-<quote>承詔考驗司天監丞王睿<date notBefore="984" notAfter="987">雍熙</date>
+<quote>承詔考驗司天監丞王睿<date when="987">
+<date notBefore="984" notAfter="987">雍熙</date>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>所上曆<pc>，</pc>以<num value="18">十八</num>事按驗<pc>，</pc>所得者<num value="6">六</num>
+<num value="4">四</num>年</measure>
+</date>所上曆<pc>，</pc>以<num value="18">十八</num>事按驗<pc>，</pc>所得者<num value="6">六</num>
 <pc>，</pc>所失者<num value="12">十二</num>
 <pc>。</pc>
 </quote>
@@ -1422,7 +1430,7 @@
 <pc>「</pc>
 <quote>按經史年曆<pc>，</pc>自漢<pc>、</pc>魏以降<pc>，</pc>雖有編聯<pc>，</pc>周<pc>、</pc>秦以前<pc>，</pc>多無<num value="1">甲子</num>
 <pc>。</pc>太史公司馬遷雖言歲次<pc>，</pc>詳求朔閏<pc>，</pc>則與經傳都不符合<pc>，</pc>乃言周武王元年歲在<num value="22">乙酉</num>
-<pc>。</pc>唐兵部尚書王起撰<pc>《</pc>
+<pc>。</pc>唐兵部<term>尚書</term>王起撰<pc>《</pc>
 <title>
 <num value="5">五</num>點陣圖</title>
 <pc>》</pc>
@@ -1468,23 +1476,29 @@
 <num value="3">三</num>日</measure>
 <num value="7">庚午</num>朏<pc>，</pc>王命作冊畢<pc>。</pc>自堯即位年<pc>，</pc>距春秋魯隱西元年<pc>，</pc>凡<measure quantity="1607" unit="years">
 <num value="1607">一千六百七</num>年</measure>
-<pc>；</pc>從隱西元年<pc>，</pc>距今<date notBefore="995" notAfter="997">至道</date>
+<pc>；</pc>從隱西元年<pc>，</pc>距今<date when="996">
+<date notBefore="995" notAfter="997">至道</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>凡<measure quantity="1715" unit="years">
 <num value="1715">一千七百一十五</num>年</measure>
-<pc>；</pc>從太甲元年<pc>，</pc>距今<date notBefore="995" notAfter="997">至道</date>
+<pc>；</pc>從太甲元年<pc>，</pc>距今<date when="996">
+<date notBefore="995" notAfter="997">至道</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>凡<measure quantity="2732" unit="years">
 <num value="2732">二千七百三十二</num>年</measure>
 <pc>；</pc>從魯莊公<measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
-<num value="28">辛卯</num>夜常星不見<pc>，</pc>距今<date notBefore="995" notAfter="997">至道</date>
+<num value="28">辛卯</num>夜常星不見<pc>，</pc>距今<date when="996">
+<date notBefore="995" notAfter="997">至道</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>凡<measure quantity="1681" unit="years">
 <num value="1681">一千六百八十一</num>年</measure>
 <pc>，</pc>從周靈王<measure quantity="20" unit="years">
@@ -1494,18 +1508,22 @@
 <pc>、</pc>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
-<num value="17">庚辰</num>兩朔頻食<pc>，</pc>距今<date notBefore="995" notAfter="997">至道</date>
+<num value="17">庚辰</num>兩朔頻食<pc>，</pc>距今<date when="996">
+<date notBefore="995" notAfter="997">至道</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>凡<measure quantity="1545" unit="years">
 <num value="1545">一千五百四十五</num>年</measure>
 <pc>；</pc>從魯哀公<measure quantity="16" unit="years">
 <num value="16">十六</num>年</measure>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
-<num value="2">乙丑</num>孔子卒<pc>，</pc>距今<date notBefore="995" notAfter="997">至道</date>
+<num value="2">乙丑</num>孔子卒<pc>，</pc>距今<date when="996">
+<date notBefore="995" notAfter="997">至道</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>凡<measure quantity="1472" unit="years">
 <num value="1472">一千四百七十二</num>年</measure>
 <pc>。</pc>以上並據經傳正文<pc>，</pc>用古曆推校<pc>，</pc>無不符合<pc>，</pc>乃知<pc>《</pc>
@@ -1576,7 +1594,7 @@
 <quote>本朝當越<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>而上承唐統為金德<pc>，</pc>若梁繼唐<pc>，</pc>傳後唐<pc>，</pc>至本朝亦合為金德<pc>。</pc>矧自國初符瑞色白者不可勝紀<pc>，</pc>皆金德之應也<pc>。</pc>望改正朔<pc>，</pc>易車旗服色<pc>，</pc>以承天統<pc>。</pc>
 </quote>
-<pc>」</pc>事下尚書省集議<pc>，</pc>常侍徐鉉與<num value="100">百</num>官奏議曰<pc>：</pc>
+<pc>」</pc>事下<term>尚書</term>省集議<pc>，</pc>常侍徐鉉與<num value="100">百</num>官奏議曰<pc>：</pc>
 <pc>「</pc>
 <quote>
 <num value="5">五</num>運相承<pc>，</pc>國家大事<pc>，</pc>著於前載<pc>，</pc>具有明文<pc>。</pc>頃以唐末喪亂<pc>，</pc>朱梁篡弑<pc>，</pc>莊宗早編屬籍<pc>，</pc>親雪國仇<pc>，</pc>中興唐祚<pc>，</pc>重新土運<pc>，</pc>以梁室比羿<pc>、</pc>浞<pc>、</pc>王莽<pc>，</pc>不為正統<pc>。</pc>自後數姓相傳<pc>，</pc>晉以金<pc>，</pc>漢以水<pc>，</pc>周以木<pc>，</pc>天造有宋<pc>，</pc>運膺火德<pc>。</pc>況國初祀赤帝為感生帝<pc>，</pc>於今<measure quantity="25" unit="years">
@@ -1595,10 +1613,13 @@
 </div>
 <div>
 <p>
+<date when="1010">
 <date notBefore="1008" notAfter="1016">大中祥符</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-<pc>，</pc>開封府功曹參軍張君房上言<pc>：</pc>
+</date>
+<pc>，</pc>
+<placeName>開封府</placeName>功曹參軍張君房上言<pc>：</pc>
 <pc>「</pc>
 <quote>自唐室下衰<pc>，</pc>土德隤圮<pc>，</pc>朱氏強稱金統<pc>，</pc>而莊宗旋復舊邦<pc>，</pc>則朱梁氏不入正統明矣<pc>。</pc>晉氏又複稱金<pc>，</pc>蓋謂乘于唐氏<pc>，</pc>殊不知李?建國於江南耳<pc>。</pc>漢家<num value="2">二</num>主<pc>，</pc>共止<measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
@@ -1616,9 +1637,11 @@
 </div>
 <div>
 <p>
+<date when="1020">
 <date notBefore="1017" notAfter="1021">天禧</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <pc>，</pc>光祿寺丞謝絳上書曰<pc>：</pc>
 </p>
 </div>

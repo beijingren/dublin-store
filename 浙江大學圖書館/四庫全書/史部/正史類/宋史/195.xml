@@ -129,9 +129,11 @@
 </div>
 <div>
 <p>
+<date when="1065">
 <date notBefore="1064" notAfter="1067">治平</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>詔<pc>：</pc>
 <pc>“</pc>
 <quote>河北戰卒<num value="301000">三十萬一千</num>
@@ -192,7 +194,7 @@
 <pc>，</pc>詔在京殿前馬步諸軍巡教使臣<pc>，</pc>並以春秋分行校試<pc>。</pc>射命中者第賜銀楪<pc>，</pc>兵房置籍考校<pc>，</pc>以多少定殿最<pc>。</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
-<pc>，</pc>詔以涇原路蔡挺衙教陣隊於崇政殿引見<pc>，</pc>仍頒諸路<pc>。</pc>其法<pc>：</pc>
+<pc>，</pc>詔以<placeName>涇原路</placeName>蔡挺衙教陣隊於崇政殿引見<pc>，</pc>仍頒諸路<pc>。</pc>其法<pc>：</pc>
 <num value="5">五</num>伍為隊<pc>，</pc>
 <num value="5">五</num>隊為陣<pc>，</pc>陣橫列<pc>，</pc>騎兵<num value="2">二</num>隊亦<num value="5">五</num>伍列之<pc>。</pc>其出皆以鼓為節<pc>，</pc>束草象人而射焉<pc>，</pc>中者有賞<pc>。</pc>馬步皆前<num value="3">三</num>行槍刀<pc>，</pc>後<num value="2">二</num>行弓弩<pc>，</pc>附隊以虎蹲弩<pc>、</pc>床子弩各<num value="1">一</num>
 <pc>，</pc>射與擊刺迭出<pc>，</pc>皆聞金即退<pc>。</pc>預籍人馬之強者隱於隊中<pc>，</pc>遇可用<pc>，</pc>則別出為奇<pc>。</pc>帝以其點閱周悉<pc>，</pc>常有出野之備<pc>，</pc>故令頒行<pc>。</pc>
@@ -300,7 +302,8 @@
 <num value="12">十二</num>月</measure>
 <pc>，</pc>詔<pc>：</pc>
 <pc>“</pc>
-<quote>開封府界<pc>、</pc>京東西將兵<pc>，</pc>
+<quote>
+<placeName>開封府</placeName>界<pc>、</pc>京東西將兵<pc>，</pc>
 <measure quantity="10" unit="people">
 <num value="10">十</num>人</measure>以<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>習馬射<pc>，</pc>受教於中都所遣教頭<pc>。</pc>在京步軍諸營弓箭手<pc>，</pc>亦<measure quantity="10" unit="people">
@@ -369,7 +372,7 @@
 <num value="7">七</num>年</measure>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
-<pc>，</pc>詔開封府界<pc>、</pc>京東西路專選監司提舉教閱<pc>。</pc>神宗留心武備<pc>，</pc>既命立武學<pc>、</pc>校<pc>《</pc>
+<pc>，</pc>詔<placeName>開封府</placeName>界<pc>、</pc>京<placeName>東西路</placeName>專選監司提舉教閱<pc>。</pc>神宗留心武備<pc>，</pc>既命立武學<pc>、</pc>校<pc>《</pc>
 <title>
 <num value="7">七</num>書</title>
 <pc>》</pc>以訓武舉之士<pc>，</pc>又頒兵法以肄軍旅<pc>，</pc>微妙淵通<pc>，</pc>取成於心<pc>，</pc>群臣莫望焉<pc>。</pc>
@@ -553,9 +556,11 @@
 </div>
 <div>
 <p>
+<date when="1121">
 <date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <pc>，</pc>立騎射賞法<pc>，</pc>其背射上垛中貼者<pc>，</pc>依步射法推賞<pc>。</pc>
@@ -577,9 +582,11 @@
 </p>
 </div>
 <div>
-<p>陣法<date notBefore="1068" notAfter="1077">熙寧</date>
+<p>陣法<date when="1069">
+<date notBefore="1068" notAfter="1077">熙寧</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <pc>，</pc>趙禼乞講求諸葛亮<num value="8">八</num>陣法<pc>，</pc>以授邊將<pc>，</pc>使之應變<pc>。</pc>詔郭逵同禼講求<pc>，</pc>相度地形<pc>，</pc>定為陣圖聞奏<pc>。</pc>
@@ -630,7 +637,7 @@
 <pc>《</pc>
 <title>
 <num value="4">四</num>路戰守約束</title>
-<pc>》</pc>各<num value="1">一</num>部<pc>，</pc>餘令關秦鳳路經略司抄錄<pc>。</pc>
+<pc>》</pc>各<num value="1">一</num>部<pc>，</pc>餘令關<placeName>秦鳳路</placeName>經略司抄錄<pc>。</pc>
 </p>
 </div>
 <div>
@@ -641,7 +648,7 @@
 <measure quantity="3" unit="people">
 <num value="3">三</num>人</measure>為<num value="1">一</num>小隊<pc>，</pc>
 <measure quantity="9" unit="people">
-<num value="9">九</num>人</measure>為<num value="1">一</num>中隊<pc>，</pc>賞罰俟成序日取裁<pc>。</pc>其隊伍及器甲之數<pc>，</pc>依涇原路牙教法<pc>。</pc>
+<num value="9">九</num>人</measure>為<num value="1">一</num>中隊<pc>，</pc>賞罰俟成序日取裁<pc>。</pc>其隊伍及器甲之數<pc>，</pc>依<placeName>涇原路</placeName>牙教法<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <pc>，</pc>趙禼言<pc>：</pc>
@@ -822,9 +829,11 @@
 </div>
 <div>
 <p>
+<date when="1081">
 <date notBefore="1078" notAfter="1085">元豐</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
+</date>
 <pc>，</pc>以<num value="9">九</num>軍法<num value="1">一</num>軍營陣按閱於城南好草陂<pc>，</pc>已事<pc>，</pc>獎諭<pc>。</pc>
 </p>
 </div>
@@ -841,21 +850,27 @@
 </div>
 <div>
 <p>
-<date notBefore="1086" notAfter="1094">元祐</date>元年<pc>，</pc>高翔言<pc>，</pc>乞以禦陣與新陣法相兼教閱<pc>，</pc>從之<pc>。</pc>蓋<date notBefore="1078" notAfter="1085">元豐</date>
+<date notBefore="1086" notAfter="1094">元祐</date>元年<pc>，</pc>高翔言<pc>，</pc>乞以禦陣與新陣法相兼教閱<pc>，</pc>從之<pc>。</pc>蓋<date when="1084">
+<date notBefore="1078" notAfter="1085">元豐</date>
 <measure quantity="7" unit="years">
 <num value="7">七</num>年</measure>
+</date>
 <pc>，</pc>詔專用<num value="5">五</num>陣法<pc>，</pc>而舊教禦陣遂廢<pc>；</pc>至是<pc>，</pc>複令互教<pc>。</pc>
+<date when="1096">
 <date notBefore="1094" notAfter="1098">紹聖</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>複罷教禦陣<pc>。</pc>
 </p>
 </div>
 <div>
 <p>
+<date when="1108">
 <date notBefore="1107" notAfter="1110">大觀</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <pc>，</pc>詔以<num value="5">五</num>陣法頒行諸路<pc>。</pc>
 </p>
 </div>
