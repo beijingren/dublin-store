@@ -198,11 +198,9 @@
 <quote>劉<name key="劉豫" type="givenName">豫</name>河北種田叟<pc>，</pc>安識禮制<pc>？</pc>
 </quote>
 <pc>」</pc>黜<name key="劉豫" type="givenName">豫</name>兩浙察訪<pc>。</pc>
-<date when="1124">
 <date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="6" unit="years">
 <num value="6">六</num>年</measure>
-</date>
 <pc>，</pc>判國子監<pc>，</pc>除河北提刑<pc>。</pc>
 </p>
 </div>
@@ -210,9 +208,11 @@
 <p>　　金人南侵<pc>，</pc>
 <name key="劉豫" type="givenName">豫</name>棄官避亂儀真<pc>。</pc>
 <name key="劉豫" type="givenName">豫</name>善中書侍郎張愨<pc>，</pc>
+<date when="1128">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
+</date>
 <measure quantity="1" unit="month">
 <num value="1">
 <num value="1">正</num>月</num>
@@ -741,9 +741,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1127" notAfter="1130">建炎</date>
+<p>　　<date when="1129">
+<date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <num value="59">壬戌</num>

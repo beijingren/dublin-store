@@ -2387,9 +2387,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1127" notAfter="1130">建炎</date>
+<p>　　<date when="1129">
+<date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="3" unit="months">
 <num value="3">三</num>月</measure>
 <num value="32">乙未</num>

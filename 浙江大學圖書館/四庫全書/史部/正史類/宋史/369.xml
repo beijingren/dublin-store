@@ -818,11 +818,9 @@
 </p>
 </div>
 <div>
-<p>　　<date when="1121">
-<date notBefore="1119" notAfter="1125">宣和</date>
+<p>　　<date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <pc>，</pc>劉延慶討方臘<pc>，</pc>以<name key="王淵" type="givenName">淵</name>為先鋒<pc>。</pc>賊將據錢塘<pc>，</pc>勢張甚<pc>。</pc>
 <name key="王淵" type="givenName">淵</name>諭小校韓世忠曰<pc>：</pc>
 <pc>「</pc>
@@ -869,9 +867,11 @@
 </p>
 </div>
 <div>
-<p>　　<date notBefore="1127" notAfter="1130">建炎</date>
+<p>　　<date when="1129">
+<date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <measure quantity="2" unit="months">
 <num value="2">二</num>月</measure>
 <pc>，</pc>金人攻<placeName>揚州</placeName>
@@ -924,9 +924,11 @@
 <pc>，</pc>字<name key="解元" type="zi">善長</name>
 <pc>，</pc>保安軍德清砦人<pc>。</pc>疏眉俊目<pc>，</pc>猿臂<pc>，</pc>善騎射<pc>。</pc>起行伍<pc>，</pc>為清澗都<term>虞候</term>
 <pc>。</pc>
+<date when="1129">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
+</date>
 <pc>，</pc>隸大將韓世忠麾下<pc>，</pc>擢偏將<pc>。</pc>世忠出下邳<pc>，</pc>聞金兵大至<pc>，</pc>士皆駭愕<pc>。</pc>
 <name key="解元" type="givenName">元</name>領<measure quantity="20" unit="riders">
 <num value="20">二十</num>騎</measure>擒其生口<pc>，</pc>知敵動息<pc>。</pc>俄逢騎數<num value="100">百</num>

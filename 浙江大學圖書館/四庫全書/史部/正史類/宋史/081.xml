@@ -618,9 +618,11 @@
 <pc>，</pc>乃為進朔<pc>，</pc>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>大盡<pc>。</pc>
+<date when="1129">
 <date notBefore="1127" notAfter="1130">建炎</date>
 <measure quantity="3" unit="years">
-<num value="3">三</num>年</measure>定<measure quantity="11" unit="months">
+<num value="3">三</num>年</measure>
+</date>定<measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <measure quantity="30" unit="days">
 <num value="30">三十</num>日</measure>
@@ -633,11 +635,9 @@
 <num value="11">十一</num>日</measure>
 <pc>，</pc>若即用遠大寒戌日定之<pc>，</pc>庶不出<measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
-<pc>。</pc>如<date when="1123">
-<date notBefore="1119" notAfter="1125">宣和</date>
+<pc>。</pc>如<date notBefore="1119" notAfter="1125">宣和</date>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-</date>
 <measure quantity="12" unit="months">
 <num value="12">十二</num>月</measure>
 <measure quantity="27" unit="days">
