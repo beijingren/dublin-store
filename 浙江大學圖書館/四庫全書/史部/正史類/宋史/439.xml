@@ -55,11 +55,9 @@
 </div>
 <div>
 <p>
-<date when="961">
 <date notBefore="960" notAfter="963">建隆</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>竇儀典貢部<pc>，</pc>擢進士甲科<pc>。</pc>
 <date notBefore="963" notAfter="968">乾德</date>初<pc>，</pc>獻文<num value="100">百</num>軸<pc>，</pc>試拔萃高等<pc>，</pc>解褐授著作佐郎<pc>，</pc>廷賜襲衣<pc>、</pc>犀帶<pc>。</pc>蜀平<pc>，</pc>授玉津縣令<pc>。</pc>
 <date notBefore="968" notAfter="976">開寶</date>中<pc>，</pc>閻丕<pc>、</pc>王洞交薦其才<pc>，</pc>宜預朝列<pc>。</pc>
@@ -87,11 +85,9 @@
 </div>
 <div>
 <p>
-<date when="980">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-</date>
 <pc>，</pc>與程羽同知貢舉<pc>，</pc>俄充史館修撰<pc>、</pc>判館事<pc>。</pc>
 <measure quantity="8" unit="years">
 <num value="8">八</num>年</measure>
@@ -114,11 +110,9 @@
 <name key="宋白" type="givenName">白</name>嚐過何承矩家<pc>，</pc>方陳倡優飲宴<pc>。</pc>有進士趙慶者<pc>，</pc>素無行檢<pc>，</pc>遊承矩之門<pc>，</pc>因潛出拜<name key="宋白" type="givenName">白</name>
 <pc>，</pc>求為薦名<pc>，</pc>及掌貢部<pc>，</pc>慶遂獲薦<pc>，</pc>人多指以為辭<pc>。</pc>又女弟適<persName>王沔</persName>
 <pc>，</pc>
-<date when="991">
 <date notBefore="990" notAfter="994">淳化</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>沔罷<term>參知政事</term>
 <pc>。</pc>時寇準方詆訐求進<pc>，</pc>故沔被出<pc>，</pc>複言<name key="宋白" type="givenName">白</name>家用黃金器蓋舉人所賂<pc>，</pc>其實<name key="宋白" type="givenName">白</name>嚐奉詔撰錢惟濬碑<pc>，</pc>得塗金器爾<pc>。</pc>
 </p>
@@ -141,11 +135,9 @@
 <title>榜子集</title>
 <pc>》</pc>
 <pc>，</pc>上察其意<pc>，</pc>欲求任用<pc>，</pc>遂命知<placeName>開封府</placeName>以試之<pc>，</pc>既而<name key="宋白" type="givenName">白</name>倦於聽斷<pc>，</pc>求罷任<pc>。</pc>
-<date when="1001">
 <date notBefore="998" notAfter="1003">鹹平</date>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
-</date>
 <pc>，</pc>擢王欽若<pc>、</pc>馮拯<pc>、</pc>陳堯叟入掌機要<pc>，</pc>以<name key="宋白" type="givenName">白</name>宿舊<pc>，</pc>拜禮部<term>尚書</term>
 <pc>。</pc>
 </p>
@@ -153,11 +145,9 @@
 <div>
 <p>
 <name key="宋白" type="givenName">白</name>學問宏博<pc>，</pc>屬文敏贍<pc>，</pc>然辭意放蕩<pc>，</pc>少法度<pc>。</pc>在內署久<pc>，</pc>頗厭番直<pc>，</pc>草辭疏略<pc>，</pc>多不愜旨<pc>。</pc>
-<date when="1005">
 <date notBefore="1004" notAfter="1007">景德</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>與梁周翰俱罷<pc>，</pc>拜刑部<term>尚書</term>
 <pc>、</pc>集賢院學士<pc>、</pc>判院事<pc>。</pc>舊<num value="3">三</num>館學士止<measure quantity="5" unit="days">
 <num value="5">五</num>日</measure>內殿起居<pc>，</pc>會錢易上言<pc>，</pc>悉令赴外朝<pc>。</pc>
@@ -168,11 +158,9 @@
 </div>
 <div>
 <p>
-<date when="1010">
 <date notBefore="1008" notAfter="1016">大中祥符</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <pc>，</pc>丁內艱<pc>。</pc>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
@@ -212,9 +200,11 @@
 <pc>，</pc>
 <placeName>鄭州</placeName>管城人<pc>。</pc>父彥溫<pc>，</pc>廷州馬步軍都校<pc>。</pc>
 <name key="梁周翰" type="givenName">周翰</name>幼好學<pc>，</pc>
-<num value="10">十</num>歲能屬詞<pc>。</pc>周<date notBefore="951" notAfter="953">廣順</date>
+<num value="10">十</num>歲能屬詞<pc>。</pc>周<date when="952">
+<date notBefore="951" notAfter="953">廣順</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>舉進士<pc>，</pc>授虞城主簿<pc>，</pc>辭疾不赴<pc>。</pc>
+<num value="2">二</num>年</measure>
+</date>舉進士<pc>，</pc>授虞城主簿<pc>，</pc>辭疾不赴<pc>。</pc>
 <term>宰相</term>範質<pc>、</pc>王溥以其聞人<pc>，</pc>不當佐外邑<pc>，</pc>改<placeName>開封府</placeName>戶曹參軍<pc>。</pc>宋初<pc>，</pc>質<pc>、</pc>溥仍為相<pc>，</pc>引為秘書郎<pc>、</pc>直史館<pc>。</pc>
 </p>
 </div>
@@ -289,11 +279,9 @@
 <measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>
 <pc>，</pc>在<placeName>眉州</placeName>坐杖人至死<pc>，</pc>奪<num value="2">二</num>官<pc>。</pc>起授太子左讚善大夫<pc>。</pc>
-<date when="970">
 <date notBefore="968" notAfter="976">開寶</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <pc>，</pc>遷右拾遺<pc>，</pc>監綾綿院<pc>，</pc>改左補闕兼知大理正事<pc>。</pc>會將郊祀<pc>，</pc>因上疏曰<pc>：</pc>
 <pc>“</pc>
 <quote>陛下再郊上帝<pc>，</pc>必覃赦宥<pc>。</pc>臣以天下至大<pc>，</pc>其中有慶澤所未及<pc>、</pc>節文所未該者<pc>，</pc>所宜推而廣之<pc>。</pc>方今賦稅年入至多<pc>，</pc>加以科變之物<pc>，</pc>名品非<num value="1">一</num>
@@ -329,11 +317,9 @@
 <name key="梁周翰" type="givenName">周翰</name>為考官<pc>，</pc>麵賜金紫<pc>，</pc>因語<term>宰相</term>
 <pc>，</pc>稱其有文<pc>，</pc>尋遷<term>起居舍人</term>
 <pc>。</pc>
-<date when="994">
 <date notBefore="990" notAfter="994">淳化</date>
 <measure quantity="5" unit="years">
 <num value="5">五</num>年</measure>
-</date>
 <pc>，</pc>張佖建議複置左右史之職<pc>，</pc>乃命<name key="梁周翰" type="givenName">周翰</name>與李宗諤分領之<pc>。</pc>
 <name key="梁周翰" type="givenName">周翰</name>兼起居郎<pc>，</pc>因上言<pc>：</pc>
 <pc>“</pc>
@@ -365,11 +351,9 @@
 <div>
 <p>真宗在儲宮<pc>，</pc>知其名<pc>，</pc>徵之<pc>，</pc>時為左庶子<pc>，</pc>因令取其所為文章<pc>，</pc>
 <name key="梁周翰" type="givenName">周翰</name>悉纂以獻<pc>，</pc>上答以書<pc>。</pc>及即位<pc>，</pc>未行慶<pc>，</pc>首擢為駕部郎中<pc>、</pc>知製誥<pc>，</pc>俄判史館<pc>、</pc>昭文館<pc>。</pc>
-<date when="1000">
 <date notBefore="998" notAfter="1003">鹹平</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <pc>，</pc>召入翰林為學士<pc>，</pc>受詔與趙安易同修屬籍<pc>。</pc>唐末喪亂<pc>，</pc>籍譜罕存<pc>，</pc>無所取則<pc>，</pc>
 <name key="梁周翰" type="givenName">周翰</name>創意為之<pc>，</pc>頗有倫貫<pc>。</pc>車駕幸澶淵<pc>，</pc>命判留司<term>禦史</term>台<pc>，</pc>
 <name key="梁周翰" type="givenName">周翰</name>懇求扈從<pc>，</pc>從之<pc>。</pc>明年<pc>，</pc>授給事中<pc>，</pc>與宋白俱罷學士<pc>。</pc>
@@ -495,32 +479,26 @@
 <name key="朱昂" type="givenName">昂</name>誅其首惡<pc>，</pc>凡支黨之詿誤者悉貰之<pc>。</pc>就遷監察<term>禦史</term>
 <pc>、</pc>江南<term>轉運副使</term>
 <pc>。</pc>
-<date when="977">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>知<placeName>鄂州</placeName>
 <pc>，</pc>加殿中侍<term>禦史</term>
 <pc>，</pc>為峽路<term>轉運副使</term>
 <pc>，</pc>就改庫部<term>員外郎</term>
 <pc>，</pc>遷<term>轉運使</term>
 <pc>。</pc>
-<date when="989">
 <date notBefore="988" notAfter="989">端拱</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>以本官直秘閣<pc>，</pc>賜金紫<pc>。</pc>久之<pc>，</pc>出知複州<pc>，</pc>表求謝事<pc>，</pc>不許<pc>。</pc>遷水部郎中<pc>，</pc>複請老<pc>，</pc>召還<pc>，</pc>再直秘閣<pc>，</pc>尋兼越王府記室參軍<pc>。</pc>
 </p>
 </div>
 <div>
 <p>直宗即位<pc>，</pc>遷秩司封郎中<pc>，</pc>俄知製誥<pc>，</pc>判史館<pc>，</pc>受詔編次<num value="3">三</num>館秘閣書籍<pc>，</pc>既畢<pc>，</pc>加吏部<pc>。</pc>
-<date when="999">
 <date notBefore="998" notAfter="1003">鹹平</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>召入翰林為學士<pc>。</pc>逾年<pc>，</pc>拜章乞骸骨<pc>，</pc>召對<pc>，</pc>敦諭<pc>，</pc>請彌確<pc>，</pc>乃拜工部侍郎致仕<pc>。</pc>翌日<pc>，</pc>遣使就第賜器幣<pc>，</pc>給全奉<pc>，</pc>詔本府歲時存問<pc>，</pc>章奏聽附驛以聞<pc>。</pc>命其子正辭知公安縣<pc>，</pc>以便侍養<pc>，</pc>許歸江陵<pc>。</pc>舊製<pc>，</pc>致仕官止謝殿門外<pc>，</pc>
 <name key="朱昂" type="givenName">昂</name>特延見命坐<pc>，</pc>恩禮甚厚<pc>。</pc>令俟秋涼上道<pc>，</pc>遣中使賜宴於<placeName>玉津園</placeName>
 <pc>，</pc>兩製<num value="3">三</num>館皆預<pc>，</pc>仍詔賦詩餞行<pc>，</pc>縉紳榮之<pc>。</pc>
@@ -535,11 +513,9 @@
 <num value="3">三</num>卷</measure>上之<pc>，</pc>詔以其書付史館<pc>。</pc>弟協以純謹著稱<pc>，</pc>仕至主客郎中<pc>、</pc>雍王府翊善<pc>。</pc>
 <name key="朱昂" type="givenName">昂</name>以書招之<pc>，</pc>協亦告老歸<pc>。</pc>兄弟皆眉壽<pc>，</pc>時人比漢之<num value="2">二</num>疏<pc>。</pc>知府陳堯谘署其居曰東<pc>、</pc>西致政坊<pc>。</pc>
 <name key="朱昂" type="givenName">昂</name>於所居建<num value="2">二</num>亭<pc>：</pc>曰知止<pc>，</pc>曰幽棲<pc>。</pc>頗好釋氏書<pc>。</pc>晚歲自為墓誌<pc>。</pc>
-<date when="1007">
 <date notBefore="1004" notAfter="1007">景德</date>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>
-</date>卒<pc>，</pc>年<num value="83">八十三</num>
+<num value="4">四</num>年</measure>卒<pc>，</pc>年<num value="83">八十三</num>
 <pc>，</pc>門人諡曰正裕先生<pc>。</pc>詔加賻贈<pc>，</pc>錄其孫適出身<pc>。</pc>
 </p>
 </div>
@@ -567,11 +543,9 @@
 </p>
 </div>
 <div>
-<p>周<date when="955">
-<date notBefore="954" notAfter="960">顯德</date>
+<p>周<date notBefore="954" notAfter="960">顯德</date>
 <measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>
-</date>舉進士<pc>，</pc>解褐秘書省校書郎<pc>，</pc>曆<placeName>許州</placeName>
+<num value="2">二</num>年</measure>舉進士<pc>，</pc>解褐秘書省校書郎<pc>，</pc>曆<placeName>許州</placeName>
 <pc>、</pc>宋州從事<pc>。</pc>
 <date notBefore="976" notAfter="984">太平興國</date>初<pc>，</pc>召為左讚善大夫<pc>、</pc>直史館<pc>，</pc>改宗正丞<pc>。</pc>
 <measure quantity="4" unit="years">
@@ -631,11 +605,9 @@
 </div>
 <div>
 <p>
-<date when="970">
 <date notBefore="968" notAfter="976">開寶</date>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
-</date>
 <pc>，</pc>自涇陽令入為監察<term>禦史</term>
 <pc>，</pc>後曆侍<term>禦史</term>
 <pc>，</pc>累知忠<pc>、</pc>
@@ -849,11 +821,9 @@
 <measure quantity="9" unit="years">
 <num value="9">九</num>年</measure>
 <pc>，</pc>江南平<pc>，</pc>受詔采訪<pc>。</pc>太宗即位<pc>，</pc>遷主客郎中<pc>。</pc>
-<date when="977">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="2" unit="years">
 <num value="2">二</num>年</measure>
-</date>
 <pc>，</pc>知<placeName>兗州</placeName>
 <pc>，</pc>改京東<term>轉運使</term>
 <pc>。</pc>
@@ -906,11 +876,9 @@
 </div>
 <div>
 <p>
-<date when="983">
 <date notBefore="976" notAfter="984">太平興國</date>
 <measure quantity="8" unit="years">
-<num value="8">八</num>年</measure>
-</date>擢進士第<pc>，</pc>釋褐霍丘主簿<pc>。</pc>
+<num value="8">八</num>年</measure>擢進士第<pc>，</pc>釋褐霍丘主簿<pc>。</pc>
 <date notBefore="984" notAfter="987">雍熙</date>初<pc>，</pc>知崇仁縣<pc>，</pc>就拜大理評事<pc>。</pc>江南轉運楊緘以其材幹奏<pc>，</pc>移知南昌縣<pc>。</pc>代還<pc>，</pc>刑部取為詳覆官<pc>，</pc>遷光祿寺丞<pc>。</pc>
 </p>
 </div>
@@ -1005,11 +973,9 @@
 <title>明憲皇太後諡議</title>
 <pc>》</pc>
 <pc>，</pc>見稱於時<pc>。</pc>
-<date when="963">
 <date notBefore="960" notAfter="963">建隆</date>
 <measure quantity="4" unit="years">
-<num value="4">四</num>年</measure>
-</date>卒<pc>，</pc>年<num value="45">四十五</num>
+<num value="4">四</num>年</measure>卒<pc>，</pc>年<num value="45">四十五</num>
 <pc>。</pc>
 </p>
 </div>
