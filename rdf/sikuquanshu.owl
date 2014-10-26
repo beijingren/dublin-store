@@ -284,6 +284,12 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ObjectPropertyAssertion(:zi :陳升之 :腸叔)
 	ObjectPropertyAssertion(:birthPlace :陳升之 :建陽)
 
+	ClassAssertion(:Person :呂公著)
+	DataPropertyAssertion(:birthYear :呂公著 "1018"^^xsd:gYear)
+	DataPropertyAssertion(:deathYear :呂公著 "1089"^^xsd:gYear)
+	ObjectPropertyAssertion(:zi :呂公著 :晦叔)
+	ObjectPropertyAssertion(:birthPlace :呂公著 :萊州)
+
 	ClassAssertion(:Person :司馬光)
 	DataPropertyAssertion(:birthYear :司馬光 "1019"^^xsd:gYear)
 	DataPropertyAssertion(:deathYear :司馬光 "1089"^^xsd:gYear)
@@ -570,7 +576,6 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Zhou :趙州)
 	ClassAssertion(:Zhou :達州)
 	ClassAssertion(:Zhou :邕州)
-	ClassAssertion(:Zhou :邕州)
 	ClassAssertion(:Zhou :邛州)
 	ClassAssertion(:Zhou :邠州)
 	ClassAssertion(:Zhou :邢州)
@@ -626,10 +631,21 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Zhou :祁州)
 	ClassAssertion(:Zhou :沙州)
 	ClassAssertion(:Zhou :瓜州)
-
-
-
-
+	ClassAssertion(:Zhou :蘄州)
+	ClassAssertion(:Zhou :郴州)
+	ClassAssertion(:Zhou :黃州)
+	ClassAssertion(:Zhou :澄州)
+	ClassAssertion(:Zhou :惠州)
+	ClassAssertion(:Zhou :莫州)
+	ClassAssertion(:Zhou :涇州)
+	ClassAssertion(:Zhou :武州)
+	ClassAssertion(:Zhou :萊州)
+	ClassAssertion(:Zhou :彭州)
+	ClassAssertion(:Zhou :錦州)
+	ClassAssertion(:Zhou :營州)
+	ClassAssertion(:Zhou :檀州)
+	ClassAssertion(:Zhou :陝州)
+	
 	ClassAssertion(:Fu :鳳翔府)
 	ClassAssertion(:Fu :開封府)
 	ClassAssertion(:Fu :江陵府)
@@ -653,9 +669,12 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Lu :鄜延路)
 	ClassAssertion(:Lu :涇原路)
 	ClassAssertion(:Lu :鄜延路)
+	ClassAssertion(:Lu :梓夔路)
 
 	ClassAssertion(:Jun :忠武軍)
 	ClassAssertion(:Jun :建寧軍)
+	ClassAssertion(:Jun :保寧軍)
+
 
 	ClassAssertion(:Garden :玉津園)
 	ClassAssertion(:Garden :金鳳園)
@@ -668,6 +687,8 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:Country :占城國)
 	ClassAssertion(:Country :高麗國)
 
+	ClassAssertion(:Library :龍圖閣)
+
 	ClassAssertion(:GovernmentAgency :國子監)
 	ClassAssertion(:GovernmentAgency :兵部)
 	ClassAssertion(:GovernmentAgency :禮部)
@@ -675,6 +696,8 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:GovernmentAgency :吏部)
 	ClassAssertion(:GovernmentAgency :工部)
 	ClassAssertion(:GovernmentAgency :翰林)
+	ClassAssertion(:GovernmentAgency :秘書省)
+
 
 
 	ClassAssertion(:SexagenaryCycle :甲子)
@@ -934,9 +957,17 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	DataPropertyAssertion(:beginYear :大觀 "1107"^^xsd:gYear)
 	DataPropertyAssertion(:endYear :大觀 "1110"^^xsd:gYear)
 
+	ClassAssertion(:Nianhao :政和)
+	DataPropertyAssertion(:beginYear :政和 "1111"^^xsd:gYear)
+	DataPropertyAssertion(:endYear :政和 "1118"^^xsd:gYear)
+
 	ClassAssertion(:Nianhao :宣和)
 	DataPropertyAssertion(:beginYear :宣和 "1119"^^xsd:gYear)
 	DataPropertyAssertion(:endYear :宣和 "1125"^^xsd:gYear)
+
+	ClassAssertion(:Nianhao :靖康)
+	DataPropertyAssertion(:beginYear :靖康 "1126"^^xsd:gYear)
+	DataPropertyAssertion(:endYear :靖康 "1127"^^xsd:gYear)
 
 	ClassAssertion(:Nianhao :建炎)
 	DataPropertyAssertion(:beginYear :建炎 "1127"^^xsd:gYear)
@@ -1026,6 +1057,10 @@ Ontology(<http://example.org/owl/sikuquanshu#>
 	ClassAssertion(:OfficialTitle :御史中丞)
 	ClassAssertion(:OfficialTitle :參知政事)
 	ClassAssertion(:OfficialTitle :別駕)
+	ClassAssertion(:OfficialTitle :司天少監)
+	ClassAssertion(:OfficialTitle :司農少卿)
+	ClassAssertion(:OfficialTitle :司天監)
+	ClassAssertion(:OfficialTitle :校書郎)
 
 ClassAssertion(:Glyph :東)
 DataPropertyAssertion(:PSY :東 "東"^^xsd:string)
