@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="zh">新唐書</title>
+<title xml:lang="en">New History of the Tang</title>
+<author>
+<name>
+<choice>
+<sic>歐陽修</sic>
+</choice>
+</name>
+</author>
+</titleStmt>
+<publicationStmt>
+<p>This document is published under a CC Attribution-Share Alike License</p>
+</publicationStmt>
+<sourceDesc>
+<p>XXX</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="chapter" n="66">
+<div>
+<p>置營平鎮守<pc>，</pc>治太<placeName>平州</placeName>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>澤潞節度增領懷<pc>、</pc>
+<placeName>衛</placeName>
+<measure quantity="2" unit="prefectures">
+<num value="2">二</num>州</measure>
+<pc>，</pc>尋以衛州還相衛節度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>省景州<pc>。</pc>
+</p>
+</div>
+<div>
+<p>廢瀛莫<term>節度使</term>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>橫海<term>節度使</term>復領景州<pc>。</pc>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

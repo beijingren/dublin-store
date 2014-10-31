@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="zh">新唐書</title>
+<title xml:lang="en">New History of the Tang</title>
+<author>
+<name>
+<choice>
+<sic>歐陽修</sic>
+</choice>
+</name>
+</author>
+</titleStmt>
+<publicationStmt>
+<p>This document is published under a CC Attribution-Share Alike License</p>
+</publicationStmt>
+<sourceDesc>
+<p>XXX</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="chapter" n="69">
+<div>
+<p>
+<placeName>嚴州</placeName>隸容管<term>觀察使</term>
+<pc>。</pc>羅州隸嶺南節度<pc>。</pc>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

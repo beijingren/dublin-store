@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="zh">新唐書</title>
+<title xml:lang="en">New History of the Tang</title>
+<author>
+<name>
+<choice>
+<sic>歐陽修</sic>
+</choice>
+</name>
+</author>
+</titleStmt>
+<publicationStmt>
+<p>This document is published under a CC Attribution-Share Alike License</p>
+</publicationStmt>
+<sourceDesc>
+<p>XXX</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="chapter" n="68">
+<div>
+<p>升<placeName>壽州</placeName>
+<term>團練使</term>為都團練<term>觀察使</term>
+<pc>，</pc>領壽<pc>、</pc>濠<pc>、</pc>
+<placeName>廬</placeName>
+<measure quantity="3" unit="prefectures">
+<num value="3">三</num>州</measure>
+<pc>，</pc>治<placeName>壽州</placeName>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>升<placeName>壽州</placeName>
+<term>團練使</term>為都<term>團練使</term>
+<pc>，</pc>領<placeName>壽</placeName>
+<pc>、</pc>
+<placeName>泗</placeName>
+<pc>、</pc>
+<placeName>楚</placeName>
+<measure quantity="3" unit="prefectures">
+<num value="3">三</num>州</measure>
+<pc>，</pc>治<placeName>泗州</placeName>
+<pc>。</pc>尋廢都<term>團練使</term>
+<pc>，</pc>復為<placeName>壽州</placeName>
+<term>團練使</term>
+<pc>，</pc>以<placeName>泗州</placeName>隸武寧節度<pc>，</pc>
+<placeName>楚州</placeName>隸淮南節度<pc>。</pc>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

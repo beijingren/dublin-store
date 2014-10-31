@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="zh">新唐書</title>
+<title xml:lang="en">New History of the Tang</title>
+<author>
+<name>
+<choice>
+<sic>歐陽修</sic>
+</choice>
+</name>
+</author>
+</titleStmt>
+<publicationStmt>
+<p>This document is published under a CC Attribution-Share Alike License</p>
+</publicationStmt>
+<sourceDesc>
+<p>XXX</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="chapter" n="54">
+<div>
+<p>唐有鹽池<num value="18">十八</num>
+<pc>，</pc>井<num value="640">六百四十</num>
+<pc>，</pc>皆隸度支<pc>。</pc>蒲州安邑<pc>、</pc>解縣有池<num value="5">五</num>
+<pc>，</pc>總曰<pc>「</pc>
+<quote>兩池</quote>
+<pc>」</pc>
+<pc>，</pc>歲得鹽<measure quantity="10000" unit="HUs">
+<num value="10000">萬</num>斛</measure>分為分析判斷和綜合判斷<pc>。</pc>但前者未擴大新的內容<pc>，</pc>後者不<pc>，</pc>以供京師<pc>。</pc>鹽州<num value="5">五</num>原有烏池<pc>、</pc>白池<pc>、</pc>瓦池<pc>、</pc>細項池<pc>，</pc>
+<placeName>靈州</placeName>有溫泉池<pc>、</pc>兩井池<pc>、</pc>長尾池<pc>、</pc>
+<num value="5">五</num>泉池<pc>、</pc>紅桃池<pc>、</pc>回樂池<pc>、</pc>弘靜池<pc>、</pc>會州<placeName>有</placeName>河池<pc>，</pc>
+<measure quantity="3" unit="prefectures">
+<num value="3">三</num>州</measure>皆輸米以代鹽<pc>。</pc>安北都護府有胡落池<pc>，</pc>歲得鹽<measure quantity="4000" unit="HUs">
+<num value="4000">萬四千</num>斛</measure>
+<pc>，</pc>以給振武<pc>、</pc>天德<pc>。</pc>黔州有井<num value="41">四十一</num>
+<pc>，</pc>
+<placeName>成州</placeName>
+<pc>、</pc>巂州井各<num value="1">一</num>
+<pc>，</pc>果<pc>、</pc>閬<pc>、</pc>開<pc>、</pc>通井<num value="23">百二十三</num>
+<pc>，</pc>山南西院領之<pc>。</pc>邛<pc>、</pc>眉<pc>、</pc>嘉有井<num value="13">十三</num>
+<pc>，</pc>劍南西川院領之<pc>。</pc>梓<pc>、</pc>遂<pc>、</pc>綿<pc>、</pc>合<pc>、</pc>昌<pc>、</pc>渝<pc>、</pc>瀘<pc>、</pc>資<pc>、</pc>榮<pc>、</pc>陵<pc>、</pc>簡有井<num value="460">四百六十</num>
+<pc>，</pc>劍南東川院領之<pc>。</pc>皆隨月督課<pc>。</pc>
+<placeName>幽州</placeName>
+<pc>、</pc>大同橫野軍有鹽屯<pc>，</pc>每屯有丁有兵<pc>，</pc>歲得鹽<measure quantity="2800" unit="HUs">
+<num value="2800">二千八百</num>斛</measure>
+<pc>，</pc>下者<measure quantity="500" unit="HUs">
+<num value="500">千五百</num>斛</measure>
+<pc>。</pc>負<placeName>海州</placeName>歲免租為鹽<measure quantity="20000" unit="HUs">
+<num value="20000">二萬</num>斛</measure>以輸司農<pc>。</pc>青<pc>、</pc>楚<pc>、</pc>海<pc>、</pc>滄<pc>、</pc>棣<pc>、</pc>杭<pc>、</pc>蘇等州<pc>，</pc>以鹽價市輕貨<pc>，</pc>亦輸司農<pc>。</pc>
+</p>
+</div>
+<div>
+<p>天寶<pc>、</pc>至德間<pc>，</pc>鹽每鬥<num value="10">十</num>錢<pc>。</pc>乾元元年<pc>，</pc>鹽鐵<pc>、</pc>鑄錢使第<num value="5">五</num>琦初變鹽法<pc>，</pc>就山海井竈近利之地置監院<pc>，</pc>遊民業鹽者為亭戶<pc>，</pc>免雜徭<pc>。</pc>盜鬻者論以法<pc>。</pc>及琦為諸州榷<term>鹽鐵使</term>
+<pc>，</pc>盡榷天下鹽<pc>，</pc>鬥加時價<num value="100">百</num>錢而出之<pc>，</pc>為錢<num value="110">一百一十</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>自兵起<pc>，</pc>流庸未復<pc>，</pc>稅賦不足供費<pc>，</pc>
+<term>鹽鐵使</term>劉晏以為因民所急而稅之<pc>，</pc>則國足用<pc>。</pc>於是上鹽法輕重之宜<pc>，</pc>以鹽吏多則州縣擾<pc>，</pc>出鹽鄉因舊監置吏<pc>，</pc>亭戶糶商人<pc>，</pc>縱其所之<pc>。</pc>江<pc>、</pc>嶺去鹽遠者<pc>，</pc>有常平鹽<pc>，</pc>每商人不至<pc>，</pc>則減價以糶民<pc>，</pc>官收厚利而人不知貴<pc>。</pc>晏又以鹽生霖潦則鹵薄<pc>，</pc>旱則土溜墳<pc>，</pc>乃隨時為令<pc>，</pc>遣吏曉導<pc>，</pc>倍於勸農<pc>。</pc>吳<pc>、</pc>越<pc>、</pc>揚<pc>、</pc>楚鹽廩至數<num value="1000">千</num>
+<pc>，</pc>積鹽<num value="20000">二萬</num>余石<pc>。</pc>有漣水<pc>、</pc>湖州<pc>、</pc>
+<placeName>越州</placeName>
+<pc>、</pc>
+<placeName>杭州</placeName>
+<num value="4">四</num>場<pc>，</pc>嘉興<pc>、</pc>海陵<pc>、</pc>鹽城<pc>、</pc>新亭<pc>、</pc>臨平<pc>、</pc>蘭亭<pc>、</pc>永嘉<pc>、</pc>大昌<pc>、</pc>候官<pc>、</pc>富都<num value="10">十</num>監<pc>，</pc>歲得錢<num value="100">百</num>余<num value="10000">萬</num>緡<pc>，</pc>以當<num value="100">百</num>余州之賦<pc>。</pc>自淮北置巡院<num value="13">十三</num>
+<pc>，</pc>曰<placeName>揚州</placeName>
+<pc>、</pc>陳許<pc>、</pc>汴州<pc>、</pc>廬壽<pc>、</pc>白沙<pc>、</pc>淮西<pc>、</pc>甬橋<pc>、</pc>浙西<pc>、</pc>宋州<pc>、</pc>
+<placeName>泗州</placeName>
+<pc>、</pc>嶺南<pc>、</pc>兗鄆<pc>、</pc>鄭滑<pc>，</pc>捕私鹽者<pc>，</pc>奸盜為之衰息<pc>。</pc>然諸道加榷鹽錢<pc>，</pc>商人舟所過有稅<pc>。</pc>晏奏罷州縣率稅<pc>，</pc>禁堰埭邀以利者<pc>。</pc>晏之始至也<pc>，</pc>鹽利歲才<num value="400000">四十萬</num>緡<pc>，</pc>至大歷末<pc>，</pc>
+<num value="600">六百</num>余<num value="10000">萬</num>緡<pc>。</pc>天下之賦<pc>，</pc>鹽利居半<pc>，</pc>宮闈服禦<pc>、</pc>軍饟<pc>、</pc>
+<num value="100">百</num>官祿俸皆仰給焉<pc>。</pc>明年而晏罷<pc>。</pc>
+</p>
+</div>
+<div>
+<p>貞元<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>
+<pc>，</pc>淮南<term>節度使</term>陳少遊奏加民賦<pc>，</pc>自此江淮鹽每鬥亦增<num value="200">二百</num>
+<pc>，</pc>為錢<num value="310">三百一十</num>
+<pc>，</pc>其後復增<num value="60">六十</num>
+<pc>，</pc>河中兩池鹽每鬥為錢<num value="370">三百七十</num>
+<pc>。</pc>江淮豪賈射利<pc>，</pc>或時倍之<pc>，</pc>官收不能過半<pc>，</pc>民始怨矣<pc>。</pc>
+</p>
+</div>
+<div>
+<p>劉晏鹽法既成<pc>，</pc>商人納絹以代鹽利者<pc>，</pc>每緡加錢<num value="200">二百</num>
+<pc>，</pc>以備將士春服<pc>。</pc>包佶為汴東水陸運<pc>、</pc>兩稅<pc>、</pc>
+<term>鹽鐵使</term>
+<pc>，</pc>許以漆器<pc>、</pc>玳瑁<pc>、</pc>綾綺代鹽價<pc>，</pc>雖不可用者亦高估而售之<pc>，</pc>廣虛數以罔上<pc>。</pc>亭戶冒法<pc>，</pc>私鬻不絕<pc>，</pc>巡捕之卒<pc>，</pc>遍於州縣<pc>。</pc>鹽估益貴<pc>，</pc>商人乘時射利<pc>，</pc>遠鄉貧民困高估<pc>，</pc>至有淡食者<pc>。</pc>巡吏既多<pc>，</pc>官冗傷財<pc>，</pc>當時病之<pc>。</pc>其後軍費日增<pc>，</pc>鹽價浸貴<pc>，</pc>有以谷數鬥易鹽<num value="1">一</num>升<pc>。</pc>私糴犯法<pc>，</pc>未嘗少息<pc>。</pc>
+</p>
+</div>
+<div>
+<p>順宗時始減江淮鹽價<pc>，</pc>每鬥為錢<num value="250">二百五十</num>
+<pc>，</pc>河中兩池鹽鬥錢<num value="300">三百</num>
+<pc>。</pc>增雲安<pc>、</pc>渙陽<pc>、</pc>塗鞬<num value="3">三</num>監<pc>。</pc>其後<term>鹽鐵使</term>李锜奏江淮鹽鬥減錢<num value="10">十</num>以便民<pc>，</pc>未幾復舊<pc>。</pc>方是時<pc>，</pc>锜盛貢獻以固寵<pc>，</pc>朝廷大臣皆餌以厚貨<pc>，</pc>鹽鐵之利積於私室<pc>，</pc>而國用耗屈<pc>，</pc>榷鹽法大壞<pc>，</pc>多為虛估<pc>，</pc>率<num value="1000">千</num>錢不滿<num value="30">百三十</num>而已<pc>。</pc>兵部侍郎李巽為使<pc>，</pc>以鹽利皆歸度支<pc>，</pc>物無虛估<pc>，</pc>天下糶鹽稅茶<pc>，</pc>其贏<num value="6650000">六百六十五萬</num>緡<pc>。</pc>初歲之利<pc>，</pc>如劉晏之季年<pc>，</pc>其後則<num value="3">三</num>倍晏時矣<pc>。</pc>兩池鹽利<pc>，</pc>歲收<num value="50">百五十</num>余<num value="10000">萬</num>緡<pc>。</pc>
+<num value="4">四</num>方豪商猾賈<pc>、</pc>雜處解縣<pc>，</pc>主以郎官<pc>，</pc>其佐貳皆禦史<pc>。</pc>鹽民田園籍於縣<pc>，</pc>而令不得以縣民治之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>憲宗之討淮西也<pc>，</pc>
+<term>度支使</term>皇甫镈加劍南東西兩川<pc>、</pc>山南西道鹽估以供軍<pc>。</pc>貞元中<pc>，</pc>盜鬻兩池鹽<num value="1">一</num>石者死<pc>，</pc>至元和中<pc>，</pc>減死流天德<num value="5">五</num>城<pc>，</pc>镈奏論死如初<pc>。</pc>
+<num value="1">一</num>鬥以上杖背<pc>，</pc>沒其車驢<pc>，</pc>能捕鬥鹽者賞<num value="1000">千</num>錢<pc>；</pc>節度<term>觀察使</term>以判官<pc>、</pc>州以司錄錄事參軍察私鹽<pc>，</pc>漏<num value="1">一</num>石以上罰課料<pc>；</pc>鬻兩池鹽者<pc>，</pc>坊市居邸主人<pc>、</pc>市儈皆論坐<pc>；</pc>盜刮鹻土<num value="1">一</num>鬥<pc>，</pc>比鹽<num value="1">一</num>升<pc>。</pc>州縣團保相察<pc>，</pc>比於貞元加酷矣<pc>。</pc>自兵興<pc>，</pc>河北鹽法羈縻而已<pc>。</pc>至皇甫镈<pc>，</pc>又奏置榷鹽使<pc>，</pc>如江淮榷法<pc>，</pc>犯禁歲多<pc>。</pc>及田弘正舉魏博歸朝廷<pc>，</pc>穆宗命河北罷榷鹽<pc>。</pc>戶部侍郎張平叔議榷鹽法弊<pc>，</pc>請糶鹽可以富國<pc>，</pc>詔公卿議其可否<pc>。</pc>
+<term>中書舍人</term>韋處厚<pc>、</pc>兵部侍郎<persName>韓愈</persName>條詰之<pc>，</pc>以為不可<pc>，</pc>平叔屈服<pc>。</pc>是時奉天鹵池生水柏<pc>，</pc>以灰<measure quantity="1" unit="HU">
+<num value="1">一</num>斛</measure>得鹽<num value="12">十二</num>斤<pc>，</pc>利倍鹻鹵<pc>。</pc>文帝時<pc>，</pc>采灰<num value="1">一</num>鬥<pc>，</pc>比鹽<num value="1">一</num>斤論罪<pc>。</pc>開成末<pc>，</pc>詔私鹽月再犯者<pc>，</pc>易縣令<pc>，</pc>罰<term>刺史</term>俸<pc>；</pc>
+<num value="10">十</num>犯<pc>，</pc>則罰觀察<pc>、</pc>判官課科<pc>。</pc>
+</p>
+</div>
+<div>
+<p>宣宗即位<pc>，</pc>茶<pc>、</pc>鹽之法益密<pc>，</pc>糶鹽少<pc>、</pc>私盜多者<pc>，</pc>謫觀察<pc>、</pc>判官<pc>，</pc>不計<num value="10">十</num>犯<pc>。</pc>戶部侍郎<pc>、</pc>判度支盧弘止以兩池鹽法敝<pc>，</pc>遣巡院官司空輿更立新法<pc>，</pc>其課倍入<pc>，</pc>遷榷鹽使<pc>。</pc>以壕籬者<pc>，</pc>鹽池之堤禁<pc>，</pc>有盜壞與鬻鹻皆死<pc>，</pc>鹽盜持弓矢者亦皆死刑<pc>。</pc>兵部侍郎<pc>、</pc>判度支周墀又言<pc>：</pc>
+<pc>「</pc>
+<quote>兩池鹽盜販者<pc>，</pc>跡其居處<pc>，</pc>保<pc>、</pc>社按罪<pc>。</pc>鬻<num value="5">五</num>石<pc>，</pc>市<num value="2">二</num>石<pc>，</pc>亭戶盜糶<num value="2">二</num>石<pc>，</pc>皆死<pc>。</pc>
+</quote>
+<pc>」</pc>是時江<pc>、</pc>吳群盜<pc>，</pc>以所剽物易茶鹽<pc>，</pc>不受者焚其室廬<pc>，</pc>吏不敢枝梧<pc>，</pc>鎮戍<pc>、</pc>場鋪<pc>、</pc>堰埭以關通致富<pc>。</pc>宣宗乃擇嘗更兩畿輔望縣令者為監院官<pc>。</pc>戶部侍郎裴休為<term>鹽鐵使</term>
+<pc>，</pc>上鹽法<num value="8">八</num>事<pc>，</pc>其法皆施行<pc>，</pc>兩池榷課大增<pc>。</pc>
+</p>
+</div>
+<div>
+<p>其後兵遍天下<pc>，</pc>諸鎮擅利<pc>，</pc>兩池為河中<term>節度使</term>王重榮所有<pc>，</pc>歲貢鹽<num value="3000">三千</num>車<pc>。</pc>中官田令孜募新軍<num value="54">五十四</num>都<pc>，</pc>餫轉不足<pc>，</pc>乃倡議兩池復歸<term>鹽鐵使</term>
+<pc>，</pc>而重榮不奉詔<pc>，</pc>至舉兵反<pc>，</pc>僖宗為再出<pc>，</pc>然而卒不能奪<pc>。</pc>
+</p>
+</div>
+<div>
+<p>唐初無酒禁<pc>。</pc>乾元元年<pc>，</pc>京師酒貴<pc>，</pc>肅宗以稟食方屈<pc>，</pc>乃禁京城酤酒<pc>，</pc>期以麥熟如初<pc>。</pc>
+<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>饑<pc>，</pc>復禁酤<pc>，</pc>非光祿祭祀<pc>、</pc>燕蕃客<pc>，</pc>不禦酒<pc>。</pc>廣德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>定天下酤戶以月收稅<pc>。</pc>建中元年<pc>，</pc>罷之<pc>。</pc>
+<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>
+<pc>，</pc>復禁民酤<pc>，</pc>以佐軍費<pc>，</pc>置肆釀酒<pc>，</pc>斛收直<num value="3000">三千</num>
+<pc>，</pc>州縣總領<pc>，</pc>醨薄私釀者論其罪<pc>。</pc>尋以京師<num value="4">四</num>方所湊<pc>，</pc>罷榷<pc>。</pc>貞元<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>復禁京城<pc>、</pc>畿縣酒<pc>，</pc>天下置肆以酤者<pc>，</pc>鬥錢<num value="50">百五十</num>
+<pc>，</pc>免其徭役<pc>，</pc>獨淮南<pc>、</pc>忠武<pc>、</pc>宣武<pc>、</pc>河東榷麹而已<pc>。</pc>元和<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>
+<pc>，</pc>罷京師酤肆<pc>，</pc>以榷酒錢隨兩稅青苗斂之<pc>。</pc>大和<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>
+<pc>，</pc>遂罷京師榷酤<pc>。</pc>凡天下榷酒為錢<num value="560000">百五十六萬</num>余緡<pc>，</pc>在襄費居<num value="3">三</num>之<num value="1">一</num>
+<pc>，</pc>貧戶逃酤不在焉<pc>。</pc>昭宗世<pc>，</pc>以用度不足<pc>，</pc>易京畿近鎮麹法<pc>，</pc>復榷酒以贍軍<pc>，</pc>鳳翔<term>節度使</term>李茂貞方顓其利<pc>，</pc>按兵請入奏利害<pc>，</pc>天子遽罷之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>初<pc>，</pc>德宗納戶部侍郎趙贊議<pc>，</pc>稅天下茶<pc>、</pc>漆<pc>、</pc>竹<pc>、</pc>木<pc>，</pc>
+<num value="10">十</num>取<num value="1">一</num>
+<pc>，</pc>以為常平本錢<pc>。</pc>及出奉天<pc>，</pc>乃悼悔<pc>，</pc>下詔亟罷之<pc>。</pc>及硃泚平<pc>，</pc>佞臣希意興利者益進<pc>。</pc>貞元<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>
+<pc>，</pc>以水災減稅<pc>，</pc>明年<pc>，</pc>諸道<term>鹽鐵使</term>張滂奏<pc>：</pc>出茶州縣若山及商人要路<pc>，</pc>以<num value="3">三</num>等定估<pc>，</pc>
+<num value="10">十</num>稅其<num value="1">一</num>
+<pc>。</pc>自是歲得錢<num value="400000">四十萬</num>緡<pc>，</pc>然水旱亦未嘗拯之也<pc>。</pc>
+</p>
+</div>
+<div>
+<p>穆宗即位<pc>，</pc>兩鎮用兵<pc>，</pc>帑藏空虛<pc>，</pc>禁中起<num value="100">百</num>尺樓<pc>，</pc>費不可勝計<pc>。</pc>
+<term>鹽鐵使</term>王播圖寵以自幸<pc>，</pc>乃增天下茶稅<pc>，</pc>率<num value="100">百</num>錢增<num value="50">五十</num>
+<pc>。</pc>江淮<pc>、</pc>浙東西<pc>、</pc>嶺南<pc>、</pc>福建<pc>、</pc>荊襄茶<pc>，</pc>播自領之<pc>，</pc>兩川以戶部領之<pc>。</pc>天下茶加斤至<num value="20">二十</num>兩<pc>，</pc>播又奏加取焉<pc>。</pc>右拾遺李玨上疏諫曰<pc>：</pc>
+<pc>「</pc>
+<quote>榷率起於養兵<pc>，</pc>今邊境無虞<pc>，</pc>而厚斂傷民<pc>，</pc>不可<num value="1">一</num>也<pc>；</pc>茗飲<pc>，</pc>人之所資<pc>，</pc>重稅則價必增<pc>，</pc>貧弱益困<pc>，</pc>不可<num value="2">二</num>也<pc>；</pc>山澤之饒<pc>，</pc>其出不訾<pc>，</pc>論稅以售多為利<pc>，</pc>價騰踴則市者稀<pc>，</pc>不可<num value="3">三</num>也<pc>。</pc>
+</quote>
+<pc>」</pc>其後王涯判<num value="2">二</num>使<pc>，</pc>置榷茶使<pc>，</pc>徙民茶樹於官場<pc>，</pc>焚其舊積者<pc>，</pc>天下大怨<pc>。</pc>令狐楚代為<term>鹽鐵使</term>兼榷茶使<pc>，</pc>復令納榷<pc>，</pc>加價而已<pc>。</pc>李石為相<pc>，</pc>以茶稅皆歸鹽鐵<pc>，</pc>復貞元之制<pc>。</pc>
+</p>
+</div>
+<div>
+<p>武宗即位<pc>，</pc>鹽鐵<term>轉運使</term>崔珙又增江淮茶稅<pc>。</pc>是時茶商所過州縣有重稅<pc>，</pc>或掠奪舟車<pc>，</pc>露積雨中<pc>，</pc>諸道置邸以收稅<pc>，</pc>謂之<pc>「</pc>
+<quote>搨地錢</quote>
+<pc>」</pc>
+<pc>，</pc>故私販益起<pc>。</pc>大中初<pc>，</pc>鹽鐵<term>轉運使</term>裴休著條約<pc>：</pc>私鬻<num value="3">三</num>犯皆<num value="300">三百</num>斤<pc>，</pc>乃論死<pc>；</pc>長行群旅<pc>，</pc>茶雖少皆死<pc>；</pc>雇載<num value="3">三</num>犯至<num value="500">五百</num>斤<pc>、</pc>居舍儈保<num value="4">四</num>犯至<num value="1000">千</num>斤者<pc>，</pc>皆死<pc>；</pc>園戶私鬻<num value="100">百</num>斤以上<pc>，</pc>杖背<pc>，</pc>
+<num value="3">三</num>犯<pc>，</pc>加重徭<pc>；</pc>伐園失業者<pc>，</pc>
+<term>刺史</term>
+<pc>、</pc>縣令以縱私鹽論<pc>。</pc>廬<pc>、</pc>壽<pc>、</pc>淮南皆加半稅<pc>，</pc>私商給自首之帖<pc>，</pc>天下稅茶增倍貞元<pc>。</pc>江淮茶為大摸<pc>，</pc>
+<num value="1">一</num>斤至<num value="50">五十</num>兩<pc>。</pc>諸道<term>鹽鐵使</term>於悰每斤增稅錢<num value="5">五</num>
+<pc>，</pc>謂之<pc>「</pc>
+<quote>剩茶錢</quote>
+<pc>」</pc>
+<pc>，</pc>自是斤兩復舊<pc>。</pc>
+</p>
+</div>
+<div>
+<p>凡銀<pc>、</pc>銅<pc>、</pc>鐵<pc>、</pc>錫之冶<num value="168">一百六十八</num>
+<pc>。</pc>陜<pc>、</pc>
+<placeName>宣</placeName>
+<pc>、</pc>潤<pc>、</pc>
+<placeName>饒</placeName>
+<pc>、</pc>
+<placeName>衢</placeName>
+<pc>、</pc>
+<placeName>信</placeName>
+<measure quantity="5" unit="prefectures">
+<num value="5">五</num>州</measure>
+<pc>，</pc>銀冶<num value="58">五十八</num>
+<pc>，</pc>銅冶<num value="96">九十六</num>
+<pc>，</pc>鐵山<num value="5">五</num>
+<pc>，</pc>錫山<num value="2">二</num>
+<pc>，</pc>銅山<num value="4">四</num>
+<pc>。</pc>
+<placeName>汾州</placeName>礬山<num value="7">七</num>
+<pc>。</pc>麟德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>廢陜州銅冶<num value="48">四十八</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>開元<measure quantity="15" unit="years">
+<num value="15">十五</num>年</measure>
+<pc>，</pc>初稅伊陽<num value="5">五</num>重山銀<pc>、</pc>錫<pc>。</pc>德宗時戶部侍郎韓洄建議<pc>，</pc>山澤之利宜歸王者<pc>，</pc>自是皆隸<term>鹽鐵使</term>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>元和初<pc>，</pc>天下銀治廢者<num value="40">四十</num>
+<pc>，</pc>歲采銀<num value="2000">萬二千</num>兩<pc>，</pc>銅<num value="266000">二十六萬六千</num>斤<pc>，</pc>鐵<num value="2070000">二百七萬</num>斤<pc>，</pc>錫<num value="50000">五萬</num>斤<pc>，</pc>鉛無常數<pc>。</pc>
+</p>
+</div>
+<div>
+<p>開成元年<pc>，</pc>復以山澤之利歸州縣<pc>，</pc>
+<term>刺史</term>選吏主之<pc>。</pc>其後諸州牟利以自殖<pc>，</pc>舉天下不過<num value="70000">七萬</num>余緡<pc>，</pc>不能當<num value="1">一</num>縣之茶稅<pc>。</pc>及宣宗增河湟戍兵衣絹<num value="520000">五十二萬</num>余匹<pc>。</pc>鹽鐵<term>轉運使</term>裴休請復歸<term>鹽鐵使</term>以供國用<pc>，</pc>增銀冶<num value="2">二</num>
+<pc>、</pc>鐵山<num value="71">七十一</num>
+<pc>，</pc>廢銅冶<num value="27">二十七</num>
+<pc>、</pc>鉛山<num value="1">一</num>
+<pc>。</pc>天下歲率銀<num value="25000">二萬五千</num>兩<pc>、</pc>銅<num value="655000">六十五萬五千</num>斤<pc>、</pc>鉛<num value="114000">十一萬四千</num>斤<pc>、</pc>錫<num value="7000">萬七千</num>斤<pc>、</pc>鐵<num value="532000">五十三萬二千</num>斤<pc>。</pc>
+</p>
+</div>
+<div>
+<p>隋末行<num value="5">五</num>銖白錢<pc>，</pc>天下盜起<pc>，</pc>私鑄錢行<pc>。</pc>
+<num value="1000">千</num>錢初重<num value="2">二</num>斤<pc>，</pc>其後愈輕<pc>，</pc>不及<num value="1">一</num>斤<pc>，</pc>鐵葉<pc>、</pc>皮紙皆以為錢<pc>。</pc>高祖入長安<pc>，</pc>民間行線環錢<pc>，</pc>其制輕小<pc>，</pc>凡<num value="720000">八九萬</num>才滿半斛<pc>。</pc>
+</p>
+</div>
+<div>
+<p>武德<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>
+<pc>，</pc>鑄<pc>「</pc>
+<quote>開元通寶</quote>
+<pc>」</pc>
+<pc>，</pc>徑<num value="8">八</num>分<pc>，</pc>重<num value="2">二</num>銖<num value="4">四</num>參<pc>，</pc>積<num value="10">十</num>錢重<num value="1">一</num>兩<pc>，</pc>得輕重大小之中<pc>，</pc>其文以<num value="8">八</num>分<pc>、</pc>篆<pc>、</pc>隸<num value="3">三</num>體<pc>。</pc>洛<pc>、</pc>並<pc>、</pc>幽<pc>、</pc>益<pc>、</pc>桂等州皆置監<pc>。</pc>賜秦王<pc>、</pc>齊王<num value="3">三</num>爐<pc>，</pc>右仆射裴寂<num value="1">一</num>爐以鑄<pc>。</pc>盜鑄者論死<pc>，</pc>沒其家屬<pc>。</pc>
+</p>
+</div>
+<div>
+<p>其後盜鑄漸起<pc>。</pc>顯慶<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>
+<pc>，</pc>以惡錢多<pc>，</pc>官為市之<pc>，</pc>以<num value="1">一</num>善錢售<num value="5">五</num>惡錢<pc>，</pc>民間藏惡錢以待禁馳<pc>。</pc>乾封元年<pc>，</pc>改鑄<pc>「</pc>
+<quote>乾封泉寶</quote>
+<pc>」</pc>錢<pc>，</pc>徑寸<pc>，</pc>重<num value="2">二</num>銖<num value="6">六</num>分<pc>，</pc>以<num value="1">一</num>當舊錢之<num value="10">十</num>
+<pc>。</pc>逾年而舊錢多廢<pc>。</pc>明年<pc>，</pc>以商賈不通<pc>，</pc>米帛踴貴<pc>，</pc>復行開元通寶錢<pc>，</pc>天下皆鑄之<pc>。</pc>然私錢犯法日蕃<pc>，</pc>有以舟筏鑄江中者<pc>。</pc>詔所在納惡錢<pc>，</pc>而奸亦不息<pc>。</pc>儀鳳中<pc>，</pc>瀕江民多私鑄錢為業<pc>，</pc>詔巡江官督捕<pc>，</pc>載銅<pc>、</pc>錫<pc>、</pc>镴過<num value="100">百</num>斤者沒官<pc>。</pc>
+<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>
+<pc>，</pc>命東都糶米粟<pc>，</pc>鬥別納惡錢<num value="100">百</num>
+<pc>，</pc>少府<pc>、</pc>司農毀之<pc>。</pc>是時鑄多錢賤<pc>，</pc>米粟踴貴<pc>，</pc>乃罷少府鑄<pc>，</pc>尋復舊<pc>。</pc>永淳元年<pc>，</pc>私鑄者抵死<pc>，</pc>鄰<pc>、</pc>保<pc>、</pc>裏<pc>、</pc>坊<pc>、</pc>村正皆從坐<pc>。</pc>武後時<pc>，</pc>錢非穿穴及鐵錫銅液<pc>，</pc>皆得用之<pc>，</pc>熟銅<pc>、</pc>排鬥<pc>、</pc>沙澀之錢皆售<pc>，</pc>自是盜鑄蜂起<pc>，</pc>江淮遊民依大山陂海以鑄<pc>，</pc>吏莫能捕<pc>。</pc>
+</p>
+</div>
+<div>
+<p>先天之際<pc>，</pc>兩京錢益濫<pc>，</pc>郴<pc>、</pc>衡錢才有輪郭<pc>，</pc>鐵錫<num value="5">五</num>銖之屬皆可用之<pc>。</pc>或熔錫摸錢<pc>，</pc>須臾<num value="10">百十</num>
+<pc>。</pc>開元初<pc>，</pc>
+<term>宰相</term>宋璟請禁惡錢<pc>，</pc>行<num value="2">二</num>銖<num value="4">四</num>參錢<pc>，</pc>毀舊錢不可用者<pc>。</pc>江淮有官爐錢<pc>、</pc>偏爐錢<pc>、</pc>棱錢<pc>、</pc>時錢<pc>，</pc>遣監察禦史蕭隱之使江淮<pc>，</pc>率戶出惡錢<pc>，</pc>捕責甚峻<pc>，</pc>上青錢皆輸官<pc>，</pc>小惡者沈江湖<pc>，</pc>市井不通<pc>，</pc>物價益貴<pc>，</pc>隱之坐貶官<pc>。</pc>宋璟又請出米<measure quantity="100000" unit="HUs">
+<num value="100000">十萬</num>斛</measure>收惡錢<pc>，</pc>少府毀之<pc>。</pc>
+<measure quantity="11" unit="years">
+<num value="11">十一</num>年</measure>
+<pc>，</pc>詔所在加鑄<pc>，</pc>禁賣銅錫及造銅器者<pc>。</pc>
+<measure quantity="20" unit="years">
+<num value="20">二十</num>年</measure>
+<pc>，</pc>
+<num value="1000">千</num>錢以重<num value="6">六</num>斤<num value="4">四</num>兩為率<pc>，</pc>每錢重<num value="2">二</num>銖<num value="4">四</num>參<pc>，</pc>禁缺頓<pc>、</pc>沙澀<pc>、</pc>蕩染<pc>、</pc>白強<pc>、</pc>黑強之錢<pc>。</pc>首者<pc>，</pc>官為市之<pc>。</pc>銅<num value="1">一</num>斤為錢<num value="80">八十</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>
+<measure quantity="22" unit="years">
+<num value="22">二十二</num>年</measure>
+<pc>，</pc>
+<term>宰相</term>張<num value="9">九</num>齡建議<pc>：</pc>
+<pc>「</pc>
+<quote>古者以布帛菽粟不可尺寸抄勺而均<pc>，</pc>乃為錢以通貿易<pc>。</pc>官鑄所入無幾<pc>，</pc>而工費多<pc>，</pc>宜縱民鑄<pc>。</pc>
+</quote>
+<pc>」</pc>議下<num value="100">百</num>官<pc>，</pc>
+<term>宰相</term>裴耀卿<pc>、</pc>黃門侍郎李林甫<pc>、</pc>河南少尹蕭炅<pc>、</pc>秘書監崔沔皆以為<pc>「</pc>
+<quote>嚴斷惡錢則人知禁<pc>，</pc>稅銅折役則官冶可成<pc>，</pc>計估度庸則私錢以利薄而自息<pc>。</pc>若許私鑄<pc>，</pc>則下皆棄農而競利矣<pc>。</pc>
+</quote>
+<pc>」</pc>左監門衛錄事參軍事劉秩曰<pc>：</pc>
+<pc>「</pc>
+<quote>今之錢<pc>，</pc>古之下幣也<pc>。</pc>若舍之任人<pc>，</pc>則上無以禦下<pc>，</pc>下無以事上<pc>，</pc>不可<num value="1">一</num>也<pc>；</pc>物賤傷農<pc>，</pc>錢輕傷賈<pc>，</pc>物重則錢輕<pc>，</pc>錢輕由乎物多<pc>，</pc>多則作法收之使少<pc>，</pc>物少則作法布之使輕<pc>，</pc>奈何假人<pc>？</pc>不可<num value="2">二</num>也<pc>；</pc>鑄錢不雜鉛鐵則無利<pc>，</pc>雜則錢惡<pc>。</pc>今塞私鑄之路<pc>，</pc>人猶冒死<pc>，</pc>況設陷井誘之<pc>？</pc>不可<num value="3">三</num>也<pc>；</pc>鑄錢無利則人不鑄<pc>，</pc>有利則去南畝者眾<pc>，</pc>不可<num value="4">四</num>也<pc>；</pc>人富則不可以賞勸<pc>、</pc>貧則不可以威禁<pc>，</pc>法不行<pc>，</pc>人不理<pc>，</pc>繇貧富不齊<pc>，</pc>若得鑄錢<pc>，</pc>貧者服役於富室<pc>，</pc>富室乘而益恣<pc>，</pc>不可<num value="5">五</num>也<pc>。</pc>夫錢重繇人日滋於前<pc>，</pc>而爐不加舊<pc>。</pc>公錢與銅價頗等<pc>，</pc>故破重錢為輕錢<pc>，</pc>銅之不贍<pc>，</pc>在采用者眾也<pc>。</pc>銅之為兵不如鐵<pc>，</pc>為器不如漆<pc>。</pc>禁銅則人無所用<pc>，</pc>盜鑄者少<pc>，</pc>公錢不破<pc>，</pc>人不犯死<pc>，</pc>錢又日增<pc>，</pc>是<num value="1">一</num>舉而<num value="4">四</num>美兼也<pc>。</pc>
+</quote>
+<pc>」</pc>是時公卿皆以縱民鑄為不便<pc>，</pc>於是下詔禁惡錢而已<pc>。</pc>信安郡王祎復言國用不足<pc>，</pc>請縱私鑄<pc>，</pc>議者皆畏祎帝弟之貴<pc>，</pc>莫敢與抗<pc>，</pc>獨倉部郎中韋伯陽以為不可<pc>，</pc>祎議亦格<pc>。</pc>
+</p>
+</div>
+<div>
+<p>
+<measure quantity="26" unit="years">
+<num value="26">二十六</num>年</measure>
+<pc>，</pc>宣<pc>、</pc>潤等州初置錢監<pc>，</pc>兩京用錢稍善<pc>，</pc>米粟價益下<pc>。</pc>其後錢又漸惡<pc>，</pc>詔出銅所在置監<pc>，</pc>鑄<pc>「</pc>
+<quote>開元通寶</quote>
+<pc>」</pc>錢<pc>，</pc>京師庫藏皆滿<pc>。</pc>天下盜鑄益起<pc>，</pc>廣陵<pc>、</pc>丹楊<pc>、</pc>宣城尤甚<pc>。</pc>京師權豪<pc>，</pc>歲歲取之<pc>，</pc>舟車相屬<pc>。</pc>江淮偏爐錢數<num value="10">十</num>種<pc>，</pc>雜以鐵錫<pc>，</pc>輕漫無復錢形<pc>。</pc>公鑄者號官爐錢<pc>，</pc>
+<num value="1">一</num>以當偏爐錢<num value="56">七八</num>
+<pc>，</pc>富商往往藏之<pc>，</pc>以易江淮私鑄者<pc>。</pc>兩京錢有鵝眼<pc>、</pc>古文<pc>、</pc>線環之別<pc>，</pc>每貫重不過<num value="12">三四</num>斤<pc>，</pc>至翦鐵而緡之<pc>。</pc>
+<term>宰相</term>李林甫請出絹布<num value="3000000">三百萬</num>匹<pc>，</pc>平估收錢<pc>，</pc>物價踴貴<pc>，</pc>訴者日<measure quantity="10000" unit="people">
+<num value="10000">萬</num>人</measure>
+<pc>。</pc>兵部侍郎楊國忠欲招權以市恩<pc>，</pc>揚鞭市門曰<pc>：</pc>
+<pc>「</pc>
+<quote>行當復之<pc>。</pc>
+</quote>
+<pc>」</pc>明日<pc>，</pc>詔復行舊錢<pc>。</pc>天寶<num value="11">十一</num>載<pc>，</pc>又出錢<num value="300000">三十萬</num>緡易兩市惡錢<pc>，</pc>出左藏庫排鬥錢<pc>，</pc>許民易之<pc>。</pc>國忠又言錢非鐵錫<pc>、</pc>銅沙<pc>、</pc>穿穴<pc>、</pc>古文<pc>，</pc>皆得用之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>是時增調農人鑄錢<pc>，</pc>既非所習<pc>，</pc>皆不聊生<pc>。</pc>內作判官韋倫請厚價募工<pc>，</pc>繇是役用減而鼓鑄多<pc>。</pc>天下爐<num value="99">九十九</num>
+<pc>：</pc>
+<placeName>絳州</placeName>
+<num value="30">三十</num>
+<pc>，</pc>揚<pc>、</pc>潤<pc>、</pc>宣<pc>、</pc>鄂<pc>、</pc>蔚皆<num value="10">十</num>
+<pc>，</pc>益<pc>、</pc>鄧<pc>、</pc>郴皆<num value="5">五</num>
+<pc>，</pc>
+<placeName>洋州</placeName>
+<num value="3">三</num>
+<pc>，</pc>
+<placeName>定州</placeName>
+<num value="1">一</num>
+<pc>。</pc>每爐歲鑄錢<num value="3300">三千三百</num>緡<pc>，</pc>役丁匠<num value="30">三十</num>
+<pc>，</pc>費銅<num value="21200">二萬一千二百</num>斤<pc>、</pc>镴<num value="3700">三千七百</num>斤<pc>、</pc>錫<num value="500">五百</num>斤<pc>。</pc>每<num value="1000">千</num>錢費錢<num value="750">七百五十</num>
+<pc>。</pc>天下歲鑄<num value="327000">三十二萬七千</num>緡<pc>。</pc>
+</p>
+</div>
+<div>
+<p>肅宗乾元元年<pc>，</pc>經費不給<pc>，</pc>鑄錢使第<num value="5">五</num>琦鑄<pc>「</pc>
+<quote>乾元重寶</quote>
+<pc>」</pc>錢<pc>，</pc>徑<num value="1">一</num>寸<pc>，</pc>每緡重<num value="10">十</num>斤<pc>，</pc>與開元通寶參用<pc>，</pc>以<num value="1">一</num>當<num value="10">十</num>
+<pc>，</pc>亦號<pc>「</pc>
+<quote>乾元<num value="10">十</num>當錢</quote>
+<pc>」</pc>
+<pc>。</pc>先是諸爐鑄錢窳薄<pc>，</pc>熔破錢及佛像<pc>，</pc>謂之<pc>「</pc>
+<quote>盤陀</quote>
+<pc>」</pc>
+<pc>，</pc>皆鑄為私錢<pc>，</pc>犯者杖死<pc>。</pc>第<num value="5">五</num>琦為相<pc>，</pc>復命<placeName>絳州</placeName>諸爐鑄重輪乾元錢<pc>，</pc>徑<num value="1">一</num>寸<num value="2">二</num>分<pc>，</pc>其文亦曰<pc>：</pc>
+<pc>「</pc>
+<quote>乾元重寶</quote>
+<pc>」</pc>
+<pc>，</pc>背之外郭為重輪<pc>，</pc>每緡重<num value="12">十二</num>斤<pc>，</pc>與開元通寶錢並行<pc>，</pc>以<num value="1">一</num>當<num value="50">五十</num>
+<pc>。</pc>是時民間行<num value="3">三</num>錢<pc>，</pc>大而重棱者亦號<pc>「</pc>
+<quote>重棱錢</quote>
+<pc>」</pc>
+<pc>。</pc>法既屢易<pc>，</pc>物價騰踴<pc>，</pc>米鬥錢至<num value="7000">七千</num>
+<pc>，</pc>餓死者滿道<pc>。</pc>
+</p>
+</div>
+<div>
+<p>初<pc>，</pc>有<pc>「</pc>
+<quote>虛錢</quote>
+<pc>」</pc>
+<pc>，</pc>京師人人私鑄<pc>，</pc>並小錢<pc>，</pc>壞鐘<pc>、</pc>像<pc>，</pc>犯禁者愈眾<pc>。</pc>鄭叔清為京兆尹<pc>，</pc>數月榜死者<num value="800">八百</num>余人<pc>。</pc>肅宗以新錢不便<pc>，</pc>命<num value="100">百</num>官集議<pc>，</pc>不能改<pc>。</pc>上元元年<pc>，</pc>減重輪錢以<num value="1">一</num>當<num value="30">三十</num>
+<pc>，</pc>開元舊錢與乾元<num value="10">十</num>當錢<pc>，</pc>皆以<num value="1">一</num>當<num value="10">十</num>
+<pc>，</pc>碾硙鬻受<pc>，</pc>得為實錢<pc>，</pc>虛錢交易皆用<num value="10">十</num>當錢<pc>，</pc>由是錢有虛實之名<pc>。</pc>
+</p>
+</div>
+<div>
+<p>史思明據東都<pc>，</pc>亦鑄<pc>「</pc>
+<quote>得<num value="1">一</num>元寶</quote>
+<pc>」</pc>錢<pc>，</pc>徑<num value="1">一</num>寸<num value="4">四</num>分<pc>，</pc>以<num value="1">一</num>當開元通寶之<num value="100">百</num>
+<pc>。</pc>既而惡<pc>「</pc>
+<quote>得<num value="1">一</num>
+</quote>
+<pc>」</pc>非長祚之兆<pc>，</pc>改其文曰<pc>「</pc>
+<quote>順天元寶</quote>
+<pc>」</pc>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>代宗即位<pc>，</pc>乾元重寶錢以<num value="1">一</num>當<num value="2">二</num>
+<pc>，</pc>重輪錢以<num value="1">一</num>當<num value="3">三</num>
+<pc>，</pc>凡<measure quantity="3" unit="days">
+<num value="3">三</num>日</measure>而大小錢皆以<num value="1">一</num>當<num value="1">一</num>
+<pc>。</pc>自第<num value="5">五</num>琦更鑄<pc>，</pc>犯法者日數<num value="100">百</num>
+<pc>，</pc>州縣不能禁止<pc>，</pc>至是人甚便之<pc>。</pc>其後民間乾元<pc>、</pc>重棱<num value="2">二</num>錢鑄為器<pc>，</pc>不復出矣<pc>。</pc>當時議者以為<pc>：</pc>
+<pc>「</pc>
+<quote>自天寶至今<pc>，</pc>戶<num value="900">九百</num>余<num value="10000">萬</num>
+<pc>。</pc>
+<pc>《</pc>
+<title>王制</title>
+<pc>》</pc>
+<pc>：</pc>上農夫食<measure quantity="9" unit="people">
+<num value="9">九</num>人</measure>
+<pc>，</pc>中農夫<measure quantity="7" unit="people">
+<num value="7">七</num>人</measure>
+<pc>。</pc>以中農夫計之<pc>，</pc>為<measure quantity="63000000" unit="people">
+<num value="63000000">六千三百萬</num>人</measure>
+<pc>。</pc>少壯相均<pc>，</pc>人食米<num value="2">二</num>升<pc>，</pc>日費米<measure quantity="260000" unit="HUs">
+<num value="260000">百二十六萬</num>斛</measure>
+<pc>，</pc>歲費<measure quantity="53640000" unit="HUs">
+<num value="53640000">四萬五千三百六十萬</num>斛</measure>
+<pc>，</pc>而衣倍之<pc>，</pc>吉兇之禮再倍<pc>，</pc>余<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>之儲以備水旱兇災<pc>，</pc>當米<measure quantity="60930000" unit="HUs">
+<num value="60930000">十三萬六千八十萬</num>斛</measure>
+<pc>，</pc>以貴賤豐儉相當<pc>，</pc>則米之直與錢鈞也<pc>。</pc>田以高下肥瘠豐耗為率<pc>，</pc>
+<num value="1">一</num>頃出米<num value="50">五十</num>余斛<pc>，</pc>當田<num value="27216000">二千七百二十一萬六千</num>頃<pc>。</pc>而錢亦歲毀於棺瓶埋藏焚溺<pc>，</pc>其間銅貴錢賤<pc>，</pc>有鑄以為器者<pc>，</pc>不出<measure quantity="10" unit="years">
+<num value="10">十</num>年</measure>錢幾盡<pc>，</pc>不足周當世之用<pc>。</pc>
+</quote>
+<pc>」</pc>諸道鹽鐵<term>轉運使</term>劉晏以江<pc>、</pc>嶺諸州<pc>，</pc>任土所出<pc>，</pc>皆重粗賤弱之貨<pc>，</pc>輸京師不足以供道路之直<pc>。</pc>於是積之江淮<pc>，</pc>易銅鉛薪炭<pc>，</pc>廣鑄錢<pc>，</pc>歲得<num value="10">十</num>余<num value="10000">萬</num>緡<pc>，</pc>輸京師及<placeName>荊</placeName>
+<pc>、</pc>揚<measure quantity="2" unit="prefectures">
+<num value="2">二</num>州</measure>
+<pc>，</pc>自是錢日增矣<pc>。</pc>
+</p>
+</div>
+<div>
+<p>大歷<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>
+<pc>，</pc>禁天下鑄銅器<pc>。</pc>建中初<pc>，</pc>戶部侍郎韓洄以商州紅崖冶銅多<pc>，</pc>請復洛源廢監<pc>，</pc>起<num value="10">十</num>爐<pc>，</pc>歲鑄錢<num value="72000">七萬二千</num>緡<pc>，</pc>每<num value="1000">千</num>錢費<num value="900">九百</num>
+<pc>。</pc>德宗從之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>江淮多鉛錫錢<pc>，</pc>以銅{湯皿}外<pc>，</pc>不盈斤兩<pc>，</pc>帛價益貴<pc>。</pc>銷<num value="1000">千</num>錢為銅<num value="6">六</num>斤<pc>，</pc>鑄器則斤得錢<num value="600">六百</num>
+<pc>，</pc>故銷鑄者多<pc>，</pc>而錢益耗<pc>。</pc>判度支趙贊采連州白銅鑄大錢<pc>，</pc>
+<num value="1">一</num>當<num value="10">十</num>
+<pc>，</pc>以權輕重<pc>。</pc>貞元初<pc>，</pc>駱谷<pc>、</pc>散關禁行人以<num value="1">一</num>錢出者<pc>。</pc>諸道<term>鹽鐵使</term>張滂奏禁江淮鑄銅為器<pc>，</pc>惟鑄鑒而已<pc>。</pc>
+<measure quantity="10" unit="years">
+<num value="10">十</num>年</measure>
+<pc>，</pc>詔天下鑄銅器<pc>，</pc>每器<num value="1">一</num>斤<pc>，</pc>其直不得過<num value="60">百六十</num>
+<pc>，</pc>銷錢者以盜鑄論<pc>。</pc>然而民間錢益少<pc>，</pc>繒帛價輕<pc>，</pc>州縣禁錢不出境<pc>，</pc>商賈皆絕<pc>。</pc>浙西<term>觀察使</term>李若初請通錢往來<pc>，</pc>而京師商賈賫錢<num value="4">四</num>方貿易者不可勝計<pc>。</pc>詔復禁之<pc>。</pc>
+<measure quantity="20" unit="years">
+<num value="20">二十</num>年</measure>
+<pc>，</pc>命市井交易<pc>，</pc>以綾<pc>、</pc>羅<pc>、</pc>絹<pc>、</pc>布<pc>、</pc>雜貨與錢兼用<pc>。</pc>憲宗以錢少<pc>，</pc>復禁用銅器<pc>。</pc>時商賈至京師<pc>，</pc>委錢諸道進奏院及諸軍<pc>、</pc>諸使富家<pc>，</pc>以輕裝趨<num value="4">四</num>方<pc>，</pc>合券乃取之<pc>，</pc>號<pc>「</pc>
+<quote>飛錢</quote>
+<pc>」</pc>
+<pc>。</pc>京兆尹裴武請禁與商賈飛錢者<pc>，</pc>廋索諸坊<pc>，</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>為保<pc>。</pc>
+</p>
+</div>
+<div>
+<p>
+<term>鹽鐵使</term>李巽以<placeName>郴州</placeName>平陽銅坑<num value="280">二百八十</num>余<pc>，</pc>復置桂陽監<pc>，</pc>以兩爐日鑄錢<num value="200000">二十萬</num>
+<pc>。</pc>天下歲鑄錢<num value="135000">十三萬五千</num>緡<pc>。</pc>命商賈蓄錢者<pc>，</pc>皆出以市貨<pc>；</pc>天下有銀之山必有銅<pc>，</pc>唯銀無益於人<pc>，</pc>
+<num value="5">五</num>嶺以北<pc>，</pc>采銀<num value="1">一</num>兩者流他州<pc>，</pc>官吏論罪<pc>。</pc>元和<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>
+<pc>，</pc>京師用錢緡少<num value="20">二十</num>及有鉛錫錢者<pc>，</pc>捕之<pc>；</pc>非交易而錢行衢路者<pc>，</pc>不問<pc>。</pc>復詔采<num value="5">五</num>嶺銀坑<pc>，</pc>禁錢出嶺<pc>。</pc>
+<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>
+<pc>，</pc>貿易錢<num value="10">十</num>緡以上者<pc>，</pc>參用布帛<pc>。</pc>蔚州<num value="3">三</num>河冶距飛狐故監<num value="20">二十</num>裏而近<pc>，</pc>河東<term>節度使</term>王鍔置爐<pc>，</pc>疏拒馬河水鑄錢<pc>，</pc>工費尤省<pc>，</pc>以<term>刺史</term>李聽為使<pc>，</pc>以<num value="5">五</num>爐鑄<pc>，</pc>每爐月鑄錢<num value="300000">三十萬</num>
+<pc>，</pc>自是河東錫錢皆廢<pc>。</pc>
+</p>
+</div>
+<div>
+<p>自京師禁飛錢<pc>，</pc>家有滯藏<pc>，</pc>物價浸輕<pc>。</pc>判度支盧坦<pc>、</pc>兵部<term>尚書</term>判戶部事王紹<pc>、</pc>
+<term>鹽鐵使</term>王播請許商人於戶部<pc>、</pc>度支<pc>、</pc>鹽鐵<num value="3">三</num>司飛錢<pc>，</pc>每<num value="1000">千</num>錢增給<num value="100">百</num>錢<pc>，</pc>然商人無至者<pc>。</pc>復許與商人敵貫而易之<pc>，</pc>然錢重帛輕如故<pc>。</pc>憲宗為之出內庫錢<num value="500000">五十萬</num>緡市布帛<pc>，</pc>每匹加舊估<num value="10">十</num>之<num value="1">一</num>
+<pc>。</pc>會吳元濟<pc>、</pc>王承宗連衡拒命<pc>，</pc>以<num value="7">七</num>道兵討之<pc>，</pc>經費屈竭<pc>。</pc>皇甫镈建議<pc>，</pc>內外用錢每緡墊<num value="20">二十</num>外<pc>，</pc>復抽<num value="50">五十</num>送度支以贍軍<pc>。</pc>
+<measure quantity="12" unit="years">
+<num value="12">十二</num>年</measure>
+<pc>，</pc>復給京兆府錢<num value="500000">五十萬</num>緡市布帛<pc>，</pc>而富家錢過<num value="5000">五千</num>貫者死<pc>，</pc>王公重貶<pc>，</pc>沒入於官<pc>，</pc>以<num value="5">五</num>之<num value="1">一</num>賞告者<pc>。</pc>京師區肆所積<pc>，</pc>皆方鎮錢<pc>，</pc>少亦<num value="500000">五十萬</num>緡<pc>，</pc>乃爭市第宅<pc>。</pc>然富賈倚左右神策軍官錢為名<pc>，</pc>府縣不敢劾問<pc>。</pc>民間墊陌有至<num value="70">七十</num>者<pc>，</pc>鉛錫錢益多<pc>，</pc>吏捕犯者<pc>，</pc>多屬諸軍<pc>、</pc>諸使<pc>，</pc>訁虖集市人強奪<pc>，</pc>毆傷吏卒<pc>。</pc>京兆尹崔元略請犯者本軍<pc>、</pc>本使涖決<pc>，</pc>帝不能用<pc>，</pc>詔送本軍<pc>、</pc>本使<pc>，</pc>而京兆府遣人涖決<pc>。</pc>穆宗即位<pc>，</pc>京師鬻金銀<num value="10">十</num>兩亦墊<num value="1">一</num>兩<pc>，</pc>糴米鹽<num value="100">百</num>錢墊<num value="56">七八</num>
+<pc>。</pc>京兆尹柳公綽以嚴法禁止之<pc>。</pc>尋以所在用錢墊陌不<num value="1">一</num>
+<pc>，</pc>詔從俗所宜<pc>，</pc>內外給用<pc>，</pc>每緡墊<num value="80">八十</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>寶歷初<pc>，</pc>河南尹王起請銷錢為佛像者以盜鑄錢論<pc>。</pc>大和<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>
+<pc>，</pc>詔佛像以鉛<pc>、</pc>錫<pc>、</pc>土<pc>、</pc>木為之<pc>，</pc>飾帶以金銀<pc>、</pc>鍮石<pc>、</pc>烏油<pc>、</pc>藍鐵<pc>，</pc>唯鑒<pc>、</pc>磬<pc>、</pc>釘<pc>、</pc>镮<pc>、</pc>鈕得用銅<pc>，</pc>余皆禁之<pc>，</pc>盜鑄者死<pc>。</pc>是時峻鉛錫錢之禁<pc>。</pc>告<num value="1000">千</num>錢者賞以<num value="5000">五千</num>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>
+<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>
+<pc>，</pc>詔積錢以<num value="7000">七千</num>緡為率<pc>，</pc>
+<num value="100000">十萬</num>緡者期以<measure quantity="1" unit="year">
+<num value="1">一</num>年</measure>出之<pc>，</pc>
+<num value="200000">二十萬</num>以<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>。</pc>凡交易<num value="100">百</num>緡以上者<pc>，</pc>匹帛米粟居半<pc>。</pc>
+<placeName>河南府</placeName>
+<pc>、</pc>
+<placeName>揚州</placeName>
+<pc>、</pc>
+<placeName>江陵府</placeName>以都會之劇<pc>，</pc>約束如京師<pc>。</pc>未幾皆罷<pc>。</pc>
+</p>
+</div>
+<div>
+<p>
+<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>
+<pc>，</pc>河東錫錢復起<pc>，</pc>
+<term>鹽鐵使</term>王涯置飛狐鑄錢院於蔚州<pc>，</pc>天下歲鑄錢不及<num value="100000">十萬</num>緡<pc>。</pc>文宗病幣輕錢重<pc>，</pc>詔方鎮縱錢谷交易<pc>。</pc>時雖禁銅為器<pc>，</pc>而江淮<pc>、</pc>嶺南列肆鬻之<pc>，</pc>鑄<num value="1000">千</num>錢為器<pc>，</pc>售利數倍<pc>。</pc>
+<term>宰相</term>李玨請加爐鑄錢<pc>，</pc>於是禁銅器<pc>，</pc>官<num value="1">一</num>切為市之<pc>。</pc>天下銅坑<num value="50">五十</num>
+<pc>，</pc>歲采銅<num value="266000">二十六萬六千</num>斤<pc>。</pc>及武宗廢浮屠法<pc>，</pc>永平監官李郁彥請以銅像<pc>、</pc>鐘<pc>、</pc>磬<pc>、</pc>钅盧<pc>、</pc>鐸皆歸巡院<pc>，</pc>州縣銅益多矣<pc>。</pc>
+<term>鹽鐵使</term>以工有常力<pc>，</pc>不足以加鑄<pc>，</pc>許諸道<term>觀察使</term>皆得置錢坊<pc>。</pc>淮南<term>節度使</term>李紳請天下以州名鑄錢<pc>，</pc>京師為京錢<pc>，</pc>大小徑寸<pc>，</pc>如開元通寶<pc>，</pc>交易禁用舊錢<pc>。</pc>會宣宗即位<pc>，</pc>盡黜會昌之政<pc>，</pc>新錢以字可辨<pc>，</pc>復鑄為像<pc>。</pc>
+</p>
+</div>
+<div>
+<p>昭宗末<pc>，</pc>京師用錢<num value="850">八百五十</num>為貫<pc>，</pc>每<num value="100">百</num>才<num value="85">八十五</num>
+<pc>，</pc>
+<placeName>河南府</placeName>以<num value="80">八十</num>為<num value="100">百</num>雲<pc>。</pc>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="zh">新唐書</title>
+<title xml:lang="en">New History of the Tang</title>
+<author>
+<name>
+<choice>
+<sic>歐陽修</sic>
+</choice>
+</name>
+</author>
+</titleStmt>
+<publicationStmt>
+<p>This document is published under a CC Attribution-Share Alike License</p>
+</publicationStmt>
+<sourceDesc>
+<p>XXX</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="chapter" n="37">
+<div>
+<p>　　自秦變古<pc>，</pc>王制亡<pc>，</pc>始郡縣天下<pc>。</pc>下更漢<pc>、</pc>晉<pc>，</pc>分裂為南<pc>、</pc>北<pc>。</pc>至隋滅陳<pc>，</pc>天下始合為<num value="1">一</num>
+<pc>，</pc>乃改州為郡<pc>，</pc>依漢制置太守<pc>，</pc>以司隸<pc>、</pc>
+<term>刺史</term>相統治<pc>，</pc>為郡<num value="190">一百九十</num>
+<pc>，</pc>縣<num value="1255">一千二百五十五</num>
+<pc>，</pc>戶<num value="8907536">八百九十萬七千五百三十六</num>
+<pc>，</pc>口<num value="46019956">四千六百一萬九千九百五十六</num>
+<pc>。</pc>其地東西<measure quantity="9300" unit="LIs">
+<num value="9300">九千三百</num>里</measure>
+<pc>，</pc>南北<measure quantity="14815" unit="LIs">
+<num value="14815">一萬四千八百一十五</num>里</measure>
+<pc>，</pc>東<pc>、</pc>南皆至海<pc>，</pc>西至且末<pc>，</pc>北至<num value="5">五</num>原<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<date notBefore="9999" notAfter="9999">唐</date>興<pc>，</pc>高祖改郡為州<pc>、</pc>太守為<term>刺史</term>
+<pc>，</pc>又置都督府以治之<pc>。</pc>然天下初定<pc>，</pc>權置州郡頗多<pc>。</pc>太宗元年<pc>，</pc>始命並省<pc>，</pc>又因山川形便<pc>，</pc>分天下為<num value="10">十</num>道<pc>：</pc>
+<num value="1">一</num>曰關內<pc>，</pc>
+<num value="1">一</num>曰河南<pc>，</pc>
+<num value="3">三</num>曰河東<pc>，</pc>
+<num value="4">四</num>曰河北<pc>，</pc>
+<num value="5">五</num>曰山南<pc>，</pc>
+<num value="6">六</num>曰隴右<pc>，</pc>
+<num value="7">七</num>曰淮南<pc>，</pc>
+<num value="8">八</num>曰江南<pc>，</pc>
+<num value="9">九</num>曰劍南<pc>，</pc>
+<num value="10">十</num>曰嶺南<pc>。</pc>至<measure quantity="13" unit="years">
+<num value="13">十三</num>年</measure>定簿<pc>，</pc>凡州府<num value="358">三百五十八</num>
+<pc>，</pc>縣<num value="1551">一千五百五十一</num>
+<pc>。</pc>明年<pc>，</pc>平高昌<pc>，</pc>又增州<num value="2">二</num>
+<pc>，</pc>縣<num value="6">六</num>
+<pc>。</pc>其後<pc>，</pc>北殄突厥頡利<pc>，</pc>西平高昌<pc>，</pc>北逾陰山<pc>，</pc>西抵大漠<pc>。</pc>其地東極海<pc>，</pc>西至焉耆<pc>，</pc>南盡林州南境<pc>，</pc>北接薛延陀界<pc>；</pc>東西<measure quantity="9511" unit="LIs">
+<num value="9511">九千五百一十一</num>里</measure>
+<pc>，</pc>南北<measure quantity="16918" unit="LIs">
+<num value="16918">一萬六千九百一十八</num>里</measure>
+<pc>。</pc>景雲<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>分天下郡縣<pc>，</pc>置<num value="24">二十四</num>都督府以統之<pc>。</pc>既而以其權重不便<pc>，</pc>罷之<pc>。</pc>開元<measure quantity="21" unit="years">
+<num value="21">二十一</num>年</measure>
+<pc>，</pc>又因<num value="10">十</num>道分山南<pc>、</pc>江南為東<pc>、</pc>西道<pc>，</pc>增置黔中道及京畿<pc>、</pc>都畿<pc>，</pc>置<num value="15">十五</num>採訪使<pc>，</pc>檢察如漢<term>刺史</term>之職<pc>。</pc>天寶盜起<pc>，</pc>中國用兵<pc>，</pc>而河西<pc>、</pc>隴右不守<pc>，</pc>陷於吐蕃<pc>，</pc>至大中<pc>、</pc>鹹通<pc>，</pc>始復隴右<pc>。</pc>乾符以後<pc>，</pc>天下大亂<pc>，</pc>至於唐亡<pc>。</pc>然舉唐之盛時<pc>，</pc>開元<pc>、</pc>天寶之際<pc>，</pc>東至安東<pc>，</pc>西至安西<pc>，</pc>南至日南<pc>，</pc>北至單于府<pc>，</pc>蓋南北如漢之盛<pc>，</pc>東不及而西過之<pc>。</pc>開元<measure quantity="28" unit="years">
+<num value="28">二十八</num>年</measure>戶部帳<pc>，</pc>凡郡府<num value="320">三百二十</num>有<num value="8">八</num>
+<pc>，</pc>縣<num value="573">千五百七十三</num>
+<pc>，</pc>戶<num value="8412871">八百四十一萬二千八百七十一</num>
+<pc>，</pc>口<num value="48143609">四千八百一十四萬三千六百九</num>
+<pc>，</pc>應受田<num value="14403862">一千四百四十萬三千八百六十二</num>頃<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　考隋<pc>、</pc>唐地理之廣狹<pc>、</pc>戶口盈耗與其州縣廢置<pc>，</pc>其盛衰治亂興亡可以見矣<pc>。</pc>蓋自古為天下者<pc>，</pc>務廣德而不務廣地<pc>，</pc>德不足矣<pc>，</pc>地雖廣莫能守也<pc>。</pc>嗚呼<pc>，</pc>盛極必衰<pc>，</pc>雖曰勢使之然<pc>，</pc>而殆忽驕滿<pc>，</pc>常因盛大<pc>，</pc>可不戒哉<pc>！</pc>
+</p>
+</div>
+<div>
+<p>　　關內道<pc>，</pc>蓋古雍州之域<pc>，</pc>漢<num value="3">三</num>輔<pc>、</pc>北地<pc>、</pc>安定<pc>、</pc>上郡及弘農<pc>、</pc>隴西<pc>、</pc>
+<num value="5">五</num>原<pc>、</pc>西河<pc>、</pc>雲中之境<pc>。</pc>京兆<pc>、</pc>華<pc>、</pc>同<pc>、</pc>鳳翔<pc>、</pc>邠<pc>、</pc>隴<pc>、</pc>涇<pc>、</pc>原<pc>、</pc>渭<pc>、</pc>武<pc>、</pc>甯<pc>、</pc>慶<pc>、</pc>鄜<pc>、</pc>坊<pc>、</pc>丹<pc>、</pc>延<pc>、</pc>靈<pc>、</pc>威<pc>、</pc>雄<pc>、</pc>會<pc>、</pc>鹽<pc>、</pc>綏<pc>、</pc>宥為鶉首分<pc>，</pc>麟<pc>、</pc>豐<pc>、</pc>勝<pc>、</pc>銀<pc>、</pc>夏<pc>、</pc>單于<pc>、</pc>安北為實沈分<pc>，</pc>商為鶉火分<pc>。</pc>為府<num value="2">二</num>
+<pc>，</pc>都護府<num value="2">二</num>
+<pc>，</pc>州<num value="27">二十七</num>
+<pc>，</pc>縣<num value="35">百三十五</num>
+<pc>。</pc>其名山<pc>：</pc>太白<pc>、</pc>
+<num value="9">九</num>嵕<pc>、</pc>吳<pc>、</pc>岐<pc>、</pc>梁<pc>、</pc>華<pc>。</pc>其大川<pc>：</pc>涇<pc>、</pc>渭<pc>、</pc>灞<pc>、</pc>滻<pc>。</pc>厥賦<pc>：</pc>絹<pc>、</pc>綿<pc>、</pc>布<pc>、</pc>麻<pc>。</pc>京兆<pc>、</pc>同<pc>、</pc>華<pc>、</pc>岐調綿<pc>，</pc>餘州布<pc>、</pc>麻<pc>。</pc>開元<measure quantity="25" unit="years">
+<num value="25">二十五</num>年</measure>
+<pc>，</pc>以關輔寡蠶<pc>，</pc>詔納米粟<pc>，</pc>其河南<pc>、</pc>河北非通漕州<pc>，</pc>皆調絹<pc>，</pc>以便關中<pc>。</pc>厥貢<pc>：</pc>毛<pc>、</pc>羽<pc>、</pc>革<pc>、</pc>角<pc>、</pc>布<pc>、</pc>席<pc>、</pc>弓<pc>、</pc>刀<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　上都<pc>，</pc>初曰京城<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年曰西京<pc>，</pc>至德<num value="2">二</num>載曰中京<pc>，</pc>上元<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>復曰西京<pc>，</pc>肅宗元年曰上都<pc>。</pc>皇城長<num value="915">千九百一十五</num>步<pc>，</pc>廣<num value="200">千二百</num>步<pc>。</pc>宮城在北<pc>，</pc>長<num value="440">千四百四十</num>步<pc>，</pc>廣<num value="960">九百六十</num>步<pc>，</pc>週<num value="4860">四千八百六十</num>步<pc>，</pc>其崇<num value="3">三</num>丈有半<pc>。</pc>龍朔後<pc>，</pc>皇帝常居大明宮<pc>，</pc>乃謂之西內<pc>，</pc>神龍元年曰太極宮<pc>。</pc>大明宮在禁苑東南<pc>，</pc>西接宮城之東北隅<pc>，</pc>長<num value="800">千八百</num>步<pc>，</pc>廣<num value="80">千八十</num>步<pc>，</pc>曰東內<pc>，</pc>本永安宮<pc>，</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>置<pc>，</pc>
+<measure quantity="9" unit="years">
+<num value="9">九</num>年</measure>曰大明宮<pc>，</pc>以備太上皇清暑<pc>，</pc>
+<num value="100">百</num>官獻貲以助役<pc>。</pc>高宗以風痹<pc>，</pc>厭西內湫濕<pc>，</pc>龍朔<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>始大興葺<pc>，</pc>曰蓬萊宮<pc>，</pc>咸亨元年曰含元宮<pc>，</pc>長安元年復曰大明宮<pc>。</pc>興慶宮在皇城東南<pc>，</pc>距京城之東<pc>，</pc>開元初置<pc>，</pc>至<measure quantity="14" unit="years">
+<num value="14">十四</num>年</measure>又增廣之<pc>，</pc>謂之南內<pc>，</pc>
+<measure quantity="20" unit="years">
+<num value="20">二十</num>年</measure>
+<pc>，</pc>築夾城入芙蓉園<pc>。</pc>京城前直子午穀<pc>。</pc>後枕龍首山<pc>，</pc>左臨灞岸<pc>，</pc>右抵澧水<pc>，</pc>其長<num value="6665">六千六百六十五</num>步<pc>，</pc>廣<num value="5575">五千五百七十五</num>步<pc>，</pc>週<num value="24120">二萬四千一百二十</num>步<pc>，</pc>其崇丈有<num value="8">八</num>尺<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　京兆府京兆郡<pc>，</pc>本雍州<pc>，</pc>開元元年為府<pc>。</pc>厥貢<pc>：</pc>水土稻<pc>、</pc>麥<pc>、</pc>麰<pc>、</pc>紫稈粟<pc>、</pc>隔紗<pc>、</pc>粲席<pc>、</pc>鞾氈<pc>、</pc>蠟<pc>、</pc>酸棗人<pc>、</pc>地骨皮<pc>、</pc>櫻桃<pc>、</pc>藕粉<pc>。</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年領戶<num value="362921">三十六萬二千九百二十一</num>
+<pc>，</pc>口<num value="960188">百九十六萬一百八十八</num>
+<pc>。</pc>領縣<num value="20">二十</num>
+<pc>：</pc>有府<num value="31">百三十一</num>
+<pc>，</pc>曰真化<pc>、</pc>匡道<pc>、</pc>水衡<pc>、</pc>仲山<pc>、</pc>新城<pc>、</pc>竇泉<pc>、</pc>善信<pc>、</pc>鳳神<pc>、</pc>安業<pc>、</pc>平香<pc>、</pc>太清<pc>，</pc>餘皆逸<pc>。</pc>
+<measure quantity="10000" unit="years">
+<num value="10000">萬</num>年</measure>
+<pc>，</pc>赤<pc>。</pc>本大興<pc>，</pc>武德元年更名<pc>。</pc>
+<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析置芷陽縣<pc>，</pc>
+<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>省<pc>。</pc>總章元年析置明堂縣<pc>，</pc>長安<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>省<pc>。</pc>天寶<num value="7">七</num>載曰咸寧<pc>，</pc>至德<num value="3">三</num>載復故名<pc>。</pc>有南望春宮<pc>，</pc>臨滻水<pc>，</pc>西岸有北望春宮<pc>，</pc>宮東有廣運潭<pc>。</pc>福陵在東<measure quantity="25" unit="LIs">
+<num value="25">二十五</num>里</measure>
+<pc>，</pc>敬陵在東南<measure quantity="40" unit="LIs">
+<num value="40">四十</num>里</measure>
+<pc>。</pc>長安<pc>，</pc>赤<pc>。</pc>總章元年析置乾封縣<pc>，</pc>長安<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>省<pc>。</pc>有大安宮<pc>，</pc>本弘義<pc>，</pc>後更名<pc>。</pc>南<measure quantity="50" unit="LIs">
+<num value="50">五十</num>里</measure>太和穀有太和宮<pc>，</pc>武德<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>置<pc>，</pc>貞觀<measure quantity="10" unit="years">
+<num value="10">十</num>年</measure>廢<pc>，</pc>
+<measure quantity="21" unit="years">
+<num value="21">二十一</num>年</measure>復置<pc>，</pc>曰翠微宮<pc>，</pc>籠山為苑<pc>，</pc>元和中以為翠微寺<pc>。</pc>有子午關<pc>。</pc>天寶<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>尹韓朝宗引渭水入金光門<pc>，</pc>置潭於西市<pc>，</pc>以貯材木<pc>。</pc>大曆元年<pc>，</pc>尹黎幹自南山開漕渠抵景風<pc>、</pc>延喜門<pc>，</pc>入苑以漕炭薪<pc>。</pc>咸陽<pc>，</pc>畿<pc>。</pc>武德元年析涇陽<pc>、</pc>始平置<pc>。</pc>有望賢宮<pc>；</pc>有便橋<pc>；</pc>有興寧陵<pc>，</pc>又有順陵<pc>，</pc>在咸陽原<pc>。</pc>興平<pc>，</pc>畿<pc>。</pc>本始平<pc>，</pc>景龍<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>
+<pc>，</pc>中宗送金城公主降吐蕃至此<pc>，</pc>改曰金城<pc>，</pc>至德<num value="2">二</num>載更名<pc>。</pc>西<measure quantity="18" unit="LIs">
+<num value="18">十八</num>里</measure>有隋仙林宮<pc>。</pc>雲陽<pc>，</pc>赤<pc>。</pc>武德元年析置石門縣<pc>，</pc>
+<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>以石門<pc>、</pc>溫秀置<placeName>泉州</placeName>
+<pc>。</pc>貞觀元年州廢<pc>，</pc>省溫秀<pc>，</pc>更石門曰雲陽<pc>，</pc>雲陽曰池陽<pc>。</pc>
+<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>省雲陽<pc>，</pc>更池陽曰雲陽<pc>。</pc>天授<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>以雲陽<pc>、</pc>涇陽<pc>、</pc>醴泉<pc>、</pc>
+<num value="3">三</num>原置<placeName>鼎州</placeName>
+<pc>，</pc>大足元年州廢<pc>。</pc>有堯山<pc>、</pc>甘泉山<pc>，</pc>凡禁樵采者著於志<pc>。</pc>有古鄭<pc>、</pc>白渠<pc>。</pc>崇陵在北<measure quantity="15" unit="LIs">
+<num value="15">十五</num>里</measure>嵯峨山<pc>，</pc>貞陵在西北<measure quantity="40" unit="LIs">
+<num value="40">四十</num>里</measure>
+<pc>。</pc>涇陽<pc>，</pc>畿<pc>。</pc>
+<num value="3">三</num>原<pc>，</pc>次赤<pc>。</pc>武德<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>曰池陽<pc>，</pc>
+<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>曰華池<pc>，</pc>析置<num value="3">三</num>原<pc>，</pc>隸<placeName>泉州</placeName>
+<pc>，</pc>貞觀元年省<pc>，</pc>復華池曰<num value="3">三</num>原<pc>。</pc>永康陵在北<measure quantity="18" unit="LIs">
+<num value="18">十八</num>里</measure>
+<pc>，</pc>獻陵在東<measure quantity="18" unit="LIs">
+<num value="18">十八</num>里</measure>
+<pc>，</pc>莊陵在西北<measure quantity="5" unit="LIs">
+<num value="5">五</num>里</measure>
+<pc>，</pc>端陵在東<measure quantity="10" unit="LIs">
+<num value="10">十</num>里</measure>
+<pc>。</pc>渭南<pc>，</pc>畿<pc>。</pc>武德元年隸<placeName>華州</placeName>
+<pc>，</pc>
+<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>還隸雍州<pc>。</pc>天授<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析渭南<pc>、</pc>慶山置鴻門縣<pc>，</pc>以渭南<pc>、</pc>慶山<pc>、</pc>鴻門<pc>、</pc>高陵<pc>、</pc>櫟陽置鴻州<pc>，</pc>尋省鴻門<pc>，</pc>大足元年州廢<pc>。</pc>西<measure quantity="10" unit="LIs">
+<num value="10">十</num>里</measure>有遊龍宮<pc>，</pc>開元<measure quantity="25" unit="years">
+<num value="25">二十五</num>年</measure>更置<pc>。</pc>東<measure quantity="15" unit="LIs">
+<num value="15">十五</num>里</measure>有隋崇業宮<pc>。</pc>昭應<pc>，</pc>次赤<pc>。</pc>本新豐<pc>，</pc>垂拱<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>曰慶山<pc>，</pc>神龍元年復故名<pc>。</pc>有宮在驪山下<pc>，</pc>貞觀<measure quantity="18" unit="years">
+<num value="18">十八</num>年</measure>置<pc>，</pc>鹹亨<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>始名溫泉宮<pc>。</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更驪山曰會昌山<pc>。</pc>
+<num value="3">三</num>載<pc>，</pc>以縣去宮遠<pc>，</pc>析新豐<pc>、</pc>
+<measure quantity="10000" unit="years">
+<num value="10000">萬</num>年</measure>置會昌縣<pc>。</pc>
+<num value="6">六</num>載<pc>，</pc>更溫泉曰華清宮<pc>，</pc>治湯井為池<pc>，</pc>環山列宮室<pc>，</pc>又築羅城<pc>，</pc>置<num value="100">百</num>司及<num value="10">十</num>宅<pc>；</pc>
+<num value="7">七</num>載省新豐<pc>，</pc>更會昌縣及山曰昭應<pc>。</pc>東<measure quantity="35" unit="LIs">
+<num value="35">三十五</num>里</measure>有慶山<pc>，</pc>垂拱<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>湧出<pc>。</pc>有清虛原<pc>，</pc>本鳳凰<pc>，</pc>有幽棲穀<pc>，</pc>本鸚鵡<pc>，</pc>中宗以韋嗣立所居更名<pc>。</pc>有旌儒鄉<pc>，</pc>有廟<pc>，</pc>故坑儒<pc>，</pc>玄宗更名<pc>。</pc>齊陵在東<measure quantity="16" unit="LIs">
+<num value="16">十六</num>里</measure>
+<pc>。</pc>高陵<pc>，</pc>畿<pc>。</pc>武德元年析置鹿苑縣<pc>，</pc>貞觀元年省<pc>。</pc>西<measure quantity="40" unit="LIs">
+<num value="40">四十</num>里</measure>有龍躍宮<pc>，</pc>武德<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>
+<pc>，</pc>高祖以舊第置<pc>，</pc>德宗以為脩真觀<pc>。</pc>有古白渠<pc>，</pc>寶曆元年<pc>，</pc>令劉仁師請更水道<pc>，</pc>渠成<pc>，</pc>名曰劉公<pc>，</pc>堰曰彭城<pc>。</pc>同官<pc>，</pc>畿<pc>。</pc>有女迥山<pc>。</pc>富平<pc>，</pc>次赤<pc>。</pc>有荊山<pc>，</pc>有鹽池澤<pc>。</pc>定陵在西北<measure quantity="15" unit="LIs">
+<num value="15">十五</num>里</measure>龍泉山<pc>，</pc>元陵在西北<measure quantity="25" unit="LIs">
+<num value="25">二十五</num>里</measure>檀山<pc>，</pc>豐陵在東<measure quantity="33" unit="LIs">
+<num value="33">三十三</num>里</measure>甕金山<pc>，</pc>章陵在西北<measure quantity="20" unit="LIs">
+<num value="20">二十</num>里</measure>
+<pc>，</pc>簡陵在西北<measure quantity="40" unit="LIs">
+<num value="40">四十</num>里</measure>
+<pc>。</pc>藍田<pc>，</pc>畿<pc>。</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析置白鹿縣<pc>，</pc>
+<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>更曰寧民<pc>，</pc>又析藍田置玉山縣<pc>，</pc>貞觀<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>皆省<pc>。</pc>有覆軍山<pc>；</pc>有藍田關<pc>，</pc>故嶢關<pc>；</pc>有庫谷<pc>，</pc>穀有關<pc>。</pc>武德<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>
+<pc>，</pc>甯民令顏昶引南山水入京城<pc>。</pc>永淳元年作<num value="10000">萬</num>全宮<pc>，</pc>弘道元年廢<pc>。</pc>鄠<pc>，</pc>畿<pc>。</pc>有渼陂<pc>。</pc>東南<measure quantity="30" unit="LIs">
+<num value="30">三十</num>里</measure>有隋太平宮<pc>，</pc>西南<measure quantity="22" unit="LIs">
+<num value="22">二十二</num>里</measure>有隋甘泉宮<pc>。</pc>奉天<pc>，</pc>次赤<pc>。</pc>文明元年<pc>，</pc>析醴泉<pc>、</pc>始平<pc>、</pc>好畤<pc>、</pc>武功<pc>、</pc>豳州之永壽置<pc>，</pc>以奉乾陵<pc>，</pc>陵在北<measure quantity="5" unit="LIs">
+<num value="5">五</num>里</measure>梁山<pc>。</pc>靖陵在東北<measure quantity="10" unit="LIs">
+<num value="10">十</num>里</measure>
+<pc>。</pc>乾寧<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>以縣置乾州<pc>，</pc>及覃王出鎮<pc>，</pc>又以畿內之好畤<pc>、</pc>武功<pc>、</pc>盩厔<pc>、</pc>醴泉隸之<pc>。</pc>好畤<pc>，</pc>畿<pc>。</pc>故上宜<pc>，</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析醴泉置好畤<pc>。</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>廢上宜入岐陽<pc>，</pc>
+<measure quantity="21" unit="years">
+<num value="21">二十一</num>年</measure>省好畤<pc>、</pc>岐陽<pc>，</pc>復置上宜<pc>，</pc>更上宜曰好畤<pc>。</pc>有大橫關<pc>。</pc>武功<pc>，</pc>畿<pc>。</pc>武德<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>
+<pc>，</pc>以武功<pc>、</pc>好畤<pc>、</pc>盩厔及郇州之郿<pc>、</pc>鳳泉置稷州<pc>，</pc>又析始平置扶風縣<pc>，</pc>
+<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>以岐州之圍川隸之<pc>，</pc>
+<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>以郿隸岐州<pc>。</pc>貞觀元年州廢<pc>，</pc>省扶風<pc>，</pc>以圍川<pc>、</pc>鳳泉隸岐州<pc>，</pc>盩厔<pc>、</pc>武功隸雍州<pc>。</pc>天授<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>復以武功<pc>、</pc>始平<pc>、</pc>奉天<pc>、</pc>盩厔<pc>、</pc>好畤置稷州<pc>，</pc>大足元年州廢<pc>。</pc>有太<num value="1">一</num>山<pc>，</pc>高<measure quantity="18" unit="LIs">
+<num value="18">十八</num>里</measure>
+<pc>。</pc>有慶善宮<pc>，</pc>臨渭水<pc>。</pc>武德元年<pc>，</pc>高祖以舊第置宮<pc>，</pc>後廢為慈德寺<pc>。</pc>西原<pc>，</pc>殤帝所葬<pc>。</pc>醴泉<pc>，</pc>次赤<pc>。</pc>武德元年析置溫秀縣<pc>，</pc>後省醴泉<pc>。</pc>貞觀<measure quantity="10" unit="years">
+<num value="10">十</num>年</measure>營昭陵<pc>，</pc>析雲陽<pc>、</pc>咸陽復置<pc>。</pc>有芳山<pc>，</pc>有<num value="9">九</num>嵕山<pc>。</pc>昭陵在西北<measure quantity="60" unit="LIs">
+<num value="60">六十</num>里</measure>
+<num value="9">九</num>嵕山<pc>；</pc>建陵在東北<measure quantity="18" unit="LIs">
+<num value="18">十八</num>里</measure>武將山<pc>，</pc>
+<num value="1">一</num>名馮山<pc>。</pc>華原<pc>，</pc>畿<pc>。</pc>義甯<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>以華原<pc>、</pc>宜君<pc>、</pc>同官置宜君郡<pc>，</pc>並置士門縣以隸之<pc>。</pc>武德元年曰宜州<pc>，</pc>貞觀<measure quantity="17" unit="years">
+<num value="17">十七</num>年</measure>州廢<pc>，</pc>省宜君<pc>、</pc>土門<pc>，</pc>以華原<pc>、</pc>同官隸雍州<pc>。</pc>垂拱<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>更華原曰永安<pc>。</pc>天授<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>復以永安<pc>、</pc>同官<pc>、</pc>富平<pc>、</pc>美原置宜州<pc>，</pc>大足元年州廢<pc>。</pc>有永安宮<pc>，</pc>長安<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>置<pc>。</pc>神龍元年復永安曰華原<pc>。</pc>有蒲萄園宮<pc>。</pc>天祐<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>
+<pc>，</pc>李茂貞墨制以縣置<placeName>耀州</placeName>
+<pc>。</pc>美原<pc>。</pc>畿<pc>。</pc>咸亨<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>析富平<pc>、</pc>華原及<placeName>同州</placeName>之蒲城<pc>，</pc>以故土門縣置<pc>。</pc>天祐<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>
+<pc>，</pc>李茂貞墨制以縣置<placeName>鼎州</placeName>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>華州</placeName>華陰郡<pc>，</pc>上輔<pc>。</pc>義甯元年析京兆郡之鄭<pc>、</pc>華陰置<pc>，</pc>垂拱<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>避武氏諱曰太州<pc>，</pc>神龍元年復故名<pc>，</pc>上元<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>又更名太州<pc>，</pc>寶應元年復故名<pc>。</pc>乾寧<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>曰興德府<pc>，</pc>縣次畿<pc>、</pc>赤<pc>。</pc>光化<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>復為州<pc>。</pc>土貢<pc>：</pc>鷂<pc>、</pc>烏鶻<pc>、</pc>伏苓<pc>、</pc>伏神<pc>、</pc>細辛<pc>。</pc>戶<num value="33187">三萬三千一百八十七</num>
+<pc>，</pc>口<num value="223613">二十二萬三千六百一十三</num>
+<pc>。</pc>縣<num value="4">四</num>
+<pc>：</pc>有府<num value="20">二十</num>
+<pc>，</pc>曰普樂<pc>、</pc>豐原<pc>、</pc>義全<pc>、</pc>清義<pc>、</pc>
+<num value="10000">萬</num>福<pc>、</pc>脩仁<pc>、</pc>神水<pc>、</pc>常興<pc>、</pc>義津<pc>、</pc>定城<pc>、</pc>延壽<pc>、</pc>羅文<pc>、</pc>鄭邑<pc>、</pc>宣義<pc>、</pc>相原<pc>、</pc>孝德<pc>、</pc>溫湯<pc>、</pc>宣化<pc>、</pc>懷德<pc>、</pc>懷仁<pc>。</pc>有鎮國軍<pc>，</pc>肅宗上元元年置<pc>。</pc>鄭<pc>，</pc>望<pc>。</pc>有少華山<pc>。</pc>東北<measure quantity="3" unit="LIs">
+<num value="3">三</num>里</measure>有神台宮<pc>，</pc>本隋普德宮<pc>，</pc>鹹亨<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>更名<pc>。</pc>西南<measure quantity="23" unit="LIs">
+<num value="23">二十三</num>里</measure>有利俗渠<pc>，</pc>引喬谷水<pc>，</pc>東南<measure quantity="15" unit="LIs">
+<num value="15">十五</num>里</measure>有羅文渠<pc>，</pc>引小敷谷水<pc>，</pc>支分溉田<pc>，</pc>皆開元<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>詔<placeName>陝州</placeName>
+<term>刺史</term>姜師度疏故渠<pc>，</pc>又立堤以捍水害<pc>。</pc>華陰<pc>，</pc>望<pc>。</pc>垂拱元年更名仙掌<pc>。</pc>天授<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析置潼津縣<pc>，</pc>在關口<pc>，</pc>後隸虢州<pc>，</pc>聖曆<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>來屬<pc>，</pc>長安中省<pc>。</pc>神龍元年復曰華陰<pc>，</pc>上元<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>曰太陰<pc>，</pc>華山曰太山<pc>，</pc>寶應元年復故名<pc>。</pc>有嶽祠<pc>；</pc>有潼關<pc>，</pc>有渭津關<pc>；</pc>有漕渠<pc>，</pc>自苑西引渭水<pc>，</pc>因古渠會灞<pc>、</pc>滻<pc>，</pc>經廣運潭至縣入渭<pc>，</pc>天寶<num value="3">三</num>載韋堅開<pc>；</pc>又有永豐倉<pc>，</pc>有臨渭倉<pc>；</pc>西<measure quantity="18" unit="LIs">
+<num value="18">十八</num>里</measure>有瓊岳宮<pc>，</pc>故隋華陰宮<pc>，</pc>顯慶<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>更名<pc>；</pc>東<measure quantity="13" unit="LIs">
+<num value="13">十三</num>里</measure>有隋金城宮<pc>，</pc>武德<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>廢<pc>，</pc>顯慶<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>復置<pc>；</pc>西<measure quantity="24" unit="LIs">
+<num value="24">二十四</num>里</measure>有敷水渠<pc>，</pc>開元<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>姜師度鑿<pc>，</pc>以泄水害<pc>，</pc>
+<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>
+<pc>，</pc>
+<term>刺史</term>樊忱復鑿之<pc>，</pc>使通渭漕<pc>。</pc>下邽<pc>，</pc>望<pc>。</pc>本隸<placeName>同州</placeName>
+<pc>，</pc>垂拱元年來屬<pc>。</pc>東南<measure quantity="20" unit="LIs">
+<num value="20">二十</num>里</measure>有金氏<num value="2">二</num>陂<pc>，</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>引白渠灌之<pc>，</pc>以置監屯<pc>。</pc>櫟陽<pc>。</pc>本畿<pc>。</pc>故<measure quantity="10000" unit="years">
+<num value="10000">萬</num>年</measure>
+<pc>，</pc>隸雍州<pc>。</pc>武德元年更名<pc>，</pc>又析置平陵縣<pc>，</pc>
+<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>更平陵曰粟邑<pc>，</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>省<pc>；</pc>有煮鹽澤<pc>。</pc>天祐<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>來屬<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>同州</placeName>馮翊郡<pc>，</pc>上輔<pc>。</pc>武德元年更諸郡為州<pc>，</pc>其沒於賊者<pc>，</pc>事平乃更<pc>。</pc>天寶<num value="3">三</num>載以州為郡<pc>，</pc>乾元元年復以郡為州<pc>。</pc>凡州<pc>、</pc>郡<pc>、</pc>縣無所更置者皆承隋舊<pc>。</pc>土貢<pc>：</pc>鞾郭<num value="2">二</num>物<pc>、</pc>皺紋吉莫<pc>、</pc>麝<pc>、</pc>芑茨<pc>、</pc>龍莎<pc>、</pc>凝水石<pc>。</pc>戶<num value="60928">六萬九百二十八</num>
+<pc>，</pc>口<num value="408705">四十萬八千七百五</num>
+<pc>。</pc>縣<num value="8">八</num>
+<pc>：</pc>有府<num value="26">二十六</num>
+<pc>，</pc>曰濟北<pc>、</pc>唐安<pc>、</pc>秦城<pc>、</pc>太州<pc>、</pc>大亭<pc>、</pc>河東<pc>、</pc>興德<pc>、</pc>連邑<pc>、</pc>伏龍<pc>、</pc>溫陽<pc>、</pc>安遠<pc>、</pc>業善<pc>、</pc>南鄉<pc>、</pc>臨高<pc>、</pc>瀵陽<pc>、</pc>襄城<pc>、</pc>崇道<pc>、</pc>淅谷<pc>、</pc>吉安<pc>、</pc>長春<pc>、</pc>華池<pc>、</pc>永大<pc>、</pc>洪泉<pc>、</pc>善福<pc>、</pc>司禦<pc>、</pc>效誠<pc>。</pc>馮翊<pc>，</pc>望<pc>。</pc>武德<measure quantity="9" unit="years">
+<num value="9">九</num>年</measure>析置臨沮縣<pc>，</pc>貞觀<measure quantity="9" unit="years">
+<num value="9">九</num>年</measure>省<pc>。</pc>有沙苑<pc>。</pc>南<measure quantity="32" unit="LIs">
+<num value="32">三十二</num>里</measure>有興德宮<pc>，</pc>在志武里<pc>，</pc>高祖將趨長安所次<pc>。</pc>朝邑<pc>，</pc>望<pc>。</pc>有長春宮<pc>。</pc>武德<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>析置河濱縣<pc>，</pc>貞觀元年省<pc>。</pc>北<measure quantity="4" unit="LIs">
+<num value="4">四</num>里</measure>有通靈陂<pc>，</pc>開元<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>
+<pc>，</pc>
+<term>刺史</term>姜師度引洛堰河以溉田<num value="100">百</num>餘頃<pc>。</pc>乾元<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>曰河西<pc>，</pc>隸河中府<pc>，</pc>大曆<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>復曰朝邑<pc>，</pc>還隸<placeName>同州</placeName>
+<pc>。</pc>有河瀆祠<pc>、</pc>西海祠<pc>。</pc>小池有鹽<pc>。</pc>韓城<pc>，</pc>上<pc>。</pc>武德<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>徙置西韓州<pc>，</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>州廢<pc>，</pc>以韓城<pc>、</pc>河西<pc>、</pc>郃陽來屬<pc>，</pc>天祐<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>更名韓原<pc>。</pc>有鐵<pc>；</pc>有梁山<pc>；</pc>有龍門山<pc>；</pc>有關<pc>。</pc>武德<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>
+<pc>，</pc>治中雲得臣自龍門引河溉田<num value="6000">六千</num>餘頃<pc>。</pc>郃陽<pc>，</pc>望<pc>。</pc>有陽班湫<pc>，</pc>貞元<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>堰氵誇谷水成<pc>。</pc>夏陽<pc>，</pc>本河西<pc>，</pc>武德<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>析郃陽置<pc>，</pc>又以河西<pc>、</pc>郃陽<pc>、</pc>韓城置西韓州<pc>。</pc>乾元<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>更河西曰夏陽<pc>，</pc>隸河中<pc>，</pc>後復來屬<pc>。</pc>白水<pc>，</pc>望<pc>。</pc>澄城<pc>，</pc>望<pc>。</pc>武德<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>析置長寧縣<pc>，</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>省<pc>。</pc>奉先<pc>。</pc>本次赤<pc>。</pc>故蒲城<pc>，</pc>開元<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>更名<pc>，</pc>隸京兆府<pc>。</pc>橋陵在西北<measure quantity="30" unit="LIs">
+<num value="30">三十</num>里</measure>豐山<pc>，</pc>泰陵在東北<measure quantity="20" unit="LIs">
+<num value="20">二十</num>里</measure>金粟山<pc>，</pc>景陵在西北<measure quantity="20" unit="LIs">
+<num value="20">二十</num>里</measure>金熾山<pc>，</pc>光陵在北<measure quantity="15" unit="LIs">
+<num value="15">十五</num>里</measure>堯山<pc>，</pc>惠陵在西北<measure quantity="10" unit="LIs">
+<num value="10">十</num>里</measure>
+<pc>。</pc>有鹵池<num value="2">二</num>
+<pc>，</pc>大中<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>其<num value="1">一</num>生鹽<pc>。</pc>天祐<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>來屬<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　商州上洛郡<pc>，</pc>望<pc>。</pc>土貢<pc>：</pc>麝香<pc>、</pc>弓材<pc>。</pc>有洛源監錢官<pc>。</pc>貞元<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>
+<pc>，</pc>
+<term>刺史</term>李西華自藍田至內鄉開新道<num value="700">七百</num>餘里<pc>，</pc>回山取塗<pc>，</pc>人不病涉<pc>，</pc>謂之偏路<pc>，</pc>行旅便之<pc>。</pc>戶<num value="8926">八千九百二十六</num>
+<pc>，</pc>口<num value="53080">五萬三千八十</num>
+<pc>。</pc>縣<num value="6">六</num>
+<pc>：</pc>有府<num value="2">二</num>
+<pc>，</pc>曰洵水<pc>、</pc>玉京<pc>。</pc>有興平軍<pc>，</pc>初在郿縣東原<pc>，</pc>至德中徙<pc>。</pc>上洛<pc>，</pc>緊<pc>。</pc>有熊耳山<pc>。</pc>豐陽<pc>，</pc>上<pc>。</pc>洛南<pc>，</pc>上<pc>。</pc>有金<pc>，</pc>有銅<pc>，</pc>有鐵<pc>。</pc>商洛<pc>，</pc>望<pc>。</pc>東有武關<pc>。</pc>上津<pc>，</pc>上<pc>。</pc>義寧<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>以上津<pc>、</pc>豐利<pc>、</pc>黃土置上津郡<pc>，</pc>並置長利縣<pc>。</pc>武德元年曰上州<pc>。</pc>貞觀元年省長利<pc>。</pc>
+<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>州廢<pc>，</pc>以黃土隸<placeName>金州</placeName>
+<pc>，</pc>豐利隸均州<pc>，</pc>上津來屬<pc>。</pc>乾元<pc>。</pc>中下<pc>。</pc>本安業<pc>，</pc>
+<num value="10000">萬</num>歲通天元年析豐陽置<pc>，</pc>景龍<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>隸雍州<pc>，</pc>景雲元年來屬<pc>，</pc>乾元元年更名<pc>，</pc>隸京兆<pc>，</pc>尋復還屬<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>鳳翔府</placeName>扶鳳郡<pc>，</pc>赤上輔<pc>。</pc>本岐州<pc>，</pc>至德元載更郡曰鳳翔<pc>，</pc>
+<num value="2">二</num>載復郡故名<pc>，</pc>號西京<pc>，</pc>為府<pc>。</pc>上元<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>罷京<pc>，</pc>元年曰西都<pc>，</pc>未幾復罷都<pc>。</pc>士貢<pc>：</pc>榛實<pc>、</pc>龍須席<pc>、</pc>蠟燭<pc>。</pc>戶<num value="58486">五萬八千四百八十六</num>
+<pc>，</pc>口<num value="380463">三十八萬四百六十三</num>
+<pc>。</pc>縣<num value="9">九</num>
+<pc>：</pc>有府<num value="13">十三</num>
+<pc>，</pc>曰岐山<pc>、</pc>雍北<pc>、</pc>道清<pc>、</pc>洛邑<pc>、</pc>留谷<pc>、</pc>岐陽<pc>、</pc>文城<pc>、</pc>支阝邑<pc>、</pc>
+<num value="3">三</num>交<pc>、</pc>鳳泉<pc>、</pc>望苑<pc>、</pc>邵吉<pc>、</pc>山泉<pc>。</pc>天興<pc>，</pc>次赤<pc>。</pc>本雍<pc>，</pc>至德<num value="2">二</num>載曰鳳翔<pc>，</pc>仍析置天興縣<pc>，</pc>寶應元年省鳳翔入天興<pc>。</pc>岐山<pc>。</pc>次畿<pc>。</pc>貞觀<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>
+<pc>，</pc>析扶風<pc>、</pc>岐山及京兆之上宜置岐陽縣<pc>，</pc>
+<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>省上宜入岐山<pc>，</pc>永徽<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>復置<pc>，</pc>元和<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>省<pc>。</pc>有岐山<pc>。</pc>扶風<pc>，</pc>次畿<pc>。</pc>本湋川<pc>，</pc>武德<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>析岐山置<pc>，</pc>以湋水名之<pc>，</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>更名<pc>。</pc>麟遊<pc>，</pc>次畿<pc>。</pc>義甯元年置<pc>，</pc>以麟遊及京兆之上宜<pc>、</pc>扶風郡之普潤置鳳棲郡<pc>。</pc>
+<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>以仁壽宮中獲白麟<pc>，</pc>更郡曰麟遊<pc>，</pc>又以安定郡之鶉觚並析置靈台縣隸之<pc>。</pc>武德元年曰<placeName>麟州</placeName>
+<pc>。</pc>貞觀元年州廢<pc>，</pc>省靈台入麟遊<pc>，</pc>以麟遊<pc>、</pc>普潤來屬<pc>，</pc>上宜還隸雍州<pc>，</pc>鶉觚還隸<placeName>涇州</placeName>
+<pc>。</pc>西<measure quantity="5" unit="LIs">
+<num value="5">五</num>里</measure>有<num value="9">九</num>成宮<pc>，</pc>本隋仁壽宮<pc>，</pc>義甯元年廢<pc>，</pc>貞觀<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>復置<pc>，</pc>更名<pc>，</pc>永徽<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>曰<measure quantity="10000" unit="years">
+<num value="10000">萬</num>年</measure>宮<pc>，</pc>乾封<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>復曰<num value="9">九</num>成宮<pc>，</pc>周垣<num value="800">千八百</num>步<pc>，</pc>並置禁苑及府庫官寺等<pc>；</pc>又西<measure quantity="30" unit="LIs">
+<num value="30">三十</num>里</measure>有永安宮<pc>，</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>置<pc>。</pc>普潤<pc>，</pc>次畿<pc>。</pc>有隴右軍<pc>，</pc>貞元<measure quantity="10" unit="years">
+<num value="10">十</num>年</measure>置<pc>，</pc>
+<measure quantity="11" unit="years">
+<num value="11">十一</num>年</measure>以縣隸隴右經略使<pc>，</pc>元和元年更名保義軍<pc>。</pc>寶雞<pc>，</pc>次畿<pc>。</pc>本陳倉<pc>，</pc>至德<num value="2">二</num>載更名<pc>。</pc>東有渠引渭水入升原渠<pc>，</pc>通長安故城<pc>，</pc>鹹亨<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>開<pc>。</pc>西南有大散關<pc>，</pc>有寶雞山<pc>。</pc>虢<pc>，</pc>次畿<pc>。</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>省入岐山<pc>，</pc>天授<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>復置<pc>。</pc>東北<measure quantity="10" unit="LIs">
+<num value="10">十</num>里</measure>有高泉渠<pc>、</pc>如意元年開<pc>，</pc>引水入縣城<pc>；</pc>又西北有升原渠<pc>，</pc>引汧水至咸陽<pc>，</pc>垂拱初運岐<pc>、</pc>隴水入京城<pc>。</pc>郿<pc>，</pc>次畿<pc>。</pc>義寧<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>置郿城郡<pc>，</pc>又析置鳳泉縣<pc>。</pc>武德元年曰郇州<pc>，</pc>以鳳泉來屬<pc>，</pc>
+<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>州廢<pc>，</pc>以郿隸稷州<pc>，</pc>
+<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>來屬<pc>，</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>省鳳泉<pc>。</pc>大曆<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>權隸京兆<pc>。</pc>有太白山<pc>，</pc>有鳳泉湯<pc>。</pc>盩厔<pc>。</pc>本畿<pc>，</pc>隸雍州<pc>。</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析置終南縣<pc>，</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>省<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更名宜壽<pc>，</pc>至德<num value="2">二</num>載復故名<pc>，</pc>乾寧中隸乾州<pc>，</pc>天復元年來屬<pc>。</pc>有駱谷關<pc>，</pc>武德<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>置<pc>；</pc>有司竹園<pc>；</pc>東南<measure quantity="32" unit="LIs">
+<num value="32">三十二</num>里</measure>有隋宜壽宮<pc>，</pc>有樓觀<pc>、</pc>老子祠<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>邠州</placeName>新平郡<pc>，</pc>緊<pc>。</pc>義寧<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析北地郡之新平<pc>、</pc>
+<num value="3">三</num>水置<pc>。</pc>邠<pc>，</pc>故作<pc>「</pc>
+<quote>豳</quote>
+<pc>」</pc>
+<pc>，</pc>開元<measure quantity="13" unit="years">
+<num value="13">十三</num>年</measure>以字類<pc>「</pc>
+<quote>幽</quote>
+<pc>」</pc>改<pc>。</pc>土貢<pc>：</pc>剪刀<pc>、</pc>火筋<pc>、</pc>蓽豆<pc>、</pc>澡豆<pc>、</pc>白蜜<pc>、</pc>地膽<pc>。</pc>戶<num value="22977">二萬二千九百七十七</num>
+<pc>，</pc>口<num value="125250">十二萬五千二百五十</num>
+<pc>。</pc>縣<num value="4">四</num>
+<pc>：</pc>有府<num value="10">十</num>
+<pc>，</pc>曰嘉陽<pc>、</pc>宜祿<pc>、</pc>公劉<pc>、</pc>良社<pc>、</pc>胡陵<pc>、</pc>蜯川<pc>、</pc>
+<num value="10000">萬</num>敵<pc>、</pc>金池<pc>、</pc>舜城<pc>、</pc>宜山<pc>。</pc>新平<pc>，</pc>望<pc>。</pc>有永定壘<num value="2">二</num>
+<pc>，</pc>太宗討薛舉置<pc>。</pc>
+<num value="3">三</num>水<pc>，</pc>緊<pc>。</pc>有石門山<pc>。</pc>北<measure quantity="20" unit="LIs">
+<num value="20">二十</num>里</measure>有<num value="10000">萬</num>壽湫<pc>，</pc>大曆<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>因風雷而成<pc>。</pc>永壽<pc>，</pc>上<pc>。</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析新平置<pc>，</pc>神龍元年隸雍州<pc>，</pc>唐隆元年來屬<pc>。</pc>宜祿<pc>。</pc>中<pc>。</pc>貞觀<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析新平及<placeName>涇州</placeName>之保定<pc>、</pc>靈台置<pc>。</pc>有淺水原<pc>，</pc>有長武城<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　右京畿採訪使<pc>，</pc>治京城內<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>隴州</placeName>汧陽郡<pc>，</pc>上<pc>。</pc>本隴東郡<pc>，</pc>義寧<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>析扶風郡之汧源<pc>、</pc>汧陽<pc>、</pc>南由<pc>，</pc>安定郡之華亭置<pc>。</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更郡曰汧陽<pc>。</pc>土貢<pc>：</pc>榛實<pc>、</pc>龍須席<pc>。</pc>戶<num value="24652">二萬四千六百五十二</num>
+<pc>，</pc>口<num value="100148">十萬一百四十八</num>
+<pc>。</pc>縣<num value="3">三</num>
+<pc>：</pc>有府<num value="4">四</num>
+<pc>，</pc>曰大堆<pc>、</pc>龍盤<pc>、</pc>開川<pc>、</pc>臨汧<pc>。</pc>汧源<pc>，</pc>上<pc>。</pc>垂拱<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>更華亭曰亭川<pc>，</pc>神龍元年復故名<pc>，</pc>元和<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>省入汧源<pc>。</pc>西有安戎關<pc>，</pc>在隴山<pc>，</pc>本大震關<pc>，</pc>大中<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>
+<pc>，</pc>
+<term>防禦使</term>薛逵徙築<pc>，</pc>更名<pc>。</pc>有鐵<pc>；</pc>有<num value="5">五</num>節堰<pc>，</pc>引隴川水通漕<pc>，</pc>武德<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>
+<pc>，</pc>水部郎中姜行本開<pc>，</pc>後廢<pc>。</pc>華亭有義寧軍<pc>，</pc>大曆<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>置<pc>。</pc>貞元<measure quantity="13" unit="years">
+<num value="13">十三</num>年</measure>築永信城于平戎川<pc>。</pc>汧陽<pc>，</pc>上<pc>。</pc>有臨汧城<pc>，</pc>大和元年築<pc>。</pc>吳山<pc>。</pc>中<pc>。</pc>本長蛇<pc>，</pc>義寧<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>置<pc>，</pc>貞觀元年更名<pc>，</pc>上元<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>曰華山<pc>，</pc>尋復曰吳山<pc>。</pc>武德元年以南由縣置含州<pc>，</pc>
+<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>州廢<pc>，</pc>元和<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>省入焉<pc>。</pc>有西鎮吳山祠<pc>，</pc>有紫塠山<pc>。</pc>西有安夷關<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>涇州</placeName>保定郡<pc>，</pc>上<pc>。</pc>本安定郡<pc>，</pc>至德元載更名<pc>。</pc>土貢<pc>：</pc>龍須席<pc>。</pc>戶<num value="31365">三萬一千三百六十五</num>
+<pc>，</pc>口<num value="186849">十八萬六千八百四十九</num>
+<pc>。</pc>縣<num value="5">五</num>
+<pc>：</pc>有府<num value="6">六</num>
+<pc>，</pc>曰涇陽<pc>、</pc>
+<num value="4">四</num>門<pc>、</pc>興教<pc>、</pc>純德<pc>、</pc>肅清<pc>、</pc>仁賢<pc>。</pc>保定<pc>，</pc>上<pc>。</pc>本安定<pc>，</pc>至德元載更名<pc>，</pc>廣德元年沒吐蕃<pc>，</pc>大曆<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>復置<pc>。</pc>有折墌故城<pc>。</pc>靈台<pc>，</pc>上<pc>。</pc>本鶉觚<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更名<pc>。</pc>臨涇<pc>，</pc>中<pc>。</pc>良原<pc>，</pc>上<pc>。</pc>興元<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>沒吐蕃<pc>，</pc>貞元<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>復置<pc>。</pc>潘原<pc>。</pc>中<pc>。</pc>本陰盤<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更名<pc>，</pc>後省為彰信堡<pc>，</pc>貞元<measure quantity="11" unit="years">
+<num value="11">十一</num>年</measure>復置<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>原州</placeName>平涼郡<pc>，</pc>中都督府<pc>，</pc>望<pc>。</pc>廣德元年沒吐蕃<pc>，</pc>
+<term>節度使</term>馬璘表置行<placeName>原州</placeName>於靈台之<measure quantity="100" unit="LIs">
+<num value="100">百</num>里</measure>城<pc>。</pc>貞元<measure quantity="19" unit="years">
+<num value="19">十九</num>年</measure>徙<date notBefore="1064" notAfter="1067">治平</date>涼<pc>。</pc>元和<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>又徙治臨涇<pc>。</pc>大中<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>收復關<pc>、</pc>隴<pc>，</pc>歸<date notBefore="1064" notAfter="1067">治平</date>高<pc>。</pc>廣明後復沒吐蕃<pc>，</pc>又僑治臨涇<pc>。</pc>土貢<pc>：</pc>氈<pc>、</pc>覆鞍氈<pc>、</pc>龍須席<pc>。</pc>戶<num value="7349">七千三百四十九</num>
+<pc>，</pc>口<num value="33146">三萬三千一百四十六</num>
+<pc>。</pc>縣<num value="2">二</num>
+<pc>：</pc>有府<num value="2">二</num>
+<pc>，</pc>曰彭陽<pc>、</pc>安善<pc>。</pc>平高<pc>，</pc>望<pc>。</pc>有崆峒山<pc>；</pc>西南有木峽關<pc>。</pc>州境又有石門<pc>、</pc>驛藏<pc>、</pc>制勝<pc>、</pc>石峽<pc>、</pc>木崝等關<pc>，</pc>並木峽<pc>、</pc>大盤為<num value="7">七</num>關<pc>。</pc>又南有瓦亭故關<pc>。</pc>
+<num value="100">百</num>泉<pc>。</pc>上<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>渭州</placeName>
+<pc>，</pc>元和<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>以<placeName>原州</placeName>之平涼縣置行<placeName>渭州</placeName>
+<pc>，</pc>廣明元年為吐蕃所破<pc>，</pc>中和<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>
+<pc>，</pc>涇原<term>節度使</term>張鈞表置<pc>。</pc>凡乾元後所置州<pc>，</pc>皆無郡名<pc>；</pc>及其季世<pc>，</pc>所置州縣<pc>，</pc>又不列上<pc>、</pc>中<pc>、</pc>下之第<pc>。</pc>縣<num value="1">一</num>
+<pc>。</pc>平涼<pc>。</pc>上<pc>。</pc>廣德元年沒吐蕃<pc>，</pc>貞元<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>復置<pc>。</pc>及為行<placeName>渭州</placeName>
+<pc>，</pc>其民皆州自領之<pc>。</pc>西南隴山有<num value="6">六</num>盤關<pc>；</pc>有銀<pc>，</pc>有銅<pc>，</pc>有鐵<pc>；</pc>西北<measure quantity="5" unit="LIs">
+<num value="5">五</num>里</measure>有吐蕃會盟壇<pc>，</pc>貞元<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>築<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>武州</placeName>
+<pc>，</pc>中<pc>。</pc>大中<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>以<placeName>原州</placeName>之蕭關置<pc>。</pc>中和<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>僑治潘原<pc>。</pc>縣<num value="1">一</num>
+<pc>：</pc>蕭關<pc>。</pc>中<pc>。</pc>貞觀<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>以突厥降戶置緣州<pc>，</pc>
+<date notBefore="1064" notAfter="1067">治平</date>高之他樓城<pc>。</pc>高宗置他樓縣<pc>，</pc>隸<placeName>原州</placeName>
+<pc>，</pc>神龍元年省<pc>，</pc>置蕭關縣<pc>。</pc>白草軍在蔚茹水之西<pc>，</pc>至德後沒吐蕃<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　甯州彭原郡<pc>，</pc>望<pc>。</pc>本北地郡<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更名<pc>。</pc>土貢<pc>：</pc>
+<num value="5">五</num>色覆鞍氈<pc>、</pc>龍須席<pc>、</pc>芫青<pc>、</pc>亭長<pc>、</pc>庵袴<pc>、</pc>假蘇<pc>。</pc>戶<num value="37121">三萬七千一百二十一</num>
+<pc>，</pc>口<num value="224837">二十二萬四千八百三十七</num>
+<pc>。</pc>縣<num value="5">五</num>
+<pc>：</pc>有府<num value="11">十一</num>
+<pc>，</pc>曰彭池<pc>、</pc>高望<pc>、</pc>靜難<pc>、</pc>驎寶<pc>、</pc>天固<pc>、</pc>蒲川<pc>、</pc>東原<pc>、</pc>
+<num value="3">三</num>會<pc>、</pc>大延<pc>、</pc>和泉<pc>、</pc>永寧<pc>。</pc>定安<pc>，</pc>望<pc>。</pc>義寧<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析置歸義縣<pc>，</pc>貞觀<measure quantity="17" unit="years">
+<num value="17">十七</num>年</measure>省入定平<pc>。</pc>有定安故關<pc>。</pc>真寧<pc>，</pc>緊<pc>。</pc>本羅川<pc>。</pc>有要冊湫<pc>。</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年獲玉真人像<num value="27">二十七</num>
+<pc>，</pc>因更名<pc>。</pc>襄樂<pc>，</pc>緊<pc>。</pc>彭原<pc>，</pc>緊<pc>。</pc>武德元年以縣置<placeName>彭州</placeName>
+<pc>，</pc>
+<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析置豐義縣<pc>。</pc>貞觀元年州廢<pc>，</pc>以彭原<pc>、</pc>豐義來屬<pc>。</pc>開元<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>以豐義隸<placeName>涇州</placeName>
+<pc>，</pc>尋復還屬<pc>，</pc>唐末省<pc>。</pc>定平<pc>。</pc>上<pc>。</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析定安置<pc>，</pc>後隸<placeName>邠州</placeName>
+<pc>。</pc>元和<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>復來屬<pc>，</pc>
+<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>隸左神策軍<pc>。</pc>有高摭城<pc>。</pc>唐末以縣置衍州<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>慶州</placeName>順化郡<pc>，</pc>中都督府<pc>。</pc>本弘化郡<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年曰安化<pc>，</pc>至德元載更名<pc>。</pc>土貢<pc>：</pc>
+<pc>「</pc>胡女布<pc>、</pc>牛酥<pc>、</pc>麝<pc>、</pc>蠟<pc>。</pc>戶<num value="23949">二萬三千九百四十九</num>
+<pc>，</pc>口<num value="124236">十二萬四千二百三十六</num>
+<pc>。</pc>縣<num value="10">十</num>
+<pc>：</pc>有府<num value="8">八</num>
+<pc>，</pc>曰龍息<pc>、</pc>交水<pc>、</pc>同川<pc>、</pc>永清<pc>、</pc>蟠交<pc>、</pc>永業<pc>、</pc>樂蟠<pc>、</pc>永安<pc>。</pc>順化<pc>，</pc>中<pc>。</pc>本弘化<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年曰安化<pc>，</pc>至德元載更名<pc>。</pc>合水<pc>，</pc>中<pc>。</pc>本合川<pc>，</pc>武德元年置<pc>，</pc>是年<pc>，</pc>又析置蟠交縣<pc>。</pc>貞觀元年省合川入弘化<pc>。</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更蟠交曰合水<pc>。</pc>樂蟠<pc>，</pc>中<pc>。</pc>義甯元年析合水置<pc>。</pc>馬嶺<pc>，</pc>中<pc>。</pc>華池<pc>，</pc>下<pc>。</pc>武德<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>置<pc>，</pc>以縣置林州<pc>，</pc>貞觀元年州廢<pc>。</pc>同川<pc>，</pc>中下<pc>。</pc>本<num value="3">三</num>泉<pc>，</pc>義寧<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析彭原郡之彭原置<pc>，</pc>武德<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>更名<pc>。</pc>洛源<pc>，</pc>中<pc>。</pc>貞觀<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>置<pc>，</pc>
+<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>隸北<placeName>永州</placeName>
+<pc>，</pc>
+<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>徙州來治<pc>，</pc>
+<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>州廢<pc>，</pc>來屬<pc>。</pc>延慶<pc>，</pc>中<pc>。</pc>本白馬<pc>，</pc>武德<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>徙故<placeName>豐州</placeName>民析合水置<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更名<pc>。</pc>方渠<pc>，</pc>中下<pc>。</pc>神龍<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>析馬嶺置<pc>。</pc>懷安<pc>。</pc>下<pc>。</pc>開元<measure quantity="11" unit="years">
+<num value="11">十一</num>年</measure>括逃戶連黨項蕃落置<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>鄜州</placeName>洛交郡<pc>，</pc>上<pc>。</pc>本上郡<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更名<pc>。</pc>土貢<pc>：</pc>龍須席<pc>。</pc>戶<num value="23484">二萬三千四百八十四</num>
+<pc>，</pc>口<num value="153714">十五萬三千七百一十四</num>
+<pc>。</pc>縣<num value="5">五</num>
+<pc>：</pc>有府<num value="11">十一</num>
+<pc>，</pc>曰洛昌<pc>、</pc>龍交<pc>、</pc>葦川<pc>、</pc>
+<num value="5">五</num>交<pc>、</pc>大同<pc>、</pc>安光<pc>、</pc>洛安<pc>、</pc>銀方<pc>、</pc>杏林<pc>、</pc>脩武<pc>、</pc>安吉<pc>。</pc>有肅戎軍<pc>，</pc>大曆<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>置<pc>，</pc>在鹿阝城<pc>。</pc>洛交<pc>，</pc>緊<pc>。</pc>洛川<pc>，</pc>上<pc>。</pc>
+<num value="3">三</num>川<pc>，</pc>中<pc>。</pc>華池水<pc>、</pc>黑水<pc>、</pc>洛水所會<pc>。</pc>直羅<pc>，</pc>中<pc>。</pc>武德<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>析<num value="3">三</num>川<pc>、</pc>洛交因古直羅城置<pc>，</pc>羅水過城下<pc>，</pc>地平直<pc>，</pc>故名<pc>。</pc>甘泉<pc>。</pc>中<pc>。</pc>本伏陸<pc>，</pc>武德元年析洛交置<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更名<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　坊州中部郡<pc>，</pc>上<pc>。</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析<placeName>鄜州</placeName>之中部<pc>、</pc>鄜城置<pc>。</pc>土貢<pc>：</pc>龍須席<pc>、</pc>枲<pc>、</pc>弦麻<pc>。</pc>戶<num value="22458">二萬二千四百五十八</num>
+<pc>，</pc>口<num value="120208">十二萬二百八</num>
+<pc>。</pc>縣<num value="4">四</num>
+<pc>：</pc>有府<num value="5">五</num>
+<pc>，</pc>曰杏城<pc>、</pc>仁里<pc>、</pc>思臣<pc>、</pc>永平<pc>、</pc>安台<pc>。</pc>中部<pc>，</pc>上<pc>。</pc>本內部<pc>，</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>更名<pc>。</pc>周天和中<pc>，</pc>元皇帝為敷州<term>刺史</term>
+<pc>，</pc>置馬坊<pc>，</pc>高祖因以名州<pc>。</pc>有鐵<pc>。</pc>州郭無水<pc>，</pc>東北<measure quantity="7" unit="LIs">
+<num value="7">七</num>里</measure>有上善泉<pc>，</pc>開成<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>
+<term>刺史</term>張怡架水入城<pc>，</pc>以紓遠汲<pc>。</pc>
+<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>
+<pc>，</pc>
+<term>刺史</term>崔駢復增修之<pc>，</pc>民獲其利<pc>。</pc>後思之<pc>，</pc>為立祠<pc>。</pc>宜君<pc>，</pc>上<pc>。</pc>本隸宜州<pc>。</pc>有仁智宮<pc>，</pc>武德<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>置<pc>。</pc>貞觀<measure quantity="17" unit="years">
+<num value="17">十七</num>年</measure>州廢<pc>，</pc>縣亦省<pc>。</pc>
+<measure quantity="20" unit="years">
+<num value="20">二十</num>年</measure>置玉華宮<pc>，</pc>復置縣<pc>，</pc>隸雍州<pc>。</pc>宮在北<measure quantity="4" unit="LIs">
+<num value="4">四</num>里</measure>鳳凰谷<pc>。</pc>永徽<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>廢宮為玉華寺<pc>，</pc>縣又省<pc>。</pc>龍朔<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>析中部<pc>、</pc>同官復置<pc>，</pc>來屬<pc>。</pc>有鐵<pc>。</pc>升平<pc>，</pc>上<pc>。</pc>天寶<num value="12">十二</num>載析宜君置<pc>，</pc>寶應元年省<pc>，</pc>後復置<pc>。</pc>鄜城<pc>。</pc>上<pc>。</pc>唐末以縣置翟州<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　丹州咸寧郡<pc>，</pc>上<pc>。</pc>本丹陽郡<pc>，</pc>義甯元年析延安郡之義川<pc>、</pc>汾川<pc>、</pc>咸寧縣置<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更名<pc>。</pc>土貢<pc>：</pc>龍須席<pc>、</pc>麝<pc>、</pc>蠟燭<pc>。</pc>戶<num value="5105">萬五千一百五</num>
+<pc>，</pc>口<num value="87625">八萬七千六百二十五</num>
+<pc>。</pc>縣<num value="4">四</num>
+<pc>：</pc>有府<num value="5">五</num>
+<pc>，</pc>曰宜城<pc>、</pc>通天<pc>、</pc>同化<pc>、</pc>丹陽<pc>、</pc>長松<pc>。</pc>義川<pc>，</pc>上<pc>。</pc>雲岩<pc>，</pc>中<pc>。</pc>武德元年析義川置<pc>。</pc>汾川<pc>，</pc>上<pc>。</pc>有烏仁關<pc>。</pc>咸寧<pc>。</pc>中<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>延州</placeName>延安郡<pc>，</pc>中都督府<pc>。</pc>土貢<pc>：</pc>樺皮<pc>、</pc>麝<pc>、</pc>蠟<pc>。</pc>戶<num value="8954">萬八千九百五十四</num>
+<pc>，</pc>口<num value="100040">十萬四十</num>
+<pc>。</pc>縣<num value="10">十</num>
+<pc>：</pc>有府<num value="7">七</num>
+<pc>，</pc>敦化<pc>、</pc>延川<pc>、</pc>寧戎<pc>、</pc>因城<pc>、</pc>塞門<pc>、</pc>延安<pc>、</pc>金明<pc>。</pc>又儀鳳中<pc>，</pc>吐谷渾部落自涼州內附<pc>，</pc>置<num value="2">二</num>府于金明西境<pc>，</pc>曰羌部落<pc>，</pc>曰閤門<pc>。</pc>膚施<pc>，</pc>上<pc>。</pc>有牢山鎮城<pc>。</pc>延長<pc>，</pc>中<pc>。</pc>本延安<pc>，</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>置<pc>，</pc>以縣置北連州<pc>，</pc>並置義鄉<pc>、</pc>齊明<num value="2">二</num>縣以隸之<pc>。</pc>貞觀<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>州廢<pc>，</pc>省義鄉<pc>、</pc>齊明入延安<pc>，</pc>來屬<pc>。</pc>廣德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>更名<pc>。</pc>臨真<pc>，</pc>中<pc>。</pc>武德元年隸東<placeName>夏州</placeName>
+<pc>，</pc>貞觀<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>州廢來屬<pc>。</pc>金明<pc>，</pc>中<pc>。</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析膚施置<pc>，</pc>以縣置北<placeName>武州</placeName>
+<pc>，</pc>並置開遠<pc>、</pc>全義<pc>、</pc>崇德<pc>、</pc>永安<pc>、</pc>定義<num value="5">五</num>縣<pc>。</pc>貞觀<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>州廢<pc>，</pc>省開遠<pc>、</pc>全義<pc>、</pc>崇德<pc>、</pc>永安<pc>、</pc>定義入金明<pc>，</pc>來屬<pc>。</pc>豐林<pc>，</pc>中<pc>。</pc>武德<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>僑置<placeName>雲州</placeName>及雲中<pc>、</pc>榆林<pc>、</pc>龍泉<num value="3">三</num>縣<pc>，</pc>
+<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>州廢<pc>，</pc>省龍泉入臨真<pc>，</pc>省雲中<pc>、</pc>榆林入豐林<pc>。</pc>東北有合嶺關<pc>。</pc>延川<pc>，</pc>中<pc>。</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>招慰稽胡置基州<pc>；</pc>又<term>安撫使</term>段德操表置義門縣<pc>，</pc>以義門置南<placeName>平州</placeName>
+<pc>。</pc>
+<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>析<placeName>綏州</placeName>之城平置魏平縣<pc>。</pc>
+<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>廢南<placeName>平州</placeName>
+<pc>，</pc>省義門<pc>、</pc>魏平<pc>。</pc>
+<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>更基州曰北基州<pc>。</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>州廢<pc>，</pc>來屬<pc>。</pc>敷政<pc>，</pc>中下<pc>。</pc>本因城<pc>，</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>徙治金城鎮<pc>，</pc>更名金城<pc>；</pc>又東境置<placeName>永州</placeName>
+<pc>，</pc>並置洛盤<pc>、</pc>新昌<pc>、</pc>土塠<num value="3">三</num>縣<pc>。</pc>貞觀<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>徙州治洛源<pc>。</pc>及州廢<pc>，</pc>省洛盤<pc>、</pc>新昌<pc>、</pc>土塠入金城<pc>。</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年曰敷政<pc>。</pc>延昌<pc>，</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>置北仁州<pc>，</pc>貞觀<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>州廢<pc>，</pc>
+<measure quantity="10" unit="years">
+<num value="10">十</num>年</measure>以其地置罷交縣<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更名<pc>。</pc>其北蘆子關<pc>。</pc>延水<pc>，</pc>中下<pc>。</pc>本安民<pc>，</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析延川置<pc>，</pc>以縣置西<placeName>和州</placeName>
+<pc>，</pc>並置修文<pc>、</pc>桑原<num value="2">二</num>縣<pc>。</pc>貞觀<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>州廢<pc>，</pc>省修文<pc>、</pc>桑原入安民<pc>，</pc>隸北基州<pc>。</pc>州廢<pc>，</pc>來屬<pc>。</pc>
+<measure quantity="23" unit="years">
+<num value="23">二十三</num>年</measure>曰弘風<pc>，</pc>神龍元年更名<pc>。</pc>門山<pc>。</pc>上<pc>。</pc>武德<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>析汾川置<pc>，</pc>隸丹州<pc>，</pc>廣德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>來屬<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>靈州</placeName>靈武郡<pc>，</pc>大都督府<pc>。</pc>土貢<pc>：</pc>紅藍<pc>，</pc>甘草<pc>，</pc>花蓯蓉<pc>，</pc>代赭<pc>，</pc>白膠<pc>，</pc>青蟲<pc>，</pc>雕<pc>，</pc>鶻<pc>，</pc>白羽<pc>，</pc>麝<pc>，</pc>野馬<pc>、</pc>鹿革<pc>，</pc>野豬黃<pc>，</pc>吉莫鞾<pc>，</pc>郭<pc>，</pc>氈<pc>，</pc>庫利<pc>，</pc>赤檉<pc>，</pc>馬策<pc>，</pc>印鹽<pc>，</pc>黃牛臆<pc>。</pc>戶<num value="1456">萬一千四百五十六</num>
+<pc>，</pc>口<num value="53163">五萬三千一百六十三</num>
+<pc>。</pc>縣<num value="4">四</num>
+<pc>：</pc>有府<num value="5">五</num>
+<pc>，</pc>曰武略<pc>、</pc>河間<pc>、</pc>靜城<pc>、</pc>鳴沙<pc>、</pc>
+<num value="10000">萬</num>春<pc>。</pc>有朔方經略軍<pc>。</pc>黃河外有豐安<pc>、</pc>定遠<pc>、</pc>新昌等軍<pc>，</pc>豐甯<pc>、</pc>保寧等城<pc>。</pc>回樂<pc>，</pc>望<pc>。</pc>武德<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>析置豐安縣<pc>。</pc>貞觀<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>于回樂境置回州<pc>，</pc>以豐安隸回州<pc>。</pc>
+<measure quantity="13" unit="years">
+<num value="13">十三</num>年</measure>州廢<pc>，</pc>省豐安<pc>。</pc>有溫泉鹽池<pc>；</pc>有特進渠<pc>，</pc>溉田<num value="600">六百</num>頃<pc>，</pc>長慶<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>詔開<pc>。</pc>靈武<pc>，</pc>上<pc>。</pc>懷遠<pc>，</pc>緊<pc>。</pc>武德<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>廢<placeName>豐州</placeName>
+<pc>，</pc>省<num value="9">九</num>原<pc>、</pc>永豐<num value="2">二</num>縣入焉<pc>，</pc>隋<num value="9">九</num>原郡也<pc>。</pc>有鹽池<num value="3">三</num>
+<pc>：</pc>曰紅桃<pc>、</pc>武平<pc>、</pc>河池<pc>。</pc>保靜<pc>。</pc>上<pc>。</pc>本弘靜<pc>，</pc>神龍元年曰安靜<pc>，</pc>至德元載更名<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　威州郡闕<pc>。</pc>中<pc>。</pc>本安樂州<pc>。</pc>初<pc>，</pc>吐谷渾部落自涼州徙於鄯州<pc>，</pc>不安其居<pc>，</pc>又徙於<placeName>靈州</placeName>之境<pc>，</pc>鹹亨<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>以<placeName>靈州</placeName>之故鳴沙縣地置州以居之<pc>。</pc>至德後沒吐蕃<pc>。</pc>大中<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>收復<pc>，</pc>更名<pc>。</pc>光啟<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>徙治涼州鎮為行州<pc>。</pc>縣<num value="2">二</num>
+<pc>：</pc>鳴沙<pc>，</pc>上<pc>。</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>置會州<pc>，</pc>貞觀<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>州廢<pc>，</pc>更置<placeName>環州</placeName>
+<pc>，</pc>以大河環曲為名<pc>。</pc>
+<measure quantity="9" unit="years">
+<num value="9">九</num>年</measure>州廢<pc>，</pc>還隸<placeName>靈州</placeName>
+<pc>。</pc>神龍中為默啜所寇<pc>，</pc>移治故豐安城<pc>。</pc>大中<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>復得故縣<pc>。</pc>溫池<pc>。</pc>上<pc>。</pc>本隸<placeName>靈州</placeName>
+<pc>，</pc>神龍元年置<pc>，</pc>大中<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>來屬<pc>。</pc>有鹽池<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>雄州</placeName>
+<pc>，</pc>在<placeName>靈州</placeName>西南<measure quantity="80" unit="LIs">
+<num value="80">百八十</num>里</measure>
+<pc>。</pc>中和元年徙治承天堡為行州<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　警州<pc>，</pc>本定遠城<pc>，</pc>在<placeName>靈州</placeName>東北<measure quantity="200" unit="LIs">
+<num value="200">二百</num>里</measure>
+<pc>，</pc>先天<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>朔方大總管郭元振置<pc>。</pc>其後為上縣<pc>，</pc>隸<placeName>靈州</placeName>
+<pc>。</pc>景福元年<pc>，</pc>靈威<term>節度使</term>韓遵表為州<pc>。</pc>羊馬城幅員<measure quantity="14" unit="LIs">
+<num value="14">十四</num>里</measure>
+<pc>，</pc>信安王禕所築<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　會州會寧郡<pc>，</pc>上<pc>。</pc>本西會州<pc>，</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>以平涼郡之會寧鎮置<pc>。</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>以足食故更名粟州<pc>，</pc>是年又更名<pc>。</pc>土貢<pc>：</pc>駝毛褐<pc>、</pc>野馬革<pc>、</pc>覆鞍氈<pc>、</pc>鹿舌<pc>、</pc>鹿尾<pc>。</pc>戶<num value="4594">四千五百九十四</num>
+<pc>，</pc>口<num value="26660">二萬六千六百六十</num>
+<pc>。</pc>縣<num value="2">二</num>
+<pc>：</pc>有新泉軍<pc>，</pc>開元<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>廢為守捉<pc>。</pc>會寧<pc>，</pc>上<pc>。</pc>本涼川<pc>，</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>更名<pc>。</pc>開元<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>別置涼川縣<pc>，</pc>
+<measure quantity="9" unit="years">
+<num value="9">九</num>年</measure>省<pc>。</pc>有黃河堰<pc>，</pc>開元<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>
+<pc>，</pc>
+<term>刺史</term>安敬忠築<pc>，</pc>以捍河流<pc>。</pc>有河池<pc>，</pc>因雨生鹽<pc>。</pc>東南有會甯關<pc>。</pc>烏蘭<pc>。</pc>上<pc>。</pc>武德<measure quantity="9" unit="years">
+<num value="9">九</num>年</measure>置<pc>。</pc>西南有烏蘭關<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　鹽州<num value="5">五</num>原郡<pc>，</pc>下都督府<pc>。</pc>本鹽川郡<pc>。</pc>唐初沒梁師都<pc>。</pc>武德元年僑治<placeName>靈州</placeName>
+<pc>。</pc>貞觀元年州省<pc>，</pc>以縣隸<placeName>靈州</placeName>
+<pc>，</pc>
+<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>師都平<pc>，</pc>復置州<pc>。</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更郡曰<num value="5">五</num>原<pc>。</pc>貞元<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>沒吐蕃<pc>，</pc>
+<measure quantity="9" unit="years">
+<num value="9">九</num>年</measure>復城之<pc>。</pc>土貢<pc>：</pc>鹽山<pc>、</pc>木瓜<pc>、</pc>&lt;爻守&gt;牛<pc>。</pc>戶<num value="2929">二千九百二十九</num>
+<pc>，</pc>口<num value="6665">萬六千六百六十五</num>
+<pc>。</pc>縣<num value="2">二</num>
+<pc>：</pc>有府<num value="1">一</num>
+<pc>，</pc>曰鹽川<pc>。</pc>有保塞軍<pc>，</pc>貞元<measure quantity="19" unit="years">
+<num value="19">十九</num>年</measure>置<pc>。</pc>
+<num value="5">五</num>原<pc>，</pc>上<pc>。</pc>有烏池<pc>、</pc>白池<pc>、</pc>細項池<pc>、</pc>瓦窯池鹽<pc>。</pc>白池<pc>。</pc>上<pc>。</pc>本興甯<pc>，</pc>貞觀元年與州同省<pc>，</pc>
+<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>復置<pc>。</pc>景龍<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>更名<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>夏州</placeName>朔方郡<pc>，</pc>中都督府<pc>。</pc>土貢<pc>：</pc>氈<pc>、</pc>角弓<pc>、</pc>酥<pc>、</pc>拒霜薺<pc>。</pc>戶<num value="9213">九千二百一十三</num>
+<pc>，</pc>口<num value="53014">五萬三千一十四</num>
+<pc>。</pc>縣<num value="3">三</num>
+<pc>：</pc>有府<num value="2">二</num>
+<pc>，</pc>曰寧朔<pc>、</pc>順化<pc>。</pc>朔方<pc>，</pc>上<pc>。</pc>本錄<pc>，</pc>貞觀<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>更名<pc>。</pc>貞元<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>開延化渠<pc>，</pc>引烏水入庫狄澤<pc>，</pc>溉田<num value="200">二百</num>頃<pc>。</pc>有鹽池<num value="2">二</num>
+<pc>。</pc>有天柱軍<pc>，</pc>天寶<num value="14">十四</num>載置<pc>，</pc>寶應元年廢<pc>。</pc>長慶<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>
+<pc>，</pc>
+<term>節度使</term>李祐築烏延<pc>、</pc>宥州<pc>、</pc>臨塞<pc>、</pc>陰河<pc>、</pc>陶子等城于蘆子關北<pc>，</pc>以護塞外<pc>。</pc>有木瓜嶺<pc>。</pc>靜德<pc>，</pc>中下<pc>。</pc>貞觀<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>隸北<placeName>開州</placeName>
+<pc>，</pc>
+<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>曰<placeName>化州</placeName>
+<pc>，</pc>
+<measure quantity="13" unit="years">
+<num value="13">十三</num>年</measure>州廢<pc>。</pc>寧朔<pc>。</pc>中下<pc>。</pc>武德<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>置南<placeName>夏州</placeName>
+<pc>。</pc>貞觀<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>州廢<pc>，</pc>縣省入朔方<pc>，</pc>
+<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>復置<pc>，</pc>來屬<pc>。</pc>長安<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>省<pc>。</pc>開元<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>又置<pc>，</pc>
+<measure quantity="9" unit="years">
+<num value="9">九</num>年</measure>省<pc>，</pc>其後又置<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>綏州</placeName>上郡<pc>，</pc>下<pc>。</pc>本雕陰郡地<pc>。</pc>唐初沒梁師都<pc>。</pc>武德<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>以歸民于<placeName>延州</placeName>豐林縣僑置<pc>，</pc>
+<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>徙治延川境<pc>，</pc>
+<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>徙治魏平<pc>。</pc>貞觀<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>師都平<pc>，</pc>歸治上縣<pc>。</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更郡名<pc>。</pc>士貢<pc>：</pc>胡女布<pc>、</pc>蠟燭<pc>。</pc>戶<num value="867">萬八百六十七</num>
+<pc>，</pc>口<num value="89112">八萬九千一百一十二</num>
+<pc>。</pc>縣<num value="5">五</num>
+<pc>：</pc>有府<num value="4">四</num>
+<pc>，</pc>曰伏洛<pc>、</pc>義合<pc>、</pc>
+<num value="10000">萬</num>古<pc>、</pc>大斌<pc>。</pc>龍泉<pc>，</pc>中<pc>。</pc>本上縣<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年更名<pc>。</pc>延福<pc>，</pc>中下<pc>。</pc>武德<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>析置北吉州<pc>，</pc>並置歸義<pc>、</pc>
+<placeName>洛陽</placeName>
+<num value="2">二</num>縣<pc>；</pc>又析置羅州<pc>，</pc>並置石羅<pc>、</pc>關善<pc>、</pc>
+<num value="10000">萬</num>福<num value="3">三</num>縣<pc>；</pc>又析置匡州<pc>，</pc>並置安定<pc>、</pc>源泉<num value="2">二</num>縣<pc>。</pc>貞觀<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>州<pc>、</pc>縣皆廢<pc>。</pc>綏德<pc>，</pc>中下<pc>。</pc>武德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>置<pc>。</pc>
+<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>析置<placeName>雲州</placeName>
+<pc>，</pc>並置信義<pc>、</pc>淳義<num value="2">二</num>縣<pc>；</pc>又析置龍州<pc>，</pc>並置風鄉<pc>、</pc>義良<num value="2">二</num>縣<pc>。</pc>貞觀<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>州<pc>、</pc>縣皆廢<pc>。</pc>綏德<pc>，</pc>中下<pc>。</pc>武德<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>置魏州<pc>，</pc>並置安故<pc>、</pc>安泉<num value="2">二</num>縣<pc>。</pc>貞觀<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>州廢<pc>，</pc>省安故<pc>、</pc>安泉<pc>。</pc>西南有魏平關<pc>。</pc>大斌<pc>。</pc>中下<pc>。</pc>武德<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>徙治魏平城<pc>，</pc>取<pc>「</pc>
+<quote>稽胡懷化<pc>，</pc>文武雜半</quote>
+<pc>」</pc>以名<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　銀州銀川郡<pc>，</pc>下<pc>。</pc>貞觀<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>析<placeName>綏州</placeName>之儒林<pc>、</pc>真鄉置<pc>。</pc>土貢<pc>：</pc>女稽布<pc>。</pc>戶<num value="7602">七千六百二</num>
+<pc>，</pc>口<num value="45527">四萬五千五百二十七</num>
+<pc>。</pc>縣<num value="4">四</num>
+<pc>：</pc>儒林<pc>，</pc>中<pc>。</pc>東北有無定河<pc>。</pc>真鄉<pc>，</pc>中下<pc>。</pc>西北有茹盧水<pc>。</pc>開光<pc>，</pc>中<pc>。</pc>本隸<placeName>綏州</placeName>
+<pc>，</pc>貞觀<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>置<pc>，</pc>
+<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>隸柘州<pc>，</pc>
+<measure quantity="13" unit="years">
+<num value="13">十三</num>年</measure>州廢<pc>，</pc>來屬<pc>。</pc>撫寧<pc>。</pc>中下<pc>。</pc>本隸<placeName>綏州</placeName>
+<pc>，</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>來屬<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　宥州寧朔郡<pc>，</pc>上<pc>。</pc>調露元年<pc>，</pc>于靈<pc>、</pc>夏南境以降突厥置魯州<pc>、</pc>麗州<pc>、</pc>含州<pc>、</pc>塞州<pc>、</pc>依州<pc>、</pc>契州<pc>，</pc>以唐人為<term>刺史</term>
+<pc>，</pc>謂之<num value="6">六</num>胡州<pc>。</pc>長安<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>並為匡<pc>、</pc>長<measure quantity="2" unit="prefectures">
+<num value="2">二</num>州</measure>
+<pc>。</pc>神龍<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>置蘭<placeName>池</placeName>都督府<pc>，</pc>分<measure quantity="6" unit="prefectures">
+<num value="6">六</num>州</measure>為縣<pc>。</pc>開元<measure quantity="10" unit="years">
+<num value="10">十</num>年</measure>復置魯州<pc>、</pc>麗州<pc>、</pc>契州<pc>、</pc>塞州<pc>。</pc>
+<measure quantity="10" unit="years">
+<num value="10">十</num>年</measure>平康待賓<pc>，</pc>遷其人于河南及江<pc>、</pc>淮<pc>。</pc>
+<measure quantity="18" unit="years">
+<num value="18">十八</num>年</measure>復置匡<pc>、</pc>長<measure quantity="2" unit="prefectures">
+<num value="2">二</num>州</measure>
+<pc>。</pc>
+<measure quantity="26" unit="years">
+<num value="26">二十六</num>年</measure>還所遷胡戶置宥州及延恩等縣<pc>，</pc>其後僑治經略軍<pc>。</pc>至德<num value="2">二</num>載更郡曰懷德<pc>。</pc>乾元元年復故名<pc>。</pc>寶應後廢<pc>。</pc>元和<measure quantity="9" unit="years">
+<num value="9">九</num>年</measure>於經略軍復置<pc>，</pc>距故州東北<measure quantity="300" unit="LIs">
+<num value="300">三百</num>里</measure>
+<pc>。</pc>
+<measure quantity="15" unit="years">
+<num value="15">十五</num>年</measure>徙治長澤<pc>，</pc>為吐蕃所破<pc>。</pc>長慶<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>
+<pc>，</pc>
+<term>節度使</term>李祐復奏置<pc>。</pc>土貢<pc>：</pc>氈<pc>。</pc>戶<num value="7083">七千八十三</num>
+<pc>，</pc>口<num value="32652">三萬二千六百五十二</num>
+<pc>。</pc>縣<num value="2">二</num>
+<pc>：</pc>延恩<pc>，</pc>中<pc>。</pc>開元<measure quantity="26" unit="years">
+<num value="26">二十六</num>年</measure>以故匡州地置<pc>；</pc>又以故塞門縣地置懷德縣<pc>，</pc>以故蘭州之長泉縣地置歸仁縣<pc>。</pc>寶應後皆省<pc>。</pc>元和<measure quantity="9" unit="years">
+<num value="9">九</num>年</measure>復置延恩<pc>。</pc>有經略軍<pc>，</pc>在榆多勒城<pc>，</pc>天寶中王忠嗣奏置<pc>。</pc>長澤<pc>。</pc>中下<pc>。</pc>本隸<placeName>夏州</placeName>
+<pc>，</pc>貞觀<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>置長州<pc>，</pc>
+<measure quantity="13" unit="years">
+<num value="13">十三</num>年</measure>州廢<pc>，</pc>隸<placeName>夏州</placeName>
+<pc>，</pc>元和<measure quantity="15" unit="years">
+<num value="15">十五</num>年</measure>來屬<pc>。</pc>有胡洛鹽池<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>麟州</placeName>新秦郡<pc>，</pc>下都督府<pc>。</pc>開元<measure quantity="12" unit="years">
+<num value="12">十二</num>年</measure>析勝州之連穀<pc>、</pc>銀城置<pc>，</pc>
+<measure quantity="14" unit="years">
+<num value="14">十四</num>年</measure>廢<pc>，</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年復置<pc>。</pc>土貢<pc>：</pc>青他鹿角<pc>。</pc>戶<num value="2428">二千四百二十八</num>
+<pc>，</pc>口<num value="903">萬九百三</num>
+<pc>。</pc>縣<num value="3">三</num>
+<pc>：</pc>新秦<pc>，</pc>中<pc>。</pc>開元<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>置<pc>，</pc>
+<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>又置鐵麟縣<pc>，</pc>
+<measure quantity="14" unit="years">
+<num value="14">十四</num>年</measure>州廢<pc>，</pc>皆省<pc>。</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年復置新秦<pc>。</pc>連穀<pc>。</pc>中下<pc>。</pc>貞觀<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>以隋連穀戍置<pc>。</pc>銀城<pc>。</pc>中下<pc>。</pc>貞觀<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>置<pc>，</pc>
+<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>隸銀州<pc>，</pc>
+<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>隸勝州<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　勝州榆林郡<pc>，</pc>下都督府<pc>。</pc>武德中沒梁師都<pc>。</pc>師都平<pc>，</pc>復置<pc>。</pc>土貢<pc>：</pc>胡布<pc>、</pc>青他鹿角<pc>、</pc>芍藥<pc>、</pc>徐長卿<pc>。</pc>戶<num value="4187">四千一百八十七</num>
+<pc>，</pc>口<num value="20952">二萬九百五十二</num>
+<pc>。</pc>縣<num value="2">二</num>
+<pc>：</pc>有義勇軍<pc>。</pc>榆林<pc>，</pc>中下<pc>。</pc>有隋故榆林宮<pc>。</pc>東有榆林關<pc>，</pc>貞觀<measure quantity="13" unit="years">
+<num value="13">十三</num>年</measure>置<pc>。</pc>河濱<pc>。</pc>中下<pc>。</pc>貞觀<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>置<pc>，</pc>以縣置<placeName>雲州</placeName>
+<pc>，</pc>
+<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>曰威州<pc>，</pc>
+<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>州廢<pc>，</pc>來屬<pc>。</pc>東北有河濱關<pc>，</pc>貞觀<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>置<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<placeName>豐州</placeName>
+<num value="9">九</num>原郡<pc>，</pc>下都督府<pc>。</pc>貞觀<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>以降突厥戶置<pc>，</pc>不領縣<pc>。</pc>
+<measure quantity="11" unit="years">
+<num value="11">十一</num>年</measure>州廢<pc>，</pc>地入<placeName>靈州</placeName>
+<pc>。</pc>
+<measure quantity="23" unit="years">
+<num value="23">二十三</num>年</measure>復置<pc>。</pc>土貢<pc>：</pc>白麥<pc>、</pc>印鹽<pc>、</pc>野馬胯革<pc>、</pc>駝毛褐<pc>、</pc>氈<pc>。</pc>戶<num value="2813">二千八百一十三</num>
+<pc>，</pc>口<num value="9641">九千六百四十一</num>
+<pc>。</pc>縣<num value="2">二</num>
+<pc>：</pc>
+<num value="9">九</num>原<pc>，</pc>中下<pc>。</pc>永徽<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>置<pc>。</pc>有陵陽渠<pc>，</pc>建中<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>浚之以溉田<pc>，</pc>置屯<pc>，</pc>尋棄之<pc>。</pc>有咸應<pc>、</pc>永清<num value="2">二</num>渠<pc>，</pc>貞元中<pc>，</pc>
+<term>刺史</term>李景略開<pc>，</pc>溉田數<num value="100">百</num>頃<pc>。</pc>永豐<pc>。</pc>中下<pc>。</pc>永徽元年置<pc>。</pc>麟德元年別置豐安縣<pc>，</pc>天寶末省<pc>。</pc>東受降城<pc>，</pc>景雲<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>
+<pc>，</pc>朔方軍總管張仁願築<num value="3">三</num>受降城<pc>。</pc>寶曆元年<pc>，</pc>振武<term>節度使</term>張惟清以東城濱河<pc>，</pc>徙置綏遠烽南<pc>。</pc>中受降城<pc>，</pc>有拂雲推祠<pc>。</pc>接<placeName>靈州</placeName>境有關<pc>，</pc>元和<measure quantity="9" unit="years">
+<num value="9">九</num>年</measure>置<pc>；</pc>又有橫塞軍<pc>，</pc>本可敦城<pc>，</pc>天寶<num value="8">八</num>載置<pc>，</pc>
+<num value="12">十二</num>載廢<pc>。</pc>西<measure quantity="200" unit="LIs">
+<num value="200">二百</num>里</measure>大同川有天德軍<pc>，</pc>大同川之西有天安軍<pc>，</pc>皆天寶<num value="12">十二</num>載置<pc>。</pc>天德軍<pc>，</pc>乾元後徙屯永濟柵<pc>，</pc>故大同城也<pc>。</pc>元和<measure quantity="9" unit="years">
+<num value="9">九</num>年</measure>
+<pc>，</pc>
+<term>宰相</term>李吉甫奏修復舊城<pc>。</pc>北有安樂戍<pc>。</pc>西受降城<pc>。</pc>開元初為河所圮<pc>，</pc>
+<measure quantity="10" unit="years">
+<num value="10">十</num>年</measure>
+<pc>，</pc>總管張說于城東別置新城<pc>。</pc>北<measure quantity="300" unit="LIs">
+<num value="300">三百</num>里</measure>有鵜泉<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　單于大都護府<pc>，</pc>本雲中都護府<pc>，</pc>龍朔<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>置<pc>，</pc>麟德元年更名<pc>。</pc>土貢<pc>：</pc>胡女布<pc>、</pc>野馬胯革<pc>。</pc>戶<num value="2155">二千一百五十五</num>
+<pc>，</pc>口<num value="6877">六千八百七十七</num>
+<pc>。</pc>縣<num value="1">一</num>
+<pc>：</pc>金河<pc>。</pc>中<pc>。</pc>天寶<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>置<pc>。</pc>本後魏道武所都<pc>。</pc>有雲伽關<pc>，</pc>後廢<pc>，</pc>大和<measure quantity="4" unit="years">
+<num value="4">四</num>年</measure>復置<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　安北大都護府<pc>，</pc>本燕然都護府<pc>，</pc>龍朔<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>曰瀚海都督府<pc>，</pc>總章<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>更名<pc>。</pc>開元<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>治中受降城<pc>，</pc>
+<measure quantity="10" unit="years">
+<num value="10">十</num>年</measure>徙治豐<pc>、</pc>
+<placeName>勝</placeName>
+<measure quantity="2" unit="prefectures">
+<num value="2">二</num>州</measure>之境<pc>，</pc>
+<measure quantity="12" unit="years">
+<num value="12">十二</num>年</measure>徙治天德軍<pc>。</pc>土貢<pc>：</pc>野馬胯革<pc>。</pc>戶<num value="2006">二千六</num>
+<pc>，</pc>口<num value="7498">七千四百九十八</num>
+<pc>。</pc>縣<num value="2">二</num>
+<pc>：</pc>陰山<pc>，</pc>上<pc>。</pc>天<date notBefore="1038" notAfter="1040">寶元</date>年置<pc>。</pc>通濟<pc>。</pc>上<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　鎮北大都護府<pc>。</pc>土貢<pc>：</pc>筼牛尾<pc>。</pc>縣<num value="2">二</num>
+<pc>。</pc>大同<pc>，</pc>上<pc>。</pc>長寧<pc>。</pc>上<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　右關內採訪使<pc>，</pc>以京官領<pc>。</pc>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="zh">新唐書</title>
+<title xml:lang="en">New History of the Tang</title>
+<author>
+<name>
+<choice>
+<sic>歐陽修</sic>
+</choice>
+</name>
+</author>
+</titleStmt>
+<publicationStmt>
+<p>This document is published under a CC Attribution-Share Alike License</p>
+</publicationStmt>
+<sourceDesc>
+<p>XXX</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="chapter" n="65">
+<div>
+<p>升<placeName>鄆</placeName>
+<pc>、</pc>
+<placeName>齊</placeName>
+<pc>、</pc>
+<placeName>兗</placeName>
+<measure quantity="3" unit="prefectures">
+<num value="3">三</num>州</measure>都<term>防禦使</term>為<term>節度使</term>
+<pc>，</pc>治<placeName>兗州</placeName>
+<pc>，</pc>增領<placeName>濮州</placeName>
+<pc>，</pc>尋以<placeName>濮州</placeName>隸河南節度<pc>。</pc>
+</p>
+</div>
+<div>
+<p>
+<placeName>徐州</placeName>領本州留後<pc>。</pc>
+</p>
+</div>
+<div>
+<p>沂海<term>節度使</term>罷領<placeName>徐州</placeName>
+<pc>。</pc>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

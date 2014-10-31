@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="zh">新唐書</title>
+<title xml:lang="en">New History of the Tang</title>
+<author>
+<name>
+<choice>
+<sic>歐陽修</sic>
+</choice>
+</name>
+</author>
+</titleStmt>
+<publicationStmt>
+<p>This document is published under a CC Attribution-Share Alike License</p>
+</publicationStmt>
+<sourceDesc>
+<p>XXX</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="chapter" n="44">
+<div>
+<p>　　唐制<pc>，</pc>取士之科<pc>，</pc>多因隋舊<pc>，</pc>然其大要有<num value="3">三</num>
+<pc>。</pc>由學館者曰生徒<pc>，</pc>由州縣者曰鄉貢<pc>，</pc>皆升於有司而進<name key="韓愈" type="zi">退之</name>
+<pc>。</pc>其科之目<pc>，</pc>有秀才<pc>，</pc>有明經<pc>，</pc>有俊士<pc>，</pc>有進士<pc>，</pc>有明法<pc>，</pc>有明字<pc>，</pc>有明算<pc>，</pc>有<num value="1">一</num>史<pc>，</pc>有<num value="3">三</num>史<pc>，</pc>有開元禮<pc>，</pc>有道舉<pc>，</pc>有童子<pc>。</pc>而明經之別<pc>，</pc>有<num value="5">五</num>經<pc>，</pc>有<num value="3">三</num>經<pc>，</pc>有<num value="2">二</num>經<pc>，</pc>有學究<num value="1">一</num>經<pc>，</pc>有<num value="3">三</num>禮<pc>，</pc>有<num value="3">三</num>傳<pc>，</pc>有史科<pc>。</pc>此歲舉之常選也<pc>。</pc>其天子自詔者曰制舉<pc>，</pc>所以待非常之才焉<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　凡學<num value="6">六</num>
+<pc>，</pc>皆隸於國子監<pc>：</pc>國子學<pc>，</pc>生<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>，</pc>以文武<num value="3">三</num>品以上子孫若從<num value="2">二</num>品以上曾孫及勳官<num value="2">二</num>品<pc>、</pc>縣公<pc>、</pc>京官<num value="4">四</num>品帶<num value="3">三</num>品勳封之子為之<pc>；</pc>太學<pc>，</pc>生<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>
+<pc>，</pc>以<num value="5">五</num>品以上子孫<pc>、</pc>職事官<num value="5">五</num>品期親若<num value="3">三</num>品曾孫及勳官<num value="3">三</num>品以上有封之子為之<pc>；</pc>
+<num value="4">四</num>門學<pc>，</pc>生<measure quantity="300" unit="people">
+<num value="300">千三百</num>人</measure>
+<pc>，</pc>其<measure quantity="500" unit="people">
+<num value="500">五百</num>人</measure>以勳官<num value="3">三</num>品以上無封<pc>、</pc>
+<num value="4">四</num>品有封及文武<num value="7">七</num>品以上子為之<pc>，</pc>
+<measure quantity="800" unit="people">
+<num value="800">八百</num>人</measure>以庶人之俊異者為之<pc>；</pc>律學<pc>，</pc>生<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>，</pc>書學<pc>，</pc>生<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>，</pc>算學<pc>，</pc>生<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>，</pc>以<num value="8">八</num>品以下子及庶人之通其學者為之<pc>。</pc>京都學生<measure quantity="80" unit="people">
+<num value="80">八十</num>人</measure>
+<pc>，</pc>大都督<pc>、</pc>中都督府<pc>、</pc>上州各<measure quantity="60" unit="people">
+<num value="60">六十</num>人</measure>
+<pc>，</pc>下都督府<pc>、</pc>中州各<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>，</pc>下州<measure quantity="40" unit="people">
+<num value="40">四十</num>人</measure>
+<pc>，</pc>京縣<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>，</pc>上縣<measure quantity="40" unit="people">
+<num value="40">四十</num>人</measure>
+<pc>，</pc>中縣<pc>、</pc>中下縣各<measure quantity="35" unit="people">
+<num value="35">三十五</num>人</measure>
+<pc>，</pc>下縣<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>。</pc>國子監生<pc>，</pc>
+<term>尚書</term>省補<pc>，</pc>祭酒統焉<pc>。</pc>州縣學生<pc>，</pc>州縣長官補<pc>，</pc>長史主焉<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　凡館<num value="2">二</num>
+<pc>：</pc>門下省有弘文館<pc>，</pc>生<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>；</pc>東宮有崇文館<pc>，</pc>生<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>。</pc>以皇緦麻以上親<pc>，</pc>皇太后<pc>、</pc>皇后大功以上親<pc>，</pc>
+<term>宰相</term>及散官<num value="1">一</num>品<pc>、</pc>功臣身食實封者<pc>、</pc>京官職事從<num value="3">三</num>品<pc>、</pc>中書黃門侍郎之子為之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　凡博士<pc>、</pc>助教<pc>，</pc>分經授諸生<pc>，</pc>未終經者無易業<pc>。</pc>凡生<pc>，</pc>限年<num value="14">十四</num>以上<pc>，</pc>
+<num value="19">十九</num>以下<pc>；</pc>律學<num value="18">十八</num>以上<pc>，</pc>
+<num value="25">二十五</num>以下<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　凡<pc>《</pc>
+<title>禮記</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>春秋左氏傳</title>
+<pc>》</pc>為大經<pc>，</pc>
+<pc>《</pc>
+<title>詩</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>周禮</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>儀禮</title>
+<pc>》</pc>為中經<pc>，</pc>
+<pc>《</pc>
+<title>易</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>
+<term>尚書</term>
+</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>春秋公羊傳</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>谷梁傳</title>
+<pc>》</pc>為小經<pc>。</pc>通<num value="2">二</num>經者<pc>，</pc>大經<pc>、</pc>小經各<num value="1">一</num>
+<pc>，</pc>若中經<num value="2">二</num>
+<pc>。</pc>通<num value="3">三</num>經者<pc>，</pc>大經<pc>、</pc>中經<pc>、</pc>小經各<num value="1">一</num>
+<pc>。</pc>通<num value="5">五</num>經者<pc>，</pc>大經皆通<pc>，</pc>餘經各<num value="1">一</num>
+<pc>，</pc>
+<pc>《</pc>
+<title>孝經</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>論語</title>
+<pc>》</pc>皆兼通之<pc>。</pc>凡治<pc>《</pc>
+<title>孝經</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>論語</title>
+<pc>》</pc>共限<num value="1">一</num>歲<pc>，</pc>
+<pc>《</pc>
+<title>
+<term>尚書</term>
+</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>公羊傳</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>谷梁傳</title>
+<pc>》</pc>各<num value="1">一</num>歲半<pc>，</pc>
+<pc>《</pc>
+<title>易</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>詩</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>周禮</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>儀禮</title>
+<pc>》</pc>各<num value="2">二</num>歲<pc>，</pc>
+<pc>《</pc>
+<title>禮記</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>左氏傳</title>
+<pc>》</pc>各<num value="3">三</num>歲<pc>。</pc>學書<pc>，</pc>日紙<num value="1">一</num>幅<pc>，</pc>間習時務策<pc>，</pc>讀<pc>《</pc>
+<title>國語</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>說文</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>字林</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>
+<num value="3">三</num>蒼</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>爾雅</title>
+<pc>》</pc>
+<pc>。</pc>凡書學<pc>，</pc>石經<num value="3">三</num>體限<num value="3">三</num>歲<pc>，</pc>
+<pc>《</pc>
+<title>說文</title>
+<pc>》</pc>
+<num value="2">二</num>歲<pc>，</pc>
+<pc>《</pc>
+<title>字林</title>
+<pc>》</pc>
+<num value="1">一</num>歲<pc>。</pc>凡算學<pc>，</pc>
+<pc>《</pc>
+<title>孫子</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>
+<num value="5">五</num>曹</title>
+<pc>》</pc>共限<num value="1">一</num>歲<pc>，</pc>
+<pc>《</pc>
+<title>
+<num value="9">九</num>章</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>海島</title>
+<pc>》</pc>共<num value="3">三</num>歲<pc>，</pc>
+<pc>《</pc>
+<title>張丘建</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>夏侯陽</title>
+<pc>》</pc>各<num value="1">一</num>歲<pc>，</pc>
+<pc>《</pc>
+<title>周髀</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>
+<num value="5">五</num>經算</title>
+<pc>》</pc>共<num value="1">一</num>歲<pc>，</pc>
+<pc>《</pc>
+<title>綴術</title>
+<pc>》</pc>
+<num value="4">四</num>歲<pc>，</pc>
+<pc>《</pc>
+<title>緝古</title>
+<pc>》</pc>
+<num value="3">三</num>歲<pc>，</pc>
+<pc>《</pc>
+<title>記遺</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>
+<num value="3">三</num>等數</title>
+<pc>》</pc>皆兼習之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　旬給假<measure quantity="1" unit="day">
+<num value="1">一</num>日</measure>
+<pc>。</pc>前假<pc>，</pc>博士考試<pc>，</pc>讀者<num value="1000">千</num>言試<num value="1">一</num>帖<pc>，</pc>帖<num value="3">三</num>言<pc>，</pc>講者<num value="2000">二千</num>言問大義<num value="1">一</num>條<pc>，</pc>總<num value="3">三</num>條通<num value="2">二</num>為第<pc>，</pc>不及者有罰<pc>。</pc>歲終<pc>，</pc>通<measure quantity="1" unit="year">
+<num value="1">一</num>年</measure>之業<pc>，</pc>口問大義<num value="10">十</num>條<pc>，</pc>通<num value="8">八</num>為上<pc>，</pc>
+<num value="6">六</num>為中<pc>，</pc>
+<num value="5">五</num>為下<pc>。</pc>並<num value="3">三</num>下與在學<num value="9">九</num>歲<pc>、</pc>律生<num value="6">六</num>歲不堪貢者罷歸<pc>。</pc>諸學生通<num value="2">二</num>經<pc>、</pc>俊士通<num value="3">三</num>經已及第而願留者<pc>，</pc>
+<num value="4">四</num>門學生補太學<pc>，</pc>太學生補國子學<pc>。</pc>每歲<measure quantity="5" unit="months">
+<num value="5">五</num>月</measure>有田假<pc>，</pc>
+<measure quantity="9" unit="months">
+<num value="9">九</num>月</measure>有授衣假<pc>，</pc>
+<num value="200">二百</num>裏外給程<pc>。</pc>其不帥教及歲中違程滿<measure quantity="30" unit="days">
+<num value="30">三十</num>日</measure>
+<pc>，</pc>事故<measure quantity="100" unit="days">
+<num value="100">百</num>日</measure>
+<pc>，</pc>緣親病<measure quantity="200" unit="days">
+<num value="200">二百</num>日</measure>
+<pc>，</pc>皆罷歸<pc>。</pc>既罷<pc>，</pc>條其狀下之屬所<pc>，</pc>
+<num value="5">五</num>品以上子孫送兵部<pc>，</pc>准廕配色<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　每歲仲冬<pc>，</pc>州<pc>、</pc>縣<pc>、</pc>館<pc>、</pc>監舉其成者送之<term>尚書</term>省<pc>；</pc>而舉選不繇館<pc>、</pc>學者<pc>，</pc>謂之鄉貢<pc>，</pc>皆懷牒自列於州<pc>、</pc>縣<pc>。</pc>試已<pc>，</pc>長吏以鄉飲酒禮<pc>，</pc>會屬僚<pc>，</pc>設賓主<pc>，</pc>陳俎豆<pc>，</pc>備管弦<pc>，</pc>牲用少牢<pc>，</pc>歌<pc>《</pc>
+<title>鹿鳴</title>
+<pc>》</pc>之詩<pc>，</pc>因與耆艾敘長少焉<pc>。</pc>既至省<pc>，</pc>皆疏名列到<pc>，</pc>結款通保及所居<pc>，</pc>始由戶部集閱<pc>，</pc>而關於考功<term>員外郎</term>試之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　凡秀才<pc>，</pc>試方略策<num value="5">五</num>道<pc>，</pc>以文理通粗為上上<pc>、</pc>上中<pc>、</pc>上下<pc>、</pc>中上<pc>，</pc>凡<num value="4">四</num>等為及第<pc>。</pc>凡明經<pc>，</pc>先帖文<pc>，</pc>然後口試<pc>，</pc>經問大義<num value="10">十</num>條<pc>，</pc>答時務策<num value="3">三</num>道<pc>，</pc>亦為<num value="4">四</num>等<pc>。</pc>凡<pc>《</pc>
+<title>開元禮</title>
+<pc>》</pc>
+<pc>，</pc>通大義<num value="100">百</num>條<pc>、</pc>策<num value="3">三</num>道者<pc>，</pc>超資與官<pc>；</pc>義通<num value="70">七十</num>
+<pc>、</pc>策通<num value="2">二</num>者<pc>，</pc>及第<pc>。</pc>散<pc>、</pc>試官能通者<pc>，</pc>依正員<pc>。</pc>凡<num value="3">三</num>傳科<pc>，</pc>
+<pc>《</pc>
+<title>左氏傳</title>
+<pc>》</pc>問大義<num value="50">五十</num>條<pc>，</pc>
+<pc>《</pc>
+<title>公羊</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>谷梁傳</title>
+<pc>》</pc>
+<num value="30">三十</num>條<pc>，</pc>策皆<num value="3">三</num>道<pc>，</pc>義通<num value="7">七</num>以上<pc>、</pc>策通<num value="2">二</num>以上為第<pc>，</pc>白身視<num value="5">五</num>經<pc>，</pc>有出身及前資官視學究<num value="1">一</num>經<pc>。</pc>凡史科<pc>，</pc>每史問大義<num value="100">百</num>條<pc>、</pc>策<num value="3">三</num>道<pc>，</pc>義通<num value="7">七</num>
+<pc>、</pc>策通<num value="2">二</num>以上為第<pc>。</pc>能通<num value="1">一</num>史者<pc>，</pc>白身視<num value="5">五</num>經<pc>、</pc>
+<num value="3">三</num>傳<pc>，</pc>有出身及前資官視學究<num value="1">一</num>經<pc>；</pc>
+<num value="3">三</num>史皆通者<pc>，</pc>獎擢之<pc>。</pc>凡童子科<pc>，</pc>
+<num value="10">十</num>歲以下能通<num value="1">一</num>經及<pc>《</pc>
+<title>孝經</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>論語</title>
+<pc>》</pc>
+<pc>，</pc>卷誦文<num value="10">十</num>
+<pc>，</pc>通者予官<pc>；</pc>通<num value="7">七</num>
+<pc>，</pc>予出身<pc>。</pc>凡進士<pc>，</pc>試時務策<num value="5">五</num>道<pc>、</pc>帖<num value="1">一</num>大經<pc>，</pc>經<pc>、</pc>策全通為甲第<pc>；</pc>策通<num value="4">四</num>
+<pc>、</pc>帖過<num value="4">四</num>以上為乙第<pc>。</pc>凡明法<pc>，</pc>試律<num value="7">七</num>條<pc>、</pc>令<num value="3">三</num>條<pc>，</pc>全通為甲第<pc>，</pc>通<num value="8">八</num>為乙第<pc>。</pc>凡書學<pc>，</pc>先口試<pc>，</pc>通<pc>，</pc>乃墨試<pc>《</pc>
+<title>說文</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>字林</title>
+<pc>》</pc>
+<num value="20">二十</num>條<pc>，</pc>通<num value="18">十八</num>為第<pc>。</pc>凡算學<pc>，</pc>錄大義本條為問答<pc>，</pc>明數造術<pc>，</pc>詳明術理<pc>，</pc>然後為通<pc>。</pc>試<pc>《</pc>
+<title>
+<num value="9">九</num>章</title>
+<pc>》</pc>
+<num value="3">三</num>條<pc>、</pc>
+<pc>《</pc>
+<title>海島</title>
+<pc>》</pc>
+<pc>《</pc>
+<title>孫子</title>
+<pc>》</pc>
+<pc>《</pc>
+<title>
+<num value="5">五</num>曹</title>
+<pc>》</pc>
+<pc>《</pc>
+<title>張丘建</title>
+<pc>》</pc>
+<pc>《</pc>
+<title>夏侯陽</title>
+<pc>》</pc>
+<pc>《</pc>
+<title>周髀</title>
+<pc>》</pc>
+<pc>《</pc>
+<title>
+<num value="5">五</num>經算</title>
+<pc>》</pc>各<num value="1">一</num>條<pc>，</pc>
+<num value="10">十</num>通<num value="6">六</num>
+<pc>，</pc>
+<pc>《</pc>
+<title>記遺</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>
+<num value="3">三</num>等數</title>
+<pc>》</pc>帖讀<num value="10">十</num>得<num value="9">九</num>
+<pc>，</pc>為第<pc>。</pc>試<pc>《</pc>
+<title>綴術</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>輯古</title>
+<pc>》</pc>
+<pc>，</pc>錄大義為問答者<pc>，</pc>明數造術<pc>，</pc>詳明術理<pc>，</pc>無注者合數造術<pc>，</pc>不失義理<pc>，</pc>然後為通<pc>。</pc>
+<pc>《</pc>
+<title>綴術</title>
+<pc>》</pc>
+<num value="7">七</num>條<pc>、</pc>
+<pc>《</pc>
+<title>輯古</title>
+<pc>》</pc>
+<num value="3">三</num>條<pc>，</pc>
+<num value="10">十</num>通<num value="6">六</num>
+<pc>，</pc>
+<pc>《</pc>
+<title>記遺</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>
+<num value="3">三</num>等數</title>
+<pc>》</pc>帖讀<num value="10">十</num>得<num value="9">九</num>
+<pc>，</pc>為第<pc>。</pc>落經者<pc>，</pc>雖通<num value="6">六</num>
+<pc>，</pc>不第<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　凡弘文<pc>、</pc>崇文生<pc>，</pc>試<num value="1">一</num>大經<pc>、</pc>
+<num value="1">一</num>小經<pc>，</pc>或<num value="2">二</num>中經<pc>，</pc>或<pc>《</pc>
+<title>史記</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>前後漢書</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>
+<date notBefore="9999" notAfter="9999">
+<num value="3">三</num>國</date>志</title>
+<pc>》</pc>各<num value="1">一</num>
+<pc>，</pc>或時務策<num value="5">五</num>道<pc>。</pc>經史皆試策<num value="10">十</num>道<pc>。</pc>經通<num value="6">六</num>
+<pc>，</pc>史及時務策通<num value="3">三</num>
+<pc>，</pc>皆帖<pc>《</pc>
+<title>孝經</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>論語</title>
+<pc>》</pc>共<num value="10">十</num>條通<num value="6">六</num>
+<pc>，</pc>為第<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　凡貢舉非其人者<pc>、</pc>廢舉者<pc>、</pc>校試不以實者<pc>，</pc>皆有罰<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　其教人取士著於令者<pc>，</pc>大略如此<pc>。</pc>而士之進取之方<pc>，</pc>與上之好惡<pc>、</pc>所以育材養士<pc>、</pc>招來獎進之意<pc>，</pc>有司選士之法<pc>，</pc>因時增損不同<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　自高祖初入長安<pc>，</pc>開大丞相府<pc>，</pc>下令置生員<pc>，</pc>自京師至於州縣皆有數<pc>。</pc>既即位<pc>，</pc>又詔秘書外省別立小學<pc>，</pc>以教宗室子孫及功臣子弟<pc>。</pc>其後又詔諸州明經<pc>、</pc>秀才<pc>、</pc>俊士<pc>、</pc>進士明于理體為鄉里稱者<pc>，</pc>縣考試<pc>，</pc>州長重覆<pc>，</pc>歲隨方物入貢<pc>；</pc>吏民子弟學藝者<pc>，</pc>皆送於京學<pc>，</pc>為設考課之法<pc>。</pc>州<pc>、</pc>縣<pc>、</pc>鄉皆置學焉<pc>。</pc>及太宗即位<pc>，</pc>益崇儒術<pc>。</pc>乃于門下別置弘文館<pc>，</pc>又增置書<pc>、</pc>律學<pc>，</pc>進士加讀經<pc>、</pc>史<num value="1">一</num>部<pc>。</pc>
+<measure quantity="13" unit="years">
+<num value="13">十三</num>年</measure>
+<pc>，</pc>東宮置崇文館<pc>。</pc>自天下初定<pc>，</pc>增築學舍至<num value="200">千二百</num>區<pc>，</pc>雖<num value="7">七</num>營飛騎<pc>，</pc>亦置生<pc>，</pc>遣博士為授經<pc>。</pc>
+<num value="4">四</num>夷若高麗<pc>、</pc>
+<num value="100">百</num>濟<pc>、</pc>新羅<pc>、</pc>高昌<pc>、</pc>吐蕃<pc>，</pc>相繼遣子弟入學<pc>，</pc>遂至<num value="8000">八千</num>餘人<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　高宗永徽<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>始停秀才科<pc>。</pc>龍朔<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>東都置國子監<pc>，</pc>明年以書學隸蘭台<pc>，</pc>算學隸秘閣<pc>，</pc>律學隸詳刑<pc>。</pc>上元<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>加試貢士<pc>《</pc>
+<title>老子</title>
+<pc>》</pc>策<pc>，</pc>明經<num value="2">二</num>條<pc>，</pc>進士<num value="3">三</num>條<pc>。</pc>國子監置大成<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>取已及第而聰明者為之<pc>。</pc>試書日誦<num value="1000">千</num>言<pc>，</pc>並日試策<pc>，</pc>所業<num value="10">十</num>通<num value="7">七</num>
+<pc>，</pc>然後補其祿俸<pc>，</pc>同直官<pc>。</pc>通<num value="4">四</num>經業成<pc>，</pc>上于<term>尚書</term>
+<pc>，</pc>吏部試之<pc>，</pc>登第者加<num value="1">一</num>階放選<pc>。</pc>其不第則習業如初<pc>，</pc>
+<num value="3">三</num>歲而又試<pc>，</pc>
+<num value="3">三</num>試而不中第<pc>，</pc>從常調<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　永隆<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>考功<term>員外郎</term>劉思立建言<pc>，</pc>明經多抄義條<pc>，</pc>進士唯誦舊策<pc>，</pc>皆亡實才<pc>，</pc>而有司以人數充第<pc>。</pc>乃詔自今明經試帖粗<num value="10">十</num>得<num value="6">六</num>以上<pc>，</pc>進士試雜文<num value="2">二</num>篇<pc>，</pc>通文律者然後試策<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　武后之亂<pc>，</pc>改易舊制頗多<pc>。</pc>中宗反正<pc>，</pc>詔宗室<num value="3">三</num>等以下<pc>、</pc>
+<num value="5">五</num>等以上未出身<pc>，</pc>願宿衛及任國子生<pc>，</pc>聽之<pc>。</pc>其家居業成而堪貢者<pc>，</pc>宗正寺試<pc>，</pc>送監舉如常法<pc>。</pc>
+<num value="3">三</num>衛番下日<pc>，</pc>願入學者<pc>，</pc>聽附國子學<pc>、</pc>太學及律館習業<pc>。</pc>蕃王及可汗子孫願入學者<pc>，</pc>附國子學讀書<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　玄宗開元<measure quantity="5" unit="years">
+<num value="5">五</num>年</measure>
+<pc>，</pc>始令鄉貢明經<pc>、</pc>進士見訖<pc>，</pc>國子監謁先師<pc>，</pc>學官開講問義<pc>，</pc>有司為具食<pc>，</pc>清資<num value="5">五</num>品以上官及朝集使皆往閱禮焉<pc>。</pc>
+<measure quantity="7" unit="years">
+<num value="7">七</num>年</measure>
+<pc>，</pc>又令弘文<pc>、</pc>崇文<pc>、</pc>國子生季<num value="1">一</num>朝參<pc>。</pc>及注<pc>《</pc>
+<title>老子道德經</title>
+<pc>》</pc>成<pc>，</pc>詔天下家藏其書<pc>，</pc>貢舉人滅<pc>《</pc>
+<title>
+<term>尚書</term>
+</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>論語</title>
+<pc>》</pc>策<pc>，</pc>而加試<pc>《</pc>
+<title>老子</title>
+<pc>》</pc>
+<pc>。</pc>又敕州縣學生年<num value="25">二十五</num>以下<pc>、</pc>
+<num value="8">八</num>品子若庶人<num value="21">二十一</num>以下通<num value="1">一</num>經及未通經而聰悟有文辭<pc>、</pc>史學者<pc>，</pc>入<num value="4">四</num>門學為俊士<pc>。</pc>即諸州貢舉省試不第<pc>，</pc>願入學者亦聽<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<measure quantity="24" unit="years">
+<num value="24">二十四</num>年</measure>
+<pc>，</pc>考功<term>員外郎</term>李昂為舉人詆訶<pc>，</pc>帝以<term>員外郎</term>望輕<pc>，</pc>遂移貢舉於禮部<pc>，</pc>以侍郎主之<pc>。</pc>禮部選士自此始<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　<measure quantity="29" unit="years">
+<num value="29">二十九</num>年</measure>
+<pc>，</pc>始置崇玄學<pc>，</pc>習<pc>《</pc>
+<title>老子</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>莊子</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>文子</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>列子</title>
+<pc>》</pc>
+<pc>，</pc>亦曰道舉<pc>。</pc>其生<pc>，</pc>京<pc>、</pc>都各<measure quantity="100" unit="people">
+<num value="100">百</num>人</measure>
+<pc>，</pc>諸州無常員<pc>。</pc>官秩<pc>、</pc>廕第同國子<pc>，</pc>舉送<pc>、</pc>課試如明經<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　天寶<num value="9">九</num>載<pc>，</pc>置廣文館于國學<pc>，</pc>以領生徒為進士者<pc>。</pc>舉人舊重兩監<pc>，</pc>後世祿者以京兆<pc>、</pc>同<pc>、</pc>華為榮<pc>，</pc>而不入學<pc>。</pc>
+<num value="12">十二</num>載<pc>，</pc>乃敕天下罷鄉貢<pc>，</pc>舉人不由國子及郡<pc>、</pc>縣學者<pc>，</pc>勿舉送<pc>。</pc>是歲<pc>，</pc>道舉停<pc>《</pc>
+<title>老子</title>
+<pc>》</pc>
+<pc>，</pc>加<pc>《</pc>
+<title>周易</title>
+<pc>》</pc>
+<pc>。</pc>
+<num value="14">十四</num>載<pc>，</pc>複鄉貢<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　代宗廣德<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>詔曰<pc>：</pc>
+<pc>「</pc>
+<quote>古者設太學<pc>，</pc>教胄子<pc>，</pc>雖年穀不登<pc>，</pc>兵革或動<pc>，</pc>而俎豆之事不廢<pc>。</pc>頃年戎車屢駕<pc>，</pc>諸生輟講<pc>，</pc>宜追學生在館習業<pc>，</pc>度支給廚米<pc>。</pc>
+</quote>
+<pc>」</pc>是歲<pc>，</pc>賈至為侍郎<pc>，</pc>建言歲方艱歉<pc>，</pc>舉人赴省者<pc>，</pc>兩都試之<pc>。</pc>兩都試人自此始<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　貞元<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>詔習<pc>《</pc>
+<title>開元禮</title>
+<pc>》</pc>者舉同<num value="1">一</num>經例<pc>，</pc>明經習律以代<pc>《</pc>
+<title>爾雅</title>
+<pc>》</pc>
+<pc>。</pc>是時弘文<pc>、</pc>崇文生未補者<pc>，</pc>務取員闕以補<pc>，</pc>速於登第<pc>，</pc>而用廕乖實<pc>，</pc>至有假市門資<pc>、</pc>變易昭穆及假人試藝者<pc>。</pc>
+<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>
+<pc>，</pc>詔宜據式考試<pc>，</pc>假代者論如法<pc>。</pc>初<pc>，</pc>禮部侍郎親故移試考功<pc>，</pc>謂之別頭<pc>。</pc>
+<measure quantity="16" unit="years">
+<num value="16">十六</num>年</measure>
+<pc>，</pc>
+<term>中書舍人</term>高郢奏罷<pc>，</pc>議者是之<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　元和<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>置東<term>都監</term>生<num value="100">一百</num>員<pc>。</pc>然自天寶後<pc>，</pc>學校益廢<pc>，</pc>生徒流散<pc>。</pc>永泰中<pc>，</pc>雖置西監生<pc>，</pc>而館無定員<pc>。</pc>於是始定生員<pc>：</pc>西京國子館生<measure quantity="80" unit="people">
+<num value="80">八十</num>人</measure>
+<pc>，</pc>太學<measure quantity="70" unit="people">
+<num value="70">七十</num>人</measure>
+<pc>，</pc>
+<num value="4">四</num>門<measure quantity="300" unit="people">
+<num value="300">三百</num>人</measure>
+<pc>，</pc>廣文<measure quantity="60" unit="people">
+<num value="60">六十</num>人</measure>
+<pc>，</pc>律館<measure quantity="20" unit="people">
+<num value="20">二十</num>人</measure>
+<pc>，</pc>書<pc>、</pc>算館各<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>；</pc>東都國子館<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>太學<measure quantity="15" unit="people">
+<num value="15">十五</num>人</measure>
+<pc>，</pc>
+<num value="4">四</num>門<measure quantity="50" unit="people">
+<num value="50">五十</num>人</measure>
+<pc>，</pc>廣文<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>律館<measure quantity="10" unit="people">
+<num value="10">十</num>人</measure>
+<pc>，</pc>書館<measure quantity="3" unit="people">
+<num value="3">三</num>人</measure>
+<pc>，</pc>算館<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>而已<pc>。</pc>明經停口義<pc>，</pc>復試墨義<num value="10">十</num>條<pc>。</pc>
+<num value="5">五</num>經取通<num value="5">五</num>
+<pc>，</pc>明經通<num value="6">六</num>
+<pc>。</pc>其嘗坐法及為州縣小吏<pc>，</pc>雖藝文可采<pc>，</pc>勿舉<pc>。</pc>
+<measure quantity="13" unit="years">
+<num value="13">十三</num>年</measure>
+<pc>，</pc>權知禮部侍郎庾承宣奏複考功別頭試<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　初<pc>，</pc>開元中<pc>，</pc>禮部考試畢<pc>，</pc>送中書門下詳覆<pc>，</pc>其後中廢<pc>。</pc>是歲<pc>，</pc>侍郎錢徽所舉送<pc>，</pc>覆試多不中選<pc>，</pc>由是貶官<pc>，</pc>而舉人雜文複送中書門下<pc>。</pc>長慶<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>
+<pc>，</pc>侍郎王起言<pc>：</pc>
+<pc>「</pc>
+<quote>故事<pc>，</pc>禮部已放榜<pc>，</pc>而中書門下始詳覆<pc>。</pc>今請先詳覆<pc>，</pc>而後放榜<pc>。</pc>
+</quote>
+<pc>」</pc>議者以起雖避嫌<pc>，</pc>然失貢職矣<pc>。</pc>
+<term>諫議大夫</term>殷侑言<pc>：</pc>
+<pc>「</pc>
+<quote>
+<pc>《</pc>
+<title>
+<num value="3">三</num>史</title>
+<pc>》</pc>為書<pc>，</pc>勸善懲惡<pc>，</pc>亞於<pc>《</pc>
+<title>
+<num value="6">六</num>經</title>
+<pc>》</pc>
+<pc>。</pc>比來史學都廢<pc>，</pc>至有身處班列<pc>，</pc>而朝廷舊章莫能知者<pc>。</pc>
+</quote>
+<pc>」</pc>於是立史科及<num value="3">三</num>傳科<pc>。</pc>大和<measure quantity="3" unit="years">
+<num value="3">三</num>年</measure>
+<pc>，</pc>高鍇為考功<term>員外郎</term>
+<pc>，</pc>取士有不當<pc>，</pc>監察禦史姚中立又奏停考功別頭試<pc>。</pc>
+<measure quantity="6" unit="years">
+<num value="6">六</num>年</measure>
+<pc>，</pc>侍郎賈餗又奏複之<pc>。</pc>
+<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>
+<pc>，</pc>
+<term>宰相</term>王涯以為<pc>「</pc>
+<quote>禮部取士<pc>，</pc>乃先以榜示中書<pc>，</pc>非至公之道<pc>。</pc>自今<num value="1">一</num>委有司<pc>，</pc>以所試雜文<pc>、</pc>鄉貫<pc>、</pc>
+<num value="3">三</num>代名諱送中書門下</quote>
+<pc>」</pc>
+<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　大抵眾科之目<pc>，</pc>進士尤為貴<pc>，</pc>其得人亦最為盛焉<pc>。</pc>方其取以辭章<pc>，</pc>類若浮文而少實<pc>；</pc>及其臨事設施<pc>，</pc>奮其事業<pc>，</pc>隱然為國名臣者<pc>，</pc>不可勝數<pc>，</pc>遂使時君篤意<pc>，</pc>以謂莫此之尚<pc>。</pc>及其後世<pc>，</pc>俗益媮薄<pc>，</pc>上下交疑<pc>，</pc>因以謂按其聲病<pc>，</pc>可以為有司之責<pc>，</pc>舍是則汗漫而無所守<pc>，</pc>遂不復能易<pc>。</pc>嗚呼<pc>，</pc>乃知<num value="3">三</num>代鄉里德行之舉<pc>，</pc>非至治之隆莫能行也<pc>。</pc>太宗時<pc>，</pc>
+<placeName>冀州</placeName>進士張昌齡<pc>、</pc>王公謹有名于當時<pc>，</pc>考功<term>員外郎</term>王師旦不署以第<pc>。</pc>太宗問其故<pc>，</pc>對曰<pc>：</pc>
+<pc>「</pc>
+<quote>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>者<pc>，</pc>皆文采浮華<pc>，</pc>擢之將誘後生而弊風俗<pc>。</pc>
+</quote>
+<pc>」</pc>其後<pc>，</pc>
+<measure quantity="2" unit="people">
+<num value="2">二</num>人</measure>者卒不能有立<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　寶應<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>禮部侍郎楊綰上疏言<pc>：</pc>
+<pc>「</pc>
+<quote>進士科起于隋大業中<pc>，</pc>是時猶試策<pc>。</pc>高宗朝<pc>，</pc>劉思立加進士雜文<pc>，</pc>明經填帖<pc>，</pc>故為進士者皆誦當代之文<pc>，</pc>而不通經史<pc>，</pc>明經者但記帖括<pc>。</pc>又投牒自舉<pc>，</pc>非古先哲王側席待賢之道<pc>。</pc>請依古察孝廉<pc>，</pc>其鄉閭孝友<pc>、</pc>信義<pc>、</pc>廉恥而通經者<pc>，</pc>縣薦之州<pc>，</pc>州試其所通之學<pc>，</pc>送於省<pc>。</pc>自縣至省<pc>，</pc>皆勿自投牒<pc>，</pc>其到狀<pc>、</pc>保辨<pc>、</pc>識牒皆停<pc>。</pc>而所習經<pc>，</pc>取大義<pc>，</pc>聽通諸家之學<pc>。</pc>每問經<num value="10">十</num>條<pc>，</pc>對策<num value="3">三</num>道<pc>，</pc>皆通<pc>，</pc>為上第<pc>，</pc>吏部官之<pc>；</pc>經義通<num value="8">八</num>
+<pc>，</pc>策通<num value="2">二</num>
+<pc>，</pc>為中第<pc>，</pc>與出身<pc>；</pc>下第<pc>，</pc>罷歸<pc>。</pc>
+<pc>《</pc>
+<title>論語</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>孝經</title>
+<pc>》</pc>
+<pc>、</pc>
+<pc>《</pc>
+<title>孟子</title>
+<pc>》</pc>兼為<num value="1">一</num>經<pc>，</pc>其明經<pc>、</pc>進士及道舉並停<pc>。</pc>
+</quote>
+<pc>」</pc>
+</p>
+</div>
+<div>
+<p>　　詔給事中李棲筠<pc>、</pc>李廙<pc>、</pc>
+<term>尚書</term>左丞賈至<pc>、</pc>京兆尹兼御史大夫嚴武議<pc>。</pc>棲筠等議曰<pc>：</pc>
+</p>
+</div>
+<div>
+<p>　　<pc>「</pc>
+<quote>夏之政忠<pc>，</pc>商之政敬<pc>，</pc>周之政文<pc>，</pc>然則文與忠敬皆統人行<pc>。</pc>且諡號述行<pc>，</pc>莫美于文<pc>，</pc>文興則忠敬存焉<pc>。</pc>故前代以文取士<pc>，</pc>本文行也<pc>，</pc>由辭觀行<pc>，</pc>則及辭焉<pc>。</pc>宣父稱顏子<pc>「</pc>不遷怒<pc>，</pc>不貳過</quote>
+<pc>」</pc>
+<pc>，</pc>謂之<pc>「</pc>
+<quote>好學</quote>
+<pc>」</pc>
+<pc>。</pc>今試學者以帖字為精通<pc>，</pc>不窮旨義<pc>，</pc>豈能知遷怒<pc>、</pc>貳過之道乎<pc>？</pc>考文者以聲病為是非<pc>，</pc>豈能知移風易俗化天下乎<pc>？</pc>是以上失其源<pc>，</pc>下襲其流<pc>，</pc>先王之道莫能行也<pc>。</pc>夫先王之道消<pc>，</pc>則小人之道長<pc>，</pc>亂臣賊<name key="蘇轍" type="zi">子由</name>是生焉<pc>！</pc>今取士試之小道<pc>，</pc>而不以遠大<pc>，</pc>是猶以蝸蚓之餌垂海<pc>，</pc>而望吞舟之魚<pc>，</pc>不亦難乎<pc>？</pc>所以食垂餌者皆小魚<pc>，</pc>就科目者皆小藝<pc>。</pc>且夏有天下<num value="400">四百</num>載<pc>，</pc>禹之道喪而商始興<pc>；</pc>商有天下<num value="600">六百</num>祀<pc>，</pc>湯之法棄而周始興<pc>；</pc>周有天下<measure quantity="800" unit="years">
+<num value="800">八百</num>年</measure>
+<pc>，</pc>文<pc>、</pc>武之政廢而秦始並焉<pc>。</pc>
+<num value="3">三</num>代之選士任賢<pc>，</pc>皆考實行<pc>，</pc>是以風俗淳<num value="1">一</num>
+<pc>，</pc>運祚長遠<pc>。</pc>漢興<pc>，</pc>監其然<pc>，</pc>尊儒術<pc>，</pc>尚名節<pc>，</pc>雖近戚竊位<pc>，</pc>強臣擅權<pc>，</pc>弱主外立<pc>，</pc>母后專政<pc>，</pc>而亦能終彼<num value="400">四百</num>
+<pc>，</pc>豈非學行之效邪<pc>？</pc>魏<pc>、</pc>晉以來<pc>，</pc>專尚浮侈<pc>，</pc>德義不修<pc>，</pc>故子孫速顛<pc>，</pc>享國不永也<pc>。</pc>今綰所請<pc>，</pc>實為正論<pc>。</pc>然自晉室之亂<pc>，</pc>南北分裂<pc>，</pc>人多僑處<pc>，</pc>必欲復古鄉舉裏選<pc>，</pc>竊恐未盡<pc>。</pc>請兼廣學校<pc>，</pc>以明訓誘<pc>。</pc>雖京師州縣皆有小學<pc>，</pc>兵革之後<pc>，</pc>生徒流離<pc>，</pc>儒臣<pc>、</pc>師氏<pc>，</pc>祿廩無向<pc>。</pc>請增博士員<pc>，</pc>厚其稟稍<pc>，</pc>選通儒碩生<pc>，</pc>間居其職<pc>。</pc>
+<num value="10">十</num>道大郡<pc>，</pc>置太學館<pc>，</pc>遣博士出外<pc>，</pc>兼領郡官<pc>，</pc>以教生徒<pc>。</pc>保桑梓者<pc>，</pc>鄉里舉焉<pc>；</pc>在流寓者<pc>，</pc>庠序推焉<pc>。</pc>朝而行之<pc>，</pc>夕見其利<pc>。</pc>
+<pc>」</pc>
+</p>
+</div>
+<div>
+<p>　　而大臣以為舉人循習<pc>，</pc>難於速變<pc>，</pc>請自來歲始<pc>。</pc>帝以問翰林學士<pc>，</pc>對曰<pc>：</pc>
+<pc>「</pc>
+<quote>舉進士久矣<pc>，</pc>廢之恐失其業<pc>。</pc>
+</quote>
+<pc>」</pc>乃詔明經<pc>、</pc>進士與孝廉兼行<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　先是<pc>，</pc>進士試詩<pc>、</pc>賦及時務策<num value="5">五</num>道<pc>，</pc>明經策<num value="3">三</num>道<pc>。</pc>建中<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>
+<term>中書舍人</term>趙贊權知貢舉<pc>，</pc>乃以箴<pc>、</pc>論<pc>、</pc>表<pc>、</pc>贊代詩<pc>、</pc>賦<pc>，</pc>而皆試策<num value="3">三</num>道<pc>。</pc>大和<measure quantity="8" unit="years">
+<num value="8">八</num>年</measure>
+<pc>，</pc>禮部複罷進士議論<pc>，</pc>而試詩<pc>、</pc>賦<pc>。</pc>文宗從內出題以試進士<pc>，</pc>謂侍臣曰<pc>：</pc>
+<pc>「</pc>
+<quote>吾患文格浮薄<pc>，</pc>昨自出題<pc>，</pc>所試差勝<pc>。</pc>
+</quote>
+<pc>」</pc>乃詔禮部歲取登第者<measure quantity="30" unit="people">
+<num value="30">三十</num>人</measure>
+<pc>，</pc>苟無其人<pc>，</pc>不必充其數<pc>。</pc>是時<pc>，</pc>文宗好學嗜古<pc>，</pc>鄭覃以經術位<term>宰相</term>
+<pc>，</pc>深嫉進士浮薄<pc>，</pc>屢請罷之<pc>。</pc>文宗曰<pc>：</pc>
+<pc>「</pc>
+<quote>敦厚浮薄<pc>，</pc>色色有之<pc>，</pc>進士科取人<measure quantity="200" unit="years">
+<num value="200">二百</num>年</measure>矣<pc>，</pc>不可遽廢<pc>。</pc>
+</quote>
+<pc>」</pc>因得不罷<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　武宗即位<pc>，</pc>
+<term>宰相</term>李德裕尤惡進士<pc>。</pc>初<pc>，</pc>舉人既及第<pc>，</pc>綴行通名<pc>，</pc>詣主司第謝<pc>。</pc>其制<pc>，</pc>序立西階下<pc>，</pc>北上東向<pc>；</pc>主人席東階下<pc>。</pc>西向<pc>；</pc>諸生拜<pc>，</pc>主司答拜<pc>；</pc>乃敘齒<pc>，</pc>謝恩<pc>，</pc>遂升階<pc>，</pc>與公卿觀者皆坐<pc>；</pc>酒數行<pc>，</pc>乃赴期集<pc>。</pc>又有曲江會<pc>、</pc>題名席<pc>。</pc>至是<pc>，</pc>德裕奏<pc>：</pc>
+<pc>「</pc>
+<quote>國家設科取士<pc>，</pc>而附黨背公<pc>，</pc>自為門生<pc>。</pc>自今<num value="1">一</num>見有司而止<pc>，</pc>其期集<pc>、</pc>參謁<pc>、</pc>曲江題名皆罷<pc>。</pc>
+</quote>
+<pc>」</pc>德裕嘗論公卿子弟艱于科舉<pc>，</pc>武宗曰<pc>：</pc>
+<pc>「</pc>
+<quote>向聞楊虞卿兄弟朋比貴勢<pc>，</pc>妨平進之路<pc>。</pc>昨黜楊知至<pc>、</pc>鄭樸等<pc>，</pc>抑其太甚耳<pc>。</pc>有司不識朕意<pc>，</pc>不放子弟<pc>，</pc>即過矣<pc>，</pc>但取實藝可也<pc>。</pc>
+</quote>
+<pc>」</pc>德裕曰<pc>：</pc>
+<pc>「</pc>
+<quote>鄭肅<pc>、</pc>封敖子弟皆有才<pc>，</pc>不敢應舉<pc>。</pc>臣無名第<pc>，</pc>不當非進士<pc>。</pc>然臣祖天寶末以仕進無他岐<pc>，</pc>勉強隨計<pc>，</pc>
+<num value="1">一</num>舉登第<pc>。</pc>自後家不置<pc>《</pc>
+<title>文選</title>
+<pc>》</pc>
+<pc>，</pc>蓋惡其不根藝實<pc>。</pc>然朝廷顯官<pc>，</pc>須公卿子弟為之<pc>。</pc>何者<pc>？</pc>少習其業<pc>，</pc>目熟朝廷事<pc>，</pc>台閣之儀<pc>，</pc>不教而自成<pc>。</pc>寒士縱有出人之才<pc>，</pc>固不能閑習也<pc>。</pc>則子弟未易可輕<pc>。</pc>
+</quote>
+<pc>」</pc>德裕之論<pc>，</pc>偏異蓋如此<pc>。</pc>然進士科當唐之晚節<pc>，</pc>尤為浮薄<pc>，</pc>世所共患也<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　所謂制舉者<pc>，</pc>其來遠矣<pc>。</pc>自漢以來<pc>，</pc>天子常稱制詔道其所欲問而親策之<pc>。</pc>
+<date notBefore="9999" notAfter="9999">唐</date>興<pc>，</pc>世崇儒學<pc>，</pc>雖其時君賢愚好惡不同<pc>，</pc>而樂善求賢之意未始少怠<pc>，</pc>故自京師外至州縣<pc>，</pc>有司常選之士<pc>，</pc>以時而舉<pc>。</pc>而天子又自詔<num value="4">四</num>方德行<pc>、</pc>才能<pc>、</pc>文學之士<pc>，</pc>或高蹈幽隱與其不能自達者<pc>，</pc>下至軍謀將略<pc>、</pc>翹關拔山<pc>、</pc>絕藝奇伎莫不兼取<pc>。</pc>其為名目<pc>，</pc>隨其人主臨時所欲<pc>，</pc>而列為定科者<pc>，</pc>如賢良方正<pc>、</pc>直言極諫<pc>、</pc>博通墳典達於教化<pc>、</pc>軍謀宏遠堪任將率<pc>、</pc>詳明政術可以理人之類<pc>，</pc>其名最著<pc>。</pc>而天子巡狩<pc>、</pc>行幸<pc>、</pc>封禪太山梁父<pc>，</pc>往往會見行在<pc>，</pc>其所以待之之禮甚優<pc>，</pc>而宏材偉論非常之人亦時出於其間<pc>，</pc>不為無得也<pc>。</pc>
+</p>
+</div>
+<div>
+<p>　　其外<pc>，</pc>又有武舉<pc>，</pc>蓋其起于武后之時<pc>。</pc>長安<measure quantity="2" unit="years">
+<num value="2">二</num>年</measure>
+<pc>，</pc>始置武舉<pc>。</pc>其制<pc>，</pc>有長垛<pc>、</pc>馬射<pc>、</pc>步射<pc>、</pc>平射<pc>、</pc>筒射<pc>，</pc>又有馬槍<pc>、</pc>翹關<pc>、</pc>負重<pc>、</pc>身材之選<pc>。</pc>翹關<pc>，</pc>長丈<num value="7">七</num>尺<pc>，</pc>徑<num value="3">三</num>寸半<pc>，</pc>凡<num value="10">十</num>舉後<pc>，</pc>手持關距<pc>，</pc>出處無過<num value="1">一</num>尺<pc>；</pc>負重者<pc>，</pc>負米<measure quantity="5" unit="HUs">
+<num value="5">五</num>斛</measure>
+<pc>，</pc>行<num value="20">二十</num>步<pc>：</pc>皆為中第<pc>，</pc>亦以鄉飲酒禮送兵部<pc>。</pc>其選用之法不足道<pc>，</pc>故不復書<pc>。</pc>
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>
