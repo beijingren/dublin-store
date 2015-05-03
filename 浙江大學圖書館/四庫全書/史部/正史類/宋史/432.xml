@@ -32,7 +32,7 @@
 </div>
 <div>
 <p>胡旦字<name key="暘胡旦" type="zi">周父</name>
-<pc>，</pc>濱州渤海人<pc>。</pc>少有雋才<pc>，</pc>博學能文辭<pc>。</pc>舉進士第<num value="1">一</num>
+<pc>，</pc>濱州渤海人<pc>。</pc>少有雋才<pc>，</pc>博學能文辭<pc>。</pc>舉<term>進士</term>第<num value="1">一</num>
 <pc>，</pc>為將作監丞<pc>、</pc>通判<placeName>升州</placeName>
 <pc>。</pc>時江南初平<pc>，</pc>汰李氏時所度僧<pc>，</pc>
 <num value="10">十</num>減<num value="42">六七</num>
@@ -183,7 +183,8 @@
 <title>山東野錄</title>
 <pc>》</pc>
 <num value="7">七</num>篇<pc>。</pc>年<num value="40">四十</num>餘<pc>，</pc>
-<name key="賈同" type="givenName">同</name>進士出身<pc>，</pc>真宗命改今名<pc>。</pc>王欽若方貴盛<pc>，</pc>聞<name key="賈同" type="givenName">同</name>名<pc>，</pc>欲致之<pc>，</pc>固謝不往<pc>。</pc>居<measure quantity="72" unit="years">
+<name key="賈同" type="givenName">同</name>
+<term>進士</term>出身<pc>，</pc>真宗命改今名<pc>。</pc>王欽若方貴盛<pc>，</pc>聞<name key="賈同" type="givenName">同</name>名<pc>，</pc>欲致之<pc>，</pc>固謝不往<pc>。</pc>居<measure quantity="72" unit="years">
 <num value="72">八九</num>年</measure>
 <pc>，</pc>始補曆城主簿<pc>。</pc>
 <persName>張知白</persName>薦為大理評事<pc>，</pc>通判<placeName>兗州</placeName>
@@ -210,7 +211,7 @@
 <div>
 <p>
 <persName>劉顏</persName>字<name key="劉顏" type="zi">子望</name>
-<pc>，</pc>彭城人<pc>。</pc>少孤<pc>，</pc>好古<pc>，</pc>學不專章句<pc>。</pc>師事高弁<pc>。</pc>舉進士第<pc>，</pc>以試秘書省校書郎知龍興縣<pc>，</pc>坐法免<pc>。</pc>久之<pc>，</pc>授<placeName>徐州</placeName>文學<pc>。</pc>居鄉裏<pc>，</pc>教授數<measure quantity="1000" unit="people">
+<pc>，</pc>彭城人<pc>。</pc>少孤<pc>，</pc>好古<pc>，</pc>學不專章句<pc>。</pc>師事高弁<pc>。</pc>舉<term>進士</term>第<pc>，</pc>以試秘書省校書郎知龍興縣<pc>，</pc>坐法免<pc>。</pc>久之<pc>，</pc>授<placeName>徐州</placeName>文學<pc>。</pc>居鄉裏<pc>，</pc>教授數<measure quantity="1000" unit="people">
 <num value="1000">十百</num>人</measure>
 <pc>。</pc>采漢<pc>、</pc>唐奏議為<pc>《</pc>
 <title>輔弼名對</title>
@@ -239,8 +240,11 @@
 <pc>，</pc>
 <placeName>濮州</placeName>雷澤人<pc>。</pc>弱冠<pc>，</pc>徒步從種放學於終南山<pc>，</pc>又學古文於<persName>柳開</persName>
 <pc>，</pc>與張景齊名<pc>。</pc>
-<date notBefore="995" notAfter="997">至道</date>中<pc>，</pc>以文謁王禹偁<pc>，</pc>禹偁奇之<pc>。</pc>舉進士<pc>，</pc>累官侍<term>禦史</term>
-<pc>。</pc>諫修玉清昭應宮<pc>，</pc>降知廣濟軍<pc>。</pc>尋以戶部判官試<placeName>開封府</placeName>進士<pc>，</pc>私發糊名<pc>，</pc>奪<num value="2">二</num>官<pc>。</pc>稍複知<placeName>單州</placeName>
+<date notBefore="995" notAfter="997">至道</date>中<pc>，</pc>以文謁王禹偁<pc>，</pc>禹偁奇之<pc>。</pc>舉<term>進士</term>
+<pc>，</pc>累官侍<term>禦史</term>
+<pc>。</pc>諫修玉清昭應宮<pc>，</pc>降知廣濟軍<pc>。</pc>尋以戶部判官試<placeName>開封府</placeName>
+<term>進士</term>
+<pc>，</pc>私發糊名<pc>，</pc>奪<num value="2">二</num>官<pc>。</pc>稍複知<placeName>單州</placeName>
 <pc>、</pc>
 <placeName>邢州</placeName>
 <pc>、</pc>
@@ -268,7 +272,7 @@
 <persName>孫複</persName>
 <pc>，</pc>字<name key="孫複" type="zi">明複</name>
 <pc>，</pc>
-<placeName>晉州</placeName>平陽人<pc>。</pc>舉進士不第<pc>，</pc>退居泰山<pc>。</pc>學<pc>《</pc>
+<placeName>晉州</placeName>平陽人<pc>。</pc>舉<term>進士</term>不第<pc>，</pc>退居泰山<pc>。</pc>學<pc>《</pc>
 <title>春秋</title>
 <pc>》</pc>
 <pc>，</pc>著<pc>《</pc>
@@ -315,7 +319,8 @@
 <persName>石介</persName>
 <pc>，</pc>字<name key="石介" type="zi">守道</name>
 <pc>，</pc>
-<placeName>兗州</placeName>奉符人<pc>。</pc>進士及第<pc>，</pc>曆<placeName>鄆州</placeName>
+<placeName>兗州</placeName>奉符人<pc>。</pc>
+<term>進士</term>及第<pc>，</pc>曆<placeName>鄆州</placeName>
 <pc>、</pc>南京推官<pc>。</pc>篤學有誌尚<pc>，</pc>樂善疾惡<pc>，</pc>喜聲名<pc>，</pc>遇事奮然敢為<pc>。</pc>
 <term>禦史</term>台辟為主簿<pc>，</pc>未至<pc>，</pc>以論赦書不當求<date notBefore="9999" notAfter="9999">
 <num value="5">五</num>代</date>及諸偽國後<pc>，</pc>罷為鎮南掌書記<pc>。</pc>代父丙遠官<pc>，</pc>為嘉州軍事判官<pc>。</pc>丁父母憂<pc>，</pc>耕徂徠山下<pc>，</pc>葬<num value="5">五</num>世之未葬者<num value="70">七十</num>喪<pc>。</pc>以<pc>《</pc>
@@ -550,7 +555,8 @@
 <placeName>福州</placeName>福清人<pc>。</pc>父高<pc>，</pc>
 <term>太常博士</term>
 <pc>，</pc>有治行<pc>。</pc>
-<name key="林概" type="givenName">概</name>幼警悟<pc>，</pc>舉進士<pc>，</pc>以秘書省校書郎知長興縣<pc>。</pc>歲大饑<pc>，</pc>富人閉糴以邀價<pc>，</pc>
+<name key="林概" type="givenName">概</name>幼警悟<pc>，</pc>舉<term>進士</term>
+<pc>，</pc>以秘書省校書郎知長興縣<pc>。</pc>歲大饑<pc>，</pc>富人閉糴以邀價<pc>，</pc>
 <name key="林概" type="givenName">概</name>出奉粟庭下<pc>，</pc>誘士豪輸數<num value="1000">千</num>石以飼饑者<pc>。</pc>
 </p>
 </div>
@@ -785,7 +791,7 @@
 </p>
 </div>
 <div>
-<p>登進士第<pc>，</pc>調洛交主簿<pc>，</pc>改中部令<pc>。</pc>範仲淹<num value="1">一</num>見奇之<pc>，</pc>辟彰武軍節度推官<pc>。</pc>用<persName>龐籍</persName>奏<pc>，</pc>遷著作佐郎<pc>、</pc>管勾鄜延等路經略安撫招討司機宜文字<pc>。</pc>時元昊擾邊<pc>，</pc>軍中經畫<pc>，</pc>
+<p>登<term>進士</term>第<pc>，</pc>調洛交主簿<pc>，</pc>改中部令<pc>。</pc>範仲淹<num value="1">一</num>見奇之<pc>，</pc>辟彰武軍節度推官<pc>。</pc>用<persName>龐籍</persName>奏<pc>，</pc>遷著作佐郎<pc>、</pc>管勾鄜延等路經略安撫招討司機宜文字<pc>。</pc>時元昊擾邊<pc>，</pc>軍中經畫<pc>，</pc>
 <name key="何涉" type="givenName">涉</name>預有力<pc>。</pc>元昊納款<pc>，</pc>籍召為<term>樞密使</term>
 <pc>，</pc>欲與之俱<pc>，</pc>
 <name key="何涉" type="givenName">涉</name>曰<pc>：</pc>
@@ -829,7 +835,7 @@
 <pc>，</pc>
 <placeName>福州</placeName>候官人<pc>。</pc>父平言<pc>，</pc>試<term>禦史</term>
 <pc>。</pc>
-<name key="王回" type="givenName">回</name>敦行孝友<pc>，</pc>質直平恕<pc>，</pc>造次必稽古人所為<pc>，</pc>而不為小廉曲謹以求名譽<pc>。</pc>嚐舉進士中第<pc>，</pc>為衛真簿<pc>，</pc>有所不合<pc>，</pc>稱病自免<pc>。</pc>
+<name key="王回" type="givenName">回</name>敦行孝友<pc>，</pc>質直平恕<pc>，</pc>造次必稽古人所為<pc>，</pc>而不為小廉曲謹以求名譽<pc>。</pc>嚐舉<term>進士</term>中第<pc>，</pc>為衛真簿<pc>，</pc>有所不合<pc>，</pc>稱病自免<pc>。</pc>
 </p>
 </div>
 <div>
@@ -962,7 +968,8 @@
 <persName>周堯卿</persName>
 <pc>，</pc>字<name key="周堯卿" type="zi">子俞</name>
 <pc>，</pc>道州永明人<pc>。</pc>警悟強記<pc>，</pc>以學行知名<pc>。</pc>天聖<measure quantity="2" unit="years">
-<num value="2">二</num>年</measure>舉進士<pc>，</pc>曆<placeName>連</placeName>
+<num value="2">二</num>年</measure>舉<term>進士</term>
+<pc>，</pc>曆<placeName>連</placeName>
 <pc>、</pc>衡<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>司理參軍<pc>、</pc>
 <placeName>桂州</placeName>司錄<pc>。</pc>知高安<pc>、</pc>寧化<num value="2">二</num>縣<pc>，</pc>提點刑獄紘入境<pc>，</pc>有被刑而耘苗者<pc>，</pc>紘就詢其故<pc>，</pc>對曰<pc>：</pc>
@@ -1054,7 +1061,7 @@
 <persName>王當</persName>
 <pc>，</pc>字<name key="王當" type="zi">子思</name>
 <pc>，</pc>
-<placeName>眉州</placeName>眉山人<pc>。</pc>幼好學<pc>，</pc>博覽古今<pc>，</pc>所取惟王佐大略<pc>。</pc>嚐謂<num value="3">三</num>公論道經邦<pc>，</pc>燮理陰陽<pc>，</pc>填撫<num value="4">四</num>方<pc>，</pc>親附<num value="100">百</num>姓<pc>，</pc>皆出於<num value="1">一</num>道<pc>，</pc>其言之雖大<pc>，</pc>其行之甚易<pc>。</pc>嚐舉進士不中<pc>，</pc>退居田野<pc>，</pc>歎曰<pc>：</pc>
+<placeName>眉州</placeName>眉山人<pc>。</pc>幼好學<pc>，</pc>博覽古今<pc>，</pc>所取惟王佐大略<pc>。</pc>嚐謂<num value="3">三</num>公論道經邦<pc>，</pc>燮理陰陽<pc>，</pc>填撫<num value="4">四</num>方<pc>，</pc>親附<num value="100">百</num>姓<pc>，</pc>皆出於<num value="1">一</num>道<pc>，</pc>其言之雖大<pc>，</pc>其行之甚易<pc>。</pc>嚐舉<term>進士</term>不中<pc>，</pc>退居田野<pc>，</pc>歎曰<pc>：</pc>
 <pc>“</pc>
 <quote>士之居世<pc>，</pc>苟不見其用<pc>，</pc>必見其言<pc>。</pc>
 </quote>
