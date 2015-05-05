@@ -320,7 +320,7 @@
 <num value="2">乙丑</num>
 <pc>，</pc>次鳳泉湯<pc>。</pc>
 <num value="8">辛未</num>
-<pc>，</pc>赦岐州及所過徒罪以下<pc>。</pc>
+<pc>，</pc>赦<placeName>岐州</placeName>及所過徒罪以下<pc>。</pc>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
 <num value="60">癸亥</num>
@@ -330,7 +330,8 @@
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <num value="56">己未</num>
-<pc>，</pc>詔免麟游<pc>、</pc>岐陽今歲課役<pc>，</pc>岐州及供頓縣半歲<pc>。</pc>
+<pc>，</pc>詔免麟游<pc>、</pc>岐陽今歲課役<pc>，</pc>
+<placeName>岐州</placeName>及供頓縣半歲<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <num value="34">丁酉</num>
@@ -1112,13 +1113,16 @@
 <num value="27">庚寅</num>
 <pc>，</pc>括州海溢<pc>。</pc>
 <num value="39">壬寅</num>
-<pc>，</pc>如岐州<pc>。</pc>
+<pc>，</pc>如<placeName>岐州</placeName>
+<pc>。</pc>
 <num value="42">乙巳</num>
-<pc>，</pc>赦岐州<pc>，</pc>賜高年粟帛<pc>。</pc>
+<pc>，</pc>赦<placeName>岐州</placeName>
+<pc>，</pc>賜高年粟帛<pc>。</pc>
 <measure quantity="10" unit="months">
 <num value="10">十</num>月</measure>
 <num value="54">丁巳</num>
-<pc>，</pc>至自岐州<pc>。</pc>
+<pc>，</pc>至自<placeName>岐州</placeName>
+<pc>。</pc>
 <measure quantity="11" unit="months">
 <num value="11">十一</num>月</measure>
 <num value="24">丁亥</num>
@@ -1185,7 +1189,9 @@
 <pc>，</pc>給復<placeName>雍</placeName>
 <pc>、</pc>
 <placeName>華</placeName>
-<pc>、</pc>同<pc>、</pc>
+<pc>、</pc>
+<placeName>同</placeName>
+<pc>、</pc>
 <placeName>岐</placeName>
 <pc>、</pc>
 <placeName>邠</placeName>
@@ -1312,7 +1318,8 @@
 <num value="19">壬午</num>
 <pc>，</pc>閻立本薨<pc>。</pc>
 <num value="32">乙未</num>
-<pc>，</pc>以皇太子納妃<pc>，</pc>赦岐州<pc>，</pc>賜酺<measure quantity="3" unit="days">
+<pc>，</pc>以皇太子納妃<pc>，</pc>赦<placeName>岐州</placeName>
+<pc>，</pc>賜酺<measure quantity="3" unit="days">
 <num value="3">三</num>日</measure>
 <pc>。</pc>
 <num value="42">乙巳</num>
@@ -1357,7 +1364,9 @@
 <num value="1">正</num>月</measure>
 <num value="56">己未</num>
 <pc>，</pc>給復<placeName>雍</placeName>
-<pc>、</pc>同<pc>、</pc>
+<pc>、</pc>
+<placeName>同</placeName>
+<pc>、</pc>
 <placeName>華</placeName>
 <pc>、</pc>
 <placeName>岐</placeName>
@@ -1672,7 +1681,9 @@
 <pc>，</pc>減殿中<pc>、</pc>太僕馬<pc>，</pc>省諸方貢獻<pc>，</pc>免<placeName>雍</placeName>
 <pc>、</pc>
 <placeName>岐</placeName>
-<pc>、</pc>華<pc>、</pc>同<measure quantity="4" unit="prefectures">
+<pc>、</pc>
+<placeName>華</placeName>
+<pc>、</pc>同<measure quantity="4" unit="prefectures">
 <num value="4">四</num>州</measure>
 <num value="2">二</num>歲稅<pc>，</pc>河南<pc>、</pc>河北<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>調<pc>。</pc>

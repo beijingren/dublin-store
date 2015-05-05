@@ -53,7 +53,8 @@
 <pc>、</pc>富平道<pc>、</pc>醴泉道<pc>、</pc>
 <placeName>同州</placeName>道<pc>、</pc>
 <placeName>華州</placeName>道<pc>、</pc>
-<placeName>寧州</placeName>道<pc>、</pc>岐州道<pc>、</pc>豳州道<pc>、</pc>西<placeName>麟州</placeName>道<pc>、</pc>
+<placeName>寧州</placeName>道<pc>、</pc>
+<placeName>岐州</placeName>道<pc>、</pc>豳州道<pc>、</pc>西<placeName>麟州</placeName>道<pc>、</pc>
 <placeName>涇州</placeName>道<pc>、</pc>宜州道<pc>，</pc>皆置府<pc>。</pc>
 <measure quantity="3" unit="years">
 <num value="3">三</num>年</measure>
@@ -61,7 +62,8 @@
 <num value="10000">萬</num>年</measure>道為參旗軍<pc>，</pc>長<name key="余靖" type="zi">安道</name>為鼓旗軍<pc>，</pc>富平道為玄戈軍<pc>，</pc>醴泉道為井鉞軍<pc>，</pc>
 <placeName>同州</placeName>道為羽林軍<pc>，</pc>
 <placeName>華州</placeName>道為騎官軍<pc>，</pc>
-<placeName>寧州</placeName>道為折威軍<pc>，</pc>岐州道為平道軍<pc>，</pc>豳州道為招搖軍<pc>，</pc>西<placeName>麟州</placeName>道為苑遊軍<pc>，</pc>
+<placeName>寧州</placeName>道為折威軍<pc>，</pc>
+<placeName>岐州</placeName>道為平道軍<pc>，</pc>豳州道為招搖軍<pc>，</pc>西<placeName>麟州</placeName>道為苑遊軍<pc>，</pc>
 <placeName>涇州</placeName>道為天紀軍<pc>，</pc>宜州道為天節軍<pc>；</pc>軍置將<pc>、</pc>副各<measure quantity="1" unit="people">
 <num value="1">一</num>人</measure>
 <pc>，</pc>以督耕戰<pc>，</pc>以車騎府統之<pc>。</pc>
@@ -210,7 +212,9 @@
 <pc>，</pc>
 <placeName>晉州</placeName>
 <num value="500">千五百</num>
-<pc>，</pc>岐州<num value="6000">六千</num>
+<pc>，</pc>
+<placeName>岐州</placeName>
+<num value="6000">六千</num>
 <pc>，</pc>
 <placeName>河南府</placeName>
 <num value="3000">三千</num>

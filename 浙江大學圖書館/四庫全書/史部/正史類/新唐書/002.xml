@@ -550,7 +550,9 @@
 <num value="10">十</num>月</measure>
 <num value="29">壬辰</num>
 <pc>，</pc>赦<placeName>岐</placeName>
-<pc>、</pc>隴<measure quantity="2" unit="prefectures">
+<pc>、</pc>
+<placeName>隴</placeName>
+<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>
 <pc>，</pc>免今歲租賦<pc>，</pc>降咸陽<pc>、</pc>始平<pc>、</pc>武功死罪以下<pc>。</pc>
 <num value="38">辛丑</num>
@@ -646,7 +648,9 @@
 <num value="5">戊辰</num>
 <pc>，</pc>如<num value="9">九</num>成宮<pc>。</pc>
 <num value="14">丁丑</num>
-<pc>，</pc>降雍<pc>、</pc>岐<pc>、</pc>豳<measure quantity="3" unit="prefectures">
+<pc>，</pc>降雍<pc>、</pc>
+<placeName>岐</placeName>
+<pc>、</pc>豳<measure quantity="3" unit="prefectures">
 <num value="3">三</num>州</measure>死罪以下<pc>，</pc>賜民<num value="80">八十</num>以上粟帛<pc>。</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
