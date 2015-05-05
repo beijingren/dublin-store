@@ -466,7 +466,9 @@
 <pc>，</pc>
 <placeName>涼州</placeName>將安脩仁執李軌以降<pc>。</pc>
 <num value="20">癸未</num>
-<pc>，</pc>曲赦涼<pc>、</pc>甘<pc>、</pc>瓜<pc>、</pc>鄯<pc>、</pc>肅<pc>、</pc>會<pc>、</pc>
+<pc>，</pc>曲赦涼<pc>、</pc>甘<pc>、</pc>瓜<pc>、</pc>鄯<pc>、</pc>肅<pc>、</pc>
+<placeName>會</placeName>
+<pc>、</pc>
 <placeName>蘭</placeName>
 <pc>、</pc>
 <placeName>河</placeName>
@@ -1273,7 +1275,8 @@
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <num value="6">己巳</num>
-<pc>，</pc>吐谷渾寇鄯州<pc>，</pc>
+<pc>，</pc>吐谷渾寇<placeName>鄯州</placeName>
+<pc>，</pc>
 <term>驃騎將軍</term>
 <persName>彭武傑</persName>死之<pc>。</pc>
 <num value="15">戊寅</num>
