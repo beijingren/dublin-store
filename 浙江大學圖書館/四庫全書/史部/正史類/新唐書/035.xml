@@ -2717,7 +2717,8 @@
 <num value="2">二</num>年</measure>
 <measure quantity="7" unit="months">
 <num value="7">七</num>月</measure>
-<num value="11">甲戌</num>日入時<pc>，</pc>有白氣亙天<pc>。</pc>
+<measure quantity="11" unit="days">
+<num value="11">甲戌</num>日</measure>入時<pc>，</pc>有白氣亙天<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
 <num value="55">戊午</num>夜<pc>，</pc>白霧起西北<pc>，</pc>亙天<pc>。</pc>
