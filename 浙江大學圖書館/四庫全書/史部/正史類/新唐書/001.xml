@@ -437,13 +437,16 @@
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <num value="17">庚辰</num>
-<pc>，</pc>涼州將安脩仁執李軌以降<pc>。</pc>
+<pc>，</pc>
+<placeName>涼州</placeName>將安脩仁執李軌以降<pc>。</pc>
 <num value="20">癸未</num>
 <pc>，</pc>曲赦涼<pc>、</pc>甘<pc>、</pc>瓜<pc>、</pc>鄯<pc>、</pc>肅<pc>、</pc>會<pc>、</pc>
 <placeName>蘭</placeName>
 <pc>、</pc>
 <placeName>河</placeName>
-<pc>、</pc>廓<measure quantity="9" unit="prefectures">
+<pc>、</pc>
+<placeName>廓</placeName>
+<measure quantity="9" unit="prefectures">
 <num value="9">九</num>州</measure>
 <pc>。</pc>
 <measure quantity="6" unit="months">
@@ -1005,7 +1008,7 @@
 <num value="10">癸酉</num>
 <pc>，</pc>
 <persName>裴寂</persName>為<term>尚書</term>左僕射<pc>，</pc>蕭瑀為<term>右僕射</term>
-<pc>，</pc>封德彝為中書令<pc>，</pc>吏部<term>尚書</term>趙恭仁兼中書令<pc>、</pc>檢校涼州諸軍事<pc>。</pc>
+<pc>，</pc>封德彝為中書令<pc>，</pc>吏部<term>尚書</term>趙恭仁兼中書令<pc>、</pc>檢校<placeName>涼州</placeName>諸軍事<pc>。</pc>
 <measure quantity="5" unit="months">
 <num value="5">五</num>月</measure>
 <num value="27">庚寅</num>
@@ -1250,7 +1253,8 @@
 <num value="52">乙卯</num>
 <pc>，</pc>至自周氏陂<pc>。</pc>
 <num value="54">丁巳</num>
-<pc>，</pc>突厥寇涼州<pc>，</pc>都督<pc>、</pc>長樂郡王幼良敗之<pc>。</pc>
+<pc>，</pc>突厥寇<placeName>涼州</placeName>
+<pc>，</pc>都督<pc>、</pc>長樂郡王幼良敗之<pc>。</pc>
 <measure quantity="4" unit="months">
 <num value="4">四</num>月</measure>
 <num value="18">辛巳</num>
