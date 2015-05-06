@@ -165,7 +165,9 @@
 <placeName>宣州</placeName>涇縣山水暴出<pc>，</pc>平地<num value="4">四</num>丈<pc>，</pc>溺死者<num value="2000">二千</num>餘人<pc>。</pc>
 <measure quantity="9" unit="months">
 <num value="9">九</num>月</measure>
-<pc>，</pc>括州暴風雨<pc>，</pc>海水溢<pc>，</pc>壞安固<pc>、</pc>永嘉<num value="2">二</num>縣<pc>。</pc>
+<pc>，</pc>括州暴風雨<pc>，</pc>海水溢<pc>，</pc>壞安固<pc>、</pc>
+<placeName>永嘉</placeName>
+<num value="2">二</num>縣<pc>。</pc>
 <measure quantity="4" unit="years">
 <num value="4">四</num>年</measure>
 <measure quantity="7" unit="months">
@@ -187,7 +189,8 @@
 <num value="2">二</num>年</measure>
 <measure quantity="6" unit="months">
 <num value="6">六</num>月</measure>
-<pc>，</pc>括州大風雨<pc>，</pc>海溢<pc>，</pc>壞永嘉<pc>、</pc>安固<num value="2">二</num>縣<pc>，</pc>溺死者<measure quantity="9070" unit="people">
+<pc>，</pc>括州大風雨<pc>，</pc>海溢<pc>，</pc>壞<placeName>永嘉</placeName>
+<pc>、</pc>安固<num value="2">二</num>縣<pc>，</pc>溺死者<measure quantity="9070" unit="people">
 <num value="9070">九千七十</num>人</measure>
 <pc>；</pc>
 <placeName>冀州</placeName>大雨<pc>，</pc>水準地深<num value="1">一</num>丈<pc>，</pc>壞民居<measure quantity="10000" unit="households">
