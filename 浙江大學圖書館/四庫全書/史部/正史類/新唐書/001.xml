@@ -905,7 +905,9 @@
 <num value="4">丁卯</num>
 <pc>，</pc>大赦<pc>，</pc>給復天下<measure quantity="1" unit="year">
 <num value="1">一</num>年</measure>
-<pc>，</pc>陝<pc>、</pc>鼎<pc>、</pc>函<pc>、</pc>虢<pc>、</pc>虞<pc>、</pc>
+<pc>，</pc>
+<placeName>陝</placeName>
+<pc>、</pc>鼎<pc>、</pc>函<pc>、</pc>虢<pc>、</pc>虞<pc>、</pc>
 <placeName>芮</placeName>
 <pc>、</pc>
 <placeName>豳</placeName>
@@ -1165,7 +1167,7 @@
 <num value="52">乙卯</num>
 <pc>，</pc>突厥寇邊<pc>。</pc>
 <num value="57">庚申</num>
-<pc>，</pc>皇太子出豳州道<pc>，</pc>
+<pc>，</pc>皇太子出<placeName>豳州</placeName>道<pc>，</pc>
 <persName>秦王世民</persName>出<placeName>秦州</placeName>道<pc>，</pc>以禦突厥<pc>。</pc>
 <num value="6">己巳</num>
 <pc>，</pc>吐谷渾陷<placeName>洮州</placeName>
@@ -1464,7 +1466,8 @@
 <placeName>巂州</placeName>地震山崩<pc>，</pc>遏江水<pc>。</pc>閏月<num value="56">己未</num>
 <pc>，</pc>
 <persName>秦王世民</persName>
-<pc>、</pc>齊王元吉屯于豳州<pc>，</pc>以備突厥<pc>。</pc>
+<pc>、</pc>齊王元吉屯于<placeName>豳州</placeName>
+<pc>，</pc>以備突厥<pc>。</pc>
 <measure quantity="8" unit="months">
 <num value="8">八</num>月</measure>
 <num value="6">己巳</num>
