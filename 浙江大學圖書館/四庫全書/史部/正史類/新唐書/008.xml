@@ -306,9 +306,11 @@
 <num value="33">丙申</num>
 <pc>，</pc>宋王結薨<pc>。</pc>
 <num value="45">戊申</num>
-<pc>，</pc>李陷宋州<pc>。</pc>
+<pc>，</pc>李陷<placeName>宋州</placeName>
+<pc>。</pc>
 <num value="53">丙辰</num>
-<pc>，</pc>袞鄆<term>節度使</term>曹華及李戰于宋州<pc>，</pc>敗之<pc>。</pc>
+<pc>，</pc>袞鄆<term>節度使</term>曹華及李戰于<placeName>宋州</placeName>
+<pc>，</pc>敗之<pc>。</pc>
 <num value="54">丁巳</num>
 <pc>，</pc>
 <placeName>忠武軍</placeName>
@@ -321,7 +323,9 @@
 <pc>，</pc>李伏誅<pc>。</pc>
 <num value="20">癸未</num>
 <pc>，</pc>詔瘞<placeName>汴</placeName>
-<pc>、</pc>宋<pc>、</pc>
+<pc>、</pc>
+<placeName>宋</placeName>
+<pc>、</pc>
 <placeName>鄭</placeName>
 <measure quantity="3" unit="prefectures">
 <num value="3">三</num>州</measure>戰亡者<pc>，</pc>稟其家<num value="3">三</num>歲<pc>。</pc>
@@ -1324,7 +1328,9 @@
 <num value="2">二</num>年</measure>
 <measure quantity="1" unit="month">
 <num value="1">正</num>月</measure>
-<pc>，</pc>宋<pc>、</pc>毫<measure quantity="2" unit="prefectures">
+<pc>，</pc>宋<pc>、</pc>
+<placeName>毫</placeName>
+<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>地震<pc>。</pc>
 <num value="36">己亥</num>
 <pc>，</pc>李德裕為司空<pc>。</pc>回鶻寇橫水柵<pc>，</pc>略天德<pc>、</pc>振武軍<pc>。</pc>
