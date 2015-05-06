@@ -1082,7 +1082,9 @@
 <placeName>疊</placeName>
 <measure quantity="3" unit="prefectures">
 <num value="3">三</num>州</measure>
-<pc>，</pc>岷州<term>總管</term>李長卿敗之<pc>。</pc>
+<pc>，</pc>
+<placeName>岷州</placeName>
+<term>總管</term>李長卿敗之<pc>。</pc>
 <num value="52">乙卯</num>
 <pc>，</pc>淮安郡王神通討<persName>徐圓朗</persName>
 <pc>。</pc>
@@ -1105,7 +1107,8 @@
 <num value="48">辛亥</num>
 <pc>，</pc>葬隋煬帝<pc>。</pc>
 <num value="51">甲寅</num>
-<pc>，</pc>吐谷渾寇岷州<pc>，</pc>
+<pc>，</pc>吐谷渾寇<placeName>岷州</placeName>
+<pc>，</pc>
 <placeName>益州</placeName>道行臺<term>左僕射</term>竇軌敗之<pc>。</pc>
 <num value="52">乙卯</num>
 <pc>，</pc>突厥寇邊<pc>。</pc>
