@@ -5793,7 +5793,8 @@
 </div>
 <div>
 <p>高範<pc>《</pc>
-<title>荊州先賢傳</title>
+<title>
+<placeName>荊州</placeName>先賢傳</title>
 <pc>》</pc>
 <measure quantity="3" unit="chapters">
 <num value="3">三</num>卷</measure>
@@ -6462,7 +6463,8 @@
 <placeName>
 <pc>《</pc>
 </placeName>
-<title>荊揚<measure quantity="2" unit="prefectures">
+<title>荊<placeName>揚</placeName>
+<measure quantity="2" unit="prefectures">
 <num value="2">二</num>州</measure>遷代記</title>
 <pc>》</pc>
 <measure quantity="4" unit="chapters">
@@ -11113,7 +11115,8 @@
 </div>
 <div>
 <p>郭仲產<pc>《</pc>
-<title>荊州記</title>
+<title>
+<placeName>荊州</placeName>記</title>
 <pc>》</pc>
 <measure quantity="2" unit="chapters">
 <num value="2">二</num>卷</measure>
